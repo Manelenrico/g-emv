@@ -1,92 +1,126 @@
 """
 Núcleo matemático: modelo de fuerzas oponentes tridimensional.
-
-Cada eje (F físico, R recursos, S social) tiene dos fuerzas:
-  f+  — fuerza de aproximación/placer
-  f-  — fuerza de evitación/displacer
-
-Relaciones fundamentales:
-  posición_a  = f+_a − f-_a   (estado neto observable)
-  tensión_a   = f+_a + f-_a   (intensidad/arousal en ese eje)
-
-La emoción emerge cuando el equilibrio de tensiones se rompe.
 """
 
 from __future__ import annotations
 import math
+from dataclasses import dataclass
 
 
-# ── Rangos físicos de las variables del agente ──────────────────────────────
-HP_EQ: float       = 75.0
-HP_SCALE: float    = 25.0
-HP_CAP: float      = 100.0
-
-ENERGY_EQ: float   = 10.0
-ENERGY_SCALE: float = 5.0
-ENERGY_CAP: float  = 20.0
-
-S_MAX: float = 2.0
-
-
-# ── Targets posicionales (dónde quiere estar el agente) ─────────────────────
-F_POS_TARGET: float = 1.0    # hp=100 → F=+1 (máximo alcanzable)
-R_POS_TARGET: float = 2.0    # energy=20 → R=+2 (máximo alcanzable)
-S_POS_TARGET: float = 0.8    # pertenencia social moderada
-
-# ── Targets de tensión (nivel de implicación deseado — no cero) ─────────────
-# Tensión < target → aburrimiento (poca implicación)
-# Tensión > target → estrés/arousal excesivo
-F_TEN_TARGET: float = 0.30
-R_TEN_TARGET: float = 0.30
-S_TEN_TARGET: float = 0.15
-
-# ── Pesos: posición vs tensión por eje ──────────────────────────────────────
-W_F_POS: float = 1.0;  W_F_TEN: float = 0.40
-W_R_POS: float = 1.0;  W_R_TEN: float = 0.40
-W_S_POS: float = 0.70; W_S_TEN: float = 0.25
-
-# ── Acoplamiento asimétrico ──────────────────────────────────────────────────
-# La tensión negativa física (nF alta = amenaza física) amplifica la urgencia
-# en los ejes R y S. Lo físico pesa más.
-F_COUPLING: float = 0.50
+# ════════════════════════════════════════════════════════════════════════════
+# PRINCIPIOS  (estructura matemática — no negociable sin cambiar la teoría)
+# ════════════════════════════════════════════════════════════════════════════
+#
+#  Por cada eje  a ∈ {F (físico), R (recursos), S (social)}:
+#    f⁺_a ≥ 0  fuerza de aproximación / placer
+#    f⁻_a ≥ 0  fuerza de evitación   / displacer
+#
+#  POSICIÓN  pos_a = f⁺_a − f⁻_a        (estado neto observable)
+#  TENSIÓN   ten_a = f⁺_a + f⁻_a        (intensidad / arousal del eje)
+#
+#  La distancia homeostática penaliza dos cosas independientes:
+#    1. Desviación posicional respecto al estado ideal.
+#    2. Desviación de tensión respecto al target de tensión (no cero).
+#       ten < target  →  understimulation  (señal geométrica de aburrimiento)
+#       ten > target  →  overstimulation   (señal de estrés/saturación)
+#
+#  ACOPLAMIENTO ASIMÉTRICO (principio, no calibración):
+#    La amenaza física (nF > 0) amplifica la urgencia en R y S.
+#    Forma: coupling = F_COUPLING · nF · [(pos_R − tgt_R)² + (pos_S − tgt_S)²]
+#
+#  LIMITACIÓN ESTRUCTURAL (honestidad):
+#    Con la descomposición max(0,·), f⁺ y f⁻ nunca son ambas positivas a la
+#    vez: ten_a = |pos_a|. Esto implica que posición y tensión son redundantes
+#    en el eje. Para capturar ambas como grados de libertad independientes
+#    se requeriría una descomposición con línea base (p.ej. cosh/sinh) o
+#    variables dinámicas separadas para f⁺ y f⁻.
+#
+# ════════════════════════════════════════════════════════════════════════════
 
 
-# ── Descomposición en fuerzas oponentes ─────────────────────────────────────
+# ════════════════════════════════════════════════════════════════════════════
+# CONSTANTES DE DOMINIO  (del agente y su entorno)
+# No son parámetros libres de la teoría, sino del contexto empírico.
+# ════════════════════════════════════════════════════════════════════════════
+
+HP_EQ: float        = 75.0   # salud de equilibrio
+HP_SCALE: float     = 25.0   # escala de normalización del eje F
+HP_CAP: float       = 100.0  # salud máxima alcanzable
+
+ENERGY_EQ: float    = 10.0   # energía de equilibrio
+ENERGY_SCALE: float = 5.0    # escala de normalización del eje R
+ENERGY_CAP: float   = 20.0   # energía máxima alcanzable
+
+S_MAX: float        = 2.0    # amplitud del eje social (−S_MAX a +S_MAX)
+
+
+# ════════════════════════════════════════════════════════════════════════════
+# CALIBRACIONES LIBRES  (parámetros ajustables sin cambiar la teoría)
+# Son la sintonización del modelo en este dominio.
+# Todos los experimentos varían solo un subconjunto de estos.
+# ════════════════════════════════════════════════════════════════════════════
+
+@dataclass
+class ModelConfig:
+    # Targets posicionales: dónde quiere estar el agente
+    f_pos_target: float = 1.0   # HP_CAP → pos_F = 1.0
+    r_pos_target: float = 2.0   # ENERGY_CAP → pos_R = 2.0
+    s_pos_target: float = 0.8   # pertenencia social moderada-alta
+
+    # Targets de tensión: nivel óptimo de arousal en cada eje (nunca cero)
+    # CLAVE DE FENOTIPO — el Experimento 1 varía solo r_ten_target:
+    #   Explorador → valor alto (quiere más arousal/estimulación)
+    #   Apático    → valor bajo  (se satisface con poco)
+    f_ten_target: float = 0.30
+    r_ten_target: float = 0.30
+    s_ten_target: float = 0.15
+
+    # Pesos relativos entre posición y tensión, por eje
+    w_f_pos: float = 1.0
+    w_f_ten: float = 0.40
+    w_r_pos: float = 1.0
+    w_r_ten: float = 0.40
+    w_s_pos: float = 0.70
+    w_s_ten: float = 0.25
+
+    # Coeficiente de acoplamiento asimétrico F → R, S
+    # Un valor mayor hace que la amenaza física domine toda la agenda
+    f_coupling: float = 0.50
+
+
+DEFAULT_CONFIG = ModelConfig()
+
+
+# ════════════════════════════════════════════════════════════════════════════
+# FUNCIONES PRINCIPALES
+# ════════════════════════════════════════════════════════════════════════════
 
 def opponent_forces(
-    hp: float,
-    energy: float,
-    s: float,
+    hp: float, energy: float, s: float,
 ) -> tuple[float, float, float, float, float, float]:
-    """Descompone el estado observable en 6 fuerzas oponentes.
+    """Descompone el estado en las 6 fuerzas oponentes (pF, nF, pR, nR, pS, nS).
 
-    Retorna (pF, nF, pR, nR, pS, nS).
-    Cada par satisface: posición = p − n, tensión = p + n.
-    Todas son no-negativas.
+    Garantía: pos_a = p_a − n_a,  ten_a = p_a + n_a,  p_a ≥ 0,  n_a ≥ 0.
     """
-    pF = max(0.0, (hp      - HP_EQ    ) / HP_SCALE     )
-    nF = max(0.0, (HP_EQ   - hp       ) / HP_SCALE     )
-
-    pR = max(0.0, (energy  - ENERGY_EQ) / ENERGY_SCALE )
-    nR = max(0.0, (ENERGY_EQ - energy ) / ENERGY_SCALE )
-
+    pF = max(0.0, (hp        - HP_EQ    ) / HP_SCALE    )
+    nF = max(0.0, (HP_EQ     - hp       ) / HP_SCALE    )
+    pR = max(0.0, (energy    - ENERGY_EQ) / ENERGY_SCALE)
+    nR = max(0.0, (ENERGY_EQ - energy   ) / ENERGY_SCALE)
     pS = max(0.0,  s)
     nS = max(0.0, -s)
-
     return pF, nF, pR, nR, pS, nS
 
 
 def opponent_distance(
-    hp: float,
-    energy: float,
-    s: float,
+    hp: float, energy: float, s: float,
+    cfg: ModelConfig = DEFAULT_CONFIG,
 ) -> float:
-    """Distancia homeostática con estructura de fuerzas oponentes.
+    """Distancia homeostática al estado ideal.
 
-    Penaliza:
-      1. Desviación posicional respecto a los targets.
-      2. Tensión demasiado baja (aburrimiento) o demasiado alta (estrés).
-      3. Acoplamiento: amenaza física amplifica urgencia material y social.
+    Componentes:
+      d_pos  — desviación posicional (apunta hacia el estado ideal)
+      d_ten  — desviación de tensión (penaliza under- y over-activation)
+      coupling — amenaza física amplifica urgencia material y social
     """
     pF, nF, pR, nR, pS, nS = opponent_forces(hp, energy, s)
 
@@ -95,33 +129,34 @@ def opponent_distance(
     pos_S, ten_S = pS - nS, pS + nS
 
     d_pos = (
-        W_F_POS * (pos_F - F_POS_TARGET) ** 2 +
-        W_R_POS * (pos_R - R_POS_TARGET) ** 2 +
-        W_S_POS * (pos_S - S_POS_TARGET) ** 2
+        cfg.w_f_pos * (pos_F - cfg.f_pos_target) ** 2 +
+        cfg.w_r_pos * (pos_R - cfg.r_pos_target) ** 2 +
+        cfg.w_s_pos * (pos_S - cfg.s_pos_target) ** 2
     )
-
     d_ten = (
-        W_F_TEN * (ten_F - F_TEN_TARGET) ** 2 +
-        W_R_TEN * (ten_R - R_TEN_TARGET) ** 2 +
-        W_S_TEN * (ten_S - S_TEN_TARGET) ** 2
+        cfg.w_f_ten * (ten_F - cfg.f_ten_target) ** 2 +
+        cfg.w_r_ten * (ten_R - cfg.r_ten_target) ** 2 +
+        cfg.w_s_ten * (ten_S - cfg.s_ten_target) ** 2
     )
-
-    coupling = F_COUPLING * nF * (
-        (pos_R - R_POS_TARGET) ** 2 + (pos_S - S_POS_TARGET) ** 2
+    coupling = cfg.f_coupling * nF * (
+        (pos_R - cfg.r_pos_target) ** 2 +
+        (pos_S - cfg.s_pos_target) ** 2
     )
-
     return math.sqrt(d_pos + d_ten + coupling)
 
 
-def state_summary(hp: float, energy: float, s: float) -> dict:
-    """Retorna un diccionario con todas las magnitudes para análisis."""
+def state_summary(
+    hp: float, energy: float, s: float,
+    cfg: ModelConfig = DEFAULT_CONFIG,
+) -> dict:
+    """Todas las magnitudes del estado para análisis o depuración."""
     pF, nF, pR, nR, pS, nS = opponent_forces(hp, energy, s)
     return {
         "hp": hp, "energy": energy, "s": s,
         "pF": pF, "nF": nF, "pos_F": pF - nF, "ten_F": pF + nF,
         "pR": pR, "nR": nR, "pos_R": pR - nR, "ten_R": pR + nR,
         "pS": pS, "nS": nS, "pos_S": pS - nS, "ten_S": pS + nS,
-        "distance": opponent_distance(hp, energy, s),
+        "distance": opponent_distance(hp, energy, s, cfg),
     }
 
 
@@ -133,13 +168,10 @@ if __name__ == "__main__":
         ("Amenaza física",                   20.0, 15.0,  0.0),
         ("Aislado sin recursos",             60.0,  0.0, -1.0),
     ]
-    header = f"{'Escenario':<32} {'pos_F':>6} {'pos_R':>6} {'pos_S':>6} " \
-             f"{'ten_F':>6} {'ten_R':>6} {'ten_S':>6} {'dist':>7}"
-    print(header)
-    print("-" * len(header))
+    hdr = (f"{'Escenario':<32} {'pos_F':>6} {'pos_R':>6} {'pos_S':>6} "
+           f"{'ten_F':>6} {'ten_R':>6} {'ten_S':>6} {'dist':>7}")
+    print(hdr); print("-" * len(hdr))
     for name, hp, en, s in scenarios:
         r = state_summary(hp, en, s)
-        print(
-            f"{name:<32} {r['pos_F']:>6.2f} {r['pos_R']:>6.2f} {r['pos_S']:>6.2f} "
-            f"{r['ten_F']:>6.2f} {r['ten_R']:>6.2f} {r['ten_S']:>6.2f} {r['distance']:>7.4f}"
-        )
+        print(f"{name:<32} {r['pos_F']:>6.2f} {r['pos_R']:>6.2f} {r['pos_S']:>6.2f} "
+              f"{r['ten_F']:>6.2f} {r['ten_R']:>6.2f} {r['ten_S']:>6.2f} {r['distance']:>7.4f}")
