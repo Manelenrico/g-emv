@@ -1,0 +1,47 @@
+# Entorno virtual de Python — nunca va a GitHub
+.venv/
+venv/
+env/
+
+# Archivos temporales de Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Jupyter notebooks (checkpoints automáticos)
+.ipynb_checkpoints/
+*.ipynb
+
+# macOS — archivos invisibles que crea el sistema
+.DS_Store
+.AppleDouble
+
+# Figuras generadas — se reproducen con experiments.py
+# (comenta esta línea si quieres subir las figuras)
+figures/*.png
+figures/*.pdf
+figures/*.svg
+
+# Datos pesados — nunca al repositorio
+data/
+*.csv
+*.parquet
+*.h5
+*.hdf5
+*.pkl
+*.npy
+*.npz
+
+# Claves y secretos — NUNCA al repositorio
+.env
+*.key
+*.pem
+secrets.py
+config_local.py
+
+# IDEs
+.vscode/
+.idea/
+*.swp
