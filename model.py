@@ -89,8 +89,11 @@ class ModelConfig:
     w_r_pos: float = 1.0;  w_r_ten: float = 0.40
     w_s_pos: float = 0.70; w_s_ten: float = 0.25
 
-    # Coeficiente del acoplamiento físico asimétrico
-    f_coupling: float = 0.50
+    # Sensibilidades del acoplamiento mutuo (cuánto arrastra cada eje a los demás)
+    # El arrastre usa ten_a = f⁺_a + f⁻_a: bidireccional, oportunidad y amenaza pesos igual.
+    sens_F: float = 0.30   # físico arrastra más (el cuerpo secuestra la atención)
+    sens_R: float = 0.15   # recursos: arrastre medio
+    sens_S: float = 0.10   # social: arrastre menor
 
 
 DEFAULT_CONFIG = ModelConfig()
@@ -246,7 +249,11 @@ def opponent_distance(state: State, cfg: ModelConfig = DEFAULT_CONFIG) -> float:
 
     d_pos    suma ponderada de desviaciones posicionales al cuadrado
     d_ten    suma ponderada de desviaciones de tensión al cuadrado
-    coupling acoplamiento físico: nF amplifica la urgencia en R y S
+    coupling acoplamiento mutuo: cada eje arrastra a los otros dos.
+             El arrastre usa ten_a = f⁺_a + f⁻_a (bidireccional).
+             coupling = sens_F·ten_F·[(Δpos_R)²+(Δpos_S)²]
+                      + sens_R·ten_R·[(Δpos_F)²+(Δpos_S)²]
+                      + sens_S·ten_S·[(Δpos_F)²+(Δpos_R)²]
     """
     d_pos = (
         cfg.w_f_pos * (state.pos_F - cfg.f_pos_target) ** 2 +
@@ -258,9 +265,13 @@ def opponent_distance(state: State, cfg: ModelConfig = DEFAULT_CONFIG) -> float:
         cfg.w_r_ten * (state.ten_R - cfg.r_ten_target) ** 2 +
         cfg.w_s_ten * (state.ten_S - cfg.s_ten_target) ** 2
     )
-    coupling = cfg.f_coupling * state.nF * (
-        (state.pos_R - cfg.r_pos_target) ** 2 +
-        (state.pos_S - cfg.s_pos_target) ** 2
+    dF = (state.pos_F - cfg.f_pos_target) ** 2
+    dR = (state.pos_R - cfg.r_pos_target) ** 2
+    dS = (state.pos_S - cfg.s_pos_target) ** 2
+    coupling = (
+        cfg.sens_F * state.ten_F * (dR + dS) +
+        cfg.sens_R * state.ten_R * (dF + dS) +
+        cfg.sens_S * state.ten_S * (dF + dR)
     )
     return math.sqrt(d_pos + d_ten + coupling)
 
@@ -325,7 +336,7 @@ if __name__ == "__main__":
         f_pos_target=0.0, f_ten_target=0.0,   # target neutro: eje F en cero
         r_pos_target=0.0, r_ten_target=0.0,
         s_pos_target=0.0, s_ten_target=0.0,
-        f_coupling=0.0,
+        sens_F=0.0, sens_R=0.0, sens_S=0.0,  # acoplamiento apagado
         w_f_pos=1.0, w_f_ten=1.0,
         w_r_pos=0.0, w_r_ten=0.0,
         w_s_pos=0.0, w_s_ten=0.0,
@@ -449,4 +460,59 @@ if __name__ == "__main__":
     print("  ✓  Zepelín: R y S intocables al mínimo; solo F comprimido.")
     print("  ✓  Reparto: S intocable; F y R comparten el ajuste en su excedente.")
     print("  ✓  Tres ejes: ninguno baja del basal; ratios f⁺/f⁻ conservados.")
+    print()
+
+    # ── Prueba acoplamiento mutuo ─────────────────────────────────────────
+    # Config de aislamiento: d_pos=0 y d_ten=0 (todos los pesos en cero),
+    # solo UNA sensibilidad activa. Así d² = coupling exactamente.
+    # Para cada test: ten_fuente=2.0, déficit_destino=1.0 → coupling=2.0, d=√2.
+    print("═══ Prueba: acoplamiento mutuo ════════════════════════════════════════")
+    _BASAL = TEN_BASAL_MIN / 2
+
+    def _iso_cfg(sf=0.0, sr=0.0, ss=0.0):
+        return ModelConfig(
+            f_pos_target=0.0, r_pos_target=0.0, s_pos_target=0.0,
+            f_ten_target=0.0, r_ten_target=0.0, s_ten_target=0.0,
+            w_f_pos=0.0, w_r_pos=0.0, w_s_pos=0.0,
+            w_f_ten=0.0, w_r_ten=0.0, w_s_ten=0.0,
+            sens_F=sf, sens_R=sr, sens_S=ss,
+        )
+
+    # Caso A: F arrastra R — ten_F=2, pos_R=1.0, sens_F=1.0
+    # coupling = 1.0 · 2.0 · (1.0² + 0²) = 2.0
+    st_FA = State(pF=1.0, nF=1.0, pR=1.0, nR=0.0, pS=_BASAL, nS=_BASAL)
+    d_FA = opponent_distance(st_FA, _iso_cfg(sf=1.0))
+    print(f"  A) F→R  (ten_F=2, pos_R=1): coupling={d_FA**2:.4f}  d={d_FA:.4f}  "
+          f"(esperado d²=2.0, d={2.0**0.5:.4f})")
+    assert abs(d_FA ** 2 - 2.0) < 1e-9, "F arrastra R: d²=2.0"
+
+    # Caso B: R arrastra F — ten_R=2, pos_F=1.0, sens_R=1.0
+    # coupling = 1.0 · 2.0 · (1.0² + 0²) = 2.0
+    st_RF = State(pF=1.0, nF=0.0, pR=1.0, nR=1.0, pS=_BASAL, nS=_BASAL)
+    d_RF = opponent_distance(st_RF, _iso_cfg(sr=1.0))
+    print(f"  B) R→F  (ten_R=2, pos_F=1): coupling={d_RF**2:.4f}  d={d_RF:.4f}  "
+          f"(esperado d²=2.0, d={2.0**0.5:.4f})")
+    assert abs(d_RF ** 2 - 2.0) < 1e-9, "R arrastra F: d²=2.0"
+
+    # Caso C: S arrastra F — ten_S=2, pos_F=1.0, sens_S=1.0
+    # coupling = 1.0 · 2.0 · (1.0² + 0²) = 2.0
+    st_SF = State(pF=1.0, nF=0.0, pR=_BASAL, nR=_BASAL, pS=1.0, nS=1.0)
+    d_SF = opponent_distance(st_SF, _iso_cfg(ss=1.0))
+    print(f"  C) S→F  (ten_S=2, pos_F=1): coupling={d_SF**2:.4f}  d={d_SF:.4f}  "
+          f"(esperado d²=2.0, d={2.0**0.5:.4f})")
+    assert abs(d_SF ** 2 - 2.0) < 1e-9, "S arrastra F: d²=2.0"
+
+    # Caso D: alta tensión sin déficit → acoplamiento cero
+    # ten_F=2, pos_R=0=target, pos_S=0=target → coupling=0 aunque sens_F alto
+    st_nodep = State(pF=1.0, nF=1.0, pR=_BASAL, nR=_BASAL, pS=_BASAL, nS=_BASAL)
+    d_nodep = opponent_distance(st_nodep, _iso_cfg(sf=1.0))
+    print(f"  D) ten_F=2, R y S sin déficit: coupling={d_nodep**2:.6f}  "
+          f"(esperado 0 — la tensión sola no genera acoplamiento)")
+    assert abs(d_nodep) < 1e-9, "sin déficit: coupling=0"
+
+    print()
+    print("  ✓  F arrastra R y S: d²=2.0 cuando ten_F=2 y déficit_R=1.")
+    print("  ✓  R arrastra F y S: d²=2.0 cuando ten_R=2 y déficit_F=1.")
+    print("  ✓  S arrastra F y R: d²=2.0 cuando ten_S=2 y déficit_F=1.")
+    print("  ✓  Tensión alta sin déficit posicional → acoplamiento cero.")
     print()

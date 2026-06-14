@@ -54,7 +54,7 @@ FIGURES_DIR = Path(__file__).parent / "figures"
 CFG_CENTRADO = ModelConfig(
     f_pos_target=0.0, r_pos_target=0.0, s_pos_target=0.0,
     f_ten_target=0.0, r_ten_target=0.0, s_ten_target=0.0,
-    f_coupling=0.0,
+    sens_F=0.0, sens_R=0.0, sens_S=0.0,
 )
 
 # POSITIVO: inclinación hacia integridad, recursos y vínculos.
@@ -63,7 +63,6 @@ CFG_POSITIVO = ModelConfig(
     f_pos_target=1.0,   # hp máxima (irreversible si se pierde)
     r_pos_target=2.0,   # energía máxima (recuperable)
     s_pos_target=0.8,   # vínculo social moderado (recuperable)
-    f_coupling=0.5,
 )
 
 # NEGATIVO: inclinación hacia daño, pérdida y aislamiento.
@@ -72,7 +71,7 @@ CFG_NEGATIVO = ModelConfig(
     f_pos_target=-1.0,
     r_pos_target=-2.0,
     s_pos_target=-0.8,
-    f_coupling=0.0,  # sin acoplamiento: no hay urgencia cruzada bajo amenaza
+    sens_F=0.0, sens_R=0.0, sens_S=0.0,  # sin acoplamiento: no hay urgencia cruzada
 )
 
 
@@ -243,7 +242,7 @@ _base = dict(
     f_pos_target=0.4, r_pos_target=1.0,   # moderadamente positivos (cómodo)
     f_ten_target=0.2, r_ten_target=0.2, s_ten_target=0.1,
     w_f_pos=1.0, w_r_pos=0.8,
-    f_coupling=0.0,
+    sens_F=0.0, sens_R=0.0, sens_S=0.0,  # acoplamiento apagado: aísla eje social
 )
 
 # Social POSITIVO: busca el vínculo
