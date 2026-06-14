@@ -66,7 +66,7 @@ def run_exp1_phenotypes() -> None:
     for label, r_ten in phenotypes:
         cfg = ModelConfig(r_ten_target=r_ten)
         sample_dists = [
-            M.opponent_distance(80.0, e, 0.5, cfg)
+            M.opponent_distance_obs(80.0, e, 0.5, cfg)
             for e in [2.0, 10.0, 13.5, 18.0]
         ]
         print(f"  {label}")
@@ -83,12 +83,12 @@ def run_exp1_phenotypes() -> None:
 
     for (label, r_ten), color in zip(phenotypes, colors):
         cfg = ModelConfig(r_ten_target=r_ten)
-        dists = [M.opponent_distance(80.0, e, 0.5, cfg) for e in energies]
+        dists = [M.opponent_distance_obs(80.0, e, 0.5, cfg) for e in energies]
         ax.plot(energies, dists, label=label, linewidth=2, color=color)
 
         # marca el punto de tensión óptima (energy donde ten_R = r_ten_target)
         energy_opt = M.ENERGY_EQ + r_ten * M.ENERGY_SCALE
-        dist_opt = M.opponent_distance(80.0, energy_opt, 0.5, cfg)
+        dist_opt = M.opponent_distance_obs(80.0, energy_opt, 0.5, cfg)
         ax.axvline(energy_opt, color=color, linestyle=":", alpha=0.4)
 
     ax.axvline(M.ENERGY_EQ, color="gray", linestyle="--", alpha=0.5, label="Equilibrio R")
@@ -134,7 +134,7 @@ def run_exp2_boredom() -> None:
                 for hp, en in zip(hps, energies)]
     ten_R    = [M.opponent_forces(hp, en, 0.5)[2] + M.opponent_forces(hp, en, 0.5)[3]
                 for hp, en in zip(hps, energies)]
-    dists    = [M.opponent_distance(hp, en, 0.5) for hp, en in zip(hps, energies)]
+    dists    = [M.opponent_distance_obs(hp, en, 0.5) for hp, en in zip(hps, energies)]
 
     # Calcular umbrales
     step_tenF_target = next((t for t in range(n_steps) if ten_F[t] <= DEFAULT_CONFIG.f_ten_target), None)
@@ -236,7 +236,7 @@ def run_exp3_coupling() -> None:
         print(f"  {label}  →  nF={nF:.2f}")
 
     for label, hp, _ in conditions:
-        sample = [(e, M.opponent_distance(hp, e, 0.5)) for e in [2.0, 5.0, 10.0, 15.0]]
+        sample = [(e, M.opponent_distance_obs(hp, e, 0.5)) for e in [2.0, 5.0, 10.0, 15.0]]
         print(f"\n  {label}")
         for e, d in sample:
             print(f"    energy={e:4.1f} → dist={d:.4f}")
@@ -250,7 +250,7 @@ def run_exp3_coupling() -> None:
     fig, ax = plt.subplots(figsize=(7, 4))
 
     for (label, hp, color) in conditions:
-        dists = [M.opponent_distance(hp, e, 0.5) for e in energies]
+        dists = [M.opponent_distance_obs(hp, e, 0.5) for e in energies]
         ax.plot(energies, dists, label=label, linewidth=2, color=color)
 
     ax.axvline(M.ENERGY_EQ, color="gray", linestyle="--", alpha=0.5, label="Equilibrio R")
@@ -262,8 +262,8 @@ def run_exp3_coupling() -> None:
 
     # Anotación del gap de acoplamiento
     e_ann = 5.0
-    d_safe = M.opponent_distance(90.0, e_ann, 0.5)
-    d_thr  = M.opponent_distance(35.0, e_ann, 0.5)
+    d_safe = M.opponent_distance_obs(90.0, e_ann, 0.5)
+    d_thr  = M.opponent_distance_obs(35.0, e_ann, 0.5)
     ax.annotate("", xy=(e_ann, d_thr), xytext=(e_ann, d_safe),
                 arrowprops=dict(arrowstyle="<->", color="black", lw=1.5))
     ax.text(e_ann + 0.3, (d_safe + d_thr) / 2,
