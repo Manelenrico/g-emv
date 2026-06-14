@@ -108,6 +108,12 @@ TEN_BASAL_MIN: float = 0.10
 # redistribución entre ejes, sin zona blanda. Solo un límite duro.
 # Valor inicial: 8.0 — permite tensión moderada-alta en los tres ejes a la
 # vez (suma típica en crisis severa: 3–5; techo raramente activo en uso normal).
+# PENDIENTE (revisión futura del núcleo — techo asimétrico):
+#   El escalado proporcional actual impide que un eje acapare casi todo el
+#   volumen mientras los demás quedan al mínimo basal (concentración asimétrica).
+#   El modelo teórico SÍ debe permitir esa configuración: por ejemplo, crisis
+#   física extrema con R y S casi inactivos. La corrección requiere reservar
+#   budget mínimo por eje antes de escalar el exceso, no escalar todo por igual.
 # PENDIENTE (capa dinámica futura — junto al aburrimiento):
 #   Coste de salud del sobreesfuerzo: desgaste acumulado cuando el sistema
 #   opera sostenidamente cerca de VOL_MAX (fenómeno temporal, no instantáneo).
