@@ -95,6 +95,13 @@ class ModelConfig:
 
 DEFAULT_CONFIG = ModelConfig()
 
+# CALIBRACIÓN LIBRE — tensión mínima por eje (no un principio, un parámetro)
+# Un sistema con tensión cero es un sistema "muerto": la esfera nunca se
+# desinfla del todo. Valor inicial propuesto: 0.10 (en las escalas del
+# modelo, equivale a ~2.5 hp o ~0.5 unidades de energía desde el equilibrio).
+# Ajustar empíricamente; no cambia la estructura matemática del modelo.
+TEN_BASAL_MIN: float = 0.10
+
 
 # ════════════════════════════════════════════════════════════════════════════
 # ESTADO — seis fuerzas oponentes independientes
@@ -114,10 +121,10 @@ class State:
     Para inicializar desde observables físicos, usar state_from_observables().
     """
 
-    # PENDIENTE §3 (Decisiones_nucleo): MÍNIMO BASAL DE TENSIÓN.
-    #   La esfera no se desinfla a cero: ten_a = pF + nF ≥ TEN_BASAL_MIN.
-    #   Decisión pendiente: ¿cota por eje individual o sobre la suma global?
-    #   Implementar cuando se formalice la sección de límites de volumen.
+    # MÍNIMO BASAL — implementado en __post_init__
+    #   ten_a = f⁺_a + f⁻_a ≥ TEN_BASAL_MIN  por eje.
+    #   Mecanismo: se añade (déficit/2) a cada fuerza del eje, preservando
+    #   la posición exactamente (sumar igual a ambas se cancela en la resta).
 
     # PENDIENTE §3 (Decisiones_nucleo): MÁXIMO NORMAL y MÁXIMO DE EMERGENCIA.
     #   Máximo normal:     sum(ten_F + ten_R + ten_S) ≤ VOL_MAX_NORMAL
@@ -131,6 +138,22 @@ class State:
     nR: float = 0.0  # f⁻_R — escasez / carencia de recursos
     pS: float = 0.0  # f⁺_S — vínculo social / pertenencia
     nS: float = 0.0  # f⁻_S — rechazo / aislamiento / amenaza social
+
+    def __post_init__(self) -> None:
+        """Garantiza ten_a ≥ TEN_BASAL_MIN para cada eje.
+
+        Si f⁺_a + f⁻_a < TEN_BASAL_MIN, añade (déficit/2) a cada fuerza.
+        Sumar la misma cantidad a f⁺ y f⁻ no cambia pos = f⁺ − f⁻;
+        solo sube ten = f⁺ + f⁻. La posición queda exactamente intacta.
+        """
+        for p_attr, n_attr in (('pF', 'nF'), ('pR', 'nR'), ('pS', 'nS')):
+            fp  = getattr(self, p_attr)
+            fn  = getattr(self, n_attr)
+            ten = fp + fn
+            if ten < TEN_BASAL_MIN:
+                add = (TEN_BASAL_MIN - ten) / 2
+                setattr(self, p_attr, fp + add)
+                setattr(self, n_attr, fn + add)
 
     # ── Magnitudes derivadas — NO son variables primarias ─────────────────
     # pos_a = f⁺_a − f⁻_a  (posición: signo neto del eje)
@@ -288,24 +311,42 @@ if __name__ == "__main__":
     print("  ✓  Distancias diferentes: el modelo los distingue.")
     print()
 
-    # ── Sanidad: state_from_observables sigue funcionando ─────────────────
-    print("═══ Sanidad: inicialización desde observables ═══════════════════")
-    scenarios = [
-        ("Equilibrio",        HP_EQ,  ENERGY_EQ, 0.0),
-        ("Plena salud",       100.0,  20.0,       1.5),
-        ("Bajo en energía",   HP_EQ,   2.0,       0.5),
-        ("Amenaza física",     20.0,  15.0,       0.0),
-    ]
-    hdr = f"  {'Escenario':<22} {'pos_F':>6} {'ten_F':>6} {'pos_R':>6} {'ten_R':>6} {'dist':>8}"
-    print(hdr); print("  " + "─" * (len(hdr) - 2))
-    for name, hp, en, s in scenarios:
-        st = state_from_observables(hp, en, s)
-        d  = opponent_distance(st)
-        print(f"  {name:<22} {st.pos_F:>6.2f} {st.ten_F:>6.2f} "
-              f"{st.pos_R:>6.2f} {st.ten_R:>6.2f} {d:>8.4f}")
-        # Verificar que en v2, con max(0,·), ten sigue siendo |pos| (caso especial)
-        assert abs(st.ten_F - abs(st.pos_F)) < 1e-9, "sanidad: ten=|pos| para observables simples"
+    # ── Prueba mínimo basal (§3 Decisiones_nucleo) ────────────────────────
+    print("═══ Prueba: mínimo basal de tensión (TEN_BASAL_MIN={:.2f}) ════".format(TEN_BASAL_MIN))
+
+    # Caso A: ambas fuerzas en cero → deben subir a TEN_BASAL_MIN/2 cada una
+    s_cero = State(pF=0.0, nF=0.0)
+    print(f"  A) State(pF=0, nF=0)     → pF={s_cero.pF:.3f}  nF={s_cero.nF:.3f}"
+          f"  pos={s_cero.pos_F:.3f}  ten={s_cero.ten_F:.3f}")
+    assert abs(s_cero.ten_F - TEN_BASAL_MIN) < 1e-9, "ten debe ser TEN_BASAL_MIN"
+    assert abs(s_cero.pos_F) < 1e-9,                 "pos debe seguir siendo 0"
+
+    # Caso B: una fuerza sola por debajo del mínimo → sube preservando posición
+    s_bajo = State(pF=0.06, nF=0.02)   # ten=0.08 < 0.10; pos=0.04
+    print(f"  B) State(pF=0.06,nF=0.02)→ pF={s_bajo.pF:.3f}  nF={s_bajo.nF:.3f}"
+          f"  pos={s_bajo.pos_F:.3f}  ten={s_bajo.ten_F:.3f}")
+    assert abs(s_bajo.ten_F - TEN_BASAL_MIN) < 1e-9, "ten debe ser TEN_BASAL_MIN"
+    assert abs(s_bajo.pos_F - 0.04) < 1e-9,          "pos debe conservarse (0.04)"
+
+    # Caso C: tensión ya por encima del mínimo → sin cambio
+    s_alto = State(pF=1.0, nF=0.5)    # ten=1.5 > 0.10; pos=0.5
+    print(f"  C) State(pF=1.0, nF=0.5) → pF={s_alto.pF:.3f}  nF={s_alto.nF:.3f}"
+          f"  pos={s_alto.pos_F:.3f}  ten={s_alto.ten_F:.3f}")
+    assert s_alto.pF == 1.0 and s_alto.nF == 0.5,    "sin cambio si ten > mínimo"
+
+    # Caso D: state_from_observables en equilibrio → fuerzas cero → clampeado
+    s_eq = state_from_observables(HP_EQ, ENERGY_EQ, 0.0)
+    print(f"  D) observables(HP_EQ, EQ, 0) → "
+          f"pF={s_eq.pF:.3f} nF={s_eq.nF:.3f} ten_F={s_eq.ten_F:.3f}  "
+          f"pR={s_eq.pR:.3f} nR={s_eq.nR:.3f} ten_R={s_eq.ten_R:.3f}")
+    assert abs(s_eq.ten_F - TEN_BASAL_MIN) < 1e-9, "equilibrio: ten_F clampeado"
+    assert abs(s_eq.ten_R - TEN_BASAL_MIN) < 1e-9, "equilibrio: ten_R clampeado"
+    assert abs(s_eq.ten_S - TEN_BASAL_MIN) < 1e-9, "equilibrio: ten_S clampeado"
+    assert abs(s_eq.pos_F) < 1e-9,                 "equilibrio: pos_F sigue en 0"
+
     print()
-    print("  ✓  Observables inicializan correctamente.")
-    print("  ✓  Para estos estados simples, ten = |pos| (solo una fuerza activa por eje).")
-    print("     Para tensión contenida, construir State directamente.")
+    print("  ✓  Tensión en cero → sube a TEN_BASAL_MIN (pos. intacta).")
+    print("  ✓  Tensión baja → sube a mínimo preservando posición.")
+    print("  ✓  Tensión alta → sin cambio.")
+    print("  ✓  Equilibrio observable → tensión basal en todos los ejes.")
+    print()
