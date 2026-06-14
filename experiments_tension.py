@@ -75,9 +75,13 @@ def _decompose(pF, nF, pR, nR, pS, nS, cfg=CFG) -> dict:
         cfg.w_r_ten * (ten_R - cfg.r_ten_target) ** 2 +
         cfg.w_s_ten * (ten_S - cfg.s_ten_target) ** 2
     )
-    cpl = cfg.f_coupling * nF * (
-        (pos_R - cfg.r_pos_target) ** 2 +
-        (pos_S - cfg.s_pos_target) ** 2
+    dF_sq = (pos_F - cfg.f_pos_target) ** 2
+    dR_sq = (pos_R - cfg.r_pos_target) ** 2
+    dS_sq = (pos_S - cfg.s_pos_target) ** 2
+    cpl = (
+        cfg.sens_F * ten_F * (dR_sq + dS_sq) +
+        cfg.sens_R * ten_R * (dF_sq + dS_sq) +
+        cfg.sens_S * ten_S * (dF_sq + dR_sq)
     )
     d_sq = d_pos + d_ten + cpl
     return {
@@ -219,7 +223,7 @@ def run_fase2() -> dict:
         _print_sweep_summary("TENSO", geo_t, ctr_t)
 
         if stim == "amenaza":
-            print(f"\n  Contagio cruzado F→R,S durante AMENAZA (geométrico):")
+            print(f"\n  Contagio cruzado (mutuo) durante AMENAZA (geométrico):")
             for lbl, rows in [("CALMA", geo_c), ("TENSO", geo_t)]:
                 c0 = rows[0]["coupling"]
                 cN = rows[-1]["coupling"]
