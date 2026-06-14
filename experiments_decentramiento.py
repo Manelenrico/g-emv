@@ -41,7 +41,7 @@ except ImportError:
     print("AVISO: pip install numpy matplotlib")
 
 import model as M
-from model import ModelConfig, opponent_distance
+from model import ModelConfig, opponent_distance_obs as opponent_distance
 
 FIGURES_DIR = Path(__file__).parent / "figures"
 
