@@ -102,6 +102,20 @@ DEFAULT_CONFIG = ModelConfig()
 # Ajustar empíricamente; no cambia la estructura matemática del modelo.
 TEN_BASAL_MIN: float = 0.10
 
+# CALIBRACIÓN LIBRE — techo de tensión total (valla numérica, no fenómeno)
+# (ten_F + ten_R + ten_S) ≤ VOL_MAX. Cuando la suma supera VOL_MAX, todas
+# las fuerzas se escalan proporcionalmente hasta que caben. Sin coste, sin
+# redistribución entre ejes, sin zona blanda. Solo un límite duro.
+# Valor inicial: 8.0 — permite tensión moderada-alta en los tres ejes a la
+# vez (suma típica en crisis severa: 3–5; techo raramente activo en uso normal).
+# PENDIENTE (capa dinámica futura — junto al aburrimiento):
+#   Coste de salud del sobreesfuerzo: desgaste acumulado cuando el sistema
+#   opera sostenidamente cerca de VOL_MAX (fenómeno temporal, no instantáneo).
+#   Coste temporal: límite de cuánto tiempo puede sostenerse la saturación.
+#   Estos son fenómenos de acumulación temporal — no pertenecen al núcleo
+#   geométrico instantáneo. Se implementarán en la capa dinámica.
+VOL_MAX: float = 8.0
+
 
 # ════════════════════════════════════════════════════════════════════════════
 # ESTADO — seis fuerzas oponentes independientes
@@ -126,11 +140,10 @@ class State:
     #   Mecanismo: se añade (déficit/2) a cada fuerza del eje, preservando
     #   la posición exactamente (sumar igual a ambas se cancela en la resta).
 
-    # PENDIENTE §3 (Decisiones_nucleo): MÁXIMO NORMAL y MÁXIMO DE EMERGENCIA.
-    #   Máximo normal:     sum(ten_F + ten_R + ten_S) ≤ VOL_MAX_NORMAL
-    #   Techo blando:      bajo demanda extrema el sistema puede superar
-    #                      VOL_MAX_NORMAL un porcentaje, con coste energético.
-    #   Implementar cuando se formalice la sección de límites de volumen.
+    # TECHO DE VOLUMEN — implementado en __post_init__ (después del mínimo)
+    #   (ten_F + ten_R + ten_S) ≤ VOL_MAX.
+    #   Cuando la suma supera VOL_MAX, todas las fuerzas escalan por VOL_MAX/total.
+    #   Sin coste, sin redistribución entre ejes. Valla numérica pura.
 
     pF: float = 0.0  # f⁺_F — aproximación física / placer / vitalidad
     nF: float = 0.0  # f⁻_F — amenaza física / daño / vulnerabilidad
@@ -140,11 +153,13 @@ class State:
     nS: float = 0.0  # f⁻_S — rechazo / aislamiento / amenaza social
 
     def __post_init__(self) -> None:
-        """Garantiza ten_a ≥ TEN_BASAL_MIN para cada eje.
+        """Aplica los límites de volumen: mínimo basal y techo máximo.
 
-        Si f⁺_a + f⁻_a < TEN_BASAL_MIN, añade (déficit/2) a cada fuerza.
-        Sumar la misma cantidad a f⁺ y f⁻ no cambia pos = f⁺ − f⁻;
-        solo sube ten = f⁺ + f⁻. La posición queda exactamente intacta.
+        1. Mínimo basal: si f⁺_a + f⁻_a < TEN_BASAL_MIN, añade (déficit/2)
+           a cada fuerza — preserva la posición, sube la tensión.
+        2. Techo de volumen: si (ten_F + ten_R + ten_S) > VOL_MAX, escala
+           todas las fuerzas por VOL_MAX/total — la relación f⁺/f⁻ por eje
+           se conserva (no hay redistribución entre ejes).
         """
         for p_attr, n_attr in (('pF', 'nF'), ('pR', 'nR'), ('pS', 'nS')):
             fp  = getattr(self, p_attr)
@@ -154,6 +169,12 @@ class State:
                 add = (TEN_BASAL_MIN - ten) / 2
                 setattr(self, p_attr, fp + add)
                 setattr(self, n_attr, fn + add)
+        total = self.ten_F + self.ten_R + self.ten_S
+        if total > VOL_MAX:
+            scale = VOL_MAX / total
+            self.pF *= scale; self.nF *= scale
+            self.pR *= scale; self.nR *= scale
+            self.pS *= scale; self.nS *= scale
 
     # ── Magnitudes derivadas — NO son variables primarias ─────────────────
     # pos_a = f⁺_a − f⁻_a  (posición: signo neto del eje)
@@ -349,4 +370,47 @@ if __name__ == "__main__":
     print("  ✓  Tensión baja → sube a mínimo preservando posición.")
     print("  ✓  Tensión alta → sin cambio.")
     print("  ✓  Equilibrio observable → tensión basal en todos los ejes.")
+    print()
+
+    # ── Prueba techo de volumen (§3 Decisiones_nucleo) ────────────────────
+    print("═══ Prueba: techo de volumen (VOL_MAX={:.1f}) ════".format(VOL_MAX))
+
+    # Caso A: total bajo el techo — sin cambio
+    s_a = State(pF=1.0, nF=0.5, pR=0.8, nR=0.2, pS=0.4, nS=0.1)
+    total_a = s_a.ten_F + s_a.ten_R + s_a.ten_S
+    print(f"  A) Tensiones (1.5 + 1.0 + 0.5) = {total_a:.2f}  →  sin cambio (bajo techo)")
+    assert total_a <= VOL_MAX,              "debe estar bajo el techo"
+    assert s_a.pF == 1.0 and s_a.nF == 0.5, "sin modificación si bajo el techo"
+
+    # Caso B: total sobre el techo — escala proporcional (par simétrico: pos=0)
+    s_b = State(pF=3.0, nF=3.0, pR=2.0, nR=2.0, pS=1.0, nS=1.0)
+    total_b = s_b.ten_F + s_b.ten_R + s_b.ten_S
+    scale_b = VOL_MAX / 12.0   # pedido: 6+4+2 = 12
+    print(f"  B) Pedido (6+4+2=12) → total tras escala={total_b:.6f}  (debe ser {VOL_MAX:.1f})")
+    print(f"     tenF={s_b.ten_F:.4f}  tenR={s_b.ten_R:.4f}  tenS={s_b.ten_S:.4f}")
+    print(f"     pos_F={s_b.pos_F:.4f}  pos_R={s_b.pos_R:.4f}  pos_S={s_b.pos_S:.4f}  (cero: simetría conservada)")
+    assert abs(total_b - VOL_MAX) < 1e-9,  "total debe ser exactamente VOL_MAX"
+    assert abs(s_b.pos_F)         < 1e-9,  "posición F conservada"
+    assert abs(s_b.pos_R)         < 1e-9,  "posición R conservada"
+    assert abs(s_b.pos_S)         < 1e-9,  "posición S conservada"
+    assert abs(s_b.ten_F - 6 * scale_b) < 1e-9, "ratio F conservado"
+    assert abs(s_b.ten_R - 4 * scale_b) < 1e-9, "ratio R conservado"
+    assert abs(s_b.ten_S - 2 * scale_b) < 1e-9, "ratio S conservado"
+
+    # Caso C: posición no nula — relación f⁺/f⁻ se conserva tras escala
+    s_c = State(pF=4.0, nF=2.0, pR=2.0, nR=1.0, pS=1.0, nS=0.5)
+    total_c = s_c.ten_F + s_c.ten_R + s_c.ten_S
+    scale_c = VOL_MAX / 10.5   # pedido: 6+3+1.5 = 10.5
+    print(f"  C) Pedido (6+3+1.5=10.5) → escala={scale_c:.4f}  total={total_c:.6f}")
+    print(f"     ratio pF/nF: pedido=2.00 → resultante={s_c.pF/s_c.nF:.4f}  (sin redistribución)")
+    assert abs(total_c - VOL_MAX)     < 1e-9, "total debe ser exactamente VOL_MAX"
+    assert abs(s_c.pF / s_c.nF - 2.0) < 1e-9, "ratio F conservado"
+    assert abs(s_c.pR / s_c.nR - 2.0) < 1e-9, "ratio R conservado"
+    assert abs(s_c.pS / s_c.nS - 2.0) < 1e-9, "ratio S conservado"
+
+    print()
+    print("  ✓  Bajo el techo: sin cambio.")
+    print("  ✓  Sobre el techo: total escalado exactamente a VOL_MAX.")
+    print("  ✓  Posición de par simétrico (0): conservada.")
+    print("  ✓  Ratios f⁺/f⁻ por eje: conservados (no hay redistribución).")
     print()
