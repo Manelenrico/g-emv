@@ -87,9 +87,9 @@ Tras la actualización se aplica `State.__post_init__` (basal mínimo + techo VO
 
 | Eje | Peso posición $w^{\text{pos}}_a$ | Peso tensión $w^{\text{ten}}_a$ |
 |---|---|---|
-| F (fuerza vital) | **1.0** | **0.40** |
-| R (relaciones) | **1.0** | **0.40** |
-| S (sentido) | **0.70** | **0.25** |
+| F (físico/corporal) | **1.0** | **0.40** |
+| R (recursos/material) | **1.0** | **0.40** |
+| S (social/relacional) | **0.70** | **0.25** |
 
 ### Sensibilidades de acoplamiento
 
