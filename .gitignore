@@ -18,6 +18,10 @@ __pycache__/
 .DS_Store
 .AppleDouble
 
+# Borradores de paper — privados hasta publicación
+docs/*.docx
+docs/*.pdf
+
 # Figuras generadas — se reproducen con experiments.py
 # (comenta esta línea si quieres subir las figuras)
 figures/*.png
