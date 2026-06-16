@@ -339,6 +339,220 @@ def fig3_riqueza():
 
 
 # ══════════════════════════════════════════════════════════════════════════════
+# FIG 4 — Social typology (three phenotypes)
+# ══════════════════════════════════════════════════════════════════════════════
+
+def fig4_tipologia():
+    GRID_B    = 20
+    STEPS_B   = 300
+    SOCIAL_R  = GRID_B // 2
+    SOCIAL_C  = GRID_B // 2
+    S_SIGMA   = 4.0
+    S_MAX     = 1.5
+    HP_B      = 90.0
+    ENERGY_B  = 15.0
+
+    _base = dict(
+        f_pos_target=0.4, r_pos_target=1.0,
+        f_ten_target=0.2, r_ten_target=0.2, s_ten_target=0.1,
+        w_f_pos=1.0, w_r_pos=0.8,
+        sens_F=0.0, sens_R=0.0, sens_S=0.0,
+    )
+    CFG_POS = ModelConfig(s_pos_target=+1.0, w_s_pos=0.8, **_base)
+    CFG_NEU = ModelConfig(s_pos_target= 0.0, w_s_pos=0.0, **_base)
+    CFG_NEG = ModelConfig(s_pos_target=-1.0, w_s_pos=0.8, **_base)
+
+    def social_field(r, c):
+        d = math.sqrt((r-SOCIAL_R)**2 + (c-SOCIAL_C)**2)
+        return S_MAX * math.exp(-d / S_SIGMA)
+
+    def dist_grid(r, c):
+        return math.sqrt((r-SOCIAL_R)**2 + (c-SOCIAL_C)**2)
+
+    def sim_b(cfg_b, seed):
+        rng = random.Random(seed)
+        r, c = 1, 1
+        moves = [(0,0),(-1,0),(1,0),(0,-1),(0,1)]
+        positions  = [(r, c)]
+        dist_trace = [dist_grid(r, c)]
+        s_trace    = [social_field(r, c)]
+
+        for _ in range(STEPS_B):
+            if cfg_b.w_s_pos == 0.0:
+                dr, dc = rng.choice(moves)
+            else:
+                best_d, best_move = float('inf'), (0, 0)
+                for dr, dc in moves:
+                    nr = max(0, min(GRID_B-1, r+dr)); nc = max(0, min(GRID_B-1, c+dc))
+                    ns = social_field(nr, nc)
+                    d  = opp_dist_obs(HP_B, ENERGY_B, ns, cfg_b)
+                    if d < best_d: best_d, best_move = d, (dr, dc)
+                dr, dc = best_move
+            r = max(0, min(GRID_B-1, r+dr)); c = max(0, min(GRID_B-1, c+dc))
+            positions.append((r, c))
+            dist_trace.append(dist_grid(r, c))
+            s_trace.append(social_field(r, c))
+        return {'positions': positions, 'dist_trace': dist_trace, 's_trace': s_trace}
+
+    seed = 7
+    res_pos = sim_b(CFG_POS, seed)
+    res_neu = sim_b(CFG_NEU, seed)
+    res_neg = sim_b(CFG_NEG, seed)
+
+    steps = list(range(STEPS_B+1))
+
+    fig, axes = plt.subplots(1, 2, figsize=(10, 4.5), facecolor='white')
+    fig.subplots_adjust(wspace=0.38)
+
+    # Left panel: trajectories on the grid
+    ax = axes[0]
+    _style_ax(ax, 'Trajectories in the social environment', 'Column', 'Row')
+    labels_traj = ['Positive (seeks bond)', 'Neutral (indifferent)', 'Negative (avoids)']
+    colors_traj = [C_RED, C_MDGRAY, C_DKGRAY]
+    for res, label, col in zip([res_pos, res_neu, res_neg], labels_traj, colors_traj):
+        rs = [p[0] for p in res['positions']]
+        cs = [p[1] for p in res['positions']]
+        ax.plot(cs, rs, color=col, alpha=0.7, linewidth=1.4, label=label)
+        ax.scatter(cs[0],  rs[0],  color=col, marker='o', s=55, zorder=5, edgecolors='white', lw=0.8)
+        ax.scatter(cs[-1], rs[-1], color=col, marker='^', s=70, zorder=5, edgecolors='white', lw=0.8)
+    ax.scatter(SOCIAL_C, SOCIAL_R, color='#D4A017', marker='*', s=280, zorder=10,
+               edgecolors='#888888', linewidth=0.8, label='Social stimulus')
+    xs_g = np.arange(GRID_B); ys_g = np.arange(GRID_B)
+    sf_map = np.array([[social_field(rr, cc) for cc in xs_g] for rr in ys_g])
+    ax.contourf(xs_g, ys_g, sf_map, levels=5, cmap='Reds', alpha=0.10, zorder=0)
+    ax.set_xlim(-0.5, GRID_B-0.5); ax.set_ylim(-0.5, GRID_B-0.5)
+    ax.set_aspect('equal')
+    ax.legend(fontsize=8, framealpha=0.9, edgecolor=C_SPINE, loc='upper right')
+
+    # Right panel: social signal received s(t)
+    ax = axes[1]
+    _style_ax(ax, 'Social signal received  s(t)', 'Step',
+              'Social signal  s  (0 = none, 1.5 = maximum)')
+    for res, label, col in zip([res_pos, res_neu, res_neg], labels_traj, colors_traj):
+        s_raw = res['s_trace']
+        s_sm  = [float(np.mean(s_raw[max(0,i-25):i+1])) for i in range(len(s_raw))]
+        ax.plot(steps, s_sm, color=col, linewidth=2.0, label=label, alpha=0.9)
+    ax.axhline(0, color=C_LTGRAY, linewidth=0.7, linestyle='--')
+    ax.set_ylim(-0.05, S_MAX * 1.15)
+    ax.legend(fontsize=8.5, framealpha=0.9, edgecolor=C_SPINE, loc='upper right')
+
+    fig.suptitle('Social typology  —  three phenotypes by S-axis decentering',
+                 fontsize=11, color='#222222', fontweight='semibold', y=1.01)
+    _save(fig, 'fig4_tipologia_social_en.png')
+
+
+# ══════════════════════════════════════════════════════════════════════════════
+# FIG 5 — Proactivity (decentering as engine of exploration)
+# ══════════════════════════════════════════════════════════════════════════════
+
+def fig5_proactividad():
+    GRID_A     = 10
+    STEPS_A    = 500
+    HP_DECAY   = 0.10
+    ENERGY_DEC = 0.05
+    MOVE_SCALE = 3.0
+    WINDOW     = 20
+
+    CFG_CENTRADO = ModelConfig(
+        f_pos_target=0.0, r_pos_target=0.0, s_pos_target=0.0,
+        f_ten_target=0.0, r_ten_target=0.0, s_ten_target=0.0,
+        sens_F=0.0, sens_R=0.0, sens_S=0.0,
+    )
+    CFG_POSITIVO = ModelConfig(f_pos_target=1.0, r_pos_target=2.0, s_pos_target=0.8)
+    CFG_NEGATIVO = ModelConfig(
+        f_pos_target=-1.0, r_pos_target=-2.0, s_pos_target=-0.8,
+        sens_F=0.0, sens_R=0.0, sens_S=0.0,
+    )
+
+    def sim_a(cfg_a, seed):
+        rng = random.Random(seed)
+        x, y = GRID_A//2, GRID_A//2
+        hp = M.HP_EQ; energy = M.ENERGY_EQ; s_val = 0.0
+        visited = {(x, y)}
+        move_probs = []; distances = []
+        for _ in range(STEPS_A):
+            hp     = max(0.0, hp     - HP_DECAY)
+            energy = max(0.0, energy - ENERGY_DEC)
+            d = opp_dist_obs(hp, energy, s_val, cfg_a)
+            prob = min(1.0, d / MOVE_SCALE)
+            move_probs.append(prob); distances.append(d)
+            if rng.random() < prob:
+                dx, dy = rng.choice([(-1,0),(1,0),(0,-1),(0,1)])
+                x = max(0, min(GRID_A-1, x+dx)); y = max(0, min(GRID_A-1, y+dy))
+                visited.add((x, y))
+        return {'visited': len(visited), 'move_probs': move_probs, 'distances': distances}
+
+    seed = 42
+    agents = [
+        ('Positive (decentered +)', CFG_POSITIVO, C_RED),
+        ('Centered (target = 0)',   CFG_CENTRADO, C_MDGRAY),
+        ('Negative (decentered −)', CFG_NEGATIVO, C_DKGRAY),
+    ]
+    results = [(lbl, col, sim_a(cfg_a, seed)) for lbl, cfg_a, col in agents]
+
+    def smooth(series, w=WINDOW):
+        return [float(np.mean(series[max(0,i-w):i+1])) for i in range(len(series))]
+
+    steps = list(range(STEPS_A))
+
+    fig, axes = plt.subplots(1, 2, figsize=(10, 4.2), facecolor='white')
+    fig.subplots_adjust(wspace=0.35)
+
+    # Left panel: movement probability (moving average)
+    ax = axes[0]
+    _style_ax(ax, 'Motor activity (movement probability)',
+              'Step', f'Movement prob. ({WINDOW}-step moving average)')
+    ax.axvline(100, color=C_LTGRAY, linewidth=0.8, linestyle=':', alpha=0.7)
+    ax.text(102, 0.06, 'step 100', fontsize=7.5, color=C_LTGRAY)
+    for lbl, col, r in results:
+        sm = smooth(r['move_probs'])
+        ax.plot(steps, sm, color=col, linewidth=2.0, label=lbl, alpha=0.9)
+    ax.set_ylim(-0.02, 1.05)
+    ax.legend(fontsize=8.5, framealpha=0.9, edgecolor=C_SPINE, loc='lower right')
+
+    # Right panel: cumulative cells explored
+    def sim_a_cumulative(cfg_a, seed):
+        rng = random.Random(seed)
+        x, y = GRID_A//2, GRID_A//2
+        hp = M.HP_EQ; energy = M.ENERGY_EQ; s_val = 0.0
+        visited = {(x, y)}; visited_by_step = [1]
+        move_probs_list = []
+        for _ in range(STEPS_A):
+            hp     = max(0.0, hp     - HP_DECAY)
+            energy = max(0.0, energy - ENERGY_DEC)
+            d = opp_dist_obs(hp, energy, s_val, cfg_a)
+            prob = min(1.0, d / MOVE_SCALE)
+            move_probs_list.append(prob)
+            if rng.random() < prob:
+                dx, dy = rng.choice([(-1,0),(1,0),(0,-1),(0,1)])
+                x = max(0, min(GRID_A-1, x+dx)); y = max(0, min(GRID_A-1, y+dy))
+                visited.add((x, y))
+            visited_by_step.append(len(visited))
+        return visited_by_step, move_probs_list
+
+    ax = axes[1]
+    _style_ax(ax, 'Cumulative environment exploration', 'Step', 'Distinct cells visited')
+    ax.axhline(GRID_A**2, color=C_LTGRAY, linewidth=0.8, linestyle='--')
+    ax.text(10, GRID_A**2 + 0.5, f'Total cells ({GRID_A}×{GRID_A}={GRID_A**2})',
+            fontsize=7.5, color=C_LTGRAY)
+
+    steps_ext = list(range(STEPS_A+1))
+    for lbl, col, cfg_a in [(a[0], a[2], a[1]) for a in agents]:
+        visited_steps, _ = sim_a_cumulative(cfg_a, seed)
+        ax.plot(steps_ext, visited_steps, color=col, linewidth=2.0, label=lbl, alpha=0.9)
+        ax.text(STEPS_A + 2, visited_steps[-1], f'{visited_steps[-1]}',
+                fontsize=8, color=col, va='center')
+
+    ax.set_xlim(0, STEPS_A + 30)
+    ax.set_ylim(0, GRID_A**2 + 5)
+    ax.legend(fontsize=8.5, framealpha=0.9, edgecolor=C_SPINE, loc='lower right')
+
+    fig.suptitle('Proactivity  —  decentering as an engine of exploration',
+                 fontsize=11, color='#222222', fontweight='semibold', y=1.01)
+    _save(fig, 'fig5_proactividad_en.png')
+
+
+# ══════════════════════════════════════════════════════════════════════════════
 # Main
 # ══════════════════════════════════════════════════════════════════════════════
 
@@ -347,4 +561,6 @@ if __name__ == '__main__':
     fig1_ceguera()
     fig2_optimo()
     fig3_riqueza()
+    fig4_tipologia()
+    fig5_proactividad()
     print('Done.')
