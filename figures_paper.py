@@ -1,12 +1,12 @@
 """
-Figuras de resultados para el paper G-EMV.
+Paper result figures — G-EMV model.
 
-Genera cinco figuras en estilo papel (fondo blanco, paleta roja/gris, 300 dpi):
-  fig1_ceguera_oportunidad.png        — Ceguera a la oportunidad
-  fig2_optimo_activacion.png          — Óptimo de activación (Yerkes-Dodson)
-  fig3_recuperacion_riqueza.png       — Recuperación de riqueza de orientación
-  fig4_tipologia_social.png           — Tipología social (tres fenotipos)
-  fig5_proactividad.png               — Proactividad (descentramiento como motor)
+Generates five figures in paper style (white background, red/gray palette, 300 dpi):
+  fig1_ceguera_oportunidad.png   — Opportunity blindness
+  fig2_optimo_activacion.png     — Activation optimum (Yerkes-Dodson)
+  fig3_recuperacion_riqueza.png  — Orientation richness recovery
+  fig4_tipologia_social.png      — Social typology (three phenotypes)
+  fig5_proactividad.png          — Proactivity (decentering as exploration engine)
 """
 
 from __future__ import annotations
@@ -26,17 +26,17 @@ from model import State, ModelConfig, DEFAULT_CONFIG, opponent_distance_obs as o
 FIGURES_DIR = Path(__file__).parent / "figures"
 FIGURES_DIR.mkdir(exist_ok=True)
 
-# ─── Paleta ────────────────────────────────────────────────────────────────────
-C_RED    = '#B23B33'   # rojo principal
-C_RED2   = '#D97070'   # rojo secundario / saturación media
-C_DKGRAY = '#3D3D3D'   # gris oscuro (contraste fuerte)
-C_MDGRAY = '#7A7A7A'   # gris medio
-C_LTGRAY = '#BBBBBB'   # gris claro (referencias)
-C_SPINE  = '#CCCCCC'   # bordes de ejes
+# ─── Palette ───────────────────────────────────────────────────────────────────
+C_RED    = '#B23B33'
+C_RED2   = '#D97070'
+C_DKGRAY = '#3D3D3D'
+C_MDGRAY = '#7A7A7A'
+C_LTGRAY = '#BBBBBB'
+C_SPINE  = '#CCCCCC'
 
 ETA = 0.05
 
-# ─── Dinámica G-EMV ────────────────────────────────────────────────────────────
+# ─── G-EMV dynamics ────────────────────────────────────────────────────────────
 
 def gradient_step(s: State, cfg: ModelConfig = DEFAULT_CONFIG) -> State:
     dpos_F = s.pos_F - cfg.f_pos_target; dpos_R = s.pos_R - cfg.r_pos_target
@@ -68,7 +68,7 @@ def run_traj(init: State, n: int, cfg: ModelConfig = DEFAULT_CONFIG) -> list[Sta
     return traj
 
 
-# ─── Estilo compartido ─────────────────────────────────────────────────────────
+# ─── Shared style ──────────────────────────────────────────────────────────────
 
 def _style_ax(ax, title='', xlabel='', ylabel=''):
     ax.set_facecolor('white')
@@ -85,25 +85,23 @@ def _save(fig, name: str):
     path = FIGURES_DIR / name
     fig.savefig(path, dpi=300, bbox_inches='tight', facecolor='white')
     plt.close(fig)
-    print(f'  → {path.name}  ({path.stat().st_size // 1024} KB)')
+    print(f'  -> {path.name}  ({path.stat().st_size // 1024} KB)')
 
 
 # ══════════════════════════════════════════════════════════════════════════════
-# FIG 1 — Ceguera a la oportunidad
+# FIG 1 — Opportunity blindness
 # ══════════════════════════════════════════════════════════════════════════════
 
 def fig1_ceguera():
     cfg    = DEFAULT_CONFIG
     half_b = M.TEN_BASAL_MIN / 2.0
     DELTA  = 1.5
-    N_FLAT = 6    # pasos de línea plana (pre-estímulo visual)
-    N_POST = 35   # pasos de recuperación post-estímulo
+    N_FLAT = 6
+    N_POST = 35
 
-    # Estados iniciales (N_REPOSO = 0: estímulo inmediato)
     calma = State(pF=1.0, nF=1.0, pR=half_b, nR=half_b, pS=half_b, nS=half_b)
     tenso = State(pF=3.8, nF=3.8, pR=half_b, nR=half_b, pS=half_b, nS=half_b)
 
-    # Aplicar oportunidad DIRECTAMENTE al estado basal (sin pre-evolución)
     calma_stim = State(pF=calma.pF+DELTA, nF=calma.nF,
                        pR=calma.pR, nR=calma.nR, pS=calma.pS, nS=calma.nS)
     tenso_stim = State(pF=tenso.pF+DELTA, nF=tenso.nF,
@@ -112,12 +110,11 @@ def fig1_ceguera():
     calma_traj = run_traj(calma_stim, N_POST, cfg)
     tenso_traj = run_traj(tenso_stim, N_POST, cfg)
 
-    # pos_F: línea plana pre-estímulo + trayectoria post
-    steps_pre  = list(range(-N_FLAT, 1))         # -6 … 0
-    steps_post = list(range(0, N_POST + 1))      #  0 … 35
+    steps_pre  = list(range(-N_FLAT, 1))
+    steps_post = list(range(0, N_POST + 1))
 
-    posF_c_pre  = [calma.pos_F] * (N_FLAT + 1)  # plano en 0.0
-    posF_t_pre  = [tenso.pos_F] * (N_FLAT + 1)  # plano en 0.0
+    posF_c_pre  = [calma.pos_F] * (N_FLAT + 1)
+    posF_t_pre  = [tenso.pos_F] * (N_FLAT + 1)
     posF_c_post = [s.pos_F for s in calma_traj]
     posF_t_post = [s.pos_F for s in tenso_traj]
 
@@ -133,24 +130,23 @@ def fig1_ceguera():
     fig, axes = plt.subplots(1, 2, figsize=(10, 4.2), facecolor='white')
     fig.subplots_adjust(wspace=0.38)
 
-    # ── Panel izquierdo: trayectoria pos_F ───────────────────────────────────
+    # Left panel: pos_F trajectory
     ax = axes[0]
-    _style_ax(ax, 'pos_F tras la oportunidad  (δ = 1.5)',
-              'Paso  (0 = estímulo)', 'Posición física  pos_F')
+    _style_ax(ax, 'pos_F after the opportunity  (δ = 1.5)',
+              'Step  (0 = stimulus)', 'Physical position  pos_F')
 
     ax.axvspan(-N_FLAT, 0, color='#F5F5F5', zorder=0)
     ax.axvline(0, color=C_LTGRAY, linewidth=0.9, linestyle='--')
-    ax.text(0.5, 0.03, 'estímulo', fontsize=7.5, color='#AAAAAA',
+    ax.text(0.5, 0.03, 'stimulus', fontsize=7.5, color='#AAAAAA',
             transform=ax.get_xaxis_transform(), ha='left', va='bottom')
 
     ax.plot(steps_pre,  posF_c_pre,  color=C_RED,    linewidth=1.8, alpha=0.4, zorder=3)
     ax.plot(steps_post, posF_c_post, color=C_RED,    linewidth=2.4,
-            label='Calma   (ten_F = 2.0)', zorder=4)
+            label='Calm   (ten_F = 2.0)', zorder=4)
     ax.plot(steps_pre,  posF_t_pre,  color=C_DKGRAY, linewidth=1.8, alpha=0.4, zorder=3)
     ax.plot(steps_post, posF_t_post, color=C_DKGRAY, linewidth=2.4,
-            label='Saturado (ten_F = 7.6)', zorder=4)
+            label='Saturated (ten_F = 7.6)', zorder=4)
 
-    # Marcar el salto en t=0
     ax.annotate(f'Δpos_F = +{dpF_calma:.2f}',
                 xy=(0, calma_stim.pos_F), xytext=(5, calma_stim.pos_F + 0.12),
                 fontsize=8.5, color=C_RED, fontweight='bold',
@@ -160,20 +156,19 @@ def fig1_ceguera():
                 fontsize=8.5, color=C_DKGRAY, fontweight='bold',
                 arrowprops=dict(arrowstyle='->', color=C_DKGRAY, lw=1.1))
 
-    # Línea punteada de equilibrio
     ax.axhline(cfg.f_pos_target, color=C_LTGRAY, linewidth=0.8, linestyle=':')
-    ax.text(N_POST - 1, cfg.f_pos_target + 0.06, 'equilibrio',
+    ax.text(N_POST - 1, cfg.f_pos_target + 0.06, 'equilibrium',
             fontsize=7.5, color=C_LTGRAY, ha='right')
     ax.set_ylim(-0.15, 2.15)
     ax.legend(fontsize=8.5, framealpha=0.9, edgecolor=C_SPINE, loc='upper right')
 
-    # ── Panel derecho: barras comparativas ───────────────────────────────────
+    # Right panel: comparative bar chart
     ax = axes[1]
-    _style_ax(ax, 'Magnitud de la respuesta al estímulo', '', '')
+    _style_ax(ax, 'Response magnitude to stimulus', '', '')
 
     x_pos = np.array([0.0, 1.25])
     bar_w = 0.44
-    metric_labels = ['Δpos_F\n(salto percibido)', 'Δd\n(urgencia generada)']
+    metric_labels = ['Δpos_F\n(perceived jump)', 'Δd\n(generated urgency)']
     calma_vals    = [dpF_calma,     delta_d_calma]
     tenso_vals    = [dpF_tenso,     delta_d_tenso]
 
@@ -194,23 +189,23 @@ def fig1_ceguera():
     ax.set_xticks([])
     ax.spines['bottom'].set_visible(False)
 
-    ax.legend(handles=[Patch(color=C_RED,    label='Calma   (ten_F = 2.0)'),
-                        Patch(color=C_DKGRAY, label='Saturado (ten_F = 7.6)')],
+    ax.legend(handles=[Patch(color=C_RED,    label='Calm   (ten_F = 2.0)'),
+                        Patch(color=C_DKGRAY, label='Saturated (ten_F = 7.6)')],
               fontsize=8.5, framealpha=0.9, edgecolor=C_SPINE, loc='upper right')
 
     ratio_d = delta_d_calma / max(delta_d_tenso, 1e-9)
     ax.text(0.5, 0.98,
-            f'Saturado: ×{ratio_d:.0f} menos urgencia homeostática (Δd)',
+            f'Saturated: ×{ratio_d:.0f} less homeostatic urgency (Δd)',
             transform=ax.transAxes, ha='center', va='top',
             fontsize=8, color='#555555', style='italic')
 
-    fig.suptitle('Ceguera a la oportunidad', fontsize=12, color='#222222',
+    fig.suptitle('Opportunity blindness', fontsize=12, color='#222222',
                  fontweight='semibold', y=1.01)
     _save(fig, 'fig1_ceguera_oportunidad.png')
 
 
 # ══════════════════════════════════════════════════════════════════════════════
-# FIG 2 — Óptimo de activación (Yerkes-Dodson)
+# FIG 2 — Activation optimum (Yerkes-Dodson)
 # ══════════════════════════════════════════════════════════════════════════════
 
 def fig2_optimo():
@@ -218,7 +213,6 @@ def fig2_optimo():
     DELTA, N_POST = 1.5, 80
     half_b = M.TEN_BASAL_MIN / 2.0
 
-    # Barrido fino: 30 puntos de ten_F desde 1.5 hasta 7.95
     ten_vals = np.linspace(1.5, 7.95, 35)
     delta_d_abs = []
     delta_d_rel = []
@@ -237,18 +231,16 @@ def fig2_optimo():
         delta_d_rel.append((d_stim - d_base) / d_base * 100)
         peak_posF.append(peak)
 
-    # Localiza el máximo de Δd_abs
     best_idx = int(np.argmax(delta_d_abs))
     best_ten = ten_vals[best_idx]
     best_dd  = delta_d_abs[best_idx]
 
     fig, ax = plt.subplots(figsize=(7, 4.5), facecolor='white')
-    _style_ax(ax, 'Óptimo de activación ante una oportunidad (δ = 1.5)',
-              'Tensión física basal  ten_F', 'Δd homeostática (post − pre estímulo)')
+    _style_ax(ax, 'Activation optimum for an opportunity stimulus (δ = 1.5)',
+              'Baseline physical tension  ten_F', 'Homeostatic Δd (post − pre stimulus)')
 
-    # Región de saturación VOL_MAX
     ax.axvspan(M.VOL_MAX - 1.5, M.VOL_MAX, color='#F5DCDC', alpha=0.5, zorder=0,
-               label=f'Zona de saturación (ten_F > {M.VOL_MAX-1.5})')
+               label=f'Saturation zone (ten_F > {M.VOL_MAX-1.5})')
     ax.axvline(M.VOL_MAX, color=C_RED2, linewidth=0.8, linestyle=':')
     ax.text(M.VOL_MAX - 0.05, max(delta_d_abs)*0.98, f'VOL_MAX={M.VOL_MAX}',
             ha='right', fontsize=7.5, color=C_RED2, va='top')
@@ -257,15 +249,13 @@ def fig2_optimo():
     ax.fill_between(ten_vals, 0, delta_d_abs, color=C_RED, alpha=0.12, zorder=2)
     ax.axhline(0, color=C_LTGRAY, linewidth=0.8, linestyle='--')
 
-    # Marcador de pico
     ax.scatter([best_ten], [best_dd], color=C_RED, s=80, zorder=6)
-    ax.annotate(f'Pico: Δd={best_dd:.2f}\n(ten_F ≈ {best_ten:.1f})',
+    ax.annotate(f'Peak: Δd={best_dd:.2f}\n(ten_F ≈ {best_ten:.1f})',
                 xy=(best_ten, best_dd), xytext=(best_ten - 2.2, best_dd - 0.10),
                 arrowprops=dict(arrowstyle='->', color=C_RED, lw=1.2),
                 fontsize=8.5, color=C_RED)
 
-    # Marcadores para CALMA y TENSO del exp 1
-    for (tf, label, col) in [(2.0, 'Calma', C_RED), (7.6, 'Saturado', C_DKGRAY)]:
+    for (tf, label, col) in [(2.0, 'Calm', C_RED), (7.6, 'Saturated', C_DKGRAY)]:
         half = tf / 2.0
         init = State(pF=half, nF=half, pR=half_b, nR=half_b, pS=half_b, nS=half_b)
         stim = State(pF=init.pF+DELTA, nF=init.nF, pR=init.pR,
@@ -279,13 +269,13 @@ def fig2_optimo():
     ax.legend(fontsize=8.5, framealpha=0.9, edgecolor=C_SPINE, loc='upper left')
     ax.set_xlim(1.0, 8.3)
 
-    fig.suptitle('Óptimo de activación  —  Curva Yerkes-Dodson del modelo G-EMV',
+    fig.suptitle('Activation optimum  —  Yerkes-Dodson curve of the G-EMV model',
                  fontsize=11, color='#222222', fontweight='semibold', y=1.01)
     _save(fig, 'fig2_optimo_activacion.png')
 
 
 # ══════════════════════════════════════════════════════════════════════════════
-# FIG 3 — Recuperación de riqueza de orientación
+# FIG 3 — Orientation richness recovery
 # ══════════════════════════════════════════════════════════════════════════════
 
 def richness(s: State) -> float:
@@ -301,7 +291,6 @@ def fig3_riqueza():
     cfg = DEFAULT_CONFIG
     N_DYN = 80
 
-    # Estado inicial tipo "cepellín": toda la tensión en F, R y S en basal
     cepa = State(pF=3.5, nF=3.5,
                  pR=M.TEN_BASAL_MIN/2, nR=M.TEN_BASAL_MIN/2,
                  pS=M.TEN_BASAL_MIN/2, nS=M.TEN_BASAL_MIN/2)
@@ -315,44 +304,44 @@ def fig3_riqueza():
     fig, axes = plt.subplots(1, 2, figsize=(10, 4.2), facecolor='white')
     fig.subplots_adjust(wspace=0.35)
 
-    # Panel izquierdo: índice de riqueza R(t)
+    # Left panel: richness index R(t)
     ax = axes[0]
-    _style_ax(ax, 'Riqueza de orientación R(t)',
-              'Pasos (sin estímulo externo)', 'Riqueza R  [0 = un eje, 1 = distribuido]')
+    _style_ax(ax, 'Orientation richness R(t)',
+              'Steps (no external stimulus)', 'Richness R  [0 = one axis, 1 = distributed]')
     ax.axhline(math.log(2)/math.log(3), color=C_LTGRAY, linewidth=0.8, linestyle=':',
-               label='2 ejes iguales (R≈0.631)')
+               label='2 equal axes (R≈0.631)')
     ax.axhline(1.0, color=C_LTGRAY, linewidth=0.8, linestyle='--',
-               label='Máxima riqueza (R=1)')
+               label='Maximum richness (R=1)')
     ax.plot(steps, R_vals, color=C_RED, linewidth=2.4, zorder=4)
     ax.fill_between(steps, R_vals[0], R_vals, color=C_RED, alpha=0.12)
 
-    # Anotaciones
-    ax.scatter([0], [R_vals[0]], color=C_DKGRAY, s=55, zorder=6, label='Inicio: R=0 (cepellín)')
+    ax.scatter([0], [R_vals[0]], color=C_DKGRAY, s=55, zorder=6,
+               label='Start: R=0 (zeppelin)')
     ax.scatter([N_DYN], [R_vals[-1]], color=C_RED, s=55, zorder=6,
-               label=f'Final: R={R_vals[-1]:.2f}')
+               label=f'End: R={R_vals[-1]:.2f}')
     ax.set_ylim(-0.04, 1.08)
     ax.legend(fontsize=8.5, framealpha=0.9, edgecolor=C_SPINE, loc='lower right')
 
-    # Panel derecho: evolución de tensiones por eje
+    # Right panel: tension evolution by axis
     ax = axes[1]
-    _style_ax(ax, 'Redistribución de la tensión por eje',
-              'Pasos', 'Tensión ten_a')
-    ax.plot(steps, tenF, color=C_RED, linewidth=2.2, label='ten_F  (físico)')
+    _style_ax(ax, 'Tension redistribution by axis',
+              'Steps', 'Tension ten_a')
+    ax.plot(steps, tenF, color=C_RED, linewidth=2.2, label='ten_F  (physical)')
     ax.plot(steps, tenR, color=C_MDGRAY, linewidth=2.0, linestyle='--',
-            label='ten_R  (recursos)')
+            label='ten_R  (resource)')
     ax.plot(steps, tenS, color=C_LTGRAY, linewidth=1.8, linestyle=':',
             label='ten_S  (social)')
     ax.axhline(M.TEN_BASAL_MIN, color='#EEEEEE', linewidth=0.8)
     ax.text(1, M.TEN_BASAL_MIN+0.04, 'TBM', fontsize=7, color=C_LTGRAY)
     ax.legend(fontsize=8.5, framealpha=0.9, edgecolor=C_SPINE)
 
-    fig.suptitle('Recuperación de riqueza de orientación  —  dinámica de acoplamiento',
+    fig.suptitle('Orientation richness recovery  —  coupling dynamics',
                  fontsize=11, color='#222222', fontweight='semibold', y=1.01)
     _save(fig, 'fig3_recuperacion_riqueza.png')
 
 
 # ══════════════════════════════════════════════════════════════════════════════
-# FIG 4 — Tipología social (tres fenotipos)
+# FIG 4 — Social typology (three phenotypes)
 # ══════════════════════════════════════════════════════════════════════════════
 
 def fig4_tipologia():
@@ -413,15 +402,14 @@ def fig4_tipologia():
     res_neg = sim_b(CFG_NEG, seed)
 
     steps = list(range(STEPS_B+1))
-    PROX_THRESH = 3.0
 
     fig, axes = plt.subplots(1, 2, figsize=(10, 4.5), facecolor='white')
     fig.subplots_adjust(wspace=0.38)
 
-    # Panel izquierdo: trayectorias en el grid
+    # Left panel: trajectories on the grid
     ax = axes[0]
-    _style_ax(ax, 'Trayectorias en el entorno social', 'Columna', 'Fila')
-    labels_traj = ['Positivo (busca vínculo)', 'Neutro (indiferente)', 'Negativo (evita)']
+    _style_ax(ax, 'Trajectories in the social environment', 'Column', 'Row')
+    labels_traj = ['Positive (seeks bond)', 'Neutral (indifferent)', 'Negative (avoids)']
     colors_traj = [C_RED, C_MDGRAY, C_DKGRAY]
     for res, label, col in zip([res_pos, res_neu, res_neg], labels_traj, colors_traj):
         rs = [p[0] for p in res['positions']]
@@ -429,10 +417,8 @@ def fig4_tipologia():
         ax.plot(cs, rs, color=col, alpha=0.7, linewidth=1.4, label=label)
         ax.scatter(cs[0],  rs[0],  color=col, marker='o', s=55, zorder=5, edgecolors='white', lw=0.8)
         ax.scatter(cs[-1], rs[-1], color=col, marker='^', s=70, zorder=5, edgecolors='white', lw=0.8)
-    # Estímulo social
     ax.scatter(SOCIAL_C, SOCIAL_R, color='#D4A017', marker='*', s=280, zorder=10,
-               edgecolors='#888888', linewidth=0.8, label='Estímulo social')
-    # Campo social como heatmap muy tenue
+               edgecolors='#888888', linewidth=0.8, label='Social stimulus')
     xs_g = np.arange(GRID_B); ys_g = np.arange(GRID_B)
     sf_map = np.array([[social_field(rr, cc) for cc in xs_g] for rr in ys_g])
     ax.contourf(xs_g, ys_g, sf_map, levels=5, cmap='Reds', alpha=0.10, zorder=0)
@@ -440,10 +426,10 @@ def fig4_tipologia():
     ax.set_aspect('equal')
     ax.legend(fontsize=8, framealpha=0.9, edgecolor=C_SPINE, loc='upper right')
 
-    # Panel derecho: señal social recibida s(t) — más intuitivo que la distancia
+    # Right panel: social signal received s(t)
     ax = axes[1]
-    _style_ax(ax, 'Señal social recibida  s(t)', 'Paso', 'Señal social  s  (0 = ninguna, 1.5 = máxima)')
-    # Media móvil 25 pasos para el neutro estocástico
+    _style_ax(ax, 'Social signal received  s(t)', 'Step',
+              'Social signal  s  (0 = none, 1.5 = maximum)')
     for res, label, col in zip([res_pos, res_neu, res_neg], labels_traj, colors_traj):
         s_raw = res['s_trace']
         s_sm  = [float(np.mean(s_raw[max(0,i-25):i+1])) for i in range(len(s_raw))]
@@ -452,13 +438,13 @@ def fig4_tipologia():
     ax.set_ylim(-0.05, S_MAX * 1.15)
     ax.legend(fontsize=8.5, framealpha=0.9, edgecolor=C_SPINE, loc='upper right')
 
-    fig.suptitle('Tipología social  —  tres fenotipos por descentramiento del eje S',
+    fig.suptitle('Social typology  —  three phenotypes by S-axis decentering',
                  fontsize=11, color='#222222', fontweight='semibold', y=1.01)
     _save(fig, 'fig4_tipologia_social.png')
 
 
 # ══════════════════════════════════════════════════════════════════════════════
-# FIG 5 — Proactividad (descentramiento como motor)
+# FIG 5 — Proactivity (decentering as engine of exploration)
 # ══════════════════════════════════════════════════════════════════════════════
 
 def fig5_proactividad():
@@ -467,7 +453,7 @@ def fig5_proactividad():
     HP_DECAY   = 0.10
     ENERGY_DEC = 0.05
     MOVE_SCALE = 3.0
-    WINDOW     = 20   # ventana de la media móvil
+    WINDOW     = 20
 
     CFG_CENTRADO = ModelConfig(
         f_pos_target=0.0, r_pos_target=0.0, s_pos_target=0.0,
@@ -500,9 +486,9 @@ def fig5_proactividad():
 
     seed = 42
     agents = [
-        ('Positivo (descentrado +)', CFG_POSITIVO, C_RED),
-        ('Centrado (target = 0)',    CFG_CENTRADO, C_MDGRAY),
-        ('Negativo (descentrado −)', CFG_NEGATIVO, C_DKGRAY),
+        ('Positive (decentered +)', CFG_POSITIVO, C_RED),
+        ('Centered (target = 0)',   CFG_CENTRADO, C_MDGRAY),
+        ('Negative (decentered −)', CFG_NEGATIVO, C_DKGRAY),
     ]
     results = [(lbl, col, sim_a(cfg_a, seed)) for lbl, cfg_a, col in agents]
 
@@ -514,27 +500,19 @@ def fig5_proactividad():
     fig, axes = plt.subplots(1, 2, figsize=(10, 4.2), facecolor='white')
     fig.subplots_adjust(wspace=0.35)
 
-    # Panel izquierdo: probabilidad de movimiento (media móvil)
+    # Left panel: movement probability (moving average)
     ax = axes[0]
-    _style_ax(ax, 'Actividad motora (prob. de movimiento)',
-              'Paso', f'Prob. movimiento (media móvil {WINDOW} pasos)')
+    _style_ax(ax, 'Motor activity (movement probability)',
+              'Step', f'Movement prob. ({WINDOW}-step moving average)')
     ax.axvline(100, color=C_LTGRAY, linewidth=0.8, linestyle=':', alpha=0.7)
-    ax.text(102, 0.06, 'paso 100', fontsize=7.5, color=C_LTGRAY)
+    ax.text(102, 0.06, 'step 100', fontsize=7.5, color=C_LTGRAY)
     for lbl, col, r in results:
         sm = smooth(r['move_probs'])
         ax.plot(steps, sm, color=col, linewidth=2.0, label=lbl, alpha=0.9)
     ax.set_ylim(-0.02, 1.05)
     ax.legend(fontsize=8.5, framealpha=0.9, edgecolor=C_SPINE, loc='lower right')
 
-    # Panel derecho: celdas exploradas acumuladas
-    ax = axes[1]
-    _style_ax(ax, 'Exploración acumulada', 'Paso', 'Celdas distintas visitadas')
-    for lbl, col, r in results:
-        # Reconstruir exploración acumulada desde move_probs (aproximación determinista)
-        # Corremos de nuevo el sim con seguimiento de visited por paso
-        ax.plot([], [], color=col, linewidth=2.0, label=lbl)  # placeholder
-
-    # Nueva simulación con exploración acumulada
+    # Right panel: cumulative cells explored
     def sim_a_cumulative(cfg_a, seed):
         rng = random.Random(seed)
         x, y = GRID_A//2, GRID_A//2
@@ -554,10 +532,10 @@ def fig5_proactividad():
             visited_by_step.append(len(visited))
         return visited_by_step, move_probs_list
 
-    ax.cla()
-    _style_ax(ax, 'Exploración acumulada del entorno', 'Paso', 'Celdas distintas visitadas')
+    ax = axes[1]
+    _style_ax(ax, 'Cumulative environment exploration', 'Step', 'Distinct cells visited')
     ax.axhline(GRID_A**2, color=C_LTGRAY, linewidth=0.8, linestyle='--')
-    ax.text(10, GRID_A**2 + 0.5, f'Total celdas ({GRID_A}×{GRID_A}={GRID_A**2})',
+    ax.text(10, GRID_A**2 + 0.5, f'Total cells ({GRID_A}×{GRID_A}={GRID_A**2})',
             fontsize=7.5, color=C_LTGRAY)
 
     steps_ext = list(range(STEPS_A+1))
@@ -571,20 +549,20 @@ def fig5_proactividad():
     ax.set_ylim(0, GRID_A**2 + 5)
     ax.legend(fontsize=8.5, framealpha=0.9, edgecolor=C_SPINE, loc='lower right')
 
-    fig.suptitle('Proactividad  —  el descentramiento como motor de exploración',
+    fig.suptitle('Proactivity  —  decentering as an engine of exploration',
                  fontsize=11, color='#222222', fontweight='semibold', y=1.01)
     _save(fig, 'fig5_proactividad.png')
 
 
 # ══════════════════════════════════════════════════════════════════════════════
-# MAIN
+# Main
 # ══════════════════════════════════════════════════════════════════════════════
 
 if __name__ == '__main__':
-    print('Generando figuras del paper G-EMV...')
+    print('Generating English figures...')
     fig1_ceguera()
     fig2_optimo()
     fig3_riqueza()
     fig4_tipologia()
     fig5_proactividad()
-    print('Listo.')
+    print('Done.')
