@@ -40,12 +40,12 @@ g-emv/
 ├── figure_firmas_activacion.py              ← Generates the sphere figure
 │
 ├── figures/                                  ← Pre-generated PNGs (reproducible)
-│   ├── fig1_ceguera_oportunidad.png
-│   ├── fig2_optimo_activacion.png
-│   ├── fig3_recuperacion_riqueza.png
-│   ├── fig4_tipologia_social.png
-│   ├── fig5_proactividad.png
-│   └── exp_firmas_activacion_esfera.png
+│   ├── fig1_opportunity_blindness.png
+│   ├── fig2_activation_optimum.png
+│   ├── fig3_richness_recovery.png
+│   ├── fig4_social_typology.png
+│   ├── fig5_proactivity.png
+│   └── exp_activation_signatures_sphere.png
 │
 ├── attractor_data.json                       ← Results: 3000 conditions → attractor
 ├── attractor_signatures.json                 ← Results: 3000 normalised signatures
@@ -179,15 +179,15 @@ python robustez_exp_CD.py
 ```bash
 # Figures 1–5 (requires only model.py and standard dependencies)
 python figures_paper.py
-# → figures/fig1_ceguera_oportunidad.png
-# → figures/fig2_optimo_activacion.png
-# → figures/fig3_recuperacion_riqueza.png
-# → figures/fig4_tipologia_social.png
-# → figures/fig5_proactividad.png
+# → figures/fig1_opportunity_blindness.png
+# → figures/fig2_activation_optimum.png
+# → figures/fig3_richness_recovery.png
+# → figures/fig4_social_typology.png
+# → figures/fig5_proactivity.png
 
 # Sphere figure (requires attractor_signatures.json)
 python figure_firmas_activacion.py
-# → figures/exp_firmas_activacion_esfera.png
+# → figures/exp_activation_signatures_sphere.png
 ```
 
 ---
@@ -203,17 +203,17 @@ python figure_firmas_activacion.py
 If you use this code or the G-EMV model in your research, please cite the preprint:
 
 ```bibtex
-@misc{enrico2025gemv,
+@misc{enrico2026gemv,
   author    = {Enrico, Manel},
   title     = {{G-EMV}: Geometric Architecture for Homeostatic Orientation in Agents},
-  year      = {2025},
-  publisher = {arXiv},
-  note      = {arXiv:XXXX.XXXXX},
-  url       = {https://arxiv.org/abs/XXXX.XXXXX}
+  year      = {2026},
+  publisher = {Zenodo},      % replace with arXiv / journal if applicable
+  doi       = {10.XXXX/zenodo.XXXXXXX},  % fill in after publication
+  url       = {https://doi.org/10.XXXX/zenodo.XXXXXXX}
 }
 ```
 
-*(Replace `XXXX.XXXXX` with the arXiv identifier once published.)*
+*(Fill in `doi` and `url` with the Zenodo DOI once published.)*
 
 ---
 

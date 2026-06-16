@@ -16,7 +16,7 @@ from matplotlib.lines import Line2D
 from pathlib import Path
 
 INFILE  = Path(__file__).parent / "attractor_signatures.json"
-OUTFILE = Path(__file__).parent / "figures" / "exp_firmas_activacion_esfera.png"
+OUTFILE = Path(__file__).parent / "figures" / "exp_activation_signatures_sphere.png"
 
 C_POS_F = '#C0392B'
 C_POS_R = '#922B21'

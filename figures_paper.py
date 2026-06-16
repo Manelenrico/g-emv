@@ -2,11 +2,11 @@
 Paper result figures — G-EMV model.
 
 Generates five figures in paper style (white background, red/gray palette, 300 dpi):
-  fig1_ceguera_oportunidad.png   — Opportunity blindness
-  fig2_optimo_activacion.png     — Activation optimum (Yerkes-Dodson)
-  fig3_recuperacion_riqueza.png  — Orientation richness recovery
-  fig4_tipologia_social.png      — Social typology (three phenotypes)
-  fig5_proactividad.png          — Proactivity (decentering as exploration engine)
+  fig1_opportunity_blindness.png   — Opportunity blindness
+  fig2_activation_optimum.png     — Activation optimum (Yerkes-Dodson)
+  fig3_richness_recovery.png  — Orientation richness recovery
+  fig4_social_typology.png      — Social typology (three phenotypes)
+  fig5_proactivity.png          — Proactivity (decentering as exploration engine)
 """
 
 from __future__ import annotations
@@ -201,7 +201,7 @@ def fig1_ceguera():
 
     fig.suptitle('Opportunity blindness', fontsize=12, color='#222222',
                  fontweight='semibold', y=1.01)
-    _save(fig, 'fig1_ceguera_oportunidad.png')
+    _save(fig, 'fig1_opportunity_blindness.png')
 
 
 # ══════════════════════════════════════════════════════════════════════════════
@@ -271,7 +271,7 @@ def fig2_optimo():
 
     fig.suptitle('Activation optimum  —  Yerkes-Dodson curve of the G-EMV model',
                  fontsize=11, color='#222222', fontweight='semibold', y=1.01)
-    _save(fig, 'fig2_optimo_activacion.png')
+    _save(fig, 'fig2_activation_optimum.png')
 
 
 # ══════════════════════════════════════════════════════════════════════════════
@@ -337,7 +337,7 @@ def fig3_riqueza():
 
     fig.suptitle('Orientation richness recovery  —  coupling dynamics',
                  fontsize=11, color='#222222', fontweight='semibold', y=1.01)
-    _save(fig, 'fig3_recuperacion_riqueza.png')
+    _save(fig, 'fig3_richness_recovery.png')
 
 
 # ══════════════════════════════════════════════════════════════════════════════
@@ -440,7 +440,7 @@ def fig4_tipologia():
 
     fig.suptitle('Social typology  —  three phenotypes by S-axis decentering',
                  fontsize=11, color='#222222', fontweight='semibold', y=1.01)
-    _save(fig, 'fig4_tipologia_social.png')
+    _save(fig, 'fig4_social_typology.png')
 
 
 # ══════════════════════════════════════════════════════════════════════════════
@@ -551,7 +551,7 @@ def fig5_proactividad():
 
     fig.suptitle('Proactivity  —  decentering as an engine of exploration',
                  fontsize=11, color='#222222', fontweight='semibold', y=1.01)
-    _save(fig, 'fig5_proactividad.png')
+    _save(fig, 'fig5_proactivity.png')
 
 
 # ══════════════════════════════════════════════════════════════════════════════
