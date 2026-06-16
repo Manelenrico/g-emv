@@ -1,63 +1,57 @@
-# G-EMV — Geometría de Emociones, Motivaciones y Valores
+# G-EMV — Geometric Architecture for Homeostatic Orientation in Agents
 
-**Arquitectura geométrica de orientación homeostática para agentes**
-
-**Autor:** Manel Enrico · ORCID [0009-0008-1732-6310](https://orcid.org/0009-0008-1732-6310)  
-**Licencia:** MIT  
-**Preprint:** *(enlace arXiv pendiente de publicación)*
+**Author:** Manel Enrico · ORCID [0009-0008-1732-6310](https://orcid.org/0009-0008-1732-6310)  
+**License:** MIT  
+**Preprint:** *(arXiv link — pending publication)*
 
 ---
 
-## Descripción
+## Description
 
-G-EMV es un modelo matemático de la orientación motivacional de un agente artificial. La idea central es que todo agente puede describirse mediante tres ejes ortogonales de interés —**F** (físico/corporal), **R** (recursos/material) y **S** (social/relacional)— cada uno con dos fuerzas oponentes: una de aproximación (f⁺) y otra de evitación (f⁻). La diferencia f⁺ − f⁻ define la *posición* del agente en el eje (orientación positiva o negativa) y la suma f⁺ + f⁻ define la *tensión* (intensidad de activación). Esta representación de doble componente captura de forma unificada la direccionalidad y la intensidad de la motivación.
+G-EMV is a mathematical model of the motivational orientation of an artificial agent. The central idea is that any agent can be described by three orthogonal axes of interest — **F** (physical/bodily), **R** (resources/material), and **S** (social/relational) — each with two opponent forces: an approach force (f⁺) and an avoidance force (f⁻). The difference f⁺ − f⁻ defines the agent's *position* on the axis (positive or negative orientation) and the sum f⁺ + f⁻ defines its *tension* (activation intensity). This two-component representation captures both the directionality and the intensity of motivation in a unified framework.
 
-La dinámica del agente es un **descenso de gradiente exacto** sobre una función de distancia homeostática ponderada, que mide cuánto se aleja el estado actual del punto de equilibrio. El modelo incluye dos restricciones fisiológicamente motivadas: un suelo de tensión mínima por eje (TEN_BASAL_MIN = 0.10) y un techo de volumen total de activación (VOL_MAX = 8.0). Un mecanismo de **acoplamiento cruzado** hace que el exceso en un eje amplifique la sensibilidad de los demás, reproduciendo la difusión emocional característica de los estados de alta carga.
+The agent's dynamics are an **exact gradient descent** on a weighted homeostatic distance function that measures how far the current state deviates from the equilibrium point. The model includes two physiologically motivated constraints: a per-axis minimum tension floor (TEN_BASAL_MIN = 0.10) and a total activation volume ceiling (VOL_MAX = 8.0). A **cross-axis coupling** mechanism causes excess tension in one axis to amplify the sensitivity of the other two, reproducing the emotional diffusion characteristic of high-load states.
 
-El repositorio acompaña al preprint con el código completo, reproducible y autocontenido: el modelo, los experimentos reportados, las pruebas de ablación/robustez y los scripts que generan todas las figuras.
+This repository accompanies the preprint with complete, reproducible, self-contained code: the model core, all reported experiments, ablation and robustness tests, and the scripts that generate every figure.
 
 ---
 
-## Estructura del repositorio
+## Repository structure
 
 ```
-gemv/
+g-emv/
 │
-├── model.py                               ← Núcleo: State, ModelConfig,
-│                                             distancia homeostática, DEFAULT_CONFIG
+├── model.py                                  ← Core: State, ModelConfig,
+│                                               homeostatic distance, DEFAULT_CONFIG
 │
-├── experiments_atractores.py              ← Atractor global único
-├── experiments_firmas_activacion.py       ← Firmas de respuesta en la esfera
-├── experiments_dinamica_tension_inmediato.py  ← Ceguera a la oportunidad  (Fig 1)
-├── experimentos_niveles_tension.py        ← Óptimo de activación / Yerkes-Dodson  (Fig 2)
-├── experimentos_riqueza_orientacion.py    ← Recuperación de riqueza de orientación  (Fig 3)
-├── experiments_decentramiento.py          ← Tipología social (Fig 4) + Proactividad  (Fig 5)
-├── experiments_descentramiento_optimo.py  ← Descentramiento óptimo según el entorno
-├── experiments_anticipacion.py            ← Coste computacional de la anticipación
-├── experiments_dinamica_tension.py        ← Exploración dinámica calma vs tensión
-├── experiments.py                         ← Exploración preliminar (fenotipos, aburrimiento)
-├── experiments_tension.py                 ← Exploración preliminar (tensión independiente)
+├── experiments_atractores.py                 ← Single global attractor
+├── experiments_firmas_activacion.py          ← Response signatures on the sphere
+├── experiments_dinamica_tension_inmediato.py ← Opportunity blindness  (Fig 1)
+├── experimentos_niveles_tension.py           ← Activation optimum / Yerkes-Dodson  (Fig 2)
+├── experimentos_riqueza_orientacion.py       ← Orientation richness recovery  (Fig 3)
+├── experiments_decentramiento.py             ← Social typology (Fig 4) + Proactivity (Fig 5)
+├── experiments_descentramiento_optimo.py     ← Optimal decentering by environment
+├── experiments_anticipacion.py              ← Computational cost of anticipation
 │
-├── robustez_experimentos.py               ← Ablación/robustez: experimentos A y B
-├── robustez_exp_CD.py                     ← Ablación/robustez: experimentos C y D
+├── robustez_experimentos.py                  ← Ablation/robustness: experiments A and B
+├── robustez_exp_CD.py                        ← Ablation/robustness: experiments C and D
 │
-├── figures_paper.py                       ← Genera las 5 figuras del paper
-├── figure_firmas_activacion.py            ← Genera la figura de la esfera
+├── figures_paper.py                          ← Generates all five paper figures
+├── figure_firmas_activacion.py              ← Generates the sphere figure
 │
-├── figures/                               ← PNGs generados (reproducibles)
+├── figures/                                  ← Pre-generated PNGs (reproducible)
 │   ├── fig1_ceguera_oportunidad.png
 │   ├── fig2_optimo_activacion.png
 │   ├── fig3_recuperacion_riqueza.png
 │   ├── fig4_tipologia_social.png
 │   ├── fig5_proactividad.png
-│   ├── exp_firmas_activacion_esfera.png
-│   └── ...                               (figuras de exploración)
+│   └── exp_firmas_activacion_esfera.png
 │
-├── attractor_data.json                    ← Resultados: 3000 condiciones → atractor
-├── attractor_signatures.json             ← Resultados: 3000 firmas normalizadas
+├── attractor_data.json                       ← Results: 3000 conditions → attractor
+├── attractor_signatures.json                 ← Results: 3000 normalised signatures
 │
 ├── docs/
-│   └── APENDICE_MATEMATICO.md            ← Derivaciones y parámetros exactos (LaTeX)
+│   └── MATHEMATICAL_APPENDIX.md             ← Full derivations and exact parameters
 │
 ├── requirements.txt
 ├── LICENSE
@@ -66,143 +60,147 @@ gemv/
 
 ---
 
-## Instalación
+## Installation
 
-Requiere **Python ≥ 3.10**. Las únicas dependencias externas son NumPy y Matplotlib. No se usa scikit-learn: el algoritmo k-means está implementado manualmente (Lloyd's con k-means++ y 15 repeticiones de inicialización).
+Requires **Python ≥ 3.10**. The only external dependencies are NumPy and Matplotlib. No scikit-learn is used: the k-means algorithm is implemented from scratch (Lloyd's with k-means++ initialisation and 15 restarts).
 
 ```bash
-# Clonar el repositorio
-git clone https://github.com/Manelenrico/geometria-emociones.git
-cd geometria-emociones
+# Clone the repository
+git clone https://github.com/Manelenrico/g-emv.git
+cd g-emv
 
-# Entorno virtual (recomendado)
+# Virtual environment (recommended)
 python3 -m venv .venv
 source .venv/bin/activate          # Linux / macOS
 # .venv\Scripts\activate           # Windows
 
-# Instalar dependencias
+# Install dependencies
 pip install -r requirements.txt
 ```
 
 ---
 
-## Reproducción de experimentos
+## Reproducing the experiments
 
-Todos los scripts imprimen resultados numéricos en la consola y guardan figuras en `figures/`. Las semillas aleatorias están fijadas en el código para reproducibilidad exacta.
+All scripts print numerical results to the console and save figures to `figures/`. Random seeds are fixed in the code for exact reproducibility.
 
-### Modelo: verificación del núcleo
+### Model: core verification
 
 ```bash
 python model.py
-# Imprime parámetros de DEFAULT_CONFIG, constantes y equilibrio teórico
+# Prints DEFAULT_CONFIG parameters, constants and theoretical equilibrium
 ```
 
-### Experimento: atractor global único
+### Single global attractor
 
 ```bash
 python experiments_atractores.py
-# 3000 condiciones iniciales distribuidas por el espacio de estado completo,
-# 400 pasos de dinámica sin estímulos externos.
+# 3000 initial conditions distributed across the full state space,
+# 400 steps of dynamics with no external stimuli.
 # → attractor_data.json
-# Resultado: σ = 4.46×10⁻¹⁶ (un único atractor en pos* ≈ (0.821, 1.601, 0.680))
+# Result: σ = 4.46×10⁻¹⁶ (single attractor at pos* ≈ (0.821, 1.601, 0.680))
 ```
 
-### Experimento: firmas de activación en la esfera
+### Activation signatures on the sphere
 
 ```bash
 python experiments_firmas_activacion.py
-# 3000 perturbaciones (10% puras, 45% mezclas 2 ejes, 45% mezclas 3 ejes),
-# firma = desviación media firmada durante 80 pasos de recuperación, normalizada.
+# 3000 perturbations (10% pure-pole, 45% two-axis mixes, 45% three-axis mixes),
+# signature = mean signed deviation over 80 recovery steps, normalised to unit sphere.
 # → attractor_signatures.json
-# Resultado: 62.7% de las mezclas dentro de 30° de un polo puro (nulo esférico: 40.2%)
+# Result: 62.7% of mixes within 30° of a pure pole (spherical null: 40.2%)
 
-python figure_firmas_activacion.py   # requiere attractor_signatures.json
+python figure_firmas_activacion.py   # requires attractor_signatures.json
 # → figures/exp_firmas_activacion_esfera.png
 ```
 
-### Fig 1 — Ceguera a la oportunidad
+### Fig 1 — Opportunity blindness
 
 ```bash
 python experiments_dinamica_tension_inmediato.py
-# Dos agentes con pos_F=0 y ten_F ∈ {2.0, 7.6}; oportunidad δ=1.5 en pF.
-# Resultado: Δd_calma = 0.628, Δd_saturado = 0.042  (×15 de diferencia)
+# Two agents with pos_F = 0 and ten_F ∈ {2.0, 7.6}; opportunity δ = 1.5 on pF.
+# Result: Δd_calm = 0.628, Δd_saturated = 0.042  (×15 difference)
 ```
 
-### Fig 2 — Óptimo de activación (Yerkes-Dodson)
+### Fig 2 — Activation optimum (Yerkes-Dodson)
 
 ```bash
 python experimentos_niveles_tension.py
-# Barrido de ten_F ∈ {2.0, 4.0, 6.0, 7.0, 7.5, 7.9}, mismo estímulo δ=1.5.
-# Resultado: Δd(ten_F) con pico en ten_F ≈ 6.2 y caída brusca al superar VOL_MAX
+# Sweep of ten_F ∈ {2.0, 4.0, 6.0, 7.0, 7.5, 7.9}, same stimulus δ = 1.5.
+# Result: Δd(ten_F) peaks at ten_F ≈ 6.2 with sharp drop beyond VOL_MAX
 ```
 
-### Fig 3 — Recuperación de riqueza de orientación
+### Fig 3 — Orientation richness recovery
 
 ```bash
 python experimentos_riqueza_orientacion.py
-# Estado inicial: cepellín (exceso de tensión concentrado en F, R y S en basal).
-# Resultado: índice de riqueza R sube de 0 a 0.92 en 80 pasos sin estímulo externo
+# Initial state: zeppelin (all tension concentrated in F, R and S at floor).
+# Result: richness index R rises from 0 to 0.92 in 80 steps with no external stimulus
 ```
 
-### Figs 4 y 5 — Tipología social y Proactividad
+### Figs 4 and 5 — Social typology and Proactivity
 
 ```bash
 python experiments_decentramiento.py
-# Exp A (motor de vida): tres agentes en entorno vacío 10×10, 500 pasos.
-#   Resultado: Positivo (95 celdas, proactivo desde paso 1) vs
-#              Centrado (68 celdas, reactivo) vs Negativo (81 celdas, declinante)
-# Exp B (tipología social): tres fenotipos en grid 20×20 con estímulo social.
-#   Resultado: positivo busca y permanece; neutro deambula; negativo evita
+# Exp A (exploration engine): three agents in an empty 10×10 grid, 500 steps.
+#   Result: Positive (95 cells, proactive from step 1) vs
+#           Centered (68 cells, reactive) vs Negative (81 cells, declining)
+# Exp B (social typology): three phenotypes in a 20×20 grid with a social stimulus.
+#   Result: positive seeks and stays; neutral wanders; negative avoids
 ```
 
-### Descentramiento óptimo dependiente del entorno
+### Optimal decentering by environment
 
 ```bash
 python experiments_descentramiento_optimo.py
-# Entorno plácido vs exigente: ¿qué nivel de descentramiento maximiza la supervivencia?
+# Placid vs demanding environment: what level of decentering maximises survival?
 ```
 
-### Coste computacional de la anticipación
+### Computational cost of anticipation
 
 ```bash
 python experiments_anticipacion.py
-# Agentes reactivo / medio / profundo (think_cost variable).
-# Resultado: curva de supervivencia vs coste de anticipar en dos entornos
+# Reactive / moderate / deep agents (variable think_cost).
+# Result: survival curve vs anticipation cost across two environments
 ```
 
-### Ablación y robustez paramétrica
+### Ablation and parametric robustness
 
 ```bash
 python robustez_experimentos.py
-# Variación sistemática de η, δ y parámetros del modelo para los experimentos A y B
+# Systematic variation of η, δ and model parameters for experiments A and B
 
 python robustez_exp_CD.py
-# Variación paramétrica para los experimentos C (tipología social) y D (anticipación)
+# Parametric variation for experiments C (social typology) and D (anticipation)
 ```
 
-### Generar todas las figuras del paper
+### Generate all paper figures
 
 ```bash
-# Figuras 1–5 (solo requiere model.py y las dependencias estándar)
+# Figures 1–5 (requires only model.py and standard dependencies)
 python figures_paper.py
 # → figures/fig1_ceguera_oportunidad.png
 # → figures/fig2_optimo_activacion.png
 # → figures/fig3_recuperacion_riqueza.png
 # → figures/fig4_tipologia_social.png
 # → figures/fig5_proactividad.png
+
+# Sphere figure (requires attractor_signatures.json)
+python figure_firmas_activacion.py
+# → figures/exp_firmas_activacion_esfera.png
 ```
 
 ---
 
-## Apéndice matemático
+## Mathematical appendix
 
-`docs/APENDICE_MATEMATICO.md` contiene la derivación completa: definición formal del estado, gradientes exactos de d², calibraciones de parámetros, mecanismo VOL_MAX/TEN_BASAL_MIN y los parámetros exactos de cada experimento.
+`docs/MATHEMATICAL_APPENDIX.md` contains the complete derivation: formal state definition, exact gradients of d², parameter calibrations, VOL_MAX/TEN_BASAL_MIN mechanism, and the exact parameters for each experiment.
 
 ---
 
-## Cómo citar
+## How to cite
 
-Si usas este código o el modelo G-EMV en tu investigación, por favor cita el preprint:
+If you use this code or the G-EMV model in your research, please cite the preprint:
 
 ```bibtex
 @misc{enrico2025gemv,
@@ -215,18 +213,17 @@ Si usas este código o el modelo G-EMV en tu investigación, por favor cita el p
 }
 ```
 
-*(Sustituir `XXXX.XXXXX` por el identificador de arXiv en el momento de la publicación.)*
+*(Replace `XXXX.XXXXX` with the arXiv identifier once published.)*
 
 ---
 
-## Autor
+## Author
 
 **Manel Enrico**  
-ORCID: [0009-0008-1732-6310](https://orcid.org/0009-0008-1732-6310)  
-Email: manu.enrico1969@gmail.com
+ORCID: [0009-0008-1732-6310](https://orcid.org/0009-0008-1732-6310)
 
 ---
 
-## Licencia
+## License
 
-MIT License — ver [LICENSE](LICENSE).
+MIT License — see [LICENSE](LICENSE).
