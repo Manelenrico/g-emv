@@ -2,7 +2,7 @@
 
 **Author:** Manel Enrico · ORCID [0009-0008-1732-6310](https://orcid.org/0009-0008-1732-6310)  
 **License:** MIT  
-**Preprint:** [10.5281/zenodo.20719082](https://doi.org/10.5281/zenodo.20719082)
+**Preprint:** [10.5281/zenodo.21026795](https://doi.org/10.5281/zenodo.21026795)
 
 ---
 
@@ -294,8 +294,8 @@ If you use this code or the G-EMV model in your research, please cite the prepri
   title     = {{G-EMV}: Geometric Architecture for Homeostatic Orientation in Agents},
   year      = {2026},
   publisher = {Zenodo},
-  doi       = {10.5281/zenodo.20719082},
-  url       = {https://doi.org/10.5281/zenodo.20719082}
+  doi       = {10.5281/zenodo.21026795},
+  url       = {https://doi.org/10.5281/zenodo.21026795}
 }
 ```
 
