@@ -8,7 +8,7 @@
 
 ## Description
 
-G-EMV is a mathematical model of the motivational orientation of an artificial agent. The central idea is that any agent can be described by three orthogonal axes of interest — F (physical/bodily), R (resources/material), and S (social/relational) — each with two opponent forces: an approach force (f+) and an avoidance force (f-). The difference f+ - f- defines the agent's *position* on the axis (positive or negative orientation) and the sum f+ + f- defines its *tension* (activation intensity). This two-component representation captures both the directionality and the intensity of motivation in a unified framework.
+G-EMV is a mathematical model of the motivational orientation of an artificial agent. The central idea is that any agent can be described by three orthogonal axes of interest: F (physical/bodily), R (resources/material), and S (social/relational), each with two opponent forces: an approach force (f+) and an avoidance force (f-). The difference f+ - f- defines the agent's *position* on the axis (positive or negative orientation) and the sum f+ + f- defines its *tension* (activation intensity). This two-component representation captures both the directionality and the intensity of motivation in a unified framework.
 
 The agent's dynamics are an exact gradient descent on a weighted homeostatic distance function that measures how far the current state deviates from the equilibrium point. The model includes two physiologically motivated constraints: a per-axis minimum tension floor (TEN_BASAL_MIN = 0.10) and a total activation volume ceiling (VOL_MAX = 8.0). A cross-axis coupling mechanism causes excess tension in one axis to amplify the sensitivity of the other two, reproducing the emotional diffusion characteristic of high-load states.
 
@@ -24,14 +24,14 @@ The preprint contains 11 figures. Figures 1, 2, and 5 are illustrations; the rem
 |-----|-------|------|--------|
 | 1 | Six-force sphere | illustration | (none) |
 | 2 | Two opponent forces on one axis | illustration | (none) |
-| 3 | Displacement by domain (position) | data | `make_figs_EN.py` |
-| 4 | Tension by domain | data | `make_figs_EN.py` |
+| 3 | Displacement by domain (position) | data (script generates base; published figure is cropped) | `make_figs_EN.py` |
+| 4 | Tension by domain | data (script generates base; published figure is cropped) | `make_figs_EN.py` |
 | 5 | Two-limit sphere | illustration | (none) |
 | 6 | Negativity bias | data | `make_fig_sesgo_EN.py` |
 | 7 | Activation optimum | data | `make_fig_optimo_EN.py` |
 | 8 | Saturation blindness | data | `make_fig_ceguera_EN.py` |
 | 9 | Orientation richness recovery | data | `make_fig_riqueza_EN.py` |
-| 10 | Concentration at poles (histogram) | data | `make_fig_histograma_EN.py` |
+| 10 | Concentration at poles | data (script generates histogram panel; published figure is a composite with a 3D sphere render) | `make_fig_histograma_EN.py` |
 | 11 | Cross-modulation | data | `make_fig_acopl_EN.py` |
 
 ---
@@ -64,7 +64,6 @@ g-emv/
 ├── make_fig_histograma_EN.py                 ← Generates Fig 10 (concentration histogram)
 ├── make_fig_acopl_EN.py                      ← Generates Fig 11 (cross-modulation)
 │
-├── figures_paper.py                          ← Legacy v1 figure generator (five figures)
 ├── figure_firmas_activacion.py               ← Sphere figure (requires attractor_signatures.json)
 │
 ├── figures/                                  ← Pre-generated PNGs from the preprint
@@ -144,25 +143,25 @@ python experiments_firmas_activacion.py
 # Result: 62.7% of mixes within 30 degrees of a pure pole (spherical null: 40.2%)
 ```
 
-### Figs 3 and 4 — Displacement and tension by domain
+### Figs 3 and 4: Displacement and tension by domain
 
 ```bash
 python make_figs_EN.py
 # Diagram figures illustrating position and tension geometry.
-# → figures/fig_esquema_descentramiento_EN.png
-# → figures/fig_esquema_tension_EN.png
+# → figures/fig03_displacement_base.png  (base for Fig 3; published figure is a crop of this)
+# → figures/fig04_tension_base.png       (base for Fig 4; published figure is a crop of this)
 ```
 
-### Fig 6 — Negativity bias
+### Fig 6: Negativity bias
 
 ```bash
 python make_fig_sesgo_EN.py
 # Gradient descent to equilibrium from asymmetric initial states.
 # Quantifies the asymmetric approach vs avoidance geometry.
-# → figures/fig_sesgo_negatividad_EN.png
+# → figures/fig06_negativity_bias.png
 ```
 
-### Fig 7 — Activation optimum
+### Fig 7: Activation optimum
 
 ```bash
 python make_fig_optimo_EN.py
@@ -171,10 +170,10 @@ python make_fig_optimo_EN.py
 # as VOL_MAX is approached. This resembles the pattern of an activation optimum
 # (moderate tension favours sensitivity; the model does not directly measure
 # task performance, so the parallel with Yerkes-Dodson is phenomenological).
-# → figures/fig5_optimo_activacion_EN.png
+# → figures/fig07_activation_optimum.png
 ```
 
-### Fig 8 — Saturation blindness
+### Fig 8: Saturation blindness
 
 ```bash
 python make_fig_ceguera_EN.py
@@ -183,35 +182,36 @@ python make_fig_ceguera_EN.py
 # Result: delta_d_calm = 0.628, delta_d_saturated = 0.042
 #         threat_calm  = 1.381, threat_saturated  = 0.456
 # Saturated agent is ~15x less sensitive to opportunity; threat remains detectable.
-# → figures/fig6_ceguera_saturacion_EN.png
+# → figures/fig08_saturation_blindness.png
 ```
 
-### Fig 9 — Orientation richness recovery
+### Fig 9: Orientation richness recovery
 
 ```bash
 python make_fig_riqueza_EN.py
 # Initial state: zeppelin (all tension concentrated in F; R and S at floor).
 # Result: richness index R rises from 0 to ~0.92 in 80 steps with no external stimulus.
-# → figures/fig_riqueza_recuperacion_EN.png
+# → figures/fig09_richness_recovery.png
 ```
 
-### Fig 10 — Concentration at poles
+### Fig 10: Concentration at poles
 
 ```bash
 # Requires attractor_signatures.json (generated by experiments_firmas_activacion.py)
 python make_fig_histograma_EN.py
 # Angular distance to nearest pure pole for 2- and 3-axis mixtures.
 # Result: 62.7% within 30 degrees vs 40.2% by chance (enrichment: 1.56x)
-# → figures/fig_concentracion_histograma_EN.png
+# → figures/fig10_histogram_panel.png  (histogram panel only; published Fig 10 is a composite)
+
 ```
 
-### Fig 11 — Cross-modulation
+### Fig 11: Cross-modulation
 
 ```bash
 python make_fig_acopl_EN.py
 # Scales the coupling sensitivity coefficients (sens_F, sens_R, sens_S)
 # by factors 0.5x, 1.0x, 1.5x, 2.0x to isolate the cross-axis coupling mechanism.
-# → figures/fig_acoplamiento_cruzado_EN.png
+# → figures/fig11_cross_modulation.png
 ```
 
 ### Additional experiments
@@ -245,26 +245,35 @@ python robustez_exp_CD.py
 ### Generate all paper figures
 
 ```bash
-# Figs 3 and 4 (position and tension diagrams)
+# Figs 3 and 4: generates base diagrams (published figures are author-cropped versions)
 python make_figs_EN.py
+# → figures/fig03_displacement_base.png
+# → figures/fig04_tension_base.png
 
 # Fig 6 (negativity bias)
 python make_fig_sesgo_EN.py
+# → figures/fig06_negativity_bias.png
 
 # Fig 7 (activation optimum)
 python make_fig_optimo_EN.py
+# → figures/fig07_activation_optimum.png
 
 # Fig 8 (saturation blindness)
 python make_fig_ceguera_EN.py
+# → figures/fig08_saturation_blindness.png
 
 # Fig 9 (richness recovery)
 python make_fig_riqueza_EN.py
+# → figures/fig09_richness_recovery.png
 
-# Fig 10 (concentration histogram; requires attractor_signatures.json)
+# Fig 10: generates histogram panel (published figure is a composite with a 3D sphere render)
+# Requires attractor_signatures.json (run experiments_firmas_activacion.py first)
 python make_fig_histograma_EN.py
+# → figures/fig10_histogram_panel.png
 
 # Fig 11 (cross-modulation)
 python make_fig_acopl_EN.py
+# → figures/fig11_cross_modulation.png
 ```
 
 ---
@@ -301,4 +310,4 @@ ORCID: [0009-0008-1732-6310](https://orcid.org/0009-0008-1732-6310)
 
 ## License
 
-MIT License — see [LICENSE](LICENSE).
+MIT License (see [LICENSE](LICENSE)).

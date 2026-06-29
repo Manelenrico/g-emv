@@ -48,5 +48,5 @@ axs[0].legend(frameon=False,fontsize=9.5,loc='upper left')
 fig.suptitle("Cross-modulation of sensitivity: the coupling's contribution to the response, by the deficit of the spectator domain",
              fontsize=12,y=1.04)
 fig.tight_layout()
-fig.savefig(f"{OUT}/fig_acoplamiento_cruzado_EN.png",bbox_inches="tight",dpi=300); plt.close()
-print(f"saved -> fig_acoplamiento_cruzado_EN.png  Test 3 crossover (in dd): nF = {xc:.2f}")
+fig.savefig(f"{OUT}/fig11_cross_modulation.png",bbox_inches="tight",dpi=300); plt.close()
+print(f"saved -> fig11_cross_modulation.png  Test 3 crossover (in dd): nF = {xc:.2f}")

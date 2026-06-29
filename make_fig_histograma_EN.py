@@ -1,3 +1,8 @@
+#!/usr/bin/env python3
+# Genera el panel del histograma de la Fig 10 del paper.
+# La figura publicada (fig10_concentration.png) es un montaje: un render 3D de la esfera
+# arriba mas este histograma abajo, ensamblado por el autor. Este script guarda solo
+# el panel del histograma como fig10_histogram_panel.png.
 import sys; sys.path.insert(0,'.')
 import os; os.chdir('.')
 import json, numpy as np, matplotlib
@@ -34,5 +39,5 @@ ax.text(1.5,0.150,f'Within 30° of a pole:\n{frac30*100:.1f}% observed  vs  {bas
 ax.set_xlabel('Angular distance to nearest pole (degrees)'); ax.set_ylabel('Fraction of responses')
 ax.set_title('Concentration of responses at the poles (mixtures of two or three domains)',fontsize=11.5)
 ax.legend(frameon=False,fontsize=9.5,loc='upper right')
-fig.tight_layout(); fig.savefig(f"{OUT}/fig_concentracion_histograma_EN.png",bbox_inches="tight",dpi=300); plt.close()
-print("saved -> fig_concentracion_histograma_EN.png")
+fig.tight_layout(); fig.savefig(f"{OUT}/fig10_histogram_panel.png",bbox_inches="tight",dpi=300); plt.close()
+print("saved -> fig10_histogram_panel.png")

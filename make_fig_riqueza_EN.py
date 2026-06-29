@@ -62,6 +62,6 @@ ax2.set_xlim(0, N)
 ax2.spines[["top", "right"]].set_visible(False)
 ax2.legend(frameon=False, fontsize=10, loc="upper right", handlelength=1.6)
 
-fig.savefig("figures/fig_riqueza_recuperacion_EN.png", dpi=200, bbox_inches="tight",
+fig.savefig("figures/fig09_richness_recovery.png", dpi=200, bbox_inches="tight",
             facecolor="white")
-print("OK -> fig_riqueza_recuperacion_EN.png  R(80)=%.4f" % Rs[-1])
+print("OK -> fig09_richness_recovery.png  R(80)=%.4f" % Rs[-1])

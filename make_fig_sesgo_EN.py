@@ -45,5 +45,5 @@ ax.annotate('No displacement (gap = 0):\nthe bias is null',xy=(0,0),xytext=(0.26
 ax.set_xlabel('Displacement of the equilibrium (gap)'); ax.set_ylabel('Bias  d²(loss) − d²(gain)')
 ax.set_title('The negativity bias follows from the displacement',fontsize=11.5)
 ax.legend(frameon=False,fontsize=9.5,loc='upper left')
-fig.tight_layout(); fig.savefig(f"{OUT}/fig_sesgo_negatividad_EN.png",bbox_inches='tight'); plt.close()
-print("saved -> fig_sesgo_negatividad_EN.png")
+fig.tight_layout(); fig.savefig(f"{OUT}/fig06_negativity_bias.png",bbox_inches='tight'); plt.close()
+print("saved -> fig06_negativity_bias.png")

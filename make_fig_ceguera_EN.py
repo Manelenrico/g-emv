@@ -27,5 +27,5 @@ ax.set_ylabel('Homeostatic perturbation Δd'); ax.legend(frameon=False,fontsize=
 ax.set_title('Saturation blindness: to opportunities and to dangers',fontsize=11.5)
 ax.annotate('near-total blindness',(0,vals['opo_c']),xytext=(0,vals['opo_c']+0.18),ha='center',fontsize=9,color=GREY,style='italic')
 ax.annotate('partial blindness',(1,vals['pel_c']),xytext=(1,vals['pel_c']+0.18),ha='center',fontsize=9,color=GREY,style='italic')
-fig.tight_layout(); fig.savefig(f"{OUT}/fig6_ceguera_saturacion_EN.png",bbox_inches='tight',dpi=300); plt.close()
-print("saved -> fig6_ceguera_saturacion_EN.png")
+fig.tight_layout(); fig.savefig(f"{OUT}/fig08_saturation_blindness.png",bbox_inches='tight',dpi=300); plt.close()
+print("saved -> fig08_saturation_blindness.png")

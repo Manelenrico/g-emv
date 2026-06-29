@@ -1,6 +1,9 @@
 #!/usr/bin/env python3
 # Versiones EN de Fig 3 (position) y Fig 4 (tension). Misma maqueta, texto en inglés.
 # Términos provisionales (a casar con el glosario final, sobre todo "decentering").
+# NOTA: este script genera las bases de las Figs 3 y 4 del paper. Las figuras publicadas
+# (fig03_displacement.png y fig04_tension.png) son recortes de estas bases, hechos por el
+# autor. No sobrescribas esos archivos; este script guarda como *_base.png.
 import matplotlib
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
@@ -71,9 +74,9 @@ for s in ax.spines.values(): s.set_visible(False)
 ax.set_title("Displacement by domain (position): at rest only the gain force ($f^+$) acts,\nstarting from neutrality and carrying the position to its rest point (displaced, below the target)",
              fontsize=12.2, pad=14)
 fig.tight_layout()
-fig.savefig(f"{OUT}/fig_esquema_descentramiento_EN.png", bbox_inches="tight")
+fig.savefig(f"{OUT}/fig03_displacement_base.png", bbox_inches="tight")
 plt.close(fig)
-print("Fig 3 EN (position) generated.")
+print("Fig 3 EN (position) base generated -> fig03_displacement_base.png")
 
 # ═══════════════════════ FIG 4 : TENSION (rest, with target/excess/basal) ═══════════════════════
 rest = [("resources", DARK, 1.60, 0.30), ("physical", RED, 0.82, 0.30), ("social/relational", GREY, 0.68, 0.15)]
@@ -120,6 +123,6 @@ for s in ax.spines.values(): s.set_visible(False)
 ax.set_title("Tension by domain: at rest, the only active force is the gain force ($f^-=0$),\nand its excess over the (low) target is the counterpart of the position gap",
              fontsize=12.2, pad=14)
 fig.tight_layout()
-fig.savefig(f"{OUT}/fig_esquema_tension_EN.png", bbox_inches="tight")
+fig.savefig(f"{OUT}/fig04_tension_base.png", bbox_inches="tight")
 plt.close(fig)
-print("Fig 4 EN (tension) generated.")
+print("Fig 4 EN (tension) base generated -> fig04_tension_base.png")
