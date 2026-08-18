@@ -14,7 +14,8 @@ G-EMV — DOI **[10.5281/zenodo.21026795](https://doi.org/10.5281/zenodo.2102679
 (`motor/model.py` del repo, md5 `1e511978…`): se usa, no se reescribe.
 
 ## PDF y DOI propio / own DOI
-En Zenodo — **pendiente de publicación** / on Zenodo — **pending publication**.
+Publicado en Zenodo — DOI **[10.5281/zenodo.21994358](https://doi.org/10.5281/zenodo.21994358)** /
+Published on Zenodo — DOI **[10.5281/zenodo.21994358](https://doi.org/10.5281/zenodo.21994358)**.
 
 ## Figuras / Figures
 GIFs de **datos crudos** (replay + logs, matplotlib; nunca MettaScope):
