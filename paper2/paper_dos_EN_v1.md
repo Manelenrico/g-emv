@@ -1251,11 +1251,12 @@ and what it does not do, together, are the work.
 
 ## Figures
 
-**Figure 1 (GIF).** The crossing into own territory. The same agent that in the control runs died
-bleeding out thirty-eight cells from its home, with the unbreakable route active returns badly
-wounded —its life falling to twenty-two— and at tick 923 crosses into its own territory, where it
-regenerates to full. The nuance the image fixes: the cure heals on stepping onto its own ground,
-some twenty-one cells from the hub, not on touching the hub. Frame by frame, generated from the run's data.
+**Figure 1 (GIF).** The crossing into own territory. The same agent that in the control runs
+died bleeding out thirty-eight cells from its home, with the unbreakable route active returns
+badly wounded, its life falling to twenty-two, and at tick 923 crosses into its own territory,
+where it regenerates to full. The nuance the image fixes: the cure heals on stepping onto its
+own ground, some twenty-one cells from the hub, not on touching the hub. Frame by frame,
+generated from the run's data.
 
 **Figure 2 (GIF).** The landing. An equipped porter reaches a junction, enters and spends its
 ammunition, the behavior the system never produced until the conquest commitment.
