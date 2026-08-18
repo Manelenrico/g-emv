@@ -1231,9 +1231,11 @@ juntos, son el trabajo.
 
 ## Figuras
 
-**Figura 1 (GIF).** El cruce de la puerta. El agente que en las corridas de control moría
-desangrado a treinta y ocho casillas de su casa, con la ruta inquebrantable activa: malherido,
-en territorio hostil, llega y cruza. Cuadro a cuadro, generado desde los datos de la corrida.
+**Figura 1 (GIF).** El cruce a territorio propio. El mismo agente que en las corridas de control
+moría desangrado a treinta y ocho casillas de su casa, con la ruta inquebrantable activa regresa
+malherido —la vida cayendo hasta veintidós— y en el tick 923 cruza a su territorio propio, donde
+regenera al máximo. El matiz que la imagen fija: la cura sana al pisar terreno propio, a unas
+veintiuna casillas del hub, no al tocar el hub. Cuadro a cuadro, generado desde los datos de la corrida.
 
 **Figura 2 (GIF).** El aterrizaje. Un portador equipado llega a una antena, entra y gasta su
 munición, la conducta que el sistema no produjo hasta el compromiso de conquista.
