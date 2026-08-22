@@ -1,0 +1,38 @@
+INFO:     Started server process [1]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8080 (Press CTRL+C to quit)
+INFO:     172.18.0.1:44130 - "WebSocket /player?slot=0&token=REDACTED" 403
+INFO:     connection rejected (403 Forbidden)
+INFO:     connection closed
+INFO:     172.18.0.1:44138 - "WebSocket /global" [accepted]
+INFO:     connection open
+INFO:     connection closed
+INFO:     172.18.0.3:57992 - "WebSocket /player?slot=0&token=REDACTED" [accepted]
+INFO:     connection open
+INFO:     172.18.0.4:40048 - "WebSocket /player?slot=2&token=REDACTED" [accepted]
+INFO:     connection open
+INFO:     172.18.0.5:60354 - "WebSocket /player?slot=1&token=REDACTED" [accepted]
+INFO:     connection open
+INFO:     172.18.0.6:40366 - "WebSocket /player?slot=7&token=REDACTED" [accepted]
+INFO:     connection open
+INFO:     172.18.0.8:57510 - "WebSocket /player?slot=6&token=REDACTED" [accepted]
+INFO:     connection open
+INFO:     172.18.0.9:40882 - "WebSocket /player?slot=3&token=REDACTED" [accepted]
+INFO:     connection open
+INFO:     172.18.0.10:47212 - "WebSocket /player?slot=5&token=REDACTED" [accepted]
+INFO:     connection open
+INFO:     172.18.0.7:46218 - "WebSocket /player?slot=4&token=REDACTED" [accepted]
+INFO:     connection open
+INFO:     connection closed
+INFO:     connection closed
+INFO:     connection closed
+INFO:     connection closed
+INFO:     connection closed
+INFO:     connection closed
+INFO:     connection closed
+INFO:     connection closed
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [1]

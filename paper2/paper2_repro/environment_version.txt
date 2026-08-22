@@ -1,0 +1,29 @@
+ENTORNO DE REPRODUCIBILIDAD — Paper 2 (Cogs vs Clips / coworld)
+================================================================
+
+Coworld (juego / evaluador)
+  paquete:            cogs_vs_clips
+  version:            0.2.37
+  coworld download:   cow_e5b6ddae-beb7-4c0d-8f60-6ff0006a717a
+  manifest usado:     manifest_e4_s0_t300_2500.json  (mission=machina_1, seed=0, max_steps=2500,
+                      step_seconds=0.02, 8 players)  [en configs/]
+
+Imágenes Docker del agente (arcilla; una por cifra de cabecera)
+  cifra "vara" (mediana 3.23):
+      cvc-gemv-policy:c4-survhome   image-id 054be6f7caa9
+  cifra "temperamentos N=5" (mediana 3.6595):
+      cvc-gemv-policy:c4-cone-poda  image-id 716532439760   (CONGELADA; custodia por image-id)
+  motor/model.py (ambas):  md5 1e511978c251130e95169ebf8443efa1  (el declarado en el paper)
+
+Runtime
+  Python:   3.12.13
+  SO:       Ubuntu 26.04 LTS  (WSL2; kernel 6.18.33.1-microsoft-standard-WSL2)
+  Docker:   29.6.2
+
+Notas de reconstrucción
+  - El agente corre como imagen Docker que habla el player-protocol por WebSocket; el runner es la CLI
+    coworld (`coworld run-episode <manifest> <img>x8 --run python --run /app/gemv_policy.py ...`).
+  - La configuración efectiva de cada corrida = ENV horneado en la imagen (configs/*/baked_image_env.txt)
+    + flags --secret-env del runner (configs/*/secret_env_flags.txt).
+  - Custodia: la comparabilidad del banco de temperamentos se garantiza por IMAGE-ID congelado
+    (716532439760), no por host-vs-imagen (el árbol de fuentes del laboratorio divergió después).

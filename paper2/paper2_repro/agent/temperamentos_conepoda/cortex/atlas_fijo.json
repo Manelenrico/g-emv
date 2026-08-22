@@ -1,0 +1,60 @@
+{
+  "n_semillas": 5,
+  "k_umbral": 5,
+  "frame": "observacion_hub_anclado(fila,col)",
+  "fuente": "GEMV_DISTIL_DBG (percepcion propia); replay.location PROHIBIDO para la criatura",
+  "fuente_logs": [
+    "_tmp_gemv/distil_s0/logs/policy_agent_0.log",
+    "_tmp_gemv/distil_s1/logs/policy_agent_0.log",
+    "_tmp_gemv/distil_s2/logs/policy_agent_0.log",
+    "_tmp_gemv/distil_s3/logs/policy_agent_0.log",
+    "_tmp_gemv/distil_s4/logs/policy_agent_0.log"
+  ],
+  "atlas": [
+    {
+      "type": "aligner",
+      "pos": [
+        4,
+        -3
+      ],
+      "n_semillas_confirmantes": 5,
+      "cls": "gear_aligner"
+    },
+    {
+      "type": "hub",
+      "pos": [
+        0,
+        0
+      ],
+      "n_semillas_confirmantes": 5,
+      "cls": "hub"
+    },
+    {
+      "type": "miner",
+      "pos": [
+        4,
+        1
+      ],
+      "n_semillas_confirmantes": 5,
+      "cls": null
+    },
+    {
+      "type": "scout",
+      "pos": [
+        4,
+        3
+      ],
+      "n_semillas_confirmantes": 5,
+      "cls": null
+    },
+    {
+      "type": "scrambler",
+      "pos": [
+        4,
+        -1
+      ],
+      "n_semillas_confirmantes": 5,
+      "cls": null
+    }
+  ]
+}

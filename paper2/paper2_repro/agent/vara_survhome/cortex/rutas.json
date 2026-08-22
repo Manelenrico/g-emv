@@ -1,0 +1,43 @@
+{
+  "n_semillas": 5,
+  "muros_fijos_verificados": true,
+  "muros_plaza": 0,
+  "celdas_en_desacuerdo": 0,
+  "plaza_box": [
+    40,
+    56,
+    40,
+    56
+  ],
+  "H": 8,
+  "leg_max": 7,
+  "rutas": [
+    {
+      "origen": [
+        0,
+        0
+      ],
+      "destino_tipo": "aligner",
+      "destino": [
+        4,
+        -3
+      ],
+      "migas": [
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          -3
+        ]
+      ],
+      "n_pasos_ruta": 7,
+      "transitable": true,
+      "legs": [
+        4,
+        3
+      ]
+    }
+  ]
+}
