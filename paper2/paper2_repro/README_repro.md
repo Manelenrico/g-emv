@@ -1,3 +1,12 @@
+**[EN]** This is the independent reproducibility package for Paper 2
+(agent code, configs, seeds, raw results, logs, replays). The README
+below is in Spanish, the project's working language; the paper's
+English version (G-EMV_the_Hive_EN.pdf) is available in this repo. All
+figures can be verified against results/ regardless of language:
+numbers, hashes and replays need no translation.
+
+---
+
 # Paper 2 — Paquete de reproducibilidad independiente
 
 Código del agente, configuraciones, semillas, resultados crudos y entorno que respaldan las dos cifras
