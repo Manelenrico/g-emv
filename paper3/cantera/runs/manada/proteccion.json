@@ -1,0 +1,310 @@
+{
+ "p2p": {
+  "n": 8,
+  "defiende": 5,
+  "ocs": [
+   {
+    "eid": "ereq_feafe3ac-c3c5-4cf6-b345-f6c36c4a23e6",
+    "quien": "10",
+    "t0": 573,
+    "t1": 615,
+    "defiende": true,
+    "tdef": 573
+   },
+   {
+    "eid": "ereq_feafe3ac-c3c5-4cf6-b345-f6c36c4a23e6",
+    "quien": "10",
+    "t0": 660,
+    "t1": 660,
+    "defiende": false,
+    "tdef": null
+   },
+   {
+    "eid": "ereq_feafe3ac-c3c5-4cf6-b345-f6c36c4a23e6",
+    "quien": "11",
+    "t0": 531,
+    "t1": 593,
+    "defiende": true,
+    "tdef": 534
+   },
+   {
+    "eid": "ereq_8a674d69-beb3-4827-9030-c1a407e34ba3",
+    "quien": "11",
+    "t0": 483,
+    "t1": 495,
+    "defiende": true,
+    "tdef": 483
+   },
+   {
+    "eid": "ereq_d4de078a-e9cd-4d95-a56e-e1d68d9ae3ac",
+    "quien": "10",
+    "t0": 4195,
+    "t1": 4195,
+    "defiende": true,
+    "tdef": 4195
+   },
+   {
+    "eid": "ereq_191873b7-20c6-4147-a785-5daac900e323",
+    "quien": "10",
+    "t0": 407,
+    "t1": 413,
+    "defiende": false,
+    "tdef": null
+   },
+   {
+    "eid": "ereq_e1daaef0-7307-4ac1-a47e-7dbc2635605f",
+    "quien": "10",
+    "t0": 870,
+    "t1": 881,
+    "defiende": true,
+    "tdef": 870
+   },
+   {
+    "eid": "ereq_e1daaef0-7307-4ac1-a47e-7dbc2635605f",
+    "quien": "10",
+    "t0": 904,
+    "t1": 914,
+    "defiende": false,
+    "tdef": null
+   }
+  ]
+ },
+ "proteccion": [
+  {
+   "eid": "ereq_feafe3ac-c3c5-4cf6-b345-f6c36c4a23e6",
+   "quien": "10",
+   "defiende": true,
+   "golpes120": 1,
+   "fuentes": [
+    "P9"
+   ],
+   "hp_cierre": 73.0,
+   "hp_fin": 67.0,
+   "abandona": true,
+   "n_ticks": 120
+  },
+  {
+   "eid": "ereq_feafe3ac-c3c5-4cf6-b345-f6c36c4a23e6",
+   "quien": "10",
+   "defiende": false,
+   "golpes120": 0,
+   "fuentes": [],
+   "hp_cierre": 67.0,
+   "hp_fin": 67.0,
+   "abandona": true,
+   "n_ticks": 120
+  },
+  {
+   "eid": "ereq_feafe3ac-c3c5-4cf6-b345-f6c36c4a23e6",
+   "quien": "11",
+   "defiende": true,
+   "golpes120": 0,
+   "fuentes": [],
+   "hp_cierre": 85.0,
+   "hp_fin": 85.0,
+   "abandona": true,
+   "n_ticks": 120
+  },
+  {
+   "eid": "ereq_8a674d69-beb3-4827-9030-c1a407e34ba3",
+   "quien": "11",
+   "defiende": true,
+   "golpes120": 1,
+   "fuentes": [
+    "P12"
+   ],
+   "hp_cierre": 88.0,
+   "hp_fin": 75.0,
+   "abandona": false,
+   "n_ticks": 120
+  },
+  {
+   "eid": "ereq_6cacbb37-6103-40f3-81ca-a7e038c0cc13",
+   "quien": "10",
+   "defiende": false,
+   "golpes120": 0,
+   "fuentes": [],
+   "hp_cierre": 23.0,
+   "hp_fin": 23.0,
+   "abandona": true,
+   "n_ticks": 120
+  },
+  {
+   "eid": "ereq_6cacbb37-6103-40f3-81ca-a7e038c0cc13",
+   "quien": "10",
+   "defiende": false,
+   "golpes120": 1,
+   "fuentes": [
+    "P6"
+   ],
+   "hp_cierre": 9.0,
+   "hp_fin": 1.0,
+   "abandona": false,
+   "n_ticks": 120
+  },
+  {
+   "eid": "ereq_6cacbb37-6103-40f3-81ca-a7e038c0cc13",
+   "quien": "10",
+   "defiende": false,
+   "golpes120": 1,
+   "fuentes": [
+    "P6"
+   ],
+   "hp_cierre": 9.0,
+   "hp_fin": 1.0,
+   "abandona": true,
+   "n_ticks": 120
+  },
+  {
+   "eid": "ereq_6cacbb37-6103-40f3-81ca-a7e038c0cc13",
+   "quien": "10",
+   "defiende": false,
+   "golpes120": 1,
+   "fuentes": [
+    "P6"
+   ],
+   "hp_cierre": 9.0,
+   "hp_fin": 1.0,
+   "abandona": true,
+   "n_ticks": 120
+  },
+  {
+   "eid": "ereq_6cacbb37-6103-40f3-81ca-a7e038c0cc13",
+   "quien": "10",
+   "defiende": false,
+   "golpes120": 0,
+   "fuentes": [],
+   "hp_cierre": 1.0,
+   "hp_fin": 1.0,
+   "abandona": true,
+   "n_ticks": 120
+  },
+  {
+   "eid": "ereq_6cacbb37-6103-40f3-81ca-a7e038c0cc13",
+   "quien": "10",
+   "defiende": false,
+   "golpes120": 0,
+   "fuentes": [],
+   "hp_cierre": 1.0,
+   "hp_fin": 1.0,
+   "abandona": true,
+   "n_ticks": 73
+  },
+  {
+   "eid": "ereq_6cacbb37-6103-40f3-81ca-a7e038c0cc13",
+   "quien": "10",
+   "defiende": false,
+   "golpes120": 0,
+   "fuentes": [],
+   "hp_cierre": 1.0,
+   "hp_fin": 1.0,
+   "abandona": true,
+   "n_ticks": 51
+  },
+  {
+   "eid": "ereq_6cacbb37-6103-40f3-81ca-a7e038c0cc13",
+   "quien": "10",
+   "defiende": false,
+   "golpes120": 0,
+   "fuentes": [],
+   "hp_cierre": 1.0,
+   "hp_fin": 1.0,
+   "abandona": true,
+   "n_ticks": 29
+  },
+  {
+   "eid": "ereq_6cacbb37-6103-40f3-81ca-a7e038c0cc13",
+   "quien": "10",
+   "defiende": false,
+   "golpes120": 0,
+   "fuentes": [],
+   "hp_cierre": 1.0,
+   "hp_fin": 1.0,
+   "abandona": true,
+   "n_ticks": 7
+  },
+  {
+   "eid": "ereq_6cacbb37-6103-40f3-81ca-a7e038c0cc13",
+   "quien": "10",
+   "defiende": false,
+   "golpes120": 0,
+   "fuentes": [],
+   "hp_cierre": 1.0,
+   "hp_fin": 1.0,
+   "abandona": true,
+   "n_ticks": 2
+  },
+  {
+   "eid": "ereq_d4de078a-e9cd-4d95-a56e-e1d68d9ae3ac",
+   "quien": "10",
+   "defiende": true,
+   "golpes120": 0,
+   "fuentes": [],
+   "hp_cierre": 6.0,
+   "hp_fin": 6.0,
+   "abandona": true,
+   "n_ticks": 0
+  },
+  {
+   "eid": "ereq_191873b7-20c6-4147-a785-5daac900e323",
+   "quien": "10",
+   "defiende": false,
+   "golpes120": 7,
+   "fuentes": [
+    "P12"
+   ],
+   "hp_cierre": 39.0,
+   "hp_fin": 1.0,
+   "abandona": false,
+   "n_ticks": 86
+  },
+  {
+   "eid": "ereq_e1daaef0-7307-4ac1-a47e-7dbc2635605f",
+   "quien": "10",
+   "defiende": false,
+   "golpes120": 0,
+   "fuentes": [],
+   "hp_cierre": 88.0,
+   "hp_fin": 88.0,
+   "abandona": true,
+   "n_ticks": 120
+  },
+  {
+   "eid": "ereq_e1daaef0-7307-4ac1-a47e-7dbc2635605f",
+   "quien": "10",
+   "defiende": true,
+   "golpes120": 0,
+   "fuentes": [],
+   "hp_cierre": 75.0,
+   "hp_fin": 75.0,
+   "abandona": true,
+   "n_ticks": 120
+  },
+  {
+   "eid": "ereq_e1daaef0-7307-4ac1-a47e-7dbc2635605f",
+   "quien": "10",
+   "defiende": false,
+   "golpes120": 2,
+   "fuentes": [
+    "P5"
+   ],
+   "hp_cierre": 75.0,
+   "hp_fin": 39.0,
+   "abandona": false,
+   "n_ticks": 120
+  },
+  {
+   "eid": "ereq_e1daaef0-7307-4ac1-a47e-7dbc2635605f",
+   "quien": "10",
+   "defiende": false,
+   "golpes120": 2,
+   "fuentes": [
+    "P5"
+   ],
+   "hp_cierre": 39.0,
+   "hp_fin": 3.0,
+   "abandona": true,
+   "n_ticks": 85
+  }
+ ]
+}
