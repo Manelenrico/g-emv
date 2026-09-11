@@ -1,4 +1,4 @@
-# Apéndice — De dónde sale cada número (v13, 11 de septiembre de 2026)
+# Apéndice — De dónde sale cada número (v14, 12 de septiembre de 2026)
 
 Cada afirmación con cifra del cuerpo, casada con su acta de la cantera
 (paper3_cantera/actas/), la partida y el guion que la produce. La regla

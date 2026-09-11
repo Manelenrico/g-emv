@@ -33,9 +33,10 @@ recorded in every record.
 - `G-EMV_the_Pack_EN.pdf` — versión inglesa / English version.
 - `G-EMV_the_Pack_ES.pdf` — versión española / Spanish version.
 
-**DOI: pendiente / pending.** Este trabajo aún no está depositado en Zenodo. Cuando lo
-esté, el DOI se añadirá aquí. / This work is not yet
-deposited on Zenodo. Once it is, the DOI will be added here.
+Publicado en Zenodo — DOI **[10.5281/zenodo.22713650](https://doi.org/10.5281/zenodo.22713650)** /
+Published on Zenodo — DOI **[10.5281/zenodo.22713650](https://doi.org/10.5281/zenodo.22713650)**.
+
+DOI de concepto (todas las versiones) / concept DOI: **[10.5281/zenodo.22713649](https://doi.org/10.5281/zenodo.22713649)**.
 
 Partes anteriores de la serie / earlier parts of the series: el motor
 **[10.5281/zenodo.21026795](https://doi.org/10.5281/zenodo.21026795)**, la colmena
