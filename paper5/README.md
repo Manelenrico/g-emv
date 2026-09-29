@@ -2,7 +2,7 @@
 
 Second part of the series on emotion and reason in an agent. The first part ([`../paper4`](../paper4)) placed a head that talks beside a body that feels; this one gives the world time and builds three pieces beside the body: a wide door, trust and curiosity. Before that series there was a trilogy: the engine, the hive, the pack.
 
-**Published version (English):** Zenodo, DOI: pending. Preprint, version 1, 29 September 2026. CC BY 4.0.
+**Published version (English):** Zenodo, DOI [10.5281/zenodo.23035785](https://doi.org/10.5281/zenodo.23035785). Concept DOI (all versions): [10.5281/zenodo.23035784](https://doi.org/10.5281/zenodo.23035784). Preprint, version 1, 29 September 2026. CC BY 4.0.
 
 ## What is here
 
@@ -34,7 +34,7 @@ Everything was measured in a single world, private and with chosen neighbors, an
 
 ## How to cite
 
-Enrico, M. (2026). G-EMV: Emotion and Reason in an Agent. Curiosity, Trust and Commitment. Zenodo. DOI: pending.
+Enrico, M. (2026). G-EMV: Emotion and Reason in an Agent. Curiosity, Trust and Commitment. Zenodo. https://doi.org/10.5281/zenodo.23035785
 
 ## The series
 
