@@ -1,0 +1,53 @@
+{
+ "semilla": 20260919,
+ "diarios": 40,
+ "escenas": 2230,
+ "cajas": {
+  "estricto": {
+   "ahora": {
+    "coincide": 2110,
+    "rechazada": 90,
+    "intraducible": 27,
+    "aceptada": 3
+   },
+   "despues": {
+    "vetada": 730,
+    "rechazada": 49,
+    "dormida": 125,
+    "aceptada": 4
+   },
+   "azar": {
+    "rechazada": 539,
+    "aceptada": 10
+   }
+  },
+  "ventana": {
+   "ahora": {
+    "coincide": 2101,
+    "rechazada": 90,
+    "caducada": 36,
+    "aceptada": 3
+   },
+   "despues": {
+    "rechazada": 743,
+    "aceptada": 40,
+    "caducada": 125
+   },
+   "azar": {
+    "rechazada": 539,
+    "aceptada": 10
+   }
+  }
+ },
+ "piernas": {
+  "vivos": 112865,
+  "frias": 85425,
+  "noop": 93445,
+  "noop_frias": 84458
+ },
+ "ventana": {
+  "escenas": 2230,
+  "sin ventana (piernas frias los 100 tics)": 5,
+  "espera hasta la ventana": 9168
+ }
+}

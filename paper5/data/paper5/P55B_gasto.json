@@ -1,0 +1,32 @@
+{
+ "total_usd": 4.43003855,
+ "por": {
+  "formas/haiku": {
+   "llamadas": 200,
+   "entrada_fresca": 159085,
+   "salida": 103398,
+   "cache_escritura": 0,
+   "cache_lectura": 1790600,
+   "usd": 0.855075,
+   "usd_por_llamada": 0.004275
+  },
+  "casillas/haiku": {
+   "llamadas": 200,
+   "entrada_fresca": 164285,
+   "salida": 52992,
+   "cache_escritura": 6618,
+   "cache_lectura": 1316982,
+   "usd": 0.569255,
+   "usd_por_llamada": 0.002846
+  },
+  "formas/sonnet": {
+   "llamadas": 200,
+   "entrada_fresca": 159085,
+   "salida": 130691,
+   "cache_escritura": 8953,
+   "cache_lectura": 1781647,
+   "usd": 3.005708,
+   "usd_por_llamada": 0.015029
+  }
+ }
+}

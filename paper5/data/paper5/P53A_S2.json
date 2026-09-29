@@ -1,0 +1,403 @@
+{
+ "tanda": "S-2 brazo A (40)",
+ "A0": {
+  "mirada_ticks": {
+   "480": 70611,
+   "48": 4037,
+   "479": 92,
+   "478": 92
+  },
+  "pasos de los candidatos ir_*: mediana": 3,
+  "pasos del ganador: mediana": 3.0,
+  "tics entre paso y paso: mediana": 11,
+  "n gaps": 8553
+ },
+ "A2/A3/A4": {
+  "25": {
+   "foto": {
+    "W mediana": 0.0,
+    "W p90": 0.0,
+    "vida mediana": 0.0,
+    "vida p90": 6.0,
+    "n": 205
+   },
+   "real": {
+    "W mediana": 0.0,
+    "W p90": 0.0,
+    "vida mediana": 0.0,
+    "vida p90": 4.666666666666689,
+    "n": 205
+   },
+   "intencion": {
+    "W mediana": 0.0,
+    "W p90": 0.0,
+    "vida mediana": 0.0,
+    "vida p90": 4.666666666666785,
+    "n": 205
+   }
+  },
+  "50": {
+   "foto": {
+    "W mediana": 0.0,
+    "W p90": 0.0,
+    "vida mediana": 0.0,
+    "vida p90": 12.0,
+    "n": 204
+   },
+   "real": {
+    "W mediana": 0.0,
+    "W p90": 0.0,
+    "vida mediana": 0.0,
+    "vida p90": 5.0,
+    "n": 204
+   },
+   "intencion": {
+    "W mediana": 0.0,
+    "W p90": 0.0,
+    "vida mediana": 0.0,
+    "vida p90": 6.0,
+    "n": 204
+   }
+  },
+  "100": {
+   "foto": {
+    "W mediana": 0.0,
+    "W p90": 0.01666666666666672,
+    "vida mediana": 0.0,
+    "vida p90": 13.0,
+    "n": 197
+   },
+   "real": {
+    "W mediana": 0.0,
+    "W p90": 0.0,
+    "vida mediana": 0.0,
+    "vida p90": 5.0,
+    "n": 197
+   },
+   "intencion": {
+    "W mediana": 0.0,
+    "W p90": 0.02777777777777768,
+    "vida mediana": 0.0,
+    "vida p90": 15.0,
+    "n": 197
+   }
+  }
+ },
+ "A2 en K=H": {
+  "W mediana": 0.0,
+  "W p90": 0.7777777777777778,
+  "vida mediana": 0.0,
+  "vida p90": 17.0,
+  "H mediana": 480.0,
+  "n": 182
+ },
+ "cambia algo": {
+  "25": {
+   "W cambia": 15,
+   "vida cambia": 27,
+   "n": 205
+  },
+  "50": {
+   "W cambia": 16,
+   "vida cambia": 30,
+   "n": 204
+  },
+  "100": {
+   "W cambia": 21,
+   "vida cambia": 35,
+   "n": 197
+  }
+ },
+ "A3 por ventana": {
+  "25": {
+   "sin dano ajeno (ni rival ni veneno)": {
+    "n": 194,
+    "W mediana": 0.0,
+    "W p90": 0.0,
+    "vida mediana": 0.0,
+    "vida p90": 0.0
+   },
+   "con dano ajeno": {
+    "n": 11,
+    "W mediana": 0.0,
+    "W p90": 0.09722222222222224,
+    "vida mediana": 6.0,
+    "vida p90": 20.0
+   }
+  },
+  "50": {
+   "sin dano ajeno (ni rival ni veneno)": {
+    "n": 192,
+    "W mediana": 0.0,
+    "W p90": 0.0,
+    "vida mediana": 0.0,
+    "vida p90": 0.6666666666664582
+   },
+   "con dano ajeno": {
+    "n": 12,
+    "W mediana": 0.0,
+    "W p90": 0.0,
+    "vida mediana": 11.5,
+    "vida p90": 19.0
+   }
+  },
+  "100": {
+   "sin dano ajeno (ni rival ni veneno)": {
+    "n": 180,
+    "W mediana": 0.0,
+    "W p90": 0.0,
+    "vida mediana": 0.0,
+    "vida p90": 0.0
+   },
+   "con dano ajeno": {
+    "n": 17,
+    "W mediana": 0.0,
+    "W p90": 0.02499999999999991,
+    "vida mediana": 8.0,
+    "vida p90": 28.0
+   }
+  }
+ },
+ "A5 el techo": {
+  "hp_rival": 268.0,
+  "hp_anillo": 390.32,
+  "hp_sin": 162,
+  "W_coger": 14,
+  "W_consumir": 7,
+  "W_morir": 0,
+  "W_igual": 176,
+  "ventanas": 197
+ },
+ "ejemplos de residuo": [
+  {
+   "diario": "ereq_051a3cdd-2095-479b-a057-0bb7fae03124-policy_agent_11.art.log",
+   "tic": 384,
+   "K": 100,
+   "dW": 1.0,
+   "dhp": 0.0,
+   "W_proy": 1.0,
+   "W_real": 2.0,
+   "hp_proy": 100.0,
+   "hp_real": 100.0,
+   "pack_proy": [
+    "first_aid"
+   ],
+   "pack_real": [
+    "first_aid",
+    "rations"
+   ],
+   "hand_proy": "none",
+   "hand_real": "none"
+  },
+  {
+   "diario": "ereq_051a3cdd-2095-479b-a057-0bb7fae03124-policy_agent_11.art.log",
+   "tic": 5136,
+   "K": 100,
+   "dW": 0.0,
+   "dhp": 3.667,
+   "W_proy": 2.0,
+   "W_real": 2.0,
+   "hp_proy": 63.67,
+   "hp_real": 60.0,
+   "pack_proy": [
+    "first_aid",
+    "rations"
+   ],
+   "pack_real": [
+    "first_aid",
+    "rations"
+   ],
+   "hand_proy": "none",
+   "hand_real": "none"
+  },
+  {
+   "diario": "ereq_051a3cdd-2095-479b-a057-0bb7fae03124-policy_agent_11.art.log",
+   "tic": 5400,
+   "K": 100,
+   "dW": 1.0,
+   "dhp": 49.667,
+   "W_proy": 1.0,
+   "W_real": 2.0,
+   "hp_proy": 50.67,
+   "hp_real": 1.0,
+   "pack_proy": [
+    "rations"
+   ],
+   "pack_real": [
+    "first_aid",
+    "rations"
+   ],
+   "hand_proy": "none",
+   "hand_real": "none"
+  },
+  {
+   "diario": "ereq_1bbcb276-78b4-4f52-a0dd-18da8a3b7200-policy_agent_11.art.log",
+   "tic": 384,
+   "K": 100,
+   "dW": 1.0,
+   "dhp": 0.0,
+   "W_proy": 1.0,
+   "W_real": 0.0,
+   "hp_proy": 100.0,
+   "hp_real": 100.0,
+   "pack_proy": [
+    "rations"
+   ],
+   "pack_real": [],
+   "hand_proy": "none",
+   "hand_real": "none"
+  },
+  {
+   "diario": "ereq_2097bcee-7df7-406c-9c71-56828ba9bde4-policy_agent_10.art.log",
+   "tic": 2520,
+   "K": 100,
+   "dW": 0.0278,
+   "dhp": 0.0,
+   "W_proy": 1.3333,
+   "W_real": 1.3056,
+   "hp_proy": 86.0,
+   "hp_real": 86.0,
+   "pack_proy": [
+    "first_aid",
+    "darts"
+   ],
+   "pack_real": [
+    "first_aid",
+    "darts"
+   ],
+   "hand_proy": "blowgun",
+   "hand_real": "blowgun"
+  },
+  {
+   "diario": "ereq_2097bcee-7df7-406c-9c71-56828ba9bde4-policy_agent_10.art.log",
+   "tic": 2664,
+   "K": 100,
+   "dW": 0.0278,
+   "dhp": 0.0,
+   "W_proy": 1.3056,
+   "W_real": 1.2778,
+   "hp_proy": 86.0,
+   "hp_real": 86.0,
+   "pack_proy": [
+    "first_aid",
+    "darts"
+   ],
+   "pack_real": [
+    "first_aid",
+    "darts"
+   ],
+   "hand_proy": "blowgun",
+   "hand_real": "blowgun"
+  },
+  {
+   "diario": "ereq_2097bcee-7df7-406c-9c71-56828ba9bde4-policy_agent_10.art.log",
+   "tic": 5808,
+   "K": 100,
+   "dW": 0.0,
+   "dhp": 1.333,
+   "W_proy": 0.25,
+   "W_real": 0.25,
+   "hp_proy": 32.67,
+   "hp_real": 34.0,
+   "pack_proy": [],
+   "pack_real": [],
+   "hand_proy": "blowgun",
+   "hand_real": "blowgun"
+  },
+  {
+   "diario": "ereq_2297f668-0b20-4ed1-ade5-e67b044ec44c-policy_agent_11.art.log",
+   "tic": 384,
+   "K": 100,
+   "dW": 0.1111,
+   "dhp": 0.0,
+   "W_proy": 0.0,
+   "W_real": 0.1111,
+   "hp_proy": 100.0,
+   "hp_real": 100.0,
+   "pack_proy": [
+    "knives"
+   ],
+   "pack_real": [],
+   "hand_proy": "none",
+   "hand_real": "knives"
+  },
+  {
+   "diario": "ereq_24cf2499-21d0-42a4-a055-26b373387fee-policy_agent_10.art.log",
+   "tic": 384,
+   "K": 100,
+   "dW": 0.0556,
+   "dhp": 0.0,
+   "W_proy": 1.2778,
+   "W_real": 1.2222,
+   "hp_proy": 100.0,
+   "hp_real": 100.0,
+   "pack_proy": [
+    "first_aid"
+   ],
+   "pack_real": [
+    "first_aid"
+   ],
+   "hand_proy": "knives",
+   "hand_real": "knives"
+  },
+  {
+   "diario": "ereq_24cf2499-21d0-42a4-a055-26b373387fee-policy_agent_10.art.log",
+   "tic": 1440,
+   "K": 100,
+   "dW": 1.0,
+   "dhp": 0.0,
+   "W_proy": 2.2222,
+   "W_real": 1.2222,
+   "hp_proy": 100.0,
+   "hp_real": 100.0,
+   "pack_proy": [
+    "first_aid",
+    "rations"
+   ],
+   "pack_real": [
+    "first_aid"
+   ],
+   "hand_proy": "knives",
+   "hand_real": "knives"
+  },
+  {
+   "diario": "ereq_3a087642-1b59-41a8-b918-527c977e2d07-policy_agent_10.art.log",
+   "tic": 7056,
+   "K": 100,
+   "dW": 0.0,
+   "dhp": 16.0,
+   "W_proy": 0.3889,
+   "W_real": 0.3889,
+   "hp_proy": 70.0,
+   "hp_real": 86.0,
+   "pack_proy": [
+    "arrows"
+   ],
+   "pack_real": [
+    "arrows"
+   ],
+   "hand_proy": "bow",
+   "hand_real": "bow"
+  },
+  {
+   "diario": "ereq_53433c61-767a-446b-879e-d7e74704b035-policy_agent_11.art.log",
+   "tic": 648,
+   "K": 100,
+   "dW": 0.5,
+   "dhp": 0.0,
+   "W_proy": 1.0,
+   "W_real": 1.5,
+   "hp_proy": 94.0,
+   "hp_real": 94.0,
+   "pack_proy": [
+    "first_aid",
+    "backpack"
+   ],
+   "pack_real": [
+    "first_aid"
+   ],
+   "hand_proy": "none",
+   "hand_real": "none"
+  }
+ ]
+}

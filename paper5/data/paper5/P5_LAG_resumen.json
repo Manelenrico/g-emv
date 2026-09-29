@@ -1,0 +1,578 @@
+{
+ "nota": "P5-LAG. INSTRUMENTO DE MEDIDA.",
+ "pasos_perdidos": {
+  "P5-6C A": {
+   "vidas": 40,
+   "pasos_libres": 25382,
+   "perdidos": 1,
+   "pct": 0.0,
+   "vidas_limpias": 39
+  },
+  "P5-6C F": {
+   "vidas": 40,
+   "pasos_libres": 20424,
+   "perdidos": 1262,
+   "pct": 6.18,
+   "vidas_limpias": 4
+  },
+  "P5-6C Famp": {
+   "vidas": 40,
+   "pasos_libres": 25176,
+   "perdidos": 1389,
+   "pct": 5.52,
+   "vidas_limpias": 4
+  },
+  "P5-6C T": {
+   "vidas": 40,
+   "pasos_libres": 25824,
+   "perdidos": 672,
+   "pct": 2.6,
+   "vidas_limpias": 5
+  },
+  "P5-6C Tamp": {
+   "vidas": 40,
+   "pasos_libres": 21830,
+   "perdidos": 559,
+   "pct": 2.56,
+   "vidas_limpias": 13
+  },
+  "P5-8M A": {
+   "vidas": 40,
+   "pasos_libres": 21762,
+   "perdidos": 2,
+   "pct": 0.01,
+   "vidas_limpias": 38
+  },
+  "P5-8M K": {
+   "vidas": 39,
+   "pasos_libres": 22802,
+   "perdidos": 2364,
+   "pct": 10.37,
+   "vidas_limpias": 6
+  }
+ },
+ "P5-6C puntos de control": {
+  "F": {
+   "todos": {
+    "k": 33,
+    "n": 78,
+    "pct": 42.3,
+    "ic": [
+     32.0,
+     53.4
+    ]
+   },
+   "limpios": {
+    "k": 23,
+    "n": 51,
+    "pct": 45.1,
+    "ic": [
+     32.3,
+     58.6
+    ]
+   },
+   "puntos_sucios": 27,
+   "cumplen_entre_los_sucios": {
+    "k": 10,
+    "n": 27,
+    "pct": 37.0,
+    "ic": [
+     21.5,
+     55.8
+    ]
+   }
+  },
+  "T": {
+   "todos": {
+    "k": 22,
+    "n": 36,
+    "pct": 61.1,
+    "ic": [
+     44.9,
+     75.2
+    ]
+   },
+   "limpios": {
+    "k": 17,
+    "n": 27,
+    "pct": 63.0,
+    "ic": [
+     44.2,
+     78.5
+    ]
+   },
+   "puntos_sucios": 9,
+   "cumplen_entre_los_sucios": {
+    "k": 5,
+    "n": 9,
+    "pct": 55.6,
+    "ic": [
+     26.7,
+     81.1
+    ]
+   }
+  },
+  "diferencia F-T todos": [
+   -18.8,
+   -36.3,
+   0.86
+  ],
+  "diferencia F-T limpios": [
+   -17.86,
+   -37.99,
+   5.24
+  ]
+ },
+ "P5-6C emparejada": {
+  "todos": {
+   "celdas_comparables": 6,
+   "celdas": {
+    "2 tramos · banda 0 (quedarse)": {
+     "F": [
+      4,
+      6
+     ],
+     "T": [
+      2,
+      2
+     ]
+    },
+    "2 tramos · banda 1": {
+     "F": [
+      3,
+      4
+     ],
+     "T": [
+      2,
+      2
+     ]
+    },
+    "3 tramos · banda 0 (quedarse)": {
+     "F": [
+      3,
+      7
+     ],
+     "T": [
+      1,
+      3
+     ]
+    },
+    "3 tramos · banda 1": {
+     "F": [
+      4,
+      14
+     ],
+     "T": [
+      8,
+      14
+     ]
+    },
+    "3 tramos · banda 2-3": {
+     "F": [
+      6,
+      14
+     ],
+     "T": [
+      5,
+      7
+     ]
+    },
+    "4 tramos · banda 0 (quedarse)": {
+     "F": [
+      8,
+      11
+     ],
+     "T": [
+      2,
+      4
+     ]
+    }
+   },
+   "F": {
+    "k": 28,
+    "n": 56,
+    "pct": 50.0,
+    "ic": [
+     37.3,
+     62.7
+    ]
+   },
+   "T": {
+    "k": 20,
+    "n": 32,
+    "pct": 62.5,
+    "ic": [
+     45.3,
+     77.1
+    ]
+   },
+   "diferencia": [
+    -12.5,
+    -31.8,
+    8.9
+   ]
+  },
+  "limpios": {
+   "celdas_comparables": 5,
+   "celdas": {
+    "2 tramos · banda 1": {
+     "F": [
+      3,
+      4
+     ],
+     "T": [
+      2,
+      2
+     ]
+    },
+    "3 tramos · banda 0 (quedarse)": {
+     "F": [
+      3,
+      5
+     ],
+     "T": [
+      0,
+      1
+     ]
+    },
+    "3 tramos · banda 1": {
+     "F": [
+      3,
+      8
+     ],
+     "T": [
+      6,
+      12
+     ]
+    },
+    "3 tramos · banda 2-3": {
+     "F": [
+      1,
+      7
+     ],
+     "T": [
+      5,
+      6
+     ]
+    },
+    "4 tramos · banda 0 (quedarse)": {
+     "F": [
+      6,
+      9
+     ],
+     "T": [
+      2,
+      4
+     ]
+    }
+   },
+   "F": {
+    "k": 16,
+    "n": 33,
+    "pct": 48.5,
+    "ic": [
+     32.5,
+     64.8
+    ]
+   },
+   "T": {
+    "k": 15,
+    "n": 25,
+    "pct": 60.0,
+    "ic": [
+     40.7,
+     76.6
+    ]
+   },
+   "diferencia": [
+    -11.52,
+    -34.56,
+    13.72
+   ]
+  }
+ },
+ "P5-6C vida y S6": {
+  "todos": {
+   "A": {
+    "n": 40,
+    "vida_mediana": 8348.5,
+    "puesto_mediano": 12.0
+   },
+   "F": {
+    "n": 40,
+    "vida_mediana": 8131.0,
+    "puesto_mediano": 14.0
+   },
+   "T": {
+    "n": 40,
+    "vida_mediana": 8728.5,
+    "puesto_mediano": 11.5
+   },
+   "F-A": {
+    "n": 40,
+    "vida_dif_mediana": -421.5,
+    "vida_ic": [
+     -1857.5,
+     254.0
+    ],
+    "vida_p_signos": 0.42959050784338615,
+    "puesto_dif_mediana": 1.5,
+    "puesto_ic": [
+     -0.5,
+     2.0
+    ]
+   },
+   "T-A": {
+    "n": 40,
+    "vida_dif_mediana": -94.0,
+    "vida_ic": [
+     -629.0,
+     1402.5
+    ],
+    "vida_p_signos": 1.0,
+    "puesto_dif_mediana": 0.5,
+    "puesto_ic": [
+     -0.5,
+     2.0
+    ]
+   },
+   "F-T": {
+    "n": 40,
+    "vida_dif_mediana": -540.0,
+    "vida_ic": [
+     -2123.5,
+     159.5
+    ],
+    "vida_p_signos": 0.6358280026288412,
+    "puesto_dif_mediana": 1.0,
+    "puesto_ic": [
+     0.0,
+     4.0
+    ]
+   }
+  },
+  "vidas_limpias": {
+   "A": {
+    "n": 39,
+    "vida_mediana": 8340,
+    "puesto_mediano": 12
+   },
+   "F": {
+    "n": 4,
+    "vida_mediana": 7922.0,
+    "puesto_mediano": 15.0
+   },
+   "T": {
+    "n": 5,
+    "vida_mediana": 2513,
+    "puesto_mediano": 16
+   },
+   "F-A": {
+    "n": 4,
+    "vida_dif_mediana": -1331.5,
+    "vida_ic": [
+     -11364.0,
+     -296.0
+    ],
+    "vida_p_signos": 0.125,
+    "puesto_dif_mediana": 3.0,
+    "puesto_ic": [
+     2.0,
+     12.0
+    ]
+   },
+   "T-A": {
+    "n": 5,
+    "vida_dif_mediana": -5174,
+    "vida_ic": [
+     -6365,
+     -1126
+    ],
+    "vida_p_signos": 0.0625,
+    "puesto_dif_mediana": 2,
+    "puesto_ic": [
+     1,
+     7
+    ]
+   },
+   "F-T": {
+    "n": 1,
+    "vida_dif_mediana": 112,
+    "vida_ic": [
+     112,
+     112
+    ],
+    "vida_p_signos": 1.0,
+    "puesto_dif_mediana": 0,
+    "puesto_ic": [
+     0,
+     0
+    ]
+   }
+  }
+ },
+ "P5-8M K1": {
+  "todos": {
+   "K_por_cien_tics": 8.93,
+   "A_por_cien_tics": 8.08,
+   "K/A": 1.106,
+   "dentro": 46.95,
+   "fuera": 8.08,
+   "dentro/fuera": 5.81,
+   "tics_K": 323725,
+   "tics_A": 317385,
+   "tics_dentro_K": 7135
+  },
+  "tics_limpios": {
+   "K_por_cien_tics": 9.8,
+   "A_por_cien_tics": 8.08,
+   "K/A": 1.213,
+   "dentro": 49.7,
+   "fuera": 8.9,
+   "dentro/fuera": 5.58,
+   "tics_K": 283137,
+   "tics_A": 317287,
+   "tics_dentro_K": 6231
+  },
+  "emparejado_todos": {
+   "K_por_cien_tics": 11.34,
+   "A_por_cien_tics": 9.75,
+   "K/A": 1.163,
+   "tics_K": 242151,
+   "tics_A": 242151,
+   "parejas": 39
+  },
+  "emparejado_tics_limpios": {
+   "K_por_cien_tics": 12.76,
+   "A_por_cien_tics": 9.75,
+   "K/A": 1.308,
+   "tics_K": 207344,
+   "tics_A": 242102,
+   "parejas": 39
+  }
+ },
+ "P5-8M K2": {
+  "todos": {
+   "parejas": 39,
+   "vida_dif_mediana": -216,
+   "vida_ic": [
+    -1907,
+    2439
+   ],
+   "vida_K_mejor": 18,
+   "vida_K_peor": 21,
+   "vida_p_signos": 0.7492586247608415,
+   "puesto_dif_mediana": -1,
+   "puesto_ic": [
+    -3,
+    3
+   ],
+   "K_vidas_limpias": 6,
+   "K_vidas": 39
+  },
+  "vidas_limpias_de_K": {
+   "parejas": 6,
+   "vida_dif_mediana": 2085.5,
+   "vida_ic": [
+    -940.5,
+    6868.0
+   ],
+   "vida_K_mejor": 4,
+   "vida_K_peor": 2,
+   "vida_p_signos": 0.6875,
+   "puesto_dif_mediana": -0.5,
+   "puesto_ic": [
+    -3.0,
+    3.0
+   ],
+   "K_vidas_limpias": 6,
+   "K_vidas": 39
+  }
+ },
+ "P5-8M compromiso": {
+  "todos": {
+   "obedece": 749,
+   "rompe": 61,
+   "pct_obedece": 92.5
+  },
+  "formas_limpias": {
+   "obedece": 545,
+   "rompe": 48,
+   "pct_obedece": 91.9
+  },
+  "tics_limpios": {
+   "obedece": 572,
+   "rompe": 51,
+   "pct_obedece": 91.8
+  },
+  "formas": {
+   "total": 209,
+   "limpias": 168,
+   "con_paso_perdido_dentro": 41
+  }
+ },
+ "P5-8M K6": {
+  "ms_mediana_por_asiento": [
+   0.48,
+   0.499,
+   0.559,
+   0.621,
+   0.636,
+   0.645,
+   0.657,
+   0.676,
+   0.709,
+   0.714,
+   0.715,
+   0.728,
+   0.831,
+   0.871,
+   0.895,
+   0.923,
+   0.94,
+   0.945,
+   0.988,
+   0.994,
+   1.076,
+   1.109,
+   1.132,
+   1.249,
+   1.299,
+   1.602,
+   1.669,
+   1.723,
+   1.868,
+   2.234,
+   2.449,
+   2.498,
+   2.593,
+   2.761,
+   2.825,
+   3.012,
+   3.139,
+   3.511,
+   5.508
+  ],
+  "perdidos_obs (observaciones sin decision)": 0,
+  "pasos_perdidos_K": 2364,
+  "pasos_libres_K": 22802,
+  "asientos_K_con_pasos_perdidos": 33,
+  "asientos_K": 39
+ },
+ "P5-6C formas F": {
+  "aceptadas": 52,
+  "limpias": 17,
+  "con_puntos": 43,
+  "con_puntos_y_limpias": 15,
+  "perdidos_dentro_de_formas": 712,
+  "tics_de_forma": 56150
+ },
+ "P5-6C formas T": {
+  "aceptadas": 41,
+  "limpias": 25,
+  "con_puntos": 29,
+  "con_puntos_y_limpias": 20,
+  "perdidos_dentro_de_formas": 50,
+  "tics_de_forma": 14993
+ }
+}

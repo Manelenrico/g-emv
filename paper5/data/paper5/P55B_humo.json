@@ -1,0 +1,71 @@
+[
+ {
+  "brazo": "formas",
+  "modelo": "claude-haiku-4-5-20251001",
+  "escena": "ereq_051a3cdd-2095_11_500",
+  "ms": 2729.6,
+  "usage": {
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   },
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 8953,
+   "inference_geo": "not_available",
+   "input_tokens": 530,
+   "output_tokens": 252,
+   "output_tokens_details": null,
+   "server_tool_use": null,
+   "service_tier": "standard"
+  },
+  "usd": 0.002685,
+  "error": null,
+  "texto": "```json\n{\n  \"formas\": [\n    {\n      \"tramos\": [\n        {\n          \"destino\": [23, 20],\n          \"intencion\": \"ir\",\n          \"esperar\": 0,\n          \"vida\": \"-\",\n          \"manos\": \"0\",\n          \"vinculo\": \"+\",\n          \"por\": \"S-SOLEDAD\",\n          \"porque\": \"acercarse al hermano que esta en las ultimas\"\n        },\n        {\n          \"destino\": null,\n          \"intencion\": \"usar\",\n          \"esperar\": 0,\n          \"vida\": \"0\",\n          \"manos\": \"-\",\n          \"vinculo\": \"+\",\n          \"por\": \"R-HERMANO-FALTA\",\n          \"porque\": \"dejarle el botiquin en el suelo para que se cure\"\n        }\n      ],\n      \"final\": \"hermano con cura alcanzable, tu mas cerca de el\"\n    }\n  ],\n  \"callar\": false\n}\n```"
+ },
+ {
+  "brazo": "formas",
+  "modelo": "claude-sonnet-4-5-20250929",
+  "escena": "ereq_051a3cdd-2095_11_500",
+  "ms": 10475.5,
+  "usage": {
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   },
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 8953,
+   "inference_geo": "not_available",
+   "input_tokens": 530,
+   "output_tokens": 338,
+   "output_tokens_details": null,
+   "server_tool_use": null,
+   "service_tier": "standard"
+  },
+  "usd": 0.009346,
+  "error": null,
+  "texto": "```json\n{\n  \"formas\": [\n    {\n      \"tramos\": [\n        {\n          \"destino\": null,\n          \"intencion\": \"esperar\",\n          \"esperar\": 5,\n          \"vida\": \"0\",\n          \"manos\": \"0\",\n          \"vinculo\": \"0\",\n          \"por\": \"F-4-ALCANCE\",\n          \"porque\": \"espero a poder moverme\"\n        },\n        {\n          \"destino\": [23, 20],\n          \"intencion\": \"ir\",\n          \"esperar\": 0,\n          \"vida\": \"-\",\n          \"manos\": \"0\",\n          \"vinculo\": \"+\",\n          \"por\": \"S-HERIDO\",\n          \"porque\": \"me acerco a mi hermano que esta en las ultimas\"\n        },\n        {\n          \"destino\": \"botiquin\",\n          \"intencion\": \"usar\",\n          \"esperar\": 0,\n          \"vida\": \"0\",\n          \"manos\": \"-\",\n          \"vinculo\": \"+\",\n          \"por\": \"S-PROVISION\",\n          \"porque\": \"le dejo mi botiquin cerca para que se cure\"\n        }\n      ],\n      \"final\": \"llego junto a mi hermano con cura para que sobreviva\"\n    }\n  ],\n  \"callar\": false\n}\n```"
+ },
+ {
+  "brazo": "casillas",
+  "modelo": "claude-haiku-4-5-20251001",
+  "escena": "ereq_051a3cdd-2095_11_700",
+  "ms": 3404.5,
+  "usage": {
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 0
+   },
+   "cache_creation_input_tokens": 0,
+   "cache_read_input_tokens": 6618,
+   "inference_geo": "not_available",
+   "input_tokens": 646,
+   "output_tokens": 288,
+   "output_tokens_details": null,
+   "server_tool_use": null,
+   "service_tier": "standard"
+  },
+  "usd": 0.002748,
+  "error": null,
+  "texto": "```json\n{\n  \"propuestas\": [\n    {\n      \"accion\": \"Acércate al asiento 8, que está a 3 casillas y está en las últimas (menos de 33 de vida)\",\n      \"motivo\": \"Es el más vulnerable ahora mismo y está dentro de tu alcance; eliminarlo te da un punto y reduce la competencia.\"\n    },\n    {\n      \"accion\": \"Busca un arma en el suelo explorando hacia la Fortaleza o los cajones del anillo medio\",\n      \"motivo\": \"Sin arma no puedes defenderte ni atacar; las armas de primera están en la Fortaleza y hay cajones menores repartidos que podrían tener lo que necesitas.\"\n    },\n    {\n      \"accion\": \"Mantente en movimiento hacia el centro del círculo seguro, lejos del asiento 13 que tiene cuchillos\",\n      \"motivo\": \"Estás dentro del alcance de múltiples jugadores y el círculo se cierra en 932 tics; moverse te da opciones y te aleja del peligro inmediato.\"\n    }\n  ]\n}\n```"
+ }
+]

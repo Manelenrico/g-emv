@@ -1,0 +1,160 @@
+{
+ "cajas": {
+  "formas/haiku": {
+   "construidas": 334,
+   "rechazada_area": 280,
+   "rechazada": 8,
+   "aceptada": 27,
+   "rechazada_vida": 11,
+   "coincide": 8
+  },
+  "despues/-": {
+   "construidas": 100,
+   "rechazada_area": 95,
+   "rechazada_vida": 2,
+   "rechazada": 3
+  },
+  "azarp/-": {
+   "construidas": 100,
+   "rechazada_area": 97,
+   "rechazada": 1,
+   "rechazada_vida": 2
+  },
+  "formas/sonnet": {
+   "construidas": 353,
+   "rechazada_area": 274,
+   "coincide": 7,
+   "rechazada": 28,
+   "aceptada": 36,
+   "rechazada_vida": 8
+  },
+  "casillas/haiku": {
+   "construidas": 367,
+   "rechazada_area": 356,
+   "rechazada_vida": 11
+  }
+ },
+ "traduccion": {
+  "formas/haiku": {
+   "respuestas que parsean": 200,
+   "formas propuestas": 337,
+   "tramos propuestos": 856,
+   "tramos con la mitad del mundo": 853,
+   "tramos con la mitad emocional": 853,
+   "tramos con las dos mitades": 853,
+   "formas construidas": 334,
+   "casilla fuera o solida": 2,
+   "formas intraducibles": 3,
+   "objeto no esta en el suelo": 1
+  },
+  "casillas/haiku": {
+   "respuestas que parsean": 200,
+   "formas propuestas": 599,
+   "tramos propuestos": 599,
+   "objeto sin nombre conocido": 135,
+   "formas intraducibles": 232,
+   "objeto no esta en el suelo": 96,
+   "tramos con la mitad del mundo": 367,
+   "formas construidas": 367,
+   "casilla fuera o solida": 1
+  },
+  "formas/sonnet": {
+   "respuestas que parsean": 200,
+   "formas propuestas": 384,
+   "tramos propuestos": 1168,
+   "tramos con la mitad del mundo": 1137,
+   "tramos con la mitad emocional": 1137,
+   "tramos con las dos mitades": 1137,
+   "objeto no esta en el suelo": 10,
+   "formas intraducibles": 31,
+   "formas construidas": 353,
+   "casilla fuera o solida": 19,
+   "objeto sin nombre conocido": 2
+  }
+ },
+ "coherencia": {
+  "formas/haiku|vida": {
+   "comparadas": 518,
+   "falla": 281,
+   "acierta": 237
+  },
+  "formas/haiku|manos": {
+   "comparadas": 518,
+   "acierta": 104,
+   "falla": 414
+  },
+  "formas/haiku|vinculo": {
+   "comparadas": 518,
+   "falla": 206,
+   "acierta": 312
+  },
+  "formas/haiku|por": {
+   "nombrados": 518,
+   "no cambia": 460,
+   "de verdad cambia": 39,
+   "renglon inventado": 19
+  },
+  "formas/sonnet|vida": {
+   "comparadas": 741,
+   "falla": 427,
+   "acierta": 314
+  },
+  "formas/sonnet|manos": {
+   "comparadas": 741,
+   "falla": 513,
+   "acierta": 228
+  },
+  "formas/sonnet|vinculo": {
+   "comparadas": 741,
+   "falla": 381,
+   "acierta": 360
+  },
+  "formas/sonnet|por": {
+   "nombrados": 741,
+   "de verdad cambia": 172,
+   "no cambia": 551,
+   "renglon inventado": 18
+  }
+ },
+ "propone": {
+  "formas/haiku": {
+   "respuestas": 200,
+   "formas": 334,
+   "tramos:2": 108,
+   "intencion:ir": 389,
+   "intencion:usar": 71,
+   "quedarse": 155,
+   "intencion:esperar": 78,
+   "intencion:coger": 314,
+   "tramos:3": 127,
+   "tramos:4": 52,
+   "tramos:1": 47,
+   "calla": 2
+  },
+  "casillas/haiku": {
+   "respuestas": 200,
+   "formas": 367,
+   "tramos:1": 367,
+   "intencion:ir": 367
+  },
+  "formas/sonnet": {
+   "respuestas": 200,
+   "formas": 353,
+   "tramos:3": 196,
+   "intencion:esperar": 92,
+   "quedarse": 175,
+   "intencion:ir": 462,
+   "tramos:2": 55,
+   "intencion:coger": 425,
+   "tramos:4": 98,
+   "intencion:usar": 115,
+   "tramos:1": 4,
+   "calla": 4
+  }
+ },
+ "ms": {
+  "formas/haiku": 4378.0,
+  "casillas/haiku": 3232.7,
+  "formas/sonnet": 10627.3
+ }
+}

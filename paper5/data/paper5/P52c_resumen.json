@@ -1,0 +1,62 @@
+{
+ "semilla": 20260919,
+ "semilla_azar": 20260919,
+ "diarios": 40,
+ "escenas": 2230,
+ "cajas": {
+  "estricto": {
+   "ahora": {
+    "coincide": 2203,
+    "intraducible": 27
+   },
+   "despues": {
+    "vetada": 730,
+    "rechazada": 49,
+    "dormida": 125,
+    "aceptada": 4
+   },
+   "azarp": {
+    "vetada": 730,
+    "rechazada": 52,
+    "dormida": 125,
+    "aceptada": 1
+   }
+  },
+  "ventana": {
+   "ahora": {
+    "coincide": 2194,
+    "caducada": 36
+   },
+   "despues": {
+    "rechazada": 743,
+    "aceptada": 40,
+    "caducada": 125
+   },
+   "azarp": {
+    "rechazada": 759,
+    "aceptada": 24,
+    "caducada": 125
+   }
+  },
+  "vida": {
+   "ahora": {
+    "coincide": 2182,
+    "aceptada": 13,
+    "caducada": 35
+   },
+   "despues": {
+    "rechazada": 773,
+    "aceptada": 72,
+    "caducada": 63
+   },
+   "azarp": {
+    "rechazada": 784,
+    "aceptada": 61,
+    "caducada": 63
+   }
+  }
+ },
+ "extra": {
+  "escenas sin ningun tic con piernas listas": 5
+ }
+}

@@ -1,0 +1,200 @@
+{
+ "consejero": "nadie",
+ "escenas": 2225,
+ "cajas": {
+  "lin": {
+   "ahora": {
+    "coincide": 2225
+   },
+   "despues": {
+    "rechazada_area": 843,
+    "aceptada": 24,
+    "rechazada": 17,
+    "rechazada_vida": 24
+   },
+   "azarp": {
+    "rechazada_area": 871,
+    "rechazada": 5,
+    "rechazada_vida": 30,
+    "aceptada": 2
+   }
+  },
+  "umb07": {
+   "ahora": {
+    "coincide": 2225
+   },
+   "despues": {
+    "rechazada_area": 843,
+    "aceptada": 24,
+    "rechazada": 17,
+    "rechazada_vida": 24
+   },
+   "azarp": {
+    "rechazada_area": 871,
+    "rechazada": 5,
+    "rechazada_vida": 30,
+    "aceptada": 2
+   }
+  },
+  "umb05": {
+   "ahora": {
+    "coincide": 2225
+   },
+   "despues": {
+    "rechazada_area": 843,
+    "aceptada": 24,
+    "rechazada": 17,
+    "rechazada_vida": 24
+   },
+   "azarp": {
+    "rechazada_area": 871,
+    "rechazada": 5,
+    "rechazada_vida": 30,
+    "aceptada": 2
+   }
+  },
+  "umb09": {
+   "ahora": {
+    "coincide": 2225
+   },
+   "despues": {
+    "rechazada_area": 843,
+    "aceptada": 24,
+    "rechazada": 17,
+    "rechazada_vida": 24
+   },
+   "azarp": {
+    "rechazada_area": 871,
+    "rechazada": 5,
+    "rechazada_vida": 30,
+    "aceptada": 2
+   }
+  },
+  "lin_b": {
+   "ahora": {
+    "coincide": 2225
+   },
+   "despues": {
+    "rechazada_area": 843,
+    "aceptada": 24,
+    "rechazada": 17,
+    "rechazada_vida": 24
+   },
+   "azarp": {
+    "rechazada_area": 871,
+    "rechazada": 5,
+    "rechazada_vida": 30,
+    "aceptada": 2
+   }
+  },
+  "umb07_b": {
+   "ahora": {
+    "coincide": 2225
+   },
+   "despues": {
+    "rechazada_area": 843,
+    "aceptada": 24,
+    "rechazada": 17,
+    "rechazada_vida": 24
+   },
+   "azarp": {
+    "rechazada_area": 871,
+    "rechazada": 5,
+    "rechazada_vida": 30,
+    "aceptada": 2
+   }
+  }
+ },
+ "C final por diario": [
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0
+ ],
+ "C final mediana": 0.0,
+ "trayectoria de C": {
+  "0-500": 0.0,
+  "500-1500": 0.0,
+  ">1500": 0.0
+ },
+ "comprobacion": {
+  "dichos": 9974,
+  "no triviales": 0,
+  "ausencias": 0,
+  "comprobados": 0,
+  "aciertos": 0,
+  "fallos": 0
+ },
+ "dano": {
+  "lin": {
+   "despues:aceptadas": 24,
+   "azarp:aceptadas": 2
+  },
+  "umb07": {
+   "despues:aceptadas": 24,
+   "azarp:aceptadas": 2
+  },
+  "umb05": {
+   "despues:aceptadas": 24,
+   "azarp:aceptadas": 2
+  },
+  "umb09": {
+   "despues:aceptadas": 24,
+   "azarp:aceptadas": 2
+  },
+  "lin_b": {
+   "despues:aceptadas": 24,
+   "azarp:aceptadas": 2
+  },
+  "umb07_b": {
+   "despues:aceptadas": 24,
+   "azarp:aceptadas": 2
+  }
+ },
+ "recuperacion por grupo (C=1)": {
+  "rivales": 3.654497439951767,
+  "hermano": 3.215780173499778,
+  "propias": 0.20455453023793702
+ },
+ "coste_ms": {
+  "mediana": 12.606708478415385,
+  "max": 47.9677080293186,
+  "n": 908
+ }
+}

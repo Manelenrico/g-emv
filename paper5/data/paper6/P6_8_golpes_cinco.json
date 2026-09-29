@@ -1,0 +1,4316 @@
+{
+ "P5-6C": {
+  "recuento": {
+   "golpes de rival visto CON arma en mano": 1290,
+   "golpes de rival visto con hand NONE": 411,
+   "muere por no consta": 23,
+   "golpes de zone": 395,
+   "muere por anillo": 26,
+   "muere por rival visto CON arma en mano": 136,
+   "golpes de poison": 15,
+   "muere por rival visto con hand NONE": 11,
+   "golpes de rival NO visto": 1
+  },
+  "vidas": [
+   {
+    "carp": "P56C_t1_A_20260916",
+    "slot": 10,
+    "causa": "no consta",
+    "amenaza_M_max": 0.05294,
+    "amenaza_M_media": 0.0043358,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 5,
+     "rival visto con hand NONE": 1
+    },
+    "tic": 8405
+   },
+   {
+    "carp": "P56C_t1_A_20260916",
+    "slot": 11,
+    "causa": "no consta",
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {},
+    "tic": 8898
+   },
+   {
+    "carp": "P56C_t1_A_20365645",
+    "slot": 10,
+    "causa": "no consta",
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {},
+    "tic": 14209
+   },
+   {
+    "carp": "P56C_t1_A_20365645",
+    "slot": 11,
+    "causa": "anillo",
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {},
+    "tic": 12529
+   },
+   {
+    "carp": "P56C_t1_A_20470374",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 4,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 5
+    },
+    "tic": 8224
+   },
+   {
+    "carp": "P56C_t1_A_20470374",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 4,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 5
+    },
+    "tic": 9412
+   },
+   {
+    "carp": "P56C_t1_A_20575103",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 12,
+    "amenaza_M_max": 0.03409,
+    "amenaza_M_media": 0.0010227,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 8
+    },
+    "tic": 825
+   },
+   {
+    "carp": "P56C_t1_A_20575103",
+    "slot": 11,
+    "causa": "no consta",
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 1
+    },
+    "tic": 5976
+   },
+   {
+    "carp": "P56C_t1_F_20260916",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 4,
+    "amenaza_M_max": 0.25,
+    "amenaza_M_media": 0.0375,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 6
+    },
+    "tic": 8469
+   },
+   {
+    "carp": "P56C_t1_F_20260916",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 4,
+    "amenaza_M_max": 0.03614,
+    "amenaza_M_media": 0.0012651,
+    "golpes_ult200": {
+     "rival visto con hand NONE": 1,
+     "rival visto CON arma en mano": 4
+    },
+    "tic": 8351
+   },
+   {
+    "carp": "P56C_t1_F_20365645",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 4,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 3,
+     "rival visto con hand NONE": 1
+    },
+    "tic": 10230
+   },
+   {
+    "carp": "P56C_t1_F_20365645",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 15,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 4
+    },
+    "tic": 2005
+   },
+   {
+    "carp": "P56C_t1_F_20470374",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 4,
+    "amenaza_M_max": 0.25,
+    "amenaza_M_media": 0.00125,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 6,
+     "rival visto con hand NONE": 1
+    },
+    "tic": 8506
+   },
+   {
+    "carp": "P56C_t1_F_20470374",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 4,
+    "amenaza_M_max": 0.0241,
+    "amenaza_M_media": 0.000964,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 5
+    },
+    "tic": 8398
+   },
+   {
+    "carp": "P56C_t1_F_20575103",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 15,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 5
+    },
+    "tic": 2427
+   },
+   {
+    "carp": "P56C_t1_F_20575103",
+    "slot": 11,
+    "causa": "no consta",
+    "amenaza_M_max": 0.03614,
+    "amenaza_M_media": 0.0032526,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 5
+    },
+    "tic": 1009
+   },
+   {
+    "carp": "P56C_t1_T_20260916",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 3,
+    "amenaza_M_max": 0.03614,
+    "amenaza_M_media": 0.0101192,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 6
+    },
+    "tic": 8472
+   },
+   {
+    "carp": "P56C_t1_T_20260916",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 4,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 2
+    },
+    "tic": 9338
+   },
+   {
+    "carp": "P56C_t1_T_20365645",
+    "slot": 10,
+    "causa": "no consta",
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {},
+    "tic": 12406
+   },
+   {
+    "carp": "P56C_t1_T_20365645",
+    "slot": 11,
+    "causa": "anillo",
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {},
+    "tic": 11881
+   },
+   {
+    "carp": "P56C_t1_T_20470374",
+    "slot": 10,
+    "causa": "anillo",
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {},
+    "tic": 12793
+   },
+   {
+    "carp": "P56C_t1_T_20470374",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 9,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 5
+    },
+    "tic": 8286
+   },
+   {
+    "carp": "P56C_t1_T_20575103",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 12,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 3
+    },
+    "tic": 2399
+   },
+   {
+    "carp": "P56C_t1_T_20575103",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 12,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 8
+    },
+    "tic": 802
+   },
+   {
+    "carp": "P56C_t2_A_20679832",
+    "slot": 10
+   },
+   {
+    "carp": "P56C_t2_A_20679832",
+    "slot": 11,
+    "causa": "anillo",
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {},
+    "tic": 13561
+   },
+   {
+    "carp": "P56C_t2_A_20784561",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 15,
+    "amenaza_M_max": 0.045,
+    "amenaza_M_media": 0.00315,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 5
+    },
+    "tic": 2392
+   },
+   {
+    "carp": "P56C_t2_A_20784561",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 15,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 4
+    },
+    "tic": 2574
+   },
+   {
+    "carp": "P56C_t2_A_20889290",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 3,
+    "amenaza_M_max": 0.045,
+    "amenaza_M_media": 0.00045,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 3
+    },
+    "tic": 9460
+   },
+   {
+    "carp": "P56C_t2_A_20889290",
+    "slot": 11,
+    "causa": "no consta",
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 1
+    },
+    "tic": 12342
+   },
+   {
+    "carp": "P56C_t2_A_20994019",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 5,
+    "amenaza_M_max": 0.045,
+    "amenaza_M_media": 0.006974999999999999,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 5
+    },
+    "tic": 8429
+   },
+   {
+    "carp": "P56C_t2_A_20994019",
+    "slot": 11,
+    "causa": "rival visto con hand NONE",
+    "matador": 13,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 3,
+     "rival visto con hand NONE": 4
+    },
+    "tic": 8559
+   },
+   {
+    "carp": "P56C_t2_F_20679832",
+    "slot": 10,
+    "causa": "no consta",
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto con hand NONE": 1
+    },
+    "tic": 3817
+   },
+   {
+    "carp": "P56C_t2_F_20679832",
+    "slot": 11,
+    "causa": "rival visto con hand NONE",
+    "matador": 15,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto con hand NONE": 15
+    },
+    "tic": 2197
+   },
+   {
+    "carp": "P56C_t2_F_20784561",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 15,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 6
+    },
+    "tic": 2661
+   },
+   {
+    "carp": "P56C_t2_F_20784561",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 14,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 4
+    },
+    "tic": 9284
+   },
+   {
+    "carp": "P56C_t2_F_20889290",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 4,
+    "amenaza_M_max": 0.01205,
+    "amenaza_M_media": 0.0018075,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 4
+    },
+    "tic": 8338
+   },
+   {
+    "carp": "P56C_t2_F_20889290",
+    "slot": 11,
+    "causa": "no consta",
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {},
+    "tic": 10276
+   },
+   {
+    "carp": "P56C_t2_F_20994019",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 5,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 4
+    },
+    "tic": 8668
+   },
+   {
+    "carp": "P56C_t2_F_20994019",
+    "slot": 11,
+    "causa": "anillo",
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto con hand NONE": 3
+    },
+    "tic": 14785
+   },
+   {
+    "carp": "P56C_t2_T_20679832",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 12,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 3
+    },
+    "tic": 9526
+   },
+   {
+    "carp": "P56C_t2_T_20679832",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 12,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 5,
+     "rival NO visto": 1
+    },
+    "tic": 9847
+   },
+   {
+    "carp": "P56C_t2_T_20784561",
+    "slot": 10,
+    "causa": "anillo",
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {},
+    "tic": 12529
+   },
+   {
+    "carp": "P56C_t2_T_20784561",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 14,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 6
+    },
+    "tic": 5109
+   },
+   {
+    "carp": "P56C_t2_T_20889290",
+    "slot": 10,
+    "causa": "anillo",
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {},
+    "tic": 10849
+   },
+   {
+    "carp": "P56C_t2_T_20889290",
+    "slot": 11,
+    "causa": "no consta",
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {},
+    "tic": 11993
+   },
+   {
+    "carp": "P56C_t2_T_20994019",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 14,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 7
+    },
+    "tic": 2064
+   },
+   {
+    "carp": "P56C_t2_T_20994019",
+    "slot": 11,
+    "causa": "anillo",
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {},
+    "tic": 13009
+   },
+   {
+    "carp": "P56C_t3_A_21098748",
+    "slot": 10,
+    "causa": "anillo",
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {},
+    "tic": 13009
+   },
+   {
+    "carp": "P56C_t3_A_21098748",
+    "slot": 11,
+    "causa": "anillo",
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {},
+    "tic": 13009
+   },
+   {
+    "carp": "P56C_t3_A_21203477",
+    "slot": 10,
+    "causa": "no consta",
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {},
+    "tic": 10474
+   },
+   {
+    "carp": "P56C_t3_A_21203477",
+    "slot": 11,
+    "causa": "no consta",
+    "amenaza_M_max": 0.03846,
+    "amenaza_M_media": 0.0063127,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 4
+    },
+    "tic": 9574
+   },
+   {
+    "carp": "P56C_t3_A_21308206",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 12,
+    "amenaza_M_max": 0.03488,
+    "amenaza_M_media": 0.0077784,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 1
+    },
+    "tic": 10273
+   },
+   {
+    "carp": "P56C_t3_A_21308206",
+    "slot": 11,
+    "causa": "anillo",
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {},
+    "tic": 12817
+   },
+   {
+    "carp": "P56C_t3_A_21412935",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 4,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 5
+    },
+    "tic": 8506
+   },
+   {
+    "carp": "P56C_t3_A_21412935",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 4,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 5
+    },
+    "tic": 8308
+   },
+   {
+    "carp": "P56C_t3_F_21098748",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 4,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 4
+    },
+    "tic": 10769
+   },
+   {
+    "carp": "P56C_t3_F_21098748",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 5,
+    "amenaza_M_max": 0.07,
+    "amenaza_M_media": 0.0050193,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 4
+    },
+    "tic": 9178
+   },
+   {
+    "carp": "P56C_t3_F_21203477",
+    "slot": 10,
+    "causa": "no consta",
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {},
+    "tic": 13374
+   },
+   {
+    "carp": "P56C_t3_F_21203477",
+    "slot": 11,
+    "causa": "no consta",
+    "amenaza_M_max": 0.03614,
+    "amenaza_M_media": 0.0136732,
+    "golpes_ult200": {},
+    "tic": 10770
+   },
+   {
+    "carp": "P56C_t3_F_21308206",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 4,
+    "amenaza_M_max": 0.09,
+    "amenaza_M_media": 0.00045,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 3
+    },
+    "tic": 8624
+   },
+   {
+    "carp": "P56C_t3_F_21308206",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 4,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 4
+    },
+    "tic": 8490
+   },
+   {
+    "carp": "P56C_t3_F_21412935",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 9,
+    "amenaza_M_max": 0.03614,
+    "amenaza_M_media": 0.003614,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 8
+    },
+    "tic": 2467
+   },
+   {
+    "carp": "P56C_t3_F_21412935",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 9,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 7
+    },
+    "tic": 3177
+   },
+   {
+    "carp": "P56C_t3_T_21098748",
+    "slot": 10,
+    "causa": "anillo",
+    "amenaza_M_max": 0.04217,
+    "amenaza_M_media": 0.00105425,
+    "golpes_ult200": {},
+    "tic": 12649
+   },
+   {
+    "carp": "P56C_t3_T_21098748",
+    "slot": 11,
+    "causa": "anillo",
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto con hand NONE": 8
+    },
+    "tic": 14737
+   },
+   {
+    "carp": "P56C_t3_T_21203477",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 9,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 7
+    },
+    "tic": 5325
+   },
+   {
+    "carp": "P56C_t3_T_21203477",
+    "slot": 11,
+    "causa": "anillo",
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {},
+    "tic": 12841
+   },
+   {
+    "carp": "P56C_t3_T_21308206",
+    "slot": 10,
+    "causa": "anillo",
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {},
+    "tic": 13921
+   },
+   {
+    "carp": "P56C_t3_T_21308206",
+    "slot": 11,
+    "causa": "anillo",
+    "amenaza_M_max": 0.04217,
+    "amenaza_M_media": 0.0004217,
+    "golpes_ult200": {},
+    "tic": 13009
+   },
+   {
+    "carp": "P56C_t3_T_21412935",
+    "slot": 10,
+    "causa": "no consta",
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 2
+    },
+    "tic": 9965
+   },
+   {
+    "carp": "P56C_t3_T_21412935",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 5,
+    "amenaza_M_max": 0.25,
+    "amenaza_M_media": 0.0594376,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 6
+    },
+    "tic": 9724
+   },
+   {
+    "carp": "P56C_t4_A_21517664",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 12,
+    "amenaza_M_max": 0.05921,
+    "amenaza_M_media": 0.00621705,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 5
+    },
+    "tic": 1308
+   },
+   {
+    "carp": "P56C_t4_A_21517664",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 9,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 3
+    },
+    "tic": 1598
+   },
+   {
+    "carp": "P56C_t4_A_21622393",
+    "slot": 10,
+    "causa": "rival visto con hand NONE",
+    "matador": 15,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto con hand NONE": 16
+    },
+    "tic": 1284
+   },
+   {
+    "carp": "P56C_t4_A_21622393",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 12,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 1
+    },
+    "tic": 1677
+   },
+   {
+    "carp": "P56C_t4_A_21727122",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 4,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 5
+    },
+    "tic": 8838
+   },
+   {
+    "carp": "P56C_t4_A_21727122",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 5,
+    "amenaza_M_max": 0.04375,
+    "amenaza_M_media": 0.00421875,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 4
+    },
+    "tic": 8704
+   },
+   {
+    "carp": "P56C_t4_A_21831851",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 12,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 4
+    },
+    "tic": 8681
+   },
+   {
+    "carp": "P56C_t4_A_21831851",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 4,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 2
+    },
+    "tic": 8821
+   },
+   {
+    "carp": "P56C_t4_F_21517664",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 4,
+    "amenaza_M_max": 0.05422,
+    "amenaza_M_media": 0.002711,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 5
+    },
+    "tic": 8588
+   },
+   {
+    "carp": "P56C_t4_F_21517664",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 4,
+    "amenaza_M_max": 0.25,
+    "amenaza_M_media": 0.0553009,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 4
+    },
+    "tic": 8697
+   },
+   {
+    "carp": "P56C_t4_F_21622393",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 3,
+    "amenaza_M_max": 0.25,
+    "amenaza_M_media": 0.0094,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 5
+    },
+    "tic": 9579
+   },
+   {
+    "carp": "P56C_t4_F_21622393",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 4,
+    "amenaza_M_max": 0.05422,
+    "amenaza_M_media": 0.0090673,
+    "golpes_ult200": {
+     "rival visto con hand NONE": 2,
+     "rival visto CON arma en mano": 4
+    },
+    "tic": 9426
+   },
+   {
+    "carp": "P56C_t4_F_21727122",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 4,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 5
+    },
+    "tic": 8238
+   },
+   {
+    "carp": "P56C_t4_F_21727122",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 4,
+    "amenaza_M_max": 0.25,
+    "amenaza_M_media": 0.0202,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 5
+    },
+    "tic": 8408
+   },
+   {
+    "carp": "P56C_t4_F_21831851",
+    "slot": 10,
+    "causa": "no consta",
+    "amenaza_M_max": 0.25,
+    "amenaza_M_media": 0.0127633,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 2
+    },
+    "tic": 8642
+   },
+   {
+    "carp": "P56C_t4_F_21831851",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 3,
+    "amenaza_M_max": 0.25,
+    "amenaza_M_media": 0.0274,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 5
+    },
+    "tic": 8600
+   },
+   {
+    "carp": "P56C_t4_T_21517664",
+    "slot": 10,
+    "causa": "no consta",
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {},
+    "tic": 12433
+   },
+   {
+    "carp": "P56C_t4_T_21517664",
+    "slot": 11
+   },
+   {
+    "carp": "P56C_t4_T_21622393",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 4,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 5
+    },
+    "tic": 8945
+   },
+   {
+    "carp": "P56C_t4_T_21622393",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 12,
+    "amenaza_M_max": 0.1875,
+    "amenaza_M_media": 0.0121875,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 8
+    },
+    "tic": 5317
+   },
+   {
+    "carp": "P56C_t4_T_21727122",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 4,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 5
+    },
+    "tic": 8228
+   },
+   {
+    "carp": "P56C_t4_T_21727122",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 4,
+    "amenaza_M_max": 0.25,
+    "amenaza_M_media": 0.043,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 5
+    },
+    "tic": 8368
+   },
+   {
+    "carp": "P56C_t4_T_21831851",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 3,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 7
+    },
+    "tic": 8238
+   },
+   {
+    "carp": "P56C_t4_T_21831851",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 3,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 2
+    },
+    "tic": 9081
+   },
+   {
+    "carp": "P56C_t5_A_21936580",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 4,
+    "amenaza_M_max": 0.03,
+    "amenaza_M_media": 0.0039,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 2
+    },
+    "tic": 9653
+   },
+   {
+    "carp": "P56C_t5_A_21936580",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 4,
+    "amenaza_M_max": 0.0375,
+    "amenaza_M_media": 0.001875,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 5
+    },
+    "tic": 9593
+   },
+   {
+    "carp": "P56C_t5_A_22041309",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 3,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 4
+    },
+    "tic": 8529
+   },
+   {
+    "carp": "P56C_t5_A_22041309",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 4,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 3
+    },
+    "tic": 8816
+   },
+   {
+    "carp": "P56C_t5_A_22146038",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 4,
+    "amenaza_M_max": 0.04737,
+    "amenaza_M_media": 0.01003155,
+    "golpes_ult200": {
+     "rival visto con hand NONE": 3,
+     "rival visto CON arma en mano": 4
+    },
+    "tic": 9400
+   },
+   {
+    "carp": "P56C_t5_A_22146038",
+    "slot": 11,
+    "causa": "anillo",
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {},
+    "tic": 11665
+   },
+   {
+    "carp": "P56C_t5_A_22250767",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 9,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 4
+    },
+    "tic": 8554
+   },
+   {
+    "carp": "P56C_t5_A_22250767",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 4,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 2
+    },
+    "tic": 10115
+   },
+   {
+    "carp": "P56C_t5_F_21936580",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 4,
+    "amenaza_M_max": 0.25,
+    "amenaza_M_media": 0.02125,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 4
+    },
+    "tic": 11110
+   },
+   {
+    "carp": "P56C_t5_F_21936580",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 5,
+    "amenaza_M_max": 0.05422,
+    "amenaza_M_media": 0.0062353,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 3
+    },
+    "tic": 11064
+   },
+   {
+    "carp": "P56C_t5_F_22041309",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 9,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 4
+    },
+    "tic": 2293
+   },
+   {
+    "carp": "P56C_t5_F_22041309",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 13,
+    "amenaza_M_max": 0.03614,
+    "amenaza_M_media": 0.008854299999999999,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 5
+    },
+    "tic": 2018
+   },
+   {
+    "carp": "P56C_t5_F_22146038",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 4,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 6
+    },
+    "tic": 9479
+   },
+   {
+    "carp": "P56C_t5_F_22146038",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 4,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 2
+    },
+    "tic": 9256
+   },
+   {
+    "carp": "P56C_t5_F_22250767",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 5,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 7
+    },
+    "tic": 9841
+   },
+   {
+    "carp": "P56C_t5_F_22250767",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 4,
+    "amenaza_M_max": 0.05422,
+    "amenaza_M_media": 0.015784,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 5
+    },
+    "tic": 8822
+   },
+   {
+    "carp": "P56C_t5_T_21936580",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 4,
+    "amenaza_M_max": 0.05422,
+    "amenaza_M_media": 0.0056029999999999995,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 4
+    },
+    "tic": 8983
+   },
+   {
+    "carp": "P56C_t5_T_21936580",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 5,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 1
+    },
+    "tic": 9641
+   },
+   {
+    "carp": "P56C_t5_T_22041309",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 13,
+    "amenaza_M_max": 0.06,
+    "amenaza_M_media": 0.0465,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 7
+    },
+    "tic": 2892
+   },
+   {
+    "carp": "P56C_t5_T_22041309",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 13,
+    "amenaza_M_max": 0.1875,
+    "amenaza_M_media": 0.0619125,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 4
+    },
+    "tic": 2994
+   },
+   {
+    "carp": "P56C_t5_T_22146038",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 4,
+    "amenaza_M_max": 0.0241,
+    "amenaza_M_media": 0.004579,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 5
+    },
+    "tic": 8316
+   },
+   {
+    "carp": "P56C_t5_T_22146038",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 5,
+    "amenaza_M_max": 0.25,
+    "amenaza_M_media": 0.043075,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 6
+    },
+    "tic": 8464
+   },
+   {
+    "carp": "P56C_t5_T_22250767",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 4,
+    "amenaza_M_max": 0.05422,
+    "amenaza_M_media": 0.00750045,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 5
+    },
+    "tic": 8318
+   },
+   {
+    "carp": "P56C_t5_T_22250767",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 4,
+    "amenaza_M_max": 0.25,
+    "amenaza_M_media": 0.0550448,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 4
+    },
+    "tic": 8410
+   },
+   {
+    "carp": "P56C_tamp1_F_22355496",
+    "slot": 10,
+    "causa": "no consta",
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto con hand NONE": 1
+    },
+    "tic": 14089
+   },
+   {
+    "carp": "P56C_tamp1_F_22355496",
+    "slot": 11,
+    "causa": "anillo",
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {},
+    "tic": 12985
+   },
+   {
+    "carp": "P56C_tamp1_F_22460225",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 5,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 4
+    },
+    "tic": 8356
+   },
+   {
+    "carp": "P56C_tamp1_F_22460225",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 5,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 3
+    },
+    "tic": 9074
+   },
+   {
+    "carp": "P56C_tamp1_F_22564954",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 9,
+    "amenaza_M_max": 0.06,
+    "amenaza_M_media": 0.0296068,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 6
+    },
+    "tic": 940
+   },
+   {
+    "carp": "P56C_tamp1_F_22564954",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 5,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 8
+    },
+    "tic": 8681
+   },
+   {
+    "carp": "P56C_tamp1_F_22669683",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 5,
+    "amenaza_M_max": 0.05422,
+    "amenaza_M_media": 0.0040662,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 5
+    },
+    "tic": 8668
+   },
+   {
+    "carp": "P56C_tamp1_F_22669683",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 5,
+    "amenaza_M_max": 0.1875,
+    "amenaza_M_media": 0.0234375,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 5
+    },
+    "tic": 8818
+   },
+   {
+    "carp": "P56C_tamp1_T_22355496",
+    "slot": 10,
+    "causa": "rival visto con hand NONE",
+    "matador": 15,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto con hand NONE": 16
+    },
+    "tic": 2502
+   },
+   {
+    "carp": "P56C_tamp1_T_22355496",
+    "slot": 11,
+    "causa": "anillo",
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {},
+    "tic": 12745
+   },
+   {
+    "carp": "P56C_tamp1_T_22460225",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 5,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 4
+    },
+    "tic": 8196
+   },
+   {
+    "carp": "P56C_tamp1_T_22460225",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 4,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 5
+    },
+    "tic": 8507
+   },
+   {
+    "carp": "P56C_tamp1_T_22564954",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 9,
+    "amenaza_M_max": 0.06,
+    "amenaza_M_media": 0.0244419,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 7
+    },
+    "tic": 920
+   },
+   {
+    "carp": "P56C_tamp1_T_22564954",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 9,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 6
+    },
+    "tic": 1684
+   },
+   {
+    "carp": "P56C_tamp1_T_22669683",
+    "slot": 10,
+    "causa": "rival visto con hand NONE",
+    "matador": 15,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto con hand NONE": 16
+    },
+    "tic": 2907
+   },
+   {
+    "carp": "P56C_tamp1_T_22669683",
+    "slot": 11,
+    "causa": "rival visto con hand NONE",
+    "matador": 15,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto con hand NONE": 16
+    },
+    "tic": 3135
+   },
+   {
+    "carp": "P56C_tamp2_F_22774412",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 5,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 4
+    },
+    "tic": 8291
+   },
+   {
+    "carp": "P56C_tamp2_F_22774412",
+    "slot": 11,
+    "causa": "no consta",
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 5
+    },
+    "tic": 8629
+   },
+   {
+    "carp": "P56C_tamp2_F_22879141",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 4,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 5
+    },
+    "tic": 8888
+   },
+   {
+    "carp": "P56C_tamp2_F_22879141",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 12,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 3
+    },
+    "tic": 1012
+   },
+   {
+    "carp": "P56C_tamp2_F_22983870",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 9,
+    "amenaza_M_max": 0.03614,
+    "amenaza_M_media": 0.0028912,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 2
+    },
+    "tic": 3451
+   },
+   {
+    "carp": "P56C_tamp2_F_22983870",
+    "slot": 11,
+    "causa": "anillo",
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {},
+    "tic": 12889
+   },
+   {
+    "carp": "P56C_tamp2_F_23088599",
+    "slot": 10,
+    "causa": "rival visto con hand NONE",
+    "matador": 15,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto con hand NONE": 16
+    },
+    "tic": 1995
+   },
+   {
+    "carp": "P56C_tamp2_F_23088599",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 5,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 5
+    },
+    "tic": 8354
+   },
+   {
+    "carp": "P56C_tamp2_T_22774412",
+    "slot": 10,
+    "causa": "rival visto con hand NONE",
+    "matador": 13,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto con hand NONE": 13
+    },
+    "tic": 7796
+   },
+   {
+    "carp": "P56C_tamp2_T_22774412",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 5,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 7
+    },
+    "tic": 9298
+   },
+   {
+    "carp": "P56C_tamp2_T_22879141",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 12,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 5
+    },
+    "tic": 8329
+   },
+   {
+    "carp": "P56C_tamp2_T_22879141",
+    "slot": 11,
+    "causa": "anillo",
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 1
+    },
+    "tic": 14113
+   },
+   {
+    "carp": "P56C_tamp2_T_22983870",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 2,
+    "amenaza_M_max": 0.0241,
+    "amenaza_M_media": 0.0085555,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 2
+    },
+    "tic": 8693
+   },
+   {
+    "carp": "P56C_tamp2_T_22983870",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 9,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 4
+    },
+    "tic": 9633
+   },
+   {
+    "carp": "P56C_tamp2_T_23088599",
+    "slot": 10,
+    "causa": "rival visto con hand NONE",
+    "matador": 13,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto con hand NONE": 9
+    },
+    "tic": 7109
+   },
+   {
+    "carp": "P56C_tamp2_T_23088599",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 4,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 4
+    },
+    "tic": 8248
+   },
+   {
+    "carp": "P56C_tamp3_F_23193328",
+    "slot": 10,
+    "causa": "anillo",
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 1,
+     "rival visto con hand NONE": 1
+    },
+    "tic": 13916
+   },
+   {
+    "carp": "P56C_tamp3_F_23193328",
+    "slot": 11,
+    "causa": "anillo",
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {},
+    "tic": 13033
+   },
+   {
+    "carp": "P56C_tamp3_F_23298057",
+    "slot": 10
+   },
+   {
+    "carp": "P56C_tamp3_F_23298057",
+    "slot": 11
+   },
+   {
+    "carp": "P56C_tamp3_F_23402786",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 3,
+    "amenaza_M_max": 0.04217,
+    "amenaza_M_media": 0.0240369,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 4
+    },
+    "tic": 8888
+   },
+   {
+    "carp": "P56C_tamp3_F_23402786",
+    "slot": 11,
+    "causa": "no consta",
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 4
+    },
+    "tic": 9145
+   },
+   {
+    "carp": "P56C_tamp3_F_23507515",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 4,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 3
+    },
+    "tic": 8976
+   },
+   {
+    "carp": "P56C_tamp3_F_23507515",
+    "slot": 11,
+    "causa": "rival visto con hand NONE",
+    "matador": 15,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto con hand NONE": 17
+    },
+    "tic": 1190
+   },
+   {
+    "carp": "P56C_tamp3_T_23193328",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 4,
+    "amenaza_M_max": 0.1875,
+    "amenaza_M_media": 0.0395625,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 2
+    },
+    "tic": 11135
+   },
+   {
+    "carp": "P56C_tamp3_T_23193328",
+    "slot": 11,
+    "causa": "no consta",
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {},
+    "tic": 11617
+   },
+   {
+    "carp": "P56C_tamp3_T_23298057",
+    "slot": 10,
+    "causa": "anillo",
+    "amenaza_M_max": 0.0625,
+    "amenaza_M_media": 0.019075,
+    "golpes_ult200": {},
+    "tic": 12913
+   },
+   {
+    "carp": "P56C_tamp3_T_23298057",
+    "slot": 11,
+    "causa": "anillo",
+    "amenaza_M_max": 0.0625,
+    "amenaza_M_media": 0.0248625,
+    "golpes_ult200": {},
+    "tic": 12985
+   },
+   {
+    "carp": "P56C_tamp3_T_23402786",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 13,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 7
+    },
+    "tic": 3012
+   },
+   {
+    "carp": "P56C_tamp3_T_23402786",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 9,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 6
+    },
+    "tic": 2611
+   },
+   {
+    "carp": "P56C_tamp3_T_23507515",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 9,
+    "amenaza_M_max": 0.25,
+    "amenaza_M_media": 0.0269,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 3
+    },
+    "tic": 957
+   },
+   {
+    "carp": "P56C_tamp3_T_23507515",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 9,
+    "amenaza_M_max": 0.09,
+    "amenaza_M_media": 0.0075032,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 5,
+     "rival visto con hand NONE": 1
+    },
+    "tic": 854
+   },
+   {
+    "carp": "P56C_tamp4_F_23612244",
+    "slot": 10,
+    "causa": "rival visto con hand NONE",
+    "matador": 13,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto con hand NONE": 2,
+     "rival visto CON arma en mano": 2
+    },
+    "tic": 10016
+   },
+   {
+    "carp": "P56C_tamp4_F_23612244",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 13,
+    "amenaza_M_max": 0.06,
+    "amenaza_M_media": 0.0190754,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 7
+    },
+    "tic": 9153
+   },
+   {
+    "carp": "P56C_tamp4_F_23716973",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 12,
+    "amenaza_M_max": 0.06,
+    "amenaza_M_media": 0.0042,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 7
+    },
+    "tic": 3526
+   },
+   {
+    "carp": "P56C_tamp4_F_23716973",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 12,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 8
+    },
+    "tic": 3869
+   },
+   {
+    "carp": "P56C_tamp4_F_23821702",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 15,
+    "amenaza_M_max": 0.06,
+    "amenaza_M_media": 0.0386771,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 7
+    },
+    "tic": 1196
+   },
+   {
+    "carp": "P56C_tamp4_F_23821702",
+    "slot": 11,
+    "causa": "no consta",
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 1
+    },
+    "tic": 1730
+   },
+   {
+    "carp": "P56C_tamp4_F_23926431",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 5,
+    "amenaza_M_max": 0.05422,
+    "amenaza_M_media": 0.0038856999999999997,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 6
+    },
+    "tic": 8438
+   },
+   {
+    "carp": "P56C_tamp4_F_23926431",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 5,
+    "amenaza_M_max": 0.1875,
+    "amenaza_M_media": 0.0009375,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 5
+    },
+    "tic": 8534
+   },
+   {
+    "carp": "P56C_tamp4_T_23612244",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 13,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 8
+    },
+    "tic": 11777
+   },
+   {
+    "carp": "P56C_tamp4_T_23612244",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 3,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 5
+    },
+    "tic": 9478
+   },
+   {
+    "carp": "P56C_tamp4_T_23716973",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 12,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 7
+    },
+    "tic": 9900
+   },
+   {
+    "carp": "P56C_tamp4_T_23716973",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 5,
+    "amenaza_M_max": 0.04217,
+    "amenaza_M_media": 0.00231935,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 3
+    },
+    "tic": 8500
+   },
+   {
+    "carp": "P56C_tamp4_T_23821702",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 14,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 4
+    },
+    "tic": 2895
+   },
+   {
+    "carp": "P56C_tamp4_T_23821702",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 15,
+    "amenaza_M_max": 0.03614,
+    "amenaza_M_media": 0.0009035,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 7
+    },
+    "tic": 1194
+   },
+   {
+    "carp": "P56C_tamp4_T_23926431",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 9,
+    "amenaza_M_max": 0.03614,
+    "amenaza_M_media": 0.0001807,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 8
+    },
+    "tic": 910
+   },
+   {
+    "carp": "P56C_tamp4_T_23926431",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 5,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 6
+    },
+    "tic": 8431
+   },
+   {
+    "carp": "P56C_tamp5_F_24031160",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 3,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 4
+    },
+    "tic": 8475
+   },
+   {
+    "carp": "P56C_tamp5_F_24031160",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 12,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 5
+    },
+    "tic": 10380
+   },
+   {
+    "carp": "P56C_tamp5_F_24135889",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 5,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 7
+    },
+    "tic": 8648
+   },
+   {
+    "carp": "P56C_tamp5_F_24135889",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 9,
+    "amenaza_M_max": 0.0241,
+    "amenaza_M_media": 0.0034944999999999998,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 5,
+     "rival visto con hand NONE": 1
+    },
+    "tic": 798
+   },
+   {
+    "carp": "P56C_tamp5_F_24240618",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 9,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 8
+    },
+    "tic": 1046
+   },
+   {
+    "carp": "P56C_tamp5_F_24240618",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 9,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 9
+    },
+    "tic": 830
+   },
+   {
+    "carp": "P56C_tamp5_F_24345347",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 12,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 3
+    },
+    "tic": 9346
+   },
+   {
+    "carp": "P56C_tamp5_F_24345347",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 3,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 4
+    },
+    "tic": 9029
+   },
+   {
+    "carp": "P56C_tamp5_T_24031160",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 13,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 6
+    },
+    "tic": 4148
+   },
+   {
+    "carp": "P56C_tamp5_T_24031160",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 12,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 3
+    },
+    "tic": 6192
+   },
+   {
+    "carp": "P56C_tamp5_T_24135889",
+    "slot": 10,
+    "causa": "no consta",
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 2
+    },
+    "tic": 8998
+   },
+   {
+    "carp": "P56C_tamp5_T_24135889",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 9,
+    "amenaza_M_max": 0.0241,
+    "amenaza_M_media": 0.0034944999999999998,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 5,
+     "rival visto con hand NONE": 1
+    },
+    "tic": 798
+   },
+   {
+    "carp": "P56C_tamp5_T_24240618",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 15,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 6
+    },
+    "tic": 4617
+   },
+   {
+    "carp": "P56C_tamp5_T_24240618",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 9,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 7
+    },
+    "tic": 872
+   },
+   {
+    "carp": "P56C_tamp5_T_24345347",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 3,
+    "amenaza_M_max": 0.09,
+    "amenaza_M_media": 0.0074766,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 2
+    },
+    "tic": 10560
+   },
+   {
+    "carp": "P56C_tamp5_T_24345347",
+    "slot": 11,
+    "causa": "anillo",
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 2
+    },
+    "tic": 12793
+   }
+  ]
+ },
+ "P5-7C": {
+  "recuento": {
+   "golpes de rival visto CON arma en mano": 476,
+   "muere por rival visto CON arma en mano": 49,
+   "golpes de rival visto con hand NONE": 124,
+   "muere por no consta": 7,
+   "golpes de zone": 224,
+   "muere por anillo": 14,
+   "muere por rival visto con hand NONE": 7,
+   "golpes de poison": 11
+  },
+  "vidas": [
+   {
+    "carp": "P57C_t1_A_20260916",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 3,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 5
+    },
+    "tic": 8708
+   },
+   {
+    "carp": "P57C_t1_A_20260916",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 4,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 3
+    },
+    "tic": 8904
+   },
+   {
+    "carp": "P57C_t1_A_20365645",
+    "slot": 10,
+    "causa": "no consta",
+    "amenaza_M_max": 0.06364,
+    "amenaza_M_media": 0.0372294,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 3
+    },
+    "tic": 12313
+   },
+   {
+    "carp": "P57C_t1_A_20365645",
+    "slot": 11,
+    "causa": "anillo",
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {},
+    "tic": 12889
+   },
+   {
+    "carp": "P57C_t1_A_20470374",
+    "slot": 10,
+    "causa": "anillo",
+    "amenaza_M_max": 0.05556,
+    "amenaza_M_media": 0.0035673,
+    "golpes_ult200": {},
+    "tic": 13009
+   },
+   {
+    "carp": "P57C_t1_A_20470374",
+    "slot": 11,
+    "causa": "anillo",
+    "amenaza_M_max": 0.08333,
+    "amenaza_M_media": 0.01783335,
+    "golpes_ult200": {},
+    "tic": 12985
+   },
+   {
+    "carp": "P57C_t1_A_20575103",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 12,
+    "amenaza_M_max": 0.03409,
+    "amenaza_M_media": 0.0010227,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 8
+    },
+    "tic": 825
+   },
+   {
+    "carp": "P57C_t1_A_20575103",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 9,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 2
+    },
+    "tic": 3097
+   },
+   {
+    "carp": "P57C_t1_A_20679832",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 12,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 2
+    },
+    "tic": 2134
+   },
+   {
+    "carp": "P57C_t1_A_20679832",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 9,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 5
+    },
+    "tic": 1722
+   },
+   {
+    "carp": "P57C_t1_Q_20260916",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 5,
+    "amenaza_M_max": 0.04945,
+    "amenaza_M_media": 0.006923,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 5
+    },
+    "tic": 8442
+   },
+   {
+    "carp": "P57C_t1_Q_20260916",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 4,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 3
+    },
+    "tic": 9362
+   },
+   {
+    "carp": "P57C_t1_Q_20365645",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 14,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 5
+    },
+    "tic": 8586
+   },
+   {
+    "carp": "P57C_t1_Q_20365645",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 14,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 8
+    },
+    "tic": 7093
+   },
+   {
+    "carp": "P57C_t1_Q_20470374",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 4,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 5
+    },
+    "tic": 9279
+   },
+   {
+    "carp": "P57C_t1_Q_20470374",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 4,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 7
+    },
+    "tic": 10170
+   },
+   {
+    "carp": "P57C_t1_Q_20575103",
+    "slot": 10,
+    "causa": "rival visto con hand NONE",
+    "matador": 13,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto con hand NONE": 1
+    },
+    "tic": 10527
+   },
+   {
+    "carp": "P57C_t1_Q_20575103",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 13,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto con hand NONE": 1,
+     "rival visto CON arma en mano": 3
+    },
+    "tic": 10698
+   },
+   {
+    "carp": "P57C_t1_Q_20679832",
+    "slot": 10
+   },
+   {
+    "carp": "P57C_t1_Q_20679832",
+    "slot": 11
+   },
+   {
+    "carp": "P57C_t2_A_20784561",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 4,
+    "amenaza_M_max": 0.01,
+    "amenaza_M_media": 0.00425,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 4
+    },
+    "tic": 12162
+   },
+   {
+    "carp": "P57C_t2_A_20784561",
+    "slot": 11,
+    "causa": "anillo",
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 1
+    },
+    "tic": 12817
+   },
+   {
+    "carp": "P57C_t2_A_20889290",
+    "slot": 10,
+    "causa": "no consta",
+    "amenaza_M_max": 0.05469,
+    "amenaza_M_media": 0.0108602,
+    "golpes_ult200": {},
+    "tic": 8981
+   },
+   {
+    "carp": "P57C_t2_A_20889290",
+    "slot": 11,
+    "causa": "no consta",
+    "amenaza_M_max": 0.25,
+    "amenaza_M_media": 0.03875,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 5
+    },
+    "tic": 9132
+   },
+   {
+    "carp": "P57C_t2_A_20994019",
+    "slot": 10,
+    "causa": "anillo",
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {},
+    "tic": 11233
+   },
+   {
+    "carp": "P57C_t2_A_20994019",
+    "slot": 11,
+    "causa": "rival visto con hand NONE",
+    "matador": 13,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto con hand NONE": 17
+    },
+    "tic": 9621
+   },
+   {
+    "carp": "P57C_t2_A_21098748",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 15,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 8
+    },
+    "tic": 5145
+   },
+   {
+    "carp": "P57C_t2_A_21098748",
+    "slot": 11
+   },
+   {
+    "carp": "P57C_t2_A_21203477",
+    "slot": 10,
+    "causa": "anillo",
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {},
+    "tic": 12553
+   },
+   {
+    "carp": "P57C_t2_A_21203477",
+    "slot": 11,
+    "causa": "anillo",
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {},
+    "tic": 12817
+   },
+   {
+    "carp": "P57C_t2_Q_20784561",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 3,
+    "amenaza_M_max": 0.04375,
+    "amenaza_M_media": 0.01109375,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 8
+    },
+    "tic": 8748
+   },
+   {
+    "carp": "P57C_t2_Q_20784561",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 3,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 4
+    },
+    "tic": 8862
+   },
+   {
+    "carp": "P57C_t2_Q_20889290",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 15,
+    "amenaza_M_max": 0.03,
+    "amenaza_M_media": 0.00855,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 2
+    },
+    "tic": 3612
+   },
+   {
+    "carp": "P57C_t2_Q_20889290",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 15,
+    "amenaza_M_max": 0.09375,
+    "amenaza_M_media": 0.013125,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 6
+    },
+    "tic": 3775
+   },
+   {
+    "carp": "P57C_t2_Q_20994019",
+    "slot": 10,
+    "causa": "rival visto con hand NONE",
+    "matador": 13,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 4,
+     "rival visto con hand NONE": 2
+    },
+    "tic": 9585
+   },
+   {
+    "carp": "P57C_t2_Q_20994019",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 3,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto con hand NONE": 4,
+     "rival visto CON arma en mano": 2
+    },
+    "tic": 9665
+   },
+   {
+    "carp": "P57C_t2_Q_21098748",
+    "slot": 10,
+    "causa": "anillo",
+    "amenaza_M_max": 0.10606,
+    "amenaza_M_media": 0.0101155,
+    "golpes_ult200": {},
+    "tic": 12817
+   },
+   {
+    "carp": "P57C_t2_Q_21098748",
+    "slot": 11,
+    "causa": "anillo",
+    "amenaza_M_max": 0.06863,
+    "amenaza_M_media": 0.0030883499999999997,
+    "golpes_ult200": {},
+    "tic": 12817
+   },
+   {
+    "carp": "P57C_t2_Q_21203477",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 12,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto con hand NONE": 1,
+     "rival visto CON arma en mano": 2
+    },
+    "tic": 13225
+   },
+   {
+    "carp": "P57C_t2_Q_21203477",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 5,
+    "amenaza_M_max": 0.03,
+    "amenaza_M_media": 0.00105,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 7
+    },
+    "tic": 9745
+   },
+   {
+    "carp": "P57C_t3_A_21308206",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 3,
+    "amenaza_M_max": 0.03297,
+    "amenaza_M_media": 0.01511125,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 6
+    },
+    "tic": 8544
+   },
+   {
+    "carp": "P57C_t3_A_21308206",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 12,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 2
+    },
+    "tic": 10007
+   },
+   {
+    "carp": "P57C_t3_A_21412935",
+    "slot": 10,
+    "causa": "anillo",
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {},
+    "tic": 12937
+   },
+   {
+    "carp": "P57C_t3_A_21412935",
+    "slot": 11,
+    "causa": "anillo",
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {},
+    "tic": 12745
+   },
+   {
+    "carp": "P57C_t3_A_21517664",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 12,
+    "amenaza_M_max": 0.05921,
+    "amenaza_M_media": 0.0106578,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 5
+    },
+    "tic": 1306
+   },
+   {
+    "carp": "P57C_t3_A_21517664",
+    "slot": 11,
+    "causa": "rival visto con hand NONE",
+    "matador": 13,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto con hand NONE": 5,
+     "rival visto CON arma en mano": 1
+    },
+    "tic": 3833
+   },
+   {
+    "carp": "P57C_t3_A_21622393",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 5,
+    "amenaza_M_max": 0.25,
+    "amenaza_M_media": 0.0275,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 5
+    },
+    "tic": 8336
+   },
+   {
+    "carp": "P57C_t3_A_21622393",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 5,
+    "amenaza_M_max": 0.03,
+    "amenaza_M_media": 0.00225,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 8
+    },
+    "tic": 8191
+   },
+   {
+    "carp": "P57C_t3_A_21727122",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 4,
+    "amenaza_M_max": 0.045,
+    "amenaza_M_media": 0.00585,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 5
+    },
+    "tic": 9018
+   },
+   {
+    "carp": "P57C_t3_A_21727122",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 4,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 3
+    },
+    "tic": 9249
+   },
+   {
+    "carp": "P57C_t3_Q_21308206",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 3,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 2
+    },
+    "tic": 8432
+   },
+   {
+    "carp": "P57C_t3_Q_21308206",
+    "slot": 11,
+    "causa": "no consta",
+    "amenaza_M_max": 0.045,
+    "amenaza_M_media": 0.0024749999999999998,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 3
+    },
+    "tic": 8352
+   },
+   {
+    "carp": "P57C_t3_Q_21412935",
+    "slot": 10,
+    "causa": "no consta",
+    "amenaza_M_max": 0.06716,
+    "amenaza_M_media": 0.016343,
+    "golpes_ult200": {},
+    "tic": 13897
+   },
+   {
+    "carp": "P57C_t3_Q_21412935",
+    "slot": 11,
+    "causa": "rival visto con hand NONE",
+    "matador": 1,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 3,
+     "rival visto con hand NONE": 6
+    },
+    "tic": 14689
+   },
+   {
+    "carp": "P57C_t3_Q_21517664",
+    "slot": 10,
+    "causa": "rival visto con hand NONE",
+    "matador": 13,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto con hand NONE": 13
+    },
+    "tic": 10782
+   },
+   {
+    "carp": "P57C_t3_Q_21517664",
+    "slot": 11,
+    "causa": "rival visto con hand NONE",
+    "matador": 13,
+    "amenaza_M_max": 0.04268,
+    "amenaza_M_media": 0.040546000000000006,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 2,
+     "rival visto con hand NONE": 3
+    },
+    "tic": 9943
+   },
+   {
+    "carp": "P57C_t3_Q_21622393",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 5,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 5
+    },
+    "tic": 8522
+   },
+   {
+    "carp": "P57C_t3_Q_21622393",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 4,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 4
+    },
+    "tic": 8632
+   },
+   {
+    "carp": "P57C_t3_Q_21727122",
+    "slot": 10,
+    "causa": "anillo",
+    "amenaza_M_max": 0.25,
+    "amenaza_M_media": 0.057249999999999995,
+    "golpes_ult200": {},
+    "tic": 12889
+   },
+   {
+    "carp": "P57C_t3_Q_21727122",
+    "slot": 11,
+    "causa": "anillo",
+    "amenaza_M_max": 0.25,
+    "amenaza_M_media": 0.0910487,
+    "golpes_ult200": {},
+    "tic": 12865
+   },
+   {
+    "carp": "P57C_t4_A_21831851",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 12,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 5
+    },
+    "tic": 8517
+   },
+   {
+    "carp": "P57C_t4_A_21831851",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 12,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 8
+    },
+    "tic": 8786
+   },
+   {
+    "carp": "P57C_t4_A_21936580",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 9,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 4
+    },
+    "tic": 5040
+   },
+   {
+    "carp": "P57C_t4_A_21936580",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 9,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 5
+    },
+    "tic": 5208
+   },
+   {
+    "carp": "P57C_t4_A_22041309",
+    "slot": 10,
+    "causa": "no consta",
+    "amenaza_M_max": 0.05882,
+    "amenaza_M_media": 0.0122542,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 2
+    },
+    "tic": 8786
+   },
+   {
+    "carp": "P57C_t4_A_22041309",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 12,
+    "amenaza_M_max": 0.09091,
+    "amenaza_M_media": 0.0175761,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 4
+    },
+    "tic": 8806
+   },
+   {
+    "carp": "P57C_t4_A_22146038",
+    "slot": 10,
+    "causa": "anillo",
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {},
+    "tic": 12793
+   },
+   {
+    "carp": "P57C_t4_A_22146038",
+    "slot": 11,
+    "causa": "no consta",
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {},
+    "tic": 12553
+   },
+   {
+    "carp": "P57C_t4_A_22250767",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 9,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 4
+    },
+    "tic": 8554
+   },
+   {
+    "carp": "P57C_t4_A_22250767",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 9,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 4
+    },
+    "tic": 10892
+   },
+   {
+    "carp": "P57C_t4_Q_21831851",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 4,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 4
+    },
+    "tic": 8528
+   },
+   {
+    "carp": "P57C_t4_Q_21831851",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 3,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 5
+    },
+    "tic": 8945
+   },
+   {
+    "carp": "P57C_t4_Q_21936580",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 5,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 5
+    },
+    "tic": 9758
+   },
+   {
+    "carp": "P57C_t4_Q_21936580",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 9,
+    "amenaza_M_max": 0.02381,
+    "amenaza_M_media": 0.0008333500000000001,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 5
+    },
+    "tic": 2185
+   },
+   {
+    "carp": "P57C_t4_Q_22041309",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 9,
+    "amenaza_M_max": 0.07258,
+    "amenaza_M_media": 0.0224199,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 4
+    },
+    "tic": 2756
+   },
+   {
+    "carp": "P57C_t4_Q_22041309",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 9,
+    "amenaza_M_max": 0.05357,
+    "amenaza_M_media": 0.0092858,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 3
+    },
+    "tic": 2720
+   },
+   {
+    "carp": "P57C_t4_Q_22146038",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 4,
+    "amenaza_M_max": 0.03947,
+    "amenaza_M_media": 0.00177615,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 4
+    },
+    "tic": 8738
+   },
+   {
+    "carp": "P57C_t4_Q_22146038",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 4,
+    "amenaza_M_max": 0.04,
+    "amenaza_M_media": 0.013600000000000001,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 5
+    },
+    "tic": 8808
+   },
+   {
+    "carp": "P57C_t4_Q_22250767",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 4,
+    "amenaza_M_max": 0.045,
+    "amenaza_M_media": 0.0303,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 5
+    },
+    "tic": 9169
+   },
+   {
+    "carp": "P57C_t4_Q_22250767",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 4,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 5
+    },
+    "tic": 9602
+   }
+  ]
+ },
+ "P5-8I": {
+  "recuento": {
+   "golpes de rival visto CON arma en mano": 132,
+   "muere por rival visto CON arma en mano": 13,
+   "golpes de rival visto con hand NONE": 8,
+   "golpes de zone": 33,
+   "muere por anillo": 1,
+   "muere por no consta": 4
+  },
+  "vidas": [
+   {
+    "carp": "P58I_t1_A_20260916",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 4,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 5
+    },
+    "tic": 8274
+   },
+   {
+    "carp": "P58I_t1_A_20260916",
+    "slot": 11,
+    "causa": "anillo",
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {},
+    "tic": 10849
+   },
+   {
+    "carp": "P58I_t1_A_20365645",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 15,
+    "amenaza_M_max": 0.02105,
+    "amenaza_M_media": 0.007578,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 5
+    },
+    "tic": 3222
+   },
+   {
+    "carp": "P58I_t1_A_20365645",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 14,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 7
+    },
+    "tic": 9820
+   },
+   {
+    "carp": "P58I_t1_A_20470374",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 9,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 5
+    },
+    "tic": 1969
+   },
+   {
+    "carp": "P58I_t1_A_20470374",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 9,
+    "amenaza_M_max": 0.045,
+    "amenaza_M_media": 0.004725,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 5
+    },
+    "tic": 922
+   },
+   {
+    "carp": "P58I_t1_A_20575103",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 12,
+    "amenaza_M_max": 0.03409,
+    "amenaza_M_media": 0.0010227,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 8
+    },
+    "tic": 825
+   },
+   {
+    "carp": "P58I_t1_A_20575103",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 4,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 6
+    },
+    "tic": 8858
+   },
+   {
+    "carp": "P58I_t1_A_20679832",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 4,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 5
+    },
+    "tic": 9139
+   },
+   {
+    "carp": "P58I_t1_A_20679832",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 4,
+    "amenaza_M_max": 0.02381,
+    "amenaza_M_media": 0.006428700000000001,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 5
+    },
+    "tic": 8477
+   },
+   {
+    "carp": "P58I_t1_K_20260916",
+    "slot": 10,
+    "causa": "no consta",
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 3
+    },
+    "tic": 8830
+   },
+   {
+    "carp": "P58I_t1_K_20260916",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 4,
+    "amenaza_M_max": 0.045,
+    "amenaza_M_media": 0.0013499999999999999,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 3
+    },
+    "tic": 8788
+   },
+   {
+    "carp": "P58I_t1_K_20365645",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 4,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 5
+    },
+    "tic": 9662
+   },
+   {
+    "carp": "P58I_t1_K_20365645",
+    "slot": 11,
+    "causa": "no consta",
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {},
+    "tic": 12043
+   },
+   {
+    "carp": "P58I_t1_K_20470374",
+    "slot": 10
+   },
+   {
+    "carp": "P58I_t1_K_20470374",
+    "slot": 11
+   },
+   {
+    "carp": "P58I_t1_K_20575103",
+    "slot": 10,
+    "causa": "no consta",
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {},
+    "tic": 8868
+   },
+   {
+    "carp": "P58I_t1_K_20575103",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 12,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 4
+    },
+    "tic": 2669
+   },
+   {
+    "carp": "P58I_t1_K_20679832",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 5,
+    "amenaza_M_max": 0.03,
+    "amenaza_M_media": 0.0024,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 7
+    },
+    "tic": 9685
+   },
+   {
+    "carp": "P58I_t1_K_20679832",
+    "slot": 11,
+    "causa": "no consta",
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {},
+    "tic": 11367
+   }
+  ]
+ },
+ "P5-8M": {
+  "recuento": {
+   "golpes de rival visto CON arma en mano": 498,
+   "muere por rival visto CON arma en mano": 44,
+   "golpes de rival visto con hand NONE": 162,
+   "golpes de zone": 236,
+   "muere por anillo": 13,
+   "muere por no consta": 9,
+   "muere por rival visto con hand NONE": 12
+  },
+  "vidas": [
+   {
+    "carp": "P58M_t0_A_20260916",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 13,
+    "amenaza_M_max": 0.04487,
+    "amenaza_M_media": 0.033075600000000004,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 4
+    },
+    "tic": 10518
+   },
+   {
+    "carp": "P58M_t0_A_20260916",
+    "slot": 11,
+    "causa": "anillo",
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {},
+    "tic": 11617
+   },
+   {
+    "carp": "P58M_t0_K_20260916",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 3,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 6
+    },
+    "tic": 8380
+   },
+   {
+    "carp": "P58M_t0_K_20260916",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 5,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 1
+    },
+    "tic": 9710
+   },
+   {
+    "carp": "P58M_t1_A_20365645",
+    "slot": 10,
+    "causa": "no consta",
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {},
+    "tic": 13111
+   },
+   {
+    "carp": "P58M_t1_A_20365645",
+    "slot": 11,
+    "causa": "rival visto con hand NONE",
+    "matador": 13,
+    "amenaza_M_max": 0.04217,
+    "amenaza_M_media": 0.03966995,
+    "golpes_ult200": {
+     "rival visto con hand NONE": 1
+    },
+    "tic": 10201
+   },
+   {
+    "carp": "P58M_t1_A_20470374",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 9,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 3
+    },
+    "tic": 1160
+   },
+   {
+    "carp": "P58M_t1_A_20470374",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 9,
+    "amenaza_M_max": 0.045,
+    "amenaza_M_media": 0.004725,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 5
+    },
+    "tic": 922
+   },
+   {
+    "carp": "P58M_t1_A_20575103",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 12,
+    "amenaza_M_max": 0.03409,
+    "amenaza_M_media": 0.0010227,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 8
+    },
+    "tic": 825
+   },
+   {
+    "carp": "P58M_t1_A_20575103",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 12,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 5
+    },
+    "tic": 5889
+   },
+   {
+    "carp": "P58M_t1_A_20679832",
+    "slot": 10,
+    "causa": "anillo",
+    "amenaza_M_max": 0.05,
+    "amenaza_M_media": 0.0380461,
+    "golpes_ult200": {},
+    "tic": 12817
+   },
+   {
+    "carp": "P58M_t1_A_20679832",
+    "slot": 11,
+    "causa": "anillo",
+    "amenaza_M_max": 0.25,
+    "amenaza_M_media": 0.01,
+    "golpes_ult200": {},
+    "tic": 13009
+   },
+   {
+    "carp": "P58M_t1_K_20365645",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 3,
+    "amenaza_M_max": 0.03,
+    "amenaza_M_media": 0.0153,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 6
+    },
+    "tic": 8448
+   },
+   {
+    "carp": "P58M_t1_K_20365645",
+    "slot": 11,
+    "causa": "anillo",
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {},
+    "tic": 10753
+   },
+   {
+    "carp": "P58M_t1_K_20470374",
+    "slot": 10,
+    "causa": "no consta",
+    "amenaza_M_max": 0.08654,
+    "amenaza_M_media": 0.0012981000000000002,
+    "golpes_ult200": {},
+    "tic": 7600
+   },
+   {
+    "carp": "P58M_t1_K_20470374",
+    "slot": 11,
+    "causa": "no consta",
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 2
+    },
+    "tic": 8218
+   },
+   {
+    "carp": "P58M_t1_K_20575103",
+    "slot": 10,
+    "causa": "no consta",
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 3
+    },
+    "tic": 3264
+   },
+   {
+    "carp": "P58M_t1_K_20575103",
+    "slot": 11,
+    "causa": "rival visto con hand NONE",
+    "matador": 13,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 3,
+     "rival visto con hand NONE": 4
+    },
+    "tic": 2723
+   },
+   {
+    "carp": "P58M_t1_K_20679832",
+    "slot": 10,
+    "causa": "rival visto con hand NONE",
+    "matador": 15,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto con hand NONE": 10
+    },
+    "tic": 3070
+   },
+   {
+    "carp": "P58M_t1_K_20679832",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 9,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 7
+    },
+    "tic": 1315
+   },
+   {
+    "carp": "P58M_t2_A_20784561",
+    "slot": 10,
+    "causa": "rival visto con hand NONE",
+    "matador": 13,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto con hand NONE": 7,
+     "rival visto CON arma en mano": 2
+    },
+    "tic": 2631
+   },
+   {
+    "carp": "P58M_t2_A_20784561",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 15,
+    "amenaza_M_max": 0.03,
+    "amenaza_M_media": 0.0009,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 5
+    },
+    "tic": 2225
+   },
+   {
+    "carp": "P58M_t2_A_20889290",
+    "slot": 10,
+    "causa": "rival visto con hand NONE",
+    "matador": 13,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 4,
+     "rival visto con hand NONE": 4
+    },
+    "tic": 8510
+   },
+   {
+    "carp": "P58M_t2_A_20889290",
+    "slot": 11,
+    "causa": "anillo",
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {},
+    "tic": 12817
+   },
+   {
+    "carp": "P58M_t2_A_20994019",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 5,
+    "amenaza_M_max": 0.035,
+    "amenaza_M_media": 0.0050750000000000005,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 6
+    },
+    "tic": 8677
+   },
+   {
+    "carp": "P58M_t2_A_20994019",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 4,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 7
+    },
+    "tic": 8682
+   },
+   {
+    "carp": "P58M_t2_A_21098748",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 4,
+    "amenaza_M_max": 0.045,
+    "amenaza_M_media": 0.00405,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 1
+    },
+    "tic": 11114
+   },
+   {
+    "carp": "P58M_t2_A_21098748",
+    "slot": 11,
+    "causa": "anillo",
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {},
+    "tic": 12745
+   },
+   {
+    "carp": "P58M_t2_A_21203477",
+    "slot": 10,
+    "causa": "rival visto con hand NONE",
+    "matador": 13,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto con hand NONE": 2
+    },
+    "tic": 13033
+   },
+   {
+    "carp": "P58M_t2_A_21203477",
+    "slot": 11,
+    "causa": "anillo",
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {},
+    "tic": 14017
+   },
+   {
+    "carp": "P58M_t2_K_20784561",
+    "slot": 11,
+    "causa": "rival visto con hand NONE",
+    "matador": 15,
+    "amenaza_M_max": 0.04217,
+    "amenaza_M_media": 0.04217,
+    "golpes_ult200": {
+     "rival visto con hand NONE": 9
+    },
+    "tic": 5388
+   },
+   {
+    "carp": "P58M_t2_K_20889290",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 5,
+    "amenaza_M_max": 0.11667,
+    "amenaza_M_media": 0.04300125,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 7
+    },
+    "tic": 9518
+   },
+   {
+    "carp": "P58M_t2_K_20889290",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 4,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 2
+    },
+    "tic": 9680
+   },
+   {
+    "carp": "P58M_t2_K_20994019",
+    "slot": 10,
+    "causa": "rival visto con hand NONE",
+    "matador": 9,
+    "amenaza_M_max": 0.03774,
+    "amenaza_M_media": 0.0033966,
+    "golpes_ult200": {
+     "rival visto con hand NONE": 2,
+     "rival visto CON arma en mano": 1
+    },
+    "tic": 9330
+   },
+   {
+    "carp": "P58M_t2_K_20994019",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 9,
+    "amenaza_M_max": 0.05263,
+    "amenaza_M_media": 0.0015789,
+    "golpes_ult200": {
+     "rival visto con hand NONE": 3,
+     "rival visto CON arma en mano": 2
+    },
+    "tic": 9493
+   },
+   {
+    "carp": "P58M_t2_K_21098748",
+    "slot": 10,
+    "causa": "no consta",
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {},
+    "tic": 14105
+   },
+   {
+    "carp": "P58M_t2_K_21098748",
+    "slot": 11,
+    "causa": "no consta",
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {},
+    "tic": 9505
+   },
+   {
+    "carp": "P58M_t2_K_21203477",
+    "slot": 10,
+    "causa": "anillo",
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {},
+    "tic": 11881
+   },
+   {
+    "carp": "P58M_t2_K_21203477",
+    "slot": 11,
+    "causa": "no consta",
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {},
+    "tic": 13801
+   },
+   {
+    "carp": "P58M_t3_A_21308206",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 4,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 5
+    },
+    "tic": 8340
+   },
+   {
+    "carp": "P58M_t3_A_21308206",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 4,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 2
+    },
+    "tic": 9135
+   },
+   {
+    "carp": "P58M_t3_A_21412935",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 9,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 8
+    },
+    "tic": 1624
+   },
+   {
+    "carp": "P58M_t3_A_21412935",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 9,
+    "amenaza_M_max": 0.03,
+    "amenaza_M_media": 0.010799999999999999,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 8
+    },
+    "tic": 1424
+   },
+   {
+    "carp": "P58M_t3_A_21517664",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 4,
+    "amenaza_M_max": 0.045,
+    "amenaza_M_media": 0.0222,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 5
+    },
+    "tic": 8420
+   },
+   {
+    "carp": "P58M_t3_A_21517664",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 4,
+    "amenaza_M_max": 0.04639,
+    "amenaza_M_media": 0.00474215,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 6
+    },
+    "tic": 8519
+   },
+   {
+    "carp": "P58M_t3_A_21622393",
+    "slot": 10,
+    "causa": "rival visto con hand NONE",
+    "matador": 15,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto con hand NONE": 16
+    },
+    "tic": 1284
+   },
+   {
+    "carp": "P58M_t3_A_21622393",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 12,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 1
+    },
+    "tic": 1677
+   },
+   {
+    "carp": "P58M_t3_A_21727122",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 13,
+    "amenaza_M_max": 0.045,
+    "amenaza_M_media": 0.004725,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 5
+    },
+    "tic": 8274
+   },
+   {
+    "carp": "P58M_t3_A_21727122",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 4,
+    "amenaza_M_max": 0.045,
+    "amenaza_M_media": 0.005175,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 4
+    },
+    "tic": 8378
+   },
+   {
+    "carp": "P58M_t3_K_21308206",
+    "slot": 10,
+    "causa": "anillo",
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto con hand NONE": 4
+    },
+    "tic": 14641
+   },
+   {
+    "carp": "P58M_t3_K_21308206",
+    "slot": 11,
+    "causa": "no consta",
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {},
+    "tic": 13078
+   },
+   {
+    "carp": "P58M_t3_K_21412935",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 4,
+    "amenaza_M_max": 0.045,
+    "amenaza_M_media": 0.01035,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 5
+    },
+    "tic": 8296
+   },
+   {
+    "carp": "P58M_t3_K_21412935",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 3,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 3
+    },
+    "tic": 9758
+   },
+   {
+    "carp": "P58M_t3_K_21517664",
+    "slot": 10,
+    "causa": "anillo",
+    "amenaza_M_max": 0.01389,
+    "amenaza_M_media": 0.0050565,
+    "golpes_ult200": {},
+    "tic": 12817
+   },
+   {
+    "carp": "P58M_t3_K_21517664",
+    "slot": 11,
+    "causa": "anillo",
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {},
+    "tic": 13033
+   },
+   {
+    "carp": "P58M_t3_K_21622393",
+    "slot": 10,
+    "causa": "rival visto con hand NONE",
+    "matador": 13,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto con hand NONE": 9
+    },
+    "tic": 13186
+   },
+   {
+    "carp": "P58M_t3_K_21622393",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 12,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 8
+    },
+    "tic": 831
+   },
+   {
+    "carp": "P58M_t3_K_21727122",
+    "slot": 10
+   },
+   {
+    "carp": "P58M_t3_K_21727122",
+    "slot": 11,
+    "causa": "no consta",
+    "amenaza_M_max": 0.04487,
+    "amenaza_M_media": 0.03090245,
+    "golpes_ult200": {},
+    "tic": 12865
+   },
+   {
+    "carp": "P58M_t4_A_21831851",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 5,
+    "amenaza_M_max": 0.05,
+    "amenaza_M_media": 0.012694400000000002,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 3
+    },
+    "tic": 9502
+   },
+   {
+    "carp": "P58M_t4_A_21831851",
+    "slot": 11,
+    "causa": "anillo",
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {},
+    "tic": 13009
+   },
+   {
+    "carp": "P58M_t4_A_21936580",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 5,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 6
+    },
+    "tic": 9733
+   },
+   {
+    "carp": "P58M_t4_A_21936580",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 5,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 3,
+     "rival visto con hand NONE": 1
+    },
+    "tic": 11166
+   },
+   {
+    "carp": "P58M_t4_A_22041309",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 9,
+    "amenaza_M_max": 0.07258,
+    "amenaza_M_media": 0.0143952,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 1
+    },
+    "tic": 10189
+   },
+   {
+    "carp": "P58M_t4_A_22041309",
+    "slot": 11,
+    "causa": "anillo",
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {},
+    "tic": 12337
+   },
+   {
+    "carp": "P58M_t4_A_22146038",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 5,
+    "amenaza_M_max": 0.025,
+    "amenaza_M_media": 0.014375,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 7
+    },
+    "tic": 9688
+   },
+   {
+    "carp": "P58M_t4_A_22146038",
+    "slot": 11,
+    "causa": "rival visto con hand NONE",
+    "matador": 13,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto con hand NONE": 3
+    },
+    "tic": 10379
+   },
+   {
+    "carp": "P58M_t4_A_22250767",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 3,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 6,
+     "rival visto con hand NONE": 3
+    },
+    "tic": 9588
+   },
+   {
+    "carp": "P58M_t4_A_22250767",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 4,
+    "amenaza_M_max": 0.03,
+    "amenaza_M_media": 0.0084,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 3
+    },
+    "tic": 9439
+   },
+   {
+    "carp": "P58M_t4_K_21831851",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 3,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 5
+    },
+    "tic": 8348
+   },
+   {
+    "carp": "P58M_t4_K_21831851",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 3,
+    "amenaza_M_max": 0.045,
+    "amenaza_M_media": 0.00225,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 5
+    },
+    "tic": 8202
+   },
+   {
+    "carp": "P58M_t4_K_21936580",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 9,
+    "amenaza_M_max": 0.03158,
+    "amenaza_M_media": 0.0009473999999999999,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 6
+    },
+    "tic": 2455
+   },
+   {
+    "carp": "P58M_t4_K_21936580",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 4,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 3
+    },
+    "tic": 8840
+   },
+   {
+    "carp": "P58M_t4_K_22041309",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 9,
+    "amenaza_M_max": 0.07258,
+    "amenaza_M_media": 0.0301219,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 5,
+     "rival visto con hand NONE": 1
+    },
+    "tic": 2369
+   },
+   {
+    "carp": "P58M_t4_K_22041309",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 5,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 5
+    },
+    "tic": 8424
+   },
+   {
+    "carp": "P58M_t4_K_22146038",
+    "slot": 10,
+    "causa": "rival visto CON arma en mano",
+    "matador": 5,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 7
+    },
+    "tic": 8978
+   },
+   {
+    "carp": "P58M_t4_K_22146038",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 4,
+    "amenaza_M_max": 0.045,
+    "amenaza_M_media": 0.0009,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 5
+    },
+    "tic": 8348
+   },
+   {
+    "carp": "P58M_t4_K_22250767",
+    "slot": 10,
+    "causa": "rival visto con hand NONE",
+    "matador": 2,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 3,
+     "rival visto con hand NONE": 1
+    },
+    "tic": 9484
+   },
+   {
+    "carp": "P58M_t4_K_22250767",
+    "slot": 11,
+    "causa": "rival visto CON arma en mano",
+    "matador": 3,
+    "amenaza_M_max": 0.0,
+    "amenaza_M_media": 0.0,
+    "golpes_ult200": {
+     "rival visto CON arma en mano": 5
+    },
+    "tic": 8404
+   }
+  ]
+ }
+}

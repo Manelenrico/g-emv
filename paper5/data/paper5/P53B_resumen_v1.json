@@ -1,0 +1,522 @@
+{
+ "semilla": 20260919,
+ "escenas": 2230,
+ "B0": {
+  "con destino": 89,
+  "llego": 35,
+  "fraccion": 0.39325842696629215,
+  "tic mediano de llegada": 1
+ },
+ "regla": {
+  "ahora": {
+   "area": 88,
+   "vida": 5
+  },
+  "despues": {
+   "ok": 569,
+   "area": 317,
+   "vida": 22
+  },
+  "azarp": {
+   "ok": 421,
+   "area": 458,
+   "vida": 29
+  },
+  "quedate": {
+   "area": 125
+  }
+ },
+ "vida_min alternativa": {
+  "ahora": {
+   "10": {
+    "area": 90,
+    "vida": 3
+   },
+   "20": {
+    "area": 88,
+    "vida": 5
+   }
+  },
+  "despues": {
+   "10": {
+    "ok": 572,
+    "area": 322,
+    "vida": 14
+   },
+   "20": {
+    "ok": 568,
+    "area": 316,
+    "vida": 24
+   }
+  },
+  "azarp": {
+   "10": {
+    "ok": 424,
+    "area": 465,
+    "vida": 19
+   },
+   "20": {
+    "ok": 420,
+    "area": 458,
+    "vida": 30
+   }
+  },
+  "quedate": {
+   "10": {
+    "area": 125
+   },
+   "20": {
+    "area": 125
+   }
+  }
+ },
+ "cajas": {
+  "estricto": {
+   "ahora": {
+    "rechazada_area": 88,
+    "rechazada_vida": 5
+   },
+   "despues": {
+    "vetada": 547,
+    "coincide": 1,
+    "rechazada_area": 317,
+    "rechazada": 6,
+    "rechazada_vida": 22,
+    "aceptada": 15
+   },
+   "azarp": {
+    "vetada": 393,
+    "rechazada": 20,
+    "rechazada_area": 458,
+    "aceptada": 8,
+    "rechazada_vida": 29
+   },
+   "quedate": {
+    "rechazada_area": 125
+   }
+  },
+  "ventana": {
+   "ahora": {
+    "rechazada_area": 88,
+    "rechazada_vida": 5
+   },
+   "despues": {
+    "aceptada": 339,
+    "coincide": 1,
+    "rechazada": 229,
+    "rechazada_area": 317,
+    "rechazada_vida": 22
+   },
+   "azarp": {
+    "aceptada": 122,
+    "rechazada": 299,
+    "rechazada_area": 458,
+    "rechazada_vida": 29
+   },
+   "quedate": {
+    "rechazada_area": 125
+   }
+  },
+  "vida": {
+   "ahora": {
+    "rechazada_area": 88,
+    "rechazada_vida": 5
+   },
+   "despues": {
+    "aceptada": 403,
+    "rechazada_area": 317,
+    "rechazada": 166,
+    "rechazada_vida": 22
+   },
+   "azarp": {
+    "aceptada": 197,
+    "rechazada_area": 458,
+    "rechazada": 224,
+    "rechazada_vida": 29
+   },
+   "quedate": {
+    "rechazada_area": 125
+   }
+  }
+ },
+ "fila que tumba": {
+  "ahora": {},
+  "despues": {
+   "S-8-EXPOSICION": 4,
+   "R-CARENCIA": 2
+  },
+  "azarp": {
+   "S-8-EXPOSICION": 17,
+   "R-CARENCIA": 2,
+   "F-ANTICIPACION": 1
+  },
+  "quedate": {}
+ },
+ "punto donde pierde": {
+  "ahora": {
+   "punto 1 de 1": 88
+  },
+  "despues": {
+   "punto 1 de 4": 167,
+   "punto 4 de 4": 21,
+   "punto 3 de 4": 14,
+   "punto 2 de 4": 35,
+   "punto 1 de 1": 62,
+   "punto 1 de 2": 9,
+   "punto 1 de 3": 6,
+   "punto 3 de 3": 2,
+   "punto 2 de 3": 1
+  },
+  "azarp": {
+   "punto 1 de 2": 434,
+   "punto 2 de 2": 24
+  },
+  "quedate": {
+   "punto 1 de 1": 125
+  }
+ },
+ "ejemplos": [
+  {
+   "diario": "ereq_051a3cdd-2095-479b-a057-0bb7fae03124-policy_agent_10.art.log",
+   "tic": 300,
+   "tramos": [
+    {
+     "destino": [
+      20,
+      23
+     ],
+     "intencion": "ir",
+     "esperar": null
+    },
+    {
+     "destino": [
+      21,
+      23
+     ],
+     "intencion": "usar",
+     "esperar": null
+    },
+    {
+     "destino": [
+      24,
+      23
+     ],
+     "intencion": "ir",
+     "esperar": null
+    }
+   ],
+   "puntos_de_control": [
+    {
+     "tic": 344,
+     "d": 3.2861840658111974,
+     "vida": 89.0,
+     "W": 1.0,
+     "pos": [
+      20,
+      23
+     ]
+    },
+    {
+     "tic": 355,
+     "d": 3.1946528240577905,
+     "vida": 89.0,
+     "W": 1.0,
+     "pos": [
+      21,
+      23
+     ]
+    },
+    {
+     "tic": 388,
+     "d": 3.217418388646849,
+     "vida": 89.0,
+     "W": 1.0,
+     "pos": [
+      24,
+      23
+     ]
+    }
+   ],
+   "seguir_solo": [
+    {
+     "tic": 344,
+     "d": 3.725538182007839,
+     "vida": 89.0
+    },
+    {
+     "tic": 355,
+     "d": 3.725538182007839,
+     "vida": 89.0
+    },
+    {
+     "tic": 388,
+     "d": 3.7836732165005946,
+     "vida": 89.0
+    }
+   ],
+   "area": 0.6535831934267975,
+   "veredicto": "ok",
+   "detalle": [
+    {
+     "tic": 344,
+     "peso": 0.54337,
+     "d_forma": 3.28618,
+     "d_solo": 3.72554,
+     "gana": 0.23873
+    },
+    {
+     "tic": 355,
+     "peso": 0.46652,
+     "d_forma": 3.19465,
+     "d_solo": 3.72554,
+     "gana": 0.24767
+    },
+    {
+     "tic": 388,
+     "peso": 0.29525,
+     "d_forma": 3.21742,
+     "d_solo": 3.78367,
+     "gana": 0.16719
+    }
+   ]
+  },
+  {
+   "diario": "ereq_051a3cdd-2095-479b-a057-0bb7fae03124-policy_agent_10.art.log",
+   "tic": 350,
+   "tramos": [
+    {
+     "destino": [
+      21,
+      23
+     ],
+     "intencion": "usar",
+     "esperar": null
+    },
+    {
+     "destino": [
+      24,
+      24
+     ],
+     "intencion": "usar",
+     "esperar": null
+    },
+    {
+     "destino": [
+      24,
+      23
+     ],
+     "intencion": "ir",
+     "esperar": null
+    },
+    {
+     "destino": [
+      26,
+      24
+     ],
+     "intencion": "coger",
+     "esperar": null
+    }
+   ],
+   "puntos_de_control": [
+    {
+     "tic": 361,
+     "d": 3.8376353208540093,
+     "vida": 67.0,
+     "W": 1.0,
+     "pos": [
+      21,
+      23
+     ]
+    },
+    {
+     "tic": 394,
+     "d": 3.5036044383708194,
+     "vida": 67.0,
+     "W": 1.0,
+     "pos": [
+      24,
+      24
+     ]
+    },
+    {
+     "tic": 405,
+     "d": 3.515103029749536,
+     "vida": 67.0,
+     "W": 1.0,
+     "pos": [
+      24,
+      23
+     ]
+    },
+    {
+     "tic": 427,
+     "d": 3.4280619463089623,
+     "vida": 67.0,
+     "W": 1.0,
+     "pos": [
+      26,
+      24
+     ]
+    }
+   ],
+   "seguir_solo": [
+    {
+     "tic": 361,
+     "d": 4.021844448052621,
+     "vida": 67.0
+    },
+    {
+     "tic": 394,
+     "d": 4.021844448052621,
+     "vida": 67.0
+    },
+    {
+     "tic": 405,
+     "d": 4.021844448052621,
+     "vida": 67.0
+    },
+    {
+     "tic": 427,
+     "d": 4.021844448052621,
+     "vida": 67.0
+    }
+   ],
+   "area": 0.880346728762098,
+   "veredicto": "ok",
+   "detalle": [
+    {
+     "tic": 361,
+     "peso": 0.85857,
+     "d_forma": 3.83764,
+     "d_solo": 4.02184,
+     "gana": 0.15816
+    },
+    {
+     "tic": 394,
+     "peso": 0.54337,
+     "d_forma": 3.5036,
+     "d_solo": 4.02184,
+     "gana": 0.28159
+    },
+    {
+     "tic": 405,
+     "peso": 0.46652,
+     "d_forma": 3.5151,
+     "d_solo": 4.02184,
+     "gana": 0.2364
+    },
+    {
+     "tic": 427,
+     "peso": 0.34389,
+     "d_forma": 3.42806,
+     "d_solo": 4.02184,
+     "gana": 0.20419
+    }
+   ]
+  },
+  {
+   "diario": "ereq_051a3cdd-2095-479b-a057-0bb7fae03124-policy_agent_11.art.log",
+   "tic": 450,
+   "tramos": [
+    {
+     "destino": [
+      32,
+      14
+     ],
+     "intencion": "ir",
+     "esperar": null
+    },
+    {
+     "destino": [
+      28,
+      18
+     ],
+     "intencion": "ir",
+     "esperar": null
+    },
+    {
+     "destino": [
+      32,
+      14
+     ],
+     "intencion": "ir",
+     "esperar": null
+    }
+   ],
+   "puntos_de_control": [
+    {
+     "tic": 472,
+     "d": 3.7752853205543815,
+     "vida": 100.0,
+     "W": 2.0,
+     "pos": [
+      32,
+      14
+     ]
+    },
+    {
+     "tic": 516,
+     "d": 3.6294676292050068,
+     "vida": 100.0,
+     "W": 2.0,
+     "pos": [
+      28,
+      18
+     ]
+    },
+    {
+     "tic": 560,
+     "d": 3.1587322065009835,
+     "vida": 100.0,
+     "W": 2.0,
+     "pos": [
+      32,
+      14
+     ]
+    }
+   ],
+   "seguir_solo": [
+    {
+     "tic": 472,
+     "d": 3.7752853205543815,
+     "vida": 100.0
+    },
+    {
+     "tic": 516,
+     "d": 3.7752853205543815,
+     "vida": 100.0
+    },
+    {
+     "tic": 560,
+     "d": 3.1587322065009835,
+     "vida": 100.0
+    }
+   ],
+   "area": 0.058405080079822445,
+   "veredicto": "ok",
+   "detalle": [
+    {
+     "tic": 472,
+     "peso": 0.73713,
+     "d_forma": 3.77529,
+     "d_solo": 3.77529,
+     "gana": 0.0
+    },
+    {
+     "tic": 516,
+     "peso": 0.40053,
+     "d_forma": 3.62947,
+     "d_solo": 3.77529,
+     "gana": 0.05841
+    },
+    {
+     "tic": 560,
+     "peso": 0.21764,
+     "d_forma": 3.15873,
+     "d_solo": 3.15873,
+     "gana": 0.0
+    }
+   ]
+  }
+ ]
+}

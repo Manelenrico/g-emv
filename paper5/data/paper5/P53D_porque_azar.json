@@ -1,0 +1,65 @@
+{
+ "n": 78,
+ "baja": {
+  "F-4-ALCANCE": 33,
+  "S-8-EXPOSICION": 27,
+  "S-7-AGRESOR": 13,
+  "S-HERIDO": 1,
+  "F-REENCUENTRO": 3,
+  "S-PROVISION": 1
+ },
+ "sube": {
+  "F-4-ALCANCE": 65,
+  "R-LLAMADA": 6,
+  "S-7-AGRESOR": 4,
+  "S-8-EXPOSICION": 3
+ },
+ "ejemplos": [
+  {
+   "diario": "ereq_051a3cdd-2095-479b-a057",
+   "tic": 1450,
+   "punto": 1,
+   "de": 2,
+   "area": 0.005,
+   "baja": {
+    "F-4-ALCANCE": -0.0062
+   }
+  },
+  {
+   "diario": "ereq_051a3cdd-2095-479b-a057",
+   "tic": 2300,
+   "punto": 1,
+   "de": 2,
+   "area": 0.0257,
+   "baja": {
+    "S-8-EXPOSICION": -0.0263,
+    "F-4-ALCANCE": -0.0055,
+    "R-LLAMADA": 0.0351
+   }
+  },
+  {
+   "diario": "ereq_051a3cdd-2095-479b-a057",
+   "tic": 2350,
+   "punto": 1,
+   "de": 2,
+   "area": 0.0201,
+   "baja": {
+    "S-8-EXPOSICION": -0.2051,
+    "R-LLAMADA": -0.0408,
+    "F-4-ALCANCE": -0.0306
+   }
+  },
+  {
+   "diario": "ereq_16755035-0ab1-4ef3-8a0c",
+   "tic": 550,
+   "punto": 1,
+   "de": 2,
+   "area": 0.0084,
+   "baja": {
+    "S-7-AGRESOR": -0.0106,
+    "S-8-EXPOSICION": -0.0105,
+    "F-4-ALCANCE": -0.0022
+   }
+  }
+ ]
+}

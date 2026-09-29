@@ -1,0 +1,652 @@
+[
+ {
+  "i": 1,
+  "arm": "S2_B",
+  "ereq": "ereq_815dacd4-24f5-48ce-95cc-4a31931d6ad9",
+  "asiento": "agent_10",
+  "slot": 10,
+  "t0": 300,
+  "txt": [
+   "Espera 7 tics y luego corre hacia los objetos en el suelo a 5 casillas (racion, cuchillos, botiquin) || Necesitas armamento urgente para ayudar a tu hermano que está siendo atacado por el asiento 12, y esos cuchillos te darán capacidad de combate inmediata.",
+   "Recoge la racion del suelo cuando puedas moverte || Ya tienes una en la mochila; dos raciones te permitirán curarte rápido en batalla si es necesario mientras ayudas a tu hermano.",
+   "Aproximate a tu hermano en (24,15) después de armarte, evitando pasar por donde está el asiento 12 || Tu hermano está bajo fuego y es tu única alianza confirmada; llegar para atacar al asiento 12 desde atrás puede cambiar el combate a tu favor."
+  ]
+ },
+ {
+  "i": 2,
+  "arm": "S2_B",
+  "ereq": "ereq_b598badb-de78-4384-84a5-21cbfcc48630",
+  "asiento": "agent_10",
+  "slot": 10,
+  "t0": 2000,
+  "txt": [
+   "Coger el arco y las flechas que ves a 3 casillas || Necesitas un arma para defenderte de los que te han pegado, y el arco te da alcance para atacar sin acercarte a los enemigos cercanos.",
+   "Coger el botiquín a 3 casillas y usarlo mientras esperas || Estás tocado con 81 de vida y el botiquín devuelve 50; en 2 tics podrás moverte y curarte es prioritario antes de cualquier combate.",
+   "Hablar con tu hermano en el canal de equipo para coordinarse || Tu compañero está tocado a solo 3 casillas; coordinar estrategia les dará ventaja contra los tres que ves alrededor."
+  ]
+ },
+ {
+  "i": 3,
+  "arm": "S2_B",
+  "ereq": "ereq_6de69b74-bd9a-4c7e-94b9-eb161b8cb1cf",
+  "asiento": "agent_11",
+  "slot": 11,
+  "t0": 2500,
+  "txt": [
+   "Acercarte hacia la cerbatana y los dardos (4 casillas al sureste aproximadamente) || Necesitas distancia contra quien te atacó; la cerbatana es más segura que la espada y los dardos envenenan.",
+   "Moverte hacia el centro del círculo seguro en dirección a (24,24) || Tienes 7 casillas de margen pero el círculo se cierra en 44 tics; mejor estar más adentro que perder vida al borde.",
+   "Atacar al asiento 12 si se acerca a rango de espada (1 casilla) || Está a 6 casillas, pero si se aproxima es una amenaza directa que debes neutralizar antes de que te vuelva a atacar."
+  ]
+ },
+ {
+  "i": 4,
+  "arm": "S2_B",
+  "ereq": "ereq_59d8fa60-1275-4c46-9701-50bffc931a74",
+  "asiento": "agent_10",
+  "slot": 10,
+  "t0": 2600,
+  "txt": [
+   "Coger la racion a 2 casillas || Recuperarás 15 de vida mientras esperas a que se recargue el movimiento, y tienes espacio en la mochila.",
+   "Moverte hacia el arco y las flechas a 4 casillas || En cuanto puedas moverte, necesitas un arma a distancia para competir; el arco es potente y las flechas están juntas.",
+   "Moverte hacia tu compañero en (25,24) || Está tocado a solo 2 casillas y probablemente necesita cobertura; acercarte permitirá coordinar y protegerse mutuamente del asiento 9 que os atacó."
+  ]
+ },
+ {
+  "i": 5,
+  "arm": "S2_C",
+  "ereq": "ereq_6fec0115-61db-4979-bdf8-dc09c498e576",
+  "asiento": "agent_10",
+  "slot": 10,
+  "t0": 2600,
+  "txt": [
+   "Coger la ración que está a 1 casilla || Te da 15 de vida extra en 24 tics sin arriesgar nada, y necesitarás cada punto cuando el anillo cierre más.",
+   "Esperar a que se recupere el enfriamiento de movimiento y acercarte a tu hermano || Estás a 1 casilla pero sin poder moverte; en 5 tics podrás ir hacia él y coordinarse mejor que separados.",
+   "Cambiar los cuchillos por las flechas que ves a 2 casillas una vez puedas moverte || El arco es mejor equipación para lo que viene: alcance de 8 casillas, daño constante de 14 y no se gasta, a diferencia de los cuchillos que tienes."
+  ]
+ },
+ {
+  "i": 6,
+  "arm": "S2_C",
+  "ereq": "ereq_bceb8528-85cc-422a-aeb9-618fe47695b2",
+  "asiento": "agent_11",
+  "slot": 11,
+  "t0": 5800,
+  "txt": [
+   "Moverte hacia el botiquín a 5 casillas (sudeste o sur) || Necesitas vida urgentemente: estás a 57 con daño constante del anillo, y ese botiquín te devuelve 50.",
+   "Pegar ahora al asiento 14 que está a 4 casillas || Está entero y sin arma en la mano, es vulnerable, y eliminar uno de los que te ven reduce amenazas inmediatas.",
+   "Moverte hacia el centro del círculo (noreste hacia 24,24) || Te quedarás fuera en 392 tics y perderás vida rápidamente; mejor desplazarse ya que en 2 tics podrás andar de nuevo."
+  ]
+ },
+ {
+  "i": 7,
+  "arm": "S2_B",
+  "ereq": "ereq_4ff15487-f0db-4af7-ac4f-5268d0962ff8",
+  "asiento": "agent_11",
+  "slot": 11,
+  "t0": 2600,
+  "txt": [
+   "Coger la cerbatana (moverte hacia ella cuando se te pase el enfriamiento) || Necesitas un arma para defenderte; la cerbatana está cerca y te permite atacar a distancia sin gastar munición.",
+   "Comerte la racion ahora || Estás a 71 de vida y el asiento 12 ya te ha golpeado; recuperar 15 puntos ahora te da margen antes de que baje la guardia.",
+   "Comunicarte con tu hermano por el canal de equipo para coordinar contra los enemigos cercanos || Él está entero y a solo 3 casillas; coordinaros os da ventaja numérica contra el herido del asiento 13 y el desarmado del 15."
+  ]
+ },
+ {
+  "i": 8,
+  "arm": "S2_B",
+  "ereq": "ereq_69f6d0f0-4774-44fb-b127-1fc9b02fc427",
+  "asiento": "agent_11",
+  "slot": 11,
+  "t0": 2400,
+  "txt": [
+   "esperar donde estás || Te quedan solo 18 de vida y estás rodeado de enemigos; espera 2 tics a que se recargue el movimiento para huir hacia el círculo seguro o buscar un botiquín.",
+   "moverte al noroeste hacia (26,13) || En 2 tics podrás moverte; dirígete hacia el círculo seguro en (24,24) para ganar distancia de los enemigos que te han atacado y evitar el veneno de la red del asiento 4.",
+   "recoger los dardos al sureste en cuanto puedas moverte || Los dardos están a solo 2 casillas y te darían munición para la cerbatana si la encuentras, mejorando tus opciones ofensivas contra múltiples enemigos."
+  ]
+ },
+ {
+  "i": 9,
+  "arm": "S2_B",
+  "ereq": "ereq_9ae01aac-1256-4e93-830f-0e1a21fdf5a7",
+  "asiento": "agent_10",
+  "slot": 10,
+  "t0": 400,
+  "txt": [
+   "ir hacia tu hermano, a 1 casilla || Acércate para protegerlo del asiento 12 y coordinar un ataque conjunto con ventaja numérica.",
+   "dar UN paso al norte y quedarte ahi || Posiciónate entre tu hermano y su atacante para bloquear los golpes del asiento 12 con tu espada.",
+   "ir a por el arco, a 1 casilla, lo mas cercano || Recoge el arco para tener un arma a distancia versátil mientras proteges a tu hermano desde otra posición."
+  ]
+ },
+ {
+  "i": 10,
+  "arm": "S2_C",
+  "ereq": "ereq_11876b52-7044-4608-ace4-507c4de47524",
+  "asiento": "agent_11",
+  "slot": 11,
+  "t0": 2300,
+  "txt": [
+   "ir hacia tu hermano, a 2 casillas || Está tocado y te han pegado juntos; acercarse permite coordinar defensa o curarlo si consigues un botiquín.",
+   "dar UN paso al oeste y quedarte ahi || Te acerca a los dardos del suelo (5 casillas) mientras mantienes distancia de los enemigos visibles y el camuflaje activo.",
+   "esperar donde estas || Estás camuflado y el círculo no te presiona aún; dejar que los otros se expongan mientras recuperas información es mejor que avanzar herido y mal equipado."
+  ]
+ },
+ {
+  "i": 11,
+  "arm": "S2_B",
+  "ereq": "ereq_7228e12c-684f-4509-8cd2-abc6e123c9dd",
+  "asiento": "agent_11",
+  "slot": 11,
+  "t0": 1500,
+  "txt": [
+   "Recoger la mochila (en 6 casillas) || Aumentarás tus huecos de 0 a 4, permitiéndote llevar armas mejores que la red y más recursos para sobrevivir.",
+   "Lanzar la red al asiento 9 (que acaba de pegarte) || Lo inmovilizarás 3 segundos para defenderte o escapar de quien te está atacando.",
+   "Esperar los 3 tics hasta poder moverte, luego ir hacia la lanza || La lanza te dará más alcance (2 casillas) y potencia (7,2 de daño) que la red, mejorando tu capacidad de combate."
+  ]
+ },
+ {
+  "i": 12,
+  "arm": "S2_C",
+  "ereq": "ereq_65e01285-ca56-4cbd-a747-920af4e9135d",
+  "asiento": "agent_10",
+  "slot": 10,
+  "t0": 4800,
+  "txt": [
+   "Dispara a la cerbatana al asiento 9 (a 1 casilla, en las últimas) || Es tu agresor más cercano y vulnerable; eliminarlo reduce amenazas inmediatas y te sube puntuación.",
+   "Muévete noreste hacia las flechas (a 2 casillas) para rearmarte de munición || La cerbatana sin dardos es inútil; conseguir flechas te deja operable con el arco que ves en el suelo.",
+   "Coge la ración a 3 casillas en cuanto se te pase el enfriamiento de movimiento || Con 94 de vida y ya tocado, necesitas reserva de curación antes de que el circulo se cierre y suba el daño."
+  ]
+ },
+ {
+  "i": 13,
+  "arm": "S2_C",
+  "ereq": "ereq_cb5ccfdf-9a22-4772-9684-bebcc8fe3e3a",
+  "asiento": "agent_10",
+  "slot": 10,
+  "t0": 2900,
+  "txt": [
+   "Coger el botiquín a 2 casillas || Con 38 de vida y gente pegándote, necesitas poder curarte antes de que baje más.",
+   "Disparar al asiento 6 ahora que puedes (está a 4 casillas con lanza) || Está tocado, cerca y armado: eliminar la amenaza inmediata es más urgente que moverte.",
+   "Coger la mochila a 5 casillas en cuanto puedas moverte || Tienes solo 2 huecos y hay tres mochilas en el suelo; más espacio te permitirá llevar lo que necesites para sobrevivir."
+  ]
+ },
+ {
+  "i": 14,
+  "arm": "S2_C",
+  "ereq": "ereq_f470faae-561d-4479-85c4-f4f8bcab5b95",
+  "asiento": "agent_10",
+  "slot": 10,
+  "t0": 2600,
+  "txt": [
+   "ir a por la racion, a 1 casilla, lo mas cercano || Estás a 29 de vida y bajo fuego; recuperar 15 puntos ahora es crítico para sobrevivir los próximos golpes.",
+   "dar UN paso al sur y quedarte ahi || Te alejas del asiento 8 que te está pegando mientras mantienes el camuflaje activo al no moverte después.",
+   "ir hacia tu hermano, a 5 casillas || Reagruparte con tu compañero te da cobertura y opciones mientras te alejas de los atacantes actuales."
+  ]
+ },
+ {
+  "i": 15,
+  "arm": "S2_B",
+  "ereq": "ereq_b598badb-de78-4384-84a5-21cbfcc48630",
+  "asiento": "agent_10",
+  "slot": 10,
+  "t0": 5500,
+  "txt": [
+   "Acércate a las 4 casillas donde ves las armas y recoge la espada || Tienes vida baja y la red solo inmoviliza; una espada te da defensa ofensiva mientras recuperas movilidad en 5 tics.",
+   "Cómete la ración que llevas ahora || Con 59 de vida estás tocado y vulnerable; recuperar 15 puntos te acerca a entero antes de que se active tu movimiento.",
+   "Lanza la red al asiento 7 que está tocado a 3 casillas || Lo inmovilizas 3 segundos mientras esperas poder moverte; es un rival debilitado y cercano que no puede escapar."
+  ]
+ },
+ {
+  "i": 16,
+  "arm": "S2_C",
+  "ereq": "ereq_87d8d778-a694-49e2-ba9c-f69f384a6bd1",
+  "asiento": "agent_10",
+  "slot": 10,
+  "t0": 5400,
+  "txt": [
+   "Usar el botiquín que llevas ahora mismo || Tienes 77 de vida y estás fuera del círculo perdiendo vida cada segundo; los 50 puntos del botiquín te darán margen para sobrevivir lo que viene.",
+   "Moverte hacia el botiquín que hay a 3 casillas en cuanto puedas (en 6 tics) || Necesitarás curarte de nuevo pronto y tu hermano no lleva nada; tener dos botiquines accesibles es crítico para aguantar.",
+   "Alejarte del asiento 4 hacia el interior del círculo en cuanto puedas || Estás siendo visto por alguien armado que te puede golpear, y el círculo se cierra; desplazarte hacia adentro te deja fuera de alcance y más cerca de la zona segura."
+  ]
+ },
+ {
+  "i": 17,
+  "arm": "S2_C",
+  "ereq": "ereq_34f58691-92ea-401d-8aff-5c3e44f6a72d",
+  "asiento": "agent_11",
+  "slot": 11,
+  "t0": 400,
+  "txt": [
+   "Esperar 6 tics sin moverte, luego dirigirte hacia la mochila al noroeste || Necesitas la mochila para llevar más objetos; sin ella no podrás recoger botiquines ni munición cuando los encuentres.",
+   "No atacar a tu hermano ahora; espera a que pase el enfriamiento y acercaos juntos hacia la Fortaleza || El enemigo del asiento 13 está a 7 casillas y también tiene cuchillos; es mejor coordinaros con tu hermano que estar divididos.",
+   "Una vez con movimiento disponible, ir hacia el sur para alejarte del asiento 13 mientras recoges la mochila || Estás dentro de su alcance, así que moverse te pone fuera de peligro inmediato mientras consigues equipamiento mejor."
+  ]
+ },
+ {
+  "i": 18,
+  "arm": "S2_B",
+  "ereq": "ereq_03d5e1a6-9ccd-46c8-8e13-3385ef45f006",
+  "asiento": "agent_11",
+  "slot": 11,
+  "t0": 4300,
+  "txt": [
+   "Esperar a que se recargue el movimiento y luego recoger las flechas || Necesitas munición para el arco que probablemente encontrarás pronto, y en 3 tics podrás moverte.",
+   "Usar el botiquín ahora || Con 86 de vida estás tocado y vulnerable; recuperar 50 de vida te deja en mejor posición para el combate que se aproxima.",
+   "Moverte hacia el asiento 13 (última posición conocida en 26,23) apenas se recargue || Te acaban de atacar y es mejor tomar la iniciativa persiguiendo al enemigo que esperar a ser encontrado."
+  ]
+ },
+ {
+  "i": 19,
+  "arm": "S2_B",
+  "ereq": "ereq_59d8fa60-1275-4c46-9701-50bffc931a74",
+  "asiento": "agent_10",
+  "slot": 10,
+  "t0": 1800,
+  "txt": [
+   "Coger el botiquín a 2 casillas y usarlo || Estás tocado con 94 de vida y el botiquín devuelve 50; recuperarte ahora te deja más fuerte para lo que viene.",
+   "Moverte hacia el arco y las flechas a 4 casillas || El arco es el arma de mayor alcance (8 casillas) y no se gasta; te permite atacar desde lejos a los tres enemigos que ves.",
+   "Moverte hacia tu hermano en (23,21) y coordinar con él || Está tocado como tú y juntos tendréis más oportunidades; podéis equiparos y atacar coordinados a los enemigos cercanos."
+  ]
+ },
+ {
+  "i": 20,
+  "arm": "S2_C",
+  "ereq": "ereq_7140e005-0f5a-4396-8630-77d82786489e",
+  "asiento": "agent_10",
+  "slot": 10,
+  "t0": 900,
+  "txt": [
+   "Coger el botiquín a 1 casilla (al sur) y usarlo inmediatamente || Tienes 54 de vida y acabas de recibir daño; curarte ahora te deja en mejor posición para lo que viene.",
+   "Moverte al nordeste hacia el centro del círculo mientras recoges las flechas de paso || Te alejas del asiento 8 que está a 1 casilla y te acercas a la seguridad del centro, recogiendo munición para el arco que llevas.",
+   "Atacar al asiento 8 con la espada ahora mismo || Está a 1 casilla, entero, y es una amenaza inmediata; atacar primero te quita la presión y puede darte ventaja."
+  ]
+ },
+ {
+  "i": 21,
+  "arm": "S2_B",
+  "ereq": "ereq_16975f45-fd0e-4927-bcd3-a982aacdca39",
+  "asiento": "agent_11",
+  "slot": 11,
+  "t0": 1400,
+  "txt": [
+   "Esperar 2 tics y luego moverte hacia la espada a 4 casillas || Necesitas un arma mejor que la red para el combate cercano, y la espada es la más accesible ahora mismo.",
+   "Lanzar la red hacia tu hermano en (27,22) ahora mismo || Inmovilizarlo 3 segundos te da ventaja táctica sobre él mientras te equipas con un arma real.",
+   "Esperar donde estás observando los movimientos de tu hermano || Con tiempo aún disponible antes del cierre del anillo, es prudente evaluar sus intenciones antes de actuar."
+  ]
+ },
+ {
+  "i": 22,
+  "arm": "S2_C",
+  "ereq": "ereq_4e755aa0-be58-45d2-8773-e67d25e06cbe",
+  "asiento": "agent_11",
+  "slot": 11,
+  "t0": 600,
+  "txt": [
+   "Recoge el camuflaje (2 casillas al norte) || Te hará invisible hasta 4 casillas si te quedas quieto, protegiéndote mientras esperas a que se recupere tu movimiento y planeas tu siguiente paso.",
+   "Dispara un dardo al asiento 9 (3 casillas, tocado) || Está cerca, débil y sin arma; el veneno te suma daño mientras tú recuperas movilidad y tu hermano se aleja del peligro inmediato.",
+   "Corre hacia tu hermano en (28,24) cuando recuperes movimiento || Está siendo atacado a 4 casillas; si lo alcanzas podréis coordinaros mejor y aumentar vuestra defensa mutua contra los otros jugadores."
+  ]
+ },
+ {
+  "i": 23,
+  "arm": "S2_C",
+  "ereq": "ereq_1dd9fc29-b191-4346-a586-0757b900fa8c",
+  "asiento": "agent_11",
+  "slot": 11,
+  "t0": 1300,
+  "txt": [
+   "Recoge la espada (a 2 casillas) en cuanto puedas moverte || Necesitas un arma cuerpo a cuerpo de verdad: la red no hace daño y tienes al asiento 9 tocado cerca; la espada hace 10,8 por golpe con tu fuerza.",
+   "Lanza la red ahora al asiento 9 antes de que se acerque más || Lo inmoviliza 3 segundos y está a 6 casillas dentro de tu alcance; te ganas tiempo para equiparte mientras él no puede atacar.",
+   "Coge la racion (a 2 casillas) antes que nada || Con 60 de vida estás tocado y van a por ti; recuperar 15 puntos en 1 segundo te deja en 75, más cerca de entero, y luego buscas el botiquín."
+  ]
+ },
+ {
+  "i": 24,
+  "arm": "S2_B",
+  "ereq": "ereq_16975f45-fd0e-4927-bcd3-a982aacdca39",
+  "asiento": "agent_11",
+  "slot": 11,
+  "t0": 4600,
+  "txt": [
+   "Lanzar la red al asiento 8 (a 4 casillas), que está tocado y cerca || Es el enemigo más vulnerable y cercano; inmovilizarlo 3 segundos te da ventaja mientras recuperas movilidad.",
+   "Esperar 4 tics a que se recupere tu movimiento, luego ir hacia las armas en el suelo || Necesitas un arma real; la red sola no es suficiente contra 5 enemigos visibles, y hay arco, lanza y cuchillos a 4 casillas.",
+   "Comunicar a tu hermano (asiento 11) que estás tocado y coordinar defensa || Estáis los dos vulnerables y cercanos; juntos podéis resistir mejor mientras os equipáis."
+  ]
+ },
+ {
+  "i": 25,
+  "arm": "S2_B",
+  "ereq": "ereq_4ff15487-f0db-4af7-ac4f-5268d0962ff8",
+  "asiento": "agent_11",
+  "slot": 11,
+  "t0": 2100,
+  "txt": [
+   "Recoger la red que está a 2 casillas || Es el arma más cercana y podrás usarla en 3 tics cuando se termine tu enfriamiento de movimiento.",
+   "Moverte hacia la cerbatana y los dardos a 4 casillas || Son armas a distancia que funcionan bien con tu camuflaje activo, permitiéndote atacar desde lejos sin delatarte.",
+   "Acércate a tu hermano en (27,26) para coordinar estrategia || Estáis muy cerca y podéis usar el canal de equipo para planificar juntos cómo sobrevivir y ganar puntos."
+  ]
+ },
+ {
+  "i": 26,
+  "arm": "S2_C",
+  "ereq": "ereq_a1387d25-7973-4565-8814-8088e678a2a6",
+  "asiento": "agent_10",
+  "slot": 10,
+  "t0": 3900,
+  "txt": [
+   "Espera 4 tics a que se te pase el enfriamiento de movimiento, luego corre hacia la espada que ves a 3 casillas || Necesitas mejor equipamiento para sobrevivir, y esa espada hará más daño que el arco en combate cercano donde ya estás.",
+   "Dispara ahora al asiento 14 que está a 2 casillas sin arma, luego prepárate para moverte || Es la amenaza más cercana y desarmada; eliminarla reduce el peligro inmediato mientras tu hermano aguanta.",
+   "Grita a tu hermano que se aleje hacia el norte mientras tú cubres, y en cuanto puedas moverte ve hacia él || Está tocado y rodeado; si os juntáis podréis defenderos mejor y quizá encontrar botiquines juntos."
+  ]
+ },
+ {
+  "i": 27,
+  "arm": "S2_B",
+  "ereq": "ereq_59d8fa60-1275-4c46-9701-50bffc931a74",
+  "asiento": "agent_10",
+  "slot": 10,
+  "t0": 1100,
+  "txt": [
+   "Coger el botiquín a 3 casillas || Tienes 94 de vida y acabas de recibir daño; el botiquín te dará 50 puntos en 2 segundos y es tu prioridad inmediata.",
+   "Moverte hacia tu hermano en (24,22) cuando se te pase el enfriamiento || Está tocado a solo 1 casilla; necesitas coordinaros juntos para sobrevivir a los tres enemigos visibles.",
+   "Coger el camuflaje a 5 casillas tras curarte || Te harás invisible hasta 4 casillas si te quedas quieto, lo que te permitirá reagruparete con tu hermano sin ser visto por los asientos 4, 7 y 8."
+  ]
+ },
+ {
+  "i": 28,
+  "arm": "S2_B",
+  "ereq": "ereq_460dc538-d9c1-43bc-ad72-6bbd8d185f94",
+  "asiento": "agent_10",
+  "slot": 10,
+  "t0": 600,
+  "txt": [
+   "Coger el botiquín (a 2 casillas) en cuanto puedas moverte || Con 59 de vida estás tocado y vulnerable; el botiquín te devuelve 50 puntos en 2 segundos, crítico para sobrevivir a los que te atacaron.",
+   "Cambiar la espada por el arco en la mochila y recoger las flechas || El arco tiene 8 casillas de alcance para atacar sin acercarte a los enemigos que ya te localizaron, mientras la espada requiere estar a 1 casilla de distancia.",
+   "Ponerte el camuflaje (a 4 casillas) después de recuperarte || Estás marcado por los asientos 8 y 12; el camuflaje te oculta a 4 casillas si estás quieto, dándote ventaja táctica para reagruparte."
+  ]
+ },
+ {
+  "i": 29,
+  "arm": "S2_B",
+  "ereq": "ereq_d95fdf6c-d1b0-458e-9286-fd7ca5a97267",
+  "asiento": "agent_11",
+  "slot": 11,
+  "t0": 400,
+  "txt": [
+   "Espera 6 tics y luego recoge las flechas a 4 casillas || Las flechas te dan munición para el arco, que es el arma de primera con mejor alcance y daño consistente.",
+   "Muévete hacia la Fortaleza central (casilla 24,24) una vez puedas moverte || El fondo de la Fortaleza tiene las mejores armas (espada, arco, cerbatana) y es prioritario llegar antes que otros.",
+   "Ten cuidado con el del asiento 9 que ves a 8 casillas || Está relativamente cerca y podría ser una amenaza; mantén distancia hasta estar mejor armado."
+  ]
+ },
+ {
+  "i": 30,
+  "arm": "S2_C",
+  "ereq": "ereq_87d8d778-a694-49e2-ba9c-f69f384a6bd1",
+  "asiento": "agent_10",
+  "slot": 10,
+  "t0": 4400,
+  "txt": [
+   "Sacar las flechas de la mochila y ponerlas en la mano || Necesitas un arma para defenderte de los que te ven y están en tu alcance.",
+   "Moverte hacia el sureste (hacia la casilla 27,23) apenas se te pase el enfriamiento || Te aleja del grupo concentrado y te acerca a los cuchillos del suelo que podrías necesitar.",
+   "Hablar por el canal de equipo con tu hermano para coordinaros contra la amenaza cercana || Estás muy cerca uno del otro y podéis ayudaros mutuamente si os veis atacados."
+  ]
+ },
+ {
+  "i": 31,
+  "arm": "S2_C",
+  "ereq": "ereq_87d8d778-a694-49e2-ba9c-f69f384a6bd1",
+  "asiento": "agent_10",
+  "slot": 10,
+  "t0": 3800,
+  "txt": [
+   "Usa el botiquin ahora mismo || Con 72 de vida estás tocado y bajo fuego; los 50 puntos te acercan a entero, y aunque un golpe lo cancela, necesitas recuperarte antes de que te dejen en las últimas.",
+   "En cuanto puedas moverte (en 3 tics), ve hacia las flechas a 3 casillas || Sin arma eres presa fácil; las flechas te dan munición para el arco que probablemente hay en la fortaleza, y recuperarte armado es más importante que cualquier otra cosa.",
+   "Después de coger las flechas, corre hacia tu hermano en (21,22) || Está entero y a solo 6 casillas; agruparos os hace más fuertes que estar dispersos mientras buscáis armas en un sitio donde ya hay tres enemigos viéndoos."
+  ]
+ },
+ {
+  "i": 32,
+  "arm": "S2_C",
+  "ereq": "ereq_e33f7fad-fd9b-4d58-9bd2-50c3493a1259",
+  "asiento": "agent_10",
+  "slot": 10,
+  "t0": 2600,
+  "txt": [
+   "Lanzar la red al asiento 9 (a 3 casillas) || Inmovilizarlo 3 segundos antes de que te ataque, ganando tiempo para reagruparte o huir.",
+   "Moverte hacia las flechas (a 6 casillas) || Equiparte mejor: el arco te da más alcance y seguridad que la red para los enfrentamientos que vienen.",
+   "Moverte hacia el centro del círculo, lejos del asiento 5 || Alejarte del que te atacó y acercarte al asiento 13 para reagruparte o buscar posición defensiva."
+  ]
+ },
+ {
+  "i": 33,
+  "arm": "S2_C",
+  "ereq": "ereq_11b5ff4f-38a8-44f9-ae2a-31454f0f5073",
+  "asiento": "agent_10",
+  "slot": 10,
+  "t0": 1100,
+  "txt": [
+   "Esperar y recoger los dardos cuando se termine el enfriamiento de movimiento || Los dardos envenenan al enemigo sin gastar aguante del arma, y tener munición de cerbatana te da opciones de ataque a distancia que la espada no ofrece.",
+   "Soltar el botiquín en el suelo para que tu hermano lo recoja || Él no lleva nada para curarse y está en peligro; compartir recursos de equipo es vital para que ambos sobreviváis a lo que viene.",
+   "Moverte hacia el norte o nordeste para acercarte a la Fortaleza cuando puedas || Ahí están las armas de primera categoría (cerbatana, camuflaje mejor) que te harían mucha falta, y alejarte del borde del círculo te da más margen."
+  ]
+ },
+ {
+  "i": 34,
+  "arm": "S2_C",
+  "ereq": "ereq_87d8d778-a694-49e2-ba9c-f69f384a6bd1",
+  "asiento": "agent_10",
+  "slot": 10,
+  "t0": 4200,
+  "txt": [
+   "Equípate con las flechas que ya llevas en la mochila: saca el arco de la mochila a la mano en cuanto puedas moverte (en 4 tics). || Necesitas un arma urgentemente para defenderte de los que te ven y te han atacado ya.",
+   "Recoge la red del suelo (está a 2 casillas) en cuanto puedas moverte. || Te da defensa inmediata contra los cercanos sin necesidad de arco, y además inmoviliza 3 segundos.",
+   "Muévete hacia tu hermano en (21,22) mientras reúnes armas, porque estáis solos frente a muchos. || Concentrarse con tu aliado es más seguro que estar disperso cuando hay seis enemigos visibles a corta distancia."
+  ]
+ },
+ {
+  "i": 35,
+  "arm": "S2_B",
+  "ereq": "ereq_9ae01aac-1256-4e93-830f-0e1a21fdf5a7",
+  "asiento": "agent_10",
+  "slot": 10,
+  "t0": 1100,
+  "txt": [
+   "dar UN paso al este y quedarte ahi || Te aleja del asiento 8 que te acaba de pegar, manteniendo distancia segura mientras evalúas la situación.",
+   "ir hacia el arco, a 1 casilla || El arco con flechas disponibles te da un arma a distancia más versátil que la espada para controlar el combate desde lejos.",
+   "esperar donde estas || Estás bien posicionado cerca del centro seguro, con tu hermano cubriendo la retaguardia, y puedes observar antes de comprometerte."
+  ]
+ },
+ {
+  "i": 36,
+  "arm": "S2_B",
+  "ereq": "ereq_d95fdf6c-d1b0-458e-9286-fd7ca5a97267",
+  "asiento": "agent_10",
+  "slot": 10,
+  "t0": 3700,
+  "txt": [
+   "Usar el botiquín ahora mismo || Tienes 82 de vida y estás fuera del círculo perdiendo vida cada segundo; recuperar 50 puntos es crítico para sobrevivir.",
+   "Esperar los 6 tics de enfriamiento de movimiento y luego entrar al círculo por el norte || El círculo cierra en 11 casillas y tú estás en el borde; necesitas moverte hacia adentro antes de perder más vida.",
+   "Atacar al sudeste contra tu hermano con los cuchillos si no logras entrar al círculo a tiempo || Si no puedes escapar del daño del anillo, al menos puedes ganar puntos eliminando al asiento 8 antes de morir."
+  ]
+ },
+ {
+  "i": 37,
+  "arm": "S2_B",
+  "ereq": "ereq_69f6d0f0-4774-44fb-b127-1fc9b02fc427",
+  "asiento": "agent_10",
+  "slot": 10,
+  "t0": 2600,
+  "txt": [
+   "Cambiar a arco y atacar al asiento 4 desde la distancia || Está a 2 casillas con una red (peligrosa), tienes arco y flechas listos, y atacar con distancia es más seguro que acercarte mientras recuperas movimiento.",
+   "Recoger la ración a 2 casillas apenas puedas moverte || Con 81 de vida y dos enemigos identificados, recuperar salud es crítico para sobrevivir los próximos enfrentamientos.",
+   "Moverte hacia el círculo seguro en dirección (24,24) || Estás muy cerca del borde del círculo; alejarte de la zona de daño es prioritario cuando recuperes el movimiento."
+  ]
+ },
+ {
+  "i": 38,
+  "arm": "S2_C",
+  "ereq": "ereq_944a27b7-3f74-45e9-855e-8aadea3d8649",
+  "asiento": "agent_10",
+  "slot": 10,
+  "t0": 1500,
+  "txt": [
+   "ir a por el objeto de la casilla (21,24), a 1 casilla, lo mas cercano || Recoger las flechas te arma el arco (que ves en el suelo) y te da alcance para atacar a distancia sin exponerte al asiento 5 que está tocado y cerca.",
+   "dar UN paso al norte y quedarte ahi || Alejarte del asiento 12 que te ve y te pega, ganando espacio mientras recoges las flechas en el siguiente paso.",
+   "echar a correr hacia el nordeste y no parar || Escapar del fuego cruzado de los asientos 8 y 12, acercarte al centro seguro y posicionarte mejor antes de que el círculo se cierre en 132 tics."
+  ]
+ },
+ {
+  "i": 39,
+  "arm": "S2_B",
+  "ereq": "ereq_58a9e51e-a612-4512-b6e7-5150d99583e0",
+  "asiento": "agent_11",
+  "slot": 11,
+  "t0": 2000,
+  "txt": [
+   "Coger las flechas que ves a 3 casillas || Son munición valiosa y están a tu alcance; te permitirán tener arma de distancia cuando se enfríe tu movimiento.",
+   "Esperar los 3 tics sin moverte, luego correr hacia el botiquín a 4 casillas || Tienes solo 50 de vida (mitad), el botiquín te restaurará 50 puntos, y así podrás enfrentarte mejor a los tres enemigos cercanos.",
+   "Avisar a tu hermano que juntos os enfoquéis en el asiento 12 que os está atacando || Están pegándoos dos contra uno; coordinaros contra el mismo objetivo es vuestra mejor ventaja táctica ahora mismo."
+  ]
+ },
+ {
+  "i": 40,
+  "arm": "S2_C",
+  "ereq": "ereq_f470faae-561d-4479-85c4-f4f8bcab5b95",
+  "asiento": "agent_11",
+  "slot": 11,
+  "t0": 1400,
+  "txt": [
+   "Recoger la mochila que está a 3 casillas || Necesitas más capacidad para cargar armas y objetos útiles que hay en el suelo.",
+   "Esperar a que se recupere tu enfriamiento de movimiento y luego ir hacia tu compañero en (27,26) || Está en peligro y necesita ayuda; además, juntos seréis más fuertes contra los otros que os ven.",
+   "Recoger la ración a 7 casillas cuando puedas moverte || Te da flexibilidad para curarte sin gastar el botiquín, que es más valioso y tarda más."
+  ]
+ },
+ {
+  "i": 41,
+  "arm": "S2_C",
+  "ereq": "ereq_5e30e9b8-588f-429c-8e2a-c541b2c265c8",
+  "asiento": "agent_11",
+  "slot": 11,
+  "t0": 4500,
+  "txt": [
+   "Cómete la ración ahora mismo || Recuperarás 15 de vida en 1 segundo mientras esperas a poder moverte, y necesitas curarte antes de que te ataque el asiento 2 que ves a 8 casillas.",
+   "En cuanto puedas moverte, ve hacia los cuchillos a 4 casillas || Son tu mejor arma disponible ahora (8 de daño, enfriamiento corto de 10 tics) y te permitirán defenderte del asiento 2 que ya te ha pegado una vez.",
+   "Después de coger los cuchillos, recoge el camuflaje a 5 casillas || Te permitirá desaparecer de la vista del asiento 2 si te alejas 4+ casillas, dándote tiempo para curarte y reorganizarte después de perder a tu hermano."
+  ]
+ },
+ {
+  "i": 42,
+  "arm": "S2_C",
+  "ereq": "ereq_a1387d25-7973-4565-8814-8088e678a2a6",
+  "asiento": "agent_11",
+  "slot": 11,
+  "t0": 3000,
+  "txt": [
+   "Coger el botiquín a 1 casilla || Con 45 de vida y recibiendo daño, necesitas curables urgentemente antes de que te dejen en las últimas.",
+   "Esperar 5 tics para recuperar movimiento, luego acercarte al asiento 3 o 12 para atacar || Estás rodeado por tres enemigos sin armas pesadas; la lanza a 2 casillas te da ventaja si los atrapas antes de que se organicen.",
+   "Cambiar lanza por espada (a 5 casillas) apenas puedas moverte || La espada hace más daño (10,8 vs 7,2) y el enfrentamiento cercano que ves venir la hace más efectiva que la lanza."
+  ]
+ },
+ {
+  "i": 43,
+  "arm": "S2_C",
+  "ereq": "ereq_944a27b7-3f74-45e9-855e-8aadea3d8649",
+  "asiento": "agent_11",
+  "slot": 11,
+  "t0": 3800,
+  "txt": [
+   "Cómete la ración ahora mismo || Te quedan 8 de vida y recuperarás 15, lo que es crítico antes de que el veneno o un ataque te elimine.",
+   "Muévete hacia los dardos en cuanto puedas (en 4 tics) || Necesitas munición para el arco que te hará falta cuando se acabe la espada, y los dardos están a tu alcance.",
+   "Busca un botiquín en la Fortaleza o los cajones cercanos || Con 8 de vida eres blanco fácil; necesitas curaciones de verdad (50 de vida) para sobrevivir a lo que viene."
+  ]
+ },
+ {
+  "i": 44,
+  "arm": "S2_B",
+  "ereq": "ereq_210d8935-1330-4407-a2e4-633e4d8c84bd",
+  "asiento": "agent_11",
+  "slot": 11,
+  "t0": 800,
+  "txt": [
+   "Esperar 2 tics y luego coger la espada || Es el arma más fuerte disponible y te prepara para combate inmediato sin moverte del área segura.",
+   "Coger el camuflaje ahora mismo || Te permite verte solo si te acercas a 4 casillas, dándote ventaja defensiva mientras recopilas armas.",
+   "Moverte hacia el arco y las flechas en cuanto se enfríe || El arco es el arma más versátil y alcanzada, y con flechas podrás atacar sin exponerte en combate cercano."
+  ]
+ },
+ {
+  "i": 45,
+  "arm": "S2_C",
+  "ereq": "ereq_6fec0115-61db-4979-bdf8-dc09c498e576",
+  "asiento": "agent_10",
+  "slot": 10,
+  "t0": 300,
+  "txt": [
+   "Espera 7 tics para que se te enfríe el movimiento, luego ve hacia las flechas (6 casillas) o los cuchillos cercanos (4 casillas) || Necesitas armamento urgente antes de que te ataque el jugador del asiento 9 que te ve a 4 casillas de distancia.",
+   "En cuanto puedas moverte, dirígete hacia tu hermano en (21,15) para coordinar estrategia y protegerse mutuamente || Estáis solos en vuestra zona y podéis ayudaros: él puede cubrir tu espalda mientras te equipas.",
+   "Recoge los cuchillos más cercanos (4 casillas) antes que las flechas, pues puedes lanzarlos sin esperar a tensar armas || Los cuchillos te dan defensa inmediata mientras te enfríes del movimiento, sin necesidad de otro equipamiento."
+  ]
+ },
+ {
+  "i": 46,
+  "arm": "S2_C",
+  "ereq": "ereq_97d223b5-f974-4be7-884f-e38d1155cb1e",
+  "asiento": "agent_11",
+  "slot": 11,
+  "t0": 700,
+  "txt": [
+   "Esperar 3 tics sin moverte, luego recoger el camuflaje a 2 casillas || Te permitirá verte invisible (no más de 4 casillas si estás quieto) y acercarte sin ser detectado a armas mejores.",
+   "Recoger el botiquín a 2 casillas en cuanto puedas moverte || Necesitas curarte si sufres daño; llevarlo te dará opción de recuperar 50 de vida en momentos críticos.",
+   "Intercambiar tu lanza por el arco a 3 casillas cuando baje el enfriamiento de cambio de arma || El arco tiene mayor alcance (8 vs 2), mejor munición disponible (flechas a 3 casillas) y te permitirá atacar a distancia sin exponerte."
+  ]
+ },
+ {
+  "i": 47,
+  "arm": "S2_B",
+  "ereq": "ereq_83d75f8b-5669-46c1-b9bf-8749cf0567bc",
+  "asiento": "agent_10",
+  "slot": 10,
+  "t0": 3500,
+  "txt": [
+   "Acercarse al asiento 0 (nordeste o este) || Está entero y desarmado a 5 casillas; es tu mejor oportunidad para atacar cuando se termine el enfriamiento de piernas.",
+   "Esperar y observar el movimiento del asiento 0 || Conocer su dirección te ayudará a posicionarte mejor antes de que termine tu enfriamiento de movimiento.",
+   "Preparar la cerbatana cambiando de arma ahora || El cambio de arma cuesta 6 tics; si lo haces ahora, tendrás la cerbatana lista cuando se cierre el anillo y debas moverte."
+  ]
+ },
+ {
+  "i": 48,
+  "arm": "S2_B",
+  "ereq": "ereq_b598badb-de78-4384-84a5-21cbfcc48630",
+  "asiento": "agent_10",
+  "slot": 10,
+  "t0": 2800,
+  "txt": [
+   "Coger la espada del suelo || Tienes dos enemigos adyacentes y estarás armado cuando se te pase el enfriamiento de movimiento en 4 tics.",
+   "Esperar y observar a tu hermano || Tu hermano está tocado a 3 casillas; conviene ver si necesita apoyo o si la situación se estabiliza antes de actuar.",
+   "Coger la racion del suelo de 1 casilla cuando puedas moverte || Con 81 de vida y dos enemigos cerca, tener una racion extra te da más margen antes de necesitar el botiquin de 2 segundos."
+  ]
+ },
+ {
+  "i": 49,
+  "arm": "S2_B",
+  "ereq": "ereq_b598badb-de78-4384-84a5-21cbfcc48630",
+  "asiento": "agent_11",
+  "slot": 11,
+  "t0": 1500,
+  "txt": [
+   "ir hacia el centro del círculo, a 1 casilla || Te acercas al refugio seguro mientras esquivas a los tres enemigos que te rodean en espacios cerrados.",
+   "ir a por la espada, a 1 casilla, lo más cercano || Cambias la lanza por una espada más potente (18 vs 12 de daño) sin perder tiempo, y te alejas del enjambramiento de enemigos.",
+   "ir hacia tu hermano, a 5 casillas || Te reagrupas con tu compañero que está entero y alejado del grupo hostil, mejorando tu posición táctica."
+  ]
+ },
+ {
+  "i": 50,
+  "arm": "S2_B",
+  "ereq": "ereq_d95fdf6c-d1b0-458e-9286-fd7ca5a97267",
+  "asiento": "agent_10",
+  "slot": 10,
+  "t0": 1800,
+  "txt": [
+   "Recoger las flechas del suelo (1 casilla de distancia) || Necesitas munición para el arco, que es más versátil que los cuchillos y tiene mejor alcance para mantener distancia.",
+   "Esperar donde estás || Estás en posición segura dentro del anillo, con tu hermano cerca para coordinarse, y puedes observar si los otros jugadores se acercan.",
+   "Moverte hacia el asiento 3 (en las últimas, a 6 casillas) || Es un objetivo débil que está casi muerto; eliminarlo te suma un punto de puntuación sin gran riesgo."
+  ]
+ }
+]

@@ -1,0 +1,2707 @@
+{
+ "formas/F": {
+  "cuentas": {
+   "asientos": 8,
+   "propuestas": 235,
+   "evaluadas": 243,
+   "aceptadas": 9,
+   "caidas": 5
+  },
+  "aceptadas_por_vida": [
+   0,
+   3,
+   0,
+   1,
+   0,
+   4,
+   0,
+   1
+  ],
+  "veredictos": {
+   "area": 125,
+   "el consejero callo": 104,
+   "vida": 5,
+   "ok": 9
+  },
+  "motivos_caida": {
+   "en la reevaluacion deja de ganar (area)": 5
+  }
+ },
+ "formas/T": {
+  "cuentas": {
+   "asientos": 8,
+   "propuestas": 150,
+   "evaluadas": 150,
+   "aceptadas": 2,
+   "caidas": 2
+  },
+  "aceptadas_por_vida": [
+   0,
+   1,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0
+  ],
+  "veredictos": {
+   "area": 146,
+   "vida": 2,
+   "ok": 2
+  },
+  "motivos_caida": {
+   "en la reevaluacion deja de ganar (area)": 2
+  }
+ },
+ "parte": {
+  "citas": 240,
+  "con_parte": 240,
+  "interrogantes": 0,
+  "cruce": {
+   "sin formas previas|habla": 8,
+   "le rechazaron la anterior|habla": 114,
+   "le rechazaron la anterior|calla": 97,
+   "le aceptaron la anterior|calla": 8,
+   "le aceptaron la anterior|habla": 8
+  }
+ },
+ "despues/F": [
+  {
+   "semilla": 22355496,
+   "slot": 11,
+   "tick": 1352,
+   "d_real": 3.81038,
+   "d_proy": 3.35835,
+   "veredicto": "fallo",
+   "d_A_zona": null
+  },
+  {
+   "semilla": 22355496,
+   "slot": 11,
+   "tick": 7597,
+   "d_real": 2.94889,
+   "d_proy": 3.03952,
+   "veredicto": "acierto",
+   "d_A_zona": null
+  },
+  {
+   "semilla": 22355496,
+   "slot": 11,
+   "tick": 12844,
+   "d_real": 3.97956,
+   "d_proy": 3.45726,
+   "veredicto": "fallo",
+   "d_A_zona": null
+  },
+  {
+   "semilla": 22564954,
+   "slot": 11,
+   "tick": 857,
+   "d_real": 5.4581,
+   "d_proy": 5.57878,
+   "veredicto": "acierto",
+   "d_A_zona": null
+  },
+  {
+   "semilla": 22564954,
+   "slot": 11,
+   "tick": 1730,
+   "d_real": 4.242,
+   "d_proy": 4.84702,
+   "veredicto": "acierto",
+   "d_A_zona": null
+  },
+  {
+   "semilla": 22564954,
+   "slot": 11,
+   "tick": 1774,
+   "d_real": 4.23596,
+   "d_proy": 4.82762,
+   "veredicto": "acierto",
+   "d_A_zona": null
+  },
+  {
+   "semilla": 22564954,
+   "slot": 11,
+   "tick": 3391,
+   "d_real": 4.5675,
+   "d_proy": 4.62045,
+   "veredicto": "acierto",
+   "d_A_zona": null
+  },
+  {
+   "semilla": 22564954,
+   "slot": 11,
+   "tick": 3435,
+   "d_real": 4.60648,
+   "d_proy": 4.49205,
+   "veredicto": "fallo",
+   "d_A_zona": null
+  },
+  {
+   "semilla": 22564954,
+   "slot": 11,
+   "tick": 3436,
+   "d_real": 4.6064,
+   "d_proy": 4.49205,
+   "veredicto": "fallo",
+   "d_A_zona": null
+  },
+  {
+   "semilla": 22564954,
+   "slot": 11,
+   "tick": 3479,
+   "d_real": 4.72215,
+   "d_proy": 4.09206,
+   "veredicto": "fallo",
+   "d_A_zona": null
+  },
+  {
+   "semilla": 22564954,
+   "slot": 11,
+   "tick": 6476,
+   "d_real": 4.1794,
+   "d_proy": 4.32277,
+   "veredicto": "acierto",
+   "d_A_zona": null
+  },
+  {
+   "semilla": 22564954,
+   "slot": 11,
+   "tick": 6498,
+   "d_real": 4.29349,
+   "d_proy": 3.9032,
+   "veredicto": "fallo",
+   "d_A_zona": null
+  },
+  {
+   "semilla": 22669683,
+   "slot": 11,
+   "tick": 7144,
+   "d_real": 4.66377,
+   "d_proy": 4.60321,
+   "veredicto": "fallo",
+   "d_A_zona": null
+  },
+  {
+   "semilla": 22669683,
+   "slot": 11,
+   "tick": 7152,
+   "d_real": 4.61034,
+   "d_proy": 4.63095,
+   "veredicto": "acierto",
+   "d_A_zona": null
+  },
+  {
+   "semilla": 22669683,
+   "slot": 11,
+   "tick": 7153,
+   "d_real": 4.61034,
+   "d_proy": 4.63095,
+   "veredicto": "acierto",
+   "d_A_zona": null
+  },
+  {
+   "semilla": 22669683,
+   "slot": 11,
+   "tick": 7163,
+   "d_real": 4.63942,
+   "d_proy": 4.16413,
+   "veredicto": "fallo",
+   "d_A_zona": null
+  }
+ ],
+ "despues/T": [
+  {
+   "semilla": 22355496,
+   "slot": 11,
+   "tick": 511,
+   "d_real": 3.70096,
+   "d_proy": 3.69922,
+   "veredicto": "acierto",
+   "d_A_zona": null
+  },
+  {
+   "semilla": 22460225,
+   "slot": 11,
+   "tick": 3522,
+   "d_real": 3.16704,
+   "d_proy": 3.01106,
+   "veredicto": "fallo",
+   "d_A_zona": null
+  }
+ ],
+ "emparejada": {
+  "3|2-3": {
+   "F": [
+    0,
+    1
+   ],
+   "T": [
+    0,
+    1
+   ]
+  },
+  "2|1": {
+   "F": [
+    1,
+    1
+   ],
+   "T": [
+    0,
+    0
+   ]
+  },
+  "2|0 (quedarse)": {
+   "F": [
+    0,
+    1
+   ],
+   "T": [
+    0,
+    0
+   ]
+  },
+  "4|4+": {
+   "F": [
+    1,
+    4
+   ],
+   "T": [
+    0,
+    0
+   ]
+  },
+  "4|0 (quedarse)": {
+   "F": [
+    3,
+    5
+   ],
+   "T": [
+    0,
+    0
+   ]
+  },
+  "2|2-3": {
+   "F": [
+    3,
+    4
+   ],
+   "T": [
+    0,
+    0
+   ]
+  },
+  "3|1": {
+   "F": [
+    0,
+    0
+   ],
+   "T": [
+    1,
+    1
+   ]
+  }
+ },
+ "magnitud": {
+  "F": [
+   {
+    "semilla": 22355496,
+    "slot": 11,
+    "t0": 1334,
+    "t1": 1352,
+    "baja": -0.01685,
+    "baja_A": null
+   },
+   {
+    "semilla": 22355496,
+    "slot": 11,
+    "t0": 7584,
+    "t1": 7597,
+    "baja": 0.46046,
+    "baja_A": null
+   },
+   {
+    "semilla": 22355496,
+    "slot": 11,
+    "t0": 12844,
+    "t1": 12844,
+    "baja": 0.0,
+    "baja_A": null
+   },
+   {
+    "semilla": 22564954,
+    "slot": 11,
+    "t0": 857,
+    "t1": 857,
+    "baja": 0.0,
+    "baja_A": null
+   },
+   {
+    "semilla": 22564954,
+    "slot": 11,
+    "t0": 1719,
+    "t1": 1774,
+    "baja": 0.58576,
+    "baja_A": null
+   },
+   {
+    "semilla": 22564954,
+    "slot": 11,
+    "t0": 3370,
+    "t1": 3479,
+    "baja": -0.11031,
+    "baja_A": null
+   },
+   {
+    "semilla": 22564954,
+    "slot": 11,
+    "t0": 6457,
+    "t1": 6498,
+    "baja": -0.07356,
+    "baja_A": null
+   },
+   {
+    "semilla": 22669683,
+    "slot": 11,
+    "t0": 7144,
+    "t1": 7163,
+    "baja": 0.02435,
+    "baja_A": null
+   }
+  ],
+  "T": [
+   {
+    "semilla": 22355496,
+    "slot": 11,
+    "t0": 500,
+    "t1": 511,
+    "baja": 0.08603,
+    "baja_A": null
+   },
+   {
+    "semilla": 22460225,
+    "slot": 11,
+    "t0": 3500,
+    "t1": 3522,
+    "baja": -0.04965,
+    "baja_A": null
+   }
+  ]
+ },
+ "rechazadas": {
+  "L": 18,
+  "recha": {
+   "F": [
+    {
+     "semilla": 22355496,
+     "slot": 10,
+     "tick": 581,
+     "ventaja": -0.03763,
+     "propia": 0.48108,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 10,
+     "tick": 835,
+     "ventaja": -0.15944,
+     "propia": 0.0,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 10,
+     "tick": 1235,
+     "ventaja": -0.23524,
+     "propia": 0.0,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 10,
+     "tick": 1486,
+     "ventaja": 0.0,
+     "propia": 0.0,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 10,
+     "tick": 2125,
+     "ventaja": 0.0,
+     "propia": 0.00039,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 10,
+     "tick": 2139,
+     "ventaja": -0.02629,
+     "propia": -0.14211,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 10,
+     "tick": 3013,
+     "ventaja": -0.05093,
+     "propia": 0.0,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 10,
+     "tick": 3518,
+     "ventaja": 0.0,
+     "propia": -0.46225,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 10,
+     "tick": 3966,
+     "ventaja": 0.0,
+     "propia": 0.02287,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 10,
+     "tick": 4987,
+     "ventaja": -0.01037,
+     "propia": 0.37315,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 10,
+     "tick": 5466,
+     "ventaja": 0.0,
+     "propia": 0.0,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 10,
+     "tick": 6251,
+     "ventaja": 0.0,
+     "propia": 0.0,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 10,
+     "tick": 6547,
+     "ventaja": 0.0,
+     "propia": 0.0,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 10,
+     "tick": 7347,
+     "ventaja": 0.0,
+     "propia": 0.0,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 10,
+     "tick": 7364,
+     "ventaja": 0.0,
+     "propia": 0.0,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 10,
+     "tick": 7827,
+     "ventaja": -0.03053,
+     "propia": 0.0,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 10,
+     "tick": 8230,
+     "ventaja": 0.0,
+     "propia": 0.0,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 10,
+     "tick": 8357,
+     "ventaja": -0.0277,
+     "propia": 0.17054,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 10,
+     "tick": 9600,
+     "ventaja": 0.00121,
+     "propia": -0.00709,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 10,
+     "tick": 12832,
+     "ventaja": 0.0,
+     "propia": -0.06058,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 11,
+     "tick": 615,
+     "ventaja": -0.03638,
+     "propia": -0.00272,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 11,
+     "tick": 620,
+     "ventaja": -0.05145,
+     "propia": -0.00273,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 11,
+     "tick": 835,
+     "ventaja": -0.03373,
+     "propia": -0.02411,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 11,
+     "tick": 2086,
+     "ventaja": -0.29774,
+     "propia": 0.0,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 11,
+     "tick": 2352,
+     "ventaja": 0.01516,
+     "propia": -0.10439,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 11,
+     "tick": 2800,
+     "ventaja": 0.0,
+     "propia": -0.01187,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 11,
+     "tick": 3841,
+     "ventaja": 0.0,
+     "propia": 0.0,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 11,
+     "tick": 4590,
+     "ventaja": 0.0,
+     "propia": -0.01292,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 11,
+     "tick": 6619,
+     "ventaja": 0.0,
+     "propia": 0.00565,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 11,
+     "tick": 6636,
+     "ventaja": 0.0,
+     "propia": 0.0,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 11,
+     "tick": 7044,
+     "ventaja": 0.0,
+     "propia": 0.00565,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 11,
+     "tick": 7833,
+     "ventaja": 0.0,
+     "propia": 0.0,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 11,
+     "tick": 8353,
+     "ventaja": -0.04946,
+     "propia": -0.15655,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 11,
+     "tick": 8590,
+     "ventaja": -0.08636,
+     "propia": 0.0,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 11,
+     "tick": 8838,
+     "ventaja": 0.0,
+     "propia": 0.0,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 11,
+     "tick": 8858,
+     "ventaja": -0.26363,
+     "propia": 0.0,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 11,
+     "tick": 9292,
+     "ventaja": -0.16226,
+     "propia": 0.0,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 11,
+     "tick": 10249,
+     "ventaja": 0.0,
+     "propia": 0.0,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 11,
+     "tick": 10678,
+     "ventaja": 0.04682,
+     "propia": -0.12291,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 11,
+     "tick": 11112,
+     "ventaja": 0.0,
+     "propia": -0.02212,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 11,
+     "tick": 11474,
+     "ventaja": 0.0,
+     "propia": -0.00274,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 11,
+     "tick": 12376,
+     "ventaja": 0.0,
+     "propia": -0.00477,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 11,
+     "tick": 12605,
+     "ventaja": 0.0,
+     "propia": 0.0,
+     "baja_A": null
+    },
+    {
+     "semilla": 22460225,
+     "slot": 10,
+     "tick": 597,
+     "ventaja": -0.02491,
+     "propia": 0.19348,
+     "baja_A": null
+    },
+    {
+     "semilla": 22460225,
+     "slot": 10,
+     "tick": 1090,
+     "ventaja": -0.03702,
+     "propia": 0.10413,
+     "baja_A": null
+    },
+    {
+     "semilla": 22460225,
+     "slot": 10,
+     "tick": 1819,
+     "ventaja": 0.02081,
+     "propia": 0.00192,
+     "baja_A": null
+    },
+    {
+     "semilla": 22460225,
+     "slot": 10,
+     "tick": 2336,
+     "ventaja": -0.03366,
+     "propia": 0.0,
+     "baja_A": null
+    },
+    {
+     "semilla": 22460225,
+     "slot": 10,
+     "tick": 2564,
+     "ventaja": 0.0,
+     "propia": -0.01791,
+     "baja_A": null
+    },
+    {
+     "semilla": 22460225,
+     "slot": 10,
+     "tick": 3243,
+     "ventaja": 0.0,
+     "propia": 0.0,
+     "baja_A": null
+    },
+    {
+     "semilla": 22460225,
+     "slot": 10,
+     "tick": 3558,
+     "ventaja": 0.0,
+     "propia": -0.01791,
+     "baja_A": null
+    },
+    {
+     "semilla": 22460225,
+     "slot": 10,
+     "tick": 3809,
+     "ventaja": 0.0,
+     "propia": 0.01791,
+     "baja_A": null
+    },
+    {
+     "semilla": 22460225,
+     "slot": 10,
+     "tick": 4977,
+     "ventaja": 0.0,
+     "propia": 0.01791,
+     "baja_A": null
+    },
+    {
+     "semilla": 22460225,
+     "slot": 10,
+     "tick": 5053,
+     "ventaja": 0.0,
+     "propia": -0.01791,
+     "baja_A": null
+    },
+    {
+     "semilla": 22460225,
+     "slot": 10,
+     "tick": 5950,
+     "ventaja": 0.03291,
+     "propia": -0.00239,
+     "baja_A": null
+    },
+    {
+     "semilla": 22460225,
+     "slot": 10,
+     "tick": 6555,
+     "ventaja": 0.0,
+     "propia": 0.01791,
+     "baja_A": null
+    },
+    {
+     "semilla": 22460225,
+     "slot": 10,
+     "tick": 8188,
+     "ventaja": 0.0,
+     "propia": -0.61832,
+     "baja_A": null
+    },
+    {
+     "semilla": 22460225,
+     "slot": 11,
+     "tick": 587,
+     "ventaja": -0.01715,
+     "propia": 0.0322,
+     "baja_A": null
+    },
+    {
+     "semilla": 22460225,
+     "slot": 11,
+     "tick": 868,
+     "ventaja": -0.01529,
+     "propia": -0.48288,
+     "baja_A": null
+    },
+    {
+     "semilla": 22460225,
+     "slot": 11,
+     "tick": 1097,
+     "ventaja": -0.07967,
+     "propia": 0.72838,
+     "baja_A": null
+    },
+    {
+     "semilla": 22460225,
+     "slot": 11,
+     "tick": 2542,
+     "ventaja": -0.00518,
+     "propia": -0.00572,
+     "baja_A": null
+    },
+    {
+     "semilla": 22460225,
+     "slot": 11,
+     "tick": 3116,
+     "ventaja": -0.00144,
+     "propia": -0.00854,
+     "baja_A": null
+    },
+    {
+     "semilla": 22460225,
+     "slot": 11,
+     "tick": 3121,
+     "ventaja": -0.01928,
+     "propia": 0.01052,
+     "baja_A": null
+    },
+    {
+     "semilla": 22460225,
+     "slot": 11,
+     "tick": 5843,
+     "ventaja": 0.0,
+     "propia": 0.00244,
+     "baja_A": null
+    },
+    {
+     "semilla": 22460225,
+     "slot": 11,
+     "tick": 6447,
+     "ventaja": 0.0,
+     "propia": 0.01827,
+     "baja_A": null
+    },
+    {
+     "semilla": 22460225,
+     "slot": 11,
+     "tick": 6789,
+     "ventaja": 0.0,
+     "propia": -0.01827,
+     "baja_A": null
+    },
+    {
+     "semilla": 22460225,
+     "slot": 11,
+     "tick": 7263,
+     "ventaja": 0.0,
+     "propia": 0.01583,
+     "baja_A": null
+    },
+    {
+     "semilla": 22460225,
+     "slot": 11,
+     "tick": 7582,
+     "ventaja": -0.04979,
+     "propia": -0.01827,
+     "baja_A": null
+    },
+    {
+     "semilla": 22460225,
+     "slot": 11,
+     "tick": 8493,
+     "ventaja": 0.01934,
+     "propia": -0.18152,
+     "baja_A": null
+    },
+    {
+     "semilla": 22460225,
+     "slot": 11,
+     "tick": 8855,
+     "ventaja": 0.0,
+     "propia": -0.00842,
+     "baja_A": null
+    },
+    {
+     "semilla": 22460225,
+     "slot": 11,
+     "tick": 8862,
+     "ventaja": -0.25757,
+     "propia": 0.00632,
+     "baja_A": null
+    },
+    {
+     "semilla": 22564954,
+     "slot": 10,
+     "tick": 593,
+     "ventaja": -0.00498,
+     "propia": -0.04374,
+     "baja_A": null
+    },
+    {
+     "semilla": 22564954,
+     "slot": 10,
+     "tick": 839,
+     "ventaja": 0.0,
+     "propia": -0.16542,
+     "baja_A": null
+    },
+    {
+     "semilla": 22564954,
+     "slot": 11,
+     "tick": 615,
+     "ventaja": -0.04669,
+     "propia": -0.01377,
+     "baja_A": null
+    },
+    {
+     "semilla": 22564954,
+     "slot": 11,
+     "tick": 1244,
+     "ventaja": 0.0357,
+     "propia": 0.00577,
+     "baja_A": null
+    },
+    {
+     "semilla": 22564954,
+     "slot": 11,
+     "tick": 1343,
+     "ventaja": 0.03845,
+     "propia": -0.00628,
+     "baja_A": null
+    },
+    {
+     "semilla": 22564954,
+     "slot": 11,
+     "tick": 2109,
+     "ventaja": -0.01593,
+     "propia": 0.05094,
+     "baja_A": null
+    },
+    {
+     "semilla": 22564954,
+     "slot": 11,
+     "tick": 2714,
+     "ventaja": -0.00793,
+     "propia": 0.00185,
+     "baja_A": null
+    },
+    {
+     "semilla": 22564954,
+     "slot": 11,
+     "tick": 3086,
+     "ventaja": -0.05442,
+     "propia": 0.00165,
+     "baja_A": null
+    },
+    {
+     "semilla": 22564954,
+     "slot": 11,
+     "tick": 3849,
+     "ventaja": -0.02855,
+     "propia": -0.00302,
+     "baja_A": null
+    },
+    {
+     "semilla": 22564954,
+     "slot": 11,
+     "tick": 4121,
+     "ventaja": -0.03206,
+     "propia": 0.00116,
+     "baja_A": null
+    },
+    {
+     "semilla": 22564954,
+     "slot": 11,
+     "tick": 4784,
+     "ventaja": 0.0,
+     "propia": 0.03881,
+     "baja_A": null
+    },
+    {
+     "semilla": 22564954,
+     "slot": 11,
+     "tick": 6609,
+     "ventaja": -0.02958,
+     "propia": 0.03946,
+     "baja_A": null
+    },
+    {
+     "semilla": 22564954,
+     "slot": 11,
+     "tick": 7463,
+     "ventaja": -0.05014,
+     "propia": 0.0241,
+     "baja_A": null
+    },
+    {
+     "semilla": 22564954,
+     "slot": 11,
+     "tick": 7746,
+     "ventaja": -0.02653,
+     "propia": -0.01593,
+     "baja_A": null
+    },
+    {
+     "semilla": 22564954,
+     "slot": 11,
+     "tick": 8126,
+     "ventaja": -0.07017,
+     "propia": 0.13465,
+     "baja_A": null
+    },
+    {
+     "semilla": 22669683,
+     "slot": 10,
+     "tick": 598,
+     "ventaja": -0.06743,
+     "propia": -0.00273,
+     "baja_A": null
+    },
+    {
+     "semilla": 22669683,
+     "slot": 10,
+     "tick": 838,
+     "ventaja": 0.0,
+     "propia": 0.0,
+     "baja_A": null
+    },
+    {
+     "semilla": 22669683,
+     "slot": 10,
+     "tick": 846,
+     "ventaja": 0.0,
+     "propia": 0.0,
+     "baja_A": null
+    },
+    {
+     "semilla": 22669683,
+     "slot": 10,
+     "tick": 1215,
+     "ventaja": -0.12323,
+     "propia": -0.00094,
+     "baja_A": null
+    },
+    {
+     "semilla": 22669683,
+     "slot": 10,
+     "tick": 1683,
+     "ventaja": 0.0,
+     "propia": 0.00533,
+     "baja_A": null
+    },
+    {
+     "semilla": 22669683,
+     "slot": 10,
+     "tick": 2091,
+     "ventaja": -0.1325,
+     "propia": 0.0,
+     "baja_A": null
+    },
+    {
+     "semilla": 22669683,
+     "slot": 10,
+     "tick": 2440,
+     "ventaja": 0.0,
+     "propia": -0.00699,
+     "baja_A": null
+    },
+    {
+     "semilla": 22669683,
+     "slot": 10,
+     "tick": 3094,
+     "ventaja": -0.0993,
+     "propia": 0.0,
+     "baja_A": null
+    },
+    {
+     "semilla": 22669683,
+     "slot": 10,
+     "tick": 3616,
+     "ventaja": -0.01199,
+     "propia": 0.00142,
+     "baja_A": null
+    },
+    {
+     "semilla": 22669683,
+     "slot": 10,
+     "tick": 5242,
+     "ventaja": -0.07537,
+     "propia": 0.0,
+     "baja_A": null
+    },
+    {
+     "semilla": 22669683,
+     "slot": 10,
+     "tick": 5539,
+     "ventaja": -0.21186,
+     "propia": -0.01357,
+     "baja_A": null
+    },
+    {
+     "semilla": 22669683,
+     "slot": 10,
+     "tick": 5554,
+     "ventaja": -0.35017,
+     "propia": 0.01224,
+     "baja_A": null
+    },
+    {
+     "semilla": 22669683,
+     "slot": 10,
+     "tick": 5954,
+     "ventaja": 0.0,
+     "propia": 0.84966,
+     "baja_A": null
+    },
+    {
+     "semilla": 22669683,
+     "slot": 10,
+     "tick": 6114,
+     "ventaja": 0.0,
+     "propia": 0.00133,
+     "baja_A": null
+    },
+    {
+     "semilla": 22669683,
+     "slot": 10,
+     "tick": 6127,
+     "ventaja": -0.18059,
+     "propia": 0.83742,
+     "baja_A": null
+    },
+    {
+     "semilla": 22669683,
+     "slot": 10,
+     "tick": 6460,
+     "ventaja": 0.0,
+     "propia": -0.84966,
+     "baja_A": null
+    },
+    {
+     "semilla": 22669683,
+     "slot": 10,
+     "tick": 6704,
+     "ventaja": 0.0,
+     "propia": 0.84966,
+     "baja_A": null
+    },
+    {
+     "semilla": 22669683,
+     "slot": 10,
+     "tick": 7089,
+     "ventaja": -0.09712,
+     "propia": 0.00133,
+     "baja_A": null
+    },
+    {
+     "semilla": 22669683,
+     "slot": 10,
+     "tick": 7104,
+     "ventaja": -0.09712,
+     "propia": 0.83742,
+     "baja_A": null
+    },
+    {
+     "semilla": 22669683,
+     "slot": 10,
+     "tick": 7684,
+     "ventaja": 0.0,
+     "propia": 0.01224,
+     "baja_A": null
+    },
+    {
+     "semilla": 22669683,
+     "slot": 10,
+     "tick": 7931,
+     "ventaja": -0.14668,
+     "propia": -0.83742,
+     "baja_A": null
+    },
+    {
+     "semilla": 22669683,
+     "slot": 10,
+     "tick": 7946,
+     "ventaja": -0.14872,
+     "propia": 0.84966,
+     "baja_A": null
+    },
+    {
+     "semilla": 22669683,
+     "slot": 10,
+     "tick": 8274,
+     "ventaja": -0.20978,
+     "propia": 0.01273,
+     "baja_A": null
+    },
+    {
+     "semilla": 22669683,
+     "slot": 11,
+     "tick": 701,
+     "ventaja": -0.04795,
+     "propia": 0.0,
+     "baja_A": null
+    },
+    {
+     "semilla": 22669683,
+     "slot": 11,
+     "tick": 837,
+     "ventaja": -0.01179,
+     "propia": 0.0,
+     "baja_A": null
+    },
+    {
+     "semilla": 22669683,
+     "slot": 11,
+     "tick": 1411,
+     "ventaja": 0.0,
+     "propia": -0.07747,
+     "baja_A": null
+    },
+    {
+     "semilla": 22669683,
+     "slot": 11,
+     "tick": 2630,
+     "ventaja": -0.07794,
+     "propia": -0.05234,
+     "baja_A": null
+    },
+    {
+     "semilla": 22669683,
+     "slot": 11,
+     "tick": 3464,
+     "ventaja": 0.0,
+     "propia": -0.08561,
+     "baja_A": null
+    },
+    {
+     "semilla": 22669683,
+     "slot": 11,
+     "tick": 4445,
+     "ventaja": 0.0,
+     "propia": -0.01547,
+     "baja_A": null
+    },
+    {
+     "semilla": 22669683,
+     "slot": 11,
+     "tick": 4588,
+     "ventaja": 0.0,
+     "propia": 0.0292,
+     "baja_A": null
+    },
+    {
+     "semilla": 22669683,
+     "slot": 11,
+     "tick": 4602,
+     "ventaja": -0.0124,
+     "propia": -0.02377,
+     "baja_A": null
+    },
+    {
+     "semilla": 22669683,
+     "slot": 11,
+     "tick": 4829,
+     "ventaja": 0.0,
+     "propia": -0.07285,
+     "baja_A": null
+    },
+    {
+     "semilla": 22669683,
+     "slot": 11,
+     "tick": 5093,
+     "ventaja": 0.01589,
+     "propia": 0.03282,
+     "baja_A": null
+    },
+    {
+     "semilla": 22669683,
+     "slot": 11,
+     "tick": 5329,
+     "ventaja": -0.05484,
+     "propia": 0.02774,
+     "baja_A": null
+    },
+    {
+     "semilla": 22669683,
+     "slot": 11,
+     "tick": 5580,
+     "ventaja": -0.04868,
+     "propia": -0.03282,
+     "baja_A": null
+    },
+    {
+     "semilla": 22669683,
+     "slot": 11,
+     "tick": 5865,
+     "ventaja": 0.00162,
+     "propia": 0.03282,
+     "baja_A": null
+    },
+    {
+     "semilla": 22669683,
+     "slot": 11,
+     "tick": 6120,
+     "ventaja": -0.12546,
+     "propia": -0.00713,
+     "baja_A": null
+    },
+    {
+     "semilla": 22669683,
+     "slot": 11,
+     "tick": 6876,
+     "ventaja": -0.12838,
+     "propia": 0.05343,
+     "baja_A": null
+    },
+    {
+     "semilla": 22669683,
+     "slot": 11,
+     "tick": 7343,
+     "ventaja": -0.02497,
+     "propia": 0.02774,
+     "baja_A": null
+    },
+    {
+     "semilla": 22669683,
+     "slot": 11,
+     "tick": 7636,
+     "ventaja": -0.0278,
+     "propia": 0.03282,
+     "baja_A": null
+    }
+   ],
+   "T": [
+    {
+     "semilla": 22355496,
+     "slot": 10,
+     "tick": 500,
+     "ventaja": -0.02743,
+     "propia": -0.05049,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 10,
+     "tick": 750,
+     "ventaja": -0.08276,
+     "propia": 0.0,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 10,
+     "tick": 1000,
+     "ventaja": -0.01901,
+     "propia": 0.0,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 10,
+     "tick": 1250,
+     "ventaja": -0.09346,
+     "propia": 0.0,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 10,
+     "tick": 1500,
+     "ventaja": -0.02048,
+     "propia": 0.0,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 10,
+     "tick": 1750,
+     "ventaja": -0.15336,
+     "propia": 0.0,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 10,
+     "tick": 2000,
+     "ventaja": 0.0,
+     "propia": 0.0,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 10,
+     "tick": 2250,
+     "ventaja": -0.08466,
+     "propia": -0.03097,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 11,
+     "tick": 750,
+     "ventaja": -0.04373,
+     "propia": 0.0,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 11,
+     "tick": 1000,
+     "ventaja": -0.02063,
+     "propia": 0.02398,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 11,
+     "tick": 1250,
+     "ventaja": -0.04706,
+     "propia": 0.0,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 11,
+     "tick": 1500,
+     "ventaja": -0.04045,
+     "propia": -0.03055,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 11,
+     "tick": 1750,
+     "ventaja": -0.01449,
+     "propia": 0.00313,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 11,
+     "tick": 2000,
+     "ventaja": 0.0,
+     "propia": 0.00729,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 11,
+     "tick": 2250,
+     "ventaja": -0.07724,
+     "propia": 0.00214,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 11,
+     "tick": 2500,
+     "ventaja": 0.0,
+     "propia": 0.52955,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 11,
+     "tick": 2750,
+     "ventaja": -0.01832,
+     "propia": -0.00773,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 11,
+     "tick": 3000,
+     "ventaja": 0.0,
+     "propia": -0.00646,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 11,
+     "tick": 3250,
+     "ventaja": -0.03244,
+     "propia": 0.00262,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 11,
+     "tick": 3500,
+     "ventaja": -0.02314,
+     "propia": 0.00072,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 11,
+     "tick": 3750,
+     "ventaja": -0.03484,
+     "propia": 0.00222,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 11,
+     "tick": 4000,
+     "ventaja": -0.0542,
+     "propia": 0.00204,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 11,
+     "tick": 4250,
+     "ventaja": -0.08128,
+     "propia": 0.00187,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 11,
+     "tick": 4500,
+     "ventaja": -0.01707,
+     "propia": 0.00342,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 11,
+     "tick": 4750,
+     "ventaja": -0.05362,
+     "propia": 0.00158,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 11,
+     "tick": 5000,
+     "ventaja": -0.09326,
+     "propia": 0.12667,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 11,
+     "tick": 5250,
+     "ventaja": -0.06663,
+     "propia": 0.06381,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 11,
+     "tick": 5500,
+     "ventaja": -0.02802,
+     "propia": 0.00119,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 11,
+     "tick": 5750,
+     "ventaja": -0.02386,
+     "propia": 0.00108,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 11,
+     "tick": 6000,
+     "ventaja": -0.05603,
+     "propia": 0.00101,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 11,
+     "tick": 6250,
+     "ventaja": -0.04139,
+     "propia": -0.0608,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 11,
+     "tick": 6500,
+     "ventaja": -0.05861,
+     "propia": 0.00084,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 11,
+     "tick": 6750,
+     "ventaja": 0.01206,
+     "propia": 0.00078,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 11,
+     "tick": 7000,
+     "ventaja": 0.02205,
+     "propia": -0.06055,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 11,
+     "tick": 7250,
+     "ventaja": -0.19061,
+     "propia": 0.00066,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 11,
+     "tick": 7500,
+     "ventaja": -0.0808,
+     "propia": 0.00062,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 11,
+     "tick": 7750,
+     "ventaja": -0.0024,
+     "propia": 0.00056,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 11,
+     "tick": 8000,
+     "ventaja": 0.0,
+     "propia": 0.05509,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 11,
+     "tick": 8250,
+     "ventaja": 0.0,
+     "propia": 0.00047,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 11,
+     "tick": 8500,
+     "ventaja": -0.01845,
+     "propia": 0.00044,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 11,
+     "tick": 8750,
+     "ventaja": 0.0,
+     "propia": -0.48874,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 11,
+     "tick": 9000,
+     "ventaja": -0.09234,
+     "propia": -0.75308,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 11,
+     "tick": 9250,
+     "ventaja": 0.0,
+     "propia": -0.67218,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 11,
+     "tick": 9500,
+     "ventaja": -0.04788,
+     "propia": -0.67184,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 11,
+     "tick": 9750,
+     "ventaja": -0.04129,
+     "propia": -0.12241,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 11,
+     "tick": 10000,
+     "ventaja": 0.0,
+     "propia": 0.02342,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 11,
+     "tick": 10250,
+     "ventaja": -0.03265,
+     "propia": 0.00023,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 11,
+     "tick": 10500,
+     "ventaja": -0.02195,
+     "propia": 0.57544,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 11,
+     "tick": 10750,
+     "ventaja": -0.12934,
+     "propia": -0.02334,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 11,
+     "tick": 11000,
+     "ventaja": 0.0,
+     "propia": -0.15621,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 11,
+     "tick": 11250,
+     "ventaja": -0.14984,
+     "propia": -0.0448,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 11,
+     "tick": 11500,
+     "ventaja": -0.33321,
+     "propia": -0.13359,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 11,
+     "tick": 11750,
+     "ventaja": -0.23493,
+     "propia": 0.00014,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 11,
+     "tick": 12000,
+     "ventaja": -0.12779,
+     "propia": -0.13953,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 11,
+     "tick": 12250,
+     "ventaja": -0.21819,
+     "propia": -0.08087,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 11,
+     "tick": 12500,
+     "ventaja": -0.02991,
+     "propia": -0.05935,
+     "baja_A": null
+    },
+    {
+     "semilla": 22460225,
+     "slot": 10,
+     "tick": 500,
+     "ventaja": -0.02043,
+     "propia": -0.05269,
+     "baja_A": null
+    },
+    {
+     "semilla": 22460225,
+     "slot": 10,
+     "tick": 750,
+     "ventaja": 0.00604,
+     "propia": 0.02524,
+     "baja_A": null
+    },
+    {
+     "semilla": 22460225,
+     "slot": 10,
+     "tick": 1000,
+     "ventaja": -0.03104,
+     "propia": 0.04127,
+     "baja_A": null
+    },
+    {
+     "semilla": 22460225,
+     "slot": 10,
+     "tick": 1250,
+     "ventaja": -0.11425,
+     "propia": 0.02405,
+     "baja_A": null
+    },
+    {
+     "semilla": 22460225,
+     "slot": 10,
+     "tick": 1500,
+     "ventaja": -0.02183,
+     "propia": 0.0205,
+     "baja_A": null
+    },
+    {
+     "semilla": 22460225,
+     "slot": 10,
+     "tick": 1750,
+     "ventaja": -0.12934,
+     "propia": 0.01111,
+     "baja_A": null
+    },
+    {
+     "semilla": 22460225,
+     "slot": 10,
+     "tick": 2000,
+     "ventaja": 0.0,
+     "propia": 0.0,
+     "baja_A": null
+    },
+    {
+     "semilla": 22460225,
+     "slot": 10,
+     "tick": 2250,
+     "ventaja": -0.07267,
+     "propia": -0.47736,
+     "baja_A": null
+    },
+    {
+     "semilla": 22460225,
+     "slot": 10,
+     "tick": 2500,
+     "ventaja": -0.01792,
+     "propia": 0.59186,
+     "baja_A": null
+    },
+    {
+     "semilla": 22460225,
+     "slot": 10,
+     "tick": 2750,
+     "ventaja": -0.00718,
+     "propia": -0.05823,
+     "baja_A": null
+    },
+    {
+     "semilla": 22460225,
+     "slot": 10,
+     "tick": 3000,
+     "ventaja": 0.0,
+     "propia": -0.51807,
+     "baja_A": null
+    },
+    {
+     "semilla": 22460225,
+     "slot": 10,
+     "tick": 3250,
+     "ventaja": -0.07175,
+     "propia": 0.55516,
+     "baja_A": null
+    },
+    {
+     "semilla": 22460225,
+     "slot": 10,
+     "tick": 3500,
+     "ventaja": 0.0032,
+     "propia": 0.0,
+     "baja_A": null
+    },
+    {
+     "semilla": 22460225,
+     "slot": 10,
+     "tick": 3750,
+     "ventaja": -0.04263,
+     "propia": -0.55516,
+     "baja_A": null
+    },
+    {
+     "semilla": 22460225,
+     "slot": 10,
+     "tick": 4000,
+     "ventaja": -0.06225,
+     "propia": 0.51807,
+     "baja_A": null
+    },
+    {
+     "semilla": 22460225,
+     "slot": 10,
+     "tick": 4250,
+     "ventaja": 0.0,
+     "propia": 0.03704,
+     "baja_A": null
+    },
+    {
+     "semilla": 22460225,
+     "slot": 10,
+     "tick": 4500,
+     "ventaja": -0.03098,
+     "propia": -0.51807,
+     "baja_A": null
+    },
+    {
+     "semilla": 22460225,
+     "slot": 10,
+     "tick": 4750,
+     "ventaja": -0.07181,
+     "propia": 0.48103,
+     "baja_A": null
+    },
+    {
+     "semilla": 22460225,
+     "slot": 10,
+     "tick": 5000,
+     "ventaja": -0.01465,
+     "propia": 0.37353,
+     "baja_A": null
+    },
+    {
+     "semilla": 22460225,
+     "slot": 10,
+     "tick": 5250,
+     "ventaja": -0.09024,
+     "propia": 0.0,
+     "baja_A": null
+    },
+    {
+     "semilla": 22460225,
+     "slot": 10,
+     "tick": 5500,
+     "ventaja": -0.01208,
+     "propia": -0.37353,
+     "baja_A": null
+    },
+    {
+     "semilla": 22460225,
+     "slot": 10,
+     "tick": 5750,
+     "ventaja": -0.00182,
+     "propia": 0.0,
+     "baja_A": null
+    },
+    {
+     "semilla": 22460225,
+     "slot": 10,
+     "tick": 6000,
+     "ventaja": -0.0316,
+     "propia": 0.37353,
+     "baja_A": null
+    },
+    {
+     "semilla": 22460225,
+     "slot": 10,
+     "tick": 6250,
+     "ventaja": -0.05501,
+     "propia": 0.0,
+     "baja_A": null
+    },
+    {
+     "semilla": 22460225,
+     "slot": 10,
+     "tick": 6500,
+     "ventaja": 0.01258,
+     "propia": 0.0,
+     "baja_A": null
+    },
+    {
+     "semilla": 22460225,
+     "slot": 10,
+     "tick": 6750,
+     "ventaja": -0.00206,
+     "propia": 0.37353,
+     "baja_A": null
+    },
+    {
+     "semilla": 22460225,
+     "slot": 10,
+     "tick": 7000,
+     "ventaja": -0.01467,
+     "propia": 0.0,
+     "baja_A": null
+    },
+    {
+     "semilla": 22460225,
+     "slot": 10,
+     "tick": 7250,
+     "ventaja": -0.02811,
+     "propia": -0.37353,
+     "baja_A": null
+    },
+    {
+     "semilla": 22460225,
+     "slot": 10,
+     "tick": 7500,
+     "ventaja": -0.03135,
+     "propia": 0.0,
+     "baja_A": null
+    },
+    {
+     "semilla": 22460225,
+     "slot": 10,
+     "tick": 7750,
+     "ventaja": -0.00251,
+     "propia": 0.0,
+     "baja_A": null
+    },
+    {
+     "semilla": 22460225,
+     "slot": 10,
+     "tick": 8000,
+     "ventaja": -0.06664,
+     "propia": -0.3896,
+     "baja_A": null
+    },
+    {
+     "semilla": 22460225,
+     "slot": 11,
+     "tick": 500,
+     "ventaja": -0.02321,
+     "propia": -0.03856,
+     "baja_A": null
+    },
+    {
+     "semilla": 22460225,
+     "slot": 11,
+     "tick": 750,
+     "ventaja": 0.0,
+     "propia": 0.07919,
+     "baja_A": null
+    },
+    {
+     "semilla": 22460225,
+     "slot": 11,
+     "tick": 1000,
+     "ventaja": -0.04367,
+     "propia": -0.07919,
+     "baja_A": null
+    },
+    {
+     "semilla": 22460225,
+     "slot": 11,
+     "tick": 1250,
+     "ventaja": -0.10412,
+     "propia": 0.0,
+     "baja_A": null
+    },
+    {
+     "semilla": 22460225,
+     "slot": 11,
+     "tick": 1500,
+     "ventaja": -0.02711,
+     "propia": 0.0,
+     "baja_A": null
+    },
+    {
+     "semilla": 22460225,
+     "slot": 11,
+     "tick": 1750,
+     "ventaja": -0.17558,
+     "propia": 0.0,
+     "baja_A": null
+    },
+    {
+     "semilla": 22460225,
+     "slot": 11,
+     "tick": 2000,
+     "ventaja": 0.0,
+     "propia": 0.0,
+     "baja_A": null
+    },
+    {
+     "semilla": 22460225,
+     "slot": 11,
+     "tick": 2250,
+     "ventaja": -0.07231,
+     "propia": -0.15492,
+     "baja_A": null
+    },
+    {
+     "semilla": 22460225,
+     "slot": 11,
+     "tick": 2500,
+     "ventaja": 0.017,
+     "propia": -0.12852,
+     "baja_A": null
+    },
+    {
+     "semilla": 22460225,
+     "slot": 11,
+     "tick": 2750,
+     "ventaja": 0.01489,
+     "propia": 0.0,
+     "baja_A": null
+    },
+    {
+     "semilla": 22460225,
+     "slot": 11,
+     "tick": 3000,
+     "ventaja": 0.0,
+     "propia": 0.12852,
+     "baja_A": null
+    },
+    {
+     "semilla": 22460225,
+     "slot": 11,
+     "tick": 3250,
+     "ventaja": 0.0,
+     "propia": -0.12852,
+     "baja_A": null
+    },
+    {
+     "semilla": 22460225,
+     "slot": 11,
+     "tick": 3750,
+     "ventaja": -0.02739,
+     "propia": 0.12751,
+     "baja_A": null
+    },
+    {
+     "semilla": 22460225,
+     "slot": 11,
+     "tick": 4000,
+     "ventaja": -0.04349,
+     "propia": -0.12751,
+     "baja_A": null
+    },
+    {
+     "semilla": 22460225,
+     "slot": 11,
+     "tick": 4250,
+     "ventaja": -0.01387,
+     "propia": 0.0,
+     "baja_A": null
+    },
+    {
+     "semilla": 22460225,
+     "slot": 11,
+     "tick": 4500,
+     "ventaja": 0.0,
+     "propia": 0.0,
+     "baja_A": null
+    },
+    {
+     "semilla": 22460225,
+     "slot": 11,
+     "tick": 4750,
+     "ventaja": -0.15449,
+     "propia": -0.12751,
+     "baja_A": null
+    },
+    {
+     "semilla": 22460225,
+     "slot": 11,
+     "tick": 5000,
+     "ventaja": 0.02696,
+     "propia": 0.00701,
+     "baja_A": null
+    },
+    {
+     "semilla": 22460225,
+     "slot": 11,
+     "tick": 5250,
+     "ventaja": 0.03659,
+     "propia": -0.03565,
+     "baja_A": null
+    },
+    {
+     "semilla": 22460225,
+     "slot": 11,
+     "tick": 5500,
+     "ventaja": -0.06287,
+     "propia": -0.40179,
+     "baja_A": null
+    },
+    {
+     "semilla": 22460225,
+     "slot": 11,
+     "tick": 5750,
+     "ventaja": -0.04695,
+     "propia": 0.45087,
+     "baja_A": null
+    },
+    {
+     "semilla": 22460225,
+     "slot": 11,
+     "tick": 6000,
+     "ventaja": -0.05036,
+     "propia": 0.43744,
+     "baja_A": null
+    },
+    {
+     "semilla": 22460225,
+     "slot": 11,
+     "tick": 6250,
+     "ventaja": -0.07017,
+     "propia": 0.0,
+     "baja_A": null
+    },
+    {
+     "semilla": 22460225,
+     "slot": 11,
+     "tick": 6500,
+     "ventaja": -0.13564,
+     "propia": 0.01343,
+     "baja_A": null
+    },
+    {
+     "semilla": 22460225,
+     "slot": 11,
+     "tick": 6750,
+     "ventaja": -0.21814,
+     "propia": -0.04908,
+     "baja_A": null
+    },
+    {
+     "semilla": 22460225,
+     "slot": 11,
+     "tick": 7000,
+     "ventaja": -0.05503,
+     "propia": -0.04908,
+     "baja_A": null
+    },
+    {
+     "semilla": 22460225,
+     "slot": 11,
+     "tick": 7250,
+     "ventaja": 0.0018,
+     "propia": -0.40179,
+     "baja_A": null
+    },
+    {
+     "semilla": 22460225,
+     "slot": 11,
+     "tick": 7500,
+     "ventaja": -0.01819,
+     "propia": 0.45087,
+     "baja_A": null
+    },
+    {
+     "semilla": 22460225,
+     "slot": 11,
+     "tick": 7750,
+     "ventaja": 0.0313,
+     "propia": 0.43744,
+     "baja_A": null
+    },
+    {
+     "semilla": 22460225,
+     "slot": 11,
+     "tick": 8000,
+     "ventaja": 0.01138,
+     "propia": 0.01343,
+     "baja_A": null
+    },
+    {
+     "semilla": 22460225,
+     "slot": 11,
+     "tick": 8250,
+     "ventaja": 0.0,
+     "propia": -0.00456,
+     "baja_A": null
+    },
+    {
+     "semilla": 22564954,
+     "slot": 10,
+     "tick": 500,
+     "ventaja": 0.03986,
+     "propia": 0.01541,
+     "baja_A": null
+    },
+    {
+     "semilla": 22564954,
+     "slot": 10,
+     "tick": 750,
+     "ventaja": 0.0,
+     "propia": 0.36093,
+     "baja_A": null
+    },
+    {
+     "semilla": 22564954,
+     "slot": 11,
+     "tick": 500,
+     "ventaja": 0.00646,
+     "propia": -0.13202,
+     "baja_A": null
+    },
+    {
+     "semilla": 22564954,
+     "slot": 11,
+     "tick": 750,
+     "ventaja": 0.0,
+     "propia": -0.18157,
+     "baja_A": null
+    },
+    {
+     "semilla": 22564954,
+     "slot": 11,
+     "tick": 1000,
+     "ventaja": -0.06188,
+     "propia": 0.08601,
+     "baja_A": null
+    },
+    {
+     "semilla": 22564954,
+     "slot": 11,
+     "tick": 1250,
+     "ventaja": 0.044,
+     "propia": 0.49322,
+     "baja_A": null
+    },
+    {
+     "semilla": 22564954,
+     "slot": 11,
+     "tick": 1500,
+     "ventaja": -0.04729,
+     "propia": -0.32748,
+     "baja_A": null
+    },
+    {
+     "semilla": 22669683,
+     "slot": 10,
+     "tick": 500,
+     "ventaja": -0.01179,
+     "propia": -0.04379,
+     "baja_A": null
+    },
+    {
+     "semilla": 22669683,
+     "slot": 10,
+     "tick": 750,
+     "ventaja": -0.0586,
+     "propia": 0.0,
+     "baja_A": null
+    },
+    {
+     "semilla": 22669683,
+     "slot": 10,
+     "tick": 1000,
+     "ventaja": -0.00986,
+     "propia": 0.00597,
+     "baja_A": null
+    },
+    {
+     "semilla": 22669683,
+     "slot": 10,
+     "tick": 1250,
+     "ventaja": -0.01917,
+     "propia": 0.02211,
+     "baja_A": null
+    },
+    {
+     "semilla": 22669683,
+     "slot": 10,
+     "tick": 1500,
+     "ventaja": -0.02832,
+     "propia": -0.11122,
+     "baja_A": null
+    },
+    {
+     "semilla": 22669683,
+     "slot": 10,
+     "tick": 1750,
+     "ventaja": 0.04826,
+     "propia": 0.15668,
+     "baja_A": null
+    },
+    {
+     "semilla": 22669683,
+     "slot": 10,
+     "tick": 2000,
+     "ventaja": 0.0,
+     "propia": 0.0,
+     "baja_A": null
+    },
+    {
+     "semilla": 22669683,
+     "slot": 10,
+     "tick": 2250,
+     "ventaja": -0.07793,
+     "propia": 0.0,
+     "baja_A": null
+    },
+    {
+     "semilla": 22669683,
+     "slot": 10,
+     "tick": 2500,
+     "ventaja": -0.04505,
+     "propia": 0.0,
+     "baja_A": null
+    },
+    {
+     "semilla": 22669683,
+     "slot": 10,
+     "tick": 2750,
+     "ventaja": -0.05642,
+     "propia": -0.10491,
+     "baja_A": null
+    },
+    {
+     "semilla": 22669683,
+     "slot": 11,
+     "tick": 500,
+     "ventaja": -0.03963,
+     "propia": -0.06572,
+     "baja_A": null
+    },
+    {
+     "semilla": 22669683,
+     "slot": 11,
+     "tick": 750,
+     "ventaja": -0.01144,
+     "propia": 0.0,
+     "baja_A": null
+    },
+    {
+     "semilla": 22669683,
+     "slot": 11,
+     "tick": 1000,
+     "ventaja": -0.03515,
+     "propia": -0.01044,
+     "baja_A": null
+    },
+    {
+     "semilla": 22669683,
+     "slot": 11,
+     "tick": 1250,
+     "ventaja": -0.08884,
+     "propia": 0.0073,
+     "baja_A": null
+    },
+    {
+     "semilla": 22669683,
+     "slot": 11,
+     "tick": 1500,
+     "ventaja": -0.25744,
+     "propia": 0.00465,
+     "baja_A": null
+    },
+    {
+     "semilla": 22669683,
+     "slot": 11,
+     "tick": 1750,
+     "ventaja": 0.0,
+     "propia": -0.12447,
+     "baja_A": null
+    },
+    {
+     "semilla": 22669683,
+     "slot": 11,
+     "tick": 2000,
+     "ventaja": -0.11397,
+     "propia": 0.0,
+     "baja_A": null
+    },
+    {
+     "semilla": 22669683,
+     "slot": 11,
+     "tick": 2250,
+     "ventaja": -0.09231,
+     "propia": 0.0,
+     "baja_A": null
+    },
+    {
+     "semilla": 22669683,
+     "slot": 11,
+     "tick": 2500,
+     "ventaja": -0.06466,
+     "propia": 0.0,
+     "baja_A": null
+    },
+    {
+     "semilla": 22669683,
+     "slot": 11,
+     "tick": 2750,
+     "ventaja": -0.14514,
+     "propia": -0.22323,
+     "baja_A": null
+    },
+    {
+     "semilla": 22669683,
+     "slot": 11,
+     "tick": 3000,
+     "ventaja": 0.0,
+     "propia": -0.12854,
+     "baja_A": null
+    }
+   ]
+  },
+  "acep_fija": {
+   "F": [
+    {
+     "semilla": 22355496,
+     "slot": 11,
+     "tick": 1334,
+     "propia": -0.01685,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 11,
+     "tick": 7584,
+     "propia": 0.46046,
+     "baja_A": null
+    },
+    {
+     "semilla": 22355496,
+     "slot": 11,
+     "tick": 12844,
+     "propia": -0.06515,
+     "baja_A": null
+    },
+    {
+     "semilla": 22460225,
+     "slot": 11,
+     "tick": 5848,
+     "propia": 0.00244,
+     "baja_A": null
+    },
+    {
+     "semilla": 22564954,
+     "slot": 11,
+     "tick": 857,
+     "propia": 0.18817,
+     "baja_A": null
+    },
+    {
+     "semilla": 22564954,
+     "slot": 11,
+     "tick": 1719,
+     "propia": -0.02907,
+     "baja_A": null
+    },
+    {
+     "semilla": 22564954,
+     "slot": 11,
+     "tick": 3370,
+     "propia": 0.03978,
+     "baja_A": null
+    },
+    {
+     "semilla": 22564954,
+     "slot": 11,
+     "tick": 6457,
+     "propia": -0.03936,
+     "baja_A": null
+    },
+    {
+     "semilla": 22669683,
+     "slot": 11,
+     "tick": 7144,
+     "propia": 0.05343,
+     "baja_A": null
+    }
+   ],
+   "T": [
+    {
+     "semilla": 22355496,
+     "slot": 11,
+     "tick": 500,
+     "propia": 0.06163,
+     "baja_A": null
+    },
+    {
+     "semilla": 22460225,
+     "slot": 11,
+     "tick": 3500,
+     "propia": -0.04965,
+     "baja_A": null
+    }
+   ]
+  }
+ },
+ "hermano": {
+  "oidas_con_forma": 5,
+  "con": {
+   "evaluadas": 3,
+   "area": 2,
+   "el consejero callo": 1
+  },
+  "sin": {
+   "evaluadas": 240,
+   "area": 123,
+   "el consejero callo": 103,
+   "vida": 5,
+   "ok": 9,
+   "aceptadas": 9
+  },
+  "puntos_con": [
+   0,
+   0
+  ],
+  "puntos_sin": [
+   8,
+   16
+  ]
+ },
+ "regla": {
+  "F": [
+   8,
+   16
+  ],
+  "T": [
+   1,
+   2
+  ],
+  "cero_dentro": true,
+  "pocos": [
+   "F",
+   "T"
+  ],
+  "dispararia": true
+ },
+ "tiempos/F": {
+  "tics": 67763,
+  "lentos": 142,
+  "faltan": 0,
+  "de": 67763,
+  "vigia": 0
+ },
+ "tiempos/T": {
+  "tics": 36748,
+  "lentos": 2,
+  "faltan": 0,
+  "de": 36748,
+  "vigia": 0
+ }
+}

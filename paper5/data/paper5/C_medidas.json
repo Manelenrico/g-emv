@@ -1,0 +1,874 @@
+{
+ "P5_B1/10": {
+  "fichero": "ereq_50c6300c-d5c0-47d4-a4b9-da5a8e256bfa-policy_agent_10.art.log",
+  "slot": 10,
+  "hermano": 11,
+  "final": {
+   "k": "final",
+   "placement": 7,
+   "kills": 0,
+   "score": 5,
+   "reason": "eliminated",
+   "match_ticks": 12457,
+   "decisiones": 11976,
+   "emitidos": 12456,
+   "tics_cooldown": 0,
+   "tics_congelado": 0,
+   "reenvios_vigia": 0,
+   "cadencia_ms": {
+    "n": 11976,
+    "mediana": 0.485,
+    "p95": 2.107,
+    "max": 11.442
+   },
+   "B_final": 1.0,
+   "pareja_muerta": true,
+   "gasto_usd": null,
+   "freno": null
+  },
+  "tics vivos": 11976,
+  "calma literal": 0,
+  "calma declarada": 1,
+  "medida del paper cuatro (ninguna fila M>0)": 0,
+  "primer tramo de calma desde 481": {
+   "literal": {
+    "tics": 0,
+    "lo rompe": {
+     "tick": 481,
+     "fila": "R-CARENCIA",
+     "valor": 1.0,
+     "motivo": "fila por encima de 0,1"
+    }
+   },
+   "declarada": {
+    "tics": 0,
+    "lo rompe": {
+     "tick": 481,
+     "fila": "F-4-ALCANCE",
+     "valor": 0.4725,
+     "motivo": "fila por encima de 0,1"
+    }
+   }
+  },
+  "acciones": {
+   "literal": {},
+   "declarada": {
+    "noop": 1
+   },
+   "fuera": {
+    "ir_centro": 19,
+    "noop": 10613,
+    "ir_botin": 449,
+    "otros": 894
+   },
+   "todo": {
+    "ir_centro": 19,
+    "noop": 10614,
+    "ir_botin": 449,
+    "otros": 894
+   }
+  },
+  "casillas nuevas": {
+   "literal": 0,
+   "declarada": 33,
+   "fuera": 793
+  },
+  "tics en calma declarada": 1,
+  "tics fuera de calma declarada": 11975,
+  "fila que manda": {
+   "F-DANO": 7078,
+   "S-SOLEDAD": 2302,
+   "S-MUERTE-PAREJA": 2210,
+   "R-CARENCIA": 348,
+   "S-DANO-PAREJA": 28,
+   "F-REENCUENTRO": 10
+  },
+  "filas vivas (M>0)": {
+   "R-CARENCIA": 11976,
+   "R-LLAMADA": 11976,
+   "R-ACOPIO": 11900,
+   "S-MUERTE-PAREJA": 11600,
+   "S-SOLEDAD": 11600,
+   "F-DANO": 11582,
+   "F-4-ALCANCE": 7493,
+   "S-8-EXPOSICION": 7493,
+   "F-ANTICIPACION": 799,
+   "S-7-AGRESOR": 157,
+   "S-DANO-PAREJA": 88,
+   "F-HERMANO-GOLPE": 86,
+   "S-PROVISION": 78,
+   "F-HERMANO-AMENAZA": 75,
+   "S-HERIDO": 38,
+   "F-REENCUENTRO": 37,
+   "R-HERMANO-FALTA": 29
+  },
+  "C6": {
+   "primer armado a la vista": {
+    "tick": 533,
+    "slot": 8,
+    "mano": "spear"
+   },
+   "primer dano": {
+    "tick": 875,
+    "fuente": "P13"
+   },
+   "ultimo golpe registrado": {
+    "tick": 12361,
+    "fuente": "zone"
+   },
+   "golpes en los ultimos 48 tics vistos": [],
+   "vida en el ultimo tic visto": 5,
+   "dentro del anillo en el ultimo tic": false,
+   "match_ticks": 12457,
+   "reason": "eliminated",
+   "placement": 7,
+   "kills": 0,
+   "score": 5
+  },
+  "ultimo tic visto": 12456,
+  "participants": {
+   "0": "zero-sum-scavenger",
+   "1": "zero-sum-scavenger",
+   "2": "relh-zero-sum",
+   "3": "relh-zero-sum",
+   "4": "sivanlevy-zs-courier",
+   "5": "sivanlevy-zs-courier",
+   "6": "belobog",
+   "7": "belobog",
+   "8": "ryanschiller-zero-sum-player-v1",
+   "9": "zs-patient",
+   "10": "gemv-p5-A",
+   "11": "gemv-p5-A",
+   "12": "aaron-zs-fable",
+   "13": "zero-sum-example",
+   "14": "skourehjan-zero-sum-scripted-v1",
+   "15": "Zero Sum Baseline"
+  }
+ },
+ "P5_B1/11": {
+  "fichero": "ereq_50c6300c-d5c0-47d4-a4b9-da5a8e256bfa-policy_agent_11.art.log",
+  "slot": 11,
+  "hermano": 10,
+  "final": {
+   "k": "final",
+   "placement": 15,
+   "kills": 0,
+   "score": 0,
+   "reason": "eliminated",
+   "match_ticks": 857,
+   "decisiones": 376,
+   "emitidos": 856,
+   "tics_cooldown": 0,
+   "tics_congelado": 0,
+   "reenvios_vigia": 0,
+   "cadencia_ms": {
+    "n": 376,
+    "mediana": 0.664,
+    "p95": 4.185,
+    "max": 11.528
+   },
+   "B_final": 1.0,
+   "pareja_muerta": false,
+   "gasto_usd": null,
+   "freno": null
+  },
+  "tics vivos": 376,
+  "calma literal": 0,
+  "calma declarada": 0,
+  "medida del paper cuatro (ninguna fila M>0)": 0,
+  "primer tramo de calma desde 481": {
+   "literal": {
+    "tics": 0,
+    "lo rompe": {
+     "tick": 481,
+     "fila": "R-CARENCIA",
+     "valor": 1.0,
+     "motivo": "fila por encima de 0,1"
+    }
+   },
+   "declarada": {
+    "tics": 0,
+    "lo rompe": {
+     "tick": 481,
+     "fila": "F-4-ALCANCE",
+     "valor": 0.4745,
+     "motivo": "fila por encima de 0,1"
+    }
+   }
+  },
+  "acciones": {
+   "literal": {},
+   "declarada": {},
+   "fuera": {
+    "ir_centro": 9,
+    "noop": 331,
+    "otros": 36
+   },
+   "todo": {
+    "ir_centro": 9,
+    "noop": 331,
+    "otros": 36
+   }
+  },
+  "casillas nuevas": {
+   "literal": 0,
+   "declarada": 0,
+   "fuera": 688
+  },
+  "tics en calma declarada": 0,
+  "tics fuera de calma declarada": 376,
+  "fila que manda": {
+   "F-4-ALCANCE": 242,
+   "R-CARENCIA": 79,
+   "F-DANO": 54,
+   "S-7-AGRESOR": 1
+  },
+  "filas vivas (M>0)": {
+   "R-ACOPIO": 376,
+   "R-CARENCIA": 376,
+   "F-4-ALCANCE": 376,
+   "S-8-EXPOSICION": 376,
+   "R-LLAMADA": 376,
+   "S-7-AGRESOR": 124,
+   "F-DANO": 115,
+   "F-HERMANO-AMENAZA": 17,
+   "S-DANO-PAREJA": 2
+  },
+  "C6": {
+   "primer armado a la vista": {
+    "tick": 622,
+    "slot": 8,
+    "mano": "spear"
+   },
+   "primer dano": {
+    "tick": 733,
+    "fuente": "P8"
+   },
+   "ultimo golpe registrado": {
+    "tick": 839,
+    "fuente": "P13"
+   },
+   "golpes en los ultimos 48 tics vistos": [
+    {
+     "tick": 821,
+     "fuente": "P13"
+    },
+    {
+     "tick": 839,
+     "fuente": "P13"
+    }
+   ],
+   "vida en el ultimo tic visto": 1,
+   "dentro del anillo en el ultimo tic": true,
+   "match_ticks": 857,
+   "reason": "eliminated",
+   "placement": 15,
+   "kills": 0,
+   "score": 0
+  },
+  "ultimo tic visto": 856,
+  "participants": {
+   "0": "zero-sum-scavenger",
+   "1": "zero-sum-scavenger",
+   "2": "relh-zero-sum",
+   "3": "relh-zero-sum",
+   "4": "sivanlevy-zs-courier",
+   "5": "sivanlevy-zs-courier",
+   "6": "belobog",
+   "7": "belobog",
+   "8": "ryanschiller-zero-sum-player-v1",
+   "9": "zs-patient",
+   "10": "gemv-p5-A",
+   "11": "gemv-p5-A",
+   "12": "aaron-zs-fable",
+   "13": "zero-sum-example",
+   "14": "skourehjan-zero-sum-scripted-v1",
+   "15": "Zero Sum Baseline"
+  }
+ },
+ "P5_C2/10": {
+  "fichero": "ereq_e4a28906-755c-4f0b-a4ca-86c6bc809d6a-policy_agent_10.art.log",
+  "slot": 10,
+  "hermano": 11,
+  "final": {
+   "k": "final",
+   "placement": 6,
+   "kills": 0,
+   "score": 6,
+   "reason": "eliminated",
+   "match_ticks": 13921,
+   "decisiones": 13440,
+   "emitidos": 13920,
+   "tics_cooldown": 0,
+   "tics_congelado": 0,
+   "reenvios_vigia": 0,
+   "cadencia_ms": {
+    "n": 13440,
+    "mediana": 0.61,
+    "p95": 2.73,
+    "max": 26.76
+   },
+   "B_final": 1.0,
+   "pareja_muerta": true,
+   "gasto_usd": null,
+   "freno": null
+  },
+  "tics vivos": 13440,
+  "calma literal": 0,
+  "calma declarada": 6257,
+  "medida del paper cuatro (ninguna fila M>0)": 0,
+  "primer tramo de calma desde 481": {
+   "literal": {
+    "tics": 0,
+    "lo rompe": {
+     "tick": 481,
+     "fila": "R-CARENCIA",
+     "valor": 1.0,
+     "motivo": "fila por encima de 0,1"
+    }
+   },
+   "declarada": {
+    "tics": 0,
+    "lo rompe": {
+     "tick": 481,
+     "fila": "F-4-ALCANCE",
+     "valor": 0.4725,
+     "motivo": "fila por encima de 0,1"
+    }
+   }
+  },
+  "acciones": {
+   "literal": {},
+   "declarada": {
+    "noop": 5681,
+    "ir_botin": 6,
+    "otros": 570
+   },
+   "fuera": {
+    "ir_centro": 31,
+    "noop": 6410,
+    "otros": 675,
+    "ir_botin": 67
+   },
+   "todo": {
+    "ir_centro": 31,
+    "noop": 12091,
+    "ir_botin": 73,
+    "otros": 1245
+   }
+  },
+  "casillas nuevas": {
+   "literal": 0,
+   "declarada": 136,
+   "fuera": 764
+  },
+  "tics en calma declarada": 6257,
+  "tics fuera de calma declarada": 7183,
+  "fila que manda": {
+   "R-CARENCIA": 9186,
+   "S-MUERTE-PAREJA": 2206,
+   "S-HERIDO": 1570,
+   "S-DANO-PAREJA": 261,
+   "F-DANO": 195,
+   "F-REENCUENTRO": 22
+  },
+  "filas vivas (M>0)": {
+   "R-CARENCIA": 13440,
+   "R-LLAMADA": 13440,
+   "R-ACOPIO": 11911,
+   "F-4-ALCANCE": 6391,
+   "S-8-EXPOSICION": 6366,
+   "S-DANO-PAREJA": 2713,
+   "S-HERIDO": 2663,
+   "F-HERMANO-AMENAZA": 2511,
+   "S-MUERTE-PAREJA": 2423,
+   "S-SOLEDAD": 2423,
+   "R-HERMANO-FALTA": 1618,
+   "F-ANTICIPACION": 1331,
+   "F-DANO": 1325,
+   "S-PROVISION": 143,
+   "F-HERMANO-GOLPE": 81,
+   "F-REENCUENTRO": 32
+  },
+  "C6": {
+   "primer armado a la vista": {
+    "tick": 581,
+    "slot": 6,
+    "mano": "sword"
+   },
+   "primer dano": {
+    "tick": 12409,
+    "fuente": "zone"
+   },
+   "ultimo golpe registrado": {
+    "tick": 13897,
+    "fuente": "zone"
+   },
+   "golpes en los ultimos 48 tics vistos": [
+    {
+     "tick": 13873,
+     "fuente": "zone"
+    },
+    {
+     "tick": 13897,
+     "fuente": "zone"
+    }
+   ],
+   "vida en el ultimo tic visto": 12,
+   "dentro del anillo en el ultimo tic": true,
+   "match_ticks": 13921,
+   "reason": "eliminated",
+   "placement": 6,
+   "kills": 0,
+   "score": 6
+  },
+  "ultimo tic visto": 13920,
+  "participants": {
+   "0": "zero-sum-scavenger",
+   "1": "zero-sum-scavenger",
+   "2": "relh-zero-sum",
+   "3": "relh-zero-sum",
+   "4": "sivanlevy-zs-courier",
+   "5": "sivanlevy-zs-courier",
+   "6": "belobog",
+   "7": "belobog",
+   "8": "ryanschiller-zero-sum-player-v1",
+   "9": "zs-patient",
+   "10": "gemv-p5-A",
+   "11": "gemv-p5-A",
+   "12": "aaron-zs-fable",
+   "13": "zero-sum-example",
+   "14": "skourehjan-zero-sum-scripted-v1",
+   "15": "Zero Sum Baseline"
+  }
+ },
+ "P5_C2/11": {
+  "fichero": "ereq_e4a28906-755c-4f0b-a4ca-86c6bc809d6a-policy_agent_11.art.log",
+  "slot": 11,
+  "hermano": 10,
+  "final": {
+   "k": "final",
+   "placement": 11,
+   "kills": 0,
+   "score": 2,
+   "reason": "eliminated",
+   "match_ticks": 11498,
+   "decisiones": 11017,
+   "emitidos": 11497,
+   "tics_cooldown": 0,
+   "tics_congelado": 0,
+   "reenvios_vigia": 0,
+   "cadencia_ms": {
+    "n": 11017,
+    "mediana": 0.666,
+    "p95": 3.5,
+    "max": 17.626
+   },
+   "B_final": 1.0,
+   "pareja_muerta": false,
+   "gasto_usd": null,
+   "freno": null
+  },
+  "tics vivos": 11017,
+  "calma literal": 0,
+  "calma declarada": 567,
+  "medida del paper cuatro (ninguna fila M>0)": 0,
+  "primer tramo de calma desde 481": {
+   "literal": {
+    "tics": 0,
+    "lo rompe": {
+     "tick": 481,
+     "fila": "R-CARENCIA",
+     "valor": 1.0,
+     "motivo": "fila por encima de 0,1"
+    }
+   },
+   "declarada": {
+    "tics": 0,
+    "lo rompe": {
+     "tick": 481,
+     "fila": "F-4-ALCANCE",
+     "valor": 0.4745,
+     "motivo": "fila por encima de 0,1"
+    }
+   }
+  },
+  "acciones": {
+   "literal": {},
+   "declarada": {
+    "noop": 515,
+    "otros": 43,
+    "ir_botin": 9
+   },
+   "fuera": {
+    "ir_centro": 366,
+    "noop": 8696,
+    "otros": 1364,
+    "ir_botin": 24
+   },
+   "todo": {
+    "ir_centro": 366,
+    "noop": 9211,
+    "otros": 1407,
+    "ir_botin": 33
+   }
+  },
+  "casillas nuevas": {
+   "literal": 0,
+   "declarada": 97,
+   "fuera": 771
+  },
+  "tics en calma declarada": 567,
+  "tics fuera de calma declarada": 10450,
+  "fila que manda": {
+   "R-CARENCIA": 8331,
+   "F-DANO": 2686
+  },
+  "filas vivas (M>0)": {
+   "R-ACOPIO": 11017,
+   "R-CARENCIA": 11017,
+   "R-LLAMADA": 11017,
+   "F-4-ALCANCE": 10093,
+   "S-8-EXPOSICION": 10090,
+   "F-HERMANO-AMENAZA": 8596,
+   "F-DANO": 2740,
+   "S-7-AGRESOR": 138,
+   "S-DANO-PAREJA": 2
+  },
+  "C6": {
+   "primer armado a la vista": {
+    "tick": 537,
+    "slot": 13,
+    "mano": "spear"
+   },
+   "primer dano": {
+    "tick": 8758,
+    "fuente": "P2"
+   },
+   "ultimo golpe registrado": {
+    "tick": 8830,
+    "fuente": "P2"
+   },
+   "golpes en los ultimos 48 tics vistos": [],
+   "vida en el ultimo tic visto": 1,
+   "dentro del anillo en el ultimo tic": true,
+   "match_ticks": 11498,
+   "reason": "eliminated",
+   "placement": 11,
+   "kills": 0,
+   "score": 2
+  },
+  "ultimo tic visto": 11497,
+  "participants": {
+   "0": "zero-sum-scavenger",
+   "1": "zero-sum-scavenger",
+   "2": "relh-zero-sum",
+   "3": "relh-zero-sum",
+   "4": "sivanlevy-zs-courier",
+   "5": "sivanlevy-zs-courier",
+   "6": "belobog",
+   "7": "belobog",
+   "8": "ryanschiller-zero-sum-player-v1",
+   "9": "zs-patient",
+   "10": "gemv-p5-A",
+   "11": "gemv-p5-A",
+   "12": "aaron-zs-fable",
+   "13": "zero-sum-example",
+   "14": "skourehjan-zero-sum-scripted-v1",
+   "15": "Zero Sum Baseline"
+  }
+ },
+ "P5_C3/10": {
+  "fichero": "ereq_ba80a7e2-1ddc-4326-88dd-6dfe7c992ea6-policy_agent_10.art.log",
+  "slot": 10,
+  "hermano": 11,
+  "final": {
+   "k": "final",
+   "placement": 15,
+   "kills": 0,
+   "score": 0,
+   "reason": "eliminated",
+   "match_ticks": 935,
+   "decisiones": 454,
+   "emitidos": 934,
+   "tics_cooldown": 0,
+   "tics_congelado": 0,
+   "reenvios_vigia": 0,
+   "cadencia_ms": {
+    "n": 454,
+    "mediana": 0.553,
+    "p95": 11.208,
+    "max": 30.942
+   },
+   "B_final": 1.0,
+   "pareja_muerta": false,
+   "gasto_usd": null,
+   "freno": null
+  },
+  "tics vivos": 454,
+  "calma literal": 0,
+  "calma declarada": 13,
+  "medida del paper cuatro (ninguna fila M>0)": 0,
+  "primer tramo de calma desde 481": {
+   "literal": {
+    "tics": 0,
+    "lo rompe": {
+     "tick": 481,
+     "fila": "R-CARENCIA",
+     "valor": 1.0,
+     "motivo": "fila por encima de 0,1"
+    }
+   },
+   "declarada": {
+    "tics": 0,
+    "lo rompe": {
+     "tick": 481,
+     "fila": "F-4-ALCANCE",
+     "valor": 0.4725,
+     "motivo": "fila por encima de 0,1"
+    }
+   }
+  },
+  "acciones": {
+   "literal": {},
+   "declarada": {
+    "noop": 12,
+    "otros": 1
+   },
+   "fuera": {
+    "ir_centro": 8,
+    "noop": 399,
+    "otros": 30,
+    "ir_botin": 4
+   },
+   "todo": {
+    "ir_centro": 8,
+    "noop": 411,
+    "otros": 31,
+    "ir_botin": 4
+   }
+  },
+  "casillas nuevas": {
+   "literal": 0,
+   "declarada": 0,
+   "fuera": 650
+  },
+  "tics en calma declarada": 13,
+  "tics fuera de calma declarada": 441,
+  "fila que manda": {
+   "R-CARENCIA": 242,
+   "S-HERIDO": 212
+  },
+  "filas vivas (M>0)": {
+   "R-ACOPIO": 454,
+   "R-CARENCIA": 454,
+   "R-LLAMADA": 454,
+   "F-4-ALCANCE": 388,
+   "S-8-EXPOSICION": 388,
+   "S-DANO-PAREJA": 262,
+   "S-HERIDO": 212,
+   "F-HERMANO-GOLPE": 179,
+   "F-DANO": 144,
+   "S-7-AGRESOR": 144,
+   "R-HERMANO-FALTA": 116,
+   "F-REENCUENTRO": 15,
+   "F-HERMANO-AMENAZA": 9
+  },
+  "C6": {
+   "primer armado a la vista": {
+    "tick": 537,
+    "slot": 12,
+    "mano": "knives"
+   },
+   "primer dano": {
+    "tick": 791,
+    "fuente": "P13"
+   },
+   "ultimo golpe registrado": {
+    "tick": 917,
+    "fuente": "P13"
+   },
+   "golpes en los ultimos 48 tics vistos": [
+    {
+     "tick": 899,
+     "fuente": "P13"
+    },
+    {
+     "tick": 917,
+     "fuente": "P13"
+    }
+   ],
+   "vida en el ultimo tic visto": 1,
+   "dentro del anillo en el ultimo tic": true,
+   "match_ticks": 935,
+   "reason": "eliminated",
+   "placement": 15,
+   "kills": 0,
+   "score": 0
+  },
+  "ultimo tic visto": 934,
+  "participants": {
+   "0": "zero-sum-scavenger",
+   "1": "zero-sum-scavenger",
+   "2": "relh-zero-sum",
+   "3": "relh-zero-sum",
+   "4": "sivanlevy-zs-courier",
+   "5": "sivanlevy-zs-courier",
+   "6": "belobog",
+   "7": "belobog",
+   "8": "ryanschiller-zero-sum-player-v1",
+   "9": "zs-patient",
+   "10": "gemv-p5-A",
+   "11": "gemv-p5-A",
+   "12": "aaron-zs-fable",
+   "13": "zero-sum-example",
+   "14": "skourehjan-zero-sum-scripted-v1",
+   "15": "Zero Sum Baseline"
+  }
+ },
+ "P5_C3/11": {
+  "fichero": "ereq_ba80a7e2-1ddc-4326-88dd-6dfe7c992ea6-policy_agent_11.art.log",
+  "slot": 11,
+  "hermano": 10,
+  "final": {
+   "k": "final",
+   "placement": 14,
+   "kills": 0,
+   "score": 1,
+   "reason": "eliminated",
+   "match_ticks": 968,
+   "decisiones": 487,
+   "emitidos": 967,
+   "tics_cooldown": 0,
+   "tics_congelado": 0,
+   "reenvios_vigia": 0,
+   "cadencia_ms": {
+    "n": 487,
+    "mediana": 1.307,
+    "p95": 6.728,
+    "max": 30.932
+   },
+   "B_final": 1.0,
+   "pareja_muerta": true,
+   "gasto_usd": null,
+   "freno": null
+  },
+  "tics vivos": 487,
+  "calma literal": 0,
+  "calma declarada": 21,
+  "medida del paper cuatro (ninguna fila M>0)": 0,
+  "primer tramo de calma desde 481": {
+   "literal": {
+    "tics": 0,
+    "lo rompe": {
+     "tick": 481,
+     "fila": "R-CARENCIA",
+     "valor": 1.0,
+     "motivo": "fila por encima de 0,1"
+    }
+   },
+   "declarada": {
+    "tics": 0,
+    "lo rompe": {
+     "tick": 481,
+     "fila": "F-4-ALCANCE",
+     "valor": 0.4745,
+     "motivo": "fila por encima de 0,1"
+    }
+   }
+  },
+  "acciones": {
+   "literal": {},
+   "declarada": {
+    "noop": 19,
+    "ir_botin": 2
+   },
+   "fuera": {
+    "ir_centro": 4,
+    "noop": 412,
+    "otros": 48,
+    "ir_botin": 2
+   },
+   "todo": {
+    "ir_centro": 4,
+    "noop": 431,
+    "otros": 48,
+    "ir_botin": 4
+   }
+  },
+  "casillas nuevas": {
+   "literal": 0,
+   "declarada": 17,
+   "fuera": 691
+  },
+  "tics en calma declarada": 21,
+  "tics fuera de calma declarada": 466,
+  "fila que manda": {
+   "F-DANO": 245,
+   "R-CARENCIA": 175,
+   "F-4-ALCANCE": 45,
+   "S-HERIDO": 20,
+   "F-REENCUENTRO": 2
+  },
+  "filas vivas (M>0)": {
+   "R-CARENCIA": 487,
+   "R-LLAMADA": 487,
+   "F-4-ALCANCE": 456,
+   "S-8-EXPOSICION": 456,
+   "F-DANO": 326,
+   "R-ACOPIO": 322,
+   "S-7-AGRESOR": 296,
+   "S-DANO-PAREJA": 118,
+   "F-HERMANO-GOLPE": 116,
+   "R-HERMANO-FALTA": 68,
+   "F-HERMANO-AMENAZA": 38,
+   "S-MUERTE-PAREJA": 33,
+   "S-SOLEDAD": 33,
+   "S-HERIDO": 20,
+   "S-PROVISION": 16,
+   "F-REENCUENTRO": 8
+  },
+  "C6": {
+   "primer armado a la vista": {
+    "tick": 548,
+    "slot": 12,
+    "mano": "knives"
+   },
+   "primer dano": {
+    "tick": 642,
+    "fuente": "P13"
+   },
+   "ultimo golpe registrado": {
+    "tick": 827,
+    "fuente": "P13"
+   },
+   "golpes en los ultimos 48 tics vistos": [],
+   "vida en el ultimo tic visto": 11,
+   "dentro del anillo en el ultimo tic": true,
+   "match_ticks": 968,
+   "reason": "eliminated",
+   "placement": 14,
+   "kills": 0,
+   "score": 1
+  },
+  "ultimo tic visto": 967,
+  "participants": {
+   "0": "zero-sum-scavenger",
+   "1": "zero-sum-scavenger",
+   "2": "relh-zero-sum",
+   "3": "relh-zero-sum",
+   "4": "sivanlevy-zs-courier",
+   "5": "sivanlevy-zs-courier",
+   "6": "belobog",
+   "7": "belobog",
+   "8": "ryanschiller-zero-sum-player-v1",
+   "9": "zs-patient",
+   "10": "gemv-p5-A",
+   "11": "gemv-p5-A",
+   "12": "aaron-zs-fable",
+   "13": "zero-sum-example",
+   "14": "skourehjan-zero-sum-scripted-v1",
+   "15": "Zero Sum Baseline"
+  }
+ }
+}

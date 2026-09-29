@@ -1,0 +1,171 @@
+{
+ "consejero": "mentiroso",
+ "escenas": 2225,
+ "cajas": {
+  "0": {
+   "ahora": {
+    "coincide": 2225
+   },
+   "despues": {
+    "rechazada_area": 847,
+    "aceptada": 24,
+    "rechazada": 13,
+    "rechazada_vida": 24
+   },
+   "azarp": {
+    "rechazada_area": 876,
+    "rechazada_vida": 30,
+    "rechazada": 2
+   }
+  },
+  "0.5": {
+   "ahora": {
+    "coincide": 2225
+   },
+   "despues": {
+    "rechazada_area": 839,
+    "rechazada": 17,
+    "aceptada": 28,
+    "rechazada_vida": 24
+   },
+   "azarp": {
+    "rechazada_area": 870,
+    "rechazada_vida": 30,
+    "rechazada": 6,
+    "aceptada": 2
+   }
+  },
+  "1": {
+   "ahora": {
+    "coincide": 2225
+   },
+   "despues": {
+    "rechazada_area": 830,
+    "rechazada": 24,
+    "aceptada": 30,
+    "rechazada_vida": 24
+   },
+   "azarp": {
+    "rechazada_area": 865,
+    "rechazada": 9,
+    "rechazada_vida": 30,
+    "aceptada": 4
+   }
+  },
+  "din": {
+   "ahora": {
+    "coincide": 2225
+   },
+   "despues": {
+    "rechazada_area": 847,
+    "aceptada": 24,
+    "rechazada": 13,
+    "rechazada_vida": 24
+   },
+   "azarp": {
+    "rechazada_area": 876,
+    "rechazada_vida": 30,
+    "rechazada": 2
+   }
+  },
+  "din2": {
+   "ahora": {
+    "coincide": 2225
+   },
+   "despues": {
+    "rechazada_area": 847,
+    "aceptada": 24,
+    "rechazada": 13,
+    "rechazada_vida": 24
+   },
+   "azarp": {
+    "rechazada_area": 876,
+    "rechazada_vida": 30,
+    "rechazada": 2
+   }
+  }
+ },
+ "C final por diario": [
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.5,
+  0.0,
+  1.1102230246251565e-16,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.05,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.5,
+  0.5,
+  0.20000000000000004,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.5,
+  0.30000000000000004,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.10000000000000003,
+  0.0,
+  0.0,
+  0.0
+ ],
+ "C final mediana": 0.0,
+ "trayectoria de C": {
+  "0-500": 0.0,
+  "500-1500": 0.0,
+  ">1500": 0.0
+ },
+ "comprobacion": {
+  "dichos": 9974,
+  "comprobados": 7939,
+  "aciertos": 145,
+  "fallos": 7794
+ },
+ "dano": {
+  "0": {
+   "despues:aceptadas": 24
+  },
+  "0.5": {
+   "despues:aceptadas": 28,
+   "azarp:aceptadas": 2
+  },
+  "1": {
+   "despues:aceptadas": 30,
+   "azarp:aceptadas": 4
+  },
+  "din": {
+   "despues:aceptadas": 24
+  },
+  "din2": {
+   "despues:aceptadas": 24
+  }
+ },
+ "recuperacion por grupo (C=1)": {
+  "rivales": 0.837751598601896,
+  "hermano": 3.57535331895705,
+  "propias": 0.8370078540284234
+ },
+ "coste_ms": {
+  "mediana": 12.246353988302872,
+  "max": 40.13399995164946,
+  "n": 908
+ }
+}

@@ -1,0 +1,132 @@
+# EL ALMA · IMAGEN DE FORMAS — paper cinco, P5-6A. [20-sep-2026]
+#
+#   docker build --platform linux/amd64 -f paintball/alma/Dockerfile.forma \
+#                -t gemv-anima:forma .
+#
+# Es `Dockerfile.cortex` mas las piezas del cinco. NINGUNA CLAVE viaja: el
+# modelo se llama por el sidecar, y el build lo comprueba. Los DIECISEIS humos
+# del cuatro y los DOCE de las formas corren aqui y tumban el build si fallan.
+
+FROM python:3.12-slim
+
+RUN pip install --no-cache-dir websockets==16.0
+
+WORKDIR /app
+# el motor INTOCABLE y el planificador de la casa, tal cual estan en el repo
+COPY motor/        /app/motor/
+COPY planificador/ /app/planificador/
+COPY paintball/alma/ /app/alma/
+
+# [P5-6A] las piezas del cinco viven en cantera/paper5 (son las MISMAS que
+# usaron los bancos: no hay copia divergente en el repo) y viajan a /app/alma/
+# para que la imagen sea autosuficiente.
+COPY cantera/paper5/forma.py            /app/alma/forma.py
+COPY cantera/paper5/proyeccion.py       /app/alma/proyeccion.py
+COPY cantera/paper5/traductor_forma.py  /app/alma/traductor_forma.py
+COPY cantera/paper5/alcance_g.py        /app/alma/alcance_g.py
+COPY cantera/paper5/instruccion_forma.md /app/alma/instruccion_forma.md
+COPY cantera/paper5/tabla_ensenada.md    /app/alma/tabla_ensenada.md
+COPY cantera/paper5/P56A_distribucion_azar.json /app/alma/P56A_distribucion_azar.json
+# [P5-7C] la curiosidad por el terreno, la MISMA que uso el banco de P5-7A
+COPY cantera/paper5/curiosidad.py       /app/alma/curiosidad.py
+# [P5-8B] la curiosidad como FORMA (brazo K), la misma del banco de P5-8A
+COPY cantera/paper5/curiosidad_forma.py /app/alma/curiosidad_forma.py
+
+# CUSTODIA: el motor viaja intacto; el build falla si cambia.
+RUN python -c "import hashlib; \
+h = hashlib.md5(open('/app/motor/model.py','rb').read()).hexdigest(); \
+assert h == '1e511978c251130e95169ebf8443efa1', ('model.py ALTERADO', h); \
+print('custodia OK model.py md5', h)"
+
+# CUSTODIA: el decisor y la tabla tampoco cambian.
+RUN python -c "import hashlib; \
+d = hashlib.md5(open('/app/alma/decisor_zs.py','rb').read()).hexdigest(); \
+a = hashlib.md5(open('/app/alma/appraisal_zs_v42_exp.py','rb').read()).hexdigest(); \
+assert d == '8fa03547e3228ef9df4aa94c444f9252', ('decisor_zs.py ALTERADO', d); \
+assert a == '98c13d60167c80cc8334c965be75c640', ('appraisal ALTERADO', a); \
+print('custodia OK decisor', d, 'appraisal', a)"
+
+RUN python -c "import sys; sys.path.insert(0,'/app'); \
+from alma import decisor_zs; from alma import appraisal_zs; \
+print('humo OK: alma importada, motor y planificador enlazados')"
+
+ENV PYTHONPATH=/app \
+    GEMV_MIEDO=0 \
+    GEMV_VIDA_AJENA=0 \
+    GEMV_VIDA_AJENA_M=0.25 \
+    GEMV_MEMORIA=/app/alma/memoria_aprendida_p95.json \
+    GEMV_CORTEX=0 \
+    GEMV_CORTEX_CUERPO=1 \
+    GEMV_CORTEX_MANUAL=M2 \
+    GEMV_CORTEX_CADA=50 \
+    GEMV_FORMA=0 \
+    GEMV_HILO_FORMA=0 \
+    GEMV_CONSEJERO_FORMA=0 \
+    GEMV_FORMAS_AZAR=0 \
+    GEMV_FORMA_CADA=250 \
+    GEMV_FORMA_SPEND_CADA=10 \
+    GEMV_CORTEX_TIMEOUT=25 \
+    GEMV_CURIOSIDAD= \
+    GEMV_CURIOSIDAD_K=0.2 \
+    GEMV_CURIOSIDAD_BALANZA=1 \
+    GEMV_CURIOSIDAD_FORMA=0 \
+    GEMV_CURIOSIDAD_CONSIGNA=0.5 \
+    GEMV_CURIOSIDAD_REFRACTARIO=50
+
+# humo extra del cuatro: la memoria viaja dentro y v40 apagada importa
+RUN python -c "import sys,os,json; sys.path.insert(0,'/app'); \
+from alma import appraisal_zs_v40_exp as V; \
+assert V.MIEDO_ON is False and V.VIDA_AJENA_ON is False, 'v40 NO esta apagada'; \
+d=json.load(open('/app/alma/memoria_aprendida_p95.json'))['completa']; \
+print('humo serie OK: v40 apagada, memoria con', len(d), 'armas')"
+
+RUN python -c "import sys; sys.path.insert(0,'/app'); \
+from alma import policy_red as P; \
+assert callable(P.sonda_red) and P.RED_TIMEOUT == 5.0; \
+assert callable(P._resumen) and P._resumen([1,2,3])['mediana'] == 2; \
+print('humo red OK: sonda cargada, timeout', P.RED_TIMEOUT, 's')"
+
+# [P5-6A] la instruccion y la tabla ensenada viajan, y con su md5
+RUN python -c "import sys,hashlib; sys.path.insert(0,'/app'); \
+from alma import policy_forma as PF; \
+e = PF.entorno_forma(); \
+assert e['efectivo']['FORMA'] is False, 'la imagen NO viene apagada'; \
+assert len(PF._instruccion()) > 3000 and len(PF._tabla()) > 1000, 'faltan paginas'; \
+print('humo forma OK: instruccion md5', e['instruccion_md5'], \
+      '· tabla md5', e['tabla_md5'], '·', len(PF.sistema_forma()), 'caracteres')"
+
+# custodia extra: que NINGUNA clave haya entrado en la imagen
+RUN python - <<'EOF'
+import os, re
+mal = []
+pat = re.compile(rb"sk-ant-[A-Za-z0-9_\-]{10,}")
+for base, _d, fs in os.walk("/app"):
+    for f in fs:
+        p = os.path.join(base, f)
+        try:
+            if pat.search(open(p, "rb").read()):
+                mal.append(p)
+        except Exception:
+            pass
+assert not mal, ("CLAVE DENTRO DE LA IMAGEN", mal)
+print("custodia OK: ninguna clave sk-ant- en /app")
+EOF
+
+# LOS DIECISEIS HUMOS DEL CUATRO. Si alguno falla, el build se cae.
+RUN GEMV_CORTEX=0 python -u /app/alma/humo_cortex.py
+
+# LOS DOCE HUMOS DE LAS FORMAS (A6 + bucle de red + /spend + el parte no
+# mudo + la carrera del hilo). Si alguno
+# falla, el build se cae.
+RUN GEMV_CORTEX=0 python -u /app/alma/humo_forma.py
+
+# [P5-7C · C0] LOS HUMOS DE LA CURIOSIDAD: apagada identica en 200 tics,
+# encendida entra y decide, el tic entero por debajo de 5 ms, cero tics
+# perdidos, y el entorno crudo/efectivo. Si alguno falla, el build se cae.
+RUN GEMV_CORTEX=0 python -u /app/alma/humo_curiosidad.py
+
+# [P5-8B] LOS HUMOS DEL BRAZO K: apagado identico, la forma nace Y PASA la
+# puerta y el cuerpo se acerca al destino, y el veto duro discrimina.
+RUN GEMV_CORTEX=0 python -u /app/alma/humo_curforma.py
+
+CMD ["python", "-u", "/app/alma/policy_forma.py"]

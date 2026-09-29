@@ -1,0 +1,293 @@
+{
+ "tanda": "mundo lento (6)",
+ "A0": {
+  "mirada_ticks": {
+   "480": 30744,
+   "48": 672,
+   "479": 15,
+   "478": 15
+  },
+  "pasos de los candidatos ir_*: mediana": 4,
+  "pasos del ganador: mediana": 5,
+  "tics entre paso y paso: mediana": 11.0,
+  "n gaps": 3364
+ },
+ "A2/A3/A4": {
+  "25": {
+   "foto": {
+    "W mediana": 0.0,
+    "W p90": 0.0,
+    "vida mediana": 0.0,
+    "vida p90": 0.0,
+    "n": 91
+   },
+   "real": {
+    "W mediana": 0.0,
+    "W p90": 0.0,
+    "vida mediana": 0.0,
+    "vida p90": 0.0,
+    "n": 91
+   },
+   "intencion": {
+    "W mediana": 0.0,
+    "W p90": 0.0,
+    "vida mediana": 0.0,
+    "vida p90": 0.0,
+    "n": 91
+   }
+  },
+  "50": {
+   "foto": {
+    "W mediana": 0.0,
+    "W p90": 0.0,
+    "vida mediana": 0.0,
+    "vida p90": 0.0,
+    "n": 91
+   },
+   "real": {
+    "W mediana": 0.0,
+    "W p90": 0.0,
+    "vida mediana": 0.0,
+    "vida p90": 0.0,
+    "n": 91
+   },
+   "intencion": {
+    "W mediana": 0.0,
+    "W p90": 0.0,
+    "vida mediana": 0.0,
+    "vida p90": 0.0,
+    "n": 91
+   }
+  },
+  "100": {
+   "foto": {
+    "W mediana": 0.0,
+    "W p90": 0.0,
+    "vida mediana": 0.0,
+    "vida p90": 0.0,
+    "n": 89
+   },
+   "real": {
+    "W mediana": 0.0,
+    "W p90": 0.0,
+    "vida mediana": 0.0,
+    "vida p90": 0.0,
+    "n": 89
+   },
+   "intencion": {
+    "W mediana": 0.0,
+    "W p90": 0.0,
+    "vida mediana": 0.0,
+    "vida p90": 0.0,
+    "n": 89
+   }
+  }
+ },
+ "A2 en K=H": {
+  "W mediana": 0.0,
+  "W p90": 0.0,
+  "vida mediana": 0.0,
+  "vida p90": 0.0,
+  "H mediana": 480.0,
+  "n": 84
+ },
+ "cambia algo": {
+  "25": {
+   "W cambia": 4,
+   "vida cambia": 5,
+   "n": 91
+  },
+  "50": {
+   "W cambia": 5,
+   "vida cambia": 5,
+   "n": 91
+  },
+  "100": {
+   "W cambia": 5,
+   "vida cambia": 5,
+   "n": 89
+  }
+ },
+ "A3 por ventana": {
+  "25": {
+   "sin dano ajeno (ni rival ni veneno)": {
+    "n": 89,
+    "W mediana": 0.0,
+    "W p90": 0.0,
+    "vida mediana": 0.0,
+    "vida p90": 0.0
+   },
+   "con dano ajeno": {
+    "n": 2,
+    "W mediana": 0.00833333333333336,
+    "W p90": 0.0,
+    "vida mediana": 20.0,
+    "vida p90": 20.0
+   }
+  },
+  "50": {
+   "sin dano ajeno (ni rival ni veneno)": {
+    "n": 89,
+    "W mediana": 0.0,
+    "W p90": 0.0,
+    "vida mediana": 0.0,
+    "vida p90": 0.0
+   },
+   "con dano ajeno": {
+    "n": 2,
+    "W mediana": 0.016666666666666663,
+    "W p90": 0.0,
+    "vida mediana": 40.0,
+    "vida p90": 40.0
+   }
+  },
+  "100": {
+   "sin dano ajeno (ni rival ni veneno)": {
+    "n": 87,
+    "W mediana": 0.0,
+    "W p90": 0.0,
+    "vida mediana": 0.0,
+    "vida p90": 0.0
+   },
+   "con dano ajeno": {
+    "n": 2,
+    "W mediana": 0.5333333333333333,
+    "W p90": 0.06666666666666665,
+    "vida mediana": 99.0,
+    "vida p90": 99.0
+   }
+  }
+ },
+ "A5 el techo": {
+  "hp_rival": 198.0,
+  "hp_anillo": 86.92,
+  "hp_sin": 84,
+  "W_coger": 3,
+  "W_consumir": 2,
+  "W_morir": 0,
+  "W_igual": 84,
+  "ventanas": 89
+ },
+ "ejemplos de residuo": [
+  {
+   "diario": "ereq_50c6300c-d5c0-47d4-a4b9-da5a8e256bfa-policy_agent_10.art.log",
+   "tic": 624,
+   "K": 100,
+   "dW": 1.0,
+   "dhp": 0.0,
+   "W_proy": 0.25,
+   "W_real": 1.25,
+   "hp_proy": 100.0,
+   "hp_real": 100.0,
+   "pack_proy": [
+    "net"
+   ],
+   "pack_real": [
+    "first_aid"
+   ],
+   "hand_proy": "none",
+   "hand_real": "net"
+  },
+  {
+   "diario": "ereq_50c6300c-d5c0-47d4-a4b9-da5a8e256bfa-policy_agent_10.art.log",
+   "tic": 11592,
+   "K": 100,
+   "dW": 0.0,
+   "dhp": 1.25,
+   "W_proy": 1.7667,
+   "W_real": 1.7667,
+   "hp_proy": 56.25,
+   "hp_real": 55.0,
+   "pack_proy": [
+    "net",
+    "rations"
+   ],
+   "pack_real": [
+    "net",
+    "rations"
+   ],
+   "hand_proy": "spear",
+   "hand_real": "spear"
+  },
+  {
+   "diario": "ereq_50c6300c-d5c0-47d4-a4b9-da5a8e256bfa-policy_agent_10.art.log",
+   "tic": 12120,
+   "K": 100,
+   "dW": 0.0,
+   "dhp": 2.0,
+   "W_proy": 1.7667,
+   "W_real": 1.7667,
+   "hp_proy": 35.0,
+   "hp_real": 37.0,
+   "pack_proy": [
+    "net",
+    "rations"
+   ],
+   "pack_real": [
+    "net",
+    "rations"
+   ],
+   "hand_proy": "spear",
+   "hand_real": "spear"
+  },
+  {
+   "diario": "ereq_e4a28906-755c-4f0b-a4ca-86c6bc809d6a-policy_agent_10.art.log",
+   "tic": 8784,
+   "K": 100,
+   "dW": 1.0,
+   "dhp": 0.0,
+   "W_proy": 1.25,
+   "W_real": 0.25,
+   "hp_proy": 100.0,
+   "hp_real": 100.0,
+   "pack_proy": [
+    "rations",
+    "rations"
+   ],
+   "pack_real": [],
+   "hand_proy": "net",
+   "hand_real": "net"
+  },
+  {
+   "diario": "ereq_e4a28906-755c-4f0b-a4ca-86c6bc809d6a-policy_agent_10.art.log",
+   "tic": 12384,
+   "K": 100,
+   "dW": 0.0,
+   "dhp": 0.333,
+   "W_proy": 2.25,
+   "W_real": 2.25,
+   "hp_proy": 99.67,
+   "hp_real": 100.0,
+   "pack_proy": [
+    "first_aid",
+    "rations"
+   ],
+   "pack_real": [
+    "first_aid",
+    "rations"
+   ],
+   "hand_proy": "net",
+   "hand_real": "net"
+  },
+  {
+   "diario": "ereq_e4a28906-755c-4f0b-a4ca-86c6bc809d6a-policy_agent_10.art.log",
+   "tic": 12912,
+   "K": 100,
+   "dW": 1.0,
+   "dhp": 50.667,
+   "W_proy": 1.25,
+   "W_real": 2.25,
+   "hp_proy": 51.67,
+   "hp_real": 1.0,
+   "pack_proy": [
+    "rations"
+   ],
+   "pack_real": [
+    "first_aid",
+    "rations"
+   ],
+   "hand_proy": "net",
+   "hand_real": "net"
+  }
+ ]
+}

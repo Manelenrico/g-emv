@@ -1,0 +1,263 @@
+{
+ "formas/A": {
+  "cuentas": {
+   "asientos": 8,
+   "propuestas": 0,
+   "evaluadas": 0,
+   "aceptadas": 0,
+   "caidas": 0
+  },
+  "aceptadas_por_vida": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "veredictos": {},
+  "motivos_caida": {}
+ },
+ "formas/F": {
+  "cuentas": {
+   "asientos": 8,
+   "propuestas": 226,
+   "evaluadas": 227,
+   "aceptadas": 1,
+   "caidas": 1
+  },
+  "aceptadas_por_vida": [
+   0,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0
+  ],
+  "veredictos": {
+   "area": 128,
+   "el consejero callo": 98,
+   "ok": 1
+  },
+  "motivos_caida": {
+   "en la reevaluacion deja de ganar (area)": 1
+  }
+ },
+ "formas/T": {
+  "cuentas": {
+   "asientos": 8,
+   "propuestas": 289,
+   "evaluadas": 289,
+   "aceptadas": 3,
+   "caidas": 3
+  },
+  "aceptadas_por_vida": [
+   0,
+   1,
+   0,
+   1,
+   0,
+   0,
+   0,
+   1
+  ],
+  "veredictos": {
+   "area": 276,
+   "vida": 10,
+   "ok": 3
+  },
+  "motivos_caida": {
+   "en la reevaluacion deja de ganar (area)": 3
+  }
+ },
+ "parte": {
+  "citas": 230,
+  "con_parte": 230,
+  "interrogantes": 0,
+  "cruce": {
+   "sin formas previas|habla": 8,
+   "le rechazaron la anterior|habla": 118,
+   "le rechazaron la anterior|calla": 97,
+   "le aceptaron la anterior|habla": 2,
+   "le aceptaron la anterior|calla": 1
+  }
+ },
+ "despues/F": [
+  {
+   "semilla": 21622393,
+   "slot": 11,
+   "tick": 1100,
+   "d_real": 3.95618,
+   "d_proy": 3.98157,
+   "veredicto": "acierto",
+   "d_A_zona": 3.92511
+  },
+  {
+   "semilla": 21622393,
+   "slot": 11,
+   "tick": 1111,
+   "d_real": 3.59489,
+   "d_proy": 3.48979,
+   "veredicto": "fallo",
+   "d_A_zona": 3.96869
+  }
+ ],
+ "despues/T": [
+  {
+   "semilla": 21517664,
+   "slot": 11,
+   "tick": 5011,
+   "d_real": 3.28287,
+   "d_proy": 3.35208,
+   "veredicto": "acierto",
+   "d_A_zona": null
+  },
+  {
+   "semilla": 21622393,
+   "slot": 11,
+   "tick": 4761,
+   "d_real": 3.98623,
+   "d_proy": 3.97544,
+   "veredicto": "acierto",
+   "d_A_zona": null
+  },
+  {
+   "semilla": 21622393,
+   "slot": 11,
+   "tick": 4816,
+   "d_real": 3.98643,
+   "d_proy": 3.8909,
+   "veredicto": "fallo",
+   "d_A_zona": null
+  },
+  {
+   "semilla": 21622393,
+   "slot": 11,
+   "tick": 4827,
+   "d_real": 3.96513,
+   "d_proy": 3.8909,
+   "veredicto": "fallo",
+   "d_A_zona": null
+  },
+  {
+   "semilla": 21831851,
+   "slot": 11,
+   "tick": 5522,
+   "d_real": 3.34173,
+   "d_proy": 3.20077,
+   "veredicto": "fallo",
+   "d_A_zona": 2.76028
+  }
+ ],
+ "emparejada": {
+  "3|2-3": {
+   "F": [
+    1,
+    2
+   ],
+   "T": [
+    0,
+    1
+   ]
+  },
+  "4|1": {
+   "F": [
+    0,
+    0
+   ],
+   "T": [
+    1,
+    1
+   ]
+  },
+  "4|0 (quedarse)": {
+   "F": [
+    0,
+    0
+   ],
+   "T": [
+    1,
+    3
+   ]
+  }
+ },
+ "magnitud": {
+  "F": [
+   {
+    "semilla": 21622393,
+    "slot": 11,
+    "t0": 1081,
+    "t1": 1111,
+    "baja": 0.39314,
+    "baja_A": -0.06547
+   }
+  ],
+  "T": [
+   {
+    "semilla": 21517664,
+    "slot": 11,
+    "t0": 5000,
+    "t1": 5011,
+    "baja": 0.51868,
+    "baja_A": null
+   },
+   {
+    "semilla": 21622393,
+    "slot": 11,
+    "t0": 4750,
+    "t1": 4827,
+    "baja": 0.01031,
+    "baja_A": null
+   },
+   {
+    "semilla": 21831851,
+    "slot": 11,
+    "t0": 5500,
+    "t1": 5522,
+    "baja": -0.10604,
+    "baja_A": 0.0
+   }
+  ]
+ },
+ "regla": {
+  "F": [
+   1,
+   2
+  ],
+  "T": [
+   2,
+   5
+  ],
+  "cero_dentro": true,
+  "pocos": [
+   "F",
+   "T"
+  ],
+  "dispararia": true
+ },
+ "tiempos/A": {
+  "tics": 37063,
+  "lentos": 0,
+  "faltan": 0,
+  "de": 37063,
+  "vigia": 0
+ },
+ "tiempos/F": {
+  "tics": 66330,
+  "lentos": 120,
+  "faltan": 0,
+  "de": 66330,
+  "vigia": 0
+ },
+ "tiempos/T": {
+  "tics": 71715,
+  "lentos": 7,
+  "faltan": 0,
+  "de": 71715,
+  "vigia": 0
+ }
+}

@@ -49,3 +49,7 @@ config_local.py
 .vscode/
 .idea/
 *.swp
+
+# paper5: sus datos pequenos y el manifiesto de diarios SI van al repositorio (excepciones a data/ y *.csv)
+!paper5/data/
+!paper5/diaries/diaries_manifest.csv

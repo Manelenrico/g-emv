@@ -1,0 +1,153 @@
+{
+ "k": "catalogo",
+ "items": [
+  {
+   "id": "sword",
+   "kind": "ikMelee",
+   "damage": 18,
+   "range": 1,
+   "cooldown": 18,
+   "durability": 40,
+   "stack_max": 1,
+   "use_ticks": 0,
+   "heal": 0
+  },
+  {
+   "id": "spear",
+   "kind": "ikMelee",
+   "damage": 12,
+   "range": 2,
+   "cooldown": 20,
+   "durability": 40,
+   "stack_max": 1,
+   "use_ticks": 0,
+   "heal": 0
+  },
+  {
+   "id": "bow",
+   "kind": "ikRanged",
+   "damage": 14,
+   "range": 8,
+   "cooldown": 18,
+   "durability": 0,
+   "stack_max": 1,
+   "use_ticks": 0,
+   "heal": 0
+  },
+  {
+   "id": "knives",
+   "kind": "ikThrown",
+   "damage": 8,
+   "range": 5,
+   "cooldown": 10,
+   "durability": 0,
+   "stack_max": 8,
+   "use_ticks": 0,
+   "heal": 0
+  },
+  {
+   "id": "blowgun",
+   "kind": "ikRanged",
+   "damage": 4,
+   "range": 6,
+   "cooldown": 24,
+   "durability": 0,
+   "stack_max": 1,
+   "use_ticks": 0,
+   "heal": 0
+  },
+  {
+   "id": "net",
+   "kind": "ikThrown",
+   "damage": 0,
+   "range": 3,
+   "cooldown": 30,
+   "durability": 0,
+   "stack_max": 2,
+   "use_ticks": 0,
+   "heal": 0
+  },
+  {
+   "id": "first_aid",
+   "kind": "ikConsumable",
+   "damage": 0,
+   "range": 0,
+   "cooldown": 0,
+   "durability": 0,
+   "stack_max": 2,
+   "use_ticks": 48,
+   "heal": 50
+  },
+  {
+   "id": "rations",
+   "kind": "ikConsumable",
+   "damage": 0,
+   "range": 0,
+   "cooldown": 0,
+   "durability": 0,
+   "stack_max": 5,
+   "use_ticks": 24,
+   "heal": 15
+  },
+  {
+   "id": "backpack",
+   "kind": "ikGear",
+   "damage": 0,
+   "range": 0,
+   "cooldown": 0,
+   "durability": 0,
+   "stack_max": 1,
+   "use_ticks": 0,
+   "heal": 0
+  },
+  {
+   "id": "camouflage",
+   "kind": "ikGear",
+   "damage": 0,
+   "range": 0,
+   "cooldown": 0,
+   "durability": 0,
+   "stack_max": 1,
+   "use_ticks": 0,
+   "heal": 0
+  },
+  {
+   "id": "arrows",
+   "kind": "ikAmmo",
+   "damage": 0,
+   "range": 0,
+   "cooldown": 0,
+   "durability": 0,
+   "stack_max": 12,
+   "use_ticks": 0,
+   "heal": 0
+  },
+  {
+   "id": "darts",
+   "kind": "ikAmmo",
+   "damage": 0,
+   "range": 0,
+   "cooldown": 0,
+   "durability": 0,
+   "stack_max": 8,
+   "use_ticks": 0,
+   "heal": 0
+  }
+ ],
+ "stats": {
+  "budget": 20,
+  "min": 1,
+  "max": 10,
+  "default": [
+   5,
+   5,
+   5,
+   5
+  ]
+ },
+ "freeze": {
+  "ends_tick": 240,
+  "alloc_deadline_tick": 216,
+  "pedestal_mine_rule": "leaving your pedestal tile before ignition is instant death"
+ }
+}

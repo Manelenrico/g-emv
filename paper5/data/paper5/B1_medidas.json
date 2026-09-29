@@ -1,0 +1,318 @@
+{
+ "10": {
+  "fichero": "ereq_50c6300c-d5c0-47d4-a4b9-da5a8e256bfa-policy_agent_10.art.log",
+  "bytes": 27546646,
+  "lineas": 12965,
+  "registros por clase": {
+   "tick": 12456,
+   "voz": 250,
+   "static_map": 125,
+   "catalogo": 125,
+   "arranque": 1,
+   "cortex": 1,
+   "mapa_volcado": 1,
+   "player_config": 1,
+   "mundo_leido": 1,
+   "allocate_enviado": 1
+  },
+  "primer tic": 1,
+  "ultimo tic": 12456,
+  "tics por fase": {
+   "countdown": 480,
+   "live": 11976
+  },
+  "tics vivos": 11976,
+  "hp al empezar": 100,
+  "hp al acabar": 5,
+  "ultimo tic con hp>0": 12456,
+  "eventos": {
+   "gift_incoming": {
+    "veces": 13,
+    "primer tic": 2017
+   },
+   "gift_landed": {
+    "veces": 13,
+    "primer tic": 2137
+   },
+   "death_fireworks": {
+    "veces": 9,
+    "primer tic": 795
+   },
+   "boom": {
+    "veces": 9,
+    "primer tic": 795
+   },
+   "zone_warning": {
+    "veces": 5,
+    "primer tic": 7297
+   },
+   "ignition": {
+    "veces": 1,
+    "primer tic": 481
+   },
+   "flood": {
+    "veces": 1,
+    "primer tic": 4281
+   }
+  },
+  "player_config": {
+   "max_ticks": 18240,
+   "ignition_tick": 480,
+   "tick_rate": 24,
+   "slot": 10
+  },
+  "artefacto": [],
+  "cambios de zona": [
+   {
+    "tick": 1,
+    "radius": 24,
+    "damage_per_s": 0,
+    "warn_tick": 7296,
+    "shrink_tick": 7536,
+    "next_radius": 19
+   },
+   {
+    "tick": 7296,
+    "radius": 24,
+    "damage_per_s": 1,
+    "warn_tick": 7296,
+    "shrink_tick": 7536,
+    "next_radius": 19
+   },
+   {
+    "tick": 7644,
+    "radius": 23,
+    "damage_per_s": 1,
+    "warn_tick": 7296,
+    "shrink_tick": 7536,
+    "next_radius": 19
+   },
+   {
+    "tick": 7752,
+    "radius": 22,
+    "damage_per_s": 1,
+    "warn_tick": 7296,
+    "shrink_tick": 7536,
+    "next_radius": 19
+   },
+   {
+    "tick": 7860,
+    "radius": 21,
+    "damage_per_s": 1,
+    "warn_tick": 7296,
+    "shrink_tick": 7536,
+    "next_radius": 19
+   },
+   {
+    "tick": 7968,
+    "radius": 20,
+    "damage_per_s": 1,
+    "warn_tick": 7296,
+    "shrink_tick": 7536,
+    "next_radius": 19
+   },
+   {
+    "tick": 8076,
+    "radius": 19,
+    "damage_per_s": 1,
+    "warn_tick": 8436,
+    "shrink_tick": 8676,
+    "next_radius": 15
+   },
+   {
+    "tick": 8436,
+    "radius": 19,
+    "damage_per_s": 2,
+    "warn_tick": 8436,
+    "shrink_tick": 8676,
+    "next_radius": 15
+   },
+   {
+    "tick": 8811,
+    "radius": 18,
+    "damage_per_s": 2,
+    "warn_tick": 8436,
+    "shrink_tick": 8676,
+    "next_radius": 15
+   },
+   {
+    "tick": 8946,
+    "radius": 17,
+    "damage_per_s": 2,
+    "warn_tick": 8436,
+    "shrink_tick": 8676,
+    "next_radius": 15
+   },
+   {
+    "tick": 9081,
+    "radius": 16,
+    "damage_per_s": 2,
+    "warn_tick": 8436,
+    "shrink_tick": 8676,
+    "next_radius": 15
+   },
+   {
+    "tick": 9216,
+    "radius": 15,
+    "damage_per_s": 2,
+    "warn_tick": 9576,
+    "shrink_tick": 9816,
+    "next_radius": 11
+   },
+   {
+    "tick": 9576,
+    "radius": 15,
+    "damage_per_s": 4,
+    "warn_tick": 9576,
+    "shrink_tick": 9816,
+    "next_radius": 11
+   },
+   {
+    "tick": 9951,
+    "radius": 14,
+    "damage_per_s": 4,
+    "warn_tick": 9576,
+    "shrink_tick": 9816,
+    "next_radius": 11
+   },
+   {
+    "tick": 10086,
+    "radius": 13,
+    "damage_per_s": 4,
+    "warn_tick": 9576,
+    "shrink_tick": 9816,
+    "next_radius": 11
+   },
+   {
+    "tick": 10221,
+    "radius": 12,
+    "damage_per_s": 4,
+    "warn_tick": 9576,
+    "shrink_tick": 9816,
+    "next_radius": 11
+   },
+   {
+    "tick": 10356,
+    "radius": 11,
+    "damage_per_s": 4,
+    "warn_tick": 10716,
+    "shrink_tick": 10956,
+    "next_radius": 8
+   },
+   {
+    "tick": 10716,
+    "radius": 11,
+    "damage_per_s": 6,
+    "warn_tick": 10716,
+    "shrink_tick": 10956,
+    "next_radius": 8
+   },
+   {
+    "tick": 11136,
+    "radius": 10,
+    "damage_per_s": 6,
+    "warn_tick": 10716,
+    "shrink_tick": 10956,
+    "next_radius": 8
+   },
+   {
+    "tick": 11316,
+    "radius": 9,
+    "damage_per_s": 6,
+    "warn_tick": 10716,
+    "shrink_tick": 10956,
+    "next_radius": 8
+   },
+   {
+    "tick": 11496,
+    "radius": 8,
+    "damage_per_s": 6,
+    "warn_tick": 11856,
+    "shrink_tick": 12096,
+    "next_radius": 5
+   },
+   {
+    "tick": 11856,
+    "radius": 8,
+    "damage_per_s": 8,
+    "warn_tick": 11856,
+    "shrink_tick": 12096,
+    "next_radius": 5
+   },
+   {
+    "tick": 12276,
+    "radius": 7,
+    "damage_per_s": 8,
+    "warn_tick": 11856,
+    "shrink_tick": 12096,
+    "next_radius": 5
+   },
+   {
+    "tick": 12456,
+    "radius": 6,
+    "damage_per_s": 8,
+    "warn_tick": 11856,
+    "shrink_tick": 12096,
+    "next_radius": 5
+   }
+  ]
+ },
+ "11": {
+  "fichero": "ereq_50c6300c-d5c0-47d4-a4b9-da5a8e256bfa-policy_agent_11.art.log",
+  "bytes": 1684097,
+  "lineas": 891,
+  "registros por clase": {
+   "tick": 856,
+   "static_map": 9,
+   "catalogo": 9,
+   "voz": 8,
+   "arranque": 1,
+   "cortex": 1,
+   "mapa_volcado": 1,
+   "player_config": 1,
+   "mundo_leido": 1,
+   "allocate_enviado": 1
+  },
+  "primer tic": 1,
+  "ultimo tic": 856,
+  "tics por fase": {
+   "countdown": 480,
+   "live": 376
+  },
+  "tics vivos": 376,
+  "hp al empezar": 100,
+  "hp al acabar": 1,
+  "ultimo tic con hp>0": 856,
+  "eventos": {
+   "ignition": {
+    "veces": 1,
+    "primer tic": 481
+   },
+   "death_fireworks": {
+    "veces": 1,
+    "primer tic": 795
+   },
+   "boom": {
+    "veces": 1,
+    "primer tic": 795
+   }
+  },
+  "player_config": {
+   "max_ticks": 18240,
+   "ignition_tick": 480,
+   "tick_rate": 24,
+   "slot": 11
+  },
+  "artefacto": [],
+  "cambios de zona": [
+   {
+    "tick": 1,
+    "radius": 24,
+    "damage_per_s": 0,
+    "warn_tick": 7296,
+    "shrink_tick": 7536,
+    "next_radius": 19
+   }
+  ]
+ }
+}

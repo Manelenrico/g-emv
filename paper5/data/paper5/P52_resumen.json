@@ -1,0 +1,44 @@
+{
+ "semilla": 20260919,
+ "diarios": 40,
+ "interruptores de v42 leidos del diario": [
+  "v42_exp EMPATIA_ON H_PREV 0.25 H_GOLPE 1.0 MIEDO_ON False VIDA_AJENA_ON False"
+ ],
+ "reproduccion": {
+  "tics": 112865,
+  "reproducidos": 112865,
+  "escenas": 2230
+ },
+ "cajas": {
+  "ahora": {
+   "aceptada": 3,
+   "coincide": 2110,
+   "rechazada": 90,
+   "vetada": 0,
+   "intraducible": 27,
+   "dormida": 0
+  },
+  "despues": {
+   "aceptada": 4,
+   "coincide": 0,
+   "rechazada": 49,
+   "vetada": 730,
+   "intraducible": 0,
+   "dormida": 125
+  },
+  "azar": {
+   "aceptada": 10,
+   "coincide": 0,
+   "rechazada": 539,
+   "vetada": 0,
+   "intraducible": 0,
+   "dormida": 0
+  }
+ },
+ "saltos": {
+  "sin_forma": 0,
+  "sin_mejor": 1242,
+  "muerto": 80,
+  "sin_alcanzable": 1681
+ }
+}

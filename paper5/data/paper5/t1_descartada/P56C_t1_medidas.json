@@ -1,0 +1,170 @@
+{
+ "formas/A": {
+  "cuentas": {
+   "asientos": 8,
+   "propuestas": 0,
+   "evaluadas": 0,
+   "aceptadas": 0,
+   "caidas": 0
+  },
+  "aceptadas_por_vida": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "veredictos": {},
+  "motivos_caida": {}
+ },
+ "formas/F": {
+  "cuentas": {
+   "asientos": 8,
+   "propuestas": 175,
+   "evaluadas": 176,
+   "aceptadas": 5,
+   "caidas": 4
+  },
+  "aceptadas_por_vida": [
+   0,
+   1,
+   1,
+   1,
+   2,
+   0,
+   0,
+   0
+  ],
+  "veredictos": {
+   "area": 88,
+   "el consejero callo": 82,
+   "ok": 5,
+   "revienta: RuntimeError": 1
+  },
+  "motivos_caida": {
+   "en la reevaluacion deja de ganar (area)": 4
+  }
+ },
+ "formas/T": {
+  "cuentas": {
+   "asientos": 8,
+   "propuestas": 336,
+   "evaluadas": 336,
+   "aceptadas": 2,
+   "caidas": 0
+  },
+  "aceptadas_por_vida": [
+   0,
+   1,
+   1,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "veredictos": {
+   "area": 330,
+   "ok": 2,
+   "vida": 4
+  },
+  "motivos_caida": {}
+ },
+ "despues/F": [
+  {
+   "semilla": 20260916,
+   "slot": 11,
+   "tick": 3171,
+   "d_real": 3.44018,
+   "d_proy": 3.44446,
+   "veredicto": "acierto",
+   "d_A_zona": 3.20145
+  },
+  {
+   "semilla": 20365645,
+   "slot": 10,
+   "tick": 3224,
+   "d_real": 4.89789,
+   "d_proy": 4.40768,
+   "veredicto": "fallo",
+   "d_A_zona": 3.09457
+  },
+  {
+   "semilla": 20470374,
+   "slot": 10,
+   "tick": 2985,
+   "d_real": 3.49854,
+   "d_proy": 3.33099,
+   "veredicto": "fallo",
+   "d_A_zona": null
+  },
+  {
+   "semilla": 20470374,
+   "slot": 10,
+   "tick": 8844,
+   "d_real": 3.90025,
+   "d_proy": 4.39767,
+   "veredicto": "acierto",
+   "d_A_zona": null
+  },
+  {
+   "semilla": 20470374,
+   "slot": 10,
+   "tick": 8862,
+   "d_real": 3.3017,
+   "d_proy": 3.93511,
+   "veredicto": "acierto",
+   "d_A_zona": null
+  }
+ ],
+ "despues/T": [
+  {
+   "semilla": 20260916,
+   "slot": 11,
+   "tick": 4511,
+   "d_real": 3.89645,
+   "d_proy": 3.90437,
+   "veredicto": "acierto",
+   "d_A_zona": 3.20145
+  },
+  {
+   "semilla": 20260916,
+   "slot": 11,
+   "tick": 4522,
+   "d_real": 3.88804,
+   "d_proy": 3.88804,
+   "veredicto": "acierto",
+   "d_A_zona": 3.20702
+  },
+  {
+   "semilla": 20260916,
+   "slot": 11,
+   "tick": 4566,
+   "d_real": 3.87033,
+   "d_proy": 3.56587,
+   "veredicto": "fallo",
+   "d_A_zona": 3.20702
+  },
+  {
+   "semilla": 20365645,
+   "slot": 10,
+   "tick": 13761,
+   "d_real": 4.64595,
+   "d_proy": 4.65306,
+   "veredicto": "acierto",
+   "d_A_zona": null
+  },
+  {
+   "semilla": 20365645,
+   "slot": 10,
+   "tick": 13783,
+   "d_real": 4.57725,
+   "d_proy": 4.14673,
+   "veredicto": "fallo",
+   "d_A_zona": null
+  }
+ ]
+}

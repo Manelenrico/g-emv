@@ -1,0 +1,745 @@
+{
+ "A2": {
+  "resumen": {
+   "etiqueta": "A2",
+   "vidas": 40,
+   "episodios": 20,
+   "vida_media": 11235.2,
+   "vida_mediana": 11977,
+   "golpes_ciegos_total": 0,
+   "golpes_ciegos_por_vida": 0.0,
+   "2c_tics_total": 275158,
+   "2c_tics_por_vida": 6878.9,
+   "los_dos_al_aviso": 18,
+   "los_dos_al_cierre": 18,
+   "sobrevive_el_otro_mediana": 1017,
+   "disc_mediana": 0.0,
+   "disc_suma": 344.9,
+   "disc_s8_mediana": 0.0,
+   "disc_s8_suma": 221.7,
+   "n_disc": 4936,
+   "fam_pct": {
+    "cuerpo": 22.4,
+    "recursos": 33.8,
+    "vinculos": 43.8
+   },
+   "fam_neto": {
+    "cuerpo": 60.6,
+    "recursos": 40.6,
+    "vinculos": 182.2
+   },
+   "recuento": {
+    "episodios": 20,
+    "tics con inyeccion a10": 127682,
+    "tics con inyeccion a11": 143316,
+    "candidatos vetados": 194,
+    "partes E2 dichos": 17226,
+    "fallos de emision": 0
+   }
+  },
+  "vidas": [
+   {
+    "semilla": 20260916,
+    "slot": 10,
+    "tics": 9540,
+    "puesto": 14,
+    "razon": "eliminated",
+    "golpes_ciegos": 0,
+    "vivo_al_aviso": true,
+    "vivo_al_cierre": true,
+    "tics_inyeccion": 8113
+   },
+   {
+    "semilla": 20260916,
+    "slot": 11,
+    "tics": 8793,
+    "puesto": 15,
+    "razon": "eliminated",
+    "golpes_ciegos": 0,
+    "vivo_al_aviso": true,
+    "vivo_al_cierre": true,
+    "tics_inyeccion": 2918
+   },
+   {
+    "semilla": 20365645,
+    "slot": 10,
+    "tics": 13474,
+    "puesto": 2,
+    "razon": "match_over",
+    "golpes_ciegos": 0,
+    "vivo_al_aviso": true,
+    "vivo_al_cierre": true,
+    "tics_inyeccion": 5665
+   },
+   {
+    "semilla": 20365645,
+    "slot": 11,
+    "tics": 10821,
+    "puesto": 8,
+    "razon": "eliminated",
+    "golpes_ciegos": 0,
+    "vivo_al_aviso": true,
+    "vivo_al_cierre": true,
+    "tics_inyeccion": 6646
+   },
+   {
+    "semilla": 20470374,
+    "slot": 10,
+    "tics": 11233,
+    "puesto": 15,
+    "razon": "eliminated",
+    "golpes_ciegos": 0,
+    "vivo_al_aviso": true,
+    "vivo_al_cierre": true,
+    "tics_inyeccion": 6153
+   },
+   {
+    "semilla": 20470374,
+    "slot": 11,
+    "tics": 12793,
+    "puesto": 4,
+    "razon": "eliminated",
+    "golpes_ciegos": 0,
+    "vivo_al_aviso": true,
+    "vivo_al_cierre": true,
+    "tics_inyeccion": 4131
+   },
+   {
+    "semilla": 20575103,
+    "slot": 10,
+    "tics": 9408,
+    "puesto": 13,
+    "razon": "eliminated",
+    "golpes_ciegos": 0,
+    "vivo_al_aviso": true,
+    "vivo_al_cierre": true,
+    "tics_inyeccion": 6790
+   },
+   {
+    "semilla": 20575103,
+    "slot": 11,
+    "tics": 10314,
+    "puesto": 11,
+    "razon": "eliminated",
+    "golpes_ciegos": 0,
+    "vivo_al_aviso": true,
+    "vivo_al_cierre": true,
+    "tics_inyeccion": 7217
+   },
+   {
+    "semilla": 20679832,
+    "slot": 10,
+    "tics": 5786,
+    "puesto": 14,
+    "razon": "eliminated",
+    "golpes_ciegos": 0,
+    "vivo_al_aviso": false,
+    "vivo_al_cierre": false,
+    "tics_inyeccion": 2576
+   },
+   {
+    "semilla": 20679832,
+    "slot": 11,
+    "tics": 11953,
+    "puesto": 8,
+    "razon": "eliminated",
+    "golpes_ciegos": 0,
+    "vivo_al_aviso": true,
+    "vivo_al_cierre": true,
+    "tics_inyeccion": 4616
+   },
+   {
+    "semilla": 20784561,
+    "slot": 10,
+    "tics": 12505,
+    "puesto": 5,
+    "razon": "eliminated",
+    "golpes_ciegos": 0,
+    "vivo_al_aviso": true,
+    "vivo_al_cierre": true,
+    "tics_inyeccion": 8402
+   },
+   {
+    "semilla": 20784561,
+    "slot": 11,
+    "tics": 12649,
+    "puesto": 4,
+    "razon": "eliminated",
+    "golpes_ciegos": 0,
+    "vivo_al_aviso": true,
+    "vivo_al_cierre": true,
+    "tics_inyeccion": 7410
+   },
+   {
+    "semilla": 20889290,
+    "slot": 10,
+    "tics": 11550,
+    "puesto": 10,
+    "razon": "eliminated",
+    "golpes_ciegos": 0,
+    "vivo_al_aviso": true,
+    "vivo_al_cierre": true,
+    "tics_inyeccion": 6578
+   },
+   {
+    "semilla": 20889290,
+    "slot": 11,
+    "tics": 10801,
+    "puesto": 12,
+    "razon": "eliminated",
+    "golpes_ciegos": 0,
+    "vivo_al_aviso": true,
+    "vivo_al_cierre": true,
+    "tics_inyeccion": 7901
+   },
+   {
+    "semilla": 20994019,
+    "slot": 10,
+    "tics": 12169,
+    "puesto": 3,
+    "razon": "eliminated",
+    "golpes_ciegos": 0,
+    "vivo_al_aviso": true,
+    "vivo_al_cierre": true,
+    "tics_inyeccion": 10614
+   },
+   {
+    "semilla": 20994019,
+    "slot": 11,
+    "tics": 12134,
+    "puesto": 4,
+    "razon": "eliminated",
+    "golpes_ciegos": 0,
+    "vivo_al_aviso": true,
+    "vivo_al_cierre": true,
+    "tics_inyeccion": 11023
+   },
+   {
+    "semilla": 21098748,
+    "slot": 10,
+    "tics": 14630,
+    "puesto": 1,
+    "razon": "winner",
+    "golpes_ciegos": 0,
+    "vivo_al_aviso": true,
+    "vivo_al_cierre": true,
+    "tics_inyeccion": 6689
+   },
+   {
+    "semilla": 21098748,
+    "slot": 11,
+    "tics": 13057,
+    "puesto": 4,
+    "razon": "eliminated",
+    "golpes_ciegos": 0,
+    "vivo_al_aviso": true,
+    "vivo_al_cierre": true,
+    "tics_inyeccion": 10805
+   },
+   {
+    "semilla": 21203477,
+    "slot": 10,
+    "tics": 8568,
+    "puesto": 15,
+    "razon": "eliminated",
+    "golpes_ciegos": 0,
+    "vivo_al_aviso": true,
+    "vivo_al_cierre": true,
+    "tics_inyeccion": 4579
+   },
+   {
+    "semilla": 21203477,
+    "slot": 11,
+    "tics": 12025,
+    "puesto": 5,
+    "razon": "eliminated",
+    "golpes_ciegos": 0,
+    "vivo_al_aviso": true,
+    "vivo_al_cierre": true,
+    "tics_inyeccion": 6914
+   },
+   {
+    "semilla": 21308206,
+    "slot": 10,
+    "tics": 12937,
+    "puesto": 3,
+    "razon": "eliminated",
+    "golpes_ciegos": 0,
+    "vivo_al_aviso": true,
+    "vivo_al_cierre": true,
+    "tics_inyeccion": 6199
+   },
+   {
+    "semilla": 21308206,
+    "slot": 11,
+    "tics": 11569,
+    "puesto": 9,
+    "razon": "eliminated",
+    "golpes_ciegos": 0,
+    "vivo_al_aviso": true,
+    "vivo_al_cierre": true,
+    "tics_inyeccion": 10423
+   },
+   {
+    "semilla": 21412935,
+    "slot": 10,
+    "tics": 14665,
+    "puesto": 2,
+    "razon": "match_over",
+    "golpes_ciegos": 0,
+    "vivo_al_aviso": true,
+    "vivo_al_cierre": true,
+    "tics_inyeccion": 1926
+   },
+   {
+    "semilla": 21412935,
+    "slot": 11,
+    "tics": 9913,
+    "puesto": 14,
+    "razon": "eliminated",
+    "golpes_ciegos": 0,
+    "vivo_al_aviso": true,
+    "vivo_al_cierre": true,
+    "tics_inyeccion": 8499
+   },
+   {
+    "semilla": 21517664,
+    "slot": 10,
+    "tics": 11785,
+    "puesto": 10,
+    "razon": "eliminated",
+    "golpes_ciegos": 0,
+    "vivo_al_aviso": true,
+    "vivo_al_cierre": true,
+    "tics_inyeccion": 8032
+   },
+   {
+    "semilla": 21517664,
+    "slot": 11,
+    "tics": 11348,
+    "puesto": 11,
+    "razon": "eliminated",
+    "golpes_ciegos": 0,
+    "vivo_al_aviso": true,
+    "vivo_al_cierre": true,
+    "tics_inyeccion": 10784
+   },
+   {
+    "semilla": 21622393,
+    "slot": 10,
+    "tics": 2211,
+    "puesto": 14,
+    "razon": "eliminated",
+    "golpes_ciegos": 0,
+    "vivo_al_aviso": false,
+    "vivo_al_cierre": false,
+    "tics_inyeccion": 1700
+   },
+   {
+    "semilla": 21622393,
+    "slot": 11,
+    "tics": 2779,
+    "puesto": 13,
+    "razon": "eliminated",
+    "golpes_ciegos": 0,
+    "vivo_al_aviso": false,
+    "vivo_al_cierre": false,
+    "tics_inyeccion": 1786
+   },
+   {
+    "semilla": 21727122,
+    "slot": 10,
+    "tics": 12673,
+    "puesto": 6,
+    "razon": "eliminated",
+    "golpes_ciegos": 0,
+    "vivo_al_aviso": true,
+    "vivo_al_cierre": true,
+    "tics_inyeccion": 10710
+   },
+   {
+    "semilla": 21727122,
+    "slot": 11,
+    "tics": 12745,
+    "puesto": 5,
+    "razon": "eliminated",
+    "golpes_ciegos": 0,
+    "vivo_al_aviso": true,
+    "vivo_al_cierre": true,
+    "tics_inyeccion": 10394
+   },
+   {
+    "semilla": 21831851,
+    "slot": 10,
+    "tics": 11593,
+    "puesto": 12,
+    "razon": "eliminated",
+    "golpes_ciegos": 0,
+    "vivo_al_aviso": true,
+    "vivo_al_cierre": true,
+    "tics_inyeccion": 6108
+   },
+   {
+    "semilla": 21831851,
+    "slot": 11,
+    "tics": 10845,
+    "puesto": 13,
+    "razon": "eliminated",
+    "golpes_ciegos": 0,
+    "vivo_al_aviso": true,
+    "vivo_al_cierre": true,
+    "tics_inyeccion": 7934
+   },
+   {
+    "semilla": 21936580,
+    "slot": 10,
+    "tics": 12001,
+    "puesto": 8,
+    "razon": "eliminated",
+    "golpes_ciegos": 0,
+    "vivo_al_aviso": true,
+    "vivo_al_cierre": true,
+    "tics_inyeccion": 6105
+   },
+   {
+    "semilla": 21936580,
+    "slot": 11,
+    "tics": 13129,
+    "puesto": 3,
+    "razon": "eliminated",
+    "golpes_ciegos": 0,
+    "vivo_al_aviso": true,
+    "vivo_al_cierre": true,
+    "tics_inyeccion": 5273
+   },
+   {
+    "semilla": 22041309,
+    "slot": 10,
+    "tics": 10513,
+    "puesto": 15,
+    "razon": "eliminated",
+    "golpes_ciegos": 0,
+    "vivo_al_aviso": true,
+    "vivo_al_cierre": true,
+    "tics_inyeccion": 4795
+   },
+   {
+    "semilla": 22041309,
+    "slot": 11,
+    "tics": 12625,
+    "puesto": 6,
+    "razon": "eliminated",
+    "golpes_ciegos": 0,
+    "vivo_al_aviso": true,
+    "vivo_al_cierre": true,
+    "tics_inyeccion": 4570
+   },
+   {
+    "semilla": 22146038,
+    "slot": 10,
+    "tics": 12277,
+    "puesto": 7,
+    "razon": "eliminated",
+    "golpes_ciegos": 0,
+    "vivo_al_aviso": true,
+    "vivo_al_cierre": true,
+    "tics_inyeccion": 10201
+   },
+   {
+    "semilla": 22146038,
+    "slot": 11,
+    "tics": 12361,
+    "puesto": 6,
+    "razon": "eliminated",
+    "golpes_ciegos": 0,
+    "vivo_al_aviso": true,
+    "vivo_al_cierre": true,
+    "tics_inyeccion": 9769
+   },
+   {
+    "semilla": 22250767,
+    "slot": 10,
+    "tics": 12961,
+    "puesto": 7,
+    "razon": "eliminated",
+    "golpes_ciegos": 0,
+    "vivo_al_aviso": true,
+    "vivo_al_cierre": true,
+    "tics_inyeccion": 5747
+   },
+   {
+    "semilla": 22250767,
+    "slot": 11,
+    "tics": 14275,
+    "puesto": 5,
+    "razon": "eliminated",
+    "golpes_ciegos": 0,
+    "vivo_al_aviso": true,
+    "vivo_al_cierre": true,
+    "tics_inyeccion": 4303
+   }
+  ],
+  "por_semilla": {
+   "20260916": {
+    "tics": {
+     "10": 9540,
+     "11": 8793
+    },
+    "2c_tics": 3815,
+    "golpes_ciegos": 0,
+    "los_dos_al_aviso": true,
+    "los_dos_al_cierre": true,
+    "primero": 11,
+    "sobrevive_el_otro": 747,
+    "tics_inyeccion": 11031
+   },
+   "20365645": {
+    "tics": {
+     "10": 13474,
+     "11": 10821
+    },
+    "2c_tics": 12824,
+    "golpes_ciegos": 0,
+    "los_dos_al_aviso": true,
+    "los_dos_al_cierre": true,
+    "primero": 11,
+    "sobrevive_el_otro": 2653,
+    "tics_inyeccion": 12311
+   },
+   "20470374": {
+    "tics": {
+     "10": 11233,
+     "11": 12793
+    },
+    "2c_tics": 2260,
+    "golpes_ciegos": 0,
+    "los_dos_al_aviso": true,
+    "los_dos_al_cierre": true,
+    "primero": 10,
+    "sobrevive_el_otro": 1560,
+    "tics_inyeccion": 10284
+   },
+   "20575103": {
+    "tics": {
+     "10": 9408,
+     "11": 10314
+    },
+    "2c_tics": 23911,
+    "golpes_ciegos": 0,
+    "los_dos_al_aviso": true,
+    "los_dos_al_cierre": true,
+    "primero": 10,
+    "sobrevive_el_otro": 906,
+    "tics_inyeccion": 14007
+   },
+   "20679832": {
+    "tics": {
+     "10": 5786,
+     "11": 11953
+    },
+    "2c_tics": 13955,
+    "golpes_ciegos": 0,
+    "los_dos_al_aviso": false,
+    "los_dos_al_cierre": false,
+    "primero": 10,
+    "sobrevive_el_otro": 6167,
+    "tics_inyeccion": 7192
+   },
+   "20784561": {
+    "tics": {
+     "10": 12505,
+     "11": 12649
+    },
+    "2c_tics": 17352,
+    "golpes_ciegos": 0,
+    "los_dos_al_aviso": true,
+    "los_dos_al_cierre": true,
+    "primero": 10,
+    "sobrevive_el_otro": 144,
+    "tics_inyeccion": 15812
+   },
+   "20889290": {
+    "tics": {
+     "10": 11550,
+     "11": 10801
+    },
+    "2c_tics": 22287,
+    "golpes_ciegos": 0,
+    "los_dos_al_aviso": true,
+    "los_dos_al_cierre": true,
+    "primero": 11,
+    "sobrevive_el_otro": 749,
+    "tics_inyeccion": 14479
+   },
+   "20994019": {
+    "tics": {
+     "10": 12169,
+     "11": 12134
+    },
+    "2c_tics": 16105,
+    "golpes_ciegos": 0,
+    "los_dos_al_aviso": true,
+    "los_dos_al_cierre": true,
+    "primero": 11,
+    "sobrevive_el_otro": 35,
+    "tics_inyeccion": 21637
+   },
+   "21098748": {
+    "tics": {
+     "10": 14630,
+     "11": 13057
+    },
+    "2c_tics": 1467,
+    "golpes_ciegos": 0,
+    "los_dos_al_aviso": true,
+    "los_dos_al_cierre": true,
+    "primero": 11,
+    "sobrevive_el_otro": 1573,
+    "tics_inyeccion": 17494
+   },
+   "21203477": {
+    "tics": {
+     "10": 8568,
+     "11": 12025
+    },
+    "2c_tics": 578,
+    "golpes_ciegos": 0,
+    "los_dos_al_aviso": true,
+    "los_dos_al_cierre": true,
+    "primero": 10,
+    "sobrevive_el_otro": 3457,
+    "tics_inyeccion": 11493
+   },
+   "21308206": {
+    "tics": {
+     "10": 12937,
+     "11": 11569
+    },
+    "2c_tics": 3565,
+    "golpes_ciegos": 0,
+    "los_dos_al_aviso": true,
+    "los_dos_al_cierre": true,
+    "primero": 11,
+    "sobrevive_el_otro": 1368,
+    "tics_inyeccion": 16622
+   },
+   "21412935": {
+    "tics": {
+     "10": 14665,
+     "11": 9913
+    },
+    "2c_tics": 46870,
+    "golpes_ciegos": 0,
+    "los_dos_al_aviso": true,
+    "los_dos_al_cierre": true,
+    "primero": 11,
+    "sobrevive_el_otro": 4752,
+    "tics_inyeccion": 10425
+   },
+   "21517664": {
+    "tics": {
+     "10": 11785,
+     "11": 11348
+    },
+    "2c_tics": 39944,
+    "golpes_ciegos": 0,
+    "los_dos_al_aviso": true,
+    "los_dos_al_cierre": true,
+    "primero": 11,
+    "sobrevive_el_otro": 437,
+    "tics_inyeccion": 18816
+   },
+   "21622393": {
+    "tics": {
+     "10": 2211,
+     "11": 2779
+    },
+    "2c_tics": 10001,
+    "golpes_ciegos": 0,
+    "los_dos_al_aviso": false,
+    "los_dos_al_cierre": false,
+    "primero": 10,
+    "sobrevive_el_otro": 568,
+    "tics_inyeccion": 3486
+   },
+   "21727122": {
+    "tics": {
+     "10": 12673,
+     "11": 12745
+    },
+    "2c_tics": 18763,
+    "golpes_ciegos": 0,
+    "los_dos_al_aviso": true,
+    "los_dos_al_cierre": true,
+    "primero": 10,
+    "sobrevive_el_otro": 72,
+    "tics_inyeccion": 21104
+   },
+   "21831851": {
+    "tics": {
+     "10": 11593,
+     "11": 10845
+    },
+    "2c_tics": 1321,
+    "golpes_ciegos": 0,
+    "los_dos_al_aviso": true,
+    "los_dos_al_cierre": true,
+    "primero": 11,
+    "sobrevive_el_otro": 748,
+    "tics_inyeccion": 14042
+   },
+   "21936580": {
+    "tics": {
+     "10": 12001,
+     "11": 13129
+    },
+    "2c_tics": 5936,
+    "golpes_ciegos": 0,
+    "los_dos_al_aviso": true,
+    "los_dos_al_cierre": true,
+    "primero": 10,
+    "sobrevive_el_otro": 1128,
+    "tics_inyeccion": 11378
+   },
+   "22041309": {
+    "tics": {
+     "10": 10513,
+     "11": 12625
+    },
+    "2c_tics": 4560,
+    "golpes_ciegos": 0,
+    "los_dos_al_aviso": true,
+    "los_dos_al_cierre": true,
+    "primero": 10,
+    "sobrevive_el_otro": 2112,
+    "tics_inyeccion": 9365
+   },
+   "22146038": {
+    "tics": {
+     "10": 12277,
+     "11": 12361
+    },
+    "2c_tics": 22861,
+    "golpes_ciegos": 0,
+    "los_dos_al_aviso": true,
+    "los_dos_al_cierre": true,
+    "primero": 10,
+    "sobrevive_el_otro": 84,
+    "tics_inyeccion": 19970
+   },
+   "22250767": {
+    "tics": {
+     "10": 12961,
+     "11": 14275
+    },
+    "2c_tics": 6783,
+    "golpes_ciegos": 0,
+    "los_dos_al_aviso": true,
+    "los_dos_al_cierre": true,
+    "primero": 10,
+    "sobrevive_el_otro": 1314,
+    "tics_inyeccion": 10050
+   }
+  }
+ }
+}

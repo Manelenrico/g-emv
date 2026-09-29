@@ -1,0 +1,58 @@
+{
+ "n": 19,
+ "baja": {
+  "F-4-ALCANCE": 6,
+  "R-LLAMADA": 8,
+  "S-8-EXPOSICION": 1,
+  "F-REENCUENTRO": 4
+ },
+ "sube": {
+  "F-4-ALCANCE": 9,
+  "R-LLAMADA": 9,
+  "F-REENCUENTRO": 1
+ },
+ "ejemplos": [
+  {
+   "diario": "ereq_051a3cdd-2095-479b-a057",
+   "tic": 1450,
+   "punto": 1,
+   "de": 2,
+   "area": 0.005,
+   "baja": {
+    "F-4-ALCANCE": -0.0062
+   }
+  },
+  {
+   "diario": "ereq_051a3cdd-2095-479b-a057",
+   "tic": 2300,
+   "punto": 1,
+   "de": 2,
+   "area": 0.021,
+   "baja": {
+    "R-LLAMADA": 0.0351
+   }
+  },
+  {
+   "diario": "ereq_051a3cdd-2095-479b-a057",
+   "tic": 2350,
+   "punto": 1,
+   "de": 2,
+   "area": 0.0057,
+   "baja": {
+    "R-LLAMADA": -0.0408,
+    "S-8-EXPOSICION": -0.0264,
+    "F-4-ALCANCE": -0.0121
+   }
+  },
+  {
+   "diario": "ereq_16755035-0ab1-4ef3-8a0c",
+   "tic": 700,
+   "punto": 1,
+   "de": 2,
+   "area": 0.0038,
+   "baja": {
+    "F-4-ALCANCE": -0.0037
+   }
+  }
+ ]
+}

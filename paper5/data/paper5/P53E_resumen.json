@@ -1,0 +1,731 @@
+{
+ "semilla": 20260919,
+ "escenas": 2230,
+ "B0": {
+  "escenas": 2230,
+  "con destino": 89,
+  "llego": 35,
+  "fraccion": 0.39325842696629215,
+  "tic mediano de llegada": 1
+ },
+ "regla": {
+  "ahora": {
+   "coincide": 2230
+  },
+  "despues": {
+   "area": 838,
+   "coincide": 2,
+   "ok": 44,
+   "vida": 24
+  },
+  "azarp": {
+   "area": 859,
+   "ok": 19,
+   "vida": 30
+  }
+ },
+ "vida_min alternativa": {
+  "ahora": {
+   "10": {},
+   "20": {}
+  },
+  "despues": {
+   "10": {
+    "area": 846,
+    "ok": 46,
+    "vida": 14
+   },
+   "20": {
+    "area": 837,
+    "ok": 44,
+    "vida": 25
+   }
+  },
+  "azarp": {
+   "10": {
+    "area": 869,
+    "ok": 19,
+    "vida": 20
+   },
+   "20": {
+    "area": 857,
+    "ok": 19,
+    "vida": 32
+   }
+  }
+ },
+ "cajas": {
+  "estricto": {
+   "ahora": {
+    "coincide": 2230
+   },
+   "despues": {
+    "rechazada_area": 838,
+    "coincide": 2,
+    "vetada": 39,
+    "rechazada_vida": 24,
+    "aceptada": 4,
+    "rechazada": 1
+   },
+   "azarp": {
+    "rechazada_area": 859,
+    "vetada": 18,
+    "rechazada_vida": 30,
+    "rechazada": 1
+   }
+  },
+  "ventana": {
+   "ahora": {
+    "coincide": 2230
+   },
+   "despues": {
+    "rechazada_area": 838,
+    "coincide": 2,
+    "aceptada": 28,
+    "rechazada": 16,
+    "rechazada_vida": 24
+   },
+   "azarp": {
+    "rechazada_area": 859,
+    "rechazada": 16,
+    "rechazada_vida": 30,
+    "aceptada": 3
+   }
+  },
+  "vida": {
+   "ahora": {
+    "coincide": 2230
+   },
+   "despues": {
+    "rechazada_area": 838,
+    "coincide": 2,
+    "aceptada": 37,
+    "rechazada_vida": 24,
+    "rechazada": 7
+   },
+   "azarp": {
+    "rechazada_area": 859,
+    "rechazada": 11,
+    "aceptada": 8,
+    "rechazada_vida": 30
+   }
+  }
+ },
+ "fila que tumba": {
+  "ahora": {},
+  "despues": {
+   "F-REENCUENTRO": 1
+  },
+  "azarp": {
+   "S-8-EXPOSICION": 1
+  }
+ },
+ "punto donde pierde": {
+  "ahora": {},
+  "despues": {
+   "punto 1 de 3": 20,
+   "punto 1 de 4": 428,
+   "punto 3 de 4": 45,
+   "punto 2 de 4": 202,
+   "punto 4 de 4": 51,
+   "punto 1 de 1": 70,
+   "punto 1 de 2": 14,
+   "punto 3 de 3": 3,
+   "punto 2 de 2": 3,
+   "punto 2 de 3": 2
+  },
+  "azarp": {
+   "punto 1 de 2": 834,
+   "punto 2 de 2": 25
+  }
+ },
+ "coste_ms": {
+  "n": 1814,
+  "mediana": 4.215374996419996,
+  "p90": 5.639999988488853,
+  "max": 8.136457996442914,
+  "candidatos medianos": 18
+ },
+ "quien es la mejor propia": {
+  "ahora": {},
+  "despues": {
+   "noop": 453,
+   "_SE_MUEVE": 452,
+   "ir_botin": 293,
+   "ir_centro": 80,
+   "ir_objeto": 69,
+   "ir_pareja": 10,
+   "usar_racion": 1
+  },
+  "azarp": {
+   "_SE_MUEVE": 482,
+   "noop": 424,
+   "ir_botin": 312,
+   "ir_centro": 87,
+   "ir_objeto": 72,
+   "ir_pareja": 11,
+   "usar_racion": 1,
+   "usar_botiquin": 1
+  }
+ },
+ "en que punto gana": {
+  "ahora": {},
+  "despues": {
+   "punto 3 de 4": 8,
+   "punto 1 de 4": 17,
+   "punto 2 de 4": 12,
+   "punto 4 de 4": 7
+  },
+  "azarp": {
+   "punto 1 de 2": 19
+  }
+ },
+ "margenes": {
+  "0.0": {
+   "ahora": {
+    "estricto": {},
+    "ventana": {},
+    "vida": {}
+   },
+   "despues": {
+    "estricto": {
+     "caducada": 44
+    },
+    "ventana": {
+     "caducada": 44
+    },
+    "vida": {
+     "aceptada": 37,
+     "rechazada": 7
+    }
+   },
+   "azarp": {
+    "estricto": {
+     "caducada": 19
+    },
+    "ventana": {
+     "caducada": 19
+    },
+    "vida": {
+     "aceptada": 8,
+     "rechazada": 11
+    }
+   }
+  },
+  "0.02": {
+   "ahora": {
+    "estricto": {},
+    "ventana": {},
+    "vida": {}
+   },
+   "despues": {
+    "estricto": {
+     "caducada": 36,
+     "rechazada_area": 8
+    },
+    "ventana": {
+     "caducada": 36,
+     "rechazada_area": 8
+    },
+    "vida": {
+     "aceptada": 32,
+     "rechazada_area": 8,
+     "rechazada": 4
+    }
+   },
+   "azarp": {
+    "estricto": {
+     "rechazada_area": 13,
+     "caducada": 6
+    },
+    "ventana": {
+     "rechazada_area": 13,
+     "caducada": 6
+    },
+    "vida": {
+     "rechazada_area": 13,
+     "rechazada": 4,
+     "aceptada": 2
+    }
+   }
+  },
+  "0.05": {
+   "ahora": {
+    "estricto": {},
+    "ventana": {},
+    "vida": {}
+   },
+   "despues": {
+    "estricto": {
+     "caducada": 30,
+     "rechazada_area": 14
+    },
+    "ventana": {
+     "caducada": 30,
+     "rechazada_area": 14
+    },
+    "vida": {
+     "aceptada": 27,
+     "rechazada_area": 14,
+     "rechazada": 3
+    }
+   },
+   "azarp": {
+    "estricto": {
+     "rechazada_area": 15,
+     "caducada": 4
+    },
+    "ventana": {
+     "rechazada_area": 15,
+     "caducada": 4
+    },
+    "vida": {
+     "rechazada_area": 15,
+     "aceptada": 2,
+     "rechazada": 2
+    }
+   }
+  },
+  "0.1": {
+   "ahora": {
+    "estricto": {},
+    "ventana": {},
+    "vida": {}
+   },
+   "despues": {
+    "estricto": {
+     "caducada": 28,
+     "rechazada_area": 16
+    },
+    "ventana": {
+     "caducada": 28,
+     "rechazada_area": 16
+    },
+    "vida": {
+     "aceptada": 25,
+     "rechazada_area": 16,
+     "rechazada": 3
+    }
+   },
+   "azarp": {
+    "estricto": {
+     "rechazada_area": 15,
+     "caducada": 4
+    },
+    "ventana": {
+     "rechazada_area": 15,
+     "caducada": 4
+    },
+    "vida": {
+     "rechazada_area": 15,
+     "aceptada": 2,
+     "rechazada": 2
+    }
+   }
+  }
+ },
+ "ejemplos": [
+  {
+   "diario": "ereq_051a3cdd-2095-479b-a057-0bb7fae03124-policy_agent_11.art.log",
+   "tic": 4900,
+   "tramos": [
+    {
+     "destino": [
+      27,
+      17
+     ],
+     "intencion": "ir",
+     "esperar": null
+    },
+    {
+     "destino": [
+      28,
+      16
+     ],
+     "intencion": "ir",
+     "esperar": null
+    },
+    {
+     "destino": [
+      27,
+      18
+     ],
+     "intencion": "coger",
+     "esperar": null
+    },
+    {
+     "destino": [
+      27,
+      17
+     ],
+     "intencion": "ir",
+     "esperar": null
+    }
+   ],
+   "puntos_de_control": [
+    {
+     "tic": 4927,
+     "d": 3.3909977755419876,
+     "vida": 59.5,
+     "W": 2.0,
+     "pos": [
+      27,
+      17
+     ]
+    },
+    {
+     "tic": 4938,
+     "d": 3.429119559575665,
+     "vida": 56.75,
+     "W": 2.0,
+     "pos": [
+      28,
+      16
+     ]
+    },
+    {
+     "tic": 4960,
+     "d": 3.0417507118611664,
+     "vida": 100.0,
+     "W": 2.0,
+     "pos": [
+      27,
+      18
+     ]
+    },
+    {
+     "tic": 4971,
+     "d": 3.0553552510348267,
+     "vida": 100.0,
+     "W": 2.0,
+     "pos": [
+      27,
+      17
+     ]
+    }
+   ],
+   "seguir_solo": [
+    {
+     "tic": 4927,
+     "d": 3.3775686500957516,
+     "vida": 59.5
+    },
+    {
+     "tic": 4938,
+     "d": 3.3775686500957516,
+     "vida": 59.5
+    },
+    {
+     "tic": 4960,
+     "d": 3.5084480316710724,
+     "vida": 100.0
+    },
+    {
+     "tic": 4971,
+     "d": 3.5084480316710724,
+     "vida": 100.0
+    }
+   ],
+   "area": 0.3566769624527869,
+   "veredicto": "ok",
+   "detalle": [
+    {
+     "tic": 4927,
+     "peso": 0.73713,
+     "d_forma": 3.391,
+     "d_solo": 3.37757,
+     "gana": -0.0099
+    },
+    {
+     "tic": 4938,
+     "peso": 0.63288,
+     "d_forma": 3.42912,
+     "d_solo": 3.37757,
+     "gana": -0.03263
+    },
+    {
+     "tic": 4960,
+     "peso": 0.46652,
+     "d_forma": 3.04175,
+     "d_solo": 3.50845,
+     "gana": 0.21772
+    },
+    {
+     "tic": 4971,
+     "peso": 0.40053,
+     "d_forma": 3.05536,
+     "d_solo": 3.50845,
+     "gana": 0.18148
+    }
+   ]
+  },
+  {
+   "diario": "ereq_16755035-0ab1-4ef3-8a0c-ef29b9c12bf8-policy_agent_10.art.log",
+   "tic": 550,
+   "tramos": [
+    {
+     "destino": [
+      23,
+      21
+     ],
+     "intencion": "coger",
+     "esperar": null
+    },
+    {
+     "destino": [
+      22,
+      22
+     ],
+     "intencion": "usar",
+     "esperar": null
+    },
+    {
+     "destino": [
+      20,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": null
+    },
+    {
+     "destino": [
+      19,
+      22
+     ],
+     "intencion": "ir",
+     "esperar": null
+    }
+   ],
+   "puntos_de_control": [
+    {
+     "tic": 588,
+     "d": 4.184641080351758,
+     "vida": 39.0,
+     "W": 1.3611111111111112,
+     "pos": [
+      23,
+      21
+     ]
+    },
+    {
+     "tic": 599,
+     "d": 4.184641080351758,
+     "vida": 39.0,
+     "W": 1.3611111111111112,
+     "pos": [
+      22,
+      22
+     ]
+    },
+    {
+     "tic": 621,
+     "d": 4.201490304688757,
+     "vida": 39.0,
+     "W": 1.3611111111111112,
+     "pos": [
+      20,
+      24
+     ]
+    },
+    {
+     "tic": 643,
+     "d": 4.303307439749515,
+     "vida": 39.0,
+     "W": 1.3611111111111112,
+     "pos": [
+      19,
+      22
+     ]
+    }
+   ],
+   "seguir_solo": [
+    {
+     "tic": 588,
+     "d": 4.263677411379996,
+     "vida": 39.0
+    },
+    {
+     "tic": 599,
+     "d": 4.263677411379996,
+     "vida": 39.0
+    },
+    {
+     "tic": 621,
+     "d": 4.263677411379996,
+     "vida": 39.0
+    },
+    {
+     "tic": 643,
+     "d": 4.350603374323271,
+     "vida": 39.0
+    }
+   ],
+   "area": 0.1318382936325393,
+   "veredicto": "ok",
+   "detalle": [
+    {
+     "tic": 588,
+     "peso": 0.63288,
+     "d_forma": 4.18464,
+     "d_solo": 4.26368,
+     "gana": 0.05002
+    },
+    {
+     "tic": 599,
+     "peso": 0.54337,
+     "d_forma": 4.18464,
+     "d_solo": 4.26368,
+     "gana": 0.04295
+    },
+    {
+     "tic": 621,
+     "peso": 0.40053,
+     "d_forma": 4.20149,
+     "d_solo": 4.26368,
+     "gana": 0.02491
+    },
+    {
+     "tic": 643,
+     "peso": 0.29525,
+     "d_forma": 4.30331,
+     "d_solo": 4.3506,
+     "gana": 0.01396
+    }
+   ]
+  },
+  {
+   "diario": "ereq_16755035-0ab1-4ef3-8a0c-ef29b9c12bf8-policy_agent_11.art.log",
+   "tic": 300,
+   "tramos": [
+    {
+     "destino": [
+      25,
+      14
+     ],
+     "intencion": "ir",
+     "esperar": null
+    },
+    {
+     "destino": [
+      27,
+      14
+     ],
+     "intencion": "coger",
+     "esperar": null
+    },
+    {
+     "destino": [
+      26,
+      15
+     ],
+     "intencion": "ir",
+     "esperar": null
+    },
+    {
+     "destino": [
+      23,
+      20
+     ],
+     "intencion": "ir",
+     "esperar": null
+    }
+   ],
+   "puntos_de_control": [
+    {
+     "tic": 318,
+     "d": 3.8792270400692117,
+     "vida": 100.0,
+     "W": 0.0,
+     "pos": [
+      25,
+      14
+     ]
+    },
+    {
+     "tic": 340,
+     "d": 3.532908443471058,
+     "vida": 100.0,
+     "W": 1.0,
+     "pos": [
+      27,
+      14
+     ]
+    },
+    {
+     "tic": 351,
+     "d": 3.5449169378715655,
+     "vida": 100.0,
+     "W": 1.0,
+     "pos": [
+      26,
+      15
+     ]
+    },
+    {
+     "tic": 406,
+     "d": 3.4952900690101294,
+     "vida": 100.0,
+     "W": 1.0,
+     "pos": [
+      23,
+      20
+     ]
+    }
+   ],
+   "seguir_solo": [
+    {
+     "tic": 318,
+     "d": 3.8335434686958765,
+     "vida": 100.0
+    },
+    {
+     "tic": 340,
+     "d": 3.8335434686958765,
+     "vida": 100.0
+    },
+    {
+     "tic": 351,
+     "d": 3.8335434686958765,
+     "vida": 100.0
+    },
+    {
+     "tic": 406,
+     "d": 3.854254530309538,
+     "vida": 100.0
+    }
+   ],
+   "area": 0.39886715864311434,
+   "veredicto": "ok",
+   "detalle": [
+    {
+     "tic": 318,
+     "peso": 0.85857,
+     "d_forma": 3.87923,
+     "d_solo": 3.83354,
+     "gana": -0.03922
+    },
+    {
+     "tic": 340,
+     "peso": 0.63288,
+     "d_forma": 3.53291,
+     "d_solo": 3.83354,
+     "gana": 0.19027
+    },
+    {
+     "tic": 351,
+     "peso": 0.54337,
+     "d_forma": 3.54492,
+     "d_solo": 3.83354,
+     "gana": 0.15683
+    },
+    {
+     "tic": 406,
+     "peso": 0.25349,
+     "d_forma": 3.49529,
+     "d_solo": 3.85425,
+     "gana": 0.09099
+    }
+   ]
+  }
+ ]
+}

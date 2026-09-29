@@ -1,0 +1,440 @@
+{
+ "E": [
+  {
+   "asiento": "E/20260916/10",
+   "tics": 9219,
+   "dentro": 32,
+   "nacidas": 153,
+   "evaluadas": 153,
+   "aceptadas": 1,
+   "veredictos": {
+    "area": 152,
+    "ok": 1
+   },
+   "saltadas": {},
+   "ventaja": {
+    "n": 153,
+    "min": -0.02055,
+    "q1": 0.0,
+    "med": 0.0166,
+    "q3": 0.02147,
+    "max": 0.06478
+   },
+   "margen": {
+    "med": 0.062,
+    "min": 0.062,
+    "max": 0.062
+   },
+   "C": {
+    "med": 0.3,
+    "min": 0.3,
+    "max": 0.3
+   }
+  },
+  {
+   "asiento": "E/20260916/11",
+   "tics": 7807,
+   "dentro": 1706,
+   "nacidas": 140,
+   "evaluadas": 140,
+   "aceptadas": 53,
+   "veredictos": {
+    "area": 87,
+    "ok": 53
+   },
+   "saltadas": {},
+   "ventaja": {
+    "n": 140,
+    "min": -0.02529,
+    "q1": 0.03402,
+    "med": 0.0368,
+    "q3": 0.06824,
+    "max": 0.07771
+   },
+   "margen": {
+    "med": 0.062,
+    "min": 0.026,
+    "max": 0.071
+   },
+   "C": {
+    "med": 0.3,
+    "min": 0.15,
+    "max": 0.9
+   }
+  }
+ ],
+ "H": [
+  {
+   "asiento": "H/20260916/10",
+   "tics": 7847,
+   "dentro": 49,
+   "nacidas": 85,
+   "evaluadas": 85,
+   "aceptadas": 1,
+   "veredictos": {
+    "area": 84,
+    "ok": 1
+   },
+   "saltadas": {},
+   "ventaja": {
+    "n": 85,
+    "min": 0.00012,
+    "q1": 0.04334,
+    "med": 0.04335,
+    "q3": 0.0434,
+    "max": 0.07356
+   },
+   "margen": {
+    "med": 0.062,
+    "min": 0.062,
+    "max": 0.062
+   },
+   "C": {
+    "med": 0.3,
+    "min": 0.3,
+    "max": 0.3
+   }
+  },
+  {
+   "asiento": "H/20260916/11",
+   "tics": 8295,
+   "dentro": 0,
+   "nacidas": 155,
+   "evaluadas": 155,
+   "aceptadas": 0,
+   "veredictos": {
+    "area": 155
+   },
+   "saltadas": {},
+   "ventaja": {
+    "n": 155,
+    "min": -0.00409,
+    "q1": 0.03529,
+    "med": 0.03536,
+    "q3": 0.04932,
+    "max": 0.04945
+   },
+   "margen": {
+    "med": 0.062,
+    "min": 0.062,
+    "max": 0.062
+   },
+   "C": {
+    "med": 0.3,
+    "min": 0.3,
+    "max": 0.3
+   }
+  }
+ ],
+ "I": [
+  {
+   "asiento": "I/20260916/10",
+   "tics": 8349,
+   "dentro": 63,
+   "nacidas": 53,
+   "evaluadas": 53,
+   "aceptadas": 2,
+   "veredictos": {
+    "area": 51,
+    "ok": 2
+   },
+   "saltadas": {},
+   "ventaja": {
+    "n": 53,
+    "min": -0.06167,
+    "q1": 0.03157,
+    "med": 0.03325,
+    "q3": 0.03936,
+    "max": 0.07786
+   },
+   "margen": {
+    "med": 0.062,
+    "min": 0.062,
+    "max": 0.062
+   },
+   "C": {
+    "med": 0.3,
+    "min": 0.3,
+    "max": 0.3
+   }
+  },
+  {
+   "asiento": "I/20260916/11",
+   "tics": 8307,
+   "dentro": 76,
+   "nacidas": 137,
+   "evaluadas": 137,
+   "aceptadas": 2,
+   "veredictos": {
+    "area": 135,
+    "ok": 2
+   },
+   "saltadas": {},
+   "ventaja": {
+    "n": 137,
+    "min": -0.02529,
+    "q1": 0.0408,
+    "med": 0.0408,
+    "q3": 0.0503,
+    "max": 0.06861
+   },
+   "margen": {
+    "med": 0.062,
+    "min": 0.062,
+    "max": 0.062
+   },
+   "C": {
+    "med": 0.3,
+    "min": 0.3,
+    "max": 0.3
+   }
+  },
+  {
+   "asiento": "I/20365645/10",
+   "tics": 9181,
+   "dentro": 0,
+   "nacidas": 127,
+   "evaluadas": 127,
+   "aceptadas": 0,
+   "veredictos": {
+    "area": 127
+   },
+   "saltadas": {},
+   "ventaja": {
+    "n": 127,
+    "min": -0.02212,
+    "q1": 0.00773,
+    "med": 0.01682,
+    "q3": 0.02745,
+    "max": 0.05088
+   },
+   "margen": {
+    "med": 0.062,
+    "min": 0.062,
+    "max": 0.062
+   },
+   "C": {
+    "med": 0.3,
+    "min": 0.3,
+    "max": 0.3
+   }
+  },
+  {
+   "asiento": "I/20365645/11",
+   "tics": 11562,
+   "dentro": 0,
+   "nacidas": 159,
+   "evaluadas": 159,
+   "aceptadas": 0,
+   "veredictos": {
+    "area": 153,
+    "vida": 6
+   },
+   "saltadas": {},
+   "ventaja": {
+    "n": 159,
+    "min": -0.04359,
+    "q1": 0.00238,
+    "med": 0.0193,
+    "q3": 0.02832,
+    "max": 0.05103
+   },
+   "margen": {
+    "med": 0.062,
+    "min": 0.062,
+    "max": 0.062
+   },
+   "C": {
+    "med": 0.3,
+    "min": 0.3,
+    "max": 0.3
+   }
+  },
+  {
+   "asiento": "I/20470374/10",
+   "tics": 14496,
+   "dentro": 0,
+   "nacidas": 128,
+   "evaluadas": 128,
+   "aceptadas": 0,
+   "veredictos": {
+    "area": 128
+   },
+   "saltadas": {},
+   "ventaja": {
+    "n": 128,
+    "min": -0.03632,
+    "q1": -0.0009,
+    "med": -0.00035,
+    "q3": 0.00612,
+    "max": 0.03993
+   },
+   "margen": {
+    "med": 0.062,
+    "min": 0.062,
+    "max": 0.062
+   },
+   "C": {
+    "med": 0.3,
+    "min": 0.3,
+    "max": 0.3
+   }
+  },
+  {
+   "asiento": "I/20470374/11",
+   "tics": 14496,
+   "dentro": 32,
+   "nacidas": 46,
+   "evaluadas": 46,
+   "aceptadas": 1,
+   "veredictos": {
+    "area": 45,
+    "ok": 1
+   },
+   "saltadas": {},
+   "ventaja": {
+    "n": 46,
+    "min": -0.10155,
+    "q1": -0.04011,
+    "med": 0.01098,
+    "q3": 0.02371,
+    "max": 0.06317
+   },
+   "margen": {
+    "med": 0.071,
+    "min": 0.062,
+    "max": 0.071
+   },
+   "C": {
+    "med": 0.15,
+    "min": 0.15,
+    "max": 0.3
+   }
+  },
+  {
+   "asiento": "I/20575103/10",
+   "tics": 8387,
+   "dentro": 60,
+   "nacidas": 85,
+   "evaluadas": 85,
+   "aceptadas": 1,
+   "veredictos": {
+    "area": 77,
+    "ok": 1,
+    "vida": 7
+   },
+   "saltadas": {},
+   "ventaja": {
+    "n": 85,
+    "min": -0.04616,
+    "q1": 0.01584,
+    "med": 0.01609,
+    "q3": 0.01805,
+    "max": 0.07048
+   },
+   "margen": {
+    "med": 0.062,
+    "min": 0.062,
+    "max": 0.062
+   },
+   "C": {
+    "med": 0.3,
+    "min": 0.3,
+    "max": 0.3
+   }
+  },
+  {
+   "asiento": "I/20575103/11",
+   "tics": 2188,
+   "dentro": 152,
+   "nacidas": 15,
+   "evaluadas": 15,
+   "aceptadas": 3,
+   "veredictos": {
+    "area": 12,
+    "ok": 3
+   },
+   "saltadas": {},
+   "ventaja": {
+    "n": 15,
+    "min": 0.01354,
+    "q1": 0.01868,
+    "med": 0.0302,
+    "q3": 0.05352,
+    "max": 0.08191
+   },
+   "margen": {
+    "med": 0.062,
+    "min": 0.062,
+    "max": 0.062
+   },
+   "C": {
+    "med": 0.3,
+    "min": 0.3,
+    "max": 0.3
+   }
+  },
+  {
+   "asiento": "I/20679832/10",
+   "tics": 9204,
+   "dentro": 65,
+   "nacidas": 141,
+   "evaluadas": 141,
+   "aceptadas": 1,
+   "veredictos": {
+    "area": 140,
+    "ok": 1
+   },
+   "saltadas": {},
+   "ventaja": {
+    "n": 141,
+    "min": -0.03012,
+    "q1": 0.04362,
+    "med": 0.05228,
+    "q3": 0.05319,
+    "max": 0.06621
+   },
+   "margen": {
+    "med": 0.062,
+    "min": 0.062,
+    "max": 0.062
+   },
+   "C": {
+    "med": 0.3,
+    "min": 0.3,
+    "max": 0.3
+   }
+  },
+  {
+   "asiento": "I/20679832/11",
+   "tics": 10886,
+   "dentro": 0,
+   "nacidas": 139,
+   "evaluadas": 139,
+   "aceptadas": 0,
+   "veredictos": {
+    "area": 131,
+    "vida": 8
+   },
+   "saltadas": {},
+   "ventaja": {
+    "n": 139,
+    "min": -0.048,
+    "q1": 0.01577,
+    "med": 0.01618,
+    "q3": 0.01618,
+    "max": 0.0514
+   },
+   "margen": {
+    "med": 0.062,
+    "min": 0.062,
+    "max": 0.062
+   },
+   "C": {
+    "med": 0.3,
+    "min": 0.3,
+    "max": 0.3
+   }
+  }
+ ]
+}

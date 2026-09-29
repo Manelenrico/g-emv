@@ -1,0 +1,168 @@
+{
+ "max_ticks": 18240,
+ "freeze_ticks": 480,
+ "stat_budget": 20,
+ "zone": {
+  "schedule": [
+   [
+    7296,
+    7536,
+    8076,
+    24,
+    19,
+    1
+   ],
+   [
+    8436,
+    8676,
+    9216,
+    19,
+    15,
+    2
+   ],
+   [
+    9576,
+    9816,
+    10356,
+    15,
+    11,
+    4
+   ],
+   [
+    10716,
+    10956,
+    11496,
+    11,
+    8,
+    6
+   ],
+   [
+    11856,
+    12096,
+    12636,
+    8,
+    5,
+    8
+   ],
+   [
+    12996,
+    13236,
+    13776,
+    5,
+    3,
+    16
+   ],
+   [
+    14136,
+    14376,
+    14916,
+    3,
+    0,
+    24
+   ]
+  ]
+ },
+ "sponsor": {
+  "live": false,
+  "budget_per_team": 600,
+  "shop_opens_tick": 1680,
+  "scripted_gifts": [
+   {
+    "team": "A",
+    "tick": 2016,
+    "item_id": "rations",
+    "recipient_slot": 0
+   },
+   {
+    "team": "A",
+    "tick": 4608,
+    "item_id": "first_aid",
+    "recipient_slot": 1
+   },
+   {
+    "team": "B",
+    "tick": 2040,
+    "item_id": "rations",
+    "recipient_slot": 2
+   },
+   {
+    "team": "B",
+    "tick": 4632,
+    "item_id": "first_aid",
+    "recipient_slot": 3
+   },
+   {
+    "team": "C",
+    "tick": 2064,
+    "item_id": "rations",
+    "recipient_slot": 4
+   },
+   {
+    "team": "C",
+    "tick": 4656,
+    "item_id": "first_aid",
+    "recipient_slot": 5
+   },
+   {
+    "team": "D",
+    "tick": 2088,
+    "item_id": "rations",
+    "recipient_slot": 6
+   },
+   {
+    "team": "D",
+    "tick": 4680,
+    "item_id": "first_aid",
+    "recipient_slot": 7
+   },
+   {
+    "team": "E",
+    "tick": 2112,
+    "item_id": "rations",
+    "recipient_slot": 8
+   },
+   {
+    "team": "E",
+    "tick": 4704,
+    "item_id": "first_aid",
+    "recipient_slot": 9
+   },
+   {
+    "team": "F",
+    "tick": 2136,
+    "item_id": "rations",
+    "recipient_slot": 10
+   },
+   {
+    "team": "F",
+    "tick": 4728,
+    "item_id": "first_aid",
+    "recipient_slot": 11
+   },
+   {
+    "team": "G",
+    "tick": 2160,
+    "item_id": "rations",
+    "recipient_slot": 12
+   },
+   {
+    "team": "G",
+    "tick": 4752,
+    "item_id": "first_aid",
+    "recipient_slot": 13
+   },
+   {
+    "team": "H",
+    "tick": 2184,
+    "item_id": "rations",
+    "recipient_slot": 14
+   },
+   {
+    "team": "H",
+    "tick": 4776,
+    "item_id": "first_aid",
+    "recipient_slot": 15
+   }
+  ]
+ }
+}

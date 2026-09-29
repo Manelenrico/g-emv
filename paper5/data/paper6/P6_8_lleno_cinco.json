@@ -1,0 +1,4439 @@
+{
+ "P5-6C": {
+  "recuento": {
+   "vidas": 200,
+   "tics": 1501210,
+   "tics coger con mochila LLENA": 18870,
+   "...con el anillo haciendo dano": 2,
+   "...con piernas listas (podia irse)": 11829,
+   "rachas (>= 24 tics)": 36,
+   "vidas afectadas": 85,
+   "vidas con >= 240 tics (10 s) asi": 17
+  },
+  "peor": [
+   5348,
+   "P56C_t2_F_20784561",
+   11,
+   [
+    21,
+    24
+   ],
+   2769,
+   8116,
+   8803,
+   true,
+   9284
+  ],
+  "vidas": [
+   {
+    "carp": "P56C_t1_A_20260916",
+    "slot": 10,
+    "tics": 7924,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8405,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t1_A_20260916",
+    "slot": 11,
+    "tics": 8417,
+    "lleno": 7,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8898,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t1_A_20365645",
+    "slot": 10,
+    "tics": 13728,
+    "lleno": 98,
+    "anillo": 0,
+    "muere": true,
+    "mt": 14209,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t1_A_20365645",
+    "slot": 11,
+    "tics": 12048,
+    "lleno": 26,
+    "anillo": 0,
+    "muere": true,
+    "mt": 12529,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t1_A_20470374",
+    "slot": 10,
+    "tics": 7743,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8224,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t1_A_20470374",
+    "slot": 11,
+    "tics": 8931,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 9412,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t1_A_20575103",
+    "slot": 10,
+    "tics": 344,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 825,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t1_A_20575103",
+    "slot": 11,
+    "tics": 5495,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 5976,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t1_F_20260916",
+    "slot": 10,
+    "tics": 7988,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8469,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t1_F_20260916",
+    "slot": 11,
+    "tics": 7870,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8351,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t1_F_20365645",
+    "slot": 10,
+    "tics": 9749,
+    "lleno": 338,
+    "anillo": 0,
+    "muere": true,
+    "mt": 10230,
+    "rachas": [
+     [
+      2010,
+      2072,
+      [
+       24,
+       26
+      ]
+     ],
+     [
+      9005,
+      9223,
+      [
+       21,
+       26
+      ]
+     ]
+    ]
+   },
+   {
+    "carp": "P56C_t1_F_20365645",
+    "slot": 11,
+    "tics": 1524,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 2005,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t1_F_20470374",
+    "slot": 10,
+    "tics": 8025,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8506,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t1_F_20470374",
+    "slot": 11,
+    "tics": 7917,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8398,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t1_F_20575103",
+    "slot": 10,
+    "tics": 1946,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 2427,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t1_F_20575103",
+    "slot": 11,
+    "tics": 528,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 1009,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t1_T_20260916",
+    "slot": 10,
+    "tics": 7991,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8472,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t1_T_20260916",
+    "slot": 11,
+    "tics": 8857,
+    "lleno": 170,
+    "anillo": 0,
+    "muere": true,
+    "mt": 9338,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t1_T_20365645",
+    "slot": 10,
+    "tics": 11925,
+    "lleno": 18,
+    "anillo": 0,
+    "muere": true,
+    "mt": 12406,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t1_T_20365645",
+    "slot": 11,
+    "tics": 11400,
+    "lleno": 15,
+    "anillo": 0,
+    "muere": true,
+    "mt": 11881,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t1_T_20470374",
+    "slot": 10,
+    "tics": 12312,
+    "lleno": 9,
+    "anillo": 0,
+    "muere": true,
+    "mt": 12793,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t1_T_20470374",
+    "slot": 11,
+    "tics": 7805,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8286,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t1_T_20575103",
+    "slot": 10,
+    "tics": 1918,
+    "lleno": 436,
+    "anillo": 0,
+    "muere": true,
+    "mt": 2399,
+    "rachas": [
+     [
+      1738,
+      1776,
+      [
+       26,
+       21
+      ]
+     ]
+    ]
+   },
+   {
+    "carp": "P56C_t1_T_20575103",
+    "slot": 11,
+    "tics": 321,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 802,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t2_A_20679832",
+    "slot": 10,
+    "tics": 13248,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": false,
+    "mt": 13729,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t2_A_20679832",
+    "slot": 11,
+    "tics": 13080,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 13561,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t2_A_20784561",
+    "slot": 10,
+    "tics": 1911,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 2392,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t2_A_20784561",
+    "slot": 11,
+    "tics": 2093,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 2574,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t2_A_20889290",
+    "slot": 10,
+    "tics": 8979,
+    "lleno": 987,
+    "anillo": 0,
+    "muere": true,
+    "mt": 9460,
+    "rachas": [
+     [
+      1055,
+      1098,
+      [
+       27,
+       23
+      ]
+     ]
+    ]
+   },
+   {
+    "carp": "P56C_t2_A_20889290",
+    "slot": 11,
+    "tics": 11861,
+    "lleno": 137,
+    "anillo": 0,
+    "muere": true,
+    "mt": 12342,
+    "rachas": [
+     [
+      10283,
+      10378,
+      [
+       21,
+       21
+      ]
+     ]
+    ]
+   },
+   {
+    "carp": "P56C_t2_A_20994019",
+    "slot": 10,
+    "tics": 7948,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8429,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t2_A_20994019",
+    "slot": 11,
+    "tics": 8078,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8559,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t2_F_20679832",
+    "slot": 10,
+    "tics": 3336,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 3817,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t2_F_20679832",
+    "slot": 11,
+    "tics": 1716,
+    "lleno": 63,
+    "anillo": 0,
+    "muere": true,
+    "mt": 2197,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t2_F_20784561",
+    "slot": 10,
+    "tics": 2180,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 2661,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t2_F_20784561",
+    "slot": 11,
+    "tics": 8803,
+    "lleno": 5429,
+    "anillo": 0,
+    "muere": true,
+    "mt": 9284,
+    "rachas": [
+     [
+      2769,
+      8116,
+      [
+       21,
+       24
+      ]
+     ]
+    ]
+   },
+   {
+    "carp": "P56C_t2_F_20889290",
+    "slot": 10,
+    "tics": 7857,
+    "lleno": 33,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8338,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t2_F_20889290",
+    "slot": 11,
+    "tics": 9795,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 10276,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t2_F_20994019",
+    "slot": 10,
+    "tics": 8187,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8668,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t2_F_20994019",
+    "slot": 11,
+    "tics": 14304,
+    "lleno": 47,
+    "anillo": 0,
+    "muere": true,
+    "mt": 14785,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t2_T_20679832",
+    "slot": 10,
+    "tics": 9045,
+    "lleno": 34,
+    "anillo": 0,
+    "muere": true,
+    "mt": 9526,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t2_T_20679832",
+    "slot": 11,
+    "tics": 9366,
+    "lleno": 34,
+    "anillo": 0,
+    "muere": true,
+    "mt": 9847,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t2_T_20784561",
+    "slot": 10,
+    "tics": 12048,
+    "lleno": 9,
+    "anillo": 0,
+    "muere": true,
+    "mt": 12529,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t2_T_20784561",
+    "slot": 11,
+    "tics": 4628,
+    "lleno": 81,
+    "anillo": 0,
+    "muere": true,
+    "mt": 5109,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t2_T_20889290",
+    "slot": 10,
+    "tics": 10368,
+    "lleno": 189,
+    "anillo": 0,
+    "muere": true,
+    "mt": 10849,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t2_T_20889290",
+    "slot": 11,
+    "tics": 11512,
+    "lleno": 80,
+    "anillo": 0,
+    "muere": true,
+    "mt": 11993,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t2_T_20994019",
+    "slot": 10,
+    "tics": 1583,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 2064,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t2_T_20994019",
+    "slot": 11,
+    "tics": 12528,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 13009,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t3_A_21098748",
+    "slot": 10,
+    "tics": 12528,
+    "lleno": 369,
+    "anillo": 0,
+    "muere": true,
+    "mt": 13009,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t3_A_21098748",
+    "slot": 11,
+    "tics": 12528,
+    "lleno": 26,
+    "anillo": 0,
+    "muere": true,
+    "mt": 13009,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t3_A_21203477",
+    "slot": 10,
+    "tics": 9993,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 10474,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t3_A_21203477",
+    "slot": 11,
+    "tics": 9093,
+    "lleno": 28,
+    "anillo": 0,
+    "muere": true,
+    "mt": 9574,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t3_A_21308206",
+    "slot": 10,
+    "tics": 9792,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 10273,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t3_A_21308206",
+    "slot": 11,
+    "tics": 12336,
+    "lleno": 206,
+    "anillo": 0,
+    "muere": true,
+    "mt": 12817,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t3_A_21412935",
+    "slot": 10,
+    "tics": 8025,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8506,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t3_A_21412935",
+    "slot": 11,
+    "tics": 7827,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8308,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t3_F_21098748",
+    "slot": 10,
+    "tics": 10288,
+    "lleno": 129,
+    "anillo": 0,
+    "muere": true,
+    "mt": 10769,
+    "rachas": [
+     [
+      8788,
+      8856,
+      [
+       21,
+       24
+      ]
+     ]
+    ]
+   },
+   {
+    "carp": "P56C_t3_F_21098748",
+    "slot": 11,
+    "tics": 8697,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 9178,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t3_F_21203477",
+    "slot": 10,
+    "tics": 12893,
+    "lleno": 51,
+    "anillo": 0,
+    "muere": true,
+    "mt": 13374,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t3_F_21203477",
+    "slot": 11,
+    "tics": 10289,
+    "lleno": 17,
+    "anillo": 0,
+    "muere": true,
+    "mt": 10770,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t3_F_21308206",
+    "slot": 10,
+    "tics": 8143,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8624,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t3_F_21308206",
+    "slot": 11,
+    "tics": 8009,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8490,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t3_F_21412935",
+    "slot": 10,
+    "tics": 1986,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 2467,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t3_F_21412935",
+    "slot": 11,
+    "tics": 2696,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 3177,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t3_T_21098748",
+    "slot": 10,
+    "tics": 12168,
+    "lleno": 27,
+    "anillo": 0,
+    "muere": true,
+    "mt": 12649,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t3_T_21098748",
+    "slot": 11,
+    "tics": 14256,
+    "lleno": 35,
+    "anillo": 0,
+    "muere": true,
+    "mt": 14737,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t3_T_21203477",
+    "slot": 10,
+    "tics": 4844,
+    "lleno": 2639,
+    "anillo": 0,
+    "muere": true,
+    "mt": 5325,
+    "rachas": [
+     [
+      1826,
+      1927,
+      [
+       27,
+       23
+      ]
+     ],
+     [
+      2370,
+      2475,
+      [
+       27,
+       23
+      ]
+     ],
+     [
+      2544,
+      4890,
+      [
+       25,
+       24
+      ]
+     ],
+     [
+      4959,
+      4988,
+      [
+       21,
+       24
+      ]
+     ]
+    ]
+   },
+   {
+    "carp": "P56C_t3_T_21203477",
+    "slot": 11,
+    "tics": 12360,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 12841,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t3_T_21308206",
+    "slot": 10,
+    "tics": 13440,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 13921,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t3_T_21308206",
+    "slot": 11,
+    "tics": 12528,
+    "lleno": 21,
+    "anillo": 0,
+    "muere": true,
+    "mt": 13009,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t3_T_21412935",
+    "slot": 10,
+    "tics": 9484,
+    "lleno": 376,
+    "anillo": 0,
+    "muere": true,
+    "mt": 9965,
+    "rachas": [
+     [
+      9262,
+      9349,
+      [
+       26,
+       26
+      ]
+     ]
+    ]
+   },
+   {
+    "carp": "P56C_t3_T_21412935",
+    "slot": 11,
+    "tics": 9243,
+    "lleno": 1125,
+    "anillo": 0,
+    "muere": true,
+    "mt": 9724,
+    "rachas": [
+     [
+      8468,
+      9359,
+      [
+       27,
+       27
+      ]
+     ]
+    ]
+   },
+   {
+    "carp": "P56C_t4_A_21517664",
+    "slot": 10,
+    "tics": 827,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 1308,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t4_A_21517664",
+    "slot": 11,
+    "tics": 1117,
+    "lleno": 18,
+    "anillo": 0,
+    "muere": true,
+    "mt": 1598,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t4_A_21622393",
+    "slot": 10,
+    "tics": 803,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 1284,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t4_A_21622393",
+    "slot": 11,
+    "tics": 1196,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 1677,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t4_A_21727122",
+    "slot": 10,
+    "tics": 8357,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8838,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t4_A_21727122",
+    "slot": 11,
+    "tics": 8223,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8704,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t4_A_21831851",
+    "slot": 10,
+    "tics": 8200,
+    "lleno": 9,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8681,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t4_A_21831851",
+    "slot": 11,
+    "tics": 8340,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8821,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t4_F_21517664",
+    "slot": 10,
+    "tics": 8107,
+    "lleno": 113,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8588,
+    "rachas": [
+     [
+      1781,
+      1858,
+      [
+       27,
+       21
+      ]
+     ],
+     [
+      4959,
+      4985,
+      [
+       24,
+       22
+      ]
+     ]
+    ]
+   },
+   {
+    "carp": "P56C_t4_F_21517664",
+    "slot": 11,
+    "tics": 8216,
+    "lleno": 110,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8697,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t4_F_21622393",
+    "slot": 10,
+    "tics": 9098,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 9579,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t4_F_21622393",
+    "slot": 11,
+    "tics": 8945,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 9426,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t4_F_21727122",
+    "slot": 10,
+    "tics": 7757,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8238,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t4_F_21727122",
+    "slot": 11,
+    "tics": 7927,
+    "lleno": 35,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8408,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t4_F_21831851",
+    "slot": 10,
+    "tics": 8161,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8642,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t4_F_21831851",
+    "slot": 11,
+    "tics": 8119,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8600,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t4_T_21517664",
+    "slot": 10,
+    "tics": 11952,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 12433,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t4_T_21517664",
+    "slot": 11,
+    "tics": 14472,
+    "lleno": 233,
+    "anillo": 1,
+    "muere": false,
+    "mt": 14953,
+    "rachas": [
+     [
+      14036,
+      14076,
+      [
+       26,
+       24
+      ]
+     ],
+     [
+      14187,
+      14256,
+      [
+       25,
+       24
+      ]
+     ]
+    ]
+   },
+   {
+    "carp": "P56C_t4_T_21622393",
+    "slot": 10,
+    "tics": 8464,
+    "lleno": 18,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8945,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t4_T_21622393",
+    "slot": 11,
+    "tics": 4836,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 5317,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t4_T_21727122",
+    "slot": 10,
+    "tics": 7747,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8228,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t4_T_21727122",
+    "slot": 11,
+    "tics": 7887,
+    "lleno": 9,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8368,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t4_T_21831851",
+    "slot": 10,
+    "tics": 7757,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8238,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t4_T_21831851",
+    "slot": 11,
+    "tics": 8600,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 9081,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t5_A_21936580",
+    "slot": 10,
+    "tics": 9172,
+    "lleno": 25,
+    "anillo": 0,
+    "muere": true,
+    "mt": 9653,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t5_A_21936580",
+    "slot": 11,
+    "tics": 9112,
+    "lleno": 9,
+    "anillo": 0,
+    "muere": true,
+    "mt": 9593,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t5_A_22041309",
+    "slot": 10,
+    "tics": 8048,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8529,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t5_A_22041309",
+    "slot": 11,
+    "tics": 8335,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8816,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t5_A_22146038",
+    "slot": 10,
+    "tics": 8919,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 9400,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t5_A_22146038",
+    "slot": 11,
+    "tics": 11184,
+    "lleno": 41,
+    "anillo": 0,
+    "muere": true,
+    "mt": 11665,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t5_A_22250767",
+    "slot": 10,
+    "tics": 8073,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8554,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t5_A_22250767",
+    "slot": 11,
+    "tics": 9634,
+    "lleno": 45,
+    "anillo": 0,
+    "muere": true,
+    "mt": 10115,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t5_F_21936580",
+    "slot": 10,
+    "tics": 10629,
+    "lleno": 45,
+    "anillo": 0,
+    "muere": true,
+    "mt": 11110,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t5_F_21936580",
+    "slot": 11,
+    "tics": 10583,
+    "lleno": 98,
+    "anillo": 0,
+    "muere": true,
+    "mt": 11064,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t5_F_22041309",
+    "slot": 10,
+    "tics": 1812,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 2293,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t5_F_22041309",
+    "slot": 11,
+    "tics": 1537,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 2018,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t5_F_22146038",
+    "slot": 10,
+    "tics": 8998,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 9479,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t5_F_22146038",
+    "slot": 11,
+    "tics": 8775,
+    "lleno": 27,
+    "anillo": 0,
+    "muere": true,
+    "mt": 9256,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t5_F_22250767",
+    "slot": 10,
+    "tics": 9360,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 9841,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t5_F_22250767",
+    "slot": 11,
+    "tics": 8341,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8822,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t5_T_21936580",
+    "slot": 10,
+    "tics": 8502,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8983,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t5_T_21936580",
+    "slot": 11,
+    "tics": 9160,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 9641,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t5_T_22041309",
+    "slot": 10,
+    "tics": 2411,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 2892,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t5_T_22041309",
+    "slot": 11,
+    "tics": 2513,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 2994,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t5_T_22146038",
+    "slot": 10,
+    "tics": 7835,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8316,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t5_T_22146038",
+    "slot": 11,
+    "tics": 7983,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8464,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t5_T_22250767",
+    "slot": 10,
+    "tics": 7837,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8318,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_t5_T_22250767",
+    "slot": 11,
+    "tics": 7929,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8410,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_tamp1_F_22355496",
+    "slot": 10,
+    "tics": 13608,
+    "lleno": 503,
+    "anillo": 0,
+    "muere": true,
+    "mt": 14089,
+    "rachas": [
+     [
+      13473,
+      13501,
+      [
+       26,
+       23
+      ]
+     ],
+     [
+      13571,
+      13599,
+      [
+       26,
+       23
+      ]
+     ],
+     [
+      13613,
+      13641,
+      [
+       26,
+       23
+      ]
+     ],
+     [
+      13711,
+      13739,
+      [
+       26,
+       23
+      ]
+     ],
+     [
+      13758,
+      14033,
+      [
+       26,
+       23
+      ]
+     ]
+    ]
+   },
+   {
+    "carp": "P56C_tamp1_F_22355496",
+    "slot": 11,
+    "tics": 12504,
+    "lleno": 9,
+    "anillo": 0,
+    "muere": true,
+    "mt": 12985,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_tamp1_F_22460225",
+    "slot": 10,
+    "tics": 7875,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8356,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_tamp1_F_22460225",
+    "slot": 11,
+    "tics": 8593,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 9074,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_tamp1_F_22564954",
+    "slot": 10,
+    "tics": 459,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 940,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_tamp1_F_22564954",
+    "slot": 11,
+    "tics": 8200,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8681,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_tamp1_F_22669683",
+    "slot": 10,
+    "tics": 8187,
+    "lleno": 486,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8668,
+    "rachas": [
+     [
+      705,
+      911,
+      [
+       25,
+       25
+      ]
+     ],
+     [
+      2288,
+      2478,
+      [
+       27,
+       21
+      ]
+     ],
+     [
+      2851,
+      2923,
+      [
+       27,
+       21
+      ]
+     ]
+    ]
+   },
+   {
+    "carp": "P56C_tamp1_F_22669683",
+    "slot": 11,
+    "tics": 8337,
+    "lleno": 366,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8818,
+    "rachas": [
+     [
+      2489,
+      2827,
+      [
+       21,
+       21
+      ]
+     ]
+    ]
+   },
+   {
+    "carp": "P56C_tamp1_T_22355496",
+    "slot": 10,
+    "tics": 2021,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 2502,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_tamp1_T_22355496",
+    "slot": 11,
+    "tics": 12264,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 12745,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_tamp1_T_22460225",
+    "slot": 10,
+    "tics": 7715,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8196,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_tamp1_T_22460225",
+    "slot": 11,
+    "tics": 8026,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8507,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_tamp1_T_22564954",
+    "slot": 10,
+    "tics": 439,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 920,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_tamp1_T_22564954",
+    "slot": 11,
+    "tics": 1203,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 1684,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_tamp1_T_22669683",
+    "slot": 10,
+    "tics": 2426,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 2907,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_tamp1_T_22669683",
+    "slot": 11,
+    "tics": 2654,
+    "lleno": 229,
+    "anillo": 0,
+    "muere": true,
+    "mt": 3135,
+    "rachas": [
+     [
+      738,
+      914,
+      [
+       25,
+       25
+      ]
+     ],
+     [
+      950,
+      992,
+      [
+       24,
+       22
+      ]
+     ]
+    ]
+   },
+   {
+    "carp": "P56C_tamp2_F_22774412",
+    "slot": 10,
+    "tics": 7810,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8291,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_tamp2_F_22774412",
+    "slot": 11,
+    "tics": 8148,
+    "lleno": 17,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8629,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_tamp2_F_22879141",
+    "slot": 10,
+    "tics": 8407,
+    "lleno": 249,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8888,
+    "rachas": [
+     [
+      1056,
+      1278,
+      [
+       24,
+       27
+      ]
+     ]
+    ]
+   },
+   {
+    "carp": "P56C_tamp2_F_22879141",
+    "slot": 11,
+    "tics": 531,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 1012,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_tamp2_F_22983870",
+    "slot": 10,
+    "tics": 2970,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 3451,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_tamp2_F_22983870",
+    "slot": 11,
+    "tics": 12408,
+    "lleno": 793,
+    "anillo": 0,
+    "muere": true,
+    "mt": 12889,
+    "rachas": [
+     [
+      2543,
+      2591,
+      [
+       24,
+       22
+      ]
+     ]
+    ]
+   },
+   {
+    "carp": "P56C_tamp2_F_23088599",
+    "slot": 10,
+    "tics": 1514,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 1995,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_tamp2_F_23088599",
+    "slot": 11,
+    "tics": 7873,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8354,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_tamp2_T_22774412",
+    "slot": 10,
+    "tics": 7315,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 7796,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_tamp2_T_22774412",
+    "slot": 11,
+    "tics": 8817,
+    "lleno": 88,
+    "anillo": 0,
+    "muere": true,
+    "mt": 9298,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_tamp2_T_22879141",
+    "slot": 10,
+    "tics": 7848,
+    "lleno": 285,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8329,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_tamp2_T_22879141",
+    "slot": 11,
+    "tics": 13632,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 14113,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_tamp2_T_22983870",
+    "slot": 10,
+    "tics": 8212,
+    "lleno": 18,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8693,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_tamp2_T_22983870",
+    "slot": 11,
+    "tics": 9152,
+    "lleno": 62,
+    "anillo": 0,
+    "muere": true,
+    "mt": 9633,
+    "rachas": [
+     [
+      1289,
+      1318,
+      [
+       23,
+       21
+      ]
+     ]
+    ]
+   },
+   {
+    "carp": "P56C_tamp2_T_23088599",
+    "slot": 10,
+    "tics": 6628,
+    "lleno": 36,
+    "anillo": 0,
+    "muere": true,
+    "mt": 7109,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_tamp2_T_23088599",
+    "slot": 11,
+    "tics": 7767,
+    "lleno": 45,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8248,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_tamp3_F_23193328",
+    "slot": 10,
+    "tics": 13435,
+    "lleno": 18,
+    "anillo": 0,
+    "muere": true,
+    "mt": 13916,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_tamp3_F_23193328",
+    "slot": 11,
+    "tics": 12552,
+    "lleno": 312,
+    "anillo": 0,
+    "muere": true,
+    "mt": 13033,
+    "rachas": [
+     [
+      8456,
+      8482,
+      [
+       25,
+       22
+      ]
+     ]
+    ]
+   },
+   {
+    "carp": "P56C_tamp3_F_23298057",
+    "slot": 10,
+    "tics": 14544,
+    "lleno": 58,
+    "anillo": 0,
+    "muere": false,
+    "mt": 15025,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_tamp3_F_23298057",
+    "slot": 11,
+    "tics": 14544,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": false,
+    "mt": 15025,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_tamp3_F_23402786",
+    "slot": 10,
+    "tics": 8407,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8888,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_tamp3_F_23402786",
+    "slot": 11,
+    "tics": 8664,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 9145,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_tamp3_F_23507515",
+    "slot": 10,
+    "tics": 8495,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8976,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_tamp3_F_23507515",
+    "slot": 11,
+    "tics": 709,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 1190,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_tamp3_T_23193328",
+    "slot": 10,
+    "tics": 10654,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 11135,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_tamp3_T_23193328",
+    "slot": 11,
+    "tics": 11136,
+    "lleno": 354,
+    "anillo": 0,
+    "muere": true,
+    "mt": 11617,
+    "rachas": [
+     [
+      9345,
+      9428,
+      [
+       27,
+       26
+      ]
+     ],
+     [
+      9453,
+      9507,
+      [
+       27,
+       26
+      ]
+     ]
+    ]
+   },
+   {
+    "carp": "P56C_tamp3_T_23298057",
+    "slot": 10,
+    "tics": 12432,
+    "lleno": 26,
+    "anillo": 0,
+    "muere": true,
+    "mt": 12913,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_tamp3_T_23298057",
+    "slot": 11,
+    "tics": 12504,
+    "lleno": 143,
+    "anillo": 1,
+    "muere": true,
+    "mt": 12985,
+    "rachas": [
+     [
+      9021,
+      9148,
+      [
+       26,
+       26
+      ]
+     ]
+    ]
+   },
+   {
+    "carp": "P56C_tamp3_T_23402786",
+    "slot": 10,
+    "tics": 2531,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 3012,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_tamp3_T_23402786",
+    "slot": 11,
+    "tics": 2130,
+    "lleno": 17,
+    "anillo": 0,
+    "muere": true,
+    "mt": 2611,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_tamp3_T_23507515",
+    "slot": 10,
+    "tics": 476,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 957,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_tamp3_T_23507515",
+    "slot": 11,
+    "tics": 373,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 854,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_tamp4_F_23612244",
+    "slot": 10,
+    "tics": 9535,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 10016,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_tamp4_F_23612244",
+    "slot": 11,
+    "tics": 8672,
+    "lleno": 18,
+    "anillo": 0,
+    "muere": true,
+    "mt": 9153,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_tamp4_F_23716973",
+    "slot": 10,
+    "tics": 3045,
+    "lleno": 50,
+    "anillo": 0,
+    "muere": true,
+    "mt": 3526,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_tamp4_F_23716973",
+    "slot": 11,
+    "tics": 3388,
+    "lleno": 27,
+    "anillo": 0,
+    "muere": true,
+    "mt": 3869,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_tamp4_F_23821702",
+    "slot": 10,
+    "tics": 715,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 1196,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_tamp4_F_23821702",
+    "slot": 11,
+    "tics": 1249,
+    "lleno": 10,
+    "anillo": 0,
+    "muere": true,
+    "mt": 1730,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_tamp4_F_23926431",
+    "slot": 10,
+    "tics": 7957,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8438,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_tamp4_F_23926431",
+    "slot": 11,
+    "tics": 8053,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8534,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_tamp4_T_23612244",
+    "slot": 10,
+    "tics": 11296,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 11777,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_tamp4_T_23612244",
+    "slot": 11,
+    "tics": 8997,
+    "lleno": 27,
+    "anillo": 0,
+    "muere": true,
+    "mt": 9478,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_tamp4_T_23716973",
+    "slot": 10,
+    "tics": 9419,
+    "lleno": 17,
+    "anillo": 0,
+    "muere": true,
+    "mt": 9900,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_tamp4_T_23716973",
+    "slot": 11,
+    "tics": 8019,
+    "lleno": 18,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8500,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_tamp4_T_23821702",
+    "slot": 10,
+    "tics": 2414,
+    "lleno": 25,
+    "anillo": 0,
+    "muere": true,
+    "mt": 2895,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_tamp4_T_23821702",
+    "slot": 11,
+    "tics": 713,
+    "lleno": 17,
+    "anillo": 0,
+    "muere": true,
+    "mt": 1194,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_tamp4_T_23926431",
+    "slot": 10,
+    "tics": 429,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 910,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_tamp4_T_23926431",
+    "slot": 11,
+    "tics": 7950,
+    "lleno": 242,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8431,
+    "rachas": [
+     [
+      1265,
+      1506,
+      [
+       24,
+       23
+      ]
+     ]
+    ]
+   },
+   {
+    "carp": "P56C_tamp5_F_24031160",
+    "slot": 10,
+    "tics": 7994,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8475,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_tamp5_F_24031160",
+    "slot": 11,
+    "tics": 9899,
+    "lleno": 37,
+    "anillo": 0,
+    "muere": true,
+    "mt": 10380,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_tamp5_F_24135889",
+    "slot": 10,
+    "tics": 8167,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8648,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_tamp5_F_24135889",
+    "slot": 11,
+    "tics": 317,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 798,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_tamp5_F_24240618",
+    "slot": 10,
+    "tics": 565,
+    "lleno": 13,
+    "anillo": 0,
+    "muere": true,
+    "mt": 1046,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_tamp5_F_24240618",
+    "slot": 11,
+    "tics": 349,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 830,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_tamp5_F_24345347",
+    "slot": 10,
+    "tics": 8865,
+    "lleno": 18,
+    "anillo": 0,
+    "muere": true,
+    "mt": 9346,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_tamp5_F_24345347",
+    "slot": 11,
+    "tics": 8548,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 9029,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_tamp5_T_24031160",
+    "slot": 10,
+    "tics": 3667,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 4148,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_tamp5_T_24031160",
+    "slot": 11,
+    "tics": 5711,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 6192,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_tamp5_T_24135889",
+    "slot": 10,
+    "tics": 8517,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8998,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_tamp5_T_24135889",
+    "slot": 11,
+    "tics": 317,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 798,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_tamp5_T_24240618",
+    "slot": 10,
+    "tics": 4136,
+    "lleno": 23,
+    "anillo": 0,
+    "muere": true,
+    "mt": 4617,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_tamp5_T_24240618",
+    "slot": 11,
+    "tics": 391,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 872,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_tamp5_T_24345347",
+    "slot": 10,
+    "tics": 10079,
+    "lleno": 90,
+    "anillo": 0,
+    "muere": true,
+    "mt": 10560,
+    "rachas": []
+   },
+   {
+    "carp": "P56C_tamp5_T_24345347",
+    "slot": 11,
+    "tics": 12312,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 12793,
+    "rachas": []
+   }
+  ]
+ },
+ "P5-7C": {
+  "recuento": {
+   "vidas": 80,
+   "tics": 698867,
+   "tics coger con mochila LLENA": 11311,
+   "...con el anillo haciendo dano": 3,
+   "...con piernas listas (podia irse)": 2258,
+   "rachas (>= 24 tics)": 14,
+   "vidas afectadas": 40,
+   "vidas con >= 240 tics (10 s) asi": 7
+  },
+  "peor": [
+   661,
+   "P57C_t2_Q_21203477",
+   11,
+   [
+    21,
+    24
+   ],
+   8324,
+   8984,
+   9264,
+   true,
+   9745
+  ],
+  "vidas": [
+   {
+    "carp": "P57C_t1_A_20260916",
+    "slot": 10,
+    "tics": 8227,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8708,
+    "rachas": []
+   },
+   {
+    "carp": "P57C_t1_A_20260916",
+    "slot": 11,
+    "tics": 8423,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8904,
+    "rachas": []
+   },
+   {
+    "carp": "P57C_t1_A_20365645",
+    "slot": 10,
+    "tics": 11832,
+    "lleno": 540,
+    "anillo": 0,
+    "muere": true,
+    "mt": 12313,
+    "rachas": []
+   },
+   {
+    "carp": "P57C_t1_A_20365645",
+    "slot": 11,
+    "tics": 12408,
+    "lleno": 145,
+    "anillo": 0,
+    "muere": true,
+    "mt": 12889,
+    "rachas": [
+     [
+      8185,
+      8285,
+      [
+       21,
+       26
+      ]
+     ]
+    ]
+   },
+   {
+    "carp": "P57C_t1_A_20470374",
+    "slot": 10,
+    "tics": 12528,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 13009,
+    "rachas": []
+   },
+   {
+    "carp": "P57C_t1_A_20470374",
+    "slot": 11,
+    "tics": 12504,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 12985,
+    "rachas": []
+   },
+   {
+    "carp": "P57C_t1_A_20575103",
+    "slot": 10,
+    "tics": 344,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 825,
+    "rachas": []
+   },
+   {
+    "carp": "P57C_t1_A_20575103",
+    "slot": 11,
+    "tics": 2616,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 3097,
+    "rachas": []
+   },
+   {
+    "carp": "P57C_t1_A_20679832",
+    "slot": 10,
+    "tics": 1653,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 2134,
+    "rachas": []
+   },
+   {
+    "carp": "P57C_t1_A_20679832",
+    "slot": 11,
+    "tics": 1241,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 1722,
+    "rachas": []
+   },
+   {
+    "carp": "P57C_t1_Q_20260916",
+    "slot": 10,
+    "tics": 7961,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8442,
+    "rachas": []
+   },
+   {
+    "carp": "P57C_t1_Q_20260916",
+    "slot": 11,
+    "tics": 8881,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 9362,
+    "rachas": []
+   },
+   {
+    "carp": "P57C_t1_Q_20365645",
+    "slot": 10,
+    "tics": 8105,
+    "lleno": 119,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8586,
+    "rachas": [
+     [
+      813,
+      879,
+      [
+       27,
+       23
+      ]
+     ]
+    ]
+   },
+   {
+    "carp": "P57C_t1_Q_20365645",
+    "slot": 11,
+    "tics": 6612,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 7093,
+    "rachas": []
+   },
+   {
+    "carp": "P57C_t1_Q_20470374",
+    "slot": 10,
+    "tics": 8798,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 9279,
+    "rachas": []
+   },
+   {
+    "carp": "P57C_t1_Q_20470374",
+    "slot": 11,
+    "tics": 9689,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 10170,
+    "rachas": []
+   },
+   {
+    "carp": "P57C_t1_Q_20575103",
+    "slot": 10,
+    "tics": 10046,
+    "lleno": 2492,
+    "anillo": 0,
+    "muere": true,
+    "mt": 10527,
+    "rachas": [
+     [
+      8596,
+      8693,
+      [
+       24,
+       27
+      ]
+     ]
+    ]
+   },
+   {
+    "carp": "P57C_t1_Q_20575103",
+    "slot": 11,
+    "tics": 10217,
+    "lleno": 130,
+    "anillo": 0,
+    "muere": true,
+    "mt": 10698,
+    "rachas": []
+   },
+   {
+    "carp": "P57C_t1_Q_20679832",
+    "slot": 10,
+    "tics": 14520,
+    "lleno": 826,
+    "anillo": 3,
+    "muere": false,
+    "mt": 15001,
+    "rachas": [
+     [
+      14106,
+      14181,
+      [
+       25,
+       23
+      ]
+     ],
+     [
+      14360,
+      15000,
+      [
+       24,
+       24
+      ]
+     ]
+    ]
+   },
+   {
+    "carp": "P57C_t1_Q_20679832",
+    "slot": 11,
+    "tics": 14520,
+    "lleno": 939,
+    "anillo": 0,
+    "muere": false,
+    "mt": 15001,
+    "rachas": []
+   },
+   {
+    "carp": "P57C_t2_A_20784561",
+    "slot": 10,
+    "tics": 11681,
+    "lleno": 9,
+    "anillo": 0,
+    "muere": true,
+    "mt": 12162,
+    "rachas": []
+   },
+   {
+    "carp": "P57C_t2_A_20784561",
+    "slot": 11,
+    "tics": 12336,
+    "lleno": 27,
+    "anillo": 0,
+    "muere": true,
+    "mt": 12817,
+    "rachas": []
+   },
+   {
+    "carp": "P57C_t2_A_20889290",
+    "slot": 10,
+    "tics": 8500,
+    "lleno": 27,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8981,
+    "rachas": []
+   },
+   {
+    "carp": "P57C_t2_A_20889290",
+    "slot": 11,
+    "tics": 8651,
+    "lleno": 67,
+    "anillo": 0,
+    "muere": true,
+    "mt": 9132,
+    "rachas": [
+     [
+      1089,
+      1138,
+      [
+       22,
+       23
+      ]
+     ]
+    ]
+   },
+   {
+    "carp": "P57C_t2_A_20994019",
+    "slot": 10,
+    "tics": 10752,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 11233,
+    "rachas": []
+   },
+   {
+    "carp": "P57C_t2_A_20994019",
+    "slot": 11,
+    "tics": 9140,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 9621,
+    "rachas": []
+   },
+   {
+    "carp": "P57C_t2_A_21098748",
+    "slot": 10,
+    "tics": 4664,
+    "lleno": 9,
+    "anillo": 0,
+    "muere": true,
+    "mt": 5145,
+    "rachas": []
+   },
+   {
+    "carp": "P57C_t2_A_21098748",
+    "slot": 11,
+    "tics": 14496,
+    "lleno": 89,
+    "anillo": 0,
+    "muere": false,
+    "mt": 14977,
+    "rachas": []
+   },
+   {
+    "carp": "P57C_t2_A_21203477",
+    "slot": 10,
+    "tics": 12072,
+    "lleno": 2546,
+    "anillo": 0,
+    "muere": true,
+    "mt": 12553,
+    "rachas": []
+   },
+   {
+    "carp": "P57C_t2_A_21203477",
+    "slot": 11,
+    "tics": 12336,
+    "lleno": 114,
+    "anillo": 0,
+    "muere": true,
+    "mt": 12817,
+    "rachas": []
+   },
+   {
+    "carp": "P57C_t2_Q_20784561",
+    "slot": 10,
+    "tics": 8267,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8748,
+    "rachas": []
+   },
+   {
+    "carp": "P57C_t2_Q_20784561",
+    "slot": 11,
+    "tics": 8381,
+    "lleno": 27,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8862,
+    "rachas": []
+   },
+   {
+    "carp": "P57C_t2_Q_20889290",
+    "slot": 10,
+    "tics": 3131,
+    "lleno": 182,
+    "anillo": 0,
+    "muere": true,
+    "mt": 3612,
+    "rachas": [
+     [
+      856,
+      936,
+      [
+       24,
+       27
+      ]
+     ],
+     [
+      961,
+      1043,
+      [
+       24,
+       27
+      ]
+     ]
+    ]
+   },
+   {
+    "carp": "P57C_t2_Q_20889290",
+    "slot": 11,
+    "tics": 3294,
+    "lleno": 89,
+    "anillo": 0,
+    "muere": true,
+    "mt": 3775,
+    "rachas": []
+   },
+   {
+    "carp": "P57C_t2_Q_20994019",
+    "slot": 10,
+    "tics": 9104,
+    "lleno": 195,
+    "anillo": 0,
+    "muere": true,
+    "mt": 9585,
+    "rachas": []
+   },
+   {
+    "carp": "P57C_t2_Q_20994019",
+    "slot": 11,
+    "tics": 9184,
+    "lleno": 57,
+    "anillo": 0,
+    "muere": true,
+    "mt": 9665,
+    "rachas": []
+   },
+   {
+    "carp": "P57C_t2_Q_21098748",
+    "slot": 10,
+    "tics": 12336,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 12817,
+    "rachas": []
+   },
+   {
+    "carp": "P57C_t2_Q_21098748",
+    "slot": 11,
+    "tics": 12336,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 12817,
+    "rachas": []
+   },
+   {
+    "carp": "P57C_t2_Q_21203477",
+    "slot": 10,
+    "tics": 12744,
+    "lleno": 221,
+    "anillo": 0,
+    "muere": true,
+    "mt": 13225,
+    "rachas": []
+   },
+   {
+    "carp": "P57C_t2_Q_21203477",
+    "slot": 11,
+    "tics": 9264,
+    "lleno": 1116,
+    "anillo": 0,
+    "muere": true,
+    "mt": 9745,
+    "rachas": [
+     [
+      1771,
+      2017,
+      [
+       21,
+       24
+      ]
+     ],
+     [
+      8324,
+      8984,
+      [
+       21,
+       24
+      ]
+     ],
+     [
+      9101,
+      9218,
+      [
+       21,
+       24
+      ]
+     ]
+    ]
+   },
+   {
+    "carp": "P57C_t3_A_21308206",
+    "slot": 10,
+    "tics": 8063,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8544,
+    "rachas": []
+   },
+   {
+    "carp": "P57C_t3_A_21308206",
+    "slot": 11,
+    "tics": 9526,
+    "lleno": 9,
+    "anillo": 0,
+    "muere": true,
+    "mt": 10007,
+    "rachas": []
+   },
+   {
+    "carp": "P57C_t3_A_21412935",
+    "slot": 10,
+    "tics": 12456,
+    "lleno": 17,
+    "anillo": 0,
+    "muere": true,
+    "mt": 12937,
+    "rachas": []
+   },
+   {
+    "carp": "P57C_t3_A_21412935",
+    "slot": 11,
+    "tics": 12264,
+    "lleno": 134,
+    "anillo": 0,
+    "muere": true,
+    "mt": 12745,
+    "rachas": []
+   },
+   {
+    "carp": "P57C_t3_A_21517664",
+    "slot": 10,
+    "tics": 825,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 1306,
+    "rachas": []
+   },
+   {
+    "carp": "P57C_t3_A_21517664",
+    "slot": 11,
+    "tics": 3352,
+    "lleno": 18,
+    "anillo": 0,
+    "muere": true,
+    "mt": 3833,
+    "rachas": []
+   },
+   {
+    "carp": "P57C_t3_A_21622393",
+    "slot": 10,
+    "tics": 7855,
+    "lleno": 8,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8336,
+    "rachas": []
+   },
+   {
+    "carp": "P57C_t3_A_21622393",
+    "slot": 11,
+    "tics": 7710,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8191,
+    "rachas": []
+   },
+   {
+    "carp": "P57C_t3_A_21727122",
+    "slot": 10,
+    "tics": 8537,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 9018,
+    "rachas": []
+   },
+   {
+    "carp": "P57C_t3_A_21727122",
+    "slot": 11,
+    "tics": 8768,
+    "lleno": 49,
+    "anillo": 0,
+    "muere": true,
+    "mt": 9249,
+    "rachas": []
+   },
+   {
+    "carp": "P57C_t3_Q_21308206",
+    "slot": 10,
+    "tics": 7951,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8432,
+    "rachas": []
+   },
+   {
+    "carp": "P57C_t3_Q_21308206",
+    "slot": 11,
+    "tics": 7871,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8352,
+    "rachas": []
+   },
+   {
+    "carp": "P57C_t3_Q_21412935",
+    "slot": 10,
+    "tics": 13416,
+    "lleno": 36,
+    "anillo": 0,
+    "muere": true,
+    "mt": 13897,
+    "rachas": []
+   },
+   {
+    "carp": "P57C_t3_Q_21412935",
+    "slot": 11,
+    "tics": 14208,
+    "lleno": 32,
+    "anillo": 0,
+    "muere": true,
+    "mt": 14689,
+    "rachas": []
+   },
+   {
+    "carp": "P57C_t3_Q_21517664",
+    "slot": 10,
+    "tics": 10301,
+    "lleno": 29,
+    "anillo": 0,
+    "muere": true,
+    "mt": 10782,
+    "rachas": [
+     [
+      7993,
+      8021,
+      [
+       27,
+       24
+      ]
+     ]
+    ]
+   },
+   {
+    "carp": "P57C_t3_Q_21517664",
+    "slot": 11,
+    "tics": 9462,
+    "lleno": 666,
+    "anillo": 0,
+    "muere": true,
+    "mt": 9943,
+    "rachas": [
+     [
+      2014,
+      2077,
+      [
+       27,
+       23
+      ]
+     ],
+     [
+      2124,
+      2159,
+      [
+       27,
+       23
+      ]
+     ]
+    ]
+   },
+   {
+    "carp": "P57C_t3_Q_21622393",
+    "slot": 10,
+    "tics": 8041,
+    "lleno": 9,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8522,
+    "rachas": []
+   },
+   {
+    "carp": "P57C_t3_Q_21622393",
+    "slot": 11,
+    "tics": 8151,
+    "lleno": 7,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8632,
+    "rachas": []
+   },
+   {
+    "carp": "P57C_t3_Q_21727122",
+    "slot": 10,
+    "tics": 12408,
+    "lleno": 128,
+    "anillo": 0,
+    "muere": true,
+    "mt": 12889,
+    "rachas": []
+   },
+   {
+    "carp": "P57C_t3_Q_21727122",
+    "slot": 11,
+    "tics": 12384,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 12865,
+    "rachas": []
+   },
+   {
+    "carp": "P57C_t4_A_21831851",
+    "slot": 10,
+    "tics": 8036,
+    "lleno": 9,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8517,
+    "rachas": []
+   },
+   {
+    "carp": "P57C_t4_A_21831851",
+    "slot": 11,
+    "tics": 8305,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8786,
+    "rachas": []
+   },
+   {
+    "carp": "P57C_t4_A_21936580",
+    "slot": 10,
+    "tics": 4559,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 5040,
+    "rachas": []
+   },
+   {
+    "carp": "P57C_t4_A_21936580",
+    "slot": 11,
+    "tics": 4727,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 5208,
+    "rachas": []
+   },
+   {
+    "carp": "P57C_t4_A_22041309",
+    "slot": 10,
+    "tics": 8305,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8786,
+    "rachas": []
+   },
+   {
+    "carp": "P57C_t4_A_22041309",
+    "slot": 11,
+    "tics": 8325,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8806,
+    "rachas": []
+   },
+   {
+    "carp": "P57C_t4_A_22146038",
+    "slot": 10,
+    "tics": 12312,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 12793,
+    "rachas": []
+   },
+   {
+    "carp": "P57C_t4_A_22146038",
+    "slot": 11,
+    "tics": 12072,
+    "lleno": 53,
+    "anillo": 0,
+    "muere": true,
+    "mt": 12553,
+    "rachas": []
+   },
+   {
+    "carp": "P57C_t4_A_22250767",
+    "slot": 10,
+    "tics": 8073,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8554,
+    "rachas": []
+   },
+   {
+    "carp": "P57C_t4_A_22250767",
+    "slot": 11,
+    "tics": 10411,
+    "lleno": 45,
+    "anillo": 0,
+    "muere": true,
+    "mt": 10892,
+    "rachas": []
+   },
+   {
+    "carp": "P57C_t4_Q_21831851",
+    "slot": 10,
+    "tics": 8047,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8528,
+    "rachas": []
+   },
+   {
+    "carp": "P57C_t4_Q_21831851",
+    "slot": 11,
+    "tics": 8464,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8945,
+    "rachas": []
+   },
+   {
+    "carp": "P57C_t4_Q_21936580",
+    "slot": 10,
+    "tics": 9277,
+    "lleno": 36,
+    "anillo": 0,
+    "muere": true,
+    "mt": 9758,
+    "rachas": []
+   },
+   {
+    "carp": "P57C_t4_Q_21936580",
+    "slot": 11,
+    "tics": 1704,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 2185,
+    "rachas": []
+   },
+   {
+    "carp": "P57C_t4_Q_22041309",
+    "slot": 10,
+    "tics": 2275,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 2756,
+    "rachas": []
+   },
+   {
+    "carp": "P57C_t4_Q_22041309",
+    "slot": 11,
+    "tics": 2239,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 2720,
+    "rachas": []
+   },
+   {
+    "carp": "P57C_t4_Q_22146038",
+    "slot": 10,
+    "tics": 8257,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8738,
+    "rachas": []
+   },
+   {
+    "carp": "P57C_t4_Q_22146038",
+    "slot": 11,
+    "tics": 8327,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8808,
+    "rachas": []
+   },
+   {
+    "carp": "P57C_t4_Q_22250767",
+    "slot": 10,
+    "tics": 8688,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 9169,
+    "rachas": []
+   },
+   {
+    "carp": "P57C_t4_Q_22250767",
+    "slot": 11,
+    "tics": 9121,
+    "lleno": 60,
+    "anillo": 0,
+    "muere": true,
+    "mt": 9602,
+    "rachas": []
+   }
+  ]
+ },
+ "P5-8I": {
+  "recuento": {
+   "vidas": 20,
+   "tics": 154601,
+   "tics coger con mochila LLENA": 3974,
+   "...con el anillo haciendo dano": 1,
+   "...con piernas listas (podia irse)": 3139,
+   "rachas (>= 24 tics)": 1,
+   "vidas afectadas": 9,
+   "vidas con >= 240 tics (10 s) asi": 2
+  },
+  "peor": [
+   3146,
+   "P58I_t1_A_20679832",
+   11,
+   [
+    25,
+    23
+   ],
+   4968,
+   8113,
+   7996,
+   true,
+   8477
+  ],
+  "vidas": [
+   {
+    "carp": "P58I_t1_A_20260916",
+    "slot": 10,
+    "tics": 7793,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8274,
+    "rachas": []
+   },
+   {
+    "carp": "P58I_t1_A_20260916",
+    "slot": 11,
+    "tics": 10368,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 10849,
+    "rachas": []
+   },
+   {
+    "carp": "P58I_t1_A_20365645",
+    "slot": 10,
+    "tics": 2741,
+    "lleno": 547,
+    "anillo": 0,
+    "muere": true,
+    "mt": 3222,
+    "rachas": []
+   },
+   {
+    "carp": "P58I_t1_A_20365645",
+    "slot": 11,
+    "tics": 9339,
+    "lleno": 60,
+    "anillo": 0,
+    "muere": true,
+    "mt": 9820,
+    "rachas": []
+   },
+   {
+    "carp": "P58I_t1_A_20470374",
+    "slot": 10,
+    "tics": 1488,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 1969,
+    "rachas": []
+   },
+   {
+    "carp": "P58I_t1_A_20470374",
+    "slot": 11,
+    "tics": 441,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 922,
+    "rachas": []
+   },
+   {
+    "carp": "P58I_t1_A_20575103",
+    "slot": 10,
+    "tics": 344,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 825,
+    "rachas": []
+   },
+   {
+    "carp": "P58I_t1_A_20575103",
+    "slot": 11,
+    "tics": 8377,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8858,
+    "rachas": []
+   },
+   {
+    "carp": "P58I_t1_A_20679832",
+    "slot": 10,
+    "tics": 8658,
+    "lleno": 18,
+    "anillo": 0,
+    "muere": true,
+    "mt": 9139,
+    "rachas": []
+   },
+   {
+    "carp": "P58I_t1_A_20679832",
+    "slot": 11,
+    "tics": 7996,
+    "lleno": 3155,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8477,
+    "rachas": [
+     [
+      4968,
+      8113,
+      [
+       25,
+       23
+      ]
+     ]
+    ]
+   },
+   {
+    "carp": "P58I_t1_K_20260916",
+    "slot": 10,
+    "tics": 8349,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8830,
+    "rachas": []
+   },
+   {
+    "carp": "P58I_t1_K_20260916",
+    "slot": 11,
+    "tics": 8307,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8788,
+    "rachas": []
+   },
+   {
+    "carp": "P58I_t1_K_20365645",
+    "slot": 10,
+    "tics": 9181,
+    "lleno": 53,
+    "anillo": 0,
+    "muere": true,
+    "mt": 9662,
+    "rachas": []
+   },
+   {
+    "carp": "P58I_t1_K_20365645",
+    "slot": 11,
+    "tics": 11562,
+    "lleno": 53,
+    "anillo": 0,
+    "muere": true,
+    "mt": 12043,
+    "rachas": []
+   },
+   {
+    "carp": "P58I_t1_K_20470374",
+    "slot": 10,
+    "tics": 14496,
+    "lleno": 18,
+    "anillo": 0,
+    "muere": false,
+    "mt": 14977,
+    "rachas": []
+   },
+   {
+    "carp": "P58I_t1_K_20470374",
+    "slot": 11,
+    "tics": 14496,
+    "lleno": 36,
+    "anillo": 1,
+    "muere": false,
+    "mt": 14977,
+    "rachas": []
+   },
+   {
+    "carp": "P58I_t1_K_20575103",
+    "slot": 10,
+    "tics": 8387,
+    "lleno": 34,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8868,
+    "rachas": []
+   },
+   {
+    "carp": "P58I_t1_K_20575103",
+    "slot": 11,
+    "tics": 2188,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 2669,
+    "rachas": []
+   },
+   {
+    "carp": "P58I_t1_K_20679832",
+    "slot": 10,
+    "tics": 9204,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 9685,
+    "rachas": []
+   },
+   {
+    "carp": "P58I_t1_K_20679832",
+    "slot": 11,
+    "tics": 10886,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 11367,
+    "rachas": []
+   }
+  ]
+ },
+ "P5-8M": {
+  "recuento": {
+   "vidas": 79,
+   "tics": 641110,
+   "tics coger con mochila LLENA": 13089,
+   "...con el anillo haciendo dano": 2,
+   "...con piernas listas (podia irse)": 7704,
+   "rachas (>= 24 tics)": 11,
+   "vidas afectadas": 48,
+   "vidas con >= 240 tics (10 s) asi": 8
+  },
+  "peor": [
+   5593,
+   "P58M_t3_K_21622393",
+   10,
+   [
+    21,
+    26
+   ],
+   2520,
+   8112,
+   12705,
+   true,
+   13186
+  ],
+  "vidas": [
+   {
+    "carp": "P58M_t0_A_20260916",
+    "slot": 10,
+    "tics": 10037,
+    "lleno": 405,
+    "anillo": 0,
+    "muere": true,
+    "mt": 10518,
+    "rachas": [
+     [
+      8743,
+      8771,
+      [
+       27,
+       26
+      ]
+     ]
+    ]
+   },
+   {
+    "carp": "P58M_t0_A_20260916",
+    "slot": 11,
+    "tics": 11136,
+    "lleno": 52,
+    "anillo": 0,
+    "muere": true,
+    "mt": 11617,
+    "rachas": []
+   },
+   {
+    "carp": "P58M_t0_K_20260916",
+    "slot": 10,
+    "tics": 7899,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8380,
+    "rachas": []
+   },
+   {
+    "carp": "P58M_t0_K_20260916",
+    "slot": 11,
+    "tics": 9229,
+    "lleno": 27,
+    "anillo": 0,
+    "muere": true,
+    "mt": 9710,
+    "rachas": []
+   },
+   {
+    "carp": "P58M_t1_A_20365645",
+    "slot": 10,
+    "tics": 12630,
+    "lleno": 9,
+    "anillo": 0,
+    "muere": true,
+    "mt": 13111,
+    "rachas": []
+   },
+   {
+    "carp": "P58M_t1_A_20365645",
+    "slot": 11,
+    "tics": 9720,
+    "lleno": 1348,
+    "anillo": 0,
+    "muere": true,
+    "mt": 10201,
+    "rachas": []
+   },
+   {
+    "carp": "P58M_t1_A_20470374",
+    "slot": 10,
+    "tics": 679,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 1160,
+    "rachas": []
+   },
+   {
+    "carp": "P58M_t1_A_20470374",
+    "slot": 11,
+    "tics": 441,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 922,
+    "rachas": []
+   },
+   {
+    "carp": "P58M_t1_A_20575103",
+    "slot": 10,
+    "tics": 344,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 825,
+    "rachas": []
+   },
+   {
+    "carp": "P58M_t1_A_20575103",
+    "slot": 11,
+    "tics": 5408,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 5889,
+    "rachas": []
+   },
+   {
+    "carp": "P58M_t1_A_20679832",
+    "slot": 10,
+    "tics": 12336,
+    "lleno": 38,
+    "anillo": 0,
+    "muere": true,
+    "mt": 12817,
+    "rachas": []
+   },
+   {
+    "carp": "P58M_t1_A_20679832",
+    "slot": 11,
+    "tics": 12528,
+    "lleno": 69,
+    "anillo": 2,
+    "muere": true,
+    "mt": 13009,
+    "rachas": []
+   },
+   {
+    "carp": "P58M_t1_K_20365645",
+    "slot": 10,
+    "tics": 7967,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8448,
+    "rachas": []
+   },
+   {
+    "carp": "P58M_t1_K_20365645",
+    "slot": 11,
+    "tics": 10272,
+    "lleno": 48,
+    "anillo": 0,
+    "muere": true,
+    "mt": 10753,
+    "rachas": []
+   },
+   {
+    "carp": "P58M_t1_K_20470374",
+    "slot": 10,
+    "tics": 7119,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 7600,
+    "rachas": []
+   },
+   {
+    "carp": "P58M_t1_K_20470374",
+    "slot": 11,
+    "tics": 7737,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8218,
+    "rachas": []
+   },
+   {
+    "carp": "P58M_t1_K_20575103",
+    "slot": 10,
+    "tics": 2783,
+    "lleno": 18,
+    "anillo": 0,
+    "muere": true,
+    "mt": 3264,
+    "rachas": []
+   },
+   {
+    "carp": "P58M_t1_K_20575103",
+    "slot": 11,
+    "tics": 2242,
+    "lleno": 9,
+    "anillo": 0,
+    "muere": true,
+    "mt": 2723,
+    "rachas": []
+   },
+   {
+    "carp": "P58M_t1_K_20679832",
+    "slot": 10,
+    "tics": 2589,
+    "lleno": 334,
+    "anillo": 0,
+    "muere": true,
+    "mt": 3070,
+    "rachas": [
+     [
+      1509,
+      1564,
+      [
+       26,
+       24
+      ]
+     ]
+    ]
+   },
+   {
+    "carp": "P58M_t1_K_20679832",
+    "slot": 11,
+    "tics": 834,
+    "lleno": 16,
+    "anillo": 0,
+    "muere": true,
+    "mt": 1315,
+    "rachas": []
+   },
+   {
+    "carp": "P58M_t2_A_20784561",
+    "slot": 10,
+    "tics": 2150,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 2631,
+    "rachas": []
+   },
+   {
+    "carp": "P58M_t2_A_20784561",
+    "slot": 11,
+    "tics": 1744,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 2225,
+    "rachas": []
+   },
+   {
+    "carp": "P58M_t2_A_20889290",
+    "slot": 10,
+    "tics": 8029,
+    "lleno": 78,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8510,
+    "rachas": [
+     [
+      1055,
+      1098,
+      [
+       27,
+       23
+      ]
+     ]
+    ]
+   },
+   {
+    "carp": "P58M_t2_A_20889290",
+    "slot": 11,
+    "tics": 12336,
+    "lleno": 9,
+    "anillo": 0,
+    "muere": true,
+    "mt": 12817,
+    "rachas": []
+   },
+   {
+    "carp": "P58M_t2_A_20994019",
+    "slot": 10,
+    "tics": 8196,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8677,
+    "rachas": []
+   },
+   {
+    "carp": "P58M_t2_A_20994019",
+    "slot": 11,
+    "tics": 8201,
+    "lleno": 16,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8682,
+    "rachas": []
+   },
+   {
+    "carp": "P58M_t2_A_21098748",
+    "slot": 10,
+    "tics": 10633,
+    "lleno": 1344,
+    "anillo": 0,
+    "muere": true,
+    "mt": 11114,
+    "rachas": []
+   },
+   {
+    "carp": "P58M_t2_A_21098748",
+    "slot": 11,
+    "tics": 12264,
+    "lleno": 27,
+    "anillo": 0,
+    "muere": true,
+    "mt": 12745,
+    "rachas": []
+   },
+   {
+    "carp": "P58M_t2_A_21203477",
+    "slot": 10,
+    "tics": 12552,
+    "lleno": 8,
+    "anillo": 0,
+    "muere": true,
+    "mt": 13033,
+    "rachas": []
+   },
+   {
+    "carp": "P58M_t2_A_21203477",
+    "slot": 11,
+    "tics": 13536,
+    "lleno": 44,
+    "anillo": 0,
+    "muere": true,
+    "mt": 14017,
+    "rachas": []
+   },
+   {
+    "carp": "P58M_t2_K_20784561",
+    "slot": 11,
+    "tics": 4907,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 5388,
+    "rachas": []
+   },
+   {
+    "carp": "P58M_t2_K_20889290",
+    "slot": 10,
+    "tics": 9037,
+    "lleno": 16,
+    "anillo": 0,
+    "muere": true,
+    "mt": 9518,
+    "rachas": []
+   },
+   {
+    "carp": "P58M_t2_K_20889290",
+    "slot": 11,
+    "tics": 9199,
+    "lleno": 26,
+    "anillo": 0,
+    "muere": true,
+    "mt": 9680,
+    "rachas": []
+   },
+   {
+    "carp": "P58M_t2_K_20994019",
+    "slot": 10,
+    "tics": 8849,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 9330,
+    "rachas": []
+   },
+   {
+    "carp": "P58M_t2_K_20994019",
+    "slot": 11,
+    "tics": 9012,
+    "lleno": 64,
+    "anillo": 0,
+    "muere": true,
+    "mt": 9493,
+    "rachas": []
+   },
+   {
+    "carp": "P58M_t2_K_21098748",
+    "slot": 10,
+    "tics": 13624,
+    "lleno": 9,
+    "anillo": 0,
+    "muere": true,
+    "mt": 14105,
+    "rachas": []
+   },
+   {
+    "carp": "P58M_t2_K_21098748",
+    "slot": 11,
+    "tics": 9024,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 9505,
+    "rachas": []
+   },
+   {
+    "carp": "P58M_t2_K_21203477",
+    "slot": 10,
+    "tics": 11400,
+    "lleno": 396,
+    "anillo": 0,
+    "muere": true,
+    "mt": 11881,
+    "rachas": []
+   },
+   {
+    "carp": "P58M_t2_K_21203477",
+    "slot": 11,
+    "tics": 13320,
+    "lleno": 485,
+    "anillo": 0,
+    "muere": true,
+    "mt": 13801,
+    "rachas": []
+   },
+   {
+    "carp": "P58M_t3_A_21308206",
+    "slot": 10,
+    "tics": 7859,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8340,
+    "rachas": []
+   },
+   {
+    "carp": "P58M_t3_A_21308206",
+    "slot": 11,
+    "tics": 8654,
+    "lleno": 153,
+    "anillo": 0,
+    "muere": true,
+    "mt": 9135,
+    "rachas": [
+     [
+      8614,
+      8673,
+      [
+       27,
+       21
+      ]
+     ],
+     [
+      8687,
+      8716,
+      [
+       27,
+       23
+      ]
+     ]
+    ]
+   },
+   {
+    "carp": "P58M_t3_A_21412935",
+    "slot": 10,
+    "tics": 1143,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 1624,
+    "rachas": []
+   },
+   {
+    "carp": "P58M_t3_A_21412935",
+    "slot": 11,
+    "tics": 943,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 1424,
+    "rachas": []
+   },
+   {
+    "carp": "P58M_t3_A_21517664",
+    "slot": 10,
+    "tics": 7939,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8420,
+    "rachas": []
+   },
+   {
+    "carp": "P58M_t3_A_21517664",
+    "slot": 11,
+    "tics": 8038,
+    "lleno": 27,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8519,
+    "rachas": []
+   },
+   {
+    "carp": "P58M_t3_A_21622393",
+    "slot": 10,
+    "tics": 803,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 1284,
+    "rachas": []
+   },
+   {
+    "carp": "P58M_t3_A_21622393",
+    "slot": 11,
+    "tics": 1196,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 1677,
+    "rachas": []
+   },
+   {
+    "carp": "P58M_t3_A_21727122",
+    "slot": 10,
+    "tics": 7793,
+    "lleno": 27,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8274,
+    "rachas": []
+   },
+   {
+    "carp": "P58M_t3_A_21727122",
+    "slot": 11,
+    "tics": 7897,
+    "lleno": 9,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8378,
+    "rachas": []
+   },
+   {
+    "carp": "P58M_t3_K_21308206",
+    "slot": 10,
+    "tics": 14160,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 14641,
+    "rachas": []
+   },
+   {
+    "carp": "P58M_t3_K_21308206",
+    "slot": 11,
+    "tics": 12597,
+    "lleno": 9,
+    "anillo": 0,
+    "muere": true,
+    "mt": 13078,
+    "rachas": []
+   },
+   {
+    "carp": "P58M_t3_K_21412935",
+    "slot": 10,
+    "tics": 7815,
+    "lleno": 9,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8296,
+    "rachas": []
+   },
+   {
+    "carp": "P58M_t3_K_21412935",
+    "slot": 11,
+    "tics": 9277,
+    "lleno": 8,
+    "anillo": 0,
+    "muere": true,
+    "mt": 9758,
+    "rachas": []
+   },
+   {
+    "carp": "P58M_t3_K_21517664",
+    "slot": 10,
+    "tics": 12336,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 12817,
+    "rachas": []
+   },
+   {
+    "carp": "P58M_t3_K_21517664",
+    "slot": 11,
+    "tics": 12552,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 13033,
+    "rachas": []
+   },
+   {
+    "carp": "P58M_t3_K_21622393",
+    "slot": 10,
+    "tics": 12705,
+    "lleno": 5689,
+    "anillo": 0,
+    "muere": true,
+    "mt": 13186,
+    "rachas": [
+     [
+      2448,
+      2498,
+      [
+       21,
+       26
+      ]
+     ],
+     [
+      2520,
+      8112,
+      [
+       21,
+       26
+      ]
+     ],
+     [
+      9554,
+      9589,
+      [
+       24,
+       27
+      ]
+     ]
+    ]
+   },
+   {
+    "carp": "P58M_t3_K_21622393",
+    "slot": 11,
+    "tics": 350,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 831,
+    "rachas": []
+   },
+   {
+    "carp": "P58M_t3_K_21727122",
+    "slot": 10,
+    "tics": 13464,
+    "lleno": 18,
+    "anillo": 0,
+    "muere": false,
+    "mt": 13945,
+    "rachas": []
+   },
+   {
+    "carp": "P58M_t3_K_21727122",
+    "slot": 11,
+    "tics": 12384,
+    "lleno": 77,
+    "anillo": 0,
+    "muere": true,
+    "mt": 12865,
+    "rachas": []
+   },
+   {
+    "carp": "P58M_t4_A_21831851",
+    "slot": 10,
+    "tics": 9021,
+    "lleno": 9,
+    "anillo": 0,
+    "muere": true,
+    "mt": 9502,
+    "rachas": []
+   },
+   {
+    "carp": "P58M_t4_A_21831851",
+    "slot": 11,
+    "tics": 12528,
+    "lleno": 184,
+    "anillo": 0,
+    "muere": true,
+    "mt": 13009,
+    "rachas": [
+     [
+      9765,
+      9806,
+      [
+       23,
+       25
+      ]
+     ]
+    ]
+   },
+   {
+    "carp": "P58M_t4_A_21936580",
+    "slot": 10,
+    "tics": 9252,
+    "lleno": 25,
+    "anillo": 0,
+    "muere": true,
+    "mt": 9733,
+    "rachas": []
+   },
+   {
+    "carp": "P58M_t4_A_21936580",
+    "slot": 11,
+    "tics": 10685,
+    "lleno": 9,
+    "anillo": 0,
+    "muere": true,
+    "mt": 11166,
+    "rachas": []
+   },
+   {
+    "carp": "P58M_t4_A_22041309",
+    "slot": 10,
+    "tics": 9708,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 10189,
+    "rachas": []
+   },
+   {
+    "carp": "P58M_t4_A_22041309",
+    "slot": 11,
+    "tics": 11856,
+    "lleno": 1789,
+    "anillo": 0,
+    "muere": true,
+    "mt": 12337,
+    "rachas": [
+     [
+      7497,
+      8079,
+      [
+       22,
+       25
+      ]
+     ],
+     [
+      8093,
+      9229,
+      [
+       22,
+       25
+      ]
+     ]
+    ]
+   },
+   {
+    "carp": "P58M_t4_A_22146038",
+    "slot": 10,
+    "tics": 9207,
+    "lleno": 8,
+    "anillo": 0,
+    "muere": true,
+    "mt": 9688,
+    "rachas": []
+   },
+   {
+    "carp": "P58M_t4_A_22146038",
+    "slot": 11,
+    "tics": 9898,
+    "lleno": 26,
+    "anillo": 0,
+    "muere": true,
+    "mt": 10379,
+    "rachas": []
+   },
+   {
+    "carp": "P58M_t4_A_22250767",
+    "slot": 10,
+    "tics": 9107,
+    "lleno": 18,
+    "anillo": 0,
+    "muere": true,
+    "mt": 9588,
+    "rachas": []
+   },
+   {
+    "carp": "P58M_t4_A_22250767",
+    "slot": 11,
+    "tics": 8958,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 9439,
+    "rachas": []
+   },
+   {
+    "carp": "P58M_t4_K_21831851",
+    "slot": 10,
+    "tics": 7867,
+    "lleno": 27,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8348,
+    "rachas": []
+   },
+   {
+    "carp": "P58M_t4_K_21831851",
+    "slot": 11,
+    "tics": 7721,
+    "lleno": 42,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8202,
+    "rachas": []
+   },
+   {
+    "carp": "P58M_t4_K_21936580",
+    "slot": 10,
+    "tics": 1974,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 2455,
+    "rachas": []
+   },
+   {
+    "carp": "P58M_t4_K_21936580",
+    "slot": 11,
+    "tics": 8359,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8840,
+    "rachas": []
+   },
+   {
+    "carp": "P58M_t4_K_22041309",
+    "slot": 10,
+    "tics": 1888,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 2369,
+    "rachas": []
+   },
+   {
+    "carp": "P58M_t4_K_22041309",
+    "slot": 11,
+    "tics": 7943,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8424,
+    "rachas": []
+   },
+   {
+    "carp": "P58M_t4_K_22146038",
+    "slot": 10,
+    "tics": 8497,
+    "lleno": 7,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8978,
+    "rachas": []
+   },
+   {
+    "carp": "P58M_t4_K_22146038",
+    "slot": 11,
+    "tics": 7867,
+    "lleno": 0,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8348,
+    "rachas": []
+   },
+   {
+    "carp": "P58M_t4_K_22250767",
+    "slot": 10,
+    "tics": 9003,
+    "lleno": 15,
+    "anillo": 0,
+    "muere": true,
+    "mt": 9484,
+    "rachas": []
+   },
+   {
+    "carp": "P58M_t4_K_22250767",
+    "slot": 11,
+    "tics": 7923,
+    "lleno": 9,
+    "anillo": 0,
+    "muere": true,
+    "mt": 8404,
+    "rachas": []
+   }
+  ]
+ }
+}
