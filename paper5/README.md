@@ -8,8 +8,9 @@ Second part of the series on emotion and reason in an agent. The first part ([`.
 
 - `GEMV_paper5_EN.pdf`: the English version of the paper, the one deposited in Zenodo.
 - `GEMV_paper5_ES.pdf`: the Spanish version, laid out like the English one.
-- `markdown_en/`, `markdown_es/`: markdown sources of the two versions, one file per section (`resumen.md` is the abstract, `s1.md` to `s10.md` the sections, `agradecimientos.md`, `refs.md` and `apendice.md` the acknowledgments, references and appendix).
-- `figures/`: the five figures, in English and in Spanish (`fig1` to `fig5`, with `_en` and `_es` suffixes).
+- `paper5_EN.md`: markdown source of the English version published in Zenodo.
+- `paper5_ES.md`: markdown source of the Spanish version.
+- `fig/`: the five figures, in English and in Spanish (`fig1` to `fig5`, with `_en` and `_es` suffixes).
 - `code/`: the code that played and measured the paper, exactly the files listed in `code/CONGELADO.md`, in their repository paths: the engine (`motor/model.py`, md5 `1e511978c251130e95169ebf8443efa1`, unchanged since paper one), the planner (`planificador/`), the body (`paintball/alma/`), the pieces of this paper (`cantera/paper5/`: the shape of a plan, the advisor, curiosity, trust), the world presets and the bench, measurement, launch and figure scripts. `code/CHECKSUMS_code.md` gives the md5 of each file in the frozen list and in this copy (199 files; three carry a declared redaction, see below).
 - `reports/paper5/`: the 66 reports of this paper (`informe_P5*.md`, in Spanish); every number in the appendix names the report it comes from. `reports/paper6/`: the 3 reports of the next work that the paper cites (P6-6, P6-8, P6-22: two inherited defects of the body and the steps the game did not execute).
 - `data/`: the 133 JSON files those reports were written from (measures, requests, per-game summaries), those under 10 MiB; `data/paper5/` (and `t1_descartada/`, the discarded first batch of the advisor series), `data/paper4/` (the seed list), `data/paper6/` (the data of the three cited reports).
