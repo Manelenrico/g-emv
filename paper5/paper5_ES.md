@@ -4,11 +4,9 @@ Manel Enrico\
 Investigador independiente, Barcelona\
 ORCID: 0009-0008-1732-6310\
 Preprint, versión 1, 2026\
-Sigue directamente al trabajo anterior [4], en una línea de investigación que empezó con el motor [1] y siguió con la colmena [2] y la manada [3].\
+Quinto trabajo de una línea de investigación que empezó con el motor [1]; sigue directamente al anterior [2]. La serie entera: github.com/Manelenrico/g-emv.\
 [1] Enrico, M. (2026). G-EMV: A Geometric Architecture of Homeostatic Orientation for Agents. Zenodo. DOI 10.5281/zenodo.21026795.\
-[2] Enrico, M. (2026). G-EMV: the Hive. Instinct Suffices: a Whole Life Without Reward. Zenodo. DOI 10.5281/zenodo.21994358.\
-[3] Enrico, M. (2026). G-EMV: the Pack. Care Without Reward in a World That Pays for Killing. Zenodo. DOI 10.5281/zenodo.22713650.\
-[4] Enrico, M. (2026). G-EMV: Emotion and Reason in an Agent. When Thinking Is Needed. Zenodo. DOI 10.5281/zenodo.22844274.
+[2] Enrico, M. (2026). G-EMV: Emotion and Reason in an Agent. When Thinking Is Needed. Zenodo. DOI 10.5281/zenodo.22844274.
 
 ## Resumen
 
