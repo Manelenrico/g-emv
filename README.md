@@ -1,4 +1,4 @@
-# G-EMV — Geometric Architecture for Homeostatic Orientation in Agents
+# G-EMV — A Geometric Architecture of Homeostatic Orientation for Agents
 
 **Author:** Manel Enrico · ORCID [0009-0008-1732-6310](https://orcid.org/0009-0008-1732-6310)  
 **License:** MIT  
@@ -22,7 +22,7 @@ This repository accompanies the preprint with complete, reproducible, self-conta
 
 The engine, the hive, the pack.
 
-1. **G-EMV: Geometric Architecture for Homeostatic Orientation in Agents.** Manel Enrico, 2026. DOI [10.5281/zenodo.21026795](https://doi.org/10.5281/zenodo.21026795). Folder: [this repository root](./).
+1. **G-EMV: A Geometric Architecture of Homeostatic Orientation for Agents.** Manel Enrico, 2026. DOI [10.5281/zenodo.21026795](https://doi.org/10.5281/zenodo.21026795). Folder: [this repository root](./).
 2. **G-EMV: the Hive. Instinct Suffices: a Whole Life Without Reward.** Manel Enrico, 2026. DOI [10.5281/zenodo.21994358](https://doi.org/10.5281/zenodo.21994358). Folder: [`paper2`](paper2).
 3. **G-EMV: the Pack. Care Without Reward in a World That Pays for Killing.** Manel Enrico, 2026. DOI [10.5281/zenodo.22713650](https://doi.org/10.5281/zenodo.22713650). Folder: [`paper3`](paper3).
 
@@ -309,7 +309,7 @@ If you use this code or the G-EMV model in your research, please cite the prepri
 ```bibtex
 @misc{enrico2026gemv,
   author    = {Enrico, Manel},
-  title     = {{G-EMV}: Geometric Architecture for Homeostatic Orientation in Agents},
+  title     = {{G-EMV}: A Geometric Architecture of Homeostatic Orientation for Agents},
   year      = {2026},
   publisher = {Zenodo},
   doi       = {10.5281/zenodo.21026795},
