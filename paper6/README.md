@@ -2,7 +2,7 @@
 
 Third part of the series on emotion and reason in an agent. The first part ([`../paper4`](../paper4)) placed a head that talks beside a body that feels; the second ([`../paper5`](../paper5)) gave the world time and built a wide door, trust and curiosity. This one asks whether reason can help a pair of creatures without commanding them. Before that series there was a trilogy: the engine, the hive, the pack.
 
-**Status:** preprint, version 1, 2026. DOI pending.
+**Status:** preprint, version 1, 2026. DOI [10.5281/zenodo.23168539](https://doi.org/10.5281/zenodo.23168539).
 
 ## Authors
 
@@ -16,7 +16,7 @@ Third part of the series on emotion and reason in an agent. The first part ([`..
 - `paper6_EN.md`: markdown source of the English version.
 - `paper6_ES.md`: markdown source of the Spanish version.
 - `fig/`: the five figures, in English and in Spanish (`fig1` to `fig5`, with `_en` and `_es` suffixes).
-- `code/`: the code, in its repository paths. First, the frozen code of paper six, exactly the files that `code/CONGELADO_P6.md` lists with path and md5: the 32 files of the body of the pair (arm A4, frozen in P6-12): the engine (`motor/model.py`, md5 `1e511978c251130e95169ebf8443efa1`, unchanged since paper one), the planner (`planificador/`), the body (`paintball/alma/`), the pieces inherited from paper five (`cantera/paper5/`) and the pieces of this paper (`cantera/paper6/`: the report between siblings and its listener, the feeling of distance, the empty-handed threat, the fixes); and the 2 files of the image and the world (`Dockerfile.pareja11`, `roster_lento_v2_PROPUESTA.json`). Second, the bridge and measurement code, which is not frozen (129 files): the 26 files that the arms A5h, A6, A7h, A8 and A9 load on top of the frozen body (the rule-based advisor, the honest door, the commitment with its proportionate veto and fair count, the judgment in a separate process, the language reasoner with its query texts, the forecast of A9), the 94 measurement and bench programs that the reports name (`mide_*.py`, `figuras_P6_FIN3.py` and the bench of P6-25, P6-26, P6-28, P6-29 and P6-30, whose working folder is `cantera/paper6/P6_30/`) and the 9 files those programs import. `code/CHECKSUMS_code.md` gives the md5 of every file, the frozen ones against the frozen list, and says where each of the others comes from.
+- `code/`: the code, in its repository paths. First, the frozen code of paper six, exactly the files that `code/CONGELADO_P6.md` lists with path and md5: the 32 files of the body of the pair (arm A4, frozen in P6-12): the engine (`motor/model.py`, md5 `1e511978c251130e95169ebf8443efa1`, unchanged since paper one), the planner (`planificador/`), the body (`paintball/alma/`), the pieces inherited from paper five (`cantera/paper5/`) and the pieces of this paper (`cantera/paper6/`: the report between siblings and its listener, the feeling of distance, the empty-handed threat, the fixes); and the 2 files of the image and the world (`Dockerfile.pareja11`, `roster_lento_v2_PROPUESTA.json`). Second, the bridge and measurement code, which is not frozen (144 files): the 26 files that the arms A5h, A6, A7h, A8 and A9 load on top of the frozen body (the rule-based advisor, the honest door, the commitment with its proportionate veto and fair count, the judgment in a separate process, the language reasoner with its query texts, the forecast of A9), the 110 measurement and bench programs that the reports name (`mide_*.py`, `figuras_P6_FIN3.py`, the bench of P6-25, P6-26, P6-28, P6-29 and P6-30, whose working folder is `cantera/paper6/P6_30/`, and the bench programs of the earlier steps, `banco_*.py` with their `corre_*.py` and `resume_*.py`) and the 8 files those programs import. `code/CHECKSUMS_code.md` gives the md5 of every file, the frozen ones against the frozen list, and says where each of the others comes from.
 - `reports/`: the 31 reports of this paper (`informe_P6_0.md` to `informe_P6_30.md`, in Spanish), one per experiment; every number in the appendix names the report it comes from. Also the two checks of the appendix against its sources (`P6_FIN1_comprobacion.md`, `P6_FIN2_respuestas.md`).
 - `data/`: the 411 JSON files those reports were written from (measures, requests, per-game summaries, bench results), those under 10 MiB: `data/paper6/` (375; and `data/paper6/P6_30/`, 27, the working folder of the last report), `data/paper5/` (6) and `data/paper4/` (3), the last two being files of the earlier papers that these reports use.
 - `diaries/`: the manifest of the recorded games, `DIARIOS_P6_MANIFIESTO.md` (series, name, size and md5 of each file) and the same table as `diaries_manifest.csv`.
@@ -32,7 +32,7 @@ The diaries themselves, the recorded games (1346 files in the manifest, 22.05 Gi
 - The launchers (13 `lanza_*.py` scripts named by the reports): they only work with the platform's client and the credentials of the account, which are not included. The recipe of the frozen image and the roster are in `code/`.
 - Credentials of any kind: no `.env` file, no key, no token. Some programs read a key from the environment or from a local `.env` file; the file is not here.
 - Any `model.py` other than the published one: there is only `code/motor/model.py`, md5 `1e511978c251130e95169ebf8443efa1`.
-- Other programs the reports name that are neither loaded by those arms nor in the measurement set above: smoke tests (`humo_*.py`, 20), seal checkers (`sello_*.py`, 10), GIF makers (`gif_*.py`, 9), the bench programs of the earlier steps (`banco_*.py`, `corre_*.py`, `resume_*.py`, 15), the policies of the arms before A4 and of the smoke arm A6p, and housekeeping scripts. The reports describe them.
+- Other programs the reports name that are neither loaded by those arms nor in the measurement set above: smoke tests (`humo_*.py`, 20), seal checkers (`sello_*.py`, 10), GIF makers (`gif_*.py`, 9), the policies of the arms before A4 and of the smoke arm A6p, and housekeeping scripts. The reports describe them.
 - The recipes of the images of the later arms (`Dockerfile.pareja16` to `Dockerfile.pareja28`): only the frozen one is listed in `CONGELADO_P6.md`.
 
 ## Declared redactions
@@ -54,7 +54,7 @@ The lesson is that the unpredictable lies in the others, and that our way of for
 
 ## How to cite
 
-Enrico, M., and Sklar, A. (2026). G-EMV: Emotion and Reason in an Agent. Helping Without Commanding. Preprint, version 1. DOI pending.
+Enrico, M., and Sklar, A. (2026). G-EMV: Emotion and Reason in an Agent. Helping Without Commanding. Zenodo. https://doi.org/10.5281/zenodo.23168539
 
 ## The series
 

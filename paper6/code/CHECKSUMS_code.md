@@ -45,7 +45,7 @@ A file whose copy differs from the source carries a declared redaction; nothing 
 
 ## Bridge and measurement code (not frozen)
 
-These files are not in `CONGELADO_P6.md`. They are (a) what the arms A5h, A6, A7h, A8 and A9 load when they start, beyond the frozen body (traced by importing the entry point of each image with the environment of its recipe, plus the imports written inside functions and the text files those modules name), (b) the measurement and bench programs that the published reports name, and (c) what those programs import.
+These files are not in `CONGELADO_P6.md`. They are (a) what the arms A5h, A6, A7h, A8 and A9 load when they start, beyond the frozen body (traced by importing the entry point of each image with the environment of its recipe, plus the imports written inside functions and the text files those modules name), (b) the measurement and bench programs that the published reports name (`mide_*.py`, `figuras_P6_FIN3.py`, `banco_*.py`, `corre_*.py`, `resume_*.py` and the working folder of the bench of P6-30), and (c) what those programs import.
 The md5 of the source is the one of the working repository when this copy was made; there is no frozen list to check it against.
 
 | file | md5 of the source | md5 of the copy here | redaction | where it comes from |
@@ -67,12 +67,23 @@ The md5 of the source is the one of the working repository when this copy was ma
 | `cantera/paper6/P6_30/mide_P6_29.py` | `cca05f1417e51b5eedb1820110998f71` | `cca05f1417e51b5eedb1820110998f71` | — | bench; named by P6_29, P6_30 |
 | `cantera/paper6/P6_30/residuo_P6_30.py` | `bd2aea41e90671f402b70eaf99fab634` | `bd2aea41e90671f402b70eaf99fab634` | — | bench; named by P6_30 |
 | `cantera/paper6/P6_30/residuo_todo_P6_30.py` | `d9c414421c5e78e2202d24354d367ade` | `d9c414421c5e78e2202d24354d367ade` | — | bench; named by P6_30 |
-| `cantera/paper6/banco_P6_15.py` | `b5502a9357683292d349ab6dce2f2ab8` | `b5502a9357683292d349ab6dce2f2ab8` | — | imported by `mide_gil_P6_22.py` |
+| `cantera/paper6/banco_P6_10.py` | `c3fc419165a80c52e08710899731dbb3` | `c3fc419165a80c52e08710899731dbb3` | — | bench; named by P6_10, P6_11 |
+| `cantera/paper6/banco_P6_11.py` | `e6dcd998f0746da1459215ee155b6d4d` | `e6dcd998f0746da1459215ee155b6d4d` | — | bench; named by P6_11 |
+| `cantera/paper6/banco_P6_14.py` | `8808fe82ba895996c28a1f15afe7fd51` | `8808fe82ba895996c28a1f15afe7fd51` | — | bench; named by P6_14, P6_15, P6_30 |
+| `cantera/paper6/banco_P6_15.py` | `b5502a9357683292d349ab6dce2f2ab8` | `b5502a9357683292d349ab6dce2f2ab8` | — | bench; named by P6_15, P6_30 |
+| `cantera/paper6/banco_P6_18.py` | `493df3b594a321fc18108a33c9bcf46b` | `493df3b594a321fc18108a33c9bcf46b` | — | bench; named by P6_18, P6_30 |
+| `cantera/paper6/banco_P6_19.py` | `7ac1a2bcaf2148d7c727a82dd2033e1b` | `7ac1a2bcaf2148d7c727a82dd2033e1b` | — | bench; named by P6_19, P6_30 |
 | `cantera/paper6/banco_P6_26.py` | `960adf3dbbc114ab85da55e2ce9d4719` | `960adf3dbbc114ab85da55e2ce9d4719` | — | bench; named by P6_26, P6_30 |
 | `cantera/paper6/banco_P6_28.py` | `0bab0b6f273b024ca30b48716b808f8a` | `0bab0b6f273b024ca30b48716b808f8a` | — | bench; named by P6_28, P6_30 |
+| `cantera/paper6/banco_P6_3.py` | `b7287446e831a1a1d540e809970d9dca` | `b7287446e831a1a1d540e809970d9dca` | — | bench; named by P6_3 |
+| `cantera/paper6/banco_fix_P6_22.py` | `767f25214f94fcfdc63820bca50e84be` | `767f25214f94fcfdc63820bca50e84be` | — | bench; named by P6_22 |
 | `cantera/paper6/compromiso6_P6_16.py` | `a5e959b5ad9375636e8f7245441ba411` | `a5e959b5ad9375636e8f7245441ba411` | — | loaded by A5h, A6, A7h, A8, A9 at start |
 | `cantera/paper6/compromiso6b_P6_18.py` | `cf2557f912286a482dfeb0e932c44111` | `cf2557f912286a482dfeb0e932c44111` | — | loaded by A6 at start |
 | `cantera/paper6/compromiso6c_P6_23.py` | `38d8529db6362b8f792ff958f5b29855` | `38d8529db6362b8f792ff958f5b29855` | — | loaded by A7h, A8, A9 at start |
+| `cantera/paper6/corre_P6_14.py` | `8a6e41f550afc094653c1005c316e17a` | `8a6e41f550afc094653c1005c316e17a` | — | bench; named by P6_14, P6_30 |
+| `cantera/paper6/corre_P6_15.py` | `f2c4548d9bf006ab40269f98bfc4b31d` | `f2c4548d9bf006ab40269f98bfc4b31d` | — | bench; named by P6_15, P6_30 |
+| `cantera/paper6/corre_P6_18.py` | `288a7a1e1189da74cedf08b0bde92fd7` | `288a7a1e1189da74cedf08b0bde92fd7` | — | bench; named by P6_18, P6_30 |
+| `cantera/paper6/corre_P6_19.py` | `83e3959c2765070d72793064178690f2` | `83e3959c2765070d72793064178690f2` | — | bench; named by P6_19, P6_30 |
 | `cantera/paper6/escenas_P6_25.py` | `09f05984d46dda53e6b6d1780cdd9592` | `09f05984d46dda53e6b6d1780cdd9592` | — | bench; named by P6_25, P6_30 |
 | `cantera/paper6/escribe_informe_P6_30.py` | `d6f54daa478129e8f0f673e503c68c31` | `d6f54daa478129e8f0f673e503c68c31` | — | bench; named by P6_30 |
 | `cantera/paper6/instruccion_P6_25.md` | `f70183f40964b2c7487207a9b63bf85d` | `f70183f40964b2c7487207a9b63bf85d` | — | loaded by A8, A9 (named by puerta_proceso_P6_26.py) |
@@ -172,6 +183,10 @@ The md5 of the source is the one of the working repository when this copy was ma
 | `cantera/paper6/puerta_proceso_P6_27.py` | `d09e55191eb69b96cd299b7c2e4138be` | `d09e55191eb69b96cd299b7c2e4138be` | — | loaded by A8, A9 at start |
 | `cantera/paper6/puerta_proceso_P6_28.py` | `568a5d7e8d1bacd15647807901c633cc` | `568a5d7e8d1bacd15647807901c633cc` | — | loaded by A9 at start |
 | `cantera/paper6/razonador_P6_25.py` | `bf0ed1720433937e153e5cb6d417cfee` | `bf0ed1720433937e153e5cb6d417cfee` | — | bench; named by P6_25, P6_30 |
+| `cantera/paper6/resume_P6_14.py` | `601073de2c3dbf0ef7301b3b6cc5aadd` | `601073de2c3dbf0ef7301b3b6cc5aadd` | — | bench; named by P6_14 |
+| `cantera/paper6/resume_P6_15.py` | `46b0bcbda9f6f29f4b17db034064953f` | `46b0bcbda9f6f29f4b17db034064953f` | — | bench; named by P6_15 |
+| `cantera/paper6/resume_P6_18.py` | `1c6b8a7f6982679de542ef90eba00ad5` | `1c6b8a7f6982679de542ef90eba00ad5` | — | bench; named by P6_18 |
+| `cantera/paper6/resume_P6_19.py` | `f6e2b619f1721d4e244d5d15d276b76d` | `f6e2b619f1721d4e244d5d15d276b76d` | — | bench; named by P6_19 |
 | `cantera/paper6/texto_escena_P6_26.py` | `7f0d6743e53eb684ce095e9a02cd68e1` | `7f0d6743e53eb684ce095e9a02cd68e1` | — | loaded by A8, A9 at start |
 | `paintball/alma/appraisal_zs_v38_exp.py` | `ecd00602c1befdc2fbd32f7aa7d52b7f` | `ecd00602c1befdc2fbd32f7aa7d52b7f` | — | imported by `decide_otra_vez.py` |
 | `paintball/alma/appraisal_zs_v40_exp.py` | `e729a0293673abe200620419ccb8683a` | `e729a0293673abe200620419ccb8683a` | — | imported by `serie_util.py` |
@@ -180,4 +195,4 @@ The md5 of the source is the one of the working repository when this copy was ma
 | `planificador/mapa_territorial.py` | `7e81f483c5914bdd7285ca677fe47fd0` | `7e81f483c5914bdd7285ca677fe47fd0` | — | loaded by A5h, A6, A7h, A8, A9 (imported inside a function of planificador_v1.py) |
 | `planificador/transicion_v1.py` | `1ee061d1932dca55971ae5697a78d3c2` | `1ee061d1932dca55971ae5697a78d3c2` | — | loaded by A5h, A6, A7h, A8, A9 (imported inside a function of planificador_v1.py) |
 
-*129 files; 129 copies identical to the source; 0 with a declared redaction.*
+*144 files; 144 copies identical to the source; 0 with a declared redaction.*
