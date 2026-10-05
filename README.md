@@ -16,6 +16,24 @@ This repository accompanies the preprint with complete, reproducible, self-conta
 
 ---
 
+## The series
+
+### The first trilogy
+
+The engine, the hive, the pack.
+
+1. **G-EMV: Geometric Architecture for Homeostatic Orientation in Agents.** Manel Enrico, 2026. DOI [10.5281/zenodo.21026795](https://doi.org/10.5281/zenodo.21026795). Folder: [this repository root](./).
+2. **G-EMV: the Hive. Instinct Suffices: a Whole Life Without Reward.** Manel Enrico, 2026. DOI [10.5281/zenodo.21994358](https://doi.org/10.5281/zenodo.21994358). Folder: [`paper2`](paper2).
+3. **G-EMV: the Pack. Care Without Reward in a World That Pays for Killing.** Manel Enrico, 2026. DOI [10.5281/zenodo.22713650](https://doi.org/10.5281/zenodo.22713650). Folder: [`paper3`](paper3).
+
+### Emotion and Reason in an Agent
+
+4. **G-EMV: Emotion and Reason in an Agent. When Thinking Is Needed.** Manel Enrico, 2026. DOI [10.5281/zenodo.22844274](https://doi.org/10.5281/zenodo.22844274). Folder: [`paper4`](paper4).
+5. **G-EMV: Emotion and Reason in an Agent. Curiosity, Trust and Commitment.** Manel Enrico, 2026. DOI [10.5281/zenodo.23035785](https://doi.org/10.5281/zenodo.23035785). Folder: [`paper5`](paper5).
+6. **G-EMV: Emotion and Reason in an Agent. Helping Without Commanding.** Manel Enrico and Ari Sklar, 2026. DOI [10.5281/zenodo.23168539](https://doi.org/10.5281/zenodo.23168539). Folder: [`paper6`](paper6).
+
+---
+
 ## Paper figures (v2)
 
 The preprint contains 11 figures. Figures 1, 2, and 5 are illustrations; the remaining eight are generated from the scripts in this repository.
