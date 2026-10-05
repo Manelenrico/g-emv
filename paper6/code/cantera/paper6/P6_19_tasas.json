@@ -1,0 +1,1154 @@
+{
+ "nota": "P6-19 tasas base. INSTRUMENTO DE MEDIDA, solo lectura.",
+ "vidas": 200,
+ "armas_dano_mano": 3.0,
+ "por_rival": {
+  "none · fuera de tiro": {
+   "rival_tics": 4573436,
+   "golpes": 6,
+   "dano": 56.4,
+   "dano_por_rival_tic": 1e-05,
+   "p_pega_en_el_tic": 0.0,
+   "ic_wilson": [
+    0.0,
+    0.0
+   ],
+   "dano_por_golpe": 9.4
+  },
+  "none · 5-6": {
+   "rival_tics": 2006602,
+   "golpes": 0,
+   "dano": 0.0,
+   "dano_por_rival_tic": 0.0,
+   "p_pega_en_el_tic": 0.0,
+   "ic_wilson": [
+    0.0,
+    0.0
+   ],
+   "dano_por_golpe": 0.0
+  },
+  "visto · fuera de tiro": {
+   "rival_tics": 4278804,
+   "golpes": 6,
+   "dano": 56.4,
+   "dano_por_rival_tic": 1e-05,
+   "p_pega_en_el_tic": 0.0,
+   "ic_wilson": [
+    0.0,
+    0.0
+   ],
+   "dano_por_golpe": 9.4
+  },
+  "todas · 5-6": {
+   "rival_tics": 2934707,
+   "golpes": 3,
+   "dano": 26.0,
+   "dano_por_rival_tic": 1e-05,
+   "p_pega_en_el_tic": 0.0,
+   "ic_wilson": [
+    0.0,
+    0.0
+   ],
+   "dano_por_golpe": 8.67
+  },
+  "none · >8": {
+   "rival_tics": 448320,
+   "golpes": 0,
+   "dano": 0.0,
+   "dano_por_rival_tic": 0.0,
+   "p_pega_en_el_tic": 0.0,
+   "ic_wilson": [
+    0.0,
+    1e-05
+   ],
+   "dano_por_golpe": 0.0
+  },
+  "contado · fuera de tiro": {
+   "rival_tics": 1767737,
+   "golpes": 0,
+   "dano": 0.0,
+   "dano_por_rival_tic": 0.0,
+   "p_pega_en_el_tic": 0.0,
+   "ic_wilson": [
+    0.0,
+    0.0
+   ],
+   "dano_por_golpe": 0.0
+  },
+  "todas · >8": {
+   "rival_tics": 644243,
+   "golpes": 0,
+   "dano": 0.0,
+   "dano_por_rival_tic": 0.0,
+   "p_pega_en_el_tic": 0.0,
+   "ic_wilson": [
+    0.0,
+    1e-05
+   ],
+   "dano_por_golpe": 0.0
+  },
+  "none · 7-8": {
+   "rival_tics": 1061484,
+   "golpes": 0,
+   "dano": 0.0,
+   "dano_por_rival_tic": 0.0,
+   "p_pega_en_el_tic": 0.0,
+   "ic_wilson": [
+    0.0,
+    0.0
+   ],
+   "dano_por_golpe": 0.0
+  },
+  "todas · 7-8": {
+   "rival_tics": 1425885,
+   "golpes": 1,
+   "dano": 14.0,
+   "dano_por_rival_tic": 1e-05,
+   "p_pega_en_el_tic": 0.0,
+   "ic_wilson": [
+    0.0,
+    0.0
+   ],
+   "dano_por_golpe": 14.0
+  },
+  "none · 3-4": {
+   "rival_tics": 869124,
+   "golpes": 3,
+   "dano": 24.0,
+   "dano_por_rival_tic": 3e-05,
+   "p_pega_en_el_tic": 0.0,
+   "ic_wilson": [
+    0.0,
+    1e-05
+   ],
+   "dano_por_golpe": 8.0
+  },
+  "todas · 3-4": {
+   "rival_tics": 1298683,
+   "golpes": 18,
+   "dano": 170.0,
+   "dano_por_rival_tic": 0.00013,
+   "p_pega_en_el_tic": 1e-05,
+   "ic_wilson": [
+    1e-05,
+    2e-05
+   ],
+   "dano_por_golpe": 9.44
+  },
+  "bow · a tiro": {
+   "rival_tics": 161639,
+   "golpes": 26,
+   "dano": 364.0,
+   "dano_por_rival_tic": 0.00225,
+   "p_pega_en_el_tic": 0.00016,
+   "ic_wilson": [
+    0.00011,
+    0.00024
+   ],
+   "dano_por_golpe": 14.0
+  },
+  "bow · 5-6": {
+   "rival_tics": 90278,
+   "golpes": 1,
+   "dano": 14.0,
+   "dano_por_rival_tic": 0.00016,
+   "p_pega_en_el_tic": 1e-05,
+   "ic_wilson": [
+    0.0,
+    6e-05
+   ],
+   "dano_por_golpe": 14.0
+  },
+  "visto · a tiro": {
+   "rival_tics": 551692,
+   "golpes": 1283,
+   "dano": 8970.6,
+   "dano_por_rival_tic": 0.01626,
+   "p_pega_en_el_tic": 0.00233,
+   "ic_wilson": [
+    0.0022,
+    0.00246
+   ],
+   "dano_por_golpe": 6.99
+  },
+  "none · 2": {
+   "rival_tics": 187958,
+   "golpes": 3,
+   "dano": 32.4,
+   "dano_por_rival_tic": 0.00017,
+   "p_pega_en_el_tic": 2e-05,
+   "ic_wilson": [
+    1e-05,
+    5e-05
+   ],
+   "dano_por_golpe": 10.8
+  },
+  "todas · 2": {
+   "rival_tics": 269800,
+   "golpes": 110,
+   "dano": 1204.4,
+   "dano_por_rival_tic": 0.00446,
+   "p_pega_en_el_tic": 0.00041,
+   "ic_wilson": [
+    0.00034,
+    0.00049
+   ],
+   "dano_por_golpe": 10.95
+  },
+  "bow · 3-4": {
+   "rival_tics": 41356,
+   "golpes": 5,
+   "dano": 70.0,
+   "dano_por_rival_tic": 0.00169,
+   "p_pega_en_el_tic": 0.00012,
+   "ic_wilson": [
+    5e-05,
+    0.00028
+   ],
+   "dano_por_golpe": 14.0
+  },
+  "spear · fuera de tiro": {
+   "rival_tics": 642330,
+   "golpes": 0,
+   "dano": 0.0,
+   "dano_por_rival_tic": 0.0,
+   "p_pega_en_el_tic": 0.0,
+   "ic_wilson": [
+    0.0,
+    1e-05
+   ],
+   "dano_por_golpe": 0.0
+  },
+  "spear · 7-8": {
+   "rival_tics": 147206,
+   "golpes": 0,
+   "dano": 0.0,
+   "dano_por_rival_tic": 0.0,
+   "p_pega_en_el_tic": 0.0,
+   "ic_wilson": [
+    -0.0,
+    3e-05
+   ],
+   "dano_por_golpe": 0.0
+  },
+  "contado · a tiro": {
+   "rival_tics": 80681,
+   "golpes": 1,
+   "dano": 3.0,
+   "dano_por_rival_tic": 4e-05,
+   "p_pega_en_el_tic": 1e-05,
+   "ic_wilson": [
+    0.0,
+    7e-05
+   ],
+   "dano_por_golpe": 3.0
+  },
+  "blowgun · a tiro": {
+   "rival_tics": 97944,
+   "golpes": 31,
+   "dano": 124.0,
+   "dano_por_rival_tic": 0.00127,
+   "p_pega_en_el_tic": 0.00032,
+   "ic_wilson": [
+    0.00022,
+    0.00045
+   ],
+   "dano_por_golpe": 4.0
+  },
+  "blowgun · 3-4": {
+   "rival_tics": 37751,
+   "golpes": 1,
+   "dano": 4.0,
+   "dano_por_rival_tic": 0.00011,
+   "p_pega_en_el_tic": 3e-05,
+   "ic_wilson": [
+    0.0,
+    0.00015
+   ],
+   "dano_por_golpe": 4.0
+  },
+  "blowgun · 5-6": {
+   "rival_tics": 46607,
+   "golpes": 1,
+   "dano": 4.0,
+   "dano_por_rival_tic": 9e-05,
+   "p_pega_en_el_tic": 2e-05,
+   "ic_wilson": [
+    0.0,
+    0.00012
+   ],
+   "dano_por_golpe": 4.0
+  },
+  "blowgun · fuera de tiro": {
+   "rival_tics": 15588,
+   "golpes": 0,
+   "dano": 0.0,
+   "dano_por_rival_tic": 0.0,
+   "p_pega_en_el_tic": 0.0,
+   "ic_wilson": [
+    -0.0,
+    0.00025
+   ],
+   "dano_por_golpe": 0.0
+  },
+  "blowgun · 7-8": {
+   "rival_tics": 13221,
+   "golpes": 0,
+   "dano": 0.0,
+   "dano_por_rival_tic": 0.0,
+   "p_pega_en_el_tic": 0.0,
+   "ic_wilson": [
+    0.0,
+    0.00029
+   ],
+   "dano_por_golpe": 0.0
+  },
+  "none · a tiro": {
+   "rival_tics": 67704,
+   "golpes": 683,
+   "dano": 2597.6,
+   "dano_por_rival_tic": 0.03837,
+   "p_pega_en_el_tic": 0.01009,
+   "ic_wilson": [
+    0.00936,
+    0.01087
+   ],
+   "dano_por_golpe": 3.8
+  },
+  "none · 1": {
+   "rival_tics": 67652,
+   "golpes": 683,
+   "dano": 2597.6,
+   "dano_por_rival_tic": 0.0384,
+   "p_pega_en_el_tic": 0.0101,
+   "ic_wilson": [
+    0.00937,
+    0.01088
+   ],
+   "dano_por_golpe": 3.8
+  },
+  "todas · 1": {
+   "rival_tics": 105596,
+   "golpes": 1158,
+   "dano": 7615.6,
+   "dano_por_rival_tic": 0.07212,
+   "p_pega_en_el_tic": 0.01097,
+   "ic_wilson": [
+    0.01036,
+    0.01161
+   ],
+   "dano_por_golpe": 6.58
+  },
+  "spear · 5-6": {
+   "rival_tics": 285677,
+   "golpes": 0,
+   "dano": 0.0,
+   "dano_por_rival_tic": 0.0,
+   "p_pega_en_el_tic": 0.0,
+   "ic_wilson": [
+    0.0,
+    1e-05
+   ],
+   "dano_por_golpe": 0.0
+  },
+  "spear · 3-4": {
+   "rival_tics": 144506,
+   "golpes": 0,
+   "dano": 0.0,
+   "dano_por_rival_tic": 0.0,
+   "p_pega_en_el_tic": 0.0,
+   "ic_wilson": [
+    0.0,
+    3e-05
+   ],
+   "dano_por_golpe": 0.0
+  },
+  "blowgun · 2": {
+   "rival_tics": 9628,
+   "golpes": 1,
+   "dano": 4.0,
+   "dano_por_rival_tic": 0.00042,
+   "p_pega_en_el_tic": 0.0001,
+   "ic_wilson": [
+    2e-05,
+    0.00059
+   ],
+   "dano_por_golpe": 4.0
+  },
+  "blowgun · 1": {
+   "rival_tics": 3958,
+   "golpes": 28,
+   "dano": 112.0,
+   "dano_por_rival_tic": 0.0283,
+   "p_pega_en_el_tic": 0.00707,
+   "ic_wilson": [
+    0.0049,
+    0.01021
+   ],
+   "dano_por_golpe": 4.0
+  },
+  "spear · a tiro": {
+   "rival_tics": 42375,
+   "golpes": 290,
+   "dano": 2851.2,
+   "dano_por_rival_tic": 0.06728,
+   "p_pega_en_el_tic": 0.00684,
+   "ic_wilson": [
+    0.0061,
+    0.00767
+   ],
+   "dano_por_golpe": 9.83
+  },
+  "spear · 2": {
+   "rival_tics": 27482,
+   "golpes": 98,
+   "dano": 1074.0,
+   "dano_por_rival_tic": 0.03908,
+   "p_pega_en_el_tic": 0.00357,
+   "ic_wilson": [
+    0.00293,
+    0.00434
+   ],
+   "dano_por_golpe": 10.96
+  },
+  "bow · 2": {
+   "rival_tics": 12293,
+   "golpes": 5,
+   "dano": 70.0,
+   "dano_por_rival_tic": 0.00569,
+   "p_pega_en_el_tic": 0.00041,
+   "ic_wilson": [
+    0.00017,
+    0.00095
+   ],
+   "dano_por_golpe": 14.0
+  },
+  "bow · 1": {
+   "rival_tics": 6752,
+   "golpes": 14,
+   "dano": 196.0,
+   "dano_por_rival_tic": 0.02903,
+   "p_pega_en_el_tic": 0.00207,
+   "ic_wilson": [
+    0.00124,
+    0.00348
+   ],
+   "dano_por_golpe": 14.0
+  },
+  "spear · 1": {
+   "rival_tics": 14882,
+   "golpes": 192,
+   "dano": 1777.2,
+   "dano_por_rival_tic": 0.11942,
+   "p_pega_en_el_tic": 0.0129,
+   "ic_wilson": [
+    0.01121,
+    0.01484
+   ],
+   "dano_por_golpe": 9.26
+  },
+  "bow · 7-8": {
+   "rival_tics": 10960,
+   "golpes": 1,
+   "dano": 14.0,
+   "dano_por_rival_tic": 0.00128,
+   "p_pega_en_el_tic": 9e-05,
+   "ic_wilson": [
+    2e-05,
+    0.00052
+   ],
+   "dano_por_golpe": 14.0
+  },
+  "knives · fuera de tiro": {
+   "rival_tics": 339836,
+   "golpes": 0,
+   "dano": 0.0,
+   "dano_por_rival_tic": 0.0,
+   "p_pega_en_el_tic": 0.0,
+   "ic_wilson": [
+    0.0,
+    1e-05
+   ],
+   "dano_por_golpe": 0.0
+  },
+  "knives · 7-8": {
+   "rival_tics": 120033,
+   "golpes": 0,
+   "dano": 0.0,
+   "dano_por_rival_tic": 0.0,
+   "p_pega_en_el_tic": 0.0,
+   "ic_wilson": [
+    0.0,
+    3e-05
+   ],
+   "dano_por_golpe": 0.0
+  },
+  "knives · 5-6": {
+   "rival_tics": 301969,
+   "golpes": 1,
+   "dano": 8.0,
+   "dano_por_rival_tic": 3e-05,
+   "p_pega_en_el_tic": 0.0,
+   "ic_wilson": [
+    0.0,
+    2e-05
+   ],
+   "dano_por_golpe": 8.0
+  },
+  "knives · a tiro": {
+   "rival_tics": 253143,
+   "golpes": 61,
+   "dano": 488.0,
+   "dano_por_rival_tic": 0.00193,
+   "p_pega_en_el_tic": 0.00024,
+   "ic_wilson": [
+    0.00019,
+    0.00031
+   ],
+   "dano_por_golpe": 8.0
+  },
+  "knives · 3-4": {
+   "rival_tics": 83280,
+   "golpes": 9,
+   "dano": 72.0,
+   "dano_por_rival_tic": 0.00086,
+   "p_pega_en_el_tic": 0.00011,
+   "ic_wilson": [
+    6e-05,
+    0.00021
+   ],
+   "dano_por_golpe": 8.0
+  },
+  "net · fuera de tiro": {
+   "rival_tics": 117140,
+   "golpes": 0,
+   "dano": 0.0,
+   "dano_por_rival_tic": 0.0,
+   "p_pega_en_el_tic": 0.0,
+   "ic_wilson": [
+    0.0,
+    3e-05
+   ],
+   "dano_por_golpe": 0.0
+  },
+  "net · 5-6": {
+   "rival_tics": 68110,
+   "golpes": 0,
+   "dano": 0.0,
+   "dano_por_rival_tic": 0.0,
+   "p_pega_en_el_tic": 0.0,
+   "ic_wilson": [
+    -0.0,
+    6e-05
+   ],
+   "dano_por_golpe": 0.0
+  },
+  "spear · >8": {
+   "rival_tics": 64952,
+   "golpes": 0,
+   "dano": 0.0,
+   "dano_por_rival_tic": 0.0,
+   "p_pega_en_el_tic": 0.0,
+   "ic_wilson": [
+    0.0,
+    6e-05
+   ],
+   "dano_por_golpe": 0.0
+  },
+  "knives · >8": {
+   "rival_tics": 78934,
+   "golpes": 0,
+   "dano": 0.0,
+   "dano_por_rival_tic": 0.0,
+   "p_pega_en_el_tic": 0.0,
+   "ic_wilson": [
+    0.0,
+    5e-05
+   ],
+   "dano_por_golpe": 0.0
+  },
+  "knives · 2": {
+   "rival_tics": 5975,
+   "golpes": 3,
+   "dano": 24.0,
+   "dano_por_rival_tic": 0.00402,
+   "p_pega_en_el_tic": 0.0005,
+   "ic_wilson": [
+    0.00017,
+    0.00148
+   ],
+   "dano_por_golpe": 8.0
+  },
+  "knives · 1": {
+   "rival_tics": 2788,
+   "golpes": 48,
+   "dano": 384.0,
+   "dano_por_rival_tic": 0.13773,
+   "p_pega_en_el_tic": 0.01722,
+   "ic_wilson": [
+    0.01301,
+    0.02275
+   ],
+   "dano_por_golpe": 8.0
+  },
+  "bow · fuera de tiro": {
+   "rival_tics": 14929,
+   "golpes": 0,
+   "dano": 0.0,
+   "dano_por_rival_tic": 0.0,
+   "p_pega_en_el_tic": 0.0,
+   "ic_wilson": [
+    0.0,
+    0.00026
+   ],
+   "dano_por_golpe": 0.0
+  },
+  "bow · >8": {
+   "rival_tics": 14929,
+   "golpes": 0,
+   "dano": 0.0,
+   "dano_por_rival_tic": 0.0,
+   "p_pega_en_el_tic": 0.0,
+   "ic_wilson": [
+    0.0,
+    0.00026
+   ],
+   "dano_por_golpe": 0.0
+  },
+  "net · 3-4": {
+   "rival_tics": 22179,
+   "golpes": 0,
+   "dano": 0.0,
+   "dano_por_rival_tic": 0.0,
+   "p_pega_en_el_tic": 0.0,
+   "ic_wilson": [
+    0.0,
+    0.00017
+   ],
+   "dano_por_golpe": 0.0
+  },
+  "sword · fuera de tiro": {
+   "rival_tics": 343282,
+   "golpes": 0,
+   "dano": 0.0,
+   "dano_por_rival_tic": 0.0,
+   "p_pega_en_el_tic": 0.0,
+   "ic_wilson": [
+    0.0,
+    1e-05
+   ],
+   "dano_por_golpe": 0.0
+  },
+  "sword · 5-6": {
+   "rival_tics": 135464,
+   "golpes": 0,
+   "dano": 0.0,
+   "dano_por_rival_tic": 0.0,
+   "p_pega_en_el_tic": 0.0,
+   "ic_wilson": [
+    0.0,
+    3e-05
+   ],
+   "dano_por_golpe": 0.0
+  },
+  "sword · 3-4": {
+   "rival_tics": 100487,
+   "golpes": 0,
+   "dano": 0.0,
+   "dano_por_rival_tic": 0.0,
+   "p_pega_en_el_tic": 0.0,
+   "ic_wilson": [
+    -0.0,
+    4e-05
+   ],
+   "dano_por_golpe": 0.0
+  },
+  "sword · 2": {
+   "rival_tics": 25406,
+   "golpes": 0,
+   "dano": 0.0,
+   "dano_por_rival_tic": 0.0,
+   "p_pega_en_el_tic": 0.0,
+   "ic_wilson": [
+    0.0,
+    0.00015
+   ],
+   "dano_por_golpe": 0.0
+  },
+  "sword · 7-8": {
+   "rival_tics": 53150,
+   "golpes": 0,
+   "dano": 0.0,
+   "dano_por_rival_tic": 0.0,
+   "p_pega_en_el_tic": 0.0,
+   "ic_wilson": [
+    -0.0,
+    7e-05
+   ],
+   "dano_por_golpe": 0.0
+  },
+  "sword · a tiro": {
+   "rival_tics": 9373,
+   "golpes": 193,
+   "dano": 2548.8,
+   "dano_por_rival_tic": 0.27193,
+   "p_pega_en_el_tic": 0.02059,
+   "ic_wilson": [
+    0.01791,
+    0.02367
+   ],
+   "dano_por_golpe": 13.21
+  },
+  "sword · 1": {
+   "rival_tics": 9369,
+   "golpes": 193,
+   "dano": 2548.8,
+   "dano_por_rival_tic": 0.27205,
+   "p_pega_en_el_tic": 0.0206,
+   "ic_wilson": [
+    0.01791,
+    0.02368
+   ],
+   "dano_por_golpe": 13.21
+  },
+  "net · 7-8": {
+   "rival_tics": 19831,
+   "golpes": 0,
+   "dano": 0.0,
+   "dano_por_rival_tic": 0.0,
+   "p_pega_en_el_tic": 0.0,
+   "ic_wilson": [
+    0.0,
+    0.00019
+   ],
+   "dano_por_golpe": 0.0
+  },
+  "net · >8": {
+   "rival_tics": 5962,
+   "golpes": 0,
+   "dano": 0.0,
+   "dano_por_rival_tic": 0.0,
+   "p_pega_en_el_tic": 0.0,
+   "ic_wilson": [
+    0.0,
+    0.00064
+   ],
+   "dano_por_golpe": 0.0
+  },
+  "net · 2": {
+   "rival_tics": 1058,
+   "golpes": 0,
+   "dano": 0.0,
+   "dano_por_rival_tic": 0.0,
+   "p_pega_en_el_tic": 0.0,
+   "ic_wilson": [
+    -0.0,
+    0.00362
+   ],
+   "dano_por_golpe": 0.0
+  },
+  "blowgun · >8": {
+   "rival_tics": 2367,
+   "golpes": 0,
+   "dano": 0.0,
+   "dano_por_rival_tic": 0.0,
+   "p_pega_en_el_tic": 0.0,
+   "ic_wilson": [
+    0.0,
+    0.00162
+   ],
+   "dano_por_golpe": 0.0
+  },
+  "sword · >8": {
+   "rival_tics": 28779,
+   "golpes": 0,
+   "dano": 0.0,
+   "dano_por_rival_tic": 0.0,
+   "p_pega_en_el_tic": 0.0,
+   "ic_wilson": [
+    0.0,
+    0.00013
+   ],
+   "dano_por_golpe": 0.0
+  },
+  "net · a tiro": {
+   "rival_tics": 195,
+   "golpes": 0,
+   "dano": 0.0,
+   "dano_por_rival_tic": 0.0,
+   "p_pega_en_el_tic": 0.0,
+   "ic_wilson": [
+    0.0,
+    0.01932
+   ],
+   "dano_por_golpe": 0.0
+  },
+  "net · 1": {
+   "rival_tics": 195,
+   "golpes": 0,
+   "dano": 0.0,
+   "dano_por_rival_tic": 0.0,
+   "p_pega_en_el_tic": 0.0,
+   "ic_wilson": [
+    0.0,
+    0.01932
+   ],
+   "dano_por_golpe": 0.0
+  },
+  "desconocida · no visto, pega": {
+   "rival_tics": 1,
+   "golpes": 1,
+   "dano": 10.8,
+   "dano_por_rival_tic": 10.8,
+   "p_pega_en_el_tic": 1.0,
+   "ic_wilson": [
+    0.20654,
+    1.0
+   ],
+   "dano_por_golpe": 10.8
+  }
+ },
+ "por_tic": {
+  "rivales 1": {
+   "tics": 479500,
+   "dano": 1109.2,
+   "golpes": 147,
+   "dano_por_tic": 0.00231,
+   "ic_boot_vidas": [
+    0.00145,
+    0.00335
+   ],
+   "vidas": 200
+  },
+  "fases 1-4": {
+   "tics": 2222797,
+   "dano": 5299.7,
+   "golpes": 652,
+   "dano_por_tic": 0.00238,
+   "ic_boot_vidas": [
+    0.00198,
+    0.00281
+   ],
+   "vidas": 200
+  },
+  "solo (hermano vivo)": {
+   "tics": 523514,
+   "dano": 3333.5,
+   "golpes": 389,
+   "dano_por_tic": 0.00637,
+   "ic_boot_vidas": [
+    0.00485,
+    0.00808
+   ],
+   "vidas": 200
+  },
+  "rivales 2": {
+   "tics": 625305,
+   "dano": 1103.9,
+   "golpes": 178,
+   "dano_por_tic": 0.00177,
+   "ic_boot_vidas": [
+    0.00129,
+    0.00231
+   ],
+   "vidas": 200
+  },
+  "rivales 3": {
+   "tics": 518861,
+   "dano": 1262.4,
+   "golpes": 165,
+   "dano_por_tic": 0.00243,
+   "ic_boot_vidas": [
+    0.00165,
+    0.00334
+   ],
+   "vidas": 200
+  },
+  "junto": {
+   "tics": 1903988,
+   "dano": 4011.2,
+   "golpes": 601,
+   "dano_por_tic": 0.00211,
+   "ic_boot_vidas": [
+    0.00179,
+    0.00246
+   ],
+   "vidas": 200
+  },
+  "rivales 0": {
+   "tics": 200188,
+   "dano": 0.0,
+   "golpes": 0,
+   "dano_por_tic": 0.0,
+   "ic_boot_vidas": [
+    0.0,
+    0.0
+   ],
+   "vidas": 197
+  },
+  "rivales 4+": {
+   "tics": 699369,
+   "dano": 5565.3,
+   "golpes": 801,
+   "dano_por_tic": 0.00796,
+   "ic_boot_vidas": [
+    0.00658,
+    0.0096
+   ],
+   "vidas": 200
+  },
+  "fases 5-7 dentro": {
+   "tics": 137400,
+   "dano": 3134.6,
+   "golpes": 549,
+   "dano_por_tic": 0.02281,
+   "ic_boot_vidas": [
+    0.01793,
+    0.02833
+   ],
+   "vidas": 148
+  },
+  "fases 5-7 fuera": {
+   "tics": 163026,
+   "dano": 606.5,
+   "golpes": 90,
+   "dano_por_tic": 0.00372,
+   "ic_boot_vidas": [
+    0.00235,
+    0.00536
+   ],
+   "vidas": 172
+  },
+  "solo (hermano muerto)": {
+   "tics": 95721,
+   "dano": 1696.1,
+   "golpes": 301,
+   "dano_por_tic": 0.01772,
+   "ic_boot_vidas": [
+    0.01202,
+    0.02441
+   ],
+   "vidas": 87
+  }
+ },
+ "golpes": {
+  "total": {
+   "golpes": 1291,
+   "dano": 9040.800000000027
+  },
+  "de rival ni visto ni contado en el tic": {
+   "golpes": 1,
+   "dano": 10.8
+  },
+  "dano_por_golpe_por_arma": {
+   "bow": {
+    "n": 26,
+    "media": 14.0
+   },
+   "none": {
+    "n": 689,
+    "media": 3.85
+   },
+   "spear": {
+    "n": 290,
+    "media": 9.83
+   },
+   "knives": {
+    "n": 61,
+    "media": 8.0
+   },
+   "sword": {
+    "n": 193,
+    "media": 13.21
+   },
+   "blowgun": {
+    "n": 31,
+    "media": 4.0
+   }
+  }
+ },
+ "tabla_puerta6g": {
+  "none": {
+   "5-6": {
+    "dano_por_rival_tic": 0.0,
+    "n": 2006602
+   },
+   ">8": {
+    "dano_por_rival_tic": 0.0,
+    "n": 448320
+   },
+   "7-8": {
+    "dano_por_rival_tic": 0.0,
+    "n": 1061484
+   },
+   "3-4": {
+    "dano_por_rival_tic": 3e-05,
+    "n": 869124
+   },
+   "2": {
+    "dano_por_rival_tic": 0.00017,
+    "n": 187958
+   },
+   "1": {
+    "dano_por_rival_tic": 0.0384,
+    "n": 67652
+   }
+  },
+  "bow": {
+   "5-6": {
+    "dano_por_rival_tic": 0.00016,
+    "n": 90278
+   },
+   "3-4": {
+    "dano_por_rival_tic": 0.00169,
+    "n": 41356
+   },
+   "2": {
+    "dano_por_rival_tic": 0.00569,
+    "n": 12293
+   },
+   "1": {
+    "dano_por_rival_tic": 0.02903,
+    "n": 6752
+   },
+   "7-8": {
+    "dano_por_rival_tic": 0.00128,
+    "n": 10960
+   },
+   ">8": {
+    "dano_por_rival_tic": 0.0,
+    "n": 14929
+   }
+  },
+  "spear": {
+   "7-8": {
+    "dano_por_rival_tic": 0.0,
+    "n": 147206
+   },
+   "5-6": {
+    "dano_por_rival_tic": 0.0,
+    "n": 285677
+   },
+   "3-4": {
+    "dano_por_rival_tic": 0.0,
+    "n": 144506
+   },
+   "2": {
+    "dano_por_rival_tic": 0.03908,
+    "n": 27482
+   },
+   "1": {
+    "dano_por_rival_tic": 0.11942,
+    "n": 14882
+   },
+   ">8": {
+    "dano_por_rival_tic": 0.0,
+    "n": 64952
+   }
+  },
+  "blowgun": {
+   "3-4": {
+    "dano_por_rival_tic": 0.00011,
+    "n": 37751
+   },
+   "5-6": {
+    "dano_por_rival_tic": 9e-05,
+    "n": 46607
+   },
+   "7-8": {
+    "dano_por_rival_tic": 0.0,
+    "n": 13221
+   },
+   "2": {
+    "dano_por_rival_tic": 0.00042,
+    "n": 9628
+   },
+   "1": {
+    "dano_por_rival_tic": 0.0283,
+    "n": 3958
+   },
+   ">8": {
+    "dano_por_rival_tic": 0.0,
+    "n": 2367
+   }
+  },
+  "knives": {
+   "7-8": {
+    "dano_por_rival_tic": 0.0,
+    "n": 120033
+   },
+   "5-6": {
+    "dano_por_rival_tic": 3e-05,
+    "n": 301969
+   },
+   "3-4": {
+    "dano_por_rival_tic": 0.00086,
+    "n": 83280
+   },
+   ">8": {
+    "dano_por_rival_tic": 0.0,
+    "n": 78934
+   },
+   "2": {
+    "dano_por_rival_tic": 0.00402,
+    "n": 5975
+   },
+   "1": {
+    "dano_por_rival_tic": 0.13773,
+    "n": 2788
+   }
+  },
+  "net": {
+   "5-6": {
+    "dano_por_rival_tic": 0.0,
+    "n": 68110
+   },
+   "3-4": {
+    "dano_por_rival_tic": 0.0,
+    "n": 22179
+   },
+   "7-8": {
+    "dano_por_rival_tic": 0.0,
+    "n": 19831
+   },
+   ">8": {
+    "dano_por_rival_tic": 0.0,
+    "n": 5962
+   },
+   "2": {
+    "dano_por_rival_tic": 0.0,
+    "n": 1058
+   },
+   "1": {
+    "dano_por_rival_tic": 0.0,
+    "n": 195
+   }
+  },
+  "sword": {
+   "5-6": {
+    "dano_por_rival_tic": 0.0,
+    "n": 135464
+   },
+   "3-4": {
+    "dano_por_rival_tic": 0.0,
+    "n": 100487
+   },
+   "2": {
+    "dano_por_rival_tic": 0.0,
+    "n": 25406
+   },
+   "7-8": {
+    "dano_por_rival_tic": 0.0,
+    "n": 53150
+   },
+   "1": {
+    "dano_por_rival_tic": 0.27205,
+    "n": 9369
+   },
+   ">8": {
+    "dano_por_rival_tic": 0.0,
+    "n": 28779
+   }
+  }
+ }
+}
