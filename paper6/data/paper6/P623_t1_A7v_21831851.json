@@ -1,0 +1,677 @@
+{
+ "id": "xreq_f7f757b0-6444-4f73-8f5c-cf2969764704",
+ "requester_user_id": "",
+ "requester": "",
+ "coworld_id": "cow_6a55df20-08d1-4e4c-adba-33dbd97e1e6f",
+ "coworld_name": "zero-sum",
+ "coworld_version": "0.1.19",
+ "variant_id": "competition",
+ "status": "completed",
+ "episode_count": 1,
+ "pending_count": 0,
+ "submitted_count": 0,
+ "running_count": 0,
+ "completed_count": 1,
+ "failed_count": 0,
+ "error": null,
+ "created_at": "2026-09-28T10:57:09.496259Z",
+ "started_at": "2026-09-28T10:59:07.997891Z",
+ "completed_at": "2026-09-28T11:08:49.356620Z",
+ "episodes": [
+  {
+   "id": "ereq_1fee03b4-59a2-4f3f-9ca7-53b0fa94c9ab",
+   "requester_user_id": "",
+   "round_id": null,
+   "coworld_id": "cow_6a55df20-08d1-4e4c-adba-33dbd97e1e6f",
+   "coworld_name": "zero-sum",
+   "coworld_version": "0.1.19",
+   "variant_name": "Competition",
+   "max_steps": null,
+   "job_index": 0,
+   "status": "completed",
+   "policy_version_ids": [
+    "458ec0b6-fc59-4bda-aff0-68daa7f21b79",
+    "458ec0b6-fc59-4bda-aff0-68daa7f21b79",
+    "458ec0b6-fc59-4bda-aff0-68daa7f21b79",
+    "458ec0b6-fc59-4bda-aff0-68daa7f21b79",
+    "458ec0b6-fc59-4bda-aff0-68daa7f21b79",
+    "6244cdeb-e044-42ff-91e3-a5c716c4338d",
+    "6244cdeb-e044-42ff-91e3-a5c716c4338d",
+    "6244cdeb-e044-42ff-91e3-a5c716c4338d",
+    "6244cdeb-e044-42ff-91e3-a5c716c4338d",
+    "6244cdeb-e044-42ff-91e3-a5c716c4338d",
+    "09416d94-4dc6-4f88-9d44-09a4a458909d",
+    "09416d94-4dc6-4f88-9d44-09a4a458909d",
+    "9457da2a-832d-45e5-b918-9209e86f9948",
+    "9457da2a-832d-45e5-b918-9209e86f9948",
+    "2b9cfd17-db50-4990-8f99-6c7c13453f61",
+    "3e8097e1-85b8-4731-b7c1-e674f2ccbd10"
+   ],
+   "participants": [
+    {
+     "position": 0,
+     "kind": "policy",
+     "policy_version_id": "458ec0b6-fc59-4bda-aff0-68daa7f21b79",
+     "policy_id": "0de821b5-d591-44d7-b3ee-d67feb475fea",
+     "policy_name": "belobog",
+     "version": 2,
+     "player_id": "ply_3d22435e-30a2-4f2a-b037-a5c249583788",
+     "player_name": "Andre von Auto",
+     "owner_name": "Andre H",
+     "is_filler": false,
+     "is_seed": false
+    },
+    {
+     "position": 1,
+     "kind": "policy",
+     "policy_version_id": "458ec0b6-fc59-4bda-aff0-68daa7f21b79",
+     "policy_id": "0de821b5-d591-44d7-b3ee-d67feb475fea",
+     "policy_name": "belobog",
+     "version": 2,
+     "player_id": "ply_3d22435e-30a2-4f2a-b037-a5c249583788",
+     "player_name": "Andre von Auto",
+     "owner_name": "Andre H",
+     "is_filler": false,
+     "is_seed": false
+    },
+    {
+     "position": 2,
+     "kind": "policy",
+     "policy_version_id": "458ec0b6-fc59-4bda-aff0-68daa7f21b79",
+     "policy_id": "0de821b5-d591-44d7-b3ee-d67feb475fea",
+     "policy_name": "belobog",
+     "version": 2,
+     "player_id": "ply_3d22435e-30a2-4f2a-b037-a5c249583788",
+     "player_name": "Andre von Auto",
+     "owner_name": "Andre H",
+     "is_filler": false,
+     "is_seed": false
+    },
+    {
+     "position": 3,
+     "kind": "policy",
+     "policy_version_id": "458ec0b6-fc59-4bda-aff0-68daa7f21b79",
+     "policy_id": "0de821b5-d591-44d7-b3ee-d67feb475fea",
+     "policy_name": "belobog",
+     "version": 2,
+     "player_id": "ply_3d22435e-30a2-4f2a-b037-a5c249583788",
+     "player_name": "Andre von Auto",
+     "owner_name": "Andre H",
+     "is_filler": false,
+     "is_seed": false
+    },
+    {
+     "position": 4,
+     "kind": "policy",
+     "policy_version_id": "458ec0b6-fc59-4bda-aff0-68daa7f21b79",
+     "policy_id": "0de821b5-d591-44d7-b3ee-d67feb475fea",
+     "policy_name": "belobog",
+     "version": 2,
+     "player_id": "ply_3d22435e-30a2-4f2a-b037-a5c249583788",
+     "player_name": "Andre von Auto",
+     "owner_name": "Andre H",
+     "is_filler": false,
+     "is_seed": false
+    },
+    {
+     "position": 5,
+     "kind": "policy",
+     "policy_version_id": "6244cdeb-e044-42ff-91e3-a5c716c4338d",
+     "policy_id": "ed348c55-60af-446d-a539-4c19ee640edd",
+     "policy_name": "zero-sum-scavenger",
+     "version": 12,
+     "player_id": "ply_44ae9048-3242-4654-881f-6d9d43347fa3",
+     "player_name": "Alpha",
+     "owner_name": "David B",
+     "is_filler": false,
+     "is_seed": false
+    },
+    {
+     "position": 6,
+     "kind": "policy",
+     "policy_version_id": "6244cdeb-e044-42ff-91e3-a5c716c4338d",
+     "policy_id": "ed348c55-60af-446d-a539-4c19ee640edd",
+     "policy_name": "zero-sum-scavenger",
+     "version": 12,
+     "player_id": "ply_44ae9048-3242-4654-881f-6d9d43347fa3",
+     "player_name": "Alpha",
+     "owner_name": "David B",
+     "is_filler": false,
+     "is_seed": false
+    },
+    {
+     "position": 7,
+     "kind": "policy",
+     "policy_version_id": "6244cdeb-e044-42ff-91e3-a5c716c4338d",
+     "policy_id": "ed348c55-60af-446d-a539-4c19ee640edd",
+     "policy_name": "zero-sum-scavenger",
+     "version": 12,
+     "player_id": "ply_44ae9048-3242-4654-881f-6d9d43347fa3",
+     "player_name": "Alpha",
+     "owner_name": "David B",
+     "is_filler": false,
+     "is_seed": false
+    },
+    {
+     "position": 8,
+     "kind": "policy",
+     "policy_version_id": "6244cdeb-e044-42ff-91e3-a5c716c4338d",
+     "policy_id": "ed348c55-60af-446d-a539-4c19ee640edd",
+     "policy_name": "zero-sum-scavenger",
+     "version": 12,
+     "player_id": "ply_44ae9048-3242-4654-881f-6d9d43347fa3",
+     "player_name": "Alpha",
+     "owner_name": "David B",
+     "is_filler": false,
+     "is_seed": false
+    },
+    {
+     "position": 9,
+     "kind": "policy",
+     "policy_version_id": "6244cdeb-e044-42ff-91e3-a5c716c4338d",
+     "policy_id": "ed348c55-60af-446d-a539-4c19ee640edd",
+     "policy_name": "zero-sum-scavenger",
+     "version": 12,
+     "player_id": "ply_44ae9048-3242-4654-881f-6d9d43347fa3",
+     "player_name": "Alpha",
+     "owner_name": "David B",
+     "is_filler": false,
+     "is_seed": false
+    },
+    {
+     "position": 10,
+     "kind": "policy",
+     "policy_version_id": "09416d94-4dc6-4f88-9d44-09a4a458909d",
+     "policy_id": "7736925f-d5e0-4871-9d9c-0ca3f9459f3b",
+     "policy_name": "gemv-p6-A7v",
+     "version": 1,
+     "player_id": "ply_edc105df-1d5f-4d19-bf94-29fd6554bbe5",
+     "player_name": "Manel Enrico",
+     "owner_name": "Manel E",
+     "is_filler": false,
+     "is_seed": false
+    },
+    {
+     "position": 11,
+     "kind": "policy",
+     "policy_version_id": "09416d94-4dc6-4f88-9d44-09a4a458909d",
+     "policy_id": "7736925f-d5e0-4871-9d9c-0ca3f9459f3b",
+     "policy_name": "gemv-p6-A7v",
+     "version": 1,
+     "player_id": "ply_edc105df-1d5f-4d19-bf94-29fd6554bbe5",
+     "player_name": "Manel Enrico",
+     "owner_name": "Manel E",
+     "is_filler": false,
+     "is_seed": false
+    },
+    {
+     "position": 12,
+     "kind": "policy",
+     "policy_version_id": "9457da2a-832d-45e5-b918-9209e86f9948",
+     "policy_id": "b452936d-9858-436e-b666-1d6932942c9b",
+     "policy_name": "aaron-zs-fable",
+     "version": 2,
+     "player_id": "ply_630a768f-d623-44b2-80fa-36968d6fa75a",
+     "player_name": "Aaron",
+     "owner_name": "Aaron L",
+     "is_filler": false,
+     "is_seed": false
+    },
+    {
+     "position": 13,
+     "kind": "policy",
+     "policy_version_id": "9457da2a-832d-45e5-b918-9209e86f9948",
+     "policy_id": "b452936d-9858-436e-b666-1d6932942c9b",
+     "policy_name": "aaron-zs-fable",
+     "version": 2,
+     "player_id": "ply_630a768f-d623-44b2-80fa-36968d6fa75a",
+     "player_name": "Aaron",
+     "owner_name": "Aaron L",
+     "is_filler": false,
+     "is_seed": false
+    },
+    {
+     "position": 14,
+     "kind": "policy",
+     "policy_version_id": "2b9cfd17-db50-4990-8f99-6c7c13453f61",
+     "policy_id": "ff566894-fffe-4d8a-bcbd-7f080215452c",
+     "policy_name": "zs-patient",
+     "version": 3,
+     "player_id": "ply_a494aa09-1efa-4b0d-8577-1f034f8206b0",
+     "player_name": "Ari Sklar",
+     "owner_name": "Ari S",
+     "is_filler": false,
+     "is_seed": false
+    },
+    {
+     "position": 15,
+     "kind": "policy",
+     "policy_version_id": "3e8097e1-85b8-4731-b7c1-e674f2ccbd10",
+     "policy_id": "a28c5dbb-fe4a-4790-b93a-c95ddc75c28a",
+     "policy_name": "skourehjan-zero-sum-scripted-v1",
+     "version": 1,
+     "player_id": "ply_73a296e2-3610-4e82-b4a0-654169840813",
+     "player_name": "skourehjan",
+     "owner_name": "skourehjan",
+     "is_filler": false,
+     "is_seed": false
+    }
+   ],
+   "job_id": "df82e07d-befc-4f66-8a91-007f2dd52863",
+   "episode_id": "b2f7665b-5e06-4e27-846d-d47dad9cc676",
+   "replay_url": "https://softmax-public.s3.amazonaws.com/replays/df82e07d-befc-4f66-8a91-007f2dd52863.replay",
+   "live_url": null,
+   "error_type": null,
+   "error": null,
+   "failed_policy_index": null,
+   "failed_agent_index": null,
+   "scores": [
+    {
+     "policy_version_id": "458ec0b6-fc59-4bda-aff0-68daa7f21b79",
+     "score": 5.0
+    },
+    {
+     "policy_version_id": "6244cdeb-e044-42ff-91e3-a5c716c4338d",
+     "score": 2.6
+    },
+    {
+     "policy_version_id": "09416d94-4dc6-4f88-9d44-09a4a458909d",
+     "score": 11.5
+    },
+    {
+     "policy_version_id": "9457da2a-832d-45e5-b918-9209e86f9948",
+     "score": 0.0
+    },
+    {
+     "policy_version_id": "2b9cfd17-db50-4990-8f99-6c7c13453f61",
+     "score": 26.0
+    },
+    {
+     "policy_version_id": "3e8097e1-85b8-4731-b7c1-e674f2ccbd10",
+     "score": 7.0
+    }
+   ],
+   "participant_scores": [
+    {
+     "position": 0,
+     "score": 2.0
+    },
+    {
+     "position": 1,
+     "score": 7.0
+    },
+    {
+     "position": 2,
+     "score": 5.0
+    },
+    {
+     "position": 3,
+     "score": 3.0
+    },
+    {
+     "position": 4,
+     "score": 8.0
+    },
+    {
+     "position": 5,
+     "score": 1.0
+    },
+    {
+     "position": 6,
+     "score": 4.0
+    },
+    {
+     "position": 7,
+     "score": 2.0
+    },
+    {
+     "position": 8,
+     "score": 2.0
+    },
+    {
+     "position": 9,
+     "score": 4.0
+    },
+    {
+     "position": 10,
+     "score": 11.0
+    },
+    {
+     "position": 11,
+     "score": 12.0
+    },
+    {
+     "position": 12,
+     "score": 0.0
+    },
+    {
+     "position": 13,
+     "score": 0.0
+    },
+    {
+     "position": 14,
+     "score": 26.0
+    },
+    {
+     "position": 15,
+     "score": 7.0
+    }
+   ],
+   "created_at": "2026-09-28T10:57:09.506768Z",
+   "dispatched_at": "2026-09-28T10:57:23.162006Z",
+   "running_at": "2026-09-28T10:58:01.964912Z",
+   "completed_at": "2026-09-28T11:08:46.787314Z",
+   "cost_usd": 0.115062,
+   "game_config": {
+    "seed": 21831851,
+    "zone": {
+     "schedule": [
+      [
+       7296,
+       7536,
+       8076,
+       24,
+       19,
+       1
+      ],
+      [
+       8436,
+       8676,
+       9216,
+       19,
+       15,
+       2
+      ],
+      [
+       9576,
+       9816,
+       10356,
+       15,
+       11,
+       4
+      ],
+      [
+       10716,
+       10956,
+       11496,
+       11,
+       8,
+       6
+      ],
+      [
+       11856,
+       12096,
+       12636,
+       8,
+       5,
+       8
+      ],
+      [
+       12996,
+       13236,
+       13776,
+       5,
+       3,
+       16
+      ],
+      [
+       14136,
+       14376,
+       14916,
+       3,
+       0,
+       24
+      ]
+     ]
+    },
+    "events": [
+     {
+      "kind": "flood",
+      "rect": [
+       10,
+       22,
+       14,
+       26
+      ],
+      "duration": 720,
+      "from_tick": 4400
+     }
+    ],
+    "players": [
+     {
+      "name": "Player 1"
+     },
+     {
+      "name": "Player 2"
+     },
+     {
+      "name": "Player 3"
+     },
+     {
+      "name": "Player 4"
+     },
+     {
+      "name": "Player 5"
+     },
+     {
+      "name": "Player 6"
+     },
+     {
+      "name": "Player 7"
+     },
+     {
+      "name": "Player 8"
+     },
+     {
+      "name": "Player 9"
+     },
+     {
+      "name": "Player 10"
+     },
+     {
+      "name": "Player 11"
+     },
+     {
+      "name": "Player 12"
+     },
+     {
+      "name": "Player 13"
+     },
+     {
+      "name": "Player 14"
+     },
+     {
+      "name": "Player 15"
+     },
+     {
+      "name": "Player 16"
+     }
+    ],
+    "sponsor": {
+     "live": false,
+     "scripted_gifts": [
+      {
+       "team": "A",
+       "tick": 2016,
+       "item_id": "rations",
+       "recipient_slot": 0
+      },
+      {
+       "team": "A",
+       "tick": 4608,
+       "item_id": "first_aid",
+       "recipient_slot": 1
+      },
+      {
+       "team": "B",
+       "tick": 2040,
+       "item_id": "rations",
+       "recipient_slot": 2
+      },
+      {
+       "team": "B",
+       "tick": 4632,
+       "item_id": "first_aid",
+       "recipient_slot": 3
+      },
+      {
+       "team": "C",
+       "tick": 2064,
+       "item_id": "rations",
+       "recipient_slot": 4
+      },
+      {
+       "team": "C",
+       "tick": 4656,
+       "item_id": "first_aid",
+       "recipient_slot": 5
+      },
+      {
+       "team": "D",
+       "tick": 2088,
+       "item_id": "rations",
+       "recipient_slot": 6
+      },
+      {
+       "team": "D",
+       "tick": 4680,
+       "item_id": "first_aid",
+       "recipient_slot": 7
+      },
+      {
+       "team": "E",
+       "tick": 2112,
+       "item_id": "rations",
+       "recipient_slot": 8
+      },
+      {
+       "team": "E",
+       "tick": 4704,
+       "item_id": "first_aid",
+       "recipient_slot": 9
+      },
+      {
+       "team": "F",
+       "tick": 2136,
+       "item_id": "rations",
+       "recipient_slot": 10
+      },
+      {
+       "team": "F",
+       "tick": 4728,
+       "item_id": "first_aid",
+       "recipient_slot": 11
+      },
+      {
+       "team": "G",
+       "tick": 2160,
+       "item_id": "rations",
+       "recipient_slot": 12
+      },
+      {
+       "team": "G",
+       "tick": 4752,
+       "item_id": "first_aid",
+       "recipient_slot": 13
+      },
+      {
+       "team": "H",
+       "tick": 2184,
+       "item_id": "rations",
+       "recipient_slot": 14
+      },
+      {
+       "team": "H",
+       "tick": 4776,
+       "item_id": "first_aid",
+       "recipient_slot": 15
+      }
+     ],
+     "budget_per_team": 600,
+     "shop_opens_tick": 1680
+    },
+    "max_ticks": 18240,
+    "league_mode": "solo",
+    "stat_budget": 20,
+    "freeze_ticks": 480
+   },
+   "llm_spend_limit_rejections": null
+  }
+ ],
+ "can_cancel": true,
+ "requested": {
+  "notes": "P6-23 serie · brazo A7v · A7 = oraculo ir y quedarse + puerta + compromiso6c V2 + proceso (P6-23) · roster lento v2 · semilla 21831851",
+  "num_episodes": 1,
+  "roster": [
+   {
+    "slot": 10,
+    "policy": "Manel Enrico/gemv-p6-A7v:v1"
+   },
+   {
+    "slot": 11,
+    "policy": "Manel Enrico/gemv-p6-A7v:v1"
+   },
+   {
+    "slot": -1,
+    "policy": "Andre von Auto/belobog:v2"
+   },
+   {
+    "slot": -1,
+    "policy": "Andre von Auto/belobog:v2"
+   },
+   {
+    "slot": -1,
+    "policy": "Andre von Auto/belobog:v2"
+   },
+   {
+    "slot": -1,
+    "policy": "Andre von Auto/belobog:v2"
+   },
+   {
+    "slot": -1,
+    "policy": "Andre von Auto/belobog:v2"
+   },
+   {
+    "slot": -1,
+    "policy": "Alpha/zero-sum-scavenger:v12"
+   },
+   {
+    "slot": -1,
+    "policy": "Alpha/zero-sum-scavenger:v12"
+   },
+   {
+    "slot": -1,
+    "policy": "Alpha/zero-sum-scavenger:v12"
+   },
+   {
+    "slot": -1,
+    "policy": "Alpha/zero-sum-scavenger:v12"
+   },
+   {
+    "slot": -1,
+    "policy": "Alpha/zero-sum-scavenger:v12"
+   },
+   {
+    "slot": -1,
+    "policy": "Aaron/aaron-zs-fable:v2"
+   },
+   {
+    "slot": -1,
+    "policy": "Aaron/aaron-zs-fable:v2"
+   },
+   {
+    "slot": -1,
+    "policy": "Ari Sklar/zs-patient:v3"
+   },
+   {
+    "slot": -1,
+    "policy": "skourehjan/skourehjan-zero-sum-scripted-v1:v1"
+   }
+  ]
+ },
+ "cost_preview": null,
+ "_brazo": "A7v",
+ "_semilla": 21831851,
+ "_tanda": 1,
+ "_humo": false
+}

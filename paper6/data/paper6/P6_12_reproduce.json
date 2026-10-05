@@ -1,0 +1,157 @@
+{
+ "vidas": {
+  "paintball/runs/P611_t1_A4_20260916/ereq_2c2e5ffe-bfc8-49fc-ab3d-c307f5e9f810-policy_agent_10.art.log": {
+   "tics": 12168,
+   "elegido_igual": 12168,
+   "difieren": [],
+   "n_dif": 0,
+   "d_comparadas": 1320,
+   "d_max_dif": 0,
+   "d_difieren": []
+  },
+  "paintball/runs/P611_t1_A4_20260916/ereq_2c2e5ffe-bfc8-49fc-ab3d-c307f5e9f810-policy_agent_11.art.log": {
+   "tics": 13152,
+   "elegido_igual": 13152,
+   "difieren": [],
+   "n_dif": 0,
+   "d_comparadas": 3533,
+   "d_max_dif": 0,
+   "d_difieren": []
+  },
+  "paintball/runs/P611_t2_A4_21308206/ereq_862c6e7c-3d7c-4de9-a82e-ee8d9bdde40e-policy_agent_10.art.log": {
+   "tics": 12576,
+   "elegido_igual": 12522,
+   "difieren": [
+    [
+     5782,
+     "atacar_E",
+     "noop"
+    ],
+    [
+     12835,
+     "atacar_W",
+     "noop"
+    ],
+    [
+     12836,
+     "atacar_W",
+     "noop"
+    ],
+    [
+     12837,
+     "atacar_W",
+     "noop"
+    ],
+    [
+     12838,
+     "atacar_W",
+     "noop"
+    ],
+    [
+     12839,
+     "atacar_W",
+     "noop"
+    ],
+    [
+     12840,
+     "atacar_W",
+     "noop"
+    ],
+    [
+     12841,
+     "atacar_W",
+     "noop"
+    ],
+    [
+     12842,
+     "atacar_W",
+     "noop"
+    ],
+    [
+     12843,
+     "atacar_W",
+     "noop"
+    ]
+   ],
+   "n_dif": 54,
+   "d_comparadas": 3556,
+   "d_max_dif": 0.0024000000000001798,
+   "d_difieren": [
+    [
+     1104,
+     "noop",
+     3.31928,
+     3.32168
+    ],
+    [
+     1128,
+     "noop",
+     3.29476,
+     3.29507
+    ],
+    [
+     1128,
+     "move_N",
+     3.31493,
+     3.31522
+    ],
+    [
+     1128,
+     "move_E",
+     3.1387,
+     3.13899
+    ],
+    [
+     1128,
+     "move_SE",
+     3.30825,
+     3.30855
+    ],
+    [
+     1128,
+     "move_S",
+     3.27661,
+     3.27692
+    ],
+    [
+     1128,
+     "move_SW",
+     3.30696,
+     3.30726
+    ],
+    [
+     1128,
+     "move_W",
+     3.15485,
+     3.15515
+    ],
+    [
+     1128,
+     "move_NW",
+     3.29704,
+     3.29735
+    ],
+    [
+     1128,
+     "paso_N",
+     3.20739,
+     3.20769
+    ]
+   ]
+  },
+  "paintball/runs/P611_t2_A4_21308206/ereq_862c6e7c-3d7c-4de9-a82e-ee8d9bdde40e-policy_agent_11.art.log": {
+   "tics": 14222,
+   "elegido_igual": 14222,
+   "difieren": [],
+   "n_dif": 0,
+   "d_comparadas": 6064,
+   "d_max_dif": 0,
+   "d_difieren": []
+  }
+ },
+ "modulos_fuera_del_inventario": [
+  "paintball/alma/appraisal_zs_v38_exp.py",
+  "paintball/alma/appraisal_zs_v40_exp.py",
+  "paintball/alma/smoke_alma.py"
+ ]
+}

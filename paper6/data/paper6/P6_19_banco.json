@@ -1,0 +1,563 @@
+{
+ "nota": "P6-19. INSTRUMENTO DE MEDIDA.",
+ "fidelidad": {
+  "vidas": 40,
+  "decisiones": 2435,
+  "+50": {
+   "n": 2435,
+   "dano_real_anillo_media": 6.94,
+   "dano_real_rival_media": 0.29,
+   "con_dano_rival": 56,
+   "puerta6": {
+    "error": {
+     "n": 2435,
+     "media": -0.3,
+     "mediana": -1.0,
+     "p10": -9.67,
+     "p90": 6.0,
+     "mad": 6.027
+    },
+    "promete_de_mas (error > 10)": 171,
+    "promete_de_menos (error < -10)": 179,
+    "vida_prevista_media": 55.85,
+    "real_media": 56.16
+   },
+   "puerta6g": {
+    "error": {
+     "n": 2435,
+     "media": -0.678,
+     "mediana": -1.37,
+     "p10": -9.67,
+     "p90": 5.67,
+     "mad": 6.204
+    },
+    "promete_de_mas (error > 10)": 161,
+    "promete_de_menos (error < -10)": 208,
+    "vida_prevista_media": 55.48,
+    "real_media": 56.16
+   },
+   "puerta6g_ctx": {
+    "error": {
+     "n": 2435,
+     "media": -0.539,
+     "mediana": -1.14,
+     "p10": -9.85,
+     "p90": 5.5,
+     "mad": 6.162
+    },
+    "promete_de_mas (error > 10)": 171,
+    "promete_de_menos (error < -10)": 182,
+    "vida_prevista_media": 55.62,
+    "real_media": 56.16
+   },
+   "con_golpes_reales": {
+    "puerta6": {
+     "n": 56,
+     "media": 9.994,
+     "mediana": 9.0,
+     "p10": -8.0,
+     "p90": 31.33,
+     "mad": 13.887
+    },
+    "puerta6g": {
+     "n": 56,
+     "media": 7.362,
+     "mediana": 5.58,
+     "p10": -9.08,
+     "p90": 31.33,
+     "mad": 12.334
+    },
+    "puerta6g_ctx": {
+     "n": 56,
+     "media": 9.476,
+     "mediana": 7.86,
+     "p10": -8.72,
+     "p90": 30.61,
+     "mad": 13.495
+    },
+    "n": 56
+   }
+  },
+  "+100": {
+   "n": 2435,
+   "dano_real_anillo_media": 13.54,
+   "dano_real_rival_media": 0.6,
+   "con_dano_rival": 88,
+   "puerta6": {
+    "error": {
+     "n": 2435,
+     "media": 1.442,
+     "mediana": -0.33,
+     "p10": -13.33,
+     "p90": 27.0,
+     "mad": 11.312
+    },
+    "promete_de_mas (error > 10)": 459,
+    "promete_de_menos (error < -10)": 322,
+    "vida_prevista_media": 51.12,
+    "real_media": 49.67
+   },
+   "puerta6g": {
+    "error": {
+     "n": 2435,
+     "media": 0.825,
+     "mediana": -1.66,
+     "p10": -13.34,
+     "p90": 26.67,
+     "mad": 11.469
+    },
+    "promete_de_mas (error > 10)": 445,
+    "promete_de_menos (error < -10)": 347,
+    "vida_prevista_media": 50.5,
+    "real_media": 49.67
+   },
+   "puerta6g_ctx": {
+    "error": {
+     "n": 2435,
+     "media": 0.984,
+     "mediana": -2.07,
+     "p10": -13.71,
+     "p90": 26.79,
+     "mad": 11.509
+    },
+    "promete_de_mas (error > 10)": 454,
+    "promete_de_menos (error < -10)": 336,
+    "vida_prevista_media": 50.66,
+    "real_media": 49.67
+   },
+   "con_golpes_reales": {
+    "puerta6": {
+     "n": 88,
+     "media": 10.068,
+     "mediana": 9.0,
+     "p10": -15.0,
+     "p90": 44.33,
+     "mad": 20.106
+    },
+    "puerta6g": {
+     "n": 88,
+     "media": 6.128,
+     "mediana": 7.33,
+     "p10": -22.05,
+     "p90": 44.33,
+     "mad": 18.039
+    },
+    "puerta6g_ctx": {
+     "n": 88,
+     "media": 9.192,
+     "mediana": 9.0,
+     "p10": -16.5,
+     "p90": 43.98,
+     "mad": 19.424
+    },
+    "n": 88
+   }
+  },
+  "+200": {
+   "n": 2435,
+   "dano_real_anillo_media": 24.69,
+   "dano_real_rival_media": 1.13,
+   "con_dano_rival": 149,
+   "puerta6": {
+    "error": {
+     "n": 2435,
+     "media": 0.776,
+     "mediana": 0.0,
+     "p10": -26.0,
+     "p90": 30.33,
+     "mad": 16.328
+    },
+    "promete_de_mas (error > 10)": 690,
+    "promete_de_menos (error < -10)": 659,
+    "vida_prevista_media": 39.41,
+    "real_media": 38.64
+   },
+   "puerta6g": {
+    "error": {
+     "n": 2435,
+     "media": -0.51,
+     "mediana": 0.0,
+     "p10": -26.67,
+     "p90": 30.0,
+     "mad": 16.265
+    },
+    "promete_de_mas (error > 10)": 657,
+    "promete_de_menos (error < -10)": 704,
+    "vida_prevista_media": 38.13,
+    "real_media": 38.64
+   },
+   "puerta6g_ctx": {
+    "error": {
+     "n": 2435,
+     "media": -0.508,
+     "mediana": 0.0,
+     "p10": -28.08,
+     "p90": 29.59,
+     "mad": 16.555
+    },
+    "promete_de_mas (error > 10)": 648,
+    "promete_de_menos (error < -10)": 712,
+    "vida_prevista_media": 38.13,
+    "real_media": 38.64
+   },
+   "con_golpes_reales": {
+    "puerta6": {
+     "n": 149,
+     "media": 8.729,
+     "mediana": 9.0,
+     "p10": -32.33,
+     "p90": 43.33,
+     "mad": 24.439
+    },
+    "puerta6g": {
+     "n": 149,
+     "media": 1.036,
+     "mediana": 2.67,
+     "p10": -35.0,
+     "p90": 30.0,
+     "mad": 20.68
+    },
+    "puerta6g_ctx": {
+     "n": 149,
+     "media": 6.458,
+     "mediana": 5.74,
+     "p10": -33.17,
+     "p90": 39.52,
+     "mad": 23.582
+    },
+    "n": 149
+   }
+  },
+  "dano_esperado_ahora": {
+   "n": 2435,
+   "media": 0.005,
+   "mediana": 0.0,
+   "p10": 0.0,
+   "p90": 0.0,
+   "mad": 0.005
+  },
+  "ms": {
+   "puerta6": {
+    "n": 2435,
+    "media": 364.007,
+    "mediana": 357.2,
+    "p10": 229.9,
+    "p90": 510.2,
+    "mad": 364.007
+   },
+   "puerta6g": {
+    "n": 2435,
+    "media": 365.848,
+    "mediana": 360.1,
+    "p10": 231.1,
+    "p90": 512.0,
+    "mad": 365.848
+   },
+   "puerta6g_ctx": {
+    "n": 2435,
+    "media": 366.529,
+    "mediana": 360.3,
+    "p10": 233.2,
+    "p90": 511.9,
+    "mad": 366.529
+   }
+  }
+ },
+ "momentos": {
+  "A5h": {
+   "n": 63,
+   "puerta6": {
+    "veredictos": {
+     "ok": 48,
+     "vida": 2,
+     "area": 13
+    },
+    "prefiere_quedarse": 48,
+    "pct": 76.2,
+    "ventaja": {
+     "n": 63,
+     "media": 0.204,
+     "mediana": 0.225,
+     "p10": 0.0,
+     "p90": 0.391,
+     "mad": 0.213
+    },
+    "promete_de_mas (vida prevista - real en los puntos de control)": {
+     "n": 175,
+     "media": 21.583,
+     "mediana": 14.0,
+     "p10": 0.0,
+     "p90": 53.0,
+     "mad": 21.709
+    }
+   },
+   "puerta6g": {
+    "veredictos": {
+     "ok": 48,
+     "area": 12,
+     "vida": 3
+    },
+    "prefiere_quedarse": 48,
+    "pct": 76.2,
+    "ventaja": {
+     "n": 63,
+     "media": 0.206,
+     "mediana": 0.238,
+     "p10": 0.0,
+     "p90": 0.383,
+     "mad": 0.221
+    },
+    "promete_de_mas (vida prevista - real en los puntos de control)": {
+     "n": 175,
+     "media": 20.386,
+     "mediana": 13.0,
+     "p10": -0.02,
+     "p90": 53.0,
+     "mad": 20.629
+    }
+   },
+   "puerta6g_ctx": {
+    "veredictos": {
+     "ok": 49,
+     "vida": 3,
+     "area": 11
+    },
+    "prefiere_quedarse": 49,
+    "pct": 77.8,
+    "ventaja": {
+     "n": 63,
+     "media": 0.205,
+     "mediana": 0.231,
+     "p10": 0.0,
+     "p90": 0.383,
+     "mad": 0.215
+    },
+    "promete_de_mas (vida prevista - real en los puntos de control)": {
+     "n": 175,
+     "media": 18.675,
+     "mediana": 11.86,
+     "p10": -1.14,
+     "p90": 49.88,
+     "mad": 19.404
+    }
+   },
+   "cambian": {
+    "puerta6 ok -> puerta6g no": 2,
+    "puerta6 no -> puerta6g ok": 2,
+    "puerta6 ok -> ctx no": 0,
+    "puerta6 no -> ctx ok": 1
+   }
+  },
+  "A4": {
+   "n": 22,
+   "puerta6": {
+    "veredictos": {
+     "ok": 14,
+     "vida": 6,
+     "area": 2
+    },
+    "prefiere_quedarse": 14,
+    "pct": 63.6,
+    "ventaja": {
+     "n": 22,
+     "media": 0.29,
+     "mediana": 0.269,
+     "p10": -0.0,
+     "p90": 0.45,
+     "mad": 0.295
+    },
+    "promete_de_mas (vida prevista - real en los puntos de control)": {
+     "n": 64,
+     "media": 30.469,
+     "mediana": 26.0,
+     "p10": 2.33,
+     "p90": 72.0,
+     "mad": 30.469
+    }
+   },
+   "puerta6g": {
+    "veredictos": {
+     "ok": 13,
+     "vida": 7,
+     "area": 2
+    },
+    "prefiere_quedarse": 13,
+    "pct": 59.1,
+    "ventaja": {
+     "n": 22,
+     "media": 0.28,
+     "mediana": 0.269,
+     "p10": 0.002,
+     "p90": 0.419,
+     "mad": 0.289
+    },
+    "promete_de_mas (vida prevista - real en los puntos de control)": {
+     "n": 64,
+     "media": 28.193,
+     "mediana": 20.0,
+     "p10": 1.0,
+     "p90": 71.98,
+     "mad": 28.193
+    }
+   },
+   "puerta6g_ctx": {
+    "veredictos": {
+     "ok": 14,
+     "vida": 6,
+     "area": 2
+    },
+    "prefiere_quedarse": 14,
+    "pct": 63.6,
+    "ventaja": {
+     "n": 22,
+     "media": 0.281,
+     "mediana": 0.255,
+     "p10": -0.006,
+     "p90": 0.436,
+     "mad": 0.286
+    },
+    "promete_de_mas (vida prevista - real en los puntos de control)": {
+     "n": 64,
+     "media": 27.164,
+     "mediana": 23.72,
+     "p10": 0.88,
+     "p90": 63.57,
+     "mad": 27.205
+    }
+   },
+   "cambian": {
+    "puerta6 ok -> puerta6g no": 1,
+    "puerta6 no -> puerta6g ok": 0,
+    "puerta6 ok -> ctx no": 0,
+    "puerta6 no -> ctx ok": 0
+   }
+  }
+ },
+ "a6": {
+  "vidas": 40,
+  "planes_propuestos_juzgados": 309,
+  "caidas_vida_real": 70,
+  "puerta6": {
+   "veredictos": {
+    "area": 159,
+    "ok": 123,
+    "vida": 27
+   },
+   "ok": 123,
+   "pct": 39.8,
+   "ventaja": {
+    "n": 309,
+    "media": 0.148,
+    "mediana": 0.034,
+    "p10": -0.079,
+    "p90": 0.465,
+    "mad": 0.192
+   },
+   "promete_de_mas": {
+    "n": 821,
+    "media": 20.072,
+    "mediana": 13.0,
+    "p10": 0.0,
+    "p90": 59.0,
+    "mad": 21.346
+   }
+  },
+  "puerta6g": {
+   "veredictos": {
+    "area": 152,
+    "ok": 118,
+    "vida": 39
+   },
+   "ok": 118,
+   "pct": 38.2,
+   "ventaja": {
+    "n": 309,
+    "media": 0.148,
+    "mediana": 0.034,
+    "p10": -0.079,
+    "p90": 0.466,
+    "mad": 0.193
+   },
+   "promete_de_mas": {
+    "n": 821,
+    "media": 18.112,
+    "mediana": 10.0,
+    "p10": -0.29,
+    "p90": 54.0,
+    "mad": 20.564
+   }
+  },
+  "puerta6g_ctx": {
+   "veredictos": {
+    "area": 157,
+    "ok": 119,
+    "vida": 33
+   },
+   "ok": 119,
+   "pct": 38.5,
+   "ventaja": {
+    "n": 309,
+    "media": 0.145,
+    "mediana": 0.03,
+    "p10": -0.084,
+    "p90": 0.465,
+    "mad": 0.19
+   },
+   "promete_de_mas": {
+    "n": 821,
+    "media": 17.703,
+    "mediana": 10.55,
+    "p10": -1.89,
+    "p90": 54.43,
+    "mad": 20.092
+   }
+  },
+  "cambian": {
+   "puerta6 ok -> g no": 5,
+   "puerta6 no -> g ok": 0,
+   "puerta6 ok -> ctx no": 4,
+   "puerta6 no -> ctx ok": 0
+  },
+  "caidas": {
+   "n": 70,
+   "juzgadas": 70,
+   "seguirian_cayendo_con_g": 67,
+   "dejarian_de_caer_con_g": 3,
+   "seguirian_cayendo_con_ctx": 69,
+   "dejarian_de_caer_con_ctx": 1,
+   "hueco_real_menos_proyectada": {
+    "n": 70,
+    "media": -17.643,
+    "mediana": -14.0,
+    "p10": -27.0,
+    "p90": -13.0,
+    "mad": 17.643
+   },
+   "proyectada_g_menos_6": {
+    "n": 70,
+    "media": -0.601,
+    "mediana": 0.0,
+    "p10": -1.11,
+    "p90": 0.0,
+    "mad": 0.601
+   },
+   "proyectada_ctx_menos_6": {
+    "n": 70,
+    "media": -0.966,
+    "mediana": -0.59,
+    "p10": -2.58,
+    "p90": 0.0,
+    "mad": 0.966
+   },
+   "veredicto_g_de_las_caidas": {
+    "ok": 67,
+    "area": 1,
+    "vida": 2
+   },
+   "veredicto_ctx_de_las_caidas": {
+    "ok": 69,
+    "area": 1
+   }
+  }
+ }
+}

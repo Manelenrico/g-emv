@@ -1,0 +1,7695 @@
+{
+ "nota": "P6-25 · 4. Vuelta 3 del bucle de Manel: otro plan tras el motivo del rechazo.",
+ "version": "razonador_P6_25 (P6-25): consejero del cinco (instruccion + tabla ensenada) + palabras del seis; primera / bucle / pareja",
+ "planes": [
+  {
+   "id": "P623_t2_A7h_20260916_10_13000",
+   "modelo": "haiku",
+   "ms": 4558.0,
+   "usd": 0.005137,
+   "error": null,
+   "parsea": true,
+   "callar": false,
+   "n_formas_dichas": 1,
+   "n_formas": 1,
+   "intraducible": false,
+   "fallos_traductor": [],
+   "tramos": [
+    {
+     "destino": [
+      23,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      23,
+      24
+     ],
+     "intencion": "esperar",
+     "esperar": 50
+    },
+    {
+     "destino": [
+      23,
+      24
+     ],
+     "intencion": "esperar",
+     "esperar": 50
+    },
+    {
+     "destino": [
+      23,
+      24
+     ],
+     "intencion": "esperar",
+     "esperar": 50
+    }
+   ],
+   "todas": [
+    [
+     {
+      "destino": [
+       23,
+       24
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     },
+     {
+      "destino": [
+       23,
+       24
+      ],
+      "intencion": "esperar",
+      "esperar": 50
+     },
+     {
+      "destino": [
+       23,
+       24
+      ],
+      "intencion": "esperar",
+      "esperar": 50
+     },
+     {
+      "destino": [
+       23,
+       24
+      ],
+      "intencion": "esperar",
+      "esperar": 50
+     }
+    ]
+   ],
+   "mitades": [
+    {
+     "vida": "-",
+     "manos": "0",
+     "vinculo": "+",
+     "por": "F-ANTICIPACION",
+     "porque": "avanzo hacia la zona segura del radio 3, dejando atras el fuego"
+    },
+    {
+     "vida": "-",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-DANO",
+     "porque": "el anillo me quema mientras espero, pero estoy dentro del circulo que viene"
+    },
+    {
+     "vida": "-",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-DANO",
+     "porque": "sigo ardiendo fuera, pero ya no hay adonde mas ir: el circulo termina aqui"
+    },
+    {
+     "vida": "-",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-DANO",
+     "porque": "aguanto en el radio 3 hasta que se cierre del todo"
+    }
+   ],
+   "final": "en la casilla (23,24), dentro del circulo de radio 3, quemandome pero vivo mientras llega el siguiente cierre",
+   "zona": null,
+   "mensaje": null,
+   "tick": 13000,
+   "snap": "<scratch>/P6_25_snaps/P623_t2_A7h_20260916_10_13000.pkl.gz",
+   "carp": "P623_t2_A7h_20260916",
+   "slot": 10,
+   "previo": [
+    {
+     "destino": [
+      20,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      21,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      21,
+      24
+     ],
+     "intencion": "esperar",
+     "esperar": 100
+    }
+   ],
+   "veredicto_previo": "area"
+  },
+  {
+   "id": "P623_t2_A7h_20260916_10_13000",
+   "modelo": "sonnet",
+   "ms": 5826.6,
+   "usd": 0.012312,
+   "error": null,
+   "parsea": true,
+   "callar": false,
+   "n_formas_dichas": 1,
+   "n_formas": 1,
+   "intraducible": false,
+   "fallos_traductor": [],
+   "tramos": [
+    {
+     "destino": [
+      22,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      22,
+      24
+     ],
+     "intencion": "esperar",
+     "esperar": 50
+    }
+   ],
+   "todas": [
+    [
+     {
+      "destino": [
+       22,
+       24
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     },
+     {
+      "destino": [
+       22,
+       24
+      ],
+      "intencion": "esperar",
+      "esperar": 50
+     }
+    ]
+   ],
+   "mitades": [
+    {
+     "vida": "-",
+     "manos": "0",
+     "vinculo": "+",
+     "por": "F-4-ALCANCE",
+     "porque": "me alejo de los tres hostiles que estan en 26-28 pegando a mi hermano"
+    },
+    {
+     "vida": "0",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "S-SOLEDAD",
+     "porque": "veo a mi hermano y me quedo junto a el"
+    }
+   ],
+   "final": "junto a hermano en (22,24) dentro de zona segura, sin exponerme donde estan los tres rivales",
+   "zona": null,
+   "mensaje": null,
+   "tick": 13000,
+   "snap": "<scratch>/P6_25_snaps/P623_t2_A7h_20260916_10_13000.pkl.gz",
+   "carp": "P623_t2_A7h_20260916",
+   "slot": 10,
+   "previo": [
+    {
+     "destino": [
+      23,
+      23
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      23,
+      23
+     ],
+     "intencion": "coger",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      22,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      22,
+      24
+     ],
+     "intencion": "esperar",
+     "esperar": 50
+    }
+   ],
+   "veredicto_previo": "area"
+  },
+  {
+   "id": "P623_t2_A7h_20260916_11_12746",
+   "modelo": "haiku",
+   "ms": 4710.3,
+   "usd": 0.005225,
+   "error": null,
+   "parsea": true,
+   "callar": false,
+   "n_formas_dichas": 1,
+   "n_formas": 1,
+   "intraducible": false,
+   "fallos_traductor": [],
+   "tramos": [
+    {
+     "destino": [
+      22,
+      23
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      23,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      23,
+      24
+     ],
+     "intencion": "esperar",
+     "esperar": 150
+    },
+    {
+     "destino": [
+      23,
+      24
+     ],
+     "intencion": "esperar",
+     "esperar": 340
+    }
+   ],
+   "todas": [
+    [
+     {
+      "destino": [
+       22,
+       23
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     },
+     {
+      "destino": [
+       23,
+       24
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     },
+     {
+      "destino": [
+       23,
+       24
+      ],
+      "intencion": "esperar",
+      "esperar": 150
+     },
+     {
+      "destino": [
+       23,
+       24
+      ],
+      "intencion": "esperar",
+      "esperar": 340
+     }
+    ]
+   ],
+   "mitades": [
+    {
+     "vida": "-",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-ANTICIPACION",
+     "porque": "me acerco al radio 3 pero sigo fuera ahora; el anillo me quema mientras voy"
+    },
+    {
+     "vida": "-",
+     "manos": "0",
+     "vinculo": "+",
+     "por": "S-SOLEDAD",
+     "porque": "me acerco a donde esta mi hermano, veo su zona"
+    },
+    {
+     "vida": "0",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-ANTICIPACION",
+     "porque": "espero quieto en casilla que entra en radio 3; ya no me quema"
+    },
+    {
+     "vida": "0",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-ANTICIPACION",
+     "porque": "sigo en zona segura hasta que el radio baje a 0"
+    }
+   ],
+   "final": "dentro de la zona segura del radio 3, sin pasar por el camuflaje ni distraerme, donde mi hermano me ve y podemos coordinar desde dentro",
+   "zona": null,
+   "mensaje": null,
+   "tick": 12746,
+   "snap": "<scratch>/P6_25_snaps/P623_t2_A7h_20260916_11_12746.pkl.gz",
+   "carp": "P623_t2_A7h_20260916",
+   "slot": 11,
+   "previo": [
+    {
+     "destino": [
+      22,
+      24
+     ],
+     "intencion": "coger",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      22,
+      24
+     ],
+     "intencion": "usar",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      21,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      21,
+      24
+     ],
+     "intencion": "esperar",
+     "esperar": 300
+    }
+   ],
+   "veredicto_previo": "area"
+  },
+  {
+   "id": "P623_t2_A7h_20260916_11_13937",
+   "modelo": "haiku",
+   "ms": 4766.6,
+   "usd": 0.005425,
+   "error": null,
+   "parsea": true,
+   "callar": false,
+   "n_formas_dichas": 1,
+   "n_formas": 1,
+   "intraducible": false,
+   "fallos_traductor": [],
+   "tramos": [
+    {
+     "destino": [
+      23,
+      26
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      24,
+      25
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      26,
+      23
+     ],
+     "intencion": "coger",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      24,
+      25
+     ],
+     "intencion": "esperar",
+     "esperar": 220
+    }
+   ],
+   "todas": [
+    [
+     {
+      "destino": [
+       23,
+       26
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     },
+     {
+      "destino": [
+       24,
+       25
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     },
+     {
+      "destino": [
+       26,
+       23
+      ],
+      "intencion": "coger",
+      "esperar": 0
+     },
+     {
+      "destino": [
+       24,
+       25
+      ],
+      "intencion": "esperar",
+      "esperar": 220
+     }
+    ]
+   ],
+   "mitades": [
+    {
+     "vida": "-",
+     "manos": "0",
+     "vinculo": "+",
+     "por": "F-HERMANO-GOLPE",
+     "porque": "tu hermano esta recibiendo dano; acercarse es lo primero"
+    },
+    {
+     "vida": "0",
+     "manos": "-",
+     "vinculo": "0",
+     "por": "R-CARENCIA",
+     "porque": "sigues sin arma en la mano que te cubra bien; necesitas coger algo mejor antes de quedarte quieto"
+    },
+    {
+     "vida": "0",
+     "manos": "+",
+     "vinculo": "0",
+     "por": "R-CARENCIA",
+     "porque": "la cerbatana a 4 casillas te da alcance sin meter la mano cuerpo a cuerpo; bajas la carencia"
+    },
+    {
+     "vida": "-",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-ANTICIPACION",
+     "porque": "esperas en casilla segura dentro del radio 3; el anillo no te quemara hasta el siguiente cierre"
+    }
+   ],
+   "final": "armado con cerbatana en (24,25), dentro del circulo, esperando junto a tu hermano",
+   "zona": null,
+   "mensaje": null,
+   "tick": 13937,
+   "snap": "<scratch>/P6_25_snaps/P623_t2_A7h_20260916_11_13937.pkl.gz",
+   "carp": "P623_t2_A7h_20260916",
+   "slot": 11,
+   "previo": [
+    {
+     "destino": [
+      24,
+      25
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      24,
+      25
+     ],
+     "intencion": "esperar",
+     "esperar": 50
+    },
+    {
+     "destino": [
+      24,
+      25
+     ],
+     "intencion": "esperar",
+     "esperar": 50
+    },
+    {
+     "destino": [
+      24,
+      25
+     ],
+     "intencion": "esperar",
+     "esperar": 50
+    }
+   ],
+   "veredicto_previo": "area"
+  },
+  {
+   "id": "P623_t2_A7h_20260916_11_13937",
+   "modelo": "sonnet",
+   "ms": 7053.3,
+   "usd": 0.015315,
+   "error": null,
+   "parsea": true,
+   "callar": false,
+   "n_formas_dichas": 1,
+   "n_formas": 1,
+   "intraducible": false,
+   "fallos_traductor": [],
+   "tramos": [
+    {
+     "destino": [
+      24,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      24,
+      24
+     ],
+     "intencion": "esperar",
+     "esperar": 50
+    },
+    {
+     "destino": [
+      24,
+      24
+     ],
+     "intencion": "esperar",
+     "esperar": 50
+    },
+    {
+     "destino": [
+      24,
+      24
+     ],
+     "intencion": "esperar",
+     "esperar": 50
+    }
+   ],
+   "todas": [
+    [
+     {
+      "destino": [
+       24,
+       24
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     },
+     {
+      "destino": [
+       24,
+       24
+      ],
+      "intencion": "esperar",
+      "esperar": 50
+     },
+     {
+      "destino": [
+       24,
+       24
+      ],
+      "intencion": "esperar",
+      "esperar": 50
+     },
+     {
+      "destino": [
+       24,
+       24
+      ],
+      "intencion": "esperar",
+      "esperar": 50
+     }
+    ]
+   ],
+   "mitades": [
+    {
+     "vida": "-",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-DANO",
+     "porque": "el anillo me quema mientras voy al centro"
+    },
+    {
+     "vida": "+",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-ANTICIPACION",
+     "porque": "ya estoy en el centro, el anillo no me alcanza"
+    },
+    {
+     "vida": "0",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-ANTICIPACION",
+     "porque": "sigo en el centro hasta que termine la fase"
+    },
+    {
+     "vida": "0",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-ANTICIPACION",
+     "porque": "mantengo el centro mientras se cierra del todo"
+    }
+   ],
+   "final": "en el centro (24,24) donde nunca arde, esperando el cierre final",
+   "zona": null,
+   "mensaje": null,
+   "tick": 13937,
+   "snap": "<scratch>/P6_25_snaps/P623_t2_A7h_20260916_11_13937.pkl.gz",
+   "carp": "P623_t2_A7h_20260916",
+   "slot": 11,
+   "previo": [
+    {
+     "destino": [
+      23,
+      27
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      24,
+      25
+     ],
+     "intencion": "coger",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      23,
+      27
+     ],
+     "intencion": "esperar",
+     "esperar": 50
+    },
+    {
+     "destino": [
+      23,
+      27
+     ],
+     "intencion": "esperar",
+     "esperar": 50
+    }
+   ],
+   "veredicto_previo": "vida"
+  },
+  {
+   "id": "P623_t2_A7h_20365645_10_13445",
+   "modelo": "haiku",
+   "ms": 2915.6,
+   "usd": 0.004107,
+   "error": null,
+   "parsea": true,
+   "callar": false,
+   "n_formas_dichas": 1,
+   "n_formas": 1,
+   "intraducible": false,
+   "fallos_traductor": [],
+   "tramos": [
+    {
+     "destino": [
+      24,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      24,
+      24
+     ],
+     "intencion": "esperar",
+     "esperar": 331
+    }
+   ],
+   "todas": [
+    [
+     {
+      "destino": [
+       24,
+       24
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     },
+     {
+      "destino": [
+       24,
+       24
+      ],
+      "intencion": "esperar",
+      "esperar": 331
+     }
+    ]
+   ],
+   "mitades": [
+    {
+     "vida": "-",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-DANO",
+     "porque": "el anillo te quema mientras cruzas fuera del radio 3"
+    },
+    {
+     "vida": "-",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-DANO",
+     "porque": "el anillo sigue quemandote mientras esperas el cierre"
+    }
+   ],
+   "final": "llegas al centro y esperas ahi hasta que el circulo baje a radio 3; te quemas pero es el unico sitio donde no hay rivales cerca",
+   "zona": null,
+   "mensaje": null,
+   "tick": 13445,
+   "snap": "<scratch>/P6_25_snaps/P623_t2_A7h_20365645_10_13445.pkl.gz",
+   "carp": "P623_t2_A7h_20365645",
+   "slot": 10,
+   "previo": [
+    {
+     "destino": [
+      23,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      23,
+      24
+     ],
+     "intencion": "esperar",
+     "esperar": 50
+    },
+    {
+     "destino": [
+      24,
+      23
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      24,
+      23
+     ],
+     "intencion": "esperar",
+     "esperar": 100
+    }
+   ],
+   "veredicto_previo": "area"
+  },
+  {
+   "id": "P623_t2_A7h_20365645_10_13445",
+   "modelo": "sonnet",
+   "ms": 7917.5,
+   "usd": 0.015147,
+   "error": null,
+   "parsea": true,
+   "callar": false,
+   "n_formas_dichas": 1,
+   "n_formas": 1,
+   "intraducible": false,
+   "fallos_traductor": [],
+   "tramos": [
+    {
+     "destino": [
+      21,
+      23
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      22,
+      23
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      23,
+      23
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      23,
+      23
+     ],
+     "intencion": "esperar",
+     "esperar": 50
+    }
+   ],
+   "todas": [
+    [
+     {
+      "destino": [
+       21,
+       23
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     },
+     {
+      "destino": [
+       22,
+       23
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     },
+     {
+      "destino": [
+       23,
+       23
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     },
+     {
+      "destino": [
+       23,
+       23
+      ],
+      "intencion": "esperar",
+      "esperar": 50
+     }
+    ]
+   ],
+   "mitades": [
+    {
+     "vida": "0",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-ANTICIPACION",
+     "porque": "me acerco al centro para quedar dentro del radio 3"
+    },
+    {
+     "vida": "0",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-ANTICIPACION",
+     "porque": "sigo hacia el centro, ahora a 2.8 del centro"
+    },
+    {
+     "vida": "+",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-ANTICIPACION",
+     "porque": "llego a 1.4 del centro, dentro del radio 3 seguro"
+    },
+    {
+     "vida": "0",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-ANTICIPACION",
+     "porque": "me quedo dentro de la zona segura hasta que termine la fase"
+    }
+   ],
+   "final": "dentro del radio 3 en la casilla (23,23), alejado del rival con lanza que esta en (22,24)",
+   "zona": null,
+   "mensaje": null,
+   "tick": 13445,
+   "snap": "<scratch>/P6_25_snaps/P623_t2_A7h_20365645_10_13445.pkl.gz",
+   "carp": "P623_t2_A7h_20365645",
+   "slot": 10,
+   "previo": [
+    {
+     "destino": [
+      21,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      22,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      23,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      23,
+      24
+     ],
+     "intencion": "esperar",
+     "esperar": 50
+    }
+   ],
+   "veredicto_previo": "area"
+  },
+  {
+   "id": "P623_t2_A7h_20365645_10_13701",
+   "modelo": "haiku",
+   "ms": 2687.8,
+   "usd": 0.003942,
+   "error": null,
+   "parsea": true,
+   "callar": false,
+   "n_formas_dichas": 1,
+   "n_formas": 1,
+   "intraducible": false,
+   "fallos_traductor": [],
+   "tramos": [
+    {
+     "destino": [
+      24,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      24,
+      24
+     ],
+     "intencion": "esperar",
+     "esperar": 75
+    }
+   ],
+   "todas": [
+    [
+     {
+      "destino": [
+       24,
+       24
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     },
+     {
+      "destino": [
+       24,
+       24
+      ],
+      "intencion": "esperar",
+      "esperar": 75
+     }
+    ]
+   ],
+   "mitades": [
+    {
+     "vida": "-",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-DANO",
+     "porque": "el anillo te quema mientras cruzas hacia el centro"
+    },
+    {
+     "vida": "-",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-DANO",
+     "porque": "sigues ardiendo fuera mientras esperas a que el radio baje a 3"
+    }
+   ],
+   "final": "llegas al centro vivo antes de que se cierre del todo",
+   "zona": null,
+   "mensaje": null,
+   "tick": 13701,
+   "snap": "<scratch>/P6_25_snaps/P623_t2_A7h_20365645_10_13701.pkl.gz",
+   "carp": "P623_t2_A7h_20365645",
+   "slot": 10,
+   "previo": [
+    {
+     "destino": [
+      23,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      23,
+      24
+     ],
+     "intencion": "esperar",
+     "esperar": 50
+    },
+    {
+     "destino": [
+      23,
+      24
+     ],
+     "intencion": "esperar",
+     "esperar": 25
+    }
+   ],
+   "veredicto_previo": "area"
+  },
+  {
+   "id": "P623_t2_A7h_20365645_10_13701",
+   "modelo": "sonnet",
+   "ms": 6365.2,
+   "usd": 0.013422,
+   "error": null,
+   "parsea": true,
+   "callar": false,
+   "n_formas_dichas": 1,
+   "n_formas": 1,
+   "intraducible": false,
+   "fallos_traductor": [],
+   "tramos": [
+    {
+     "destino": [
+      22,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      22,
+      24
+     ],
+     "intencion": "esperar",
+     "esperar": 50
+    },
+    {
+     "destino": [
+      22,
+      24
+     ],
+     "intencion": "esperar",
+     "esperar": 25
+    }
+   ],
+   "todas": [
+    [
+     {
+      "destino": [
+       22,
+       24
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     },
+     {
+      "destino": [
+       22,
+       24
+      ],
+      "intencion": "esperar",
+      "esperar": 50
+     },
+     {
+      "destino": [
+       22,
+       24
+      ],
+      "intencion": "esperar",
+      "esperar": 25
+     }
+    ]
+   ],
+   "mitades": [
+    {
+     "vida": "0",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-ANTICIPACION",
+     "porque": "entro en zona segura radio 3 antes de que cierre"
+    },
+    {
+     "vida": "0",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-ANTICIPACION",
+     "porque": "me quedo dentro hasta que termine de cerrar"
+    },
+    {
+     "vida": "0",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-ANTICIPACION",
+     "porque": "sigo dentro mientras acaba la fase"
+    }
+   ],
+   "final": "entro en zona segura por casilla a 2.8 del centro y me quedo dentro hasta final de fase",
+   "zona": null,
+   "mensaje": null,
+   "tick": 13701,
+   "snap": "<scratch>/P6_25_snaps/P623_t2_A7h_20365645_10_13701.pkl.gz",
+   "carp": "P623_t2_A7h_20365645",
+   "slot": 10,
+   "previo": [
+    {
+     "destino": [
+      22,
+      26
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      22,
+      26
+     ],
+     "intencion": "esperar",
+     "esperar": 50
+    },
+    {
+     "destino": [
+      23,
+      25
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      23,
+      25
+     ],
+     "intencion": "esperar",
+     "esperar": 24
+    }
+   ],
+   "veredicto_previo": "area"
+  },
+  {
+   "id": "P623_t2_A7h_20365645_10_13845",
+   "modelo": "haiku",
+   "ms": 2589.1,
+   "usd": 0.003999,
+   "error": null,
+   "parsea": true,
+   "callar": false,
+   "n_formas_dichas": 1,
+   "n_formas": 1,
+   "intraducible": false,
+   "fallos_traductor": [],
+   "tramos": [
+    {
+     "destino": [
+      24,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      24,
+      24
+     ],
+     "intencion": "esperar",
+     "esperar": 50
+    }
+   ],
+   "todas": [
+    [
+     {
+      "destino": [
+       24,
+       24
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     },
+     {
+      "destino": [
+       24,
+       24
+      ],
+      "intencion": "esperar",
+      "esperar": 50
+     }
+    ]
+   ],
+   "mitades": [
+    {
+     "vida": "-",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-DANO",
+     "porque": "el anillo te quema mientras cruzas hacia el centro"
+    },
+    {
+     "vida": "-",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-DANO",
+     "porque": "sigues quemándote fuera del radio 0"
+    }
+   ],
+   "final": "dentro del centro esperando el cierre final, sin acercarte a los rivales que estan en el radio 1",
+   "zona": null,
+   "mensaje": null,
+   "tick": 13845,
+   "snap": "<scratch>/P6_25_snaps/P623_t2_A7h_20365645_10_13845.pkl.gz",
+   "carp": "P623_t2_A7h_20365645",
+   "slot": 10,
+   "previo": [
+    {
+     "destino": [
+      24,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      24,
+      24
+     ],
+     "intencion": "coger",
+     "esperar": 0
+    },
+    {
+     "destino": null,
+     "intencion": "esperar",
+     "esperar": 100
+    }
+   ],
+   "veredicto_previo": "area"
+  },
+  {
+   "id": "P623_t2_A7h_20365645_10_13845",
+   "modelo": "sonnet",
+   "ms": 7950.1,
+   "usd": 0.015135,
+   "error": null,
+   "parsea": true,
+   "callar": false,
+   "n_formas_dichas": 1,
+   "n_formas": 1,
+   "intraducible": false,
+   "fallos_traductor": [],
+   "tramos": [
+    {
+     "destino": [
+      24,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      24,
+      24
+     ],
+     "intencion": "esperar",
+     "esperar": 50
+    },
+    {
+     "destino": [
+      24,
+      24
+     ],
+     "intencion": "esperar",
+     "esperar": 50
+    },
+    {
+     "destino": [
+      24,
+      24
+     ],
+     "intencion": "esperar",
+     "esperar": 50
+    }
+   ],
+   "todas": [
+    [
+     {
+      "destino": [
+       24,
+       24
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     },
+     {
+      "destino": [
+       24,
+       24
+      ],
+      "intencion": "esperar",
+      "esperar": 50
+     },
+     {
+      "destino": [
+       24,
+       24
+      ],
+      "intencion": "esperar",
+      "esperar": 50
+     },
+     {
+      "destino": [
+       24,
+       24
+      ],
+      "intencion": "esperar",
+      "esperar": 50
+     }
+    ]
+   ],
+   "mitades": [
+    {
+     "vida": "-",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-ANTICIPACION",
+     "porque": "mi casilla esta fuera del circulo que va a radio 0, entro al centro antes de que se cierre"
+    },
+    {
+     "vida": "0",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-ANTICIPACION",
+     "porque": "me quedo dentro del unico punto seguro cuando el circulo llegue a radio 0"
+    },
+    {
+     "vida": "0",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-ANTICIPACION",
+     "porque": "sigo dentro hasta el final de la fase"
+    },
+    {
+     "vida": "0",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-ANTICIPACION",
+     "porque": "me mantengo en el centro mientras dura"
+    }
+   ],
+   "final": "llego al centro (24,24) y me quedo ahi dentro hasta el cierre total",
+   "zona": null,
+   "mensaje": null,
+   "tick": 13845,
+   "snap": "<scratch>/P6_25_snaps/P623_t2_A7h_20365645_10_13845.pkl.gz",
+   "carp": "P623_t2_A7h_20365645",
+   "slot": 10,
+   "previo": [
+    {
+     "destino": [
+      22,
+      25
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      22,
+      25
+     ],
+     "intencion": "esperar",
+     "esperar": 50
+    },
+    {
+     "destino": [
+      23,
+      25
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      23,
+      25
+     ],
+     "intencion": "esperar",
+     "esperar": 50
+    }
+   ],
+   "veredicto_previo": "area"
+  },
+  {
+   "id": "P623_t2_A7h_20470374_10_14010",
+   "modelo": "haiku",
+   "ms": 2966.6,
+   "usd": 0.004106,
+   "error": null,
+   "parsea": true,
+   "callar": false,
+   "n_formas_dichas": 1,
+   "n_formas": 1,
+   "intraducible": false,
+   "fallos_traductor": [],
+   "tramos": [
+    {
+     "destino": [
+      24,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": null,
+     "intencion": "esperar",
+     "esperar": 50
+    }
+   ],
+   "todas": [
+    [
+     {
+      "destino": [
+       24,
+       24
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     },
+     {
+      "destino": null,
+      "intencion": "esperar",
+      "esperar": 50
+     }
+    ]
+   ],
+   "mitades": [
+    {
+     "vida": "-",
+     "manos": "0",
+     "vinculo": "+",
+     "por": "F-ANTICIPACION",
+     "porque": "salgo del anillo que me quema, aunque cruzar el centro me expone"
+    },
+    {
+     "vida": "+",
+     "manos": "0",
+     "vinculo": "+",
+     "por": "F-DANO",
+     "porque": "dentro del circulo, fuera del fuego del anillo, espero con mi hermano"
+    }
+   ],
+   "final": "en el centro, los dos dentro del radio 0 que viene, juntos cuando acabe",
+   "zona": null,
+   "mensaje": null,
+   "tick": 14010,
+   "snap": "<scratch>/P6_25_snaps/P623_t2_A7h_20470374_10_14010.pkl.gz",
+   "carp": "P623_t2_A7h_20470374",
+   "slot": 10,
+   "previo": [
+    {
+     "destino": [
+      24,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": null,
+     "intencion": "esperar",
+     "esperar": 50
+    }
+   ],
+   "veredicto_previo": "area"
+  },
+  {
+   "id": "P623_t2_A7h_20575103_11_13578",
+   "modelo": "haiku",
+   "ms": 5161.0,
+   "usd": 0.005156,
+   "error": null,
+   "parsea": true,
+   "callar": false,
+   "n_formas_dichas": 1,
+   "n_formas": 1,
+   "intraducible": false,
+   "fallos_traductor": [],
+   "tramos": [
+    {
+     "destino": null,
+     "intencion": "esperar",
+     "esperar": 1
+    },
+    {
+     "destino": [
+      23,
+      22
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      23,
+      22
+     ],
+     "intencion": "coger",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      24,
+      26
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    }
+   ],
+   "todas": [
+    [
+     {
+      "destino": null,
+      "intencion": "esperar",
+      "esperar": 1
+     },
+     {
+      "destino": [
+       23,
+       22
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     },
+     {
+      "destino": [
+       23,
+       22
+      ],
+      "intencion": "coger",
+      "esperar": 0
+     },
+     {
+      "destino": [
+       24,
+       26
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     }
+    ]
+   ],
+   "mitades": [
+    {
+     "vida": "+",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-DANO",
+     "porque": "espero a que se me enfrie el paso para moverme"
+    },
+    {
+     "vida": "-",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-4-ALCANCE",
+     "porque": "voy a por el arma a 4 casillas, salgo del alcance del que me apunta"
+    },
+    {
+     "vida": "0",
+     "manos": "+",
+     "vinculo": "0",
+     "por": "R-CARENCIA",
+     "porque": "empuno la espada, tengo arma que dana en la mano"
+    },
+    {
+     "vida": "-",
+     "manos": "0",
+     "vinculo": "+",
+     "por": "S-SOLEDAD",
+     "porque": "me acerco a mi hermano que esta a mi lado, bajo la soledad"
+    }
+   ],
+   "final": "llego a la zona segura junto a mi hermano con arma en mano antes de que el radio baje a 3",
+   "zona": null,
+   "mensaje": null,
+   "tick": 13578,
+   "snap": "<scratch>/P6_25_snaps/P623_t2_A7h_20575103_11_13578.pkl.gz",
+   "carp": "P623_t2_A7h_20575103",
+   "slot": 11,
+   "previo": [
+    {
+     "destino": null,
+     "intencion": "usar",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      24,
+      26
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      24,
+      26
+     ],
+     "intencion": "esperar",
+     "esperar": 198
+    }
+   ],
+   "veredicto_previo": "area"
+  },
+  {
+   "id": "P623_t2_A7h_20575103_11_13578",
+   "modelo": "sonnet",
+   "ms": 7230.7,
+   "usd": 0.015243,
+   "error": null,
+   "parsea": true,
+   "callar": false,
+   "n_formas_dichas": 1,
+   "n_formas": 1,
+   "intraducible": false,
+   "fallos_traductor": [],
+   "tramos": [
+    {
+     "destino": [
+      26,
+      25
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      25,
+      25
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": null,
+     "intencion": "esperar",
+     "esperar": 50
+    },
+    {
+     "destino": null,
+     "intencion": "esperar",
+     "esperar": 50
+    }
+   ],
+   "todas": [
+    [
+     {
+      "destino": [
+       26,
+       25
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     },
+     {
+      "destino": [
+       25,
+       25
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     },
+     {
+      "destino": null,
+      "intencion": "esperar",
+      "esperar": 50
+     },
+     {
+      "destino": null,
+      "intencion": "esperar",
+      "esperar": 50
+     }
+    ]
+   ],
+   "mitades": [
+    {
+     "vida": "0",
+     "manos": "0",
+     "vinculo": "+",
+     "por": "S-SOLEDAD",
+     "porque": "me acerco a mi hermano y lo veo"
+    },
+    {
+     "vida": "+",
+     "manos": "0",
+     "vinculo": "+",
+     "por": "F-ANTICIPACION",
+     "porque": "entro en zona segura radio 3 y me quedo dentro"
+    },
+    {
+     "vida": "0",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-ANTICIPACION",
+     "porque": "me quedo dentro hasta que pase el cierre"
+    },
+    {
+     "vida": "0",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-ANTICIPACION",
+     "porque": "sigo dentro esperando el final de la fase"
+    }
+   ],
+   "final": "entro en zona segura junto a mi hermano y espero ahi el cierre",
+   "zona": null,
+   "mensaje": null,
+   "tick": 13578,
+   "snap": "<scratch>/P6_25_snaps/P623_t2_A7h_20575103_11_13578.pkl.gz",
+   "carp": "P623_t2_A7h_20575103",
+   "slot": 11,
+   "previo": [
+    {
+     "destino": [
+      23,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      23,
+      24
+     ],
+     "intencion": "usar",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      23,
+      22
+     ],
+     "intencion": "coger",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      25,
+      25
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    }
+   ],
+   "veredicto_previo": "area"
+  },
+  {
+   "id": "P623_t2_A7h_20575103_11_13703",
+   "modelo": "haiku",
+   "ms": 4357.0,
+   "usd": 0.005293,
+   "error": null,
+   "parsea": true,
+   "callar": false,
+   "n_formas_dichas": 1,
+   "n_formas": 1,
+   "intraducible": false,
+   "fallos_traductor": [],
+   "tramos": [
+    {
+     "destino": [
+      26,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      26,
+      24
+     ],
+     "intencion": "esperar",
+     "esperar": 11
+    },
+    {
+     "destino": [
+      25,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      25,
+      24
+     ],
+     "intencion": "esperar",
+     "esperar": 62
+    }
+   ],
+   "todas": [
+    [
+     {
+      "destino": [
+       26,
+       24
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     },
+     {
+      "destino": [
+       26,
+       24
+      ],
+      "intencion": "esperar",
+      "esperar": 11
+     },
+     {
+      "destino": [
+       25,
+       24
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     },
+     {
+      "destino": [
+       25,
+       24
+      ],
+      "intencion": "esperar",
+      "esperar": 62
+     }
+    ]
+   ],
+   "mitades": [
+    {
+     "vida": "-",
+     "manos": "0",
+     "vinculo": "+",
+     "por": "F-4-ALCANCE",
+     "porque": "me acerco a mi hermano en peligro, salgo del alcance del cerbatana en (24,25)"
+    },
+    {
+     "vida": "-",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-DANO",
+     "porque": "espero el golpe, sigo fuera del radio 3, me quema el anillo"
+    },
+    {
+     "vida": "-",
+     "manos": "0",
+     "vinculo": "+",
+     "por": "S-SOLEDAD",
+     "porque": "paso a la casilla del centro donde esta mi hermano"
+    },
+    {
+     "vida": "+",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-ANTICIPACION",
+     "porque": "estoy dentro del radio 3, el anillo se cierra en el tic 14916 y ya no quema"
+    }
+   ],
+   "final": "junto a mi hermano en el centro, dentro del circulo cerrado, a salvo",
+   "zona": null,
+   "mensaje": null,
+   "tick": 13703,
+   "snap": "<scratch>/P6_25_snaps/P623_t2_A7h_20575103_11_13703.pkl.gz",
+   "carp": "P623_t2_A7h_20575103",
+   "slot": 11,
+   "previo": [
+    {
+     "destino": [
+      25,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      24,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      24,
+      24
+     ],
+     "intencion": "esperar",
+     "esperar": 73
+    }
+   ],
+   "veredicto_previo": "area"
+  },
+  {
+   "id": "P623_t2_A7h_20575103_11_13703",
+   "modelo": "sonnet",
+   "ms": 5569.1,
+   "usd": 0.012582,
+   "error": null,
+   "parsea": true,
+   "callar": false,
+   "n_formas_dichas": 1,
+   "n_formas": 1,
+   "intraducible": false,
+   "fallos_traductor": [],
+   "tramos": [
+    {
+     "destino": [
+      26,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      26,
+      24
+     ],
+     "intencion": "esperar",
+     "esperar": 50
+    }
+   ],
+   "todas": [
+    [
+     {
+      "destino": [
+       26,
+       24
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     },
+     {
+      "destino": [
+       26,
+       24
+      ],
+      "intencion": "esperar",
+      "esperar": 50
+     }
+    ]
+   ],
+   "mitades": [
+    {
+     "vida": "+",
+     "manos": "0",
+     "vinculo": "+",
+     "por": "F-ANTICIPACION",
+     "porque": "entro en zona segura radio 3, dejo de arder"
+    },
+    {
+     "vida": "0",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-ANTICIPACION",
+     "porque": "me quedo dentro hasta el cierre"
+    }
+   ],
+   "final": "dentro de zona segura en [26,24] junto a hermano hasta fin de fase",
+   "zona": null,
+   "mensaje": null,
+   "tick": 13703,
+   "snap": "<scratch>/P6_25_snaps/P623_t2_A7h_20575103_11_13703.pkl.gz",
+   "carp": "P623_t2_A7h_20575103",
+   "slot": 11,
+   "previo": [
+    {
+     "destino": [
+      24,
+      22
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      23,
+      22
+     ],
+     "intencion": "coger",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      25,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      25,
+      24
+     ],
+     "intencion": "esperar",
+     "esperar": 50
+    }
+   ],
+   "veredicto_previo": "area"
+  },
+  {
+   "id": "P623_t2_A7h_20889290_10_14560",
+   "modelo": "sonnet",
+   "ms": 5990.2,
+   "usd": 0.012108,
+   "error": null,
+   "parsea": true,
+   "callar": false,
+   "n_formas_dichas": 1,
+   "n_formas": 1,
+   "intraducible": false,
+   "fallos_traductor": [],
+   "tramos": [
+    {
+     "destino": [
+      24,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": null,
+     "intencion": "usar",
+     "esperar": 0
+    },
+    {
+     "destino": null,
+     "intencion": "esperar",
+     "esperar": 50
+    }
+   ],
+   "todas": [
+    [
+     {
+      "destino": [
+       24,
+       24
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     },
+     {
+      "destino": null,
+      "intencion": "usar",
+      "esperar": 0
+     },
+     {
+      "destino": null,
+      "intencion": "esperar",
+      "esperar": 50
+     }
+    ]
+   ],
+   "mitades": [
+    {
+     "vida": "-",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-DANO",
+     "porque": "el anillo me quema mientras corro al centro"
+    },
+    {
+     "vida": "+",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-DANO",
+     "porque": "uso el botiquin para recuperar los 50 de vida"
+    },
+    {
+     "vida": "0",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-ANTICIPACION",
+     "porque": "ya estoy en el centro donde no arde"
+    }
+   ],
+   "final": "llego al centro, me curo y me quedo dentro hasta el final",
+   "zona": null,
+   "mensaje": null,
+   "tick": 14560,
+   "snap": "<scratch>/P6_25_snaps/P623_t2_A7h_20889290_10_14560.pkl.gz",
+   "carp": "P623_t2_A7h_20889290",
+   "slot": 10,
+   "previo": [
+    {
+     "destino": [
+      24,
+      27
+     ],
+     "intencion": "coger",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      24,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": null,
+     "intencion": "usar",
+     "esperar": 0
+    },
+    {
+     "destino": null,
+     "intencion": "esperar",
+     "esperar": 50
+    }
+   ],
+   "veredicto_previo": "area"
+  },
+  {
+   "id": "P623_t2_A7h_20889290_10_14604",
+   "modelo": "sonnet",
+   "ms": 7582.0,
+   "usd": 0.013716,
+   "error": null,
+   "parsea": true,
+   "callar": false,
+   "n_formas_dichas": 1,
+   "n_formas": 1,
+   "intraducible": false,
+   "fallos_traductor": [],
+   "tramos": [
+    {
+     "destino": null,
+     "intencion": "usar",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      24,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": null,
+     "intencion": "usar",
+     "esperar": 0
+    },
+    {
+     "destino": null,
+     "intencion": "esperar",
+     "esperar": 50
+    }
+   ],
+   "todas": [
+    [
+     {
+      "destino": null,
+      "intencion": "usar",
+      "esperar": 0
+     },
+     {
+      "destino": [
+       24,
+       24
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     },
+     {
+      "destino": null,
+      "intencion": "usar",
+      "esperar": 0
+     },
+     {
+      "destino": null,
+      "intencion": "esperar",
+      "esperar": 50
+     }
+    ]
+   ],
+   "mitades": [
+    {
+     "vida": "+",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "R-ACOPIO",
+     "porque": "uso la racion que llevo para recuperar vida rapido"
+    },
+    {
+     "vida": "-",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-DANO",
+     "porque": "mientras voy al centro me quema el anillo"
+    },
+    {
+     "vida": "+",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "R-ACOPIO",
+     "porque": "uso el botiquin ya en el centro"
+    },
+    {
+     "vida": "0",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-ANTICIPACION",
+     "porque": "me quedo en la unica casilla segura hasta el final"
+    }
+   ],
+   "final": "uso la racion primero para curarme mas rapido, luego voy al centro y uso el botiquin ahi, y aguanto en (24,24)",
+   "zona": null,
+   "mensaje": null,
+   "tick": 14604,
+   "snap": "<scratch>/P6_25_snaps/P623_t2_A7h_20889290_10_14604.pkl.gz",
+   "carp": "P623_t2_A7h_20889290",
+   "slot": 10,
+   "previo": [
+    {
+     "destino": [
+      24,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": null,
+     "intencion": "usar",
+     "esperar": 0
+    },
+    {
+     "destino": null,
+     "intencion": "esperar",
+     "esperar": 50
+    }
+   ],
+   "veredicto_previo": "area"
+  },
+  {
+   "id": "P623_t2_A7h_20889290_11_12312",
+   "modelo": "sonnet",
+   "ms": 8033.2,
+   "usd": 0.01491,
+   "error": null,
+   "parsea": true,
+   "callar": false,
+   "n_formas_dichas": 1,
+   "n_formas": 1,
+   "intraducible": false,
+   "fallos_traductor": [],
+   "tramos": [
+    {
+     "destino": [
+      24,
+      25
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      24,
+      32
+     ],
+     "intencion": "coger",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      26,
+      33
+     ],
+     "intencion": "coger",
+     "esperar": 0
+    },
+    {
+     "destino": null,
+     "intencion": "esperar",
+     "esperar": 50
+    }
+   ],
+   "todas": [
+    [
+     {
+      "destino": [
+       24,
+       25
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     },
+     {
+      "destino": [
+       24,
+       32
+      ],
+      "intencion": "coger",
+      "esperar": 0
+     },
+     {
+      "destino": [
+       26,
+       33
+      ],
+      "intencion": "coger",
+      "esperar": 0
+     },
+     {
+      "destino": null,
+      "intencion": "esperar",
+      "esperar": 50
+     }
+    ]
+   ],
+   "mitades": [
+    {
+     "vida": "-",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-DANO",
+     "porque": "el anillo me esta quemando mientras salgo"
+    },
+    {
+     "vida": "0",
+     "manos": "+",
+     "vinculo": "0",
+     "por": "R-LLAMADA",
+     "porque": "cojo las flechas que estan en (24,30)"
+    },
+    {
+     "vida": "0",
+     "manos": "+",
+     "vinculo": "0",
+     "por": "R-ACOPIO",
+     "porque": "cojo la racion para tener con que curarme"
+    },
+    {
+     "vida": "+",
+     "manos": "0",
+     "vinculo": "+",
+     "por": "F-ANTICIPACION",
+     "porque": "me quedo dentro de la zona segura hasta el final de la fase"
+    }
+   ],
+   "final": "acabo en (24,29) dentro del radio 5, con municion y racion, cerca de mi hermano en (21,29)",
+   "zona": null,
+   "mensaje": null,
+   "tick": 12312,
+   "snap": "<scratch>/P6_25_snaps/P623_t2_A7h_20889290_11_12312.pkl.gz",
+   "carp": "P623_t2_A7h_20889290",
+   "slot": 11,
+   "previo": [
+    {
+     "destino": [
+      24,
+      30
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      24,
+      29
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      24,
+      28
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": null,
+     "intencion": "esperar",
+     "esperar": 50
+    }
+   ],
+   "veredicto_previo": "area"
+  },
+  {
+   "id": "P623_t2_A7h_20889290_11_12356",
+   "modelo": "haiku",
+   "ms": 5796.8,
+   "usd": 0.006519,
+   "error": null,
+   "parsea": true,
+   "callar": false,
+   "n_formas_dichas": 2,
+   "n_formas": 2,
+   "intraducible": false,
+   "fallos_traductor": [],
+   "tramos": [
+    {
+     "destino": [
+      24,
+      26
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      24,
+      26
+     ],
+     "intencion": "esperar",
+     "esperar": 15
+    },
+    {
+     "destino": [
+      24,
+      26
+     ],
+     "intencion": "usar",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      21,
+      29
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    }
+   ],
+   "todas": [
+    [
+     {
+      "destino": [
+       24,
+       26
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     },
+     {
+      "destino": [
+       24,
+       26
+      ],
+      "intencion": "esperar",
+      "esperar": 15
+     },
+     {
+      "destino": [
+       24,
+       26
+      ],
+      "intencion": "usar",
+      "esperar": 0
+     },
+     {
+      "destino": [
+       21,
+       29
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     }
+    ],
+    [
+     {
+      "destino": [
+       24,
+       25
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     },
+     {
+      "destino": [
+       24,
+       25
+      ],
+      "intencion": "esperar",
+      "esperar": 50
+     },
+     {
+      "destino": [
+       21,
+       29
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     }
+    ]
+   ],
+   "mitades": [
+    {
+     "vida": "-",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-DANO",
+     "porque": "sigues a tiro del rival mientras te acercas"
+    },
+    {
+     "vida": "0",
+     "manos": "+",
+     "vinculo": "0",
+     "por": "R-CARENCIA",
+     "porque": "tensas el arco y lo tienes listo para disparar"
+    },
+    {
+     "vida": "+",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-REENCUENTRO",
+     "porque": "lo bajas critico o lo matas, se va o cae"
+    },
+    {
+     "vida": "0",
+     "manos": "0",
+     "vinculo": "+",
+     "por": "S-SOLEDAD",
+     "porque": "llegas donde tu hermano"
+    }
+   ],
+   "final": "juntos en casilla segura dentro del radio 5, listos para la siguiente fase",
+   "zona": null,
+   "mensaje": null,
+   "tick": 12356,
+   "snap": "<scratch>/P6_25_snaps/P623_t2_A7h_20889290_11_12356.pkl.gz",
+   "carp": "P623_t2_A7h_20889290",
+   "slot": 11,
+   "previo": [
+    {
+     "destino": [
+      24,
+      27
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      24,
+      27
+     ],
+     "intencion": "usar",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      21,
+      29
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": null,
+     "intencion": "esperar",
+     "esperar": 140
+    }
+   ],
+   "veredicto_previo": "area"
+  },
+  {
+   "id": "P623_t2_A7h_20994019_10_12014",
+   "modelo": "haiku",
+   "ms": 4111.0,
+   "usd": 0.005553,
+   "error": null,
+   "parsea": true,
+   "callar": false,
+   "n_formas_dichas": 1,
+   "n_formas": 1,
+   "intraducible": false,
+   "fallos_traductor": [],
+   "tramos": [
+    {
+     "destino": [
+      18,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      20,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      24,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      24,
+      24
+     ],
+     "intencion": "esperar",
+     "esperar": 83
+    }
+   ],
+   "todas": [
+    [
+     {
+      "destino": [
+       18,
+       24
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     },
+     {
+      "destino": [
+       20,
+       24
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     },
+     {
+      "destino": [
+       24,
+       24
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     },
+     {
+      "destino": [
+       24,
+       24
+      ],
+      "intencion": "esperar",
+      "esperar": 83
+     }
+    ]
+   ],
+   "mitades": [
+    {
+     "vida": "-",
+     "manos": "0",
+     "vinculo": "-",
+     "por": "F-ANTICIPACION",
+     "porque": "te acercas al circulo pero sigues quemandote mientras no entres"
+    },
+    {
+     "vida": "-",
+     "manos": "0",
+     "vinculo": "-",
+     "por": "F-DANO",
+     "porque": "aun fuera del radio 5, el anillo te sigue quemando"
+    },
+    {
+     "vida": "+",
+     "manos": "0",
+     "vinculo": "+",
+     "por": "F-DANO",
+     "porque": "entras en el circulo seguro, dejas de quemarte, te acercas al hermano"
+    },
+    {
+     "vida": "+",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-ANTICIPACION",
+     "porque": "te quedas dentro del circulo hasta que la fase acabe sin riesgo de quemarte"
+    }
+   ],
+   "final": "entras en el circulo seguro por el centro, donde no hay rivales visibles, esperas protegido dentro hasta el cierre",
+   "zona": null,
+   "mensaje": null,
+   "tick": 12014,
+   "snap": "<scratch>/P6_25_snaps/P623_t2_A7h_20994019_10_12014.pkl.gz",
+   "carp": "P623_t2_A7h_20994019",
+   "slot": 10,
+   "previo": [
+    {
+     "destino": [
+      19,
+      25
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      22,
+      22
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      24,
+      20
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      24,
+      20
+     ],
+     "intencion": "esperar",
+     "esperar": 83
+    }
+   ],
+   "veredicto_previo": "area"
+  },
+  {
+   "id": "P623_t2_A7h_20994019_10_12130",
+   "modelo": "haiku",
+   "ms": 4159.9,
+   "usd": 0.005026,
+   "error": null,
+   "parsea": true,
+   "callar": false,
+   "n_formas_dichas": 1,
+   "n_formas": 1,
+   "intraducible": false,
+   "fallos_traductor": [],
+   "tramos": [
+    {
+     "destino": [
+      19,
+      26
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      21,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      23,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      23,
+      24
+     ],
+     "intencion": "esperar",
+     "esperar": 506
+    }
+   ],
+   "todas": [
+    [
+     {
+      "destino": [
+       19,
+       26
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     },
+     {
+      "destino": [
+       21,
+       24
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     },
+     {
+      "destino": [
+       23,
+       24
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     },
+     {
+      "destino": [
+       23,
+       24
+      ],
+      "intencion": "esperar",
+      "esperar": 506
+     }
+    ]
+   ],
+   "mitades": [
+    {
+     "vida": "-",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-DANO",
+     "porque": "sigues fuera del circulo y el anillo te quema"
+    },
+    {
+     "vida": "-",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-DANO",
+     "porque": "aun fuera; cada paso cuesta vida mientras avanzas"
+    },
+    {
+     "vida": "+",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-ANTICIPACION",
+     "porque": "entras en el radio 5; la casilla (23,24) esta segura hasta el proximo cierre"
+    },
+    {
+     "vida": "0",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-ANTICIPACION",
+     "porque": "te quedas dentro hasta que el circulo se cierre en el radio 5 y dejes de estar en peligro"
+    }
+   ],
+   "final": "llegas al circulo de radio 5 y te quedas dentro seguro hasta el tic 12636",
+   "zona": null,
+   "mensaje": null,
+   "tick": 12130,
+   "snap": "<scratch>/P6_25_snaps/P623_t2_A7h_20994019_10_12130.pkl.gz",
+   "carp": "P623_t2_A7h_20994019",
+   "slot": 10,
+   "previo": [
+    {
+     "destino": [
+      17,
+      27
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      19,
+      25
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      21,
+      23
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      23,
+      23
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    }
+   ],
+   "veredicto_previo": "area"
+  },
+  {
+   "id": "P623_t2_A7h_20994019_10_12174",
+   "modelo": "haiku",
+   "ms": 6865.0,
+   "usd": 0.006892,
+   "error": null,
+   "parsea": true,
+   "callar": false,
+   "n_formas_dichas": 2,
+   "n_formas": 1,
+   "intraducible": false,
+   "fallos_traductor": [
+    "casilla fuera del mapa o solida"
+   ],
+   "tramos": [
+    {
+     "destino": [
+      13,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      13,
+      24
+     ],
+     "intencion": "esperar",
+     "esperar": 50
+    },
+    {
+     "destino": [
+      19,
+      19
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      19,
+      19
+     ],
+     "intencion": "esperar",
+     "esperar": 100
+    }
+   ],
+   "todas": [
+    [
+     {
+      "destino": [
+       13,
+       24
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     },
+     {
+      "destino": [
+       13,
+       24
+      ],
+      "intencion": "esperar",
+      "esperar": 50
+     },
+     {
+      "destino": [
+       19,
+       19
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     },
+     {
+      "destino": [
+       19,
+       19
+      ],
+      "intencion": "esperar",
+      "esperar": 100
+     }
+    ]
+   ],
+   "mitades": [
+    {
+     "vida": "-",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-ANTICIPACION",
+     "porque": "sigues fuera del circulo que viene; el anillo quema 8 por segundo"
+    },
+    {
+     "vida": "-",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-DANO",
+     "porque": "esperas en el borde quemandote mientras baja el enfriamiento de piernas"
+    },
+    {
+     "vida": "-",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-ANTICIPACION",
+     "porque": "sigues hacia la zona segura de radio 5 que viene; el fuego no para"
+    },
+    {
+     "vida": "+",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-DANO",
+     "porque": "dentro del radio 5 nuevo; usas el botiquin en estos tics para recuperarte"
+    }
+   ],
+   "final": "en casilla [19,19] dentro de la zona segura de radio 5, con botiquin que se termina",
+   "zona": null,
+   "mensaje": null,
+   "tick": 12174,
+   "snap": "<scratch>/P6_25_snaps/P623_t2_A7h_20994019_10_12174.pkl.gz",
+   "carp": "P623_t2_A7h_20994019",
+   "slot": 10,
+   "previo": [
+    {
+     "destino": [
+      19,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      19,
+      24
+     ],
+     "intencion": "esperar",
+     "esperar": 50
+    },
+    {
+     "destino": [
+      24,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": null,
+     "intencion": "esperar",
+     "esperar": 200
+    }
+   ],
+   "veredicto_previo": "vida"
+  },
+  {
+   "id": "P623_t2_A7h_20994019_10_12495",
+   "modelo": "haiku",
+   "ms": 3899.1,
+   "usd": 0.004602,
+   "error": null,
+   "parsea": true,
+   "callar": false,
+   "n_formas_dichas": 1,
+   "n_formas": 1,
+   "intraducible": false,
+   "fallos_traductor": [],
+   "tramos": [
+    {
+     "destino": [
+      23,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": null,
+     "intencion": "esperar",
+     "esperar": 50
+    },
+    {
+     "destino": [
+      24,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": null,
+     "intencion": "esperar",
+     "esperar": 141
+    }
+   ],
+   "todas": [
+    [
+     {
+      "destino": [
+       23,
+       24
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     },
+     {
+      "destino": null,
+      "intencion": "esperar",
+      "esperar": 50
+     },
+     {
+      "destino": [
+       24,
+       24
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     },
+     {
+      "destino": null,
+      "intencion": "esperar",
+      "esperar": 141
+     }
+    ]
+   ],
+   "mitades": [
+    {
+     "vida": "-",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-ANTICIPACION",
+     "porque": "te acercas al circulo seguro pero el anillo te quema mientras llegas"
+    },
+    {
+     "vida": "-",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-DANO",
+     "porque": "dentro del radio 5 sigues ardiendo: pierdes 8 de vida por segundo"
+    },
+    {
+     "vida": "-",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-DANO",
+     "porque": "un paso mas adentro pero el anillo sigue quemando"
+    },
+    {
+     "vida": "-",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-DANO",
+     "porque": "esperas a que el circulo se cierre al radio 5; sigues ardiendo hasta entonces"
+    }
+   ],
+   "final": "llegas al centro y aguantas el daño del anillo hasta que se estabiliza en radio 5",
+   "zona": null,
+   "mensaje": null,
+   "tick": 12495,
+   "snap": "<scratch>/P6_25_snaps/P623_t2_A7h_20994019_10_12495.pkl.gz",
+   "carp": "P623_t2_A7h_20994019",
+   "slot": 10,
+   "previo": [
+    {
+     "destino": [
+      24,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": null,
+     "intencion": "esperar",
+     "esperar": 50
+    },
+    {
+     "destino": null,
+     "intencion": "esperar",
+     "esperar": 50
+    },
+    {
+     "destino": null,
+     "intencion": "esperar",
+     "esperar": 41
+    }
+   ],
+   "veredicto_previo": "area"
+  },
+  {
+   "id": "P623_t2_A7h_20994019_10_12583",
+   "modelo": "haiku",
+   "ms": 2970.7,
+   "usd": 0.003722,
+   "error": null,
+   "parsea": true,
+   "callar": false,
+   "n_formas_dichas": 1,
+   "n_formas": 1,
+   "intraducible": false,
+   "fallos_traductor": [],
+   "tramos": [
+    {
+     "destino": [
+      24,
+      23
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      24,
+      23
+     ],
+     "intencion": "esperar",
+     "esperar": 50
+    }
+   ],
+   "todas": [
+    [
+     {
+      "destino": [
+       24,
+       23
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     },
+     {
+      "destino": [
+       24,
+       23
+      ],
+      "intencion": "esperar",
+      "esperar": 50
+     }
+    ]
+   ],
+   "mitades": [
+    {
+     "vida": "-",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-ANTICIPACION",
+     "porque": "cada paso te acerca al centro del circulo seguro"
+    },
+    {
+     "vida": "-",
+     "manos": "0",
+     "vinculo": "+",
+     "por": "S-SOLEDAD",
+     "porque": "esperar quieto en el radio 5 mientras el anillo se cierra, y tu hermano muerto deja de pesar en el tiempo"
+    }
+   ],
+   "final": "dentro del circulo seguro cuando baje el radio a 5; el anillo no te quema mientras esperas",
+   "zona": null,
+   "mensaje": null,
+   "tick": 12583,
+   "snap": "<scratch>/P6_25_snaps/P623_t2_A7h_20994019_10_12583.pkl.gz",
+   "carp": "P623_t2_A7h_20994019",
+   "slot": 10,
+   "previo": [
+    {
+     "destino": [
+      23,
+      21
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      23,
+      21
+     ],
+     "intencion": "esperar",
+     "esperar": 24
+    },
+    {
+     "destino": [
+      23,
+      21
+     ],
+     "intencion": "coger",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      23,
+      21
+     ],
+     "intencion": "usar",
+     "esperar": 0
+    }
+   ],
+   "veredicto_previo": "area"
+  },
+  {
+   "id": "P623_t2_A7h_20994019_10_13019",
+   "modelo": "haiku",
+   "ms": 5375.7,
+   "usd": 0.005044,
+   "error": null,
+   "parsea": true,
+   "callar": false,
+   "n_formas_dichas": 1,
+   "n_formas": 1,
+   "intraducible": false,
+   "fallos_traductor": [],
+   "tramos": [
+    {
+     "destino": [
+      20,
+      23
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      21,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      23,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      23,
+      24
+     ],
+     "intencion": "esperar",
+     "esperar": 50
+    }
+   ],
+   "todas": [
+    [
+     {
+      "destino": [
+       20,
+       23
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     },
+     {
+      "destino": [
+       21,
+       24
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     },
+     {
+      "destino": [
+       23,
+       24
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     },
+     {
+      "destino": [
+       23,
+       24
+      ],
+      "intencion": "esperar",
+      "esperar": 50
+     }
+    ]
+   ],
+   "mitades": [
+    {
+     "vida": "-",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-DANO",
+     "porque": "sigues fuera quemandote mientras avanzas"
+    },
+    {
+     "vida": "-",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-DANO",
+     "porque": "aun fuera del radio 3, el anillo te sigue danando"
+    },
+    {
+     "vida": "0",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-ANTICIPACION",
+     "porque": "ya dentro del circulo seguro de radio 3, deja de arder"
+    },
+    {
+     "vida": "+",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-DANO",
+     "porque": "dentro del circulo, no ardes mientras esperas la siguiente fase"
+    }
+   ],
+   "final": "quieto dentro del circulo seguro en casilla (23,24), esperando que la fase cierre del todo en radio 3",
+   "zona": null,
+   "mensaje": null,
+   "tick": 13019,
+   "snap": "<scratch>/P6_25_snaps/P623_t2_A7h_20994019_10_13019.pkl.gz",
+   "carp": "P623_t2_A7h_20994019",
+   "slot": 10,
+   "previo": [
+    {
+     "destino": [
+      20,
+      23
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      21,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      22,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      24,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    }
+   ],
+   "veredicto_previo": "area"
+  },
+  {
+   "id": "P623_t2_A7h_20994019_10_13019",
+   "modelo": "sonnet",
+   "ms": 7743.8,
+   "usd": 0.015009,
+   "error": null,
+   "parsea": true,
+   "callar": false,
+   "n_formas_dichas": 1,
+   "n_formas": 1,
+   "intraducible": false,
+   "fallos_traductor": [],
+   "tramos": [
+    {
+     "destino": [
+      19,
+      23
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      20,
+      23
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      21,
+      23
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      21,
+      23
+     ],
+     "intencion": "esperar",
+     "esperar": 50
+    }
+   ],
+   "todas": [
+    [
+     {
+      "destino": [
+       19,
+       23
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     },
+     {
+      "destino": [
+       20,
+       23
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     },
+     {
+      "destino": [
+       21,
+       23
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     },
+     {
+      "destino": [
+       21,
+       23
+      ],
+      "intencion": "esperar",
+      "esperar": 50
+     }
+    ]
+   ],
+   "mitades": [
+    {
+     "vida": "0",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-ANTICIPACION",
+     "porque": "me acerco al centro para entrar en el radio 3"
+    },
+    {
+     "vida": "0",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-ANTICIPACION",
+     "porque": "sigo acercandome al centro"
+    },
+    {
+     "vida": "+",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-ANTICIPACION",
+     "porque": "entro en el radio 3, la zona segura deja de arderme"
+    },
+    {
+     "vida": "0",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-ANTICIPACION",
+     "porque": "me quedo dentro hasta que termine de cerrarse"
+    }
+   ],
+   "final": "entro en (21,23) dentro del radio 3 y aguanto ahi evitando (23,24) donde esta el rival",
+   "zona": null,
+   "mensaje": null,
+   "tick": 13019,
+   "snap": "<scratch>/P6_25_snaps/P623_t2_A7h_20994019_10_13019.pkl.gz",
+   "carp": "P623_t2_A7h_20994019",
+   "slot": 10,
+   "previo": [
+    {
+     "destino": [
+      22,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      23,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      23,
+      24
+     ],
+     "intencion": "esperar",
+     "esperar": 50
+    },
+    {
+     "destino": [
+      23,
+      24
+     ],
+     "intencion": "esperar",
+     "esperar": 50
+    }
+   ],
+   "veredicto_previo": "area"
+  },
+  {
+   "id": "P623_t2_A7h_21098748_10_13731",
+   "modelo": "haiku",
+   "ms": 2922.7,
+   "usd": 0.004091,
+   "error": null,
+   "parsea": true,
+   "callar": false,
+   "n_formas_dichas": 1,
+   "n_formas": 1,
+   "intraducible": false,
+   "fallos_traductor": [],
+   "tramos": [
+    {
+     "destino": [
+      24,
+      25
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      24,
+      25
+     ],
+     "intencion": "esperar",
+     "esperar": 45
+    }
+   ],
+   "todas": [
+    [
+     {
+      "destino": [
+       24,
+       25
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     },
+     {
+      "destino": [
+       24,
+       25
+      ],
+      "intencion": "esperar",
+      "esperar": 45
+     }
+    ]
+   ],
+   "mitades": [
+    {
+     "vida": "+",
+     "manos": "0",
+     "vinculo": "+",
+     "por": "F-ANTICIPACION",
+     "porque": "entrar en la zona segura del radio 3 antes de que cierre"
+    },
+    {
+     "vida": "0",
+     "manos": "0",
+     "vinculo": "+",
+     "por": "S-SOLEDAD",
+     "porque": "quedarme en el circulo seguro junto a mi hermano hasta que la fase termine"
+    }
+   ],
+   "final": "dentro del circulo seguro en radio 3, junto a mi hermano",
+   "zona": null,
+   "mensaje": null,
+   "tick": 13731,
+   "snap": "<scratch>/P6_25_snaps/P623_t2_A7h_21098748_10_13731.pkl.gz",
+   "carp": "P623_t2_A7h_21098748",
+   "slot": 10,
+   "previo": [
+    {
+     "destino": [
+      24,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      24,
+      24
+     ],
+     "intencion": "esperar",
+     "esperar": 45
+    }
+   ],
+   "veredicto_previo": "area"
+  },
+  {
+   "id": "P623_t2_A7h_21098748_10_13731",
+   "modelo": "sonnet",
+   "ms": 8790.7,
+   "usd": 0.015627,
+   "error": null,
+   "parsea": true,
+   "callar": false,
+   "n_formas_dichas": 1,
+   "n_formas": 1,
+   "intraducible": false,
+   "fallos_traductor": [],
+   "tramos": [
+    {
+     "destino": [
+      27,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      24,
+      26
+     ],
+     "intencion": "coger",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      24,
+      26
+     ],
+     "intencion": "coger",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      24,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    }
+   ],
+   "todas": [
+    [
+     {
+      "destino": [
+       27,
+       24
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     },
+     {
+      "destino": [
+       24,
+       26
+      ],
+      "intencion": "coger",
+      "esperar": 0
+     },
+     {
+      "destino": [
+       24,
+       26
+      ],
+      "intencion": "coger",
+      "esperar": 0
+     },
+     {
+      "destino": [
+       24,
+       24
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     }
+    ]
+   ],
+   "mitades": [
+    {
+     "vida": "0",
+     "manos": "0",
+     "vinculo": "+",
+     "por": "S-SOLEDAD",
+     "porque": "llego junto a mi hermano y lo veo"
+    },
+    {
+     "vida": "0",
+     "manos": "+",
+     "vinculo": "0",
+     "por": "R-CARENCIA",
+     "porque": "cojo el arco que esta en (24,24) para equiparme mejor"
+    },
+    {
+     "vida": "0",
+     "manos": "+",
+     "vinculo": "0",
+     "por": "R-LLAMADA",
+     "porque": "recojo las flechas para tener municion del arco"
+    },
+    {
+     "vida": "+",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-ANTICIPACION",
+     "porque": "entro en el centro exacto que es la unica casilla que no ardera"
+    }
+   ],
+   "final": "me equipo con arco y flechas, me junto con mi hermano y entramos juntos al centro (24,24) que es donde no arde",
+   "zona": null,
+   "mensaje": null,
+   "tick": 13731,
+   "snap": "<scratch>/P6_25_snaps/P623_t2_A7h_21098748_10_13731.pkl.gz",
+   "carp": "P623_t2_A7h_21098748",
+   "slot": 10,
+   "previo": [
+    {
+     "destino": [
+      27,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      26,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      25,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      25,
+      24
+     ],
+     "intencion": "esperar",
+     "esperar": 34
+    }
+   ],
+   "veredicto_previo": "area"
+  },
+  {
+   "id": "P623_t2_A7h_21098748_10_13845",
+   "modelo": "haiku",
+   "ms": 3551.8,
+   "usd": 0.004745,
+   "error": null,
+   "parsea": true,
+   "callar": false,
+   "n_formas_dichas": 1,
+   "n_formas": 1,
+   "intraducible": false,
+   "fallos_traductor": [],
+   "tramos": [
+    {
+     "destino": [
+      24,
+      25
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      24,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": null,
+     "intencion": "esperar",
+     "esperar": 50
+    }
+   ],
+   "todas": [
+    [
+     {
+      "destino": [
+       24,
+       25
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     },
+     {
+      "destino": [
+       24,
+       24
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     },
+     {
+      "destino": null,
+      "intencion": "esperar",
+      "esperar": 50
+     }
+    ]
+   ],
+   "mitades": [
+    {
+     "vida": "-",
+     "manos": "0",
+     "vinculo": "+",
+     "por": "F-4-ALCANCE",
+     "porque": "te acercas al centro pero sales del alcance de quien te mira desde (23,24)"
+    },
+    {
+     "vida": "-",
+     "manos": "+",
+     "vinculo": "0",
+     "por": "R-CARENCIA",
+     "porque": "entras en el centro donde hay armas y curas en el suelo"
+    },
+    {
+     "vida": "+",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-DANO",
+     "porque": "usas el botiquin que llevas mientras esperas en radio 0"
+    }
+   ],
+   "final": "entras en el centro, te curas alli donde el anillo no te quema, y esperas protegido en radio 0 hasta que se cierre",
+   "zona": null,
+   "mensaje": null,
+   "tick": 13845,
+   "snap": "<scratch>/P6_25_snaps/P623_t2_A7h_21098748_10_13845.pkl.gz",
+   "carp": "P623_t2_A7h_21098748",
+   "slot": 10,
+   "previo": [
+    {
+     "destino": [
+      24,
+      25
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      24,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": null,
+     "intencion": "esperar",
+     "esperar": 100
+    }
+   ],
+   "veredicto_previo": "area"
+  },
+  {
+   "id": "P623_t2_A7h_21098748_10_13845",
+   "modelo": "sonnet",
+   "ms": 7616.3,
+   "usd": 0.015405,
+   "error": null,
+   "parsea": true,
+   "callar": false,
+   "n_formas_dichas": 1,
+   "n_formas": 1,
+   "intraducible": false,
+   "fallos_traductor": [],
+   "tramos": [
+    {
+     "destino": [
+      25,
+      25
+     ],
+     "intencion": "coger",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      24,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": null,
+     "intencion": "esperar",
+     "esperar": 50
+    },
+    {
+     "destino": null,
+     "intencion": "esperar",
+     "esperar": 50
+    }
+   ],
+   "todas": [
+    [
+     {
+      "destino": [
+       25,
+       25
+      ],
+      "intencion": "coger",
+      "esperar": 0
+     },
+     {
+      "destino": [
+       24,
+       24
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     },
+     {
+      "destino": null,
+      "intencion": "esperar",
+      "esperar": 50
+     },
+     {
+      "destino": null,
+      "intencion": "esperar",
+      "esperar": 50
+     }
+    ]
+   ],
+   "mitades": [
+    {
+     "vida": "0",
+     "manos": "+",
+     "vinculo": "0",
+     "por": "R-LLAMADA",
+     "porque": "cojo los cuchillos que estan a 2 casillas"
+    },
+    {
+     "vida": "+",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-ANTICIPACION",
+     "porque": "entro en el centro antes de que cierre"
+    },
+    {
+     "vida": "0",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-ANTICIPACION",
+     "porque": "me quedo dentro de la zona segura"
+    },
+    {
+     "vida": "0",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-ANTICIPACION",
+     "porque": "sigo dentro hasta el final de la fase"
+    }
+   ],
+   "final": "llego al centro (24,24) con arma arrojadiza y me quedo; mi hermano en (27,24) puede venir",
+   "zona": null,
+   "mensaje": null,
+   "tick": 13845,
+   "snap": "<scratch>/P6_25_snaps/P623_t2_A7h_21098748_10_13845.pkl.gz",
+   "carp": "P623_t2_A7h_21098748",
+   "slot": 10,
+   "previo": [
+    {
+     "destino": [
+      24,
+      25
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      24,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": null,
+     "intencion": "esperar",
+     "esperar": 50
+    },
+    {
+     "destino": null,
+     "intencion": "esperar",
+     "esperar": 50
+    }
+   ],
+   "veredicto_previo": "area"
+  },
+  {
+   "id": "P623_t2_A7h_21098748_11_12525",
+   "modelo": "haiku",
+   "ms": 4204.7,
+   "usd": 0.004495,
+   "error": null,
+   "parsea": true,
+   "callar": false,
+   "n_formas_dichas": 1,
+   "n_formas": 1,
+   "intraducible": false,
+   "fallos_traductor": [],
+   "tramos": [
+    {
+     "destino": [
+      24,
+      29
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      24,
+      26
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      24,
+      26
+     ],
+     "intencion": "esperar",
+     "esperar": 111
+    }
+   ],
+   "todas": [
+    [
+     {
+      "destino": [
+       24,
+       29
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     },
+     {
+      "destino": [
+       24,
+       26
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     },
+     {
+      "destino": [
+       24,
+       26
+      ],
+      "intencion": "esperar",
+      "esperar": 111
+     }
+    ]
+   ],
+   "mitades": [
+    {
+     "vida": "0",
+     "manos": "0",
+     "vinculo": "-",
+     "por": "S-8-EXPOSICION",
+     "porque": "te acercas al centro abierto donde hay rivales a la vista"
+    },
+    {
+     "vida": "0",
+     "manos": "0",
+     "vinculo": "+",
+     "por": "S-SOLEDAD",
+     "porque": "te acercas a tu hermano en el circulo seguro"
+    },
+    {
+     "vida": "+",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-ANTICIPACION",
+     "porque": "esperas quieto en casilla segura hasta que el anillo termine de cerrarse en radio 5"
+    }
+   ],
+   "final": "entras en el circulo seguro por el lado norte, lejos de donde estan los rivales, y te quedas dentro hasta el fin de la fase",
+   "zona": null,
+   "mensaje": null,
+   "tick": 12525,
+   "snap": "<scratch>/P6_25_snaps/P623_t2_A7h_21098748_11_12525.pkl.gz",
+   "carp": "P623_t2_A7h_21098748",
+   "slot": 11,
+   "previo": [
+    {
+     "destino": [
+      25,
+      27
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      25,
+      25
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      25,
+      25
+     ],
+     "intencion": "esperar",
+     "esperar": 55
+    },
+    {
+     "destino": [
+      25,
+      25
+     ],
+     "intencion": "esperar",
+     "esperar": 56
+    }
+   ],
+   "veredicto_previo": "area"
+  },
+  {
+   "id": "P623_t2_A7h_21308206_10_14624",
+   "modelo": "haiku",
+   "ms": 3031.8,
+   "usd": 0.004088,
+   "error": null,
+   "parsea": true,
+   "callar": false,
+   "n_formas_dichas": 1,
+   "n_formas": 1,
+   "intraducible": false,
+   "fallos_traductor": [],
+   "tramos": [
+    {
+     "destino": [
+      24,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      24,
+      24
+     ],
+     "intencion": "esperar",
+     "esperar": 292
+    }
+   ],
+   "todas": [
+    [
+     {
+      "destino": [
+       24,
+       24
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     },
+     {
+      "destino": [
+       24,
+       24
+      ],
+      "intencion": "esperar",
+      "esperar": 292
+     }
+    ]
+   ],
+   "mitades": [
+    {
+     "vida": "-",
+     "manos": "0",
+     "vinculo": "+",
+     "por": "F-ANTICIPACION",
+     "porque": "te acercas al centro donde el circulo final te dejara vivo"
+    },
+    {
+     "vida": "-",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-DANO",
+     "porque": "quieto en el centro mientras el anillo termina de cerrarse y te quema fuera"
+    }
+   ],
+   "final": "en la casilla (24,24), el centro, cuando el circulo acabe de cerrarse en el tic 7104 y el radio sea 0",
+   "zona": null,
+   "mensaje": null,
+   "tick": 14624,
+   "snap": "<scratch>/P6_25_snaps/P623_t2_A7h_21308206_10_14624.pkl.gz",
+   "carp": "P623_t2_A7h_21308206",
+   "slot": 10,
+   "previo": [
+    {
+     "destino": [
+      24,
+      25
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      24,
+      25
+     ],
+     "intencion": "esperar",
+     "esperar": 50
+    }
+   ],
+   "veredicto_previo": "area"
+  },
+  {
+   "id": "P623_t2_A7h_21308206_10_14624",
+   "modelo": "sonnet",
+   "ms": 7141.9,
+   "usd": 0.014739,
+   "error": null,
+   "parsea": true,
+   "callar": false,
+   "n_formas_dichas": 1,
+   "n_formas": 1,
+   "intraducible": false,
+   "fallos_traductor": [],
+   "tramos": [
+    {
+     "destino": [
+      24,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": null,
+     "intencion": "usar",
+     "esperar": 0
+    },
+    {
+     "destino": null,
+     "intencion": "esperar",
+     "esperar": 50
+    },
+    {
+     "destino": null,
+     "intencion": "esperar",
+     "esperar": 50
+    }
+   ],
+   "todas": [
+    [
+     {
+      "destino": [
+       24,
+       24
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     },
+     {
+      "destino": null,
+      "intencion": "usar",
+      "esperar": 0
+     },
+     {
+      "destino": null,
+      "intencion": "esperar",
+      "esperar": 50
+     },
+     {
+      "destino": null,
+      "intencion": "esperar",
+      "esperar": 50
+     }
+    ]
+   ],
+   "mitades": [
+    {
+     "vida": "+",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-ANTICIPACION",
+     "porque": "entro en la unica casilla segura antes de que arda todo"
+    },
+    {
+     "vida": "+",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-DANO",
+     "porque": "me como la racion para subir 15 de vida"
+    },
+    {
+     "vida": "0",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-ANTICIPACION",
+     "porque": "ya estoy en el centro y no arde, me quedo"
+    },
+    {
+     "vida": "0",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-ANTICIPACION",
+     "porque": "sigo en la unica casilla que no arde"
+    }
+   ],
+   "final": "llego al centro (24,24) curado con racion, aguanto ahi hasta el final",
+   "zona": null,
+   "mensaje": null,
+   "tick": 14624,
+   "snap": "<scratch>/P6_25_snaps/P623_t2_A7h_21308206_10_14624.pkl.gz",
+   "carp": "P623_t2_A7h_21308206",
+   "slot": 10,
+   "previo": [
+    {
+     "destino": [
+      24,
+      23
+     ],
+     "intencion": "coger",
+     "esperar": 0
+    },
+    {
+     "destino": null,
+     "intencion": "usar",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      24,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": null,
+     "intencion": "esperar",
+     "esperar": 50
+    }
+   ],
+   "veredicto_previo": "area"
+  },
+  {
+   "id": "P623_t2_A7h_21308206_11_12839",
+   "modelo": "haiku",
+   "ms": 4150.7,
+   "usd": 0.004492,
+   "error": null,
+   "parsea": true,
+   "callar": false,
+   "n_formas_dichas": 1,
+   "n_formas": 1,
+   "intraducible": false,
+   "fallos_traductor": [],
+   "tramos": [
+    {
+     "destino": [
+      24,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": null,
+     "intencion": "usar",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      29,
+      28
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    }
+   ],
+   "todas": [
+    [
+     {
+      "destino": [
+       24,
+       24
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     },
+     {
+      "destino": null,
+      "intencion": "usar",
+      "esperar": 0
+     },
+     {
+      "destino": [
+       29,
+       28
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     }
+    ]
+   ],
+   "mitades": [
+    {
+     "vida": "-",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-ANTICIPACION",
+     "porque": "tu casilla esta fuera y seguira fuera; entras en la zona segura ahora"
+    },
+    {
+     "vida": "+",
+     "manos": "-",
+     "vinculo": "0",
+     "por": "F-DANO",
+     "porque": "estas a 73 y el anillo quema; el botin te cura 50 en 48 tics, lo haces mientras llega tu hermano"
+    },
+    {
+     "vida": "0",
+     "manos": "0",
+     "vinculo": "+",
+     "por": "S-SOLEDAD",
+     "porque": "lo ultimo que oiste es que estaba en 29,28 hace poco; lo ves o lo alcanzas"
+    }
+   ],
+   "final": "entras en el circulo curándote, luego buscas a tu hermano dentro de la zona segura",
+   "zona": null,
+   "mensaje": null,
+   "tick": 12839,
+   "snap": "<scratch>/P6_25_snaps/P623_t2_A7h_21308206_11_12839.pkl.gz",
+   "carp": "P623_t2_A7h_21308206",
+   "slot": 11,
+   "previo": [
+    {
+     "destino": [
+      24,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": null,
+     "intencion": "esperar",
+     "esperar": 24
+    },
+    {
+     "destino": [
+      29,
+      28
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    }
+   ],
+   "veredicto_previo": "area"
+  },
+  {
+   "id": "P623_t2_A7h_21308206_11_13727",
+   "modelo": "haiku",
+   "ms": 4568.5,
+   "usd": 0.005221,
+   "error": null,
+   "parsea": true,
+   "callar": false,
+   "n_formas_dichas": 1,
+   "n_formas": 1,
+   "intraducible": false,
+   "fallos_traductor": [],
+   "tramos": [
+    {
+     "destino": [
+      25,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      25,
+      24
+     ],
+     "intencion": "esperar",
+     "esperar": 1
+    },
+    {
+     "destino": [
+      24,
+      23
+     ],
+     "intencion": "coger",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      24,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    }
+   ],
+   "todas": [
+    [
+     {
+      "destino": [
+       25,
+       24
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     },
+     {
+      "destino": [
+       25,
+       24
+      ],
+      "intencion": "esperar",
+      "esperar": 1
+     },
+     {
+      "destino": [
+       24,
+       23
+      ],
+      "intencion": "coger",
+      "esperar": 0
+     },
+     {
+      "destino": [
+       24,
+       24
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     }
+    ]
+   ],
+   "mitades": [
+    {
+     "vida": "0",
+     "manos": "0",
+     "vinculo": "-",
+     "por": "F-4-ALCANCE",
+     "porque": "te acercas al rival de la lanza pero reduces distancia al hermano"
+    },
+    {
+     "vida": "-",
+     "manos": "+",
+     "vinculo": "0",
+     "por": "R-CARENCIA",
+     "porque": "sacas el arco de la mochila: ahora tienes arma a distancia"
+    },
+    {
+     "vida": "0",
+     "manos": "+",
+     "vinculo": "0",
+     "por": "R-CARENCIA",
+     "porque": "recoges los dardos que ves cerca; el envenenamiento te da alcance"
+    },
+    {
+     "vida": "0",
+     "manos": "0",
+     "vinculo": "+",
+     "por": "S-SOLEDAD",
+     "porque": "entras en el centro donde el anillo no quema y tu hermano puede llegar"
+    }
+   ],
+   "final": "llegas a (24,24) con arco y dardos; el hermano te ve ahi y se acerca; el envenenamiento te da distancia contra la lanza",
+   "zona": null,
+   "mensaje": null,
+   "tick": 13727,
+   "snap": "<scratch>/P6_25_snaps/P623_t2_A7h_21308206_11_13727.pkl.gz",
+   "carp": "P623_t2_A7h_21308206",
+   "slot": 11,
+   "previo": [
+    {
+     "destino": [
+      23,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      23,
+      24
+     ],
+     "intencion": "esperar",
+     "esperar": 10
+    },
+    {
+     "destino": [
+      24,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": null,
+     "intencion": "esperar",
+     "esperar": 39
+    }
+   ],
+   "veredicto_previo": "area"
+  },
+  {
+   "id": "P623_t2_A7h_21308206_11_13760",
+   "modelo": "haiku",
+   "ms": 4229.0,
+   "usd": 0.005073,
+   "error": null,
+   "parsea": true,
+   "callar": false,
+   "n_formas_dichas": 1,
+   "n_formas": 1,
+   "intraducible": false,
+   "fallos_traductor": [],
+   "tramos": [
+    {
+     "destino": null,
+     "intencion": "esperar",
+     "esperar": 1
+    },
+    {
+     "destino": [
+      24,
+      23
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      24,
+      23
+     ],
+     "intencion": "usar",
+     "esperar": 0
+    },
+    {
+     "destino": null,
+     "intencion": "esperar",
+     "esperar": 50
+    }
+   ],
+   "todas": [
+    [
+     {
+      "destino": null,
+      "intencion": "esperar",
+      "esperar": 1
+     },
+     {
+      "destino": [
+       24,
+       23
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     },
+     {
+      "destino": [
+       24,
+       23
+      ],
+      "intencion": "usar",
+      "esperar": 0
+     },
+     {
+      "destino": null,
+      "intencion": "esperar",
+      "esperar": 50
+     }
+    ]
+   ],
+   "mitades": [
+    {
+     "vida": "0",
+     "manos": "-",
+     "vinculo": "0",
+     "por": "R-CARENCIA",
+     "porque": "esperas a que se enfrie la espada, pero sigues sin arco en mano"
+    },
+    {
+     "vida": "-",
+     "manos": "0",
+     "vinculo": "-",
+     "por": "F-ANTICIPACION",
+     "porque": "entras en el radio 3 antes de que cierre, pero te quemas mientras andas"
+    },
+    {
+     "vida": "+",
+     "manos": "-",
+     "vinculo": "0",
+     "por": "R-CARENCIA",
+     "porque": "usas el arco para cambiar a distancia, pero primero necesitas cogerlo"
+    },
+    {
+     "vida": "-",
+     "manos": "0",
+     "vinculo": "+",
+     "por": "F-DANO",
+     "porque": "esperas dentro del circulo junto a tu hermano, pero el anillo quema"
+    }
+   ],
+   "final": "dentro del radio 3 en (24,23), con arco listo, viendo a tu hermano en (26,25) cuando se fija la fase",
+   "zona": null,
+   "mensaje": null,
+   "tick": 13760,
+   "snap": "<scratch>/P6_25_snaps/P623_t2_A7h_21308206_11_13760.pkl.gz",
+   "carp": "P623_t2_A7h_21308206",
+   "slot": 11,
+   "previo": [
+    {
+     "destino": null,
+     "intencion": "esperar",
+     "esperar": 1
+    },
+    {
+     "destino": [
+      24,
+      25
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": null,
+     "intencion": "esperar",
+     "esperar": 50
+    }
+   ],
+   "veredicto_previo": "area"
+  },
+  {
+   "id": "P623_t2_A7h_21308206_11_13760",
+   "modelo": "sonnet",
+   "ms": 6912.5,
+   "usd": 0.013356,
+   "error": null,
+   "parsea": true,
+   "callar": false,
+   "n_formas_dichas": 1,
+   "n_formas": 1,
+   "intraducible": false,
+   "fallos_traductor": [],
+   "tramos": [
+    {
+     "destino": [
+      26,
+      25
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      25,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      25,
+      24
+     ],
+     "intencion": "esperar",
+     "esperar": 50
+    }
+   ],
+   "todas": [
+    [
+     {
+      "destino": [
+       26,
+       25
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     },
+     {
+      "destino": [
+       25,
+       24
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     },
+     {
+      "destino": [
+       25,
+       24
+      ],
+      "intencion": "esperar",
+      "esperar": 50
+     }
+    ]
+   ],
+   "mitades": [
+    {
+     "vida": "0",
+     "manos": "0",
+     "vinculo": "+",
+     "por": "S-SOLEDAD",
+     "porque": "veo a mi hermano en (26,25), se apaga del todo"
+    },
+    {
+     "vida": "+",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-ANTICIPACION",
+     "porque": "entro en el radio 3, mi casilla dejara de arder"
+    },
+    {
+     "vida": "0",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-ANTICIPACION",
+     "porque": "me quedo dentro del radio 3 hasta el final de la fase"
+    }
+   ],
+   "final": "en (25,24), dentro del radio 3, junto a mi hermano que esta en (26,25)",
+   "zona": null,
+   "mensaje": null,
+   "tick": 13760,
+   "snap": "<scratch>/P6_25_snaps/P623_t2_A7h_21308206_11_13760.pkl.gz",
+   "carp": "P623_t2_A7h_21308206",
+   "slot": 11,
+   "previo": [
+    {
+     "destino": [
+      24,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      24,
+      24
+     ],
+     "intencion": "esperar",
+     "esperar": 50
+    }
+   ],
+   "veredicto_previo": "area"
+  },
+  {
+   "id": "P623_t2_A7h_21412935_11_13692",
+   "modelo": "haiku",
+   "ms": 3248.4,
+   "usd": 0.004443,
+   "error": null,
+   "parsea": true,
+   "callar": false,
+   "n_formas_dichas": 1,
+   "n_formas": 1,
+   "intraducible": false,
+   "fallos_traductor": [],
+   "tramos": [
+    {
+     "destino": [
+      24,
+      23
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      24,
+      23
+     ],
+     "intencion": "esperar",
+     "esperar": 50
+    },
+    {
+     "destino": [
+      24,
+      23
+     ],
+     "intencion": "esperar",
+     "esperar": 34
+    }
+   ],
+   "todas": [
+    [
+     {
+      "destino": [
+       24,
+       23
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     },
+     {
+      "destino": [
+       24,
+       23
+      ],
+      "intencion": "esperar",
+      "esperar": 50
+     },
+     {
+      "destino": [
+       24,
+       23
+      ],
+      "intencion": "esperar",
+      "esperar": 34
+     }
+    ]
+   ],
+   "mitades": [
+    {
+     "vida": "-",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-ANTICIPACION",
+     "porque": "sales del radio 4 hacia el radio 3 que viene"
+    },
+    {
+     "vida": "-",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-DANO",
+     "porque": "el anillo te quema mientras esperas fuera"
+    },
+    {
+     "vida": "0",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-ANTICIPACION",
+     "porque": "entras en el radio 3 antes de que termine el cierre"
+    }
+   ],
+   "final": "llegas a (24,23) dentro del circulo seguro y te quedas alli hasta que el radio baje a 3",
+   "zona": null,
+   "mensaje": null,
+   "tick": 13692,
+   "snap": "<scratch>/P6_25_snaps/P623_t2_A7h_21412935_11_13692.pkl.gz",
+   "carp": "P623_t2_A7h_21412935",
+   "slot": 11,
+   "previo": [
+    {
+     "destino": [
+      24,
+      23
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      24,
+      23
+     ],
+     "intencion": "esperar",
+     "esperar": 50
+    },
+    {
+     "destino": [
+      24,
+      23
+     ],
+     "intencion": "esperar",
+     "esperar": 34
+    }
+   ],
+   "veredicto_previo": "area"
+  },
+  {
+   "id": "P623_t2_A7h_21412935_11_13692",
+   "modelo": "sonnet",
+   "ms": 8048.9,
+   "usd": 0.014829,
+   "error": null,
+   "parsea": true,
+   "callar": false,
+   "n_formas_dichas": 1,
+   "n_formas": 1,
+   "intraducible": false,
+   "fallos_traductor": [],
+   "tramos": [
+    {
+     "destino": [
+      24,
+      26
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      24,
+      26
+     ],
+     "intencion": "esperar",
+     "esperar": 1
+    },
+    {
+     "destino": [
+      24,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      24,
+      24
+     ],
+     "intencion": "esperar",
+     "esperar": 50
+    }
+   ],
+   "todas": [
+    [
+     {
+      "destino": [
+       24,
+       26
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     },
+     {
+      "destino": [
+       24,
+       26
+      ],
+      "intencion": "esperar",
+      "esperar": 1
+     },
+     {
+      "destino": [
+       24,
+       24
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     },
+     {
+      "destino": [
+       24,
+       24
+      ],
+      "intencion": "esperar",
+      "esperar": 50
+     }
+    ]
+   ],
+   "mitades": [
+    {
+     "vida": "0",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-4-ALCANCE",
+     "porque": "acercarme al rival con lanza para golpearlo"
+    },
+    {
+     "vida": "+",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-4-ALCANCE",
+     "porque": "golpeo con espada al rival tocado y lo elimino"
+    },
+    {
+     "vida": "+",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-ANTICIPACION",
+     "porque": "entro en el centro exacto, radio 0, zona segura final"
+    },
+    {
+     "vida": "0",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-ANTICIPACION",
+     "porque": "me quedo en el centro hasta el cierre"
+    }
+   ],
+   "final": "elimino al rival tocado y me coloco en el centro exacto (24,24) donde no ardera nunca",
+   "zona": null,
+   "mensaje": null,
+   "tick": 13692,
+   "snap": "<scratch>/P6_25_snaps/P623_t2_A7h_21412935_11_13692.pkl.gz",
+   "carp": "P623_t2_A7h_21412935",
+   "slot": 11,
+   "previo": [
+    {
+     "destino": [
+      24,
+      22
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      24,
+      23
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      24,
+      23
+     ],
+     "intencion": "esperar",
+     "esperar": 50
+    },
+    {
+     "destino": [
+      24,
+      23
+     ],
+     "intencion": "esperar",
+     "esperar": 32
+    }
+   ],
+   "veredicto_previo": "area"
+  },
+  {
+   "id": "P623_t2_A7h_21412935_11_13791",
+   "modelo": "haiku",
+   "ms": 4699.5,
+   "usd": 0.004957,
+   "error": null,
+   "parsea": true,
+   "callar": false,
+   "n_formas_dichas": 1,
+   "n_formas": 1,
+   "intraducible": false,
+   "fallos_traductor": [],
+   "tramos": [
+    {
+     "destino": [
+      24,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": null,
+     "intencion": "esperar",
+     "esperar": 50
+    },
+    {
+     "destino": null,
+     "intencion": "esperar",
+     "esperar": 100
+    },
+    {
+     "destino": null,
+     "intencion": "esperar",
+     "esperar": 100
+    }
+   ],
+   "todas": [
+    [
+     {
+      "destino": [
+       24,
+       24
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     },
+     {
+      "destino": null,
+      "intencion": "esperar",
+      "esperar": 50
+     },
+     {
+      "destino": null,
+      "intencion": "esperar",
+      "esperar": 100
+     },
+     {
+      "destino": null,
+      "intencion": "esperar",
+      "esperar": 100
+     }
+    ]
+   ],
+   "mitades": [
+    {
+     "vida": "-",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-ANTICIPACION",
+     "porque": "te acercas al centro pero sigues fuera del radio 0; el anillo sigue quemando"
+    },
+    {
+     "vida": "-",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-DANO",
+     "porque": "quieto en el radio 0 final, el anillo te quema 24 por segundo"
+    },
+    {
+     "vida": "-",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-DANO",
+     "porque": "sigues quemandote fuera del circulo"
+    },
+    {
+     "vida": "-",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-DANO",
+     "porque": "el anillo te termina; tu hermano ya esta muerto"
+    }
+   ],
+   "final": "te acercas al centro pero no hay radio seguro donde entrar; el anillo cierra en radio 0 y solo queda arder",
+   "zona": null,
+   "mensaje": null,
+   "tick": 13791,
+   "snap": "<scratch>/P6_25_snaps/P623_t2_A7h_21412935_11_13791.pkl.gz",
+   "carp": "P623_t2_A7h_21412935",
+   "slot": 11,
+   "previo": [
+    {
+     "destino": [
+      24,
+      23
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      24,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": null,
+     "intencion": "esperar",
+     "esperar": 100
+    },
+    {
+     "destino": null,
+     "intencion": "esperar",
+     "esperar": 100
+    }
+   ],
+   "veredicto_previo": "area"
+  },
+  {
+   "id": "P623_t2_A7h_21412935_11_13791",
+   "modelo": "sonnet",
+   "ms": 7363.5,
+   "usd": 0.014712,
+   "error": null,
+   "parsea": true,
+   "callar": false,
+   "n_formas_dichas": 1,
+   "n_formas": 1,
+   "intraducible": false,
+   "fallos_traductor": [],
+   "tramos": [
+    {
+     "destino": [
+      24,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": null,
+     "intencion": "esperar",
+     "esperar": 50
+    },
+    {
+     "destino": null,
+     "intencion": "esperar",
+     "esperar": 50
+    },
+    {
+     "destino": null,
+     "intencion": "esperar",
+     "esperar": 50
+    }
+   ],
+   "todas": [
+    [
+     {
+      "destino": [
+       24,
+       24
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     },
+     {
+      "destino": null,
+      "intencion": "esperar",
+      "esperar": 50
+     },
+     {
+      "destino": null,
+      "intencion": "esperar",
+      "esperar": 50
+     },
+     {
+      "destino": null,
+      "intencion": "esperar",
+      "esperar": 50
+     }
+    ]
+   ],
+   "mitades": [
+    {
+     "vida": "0",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-ANTICIPACION",
+     "porque": "voy al centro exacto, radio 0, unica casilla que no ardera"
+    },
+    {
+     "vida": "0",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-ANTICIPACION",
+     "porque": "me quedo en el centro hasta el final de la fase"
+    },
+    {
+     "vida": "0",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-ANTICIPACION",
+     "porque": "sigo en el centro donde no arde"
+    },
+    {
+     "vida": "0",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-ANTICIPACION",
+     "porque": "permanezco en la unica casilla segura al final"
+    }
+   ],
+   "final": "llego al centro (24,24) y me quedo ahi: es la unica casilla que no ardera cuando el radio baje a 0",
+   "zona": null,
+   "mensaje": null,
+   "tick": 13791,
+   "snap": "<scratch>/P6_25_snaps/P623_t2_A7h_21412935_11_13791.pkl.gz",
+   "carp": "P623_t2_A7h_21412935",
+   "slot": 11,
+   "previo": [
+    {
+     "destino": [
+      23,
+      22
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      23,
+      23
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": null,
+     "intencion": "esperar",
+     "esperar": 50
+    },
+    {
+     "destino": null,
+     "intencion": "esperar",
+     "esperar": 50
+    }
+   ],
+   "veredicto_previo": "area"
+  },
+  {
+   "id": "P623_t2_A7h_21412935_11_13835",
+   "modelo": "haiku",
+   "ms": 4371.4,
+   "usd": 0.00508,
+   "error": null,
+   "parsea": true,
+   "callar": false,
+   "n_formas_dichas": 1,
+   "n_formas": 1,
+   "intraducible": false,
+   "fallos_traductor": [],
+   "tramos": [
+    {
+     "destino": null,
+     "intencion": "esperar",
+     "esperar": 1
+    },
+    {
+     "destino": [
+      23,
+      22
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      24,
+      23
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      24,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    }
+   ],
+   "todas": [
+    [
+     {
+      "destino": null,
+      "intencion": "esperar",
+      "esperar": 1
+     },
+     {
+      "destino": [
+       23,
+       22
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     },
+     {
+      "destino": [
+       24,
+       23
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     },
+     {
+      "destino": [
+       24,
+       24
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     }
+    ]
+   ],
+   "mitades": [
+    {
+     "vida": "0",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-DANO",
+     "porque": "espero a que se me pase el enfriamiento de piernas"
+    },
+    {
+     "vida": "-",
+     "manos": "0",
+     "vinculo": "-",
+     "por": "F-ANTICIPACION",
+     "porque": "me acerco al centro pero sigo fuera; pierdo vida por el anillo y no veo a mi hermano"
+    },
+    {
+     "vida": "-",
+     "manos": "0",
+     "vinculo": "-",
+     "por": "F-ANTICIPACION",
+     "porque": "sigo acercandome al radio seguro; el anillo me quema todavia"
+    },
+    {
+     "vida": "+",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-ANTICIPACION",
+     "porque": "entro en el centro, la casilla (24,24) queda siempre segura; dejo de quemar"
+    }
+   ],
+   "final": "llego al centro donde el anillo no me toca; paso detras de la fortaleza y el rival no me ve",
+   "zona": null,
+   "mensaje": null,
+   "tick": 13835,
+   "snap": "<scratch>/P6_25_snaps/P623_t2_A7h_21412935_11_13835.pkl.gz",
+   "carp": "P623_t2_A7h_21412935",
+   "slot": 11,
+   "previo": [
+    {
+     "destino": [
+      23,
+      23
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      23,
+      23
+     ],
+     "intencion": "usar",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      24,
+      23
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      24,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    }
+   ],
+   "veredicto_previo": "area"
+  },
+  {
+   "id": "P623_t2_A7h_21412935_11_13835",
+   "modelo": "sonnet",
+   "ms": 11654.2,
+   "usd": 0.02061,
+   "error": null,
+   "parsea": true,
+   "callar": false,
+   "n_formas_dichas": 2,
+   "n_formas": 1,
+   "intraducible": false,
+   "fallos_traductor": [
+    "casilla fuera del mapa o solida"
+   ],
+   "tramos": [
+    {
+     "destino": [
+      23,
+      22
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      24,
+      23
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      24,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": null,
+     "intencion": "esperar",
+     "esperar": 50
+    }
+   ],
+   "todas": [
+    [
+     {
+      "destino": [
+       23,
+       22
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     },
+     {
+      "destino": [
+       24,
+       23
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     },
+     {
+      "destino": [
+       24,
+       24
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     },
+     {
+      "destino": null,
+      "intencion": "esperar",
+      "esperar": 50
+     }
+    ]
+   ],
+   "mitades": [
+    {
+     "vida": "0",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-REENCUENTRO",
+     "porque": "me acerco al rival que me daño antes"
+    },
+    {
+     "vida": "0",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-ANTICIPACION",
+     "porque": "entro en la zona segura del centro"
+    },
+    {
+     "vida": "+",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-ANTICIPACION",
+     "porque": "llego al centro exacto antes del cierre"
+    },
+    {
+     "vida": "0",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-ANTICIPACION",
+     "porque": "me quedo en el centro hasta el final"
+    }
+   ],
+   "final": "entro al centro enfrentando al rival y aguanto alli hasta el cierre final",
+   "zona": null,
+   "mensaje": null,
+   "tick": 13835,
+   "snap": "<scratch>/P6_25_snaps/P623_t2_A7h_21412935_11_13835.pkl.gz",
+   "carp": "P623_t2_A7h_21412935",
+   "slot": 11,
+   "previo": [
+    {
+     "destino": [
+      24,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      24,
+      24
+     ],
+     "intencion": "esperar",
+     "esperar": 50
+    },
+    {
+     "destino": [
+      24,
+      24
+     ],
+     "intencion": "esperar",
+     "esperar": 50
+    },
+    {
+     "destino": [
+      24,
+      24
+     ],
+     "intencion": "esperar",
+     "esperar": 50
+    }
+   ],
+   "veredicto_previo": "area"
+  },
+  {
+   "id": "P623_t2_A7h_21517664_11_12273",
+   "modelo": "haiku",
+   "ms": 4638.9,
+   "usd": 0.005413,
+   "error": null,
+   "parsea": true,
+   "callar": false,
+   "n_formas_dichas": 1,
+   "n_formas": 1,
+   "intraducible": false,
+   "fallos_traductor": [],
+   "tramos": [
+    {
+     "destino": [
+      32,
+      26
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      32,
+      26
+     ],
+     "intencion": "coger",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      32,
+      26
+     ],
+     "intencion": "usar",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      28,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    }
+   ],
+   "todas": [
+    [
+     {
+      "destino": [
+       32,
+       26
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     },
+     {
+      "destino": [
+       32,
+       26
+      ],
+      "intencion": "coger",
+      "esperar": 0
+     },
+     {
+      "destino": [
+       32,
+       26
+      ],
+      "intencion": "usar",
+      "esperar": 0
+     },
+     {
+      "destino": [
+       28,
+       24
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     }
+    ]
+   ],
+   "mitades": [
+    {
+     "vida": "-",
+     "manos": "0",
+     "vinculo": "+",
+     "por": "F-ANTICIPACION",
+     "porque": "acercarse al hermano que esta tocado y en peligro; el anillo quema pero es menos que quedarse donde estas"
+    },
+    {
+     "vida": "0",
+     "manos": "+",
+     "vinculo": "0",
+     "por": "R-CARENCIA",
+     "porque": "hay un botiquin a dos casillas que necesitas para no morir quemado"
+    },
+    {
+     "vida": "+",
+     "manos": "-",
+     "vinculo": "0",
+     "por": "F-DANO",
+     "porque": "usas el botiquin que acabas de coger para subir de los 8 de vida"
+    },
+    {
+     "vida": "-",
+     "manos": "0",
+     "vinculo": "+",
+     "por": "F-ANTICIPACION",
+     "porque": "entras hacia el circulo seguro en linea recta hacia el centro donde no arde"
+    }
+   ],
+   "final": "llegas a casilla dentro del radio 5, te curas en el camino, y tu hermano te ve entrar en la zona segura con tiempo",
+   "zona": null,
+   "mensaje": null,
+   "tick": 12273,
+   "snap": "<scratch>/P6_25_snaps/P623_t2_A7h_21517664_11_12273.pkl.gz",
+   "carp": "P623_t2_A7h_21517664",
+   "slot": 11,
+   "previo": [
+    {
+     "destino": [
+      24,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      24,
+      24
+     ],
+     "intencion": "esperar",
+     "esperar": 50
+    },
+    {
+     "destino": [
+      24,
+      24
+     ],
+     "intencion": "usar",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      24,
+      24
+     ],
+     "intencion": "esperar",
+     "esperar": 313
+    }
+   ],
+   "veredicto_previo": "vida"
+  },
+  {
+   "id": "P623_t2_A7h_21622393_10_13731",
+   "modelo": "haiku",
+   "ms": 2799.9,
+   "usd": 0.004002,
+   "error": null,
+   "parsea": true,
+   "callar": false,
+   "n_formas_dichas": 1,
+   "n_formas": 1,
+   "intraducible": false,
+   "fallos_traductor": [],
+   "tramos": [
+    {
+     "destino": [
+      24,
+      25
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      24,
+      25
+     ],
+     "intencion": "esperar",
+     "esperar": 45
+    }
+   ],
+   "todas": [
+    [
+     {
+      "destino": [
+       24,
+       25
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     },
+     {
+      "destino": [
+       24,
+       25
+      ],
+      "intencion": "esperar",
+      "esperar": 45
+     }
+    ]
+   ],
+   "mitades": [
+    {
+     "vida": "-",
+     "manos": "0",
+     "vinculo": "+",
+     "por": "F-4-ALCANCE",
+     "porque": "te acercas al rival armado pero es hacia tu hermano, que esta a tiro"
+    },
+    {
+     "vida": "-",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-DANO",
+     "porque": "te quedas fuera del anillo quemandote pero junto a tu hermano"
+    }
+   ],
+   "final": "estas con tu hermano fuera del circulo seguro, pero juntos",
+   "zona": null,
+   "mensaje": null,
+   "tick": 13731,
+   "snap": "<scratch>/P6_25_snaps/P623_t2_A7h_21622393_10_13731.pkl.gz",
+   "carp": "P623_t2_A7h_21622393",
+   "slot": 10,
+   "previo": [
+    {
+     "destino": [
+      24,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      24,
+      24
+     ],
+     "intencion": "esperar",
+     "esperar": 50
+    }
+   ],
+   "veredicto_previo": "area"
+  },
+  {
+   "id": "P623_t2_A7h_21622393_10_13731",
+   "modelo": "sonnet",
+   "ms": 8001.7,
+   "usd": 0.014163,
+   "error": null,
+   "parsea": true,
+   "callar": false,
+   "n_formas_dichas": 1,
+   "n_formas": 1,
+   "intraducible": false,
+   "fallos_traductor": [],
+   "tramos": [
+    {
+     "destino": [
+      27,
+      23
+     ],
+     "intencion": "coger",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      25,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      25,
+      24
+     ],
+     "intencion": "esperar",
+     "esperar": 43
+    }
+   ],
+   "todas": [
+    [
+     {
+      "destino": [
+       27,
+       23
+      ],
+      "intencion": "coger",
+      "esperar": 0
+     },
+     {
+      "destino": [
+       25,
+       24
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     },
+     {
+      "destino": [
+       25,
+       24
+      ],
+      "intencion": "esperar",
+      "esperar": 43
+     }
+    ]
+   ],
+   "mitades": [
+    {
+     "vida": "0",
+     "manos": "+",
+     "vinculo": "0",
+     "por": "R-CARENCIA",
+     "porque": "cojo el arco que esta en mi casilla para llevar arma que dane"
+    },
+    {
+     "vida": "+",
+     "manos": "0",
+     "vinculo": "+",
+     "por": "F-ANTICIPACION",
+     "porque": "entro en zona segura radio 3 y me acerco a mi hermano visible"
+    },
+    {
+     "vida": "+",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-ANTICIPACION",
+     "porque": "me quedo dentro hasta el final de la fase"
+    }
+   ],
+   "final": "cojo el arco, entro en (25,24) que esta dentro del radio 3 junto a mi hermano visible en (26,25), y espero ahi el cierre",
+   "zona": null,
+   "mensaje": null,
+   "tick": 13731,
+   "snap": "<scratch>/P6_25_snaps/P623_t2_A7h_21622393_10_13731.pkl.gz",
+   "carp": "P623_t2_A7h_21622393",
+   "slot": 10,
+   "previo": [
+    {
+     "destino": [
+      27,
+      23
+     ],
+     "intencion": "coger",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      26,
+      25
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      26,
+      25
+     ],
+     "intencion": "esperar",
+     "esperar": 43
+    }
+   ],
+   "veredicto_previo": "area"
+  },
+  {
+   "id": "P623_t2_A7h_21622393_11_13707",
+   "modelo": "haiku",
+   "ms": 3411.1,
+   "usd": 0.004653,
+   "error": null,
+   "parsea": true,
+   "callar": false,
+   "n_formas_dichas": 1,
+   "n_formas": 1,
+   "intraducible": false,
+   "fallos_traductor": [],
+   "tramos": [
+    {
+     "destino": null,
+     "intencion": "esperar",
+     "esperar": 1
+    },
+    {
+     "destino": [
+      24,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      24,
+      24
+     ],
+     "intencion": "esperar",
+     "esperar": 50
+    }
+   ],
+   "todas": [
+    [
+     {
+      "destino": null,
+      "intencion": "esperar",
+      "esperar": 1
+     },
+     {
+      "destino": [
+       24,
+       24
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     },
+     {
+      "destino": [
+       24,
+       24
+      ],
+      "intencion": "esperar",
+      "esperar": 50
+     }
+    ]
+   ],
+   "mitades": [
+    {
+     "vida": "0",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-DANO",
+     "porque": "esperas a que las piernas se desbloqueen sin moverte"
+    },
+    {
+     "vida": "-",
+     "manos": "0",
+     "vinculo": "+",
+     "por": "F-ANTICIPACION",
+     "porque": "entras en la zona segura del radio 3 antes de que cierre; te acercas a tu hermano que esta en el centro"
+    },
+    {
+     "vida": "0",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-ANTICIPACION",
+     "porque": "te quedas dentro del circulo seguro esperando el proximo cierre sin salir"
+    }
+   ],
+   "final": "entras en el centro con tu hermano y aguardas juntos el cierre final",
+   "zona": null,
+   "mensaje": null,
+   "tick": 13707,
+   "snap": "<scratch>/P6_25_snaps/P623_t2_A7h_21622393_11_13707.pkl.gz",
+   "carp": "P623_t2_A7h_21622393",
+   "slot": 11,
+   "previo": [
+    {
+     "destino": null,
+     "intencion": "esperar",
+     "esperar": 1
+    },
+    {
+     "destino": [
+      24,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      24,
+      24
+     ],
+     "intencion": "esperar",
+     "esperar": 50
+    }
+   ],
+   "veredicto_previo": "area"
+  },
+  {
+   "id": "P623_t2_A7h_21622393_11_13707",
+   "modelo": "sonnet",
+   "ms": 8649.1,
+   "usd": 0.016068,
+   "error": null,
+   "parsea": true,
+   "callar": false,
+   "n_formas_dichas": 2,
+   "n_formas": 2,
+   "intraducible": false,
+   "fallos_traductor": [],
+   "tramos": [
+    {
+     "destino": [
+      26,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      26,
+      24
+     ],
+     "intencion": "esperar",
+     "esperar": 50
+    }
+   ],
+   "todas": [
+    [
+     {
+      "destino": [
+       26,
+       24
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     },
+     {
+      "destino": [
+       26,
+       24
+      ],
+      "intencion": "esperar",
+      "esperar": 50
+     }
+    ],
+    [
+     {
+      "destino": [
+       25,
+       24
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     },
+     {
+      "destino": [
+       25,
+       24
+      ],
+      "intencion": "esperar",
+      "esperar": 50
+     }
+    ]
+   ],
+   "mitades": [
+    {
+     "vida": "0",
+     "manos": "0",
+     "vinculo": "+",
+     "por": "S-SOLEDAD",
+     "porque": "veo a mi hermano en (26,25), me acerco a el"
+    },
+    {
+     "vida": "+",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-ANTICIPACION",
+     "porque": "quedo dentro del radio 3, no me quema el anillo"
+    }
+   ],
+   "final": "me planto en (26,24) junto a mi hermano, dentro de zona segura radio 3",
+   "zona": null,
+   "mensaje": null,
+   "tick": 13707,
+   "snap": "<scratch>/P6_25_snaps/P623_t2_A7h_21622393_11_13707.pkl.gz",
+   "carp": "P623_t2_A7h_21622393",
+   "slot": 11,
+   "previo": [
+    {
+     "destino": [
+      27,
+      23
+     ],
+     "intencion": "coger",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      26,
+      25
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      26,
+      25
+     ],
+     "intencion": "esperar",
+     "esperar": 50
+    }
+   ],
+   "veredicto_previo": "area"
+  },
+  {
+   "id": "P623_t2_A7h_21622393_11_13851",
+   "modelo": "haiku",
+   "ms": 4644.5,
+   "usd": 0.004947,
+   "error": null,
+   "parsea": true,
+   "callar": false,
+   "n_formas_dichas": 1,
+   "n_formas": 1,
+   "intraducible": false,
+   "fallos_traductor": [],
+   "tramos": [
+    {
+     "destino": [
+      24,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": null,
+     "intencion": "esperar",
+     "esperar": 50
+    },
+    {
+     "destino": null,
+     "intencion": "esperar",
+     "esperar": 50
+    },
+    {
+     "destino": null,
+     "intencion": "esperar",
+     "esperar": 50
+    }
+   ],
+   "todas": [
+    [
+     {
+      "destino": [
+       24,
+       24
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     },
+     {
+      "destino": null,
+      "intencion": "esperar",
+      "esperar": 50
+     },
+     {
+      "destino": null,
+      "intencion": "esperar",
+      "esperar": 50
+     },
+     {
+      "destino": null,
+      "intencion": "esperar",
+      "esperar": 50
+     }
+    ]
+   ],
+   "mitades": [
+    {
+     "vida": "-",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-DANO",
+     "porque": "el anillo te quema mientras avanzas hacia el centro"
+    },
+    {
+     "vida": "-",
+     "manos": "0",
+     "vinculo": "+",
+     "por": "S-SOLEDAD",
+     "porque": "tu hermano esta a una casilla y dejara de estar lejos"
+    },
+    {
+     "vida": "-",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-DANO",
+     "porque": "sigues quemandote fuera mientras esperas"
+    },
+    {
+     "vida": "-",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-DANO",
+     "porque": "el anillo sigue cerrando y tu sigues fuera"
+    }
+   ],
+   "final": "en el centro con tu hermano cuando el circulo sea radio 0 y no haya escapatoria",
+   "zona": null,
+   "mensaje": null,
+   "tick": 13851,
+   "snap": "<scratch>/P6_25_snaps/P623_t2_A7h_21622393_11_13851.pkl.gz",
+   "carp": "P623_t2_A7h_21622393",
+   "slot": 11,
+   "previo": [
+    {
+     "destino": [
+      24,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": null,
+     "intencion": "esperar",
+     "esperar": 50
+    },
+    {
+     "destino": null,
+     "intencion": "esperar",
+     "esperar": 50
+    },
+    {
+     "destino": null,
+     "intencion": "esperar",
+     "esperar": 50
+    }
+   ],
+   "veredicto_previo": "area"
+  },
+  {
+   "id": "P623_t2_A7h_21622393_11_13851",
+   "modelo": "sonnet",
+   "ms": 7563.8,
+   "usd": 0.015102,
+   "error": null,
+   "parsea": true,
+   "callar": false,
+   "n_formas_dichas": 1,
+   "n_formas": 1,
+   "intraducible": false,
+   "fallos_traductor": [],
+   "tramos": [
+    {
+     "destino": [
+      24,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      24,
+      24
+     ],
+     "intencion": "esperar",
+     "esperar": 50
+    },
+    {
+     "destino": [
+      24,
+      24
+     ],
+     "intencion": "esperar",
+     "esperar": 50
+    },
+    {
+     "destino": [
+      24,
+      24
+     ],
+     "intencion": "esperar",
+     "esperar": 50
+    }
+   ],
+   "todas": [
+    [
+     {
+      "destino": [
+       24,
+       24
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     },
+     {
+      "destino": [
+       24,
+       24
+      ],
+      "intencion": "esperar",
+      "esperar": 50
+     },
+     {
+      "destino": [
+       24,
+       24
+      ],
+      "intencion": "esperar",
+      "esperar": 50
+     },
+     {
+      "destino": [
+       24,
+       24
+      ],
+      "intencion": "esperar",
+      "esperar": 50
+     }
+    ]
+   ],
+   "mitades": [
+    {
+     "vida": "0",
+     "manos": "0",
+     "vinculo": "+",
+     "por": "S-SOLEDAD",
+     "porque": "me acerco al centro donde esta mi hermano"
+    },
+    {
+     "vida": "+",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-ANTICIPACION",
+     "porque": "quedo dentro de la zona segura hasta el final de la fase"
+    },
+    {
+     "vida": "+",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-ANTICIPACION",
+     "porque": "sigo dentro mientras el circulo termina de cerrarse"
+    },
+    {
+     "vida": "+",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-ANTICIPACION",
+     "porque": "me quedo en el centro hasta el siguiente aviso"
+    }
+   ],
+   "final": "en (24,24) dentro del centro, con mi hermano cerca en (26,25)",
+   "zona": null,
+   "mensaje": null,
+   "tick": 13851,
+   "snap": "<scratch>/P6_25_snaps/P623_t2_A7h_21622393_11_13851.pkl.gz",
+   "carp": "P623_t2_A7h_21622393",
+   "slot": 11,
+   "previo": [
+    {
+     "destino": [
+      26,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      26,
+      25
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      26,
+      25
+     ],
+     "intencion": "esperar",
+     "esperar": 50
+    },
+    {
+     "destino": [
+      26,
+      25
+     ],
+     "intencion": "esperar",
+     "esperar": 50
+    }
+   ],
+   "veredicto_previo": "area"
+  },
+  {
+   "id": "P623_t2_A7h_21727122_10_12441",
+   "modelo": "haiku",
+   "ms": 5127.2,
+   "usd": 0.005551,
+   "error": null,
+   "parsea": true,
+   "callar": false,
+   "n_formas_dichas": 2,
+   "n_formas": 1,
+   "intraducible": false,
+   "fallos_traductor": [
+    "casilla fuera del mapa o solida"
+   ],
+   "tramos": [
+    {
+     "destino": [
+      24,
+      21
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      24,
+      21
+     ],
+     "intencion": "esperar",
+     "esperar": 50
+    }
+   ],
+   "todas": [
+    [
+     {
+      "destino": [
+       24,
+       21
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     },
+     {
+      "destino": [
+       24,
+       21
+      ],
+      "intencion": "esperar",
+      "esperar": 50
+     }
+    ]
+   ],
+   "mitades": [
+    {
+     "vida": "0",
+     "manos": "0",
+     "vinculo": "+",
+     "por": "S-SOLEDAD",
+     "porque": "acercarme a mi hermano que esta a 4.2 casillas"
+    },
+    {
+     "vida": "-",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-DANO",
+     "porque": "el anillo me quema mientras espero fuera del circulo"
+    }
+   ],
+   "final": "dentro del circulo en (24,21), esperando a mi hermano que debe llegar desde (25,19)",
+   "zona": null,
+   "mensaje": null,
+   "tick": 12441,
+   "snap": "<scratch>/P6_25_snaps/P623_t2_A7h_21727122_10_12441.pkl.gz",
+   "carp": "P623_t2_A7h_21727122",
+   "slot": 10,
+   "previo": [
+    {
+     "destino": [
+      26,
+      21
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      26,
+      21
+     ],
+     "intencion": "esperar",
+     "esperar": 10
+    }
+   ],
+   "veredicto_previo": "area"
+  },
+  {
+   "id": "P623_t2_A7h_21727122_10_12681",
+   "modelo": "haiku",
+   "ms": 4264.0,
+   "usd": 0.005037,
+   "error": null,
+   "parsea": true,
+   "callar": false,
+   "n_formas_dichas": 1,
+   "n_formas": 1,
+   "intraducible": false,
+   "fallos_traductor": [],
+   "tramos": [
+    {
+     "destino": [
+      24,
+      22
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      24,
+      22
+     ],
+     "intencion": "coger",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      24,
+      22
+     ],
+     "intencion": "usar",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      24,
+      22
+     ],
+     "intencion": "esperar",
+     "esperar": 50
+    }
+   ],
+   "todas": [
+    [
+     {
+      "destino": [
+       24,
+       22
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     },
+     {
+      "destino": [
+       24,
+       22
+      ],
+      "intencion": "coger",
+      "esperar": 0
+     },
+     {
+      "destino": [
+       24,
+       22
+      ],
+      "intencion": "usar",
+      "esperar": 0
+     },
+     {
+      "destino": [
+       24,
+       22
+      ],
+      "intencion": "esperar",
+      "esperar": 50
+     }
+    ]
+   ],
+   "mitades": [
+    {
+     "vida": "-",
+     "manos": "0",
+     "vinculo": "+",
+     "por": "F-ANTICIPACION",
+     "porque": "entras en la zona segura antes de que cierre"
+    },
+    {
+     "vida": "+",
+     "manos": "+",
+     "vinculo": "0",
+     "por": "R-ACOPIO",
+     "porque": "recoges un botiquin del suelo"
+    },
+    {
+     "vida": "+",
+     "manos": "-",
+     "vinculo": "0",
+     "por": "F-DANO",
+     "porque": "usas el botiquin para curarte los 83 que te quedan"
+    },
+    {
+     "vida": "0",
+     "manos": "0",
+     "vinculo": "+",
+     "por": "S-SOLEDAD",
+     "porque": "esperas en casilla segura a que tu hermano llegue o se recupere"
+    }
+   ],
+   "final": "quedas curado en zona segura aguardando a tu hermano sin exponerte a encuentro hostil",
+   "zona": null,
+   "mensaje": null,
+   "tick": 12681,
+   "snap": "<scratch>/P6_25_snaps/P623_t2_A7h_21727122_10_12681.pkl.gz",
+   "carp": "P623_t2_A7h_21727122",
+   "slot": 10,
+   "previo": [
+    {
+     "destino": [
+      24,
+      22
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      24,
+      22
+     ],
+     "intencion": "esperar",
+     "esperar": 50
+    },
+    {
+     "destino": [
+      24,
+      22
+     ],
+     "intencion": "esperar",
+     "esperar": 50
+    }
+   ],
+   "veredicto_previo": "area"
+  },
+  {
+   "id": "P623_t2_A7h_21727122_10_13818",
+   "modelo": "haiku",
+   "ms": 3926.4,
+   "usd": 0.005344,
+   "error": null,
+   "parsea": true,
+   "callar": false,
+   "n_formas_dichas": 1,
+   "n_formas": 1,
+   "intraducible": false,
+   "fallos_traductor": [],
+   "tramos": [
+    {
+     "destino": [
+      24,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      24,
+      24
+     ],
+     "intencion": "esperar",
+     "esperar": 50
+    },
+    {
+     "destino": [
+      24,
+      24
+     ],
+     "intencion": "esperar",
+     "esperar": 50
+    },
+    {
+     "destino": [
+      24,
+      24
+     ],
+     "intencion": "esperar",
+     "esperar": 100
+    }
+   ],
+   "todas": [
+    [
+     {
+      "destino": [
+       24,
+       24
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     },
+     {
+      "destino": [
+       24,
+       24
+      ],
+      "intencion": "esperar",
+      "esperar": 50
+     },
+     {
+      "destino": [
+       24,
+       24
+      ],
+      "intencion": "esperar",
+      "esperar": 50
+     },
+     {
+      "destino": [
+       24,
+       24
+      ],
+      "intencion": "esperar",
+      "esperar": 100
+     }
+    ]
+   ],
+   "mitades": [
+    {
+     "vida": "-",
+     "manos": "0",
+     "vinculo": "+",
+     "por": "F-ANTICIPACION",
+     "porque": "entras en la zona segura del radio 0 donde quedara el anillo"
+    },
+    {
+     "vida": "0",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "S-SOLEDAD",
+     "porque": "esperas junto a tu hermano en el centro mientras se cierra el anillo"
+    },
+    {
+     "vida": "0",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "S-SOLEDAD",
+     "porque": "sigues esperando en el centro seguro"
+    },
+    {
+     "vida": "0",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "S-SOLEDAD",
+     "porque": "esperas hasta que se cierre del todo el anillo en el tic 14916"
+    }
+   ],
+   "final": "los dos en el centro (24,24), radio 0, fuera del alcance de los rivales en la periferia",
+   "zona": null,
+   "mensaje": null,
+   "tick": 13818,
+   "snap": "<scratch>/P6_25_snaps/P623_t2_A7h_21727122_10_13818.pkl.gz",
+   "carp": "P623_t2_A7h_21727122",
+   "slot": 10,
+   "previo": [
+    {
+     "destino": [
+      24,
+      23
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      24,
+      23
+     ],
+     "intencion": "esperar",
+     "esperar": 50
+    }
+   ],
+   "veredicto_previo": "area"
+  },
+  {
+   "id": "P623_t2_A7h_21727122_10_13818",
+   "modelo": "sonnet",
+   "ms": 5924.9,
+   "usd": 0.014127,
+   "error": null,
+   "parsea": true,
+   "callar": false,
+   "n_formas_dichas": 1,
+   "n_formas": 1,
+   "intraducible": false,
+   "fallos_traductor": [],
+   "tramos": [
+    {
+     "destino": [
+      24,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": null,
+     "intencion": "esperar",
+     "esperar": 50
+    },
+    {
+     "destino": null,
+     "intencion": "esperar",
+     "esperar": 50
+    }
+   ],
+   "todas": [
+    [
+     {
+      "destino": [
+       24,
+       24
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     },
+     {
+      "destino": null,
+      "intencion": "esperar",
+      "esperar": 50
+     },
+     {
+      "destino": null,
+      "intencion": "esperar",
+      "esperar": 50
+     }
+    ]
+   ],
+   "mitades": [
+    {
+     "vida": "-",
+     "manos": "0",
+     "vinculo": "+",
+     "por": "F-DANO",
+     "porque": "el anillo me quema fuera del centro"
+    },
+    {
+     "vida": "0",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-ANTICIPACION",
+     "porque": "estoy en el centro y la fase no cierra todavia"
+    },
+    {
+     "vida": "0",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-ANTICIPACION",
+     "porque": "sigo dentro hasta el final de la fase"
+    }
+   ],
+   "final": "en el centro con mi hermano, zona segura hasta que cierre",
+   "zona": null,
+   "mensaje": null,
+   "tick": 13818,
+   "snap": "<scratch>/P6_25_snaps/P623_t2_A7h_21727122_10_13818.pkl.gz",
+   "carp": "P623_t2_A7h_21727122",
+   "slot": 10,
+   "previo": [
+    {
+     "destino": [
+      23,
+      22
+     ],
+     "intencion": "coger",
+     "esperar": 0
+    },
+    {
+     "destino": null,
+     "intencion": "usar",
+     "esperar": 0
+    },
+    {
+     "destino": null,
+     "intencion": "esperar",
+     "esperar": 48
+    },
+    {
+     "destino": [
+      24,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    }
+   ],
+   "veredicto_previo": "area"
+  },
+  {
+   "id": "P623_t2_A7h_21831851_10_13744",
+   "modelo": "haiku",
+   "ms": 3572.5,
+   "usd": 0.00465,
+   "error": null,
+   "parsea": true,
+   "callar": false,
+   "n_formas_dichas": 1,
+   "n_formas": 1,
+   "intraducible": false,
+   "fallos_traductor": [],
+   "tramos": [
+    {
+     "destino": [
+      27,
+      25
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      26,
+      25
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      26,
+      25
+     ],
+     "intencion": "esperar",
+     "esperar": 32
+    }
+   ],
+   "todas": [
+    [
+     {
+      "destino": [
+       27,
+       25
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     },
+     {
+      "destino": [
+       26,
+       25
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     },
+     {
+      "destino": [
+       26,
+       25
+      ],
+      "intencion": "esperar",
+      "esperar": 32
+     }
+    ]
+   ],
+   "mitades": [
+    {
+     "vida": "-",
+     "manos": "0",
+     "vinculo": "+",
+     "por": "F-ANTICIPACION",
+     "porque": "sales del radio 4 hacia el radio 3, pero acercandote a tu hermano en la zona segura"
+    },
+    {
+     "vida": "0",
+     "manos": "0",
+     "vinculo": "+",
+     "por": "S-SOLEDAD",
+     "porque": "llegas donde tu hermano esta"
+    },
+    {
+     "vida": "-",
+     "manos": "-",
+     "vinculo": "0",
+     "por": "F-DANO",
+     "porque": "el anillo te quema mientras esperas fuera del radio 3, pero tu hermano esta contigo"
+    }
+   ],
+   "final": "juntos en (26,25) fuera del fuego, esperando a que baje el radio",
+   "zona": null,
+   "mensaje": null,
+   "tick": 13744,
+   "snap": "<scratch>/P6_25_snaps/P623_t2_A7h_21831851_10_13744.pkl.gz",
+   "carp": "P623_t2_A7h_21831851",
+   "slot": 10,
+   "previo": [
+    {
+     "destino": [
+      25,
+      25
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      24,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      24,
+      24
+     ],
+     "intencion": "esperar",
+     "esperar": 32
+    }
+   ],
+   "veredicto_previo": "area"
+  },
+  {
+   "id": "P623_t2_A7h_21831851_10_13744",
+   "modelo": "sonnet",
+   "ms": 7780.4,
+   "usd": 0.014895,
+   "error": null,
+   "parsea": true,
+   "callar": false,
+   "n_formas_dichas": 1,
+   "n_formas": 1,
+   "intraducible": false,
+   "fallos_traductor": [],
+   "tramos": [
+    {
+     "destino": [
+      26,
+      25
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      25,
+      25
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      25,
+      25
+     ],
+     "intencion": "coger",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      25,
+      25
+     ],
+     "intencion": "esperar",
+     "esperar": 50
+    }
+   ],
+   "todas": [
+    [
+     {
+      "destino": [
+       26,
+       25
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     },
+     {
+      "destino": [
+       25,
+       25
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     },
+     {
+      "destino": [
+       25,
+       25
+      ],
+      "intencion": "coger",
+      "esperar": 0
+     },
+     {
+      "destino": [
+       25,
+       25
+      ],
+      "intencion": "esperar",
+      "esperar": 50
+     }
+    ]
+   ],
+   "mitades": [
+    {
+     "vida": "-",
+     "manos": "0",
+     "vinculo": "+",
+     "por": "S-SOLEDAD",
+     "porque": "llego junto a mi hermano y lo veo"
+    },
+    {
+     "vida": "-",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-DANO",
+     "porque": "el anillo me esta quemando mientras me muevo"
+    },
+    {
+     "vida": "0",
+     "manos": "+",
+     "vinculo": "0",
+     "por": "R-ACOPIO",
+     "porque": "recojo el botiquin del suelo"
+    },
+    {
+     "vida": "+",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-ANTICIPACION",
+     "porque": "ya estoy dentro de la zona segura radio 3"
+    }
+   ],
+   "final": "con botiquin, junto a hermano, dentro hasta fin de fase",
+   "zona": null,
+   "mensaje": null,
+   "tick": 13744,
+   "snap": "<scratch>/P6_25_snaps/P623_t2_A7h_21831851_10_13744.pkl.gz",
+   "carp": "P623_t2_A7h_21831851",
+   "slot": 10,
+   "previo": [
+    {
+     "destino": [
+      25,
+      25
+     ],
+     "intencion": "coger",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      25,
+      24
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      25,
+      24
+     ],
+     "intencion": "esperar",
+     "esperar": 30
+    }
+   ],
+   "veredicto_previo": "area"
+  },
+  {
+   "id": "P623_t2_A7h_21936580_10_12736",
+   "modelo": "sonnet",
+   "ms": 7523.8,
+   "usd": 0.014502,
+   "error": null,
+   "parsea": true,
+   "callar": false,
+   "n_formas_dichas": 1,
+   "n_formas": 1,
+   "intraducible": false,
+   "fallos_traductor": [],
+   "tramos": [
+    {
+     "destino": [
+      24,
+      15
+     ],
+     "intencion": "coger",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      24,
+      16
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      24,
+      16
+     ],
+     "intencion": "usar",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      24,
+      14
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    }
+   ],
+   "todas": [
+    [
+     {
+      "destino": [
+       24,
+       15
+      ],
+      "intencion": "coger",
+      "esperar": 0
+     },
+     {
+      "destino": [
+       24,
+       16
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     },
+     {
+      "destino": [
+       24,
+       16
+      ],
+      "intencion": "usar",
+      "esperar": 0
+     },
+     {
+      "destino": [
+       24,
+       14
+      ],
+      "intencion": "ir",
+      "esperar": 0
+     }
+    ]
+   ],
+   "mitades": [
+    {
+     "vida": "0",
+     "manos": "+",
+     "vinculo": "0",
+     "por": "R-ACOPIO",
+     "porque": "cojo el botiquin que esta en mi casilla"
+    },
+    {
+     "vida": "+",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-ANTICIPACION",
+     "porque": "entro en la zona segura, radio 5"
+    },
+    {
+     "vida": "+",
+     "manos": "0",
+     "vinculo": "0",
+     "por": "F-DANO",
+     "porque": "me curo, subo de 67 a entero"
+    },
+    {
+     "vida": "0",
+     "manos": "0",
+     "vinculo": "+",
+     "por": "S-HERIDO",
+     "porque": "me acerco a mi hermano que esta a 50 de vida"
+    }
+   ],
+   "final": "curado y dentro de la zona segura, junto a mi hermano en (24,13)",
+   "zona": null,
+   "mensaje": null,
+   "tick": 12736,
+   "snap": "<scratch>/P6_25_snaps/P623_t2_A7h_21936580_10_12736.pkl.gz",
+   "carp": "P623_t2_A7h_21936580",
+   "slot": 10,
+   "previo": [
+    {
+     "destino": [
+      24,
+      15
+     ],
+     "intencion": "coger",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      24,
+      15
+     ],
+     "intencion": "usar",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      24,
+      16
+     ],
+     "intencion": "ir",
+     "esperar": 0
+    },
+    {
+     "destino": [
+      24,
+      16
+     ],
+     "intencion": "coger",
+     "esperar": 0
+    }
+   ],
+   "veredicto_previo": "area"
+  }
+ ]
+}

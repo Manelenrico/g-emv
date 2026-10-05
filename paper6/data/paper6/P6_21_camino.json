@@ -1,0 +1,6710 @@
+{
+ "nota": "P6-21 §4. INSTRUMENTO DE MEDIDA. Proyeccion congelada (proyeccion.proyectar_rapido) aplicada desde fuera al estado real al nacer cada plan de la fase 5 de A6.",
+ "planes": [
+  {
+   "sem": 20260916,
+   "slot": 10,
+   "id": 2,
+   "nace": 12530,
+   "aceptada": 12555,
+   "pos0": [
+    29,
+    26
+   ],
+   "d0": 5.39,
+   "cal0": 5.59,
+   "obs0": 6,
+   "arde_al_nacer_segun_proyeccion": false,
+   "quema_al_nacer_segun_juego": false,
+   "hp0": 79.0,
+   "mri0": 0,
+   "destino": [
+    29,
+    24
+   ],
+   "tics": [
+    12552,
+    12602,
+    12652,
+    12952
+   ],
+   "curva": [
+    {
+     "tic": 12552,
+     "vida": 79.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      29,
+      24
+     ],
+     "vida_real": 79.0,
+     "fuego_real_siguiendo": 0.0,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      29,
+      26
+     ]
+    },
+    {
+     "tic": 12602,
+     "vida": 79.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      29,
+      24
+     ],
+     "vida_real": 79.0,
+     "fuego_real_siguiendo": 0.0,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      29,
+      24
+     ]
+    },
+    {
+     "tic": 12652,
+     "vida": 79.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      29,
+      24
+     ],
+     "vida_real": 79.0,
+     "fuego_real_siguiendo": 0.0,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      27,
+      22
+     ]
+    },
+    {
+     "tic": 12952,
+     "vida": 79.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      29,
+      24
+     ],
+     "vida_real": 90.0,
+     "fuego_real_siguiendo": 0.0,
+     "fuego_real_desviado": 13.12,
+     "pos_real": [
+      25,
+      22
+     ]
+    }
+   ],
+   "caida": "vida real",
+   "X": 66.0,
+   "Y": 79.0,
+   "fuego_real_siguiendo_hasta_fin": 0.0,
+   "fuego_real_desviado_hasta_fin": 13.12,
+   "fuego_imaginado_total": 0.0
+  },
+  {
+   "sem": 20260916,
+   "slot": 10,
+   "id": 4,
+   "nace": 12797,
+   "aceptada": 12820,
+   "pos0": [
+    30,
+    26
+   ],
+   "d0": 6.32,
+   "cal0": 5.0,
+   "obs0": 5,
+   "arde_al_nacer_segun_proyeccion": true,
+   "quema_al_nacer_segun_juego": true,
+   "hp0": 46.0,
+   "mri0": 0,
+   "destino": [
+    28,
+    24
+   ],
+   "tics": [
+    12819,
+    12869,
+    12919,
+    12996
+   ],
+   "curva": [
+    {
+     "tic": 12819,
+     "vida": 42.67,
+     "fuego_imaginado": 3.33,
+     "pos": [
+      28,
+      24
+     ],
+     "vida_real": 40.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      29,
+      25
+     ]
+    },
+    {
+     "tic": 12869,
+     "vida": 42.67,
+     "fuego_imaginado": 3.33,
+     "pos": [
+      28,
+      24
+     ],
+     "vida_real": 40.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      27,
+      24
+     ]
+    },
+    {
+     "tic": 12919,
+     "vida": 42.67,
+     "fuego_imaginado": 3.33,
+     "pos": [
+      28,
+      24
+     ],
+     "vida_real": 90.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      25,
+      22
+     ]
+    },
+    {
+     "tic": 12996,
+     "vida": 42.67,
+     "fuego_imaginado": 3.33,
+     "pos": [
+      28,
+      24
+     ],
+     "vida_real": 90.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      27,
+      22
+     ]
+    }
+   ],
+   "caida": "reevaluacion",
+   "X": null,
+   "Y": null,
+   "fuego_real_siguiendo_hasta_fin": 6.56,
+   "fuego_real_desviado_hasta_fin": 0.0,
+   "fuego_imaginado_total": 3.33
+  },
+  {
+   "sem": 20260916,
+   "slot": 11,
+   "id": 1,
+   "nace": 12405,
+   "aceptada": 12442,
+   "pos0": [
+    30,
+    25
+   ],
+   "d0": 6.08,
+   "cal0": 6.28,
+   "obs0": 7,
+   "arde_al_nacer_segun_proyeccion": false,
+   "quema_al_nacer_segun_juego": false,
+   "hp0": 100.0,
+   "mri0": 0,
+   "destino": [
+    29,
+    24
+   ],
+   "tics": [
+    12416,
+    12466,
+    12516,
+    12816
+   ],
+   "curva": [
+    {
+     "tic": 12416,
+     "vida": 100.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      29,
+      24
+     ],
+     "vida_real": 100.0,
+     "fuego_real_siguiendo": 0.0,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      30,
+      24
+     ]
+    },
+    {
+     "tic": 12466,
+     "vida": 100.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      29,
+      24
+     ],
+     "vida_real": 100.0,
+     "fuego_real_siguiendo": 0.0,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      30,
+      24
+     ]
+    },
+    {
+     "tic": 12516,
+     "vida": 100.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      29,
+      24
+     ],
+     "vida_real": 100.0,
+     "fuego_real_siguiendo": 0.0,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      29,
+      24
+     ]
+    },
+    {
+     "tic": 12816,
+     "vida": 100.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      29,
+      24
+     ],
+     "vida_real": 73.0,
+     "fuego_real_siguiendo": 0.0,
+     "fuego_real_desviado": 13.12,
+     "pos_real": [
+      30,
+      24
+     ]
+    }
+   ],
+   "caida": "vida real",
+   "X": 86.0,
+   "Y": 100.0,
+   "fuego_real_siguiendo_hasta_fin": 0.0,
+   "fuego_real_desviado_hasta_fin": 13.12,
+   "fuego_imaginado_total": 0.0
+  },
+  {
+   "sem": 20260916,
+   "slot": 11,
+   "id": 4,
+   "nace": 12837,
+   "aceptada": 12856,
+   "pos0": [
+    29,
+    25
+   ],
+   "d0": 5.1,
+   "cal0": 5.0,
+   "obs0": 5,
+   "arde_al_nacer_segun_proyeccion": true,
+   "quema_al_nacer_segun_juego": true,
+   "hp0": 67.0,
+   "mri0": 0,
+   "destino": [
+    28,
+    24
+   ],
+   "tics": [
+    12848,
+    12898,
+    12948,
+    12996
+   ],
+   "curva": [
+    {
+     "tic": 12848,
+     "vida": 67.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      28,
+      24
+     ],
+     "vida_real": 60.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      30,
+      24
+     ]
+    },
+    {
+     "tic": 12898,
+     "vida": 67.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      28,
+      24
+     ],
+     "vida_real": 60.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      27,
+      23
+     ]
+    },
+    {
+     "tic": 12948,
+     "vida": 67.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      28,
+      24
+     ],
+     "vida_real": 60.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      26,
+      22
+     ]
+    },
+    {
+     "tic": 12996,
+     "vida": 67.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      28,
+      24
+     ],
+     "vida_real": 60.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      26,
+      21
+     ]
+    }
+   ],
+   "caida": "reevaluacion",
+   "X": null,
+   "Y": null,
+   "fuego_real_siguiendo_hasta_fin": 6.56,
+   "fuego_real_desviado_hasta_fin": 0.0,
+   "fuego_imaginado_total": 0.0
+  },
+  {
+   "sem": 20365645,
+   "slot": 10,
+   "id": 9,
+   "nace": 12731,
+   "aceptada": 12750,
+   "pos0": [
+    23,
+    19
+   ],
+   "d0": 5.1,
+   "cal0": 5.0,
+   "obs0": 5,
+   "arde_al_nacer_segun_proyeccion": true,
+   "quema_al_nacer_segun_juego": true,
+   "hp0": 28.0,
+   "mri0": 0,
+   "destino": [
+    23,
+    20
+   ],
+   "tics": [
+    12742,
+    12792,
+    12842,
+    12996
+   ],
+   "curva": [
+    {
+     "tic": 12742,
+     "vida": 28.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      23,
+      20
+     ],
+     "vida_real": 28.0,
+     "fuego_real_siguiendo": 0.0,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      22,
+      18
+     ]
+    },
+    {
+     "tic": 12792,
+     "vida": 28.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      23,
+      20
+     ],
+     "vida_real": 15.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 6.56,
+     "pos_real": [
+      20,
+      16
+     ]
+    },
+    {
+     "tic": 12842,
+     "vida": 28.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      23,
+      20
+     ]
+    },
+    {
+     "tic": 12996,
+     "vida": 28.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      23,
+      20
+     ]
+    }
+   ],
+   "caida": "reevaluacion",
+   "X": null,
+   "Y": null,
+   "fuego_real_siguiendo_hasta_fin": 6.56,
+   "fuego_real_desviado_hasta_fin": 6.56,
+   "fuego_imaginado_total": 0.0
+  },
+  {
+   "sem": 20470374,
+   "slot": 11,
+   "id": 1,
+   "nace": 12451,
+   "aceptada": 12489,
+   "pos0": [
+    18,
+    23
+   ],
+   "d0": 6.08,
+   "cal0": 6.03,
+   "obs0": 7,
+   "arde_al_nacer_segun_proyeccion": true,
+   "quema_al_nacer_segun_juego": false,
+   "hp0": 78.0,
+   "mri0": 0,
+   "destino": [
+    19,
+    24
+   ],
+   "tics": [
+    12462,
+    12512,
+    12562,
+    12862
+   ],
+   "curva": [
+    {
+     "tic": 12462,
+     "vida": 78.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      19,
+      24
+     ],
+     "vida_real": 71.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      17,
+      22
+     ]
+    },
+    {
+     "tic": 12512,
+     "vida": 78.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      19,
+      24
+     ],
+     "vida_real": 58.0,
+     "fuego_real_siguiendo": 19.68,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      19,
+      24
+     ]
+    },
+    {
+     "tic": 12562,
+     "vida": 78.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      19,
+      24
+     ],
+     "vida_real": 41.0,
+     "fuego_real_siguiendo": 19.68,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      19,
+      22
+     ]
+    },
+    {
+     "tic": 12862,
+     "vida": 78.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      19,
+      24
+     ]
+    }
+   ],
+   "caida": "vida real",
+   "X": 58.0,
+   "Y": 78.0,
+   "fuego_real_siguiendo_hasta_fin": 19.68,
+   "fuego_real_desviado_hasta_fin": 0.0,
+   "fuego_imaginado_total": 0.0
+  },
+  {
+   "sem": 20470374,
+   "slot": 11,
+   "id": 2,
+   "nace": 12529,
+   "aceptada": 12567,
+   "pos0": [
+    18,
+    23
+   ],
+   "d0": 6.08,
+   "cal0": 5.59,
+   "obs0": 6,
+   "arde_al_nacer_segun_proyeccion": true,
+   "quema_al_nacer_segun_juego": true,
+   "hp0": 52.0,
+   "mri0": 0,
+   "destino": [
+    24,
+    29
+   ],
+   "tics": [
+    12595,
+    12645,
+    12695,
+    12985
+   ],
+   "curva": [
+    {
+     "tic": 12595,
+     "vida": 52.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      29
+     ],
+     "vida_real": 30.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      20,
+      24
+     ]
+    },
+    {
+     "tic": 12645,
+     "vida": 52.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      29
+     ],
+     "vida_real": 19.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      19,
+      26
+     ]
+    },
+    {
+     "tic": 12695,
+     "vida": 52.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      29
+     ],
+     "vida_real": 6.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      18,
+      22
+     ]
+    },
+    {
+     "tic": 12985,
+     "vida": 52.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      29
+     ]
+    }
+   ],
+   "caida": "vida real",
+   "X": 19.0,
+   "Y": 52.0,
+   "fuego_real_siguiendo_hasta_fin": 6.56,
+   "fuego_real_desviado_hasta_fin": 0.0,
+   "fuego_imaginado_total": 0.0
+  },
+  {
+   "sem": 20679832,
+   "slot": 10,
+   "id": 3,
+   "nace": 12429,
+   "aceptada": 12463,
+   "pos0": [
+    30,
+    23
+   ],
+   "d0": 6.08,
+   "cal0": 6.15,
+   "obs0": 7,
+   "arde_al_nacer_segun_proyeccion": false,
+   "quema_al_nacer_segun_juego": false,
+   "hp0": 100.0,
+   "mri0": 0,
+   "destino": [
+    29,
+    24
+   ],
+   "tics": [
+    12440,
+    12490,
+    12540,
+    12840
+   ],
+   "curva": [
+    {
+     "tic": 12440,
+     "vida": 100.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      29,
+      24
+     ],
+     "vida_real": 100.0,
+     "fuego_real_siguiendo": 0.0,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      30,
+      23
+     ]
+    },
+    {
+     "tic": 12490,
+     "vida": 100.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      29,
+      24
+     ],
+     "vida_real": 86.0,
+     "fuego_real_siguiendo": 13.12,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      30,
+      23
+     ]
+    },
+    {
+     "tic": 12540,
+     "vida": 100.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      29,
+      24
+     ],
+     "vida_real": 80.0,
+     "fuego_real_siguiendo": 13.12,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      31,
+      26
+     ]
+    },
+    {
+     "tic": 12840,
+     "vida": 100.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      29,
+      24
+     ],
+     "vida_real": 14.0,
+     "fuego_real_siguiendo": 13.12,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      29,
+      20
+     ]
+    }
+   ],
+   "caida": "vida real",
+   "X": 86.0,
+   "Y": 100.0,
+   "fuego_real_siguiendo_hasta_fin": 13.12,
+   "fuego_real_desviado_hasta_fin": 0.0,
+   "fuego_imaginado_total": 0.0
+  },
+  {
+   "sem": 20679832,
+   "slot": 10,
+   "id": 4,
+   "nace": 12497,
+   "aceptada": 12552,
+   "pos0": [
+    30,
+    23
+   ],
+   "d0": 6.08,
+   "cal0": 5.77,
+   "obs0": 6,
+   "arde_al_nacer_segun_proyeccion": true,
+   "quema_al_nacer_segun_juego": true,
+   "hp0": 86.0,
+   "mri0": 0,
+   "destino": [
+    29,
+    24
+   ],
+   "tics": [
+    12508,
+    12558,
+    12608,
+    12908
+   ],
+   "curva": [
+    {
+     "tic": 12508,
+     "vida": 86.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      29,
+      24
+     ],
+     "vida_real": 86.0,
+     "fuego_real_siguiendo": 0.0,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      29,
+      24
+     ]
+    },
+    {
+     "tic": 12558,
+     "vida": 86.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      29,
+      24
+     ],
+     "vida_real": 73.0,
+     "fuego_real_siguiendo": 13.12,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      30,
+      25
+     ]
+    },
+    {
+     "tic": 12608,
+     "vida": 86.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      29,
+      24
+     ],
+     "vida_real": 73.0,
+     "fuego_real_siguiendo": 13.12,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      30,
+      24
+     ]
+    },
+    {
+     "tic": 12908,
+     "vida": 86.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      29,
+      24
+     ]
+    }
+   ],
+   "caida": "vida real",
+   "X": 73.0,
+   "Y": 86.0,
+   "fuego_real_siguiendo_hasta_fin": 13.12,
+   "fuego_real_desviado_hasta_fin": 0.0,
+   "fuego_imaginado_total": 0.0
+  },
+  {
+   "sem": 20679832,
+   "slot": 10,
+   "id": 5,
+   "nace": 12591,
+   "aceptada": 12643,
+   "pos0": [
+    30,
+    24
+   ],
+   "d0": 6.0,
+   "cal0": 5.25,
+   "obs0": 6,
+   "arde_al_nacer_segun_proyeccion": true,
+   "quema_al_nacer_segun_juego": false,
+   "hp0": 73.0,
+   "mri0": 0,
+   "destino": [
+    28,
+    23
+   ],
+   "tics": [
+    12613,
+    12663,
+    12713,
+    12996
+   ],
+   "curva": [
+    {
+     "tic": 12613,
+     "vida": 73.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      28,
+      23
+     ],
+     "vida_real": 73.0,
+     "fuego_real_siguiendo": 0.0,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      31,
+      23
+     ]
+    },
+    {
+     "tic": 12663,
+     "vida": 73.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      28,
+      23
+     ],
+     "vida_real": 60.0,
+     "fuego_real_siguiendo": 13.12,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      31,
+      21
+     ]
+    },
+    {
+     "tic": 12713,
+     "vida": 73.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      28,
+      23
+     ],
+     "vida_real": 47.0,
+     "fuego_real_siguiendo": 13.12,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      32,
+      20
+     ]
+    },
+    {
+     "tic": 12996,
+     "vida": 73.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      28,
+      23
+     ]
+    }
+   ],
+   "caida": "vida real",
+   "X": 60.0,
+   "Y": 73.0,
+   "fuego_real_siguiendo_hasta_fin": 13.12,
+   "fuego_real_desviado_hasta_fin": 0.0,
+   "fuego_imaginado_total": 0.0
+  },
+  {
+   "sem": 20679832,
+   "slot": 10,
+   "id": 6,
+   "nace": 12680,
+   "aceptada": 12749,
+   "pos0": [
+    30,
+    22
+   ],
+   "d0": 6.32,
+   "cal0": 5.0,
+   "obs0": 5,
+   "arde_al_nacer_segun_proyeccion": true,
+   "quema_al_nacer_segun_juego": true,
+   "hp0": 54.0,
+   "mri0": 0,
+   "destino": [
+    28,
+    23
+   ],
+   "tics": [
+    12702,
+    12752,
+    12802,
+    12996
+   ],
+   "curva": [
+    {
+     "tic": 12702,
+     "vida": 50.67,
+     "fuego_imaginado": 3.33,
+     "pos": [
+      28,
+      23
+     ],
+     "vida_real": 47.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      31,
+      21
+     ]
+    },
+    {
+     "tic": 12752,
+     "vida": 50.67,
+     "fuego_imaginado": 3.33,
+     "pos": [
+      28,
+      23
+     ],
+     "vida_real": 34.0,
+     "fuego_real_siguiendo": 19.68,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      29,
+      21
+     ]
+    },
+    {
+     "tic": 12802,
+     "vida": 50.67,
+     "fuego_imaginado": 3.33,
+     "pos": [
+      28,
+      23
+     ],
+     "vida_real": 21.0,
+     "fuego_real_siguiendo": 19.68,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      27,
+      18
+     ]
+    },
+    {
+     "tic": 12996,
+     "vida": 50.67,
+     "fuego_imaginado": 3.33,
+     "pos": [
+      28,
+      23
+     ]
+    }
+   ],
+   "caida": "vida real",
+   "X": 34.0,
+   "Y": 51.0,
+   "fuego_real_siguiendo_hasta_fin": 19.68,
+   "fuego_real_desviado_hasta_fin": 0.0,
+   "fuego_imaginado_total": 3.33
+  },
+  {
+   "sem": 20679832,
+   "slot": 10,
+   "id": 7,
+   "nace": 12781,
+   "aceptada": 12817,
+   "pos0": [
+    29,
+    20
+   ],
+   "d0": 6.4,
+   "cal0": 5.0,
+   "obs0": 5,
+   "arde_al_nacer_segun_proyeccion": true,
+   "quema_al_nacer_segun_juego": true,
+   "hp0": 27.0,
+   "mri0": 0,
+   "destino": [
+    28,
+    23
+   ],
+   "tics": [
+    12814,
+    12864,
+    12914,
+    12996
+   ],
+   "curva": [
+    {
+     "tic": 12814,
+     "vida": 27.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      28,
+      23
+     ],
+     "vida_real": 21.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      28,
+      19
+     ]
+    },
+    {
+     "tic": 12864,
+     "vida": 27.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      28,
+      23
+     ],
+     "vida_real": 8.0,
+     "fuego_real_siguiendo": 13.12,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      28,
+      19
+     ]
+    },
+    {
+     "tic": 12914,
+     "vida": 27.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      28,
+      23
+     ]
+    },
+    {
+     "tic": 12996,
+     "vida": 27.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      28,
+      23
+     ]
+    }
+   ],
+   "caida": "reevaluacion",
+   "X": null,
+   "Y": null,
+   "fuego_real_siguiendo_hasta_fin": 13.12,
+   "fuego_real_desviado_hasta_fin": 0.0,
+   "fuego_imaginado_total": 0.0
+  },
+  {
+   "sem": 20679832,
+   "slot": 11,
+   "id": 1,
+   "nace": 12857,
+   "aceptada": 12876,
+   "pos0": [
+    29,
+    23
+   ],
+   "d0": 5.1,
+   "cal0": 5.0,
+   "obs0": 5,
+   "arde_al_nacer_segun_proyeccion": true,
+   "quema_al_nacer_segun_juego": true,
+   "hp0": 36.0,
+   "mri0": 0,
+   "destino": [
+    28,
+    23
+   ],
+   "tics": [
+    12868,
+    12918,
+    12968,
+    12996
+   ],
+   "curva": [
+    {
+     "tic": 12868,
+     "vida": 36.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      28,
+      23
+     ],
+     "vida_real": 29.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      29,
+      22
+     ]
+    },
+    {
+     "tic": 12918,
+     "vida": 36.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      28,
+      23
+     ],
+     "vida_real": 29.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      27,
+      23
+     ]
+    },
+    {
+     "tic": 12968,
+     "vida": 36.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      28,
+      23
+     ],
+     "vida_real": 29.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      27,
+      23
+     ]
+    },
+    {
+     "tic": 12996,
+     "vida": 36.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      28,
+      23
+     ],
+     "vida_real": 29.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      28,
+      24
+     ]
+    }
+   ],
+   "caida": null,
+   "X": null,
+   "Y": null,
+   "fuego_real_siguiendo_hasta_fin": 6.56,
+   "fuego_real_desviado_hasta_fin": 0.0,
+   "fuego_imaginado_total": 0.0
+  },
+  {
+   "sem": 20784561,
+   "slot": 11,
+   "id": 3,
+   "nace": 12581,
+   "aceptada": 12593,
+   "pos0": [
+    29,
+    25
+   ],
+   "d0": 5.1,
+   "cal0": 5.31,
+   "obs0": 6,
+   "arde_al_nacer_segun_proyeccion": false,
+   "quema_al_nacer_segun_juego": false,
+   "hp0": 75.0,
+   "mri0": 0,
+   "destino": [
+    24,
+    29
+   ],
+   "tics": [
+    12636,
+    12686,
+    12736,
+    12985
+   ],
+   "curva": [
+    {
+     "tic": 12636,
+     "vida": 74.0,
+     "fuego_imaginado": 1.0,
+     "pos": [
+      24,
+      29
+     ],
+     "vida_real": 75.0,
+     "fuego_real_siguiendo": 0.0,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      29,
+      27
+     ]
+    },
+    {
+     "tic": 12686,
+     "vida": 74.0,
+     "fuego_imaginado": 1.0,
+     "pos": [
+      24,
+      29
+     ],
+     "vida_real": 69.0,
+     "fuego_real_siguiendo": 0.0,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      29,
+      23
+     ]
+    },
+    {
+     "tic": 12736,
+     "vida": 74.0,
+     "fuego_imaginado": 1.0,
+     "pos": [
+      24,
+      29
+     ],
+     "vida_real": 56.0,
+     "fuego_real_siguiendo": 0.0,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      30,
+      22
+     ]
+    },
+    {
+     "tic": 12985,
+     "vida": 74.0,
+     "fuego_imaginado": 1.0,
+     "pos": [
+      24,
+      29
+     ]
+    }
+   ],
+   "caida": "reevaluacion",
+   "X": null,
+   "Y": null,
+   "fuego_real_siguiendo_hasta_fin": 0.0,
+   "fuego_real_desviado_hasta_fin": 0.0,
+   "fuego_imaginado_total": 1.0
+  },
+  {
+   "sem": 20784561,
+   "slot": 11,
+   "id": 4,
+   "nace": 12633,
+   "aceptada": 12649,
+   "pos0": [
+    29,
+    27
+   ],
+   "d0": 5.83,
+   "cal0": 5.02,
+   "obs0": 6,
+   "arde_al_nacer_segun_proyeccion": true,
+   "quema_al_nacer_segun_juego": false,
+   "hp0": 75.0,
+   "mri0": 0,
+   "destino": [
+    28,
+    24
+   ],
+   "tics": [
+    12666,
+    12716,
+    12766,
+    12996
+   ],
+   "curva": [
+    {
+     "tic": 12666,
+     "vida": 75.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      28,
+      24
+     ],
+     "vida_real": 69.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      28,
+      24
+     ]
+    },
+    {
+     "tic": 12716,
+     "vida": 75.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      28,
+      24
+     ],
+     "vida_real": 62.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      29,
+      23
+     ]
+    },
+    {
+     "tic": 12766,
+     "vida": 75.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      28,
+      24
+     ],
+     "vida_real": 49.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      30,
+      22
+     ]
+    },
+    {
+     "tic": 12996,
+     "vida": 75.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      28,
+      24
+     ]
+    }
+   ],
+   "caida": "reevaluacion",
+   "X": null,
+   "Y": null,
+   "fuego_real_siguiendo_hasta_fin": 6.56,
+   "fuego_real_desviado_hasta_fin": 0.0,
+   "fuego_imaginado_total": 0.0
+  },
+  {
+   "sem": 20784561,
+   "slot": 11,
+   "id": 5,
+   "nace": 12689,
+   "aceptada": 12703,
+   "pos0": [
+    29,
+    23
+   ],
+   "d0": 5.1,
+   "cal0": 5.0,
+   "obs0": 5,
+   "arde_al_nacer_segun_proyeccion": true,
+   "quema_al_nacer_segun_juego": true,
+   "hp0": 69.0,
+   "mri0": 0,
+   "destino": [
+    29,
+    24
+   ],
+   "tics": [
+    12700,
+    12750,
+    12800,
+    12996
+   ],
+   "curva": [
+    {
+     "tic": 12700,
+     "vida": 69.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      29,
+      24
+     ],
+     "vida_real": 62.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      30,
+      22
+     ]
+    },
+    {
+     "tic": 12750,
+     "vida": 69.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      29,
+      24
+     ],
+     "vida_real": 49.0,
+     "fuego_real_siguiendo": 13.12,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      31,
+      21
+     ]
+    },
+    {
+     "tic": 12800,
+     "vida": 69.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      29,
+      24
+     ],
+     "vida_real": 36.0,
+     "fuego_real_siguiendo": 13.12,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      29,
+      23
+     ]
+    },
+    {
+     "tic": 12996,
+     "vida": 69.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      29,
+      24
+     ]
+    }
+   ],
+   "caida": "vida real",
+   "X": 56.0,
+   "Y": 69.0,
+   "fuego_real_siguiendo_hasta_fin": 13.12,
+   "fuego_real_desviado_hasta_fin": 0.0,
+   "fuego_imaginado_total": 0.0
+  },
+  {
+   "sem": 20784561,
+   "slot": 11,
+   "id": 6,
+   "nace": 12738,
+   "aceptada": 12751,
+   "pos0": [
+    30,
+    22
+   ],
+   "d0": 6.32,
+   "cal0": 5.0,
+   "obs0": 5,
+   "arde_al_nacer_segun_proyeccion": true,
+   "quema_al_nacer_segun_juego": true,
+   "hp0": 56.0,
+   "mri0": 0,
+   "destino": [
+    29,
+    24
+   ],
+   "tics": [
+    12760,
+    12810,
+    12860,
+    12996
+   ],
+   "curva": [
+    {
+     "tic": 12760,
+     "vida": 52.67,
+     "fuego_imaginado": 3.33,
+     "pos": [
+      29,
+      24
+     ],
+     "vida_real": 49.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      30,
+      22
+     ]
+    },
+    {
+     "tic": 12810,
+     "vida": 52.67,
+     "fuego_imaginado": 3.33,
+     "pos": [
+      29,
+      24
+     ],
+     "vida_real": 36.0,
+     "fuego_real_siguiendo": 13.12,
+     "fuego_real_desviado": 6.56,
+     "pos_real": [
+      30,
+      22
+     ]
+    },
+    {
+     "tic": 12860,
+     "vida": 52.67,
+     "fuego_imaginado": 3.33,
+     "pos": [
+      29,
+      24
+     ],
+     "vida_real": 23.0,
+     "fuego_real_siguiendo": 13.12,
+     "fuego_real_desviado": 6.56,
+     "pos_real": [
+      30,
+      22
+     ]
+    },
+    {
+     "tic": 12996,
+     "vida": 52.67,
+     "fuego_imaginado": 3.33,
+     "pos": [
+      29,
+      24
+     ]
+    }
+   ],
+   "caida": "vida real",
+   "X": 36.0,
+   "Y": 53.0,
+   "fuego_real_siguiendo_hasta_fin": 13.12,
+   "fuego_real_desviado_hasta_fin": 6.56,
+   "fuego_imaginado_total": 3.33
+  },
+  {
+   "sem": 20784561,
+   "slot": 11,
+   "id": 7,
+   "nace": 12812,
+   "aceptada": 12825,
+   "pos0": [
+    30,
+    22
+   ],
+   "d0": 6.32,
+   "cal0": 5.0,
+   "obs0": 5,
+   "arde_al_nacer_segun_proyeccion": true,
+   "quema_al_nacer_segun_juego": true,
+   "hp0": 36.0,
+   "mri0": 0,
+   "destino": [
+    29,
+    24
+   ],
+   "tics": [
+    12834,
+    12884,
+    12934,
+    12996
+   ],
+   "curva": [
+    {
+     "tic": 12834,
+     "vida": 32.67,
+     "fuego_imaginado": 3.33,
+     "pos": [
+      29,
+      24
+     ],
+     "vida_real": 29.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      30,
+      22
+     ]
+    },
+    {
+     "tic": 12884,
+     "vida": 32.67,
+     "fuego_imaginado": 3.33,
+     "pos": [
+      29,
+      24
+     ],
+     "vida_real": 16.0,
+     "fuego_real_siguiendo": 13.12,
+     "fuego_real_desviado": 6.56,
+     "pos_real": [
+      30,
+      22
+     ]
+    },
+    {
+     "tic": 12934,
+     "vida": 32.67,
+     "fuego_imaginado": 3.33,
+     "pos": [
+      29,
+      24
+     ],
+     "vida_real": 3.0,
+     "fuego_real_siguiendo": 13.12,
+     "fuego_real_desviado": 6.56,
+     "pos_real": [
+      30,
+      21
+     ]
+    },
+    {
+     "tic": 12996,
+     "vida": 32.67,
+     "fuego_imaginado": 3.33,
+     "pos": [
+      29,
+      24
+     ]
+    }
+   ],
+   "caida": "vida real",
+   "X": 16.0,
+   "Y": 33.0,
+   "fuego_real_siguiendo_hasta_fin": 13.12,
+   "fuego_real_desviado_hasta_fin": 6.56,
+   "fuego_imaginado_total": 3.33
+  },
+  {
+   "sem": 20889290,
+   "slot": 10,
+   "id": 3,
+   "nace": 12575,
+   "aceptada": 12599,
+   "pos0": [
+    25,
+    19
+   ],
+   "d0": 5.1,
+   "cal0": 5.34,
+   "obs0": 6,
+   "arde_al_nacer_segun_proyeccion": false,
+   "quema_al_nacer_segun_juego": false,
+   "hp0": 45.0,
+   "mri0": 0,
+   "destino": [
+    24,
+    20
+   ],
+   "tics": [
+    12586,
+    12636,
+    12686,
+    12986
+   ],
+   "curva": [
+    {
+     "tic": 12586,
+     "vida": 45.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      20
+     ],
+     "vida_real": 45.0,
+     "fuego_real_siguiendo": 0.0,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      26,
+      19
+     ]
+    },
+    {
+     "tic": 12636,
+     "vida": 45.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      20
+     ],
+     "vida_real": 45.0,
+     "fuego_real_siguiendo": 0.0,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      26,
+      19
+     ]
+    },
+    {
+     "tic": 12686,
+     "vida": 45.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      20
+     ],
+     "vida_real": 38.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      25,
+      19
+     ]
+    },
+    {
+     "tic": 12986,
+     "vida": 45.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      20
+     ],
+     "vida_real": 35.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      21,
+      25
+     ]
+    }
+   ],
+   "caida": "reevaluacion",
+   "X": null,
+   "Y": null,
+   "fuego_real_siguiendo_hasta_fin": 6.56,
+   "fuego_real_desviado_hasta_fin": 0.0,
+   "fuego_imaginado_total": 0.0
+  },
+  {
+   "sem": 20889290,
+   "slot": 11,
+   "id": 1,
+   "nace": 12811,
+   "aceptada": 12836,
+   "pos0": [
+    19,
+    25
+   ],
+   "d0": 5.1,
+   "cal0": 5.0,
+   "obs0": 5,
+   "arde_al_nacer_segun_proyeccion": true,
+   "quema_al_nacer_segun_juego": true,
+   "hp0": 100.0,
+   "mri0": 0,
+   "destino": [
+    20,
+    24
+   ],
+   "tics": [
+    12822,
+    12872,
+    12922,
+    12996
+   ],
+   "curva": [
+    {
+     "tic": 12822,
+     "vida": 100.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      20,
+      24
+     ],
+     "vida_real": 93.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      19,
+      26
+     ]
+    },
+    {
+     "tic": 12872,
+     "vida": 100.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      20,
+      24
+     ],
+     "vida_real": 80.0,
+     "fuego_real_siguiendo": 13.12,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      19,
+      25
+     ]
+    },
+    {
+     "tic": 12922,
+     "vida": 100.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      20,
+      24
+     ],
+     "vida_real": 67.0,
+     "fuego_real_siguiendo": 13.12,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      19,
+      25
+     ]
+    },
+    {
+     "tic": 12996,
+     "vida": 100.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      20,
+      24
+     ],
+     "vida_real": 47.0,
+     "fuego_real_siguiendo": 13.12,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      19,
+      26
+     ]
+    }
+   ],
+   "caida": "vida real",
+   "X": 86.0,
+   "Y": 100.0,
+   "fuego_real_siguiendo_hasta_fin": 13.12,
+   "fuego_real_desviado_hasta_fin": 0.0,
+   "fuego_imaginado_total": 0.0
+  },
+  {
+   "sem": 20889290,
+   "slot": 11,
+   "id": 2,
+   "nace": 12869,
+   "aceptada": 12894,
+   "pos0": [
+    19,
+    25
+   ],
+   "d0": 5.1,
+   "cal0": 5.0,
+   "obs0": 5,
+   "arde_al_nacer_segun_proyeccion": true,
+   "quema_al_nacer_segun_juego": true,
+   "hp0": 80.0,
+   "mri0": 0,
+   "destino": [
+    20,
+    24
+   ],
+   "tics": [
+    12880,
+    12996
+   ],
+   "curva": [
+    {
+     "tic": 12880,
+     "vida": 80.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      20,
+      24
+     ],
+     "vida_real": 80.0,
+     "fuego_real_siguiendo": 0.0,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      19,
+      26
+     ]
+    },
+    {
+     "tic": 12996,
+     "vida": 80.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      20,
+      24
+     ],
+     "vida_real": 47.0,
+     "fuego_real_siguiendo": 13.12,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      19,
+      26
+     ]
+    }
+   ],
+   "caida": "vida real",
+   "X": 67.0,
+   "Y": 80.0,
+   "fuego_real_siguiendo_hasta_fin": 13.12,
+   "fuego_real_desviado_hasta_fin": 0.0,
+   "fuego_imaginado_total": 0.0
+  },
+  {
+   "sem": 20889290,
+   "slot": 11,
+   "id": 3,
+   "nace": 12925,
+   "aceptada": 12952,
+   "pos0": [
+    19,
+    25
+   ],
+   "d0": 5.1,
+   "cal0": 5.0,
+   "obs0": 5,
+   "arde_al_nacer_segun_proyeccion": true,
+   "quema_al_nacer_segun_juego": true,
+   "hp0": 67.0,
+   "mri0": 0,
+   "destino": [
+    20,
+    24
+   ],
+   "tics": [
+    12936,
+    12996
+   ],
+   "curva": [
+    {
+     "tic": 12936,
+     "vida": 67.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      20,
+      24
+     ],
+     "vida_real": 67.0,
+     "fuego_real_siguiendo": 0.0,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      19,
+      26
+     ]
+    },
+    {
+     "tic": 12996,
+     "vida": 67.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      20,
+      24
+     ],
+     "vida_real": 47.0,
+     "fuego_real_siguiendo": 13.12,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      19,
+      26
+     ]
+    }
+   ],
+   "caida": "vida real",
+   "X": 54.0,
+   "Y": 67.0,
+   "fuego_real_siguiendo_hasta_fin": 13.12,
+   "fuego_real_desviado_hasta_fin": 0.0,
+   "fuego_imaginado_total": 0.0
+  },
+  {
+   "sem": 20994019,
+   "slot": 10,
+   "id": 1,
+   "nace": 12585,
+   "aceptada": 12631,
+   "pos0": [
+    25,
+    30
+   ],
+   "d0": 6.08,
+   "cal0": 5.28,
+   "obs0": 6,
+   "arde_al_nacer_segun_proyeccion": true,
+   "quema_al_nacer_segun_juego": true,
+   "hp0": 71.0,
+   "mri0": 0,
+   "destino": [
+    24,
+    29
+   ],
+   "tics": [
+    12596,
+    12646,
+    12696,
+    12996
+   ],
+   "curva": [
+    {
+     "tic": 12596,
+     "vida": 71.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      29
+     ],
+     "vida_real": 71.0,
+     "fuego_real_siguiendo": 0.0,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      26,
+      29
+     ]
+    },
+    {
+     "tic": 12646,
+     "vida": 71.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      29
+     ],
+     "vida_real": 71.0,
+     "fuego_real_siguiendo": 0.0,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      24,
+      29
+     ]
+    },
+    {
+     "tic": 12696,
+     "vida": 71.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      29
+     ],
+     "vida_real": 71.0,
+     "fuego_real_siguiendo": 0.0,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      24,
+      28
+     ]
+    },
+    {
+     "tic": 12996,
+     "vida": 71.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      29
+     ],
+     "vida_real": 45.0,
+     "fuego_real_siguiendo": 0.0,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      24,
+      29
+     ]
+    }
+   ],
+   "caida": "reevaluacion",
+   "X": null,
+   "Y": null,
+   "fuego_real_siguiendo_hasta_fin": 0.0,
+   "fuego_real_desviado_hasta_fin": 0.0,
+   "fuego_imaginado_total": 0.0
+  },
+  {
+   "sem": 20994019,
+   "slot": 10,
+   "id": 6,
+   "nace": 12946,
+   "aceptada": 12967,
+   "pos0": [
+    26,
+    30
+   ],
+   "d0": 6.32,
+   "cal0": 5.0,
+   "obs0": 5,
+   "arde_al_nacer_segun_proyeccion": true,
+   "quema_al_nacer_segun_juego": true,
+   "hp0": 52.0,
+   "mri0": 0,
+   "destino": [
+    24,
+    28
+   ],
+   "tics": [
+    12968,
+    12996
+   ],
+   "curva": [
+    {
+     "tic": 12968,
+     "vida": 48.67,
+     "fuego_imaginado": 3.33,
+     "pos": [
+      24,
+      28
+     ],
+     "vida_real": 45.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      26,
+      29
+     ]
+    },
+    {
+     "tic": 12996,
+     "vida": 48.67,
+     "fuego_imaginado": 3.33,
+     "pos": [
+      24,
+      28
+     ],
+     "vida_real": 45.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      24,
+      29
+     ]
+    }
+   ],
+   "caida": "reevaluacion",
+   "X": null,
+   "Y": null,
+   "fuego_real_siguiendo_hasta_fin": 6.56,
+   "fuego_real_desviado_hasta_fin": 0.0,
+   "fuego_imaginado_total": 3.33
+  },
+  {
+   "sem": 20994019,
+   "slot": 11,
+   "id": 3,
+   "nace": 12575,
+   "aceptada": 12617,
+   "pos0": [
+    25,
+    29
+   ],
+   "d0": 5.1,
+   "cal0": 5.34,
+   "obs0": 6,
+   "arde_al_nacer_segun_proyeccion": false,
+   "quema_al_nacer_segun_juego": false,
+   "hp0": 100.0,
+   "mri0": 0,
+   "destino": [
+    24,
+    29
+   ],
+   "tics": [
+    12586,
+    12636,
+    12686,
+    12986
+   ],
+   "curva": [
+    {
+     "tic": 12586,
+     "vida": 100.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      29
+     ],
+     "vida_real": 100.0,
+     "fuego_real_siguiendo": 0.0,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      26,
+      29
+     ]
+    },
+    {
+     "tic": 12636,
+     "vida": 100.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      29
+     ],
+     "vida_real": 100.0,
+     "fuego_real_siguiendo": 0.0,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      25,
+      29
+     ]
+    },
+    {
+     "tic": 12686,
+     "vida": 100.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      29
+     ],
+     "vida_real": 86.0,
+     "fuego_real_siguiendo": 0.0,
+     "fuego_real_desviado": 13.12,
+     "pos_real": [
+      27,
+      29
+     ]
+    },
+    {
+     "tic": 12986,
+     "vida": 100.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      29
+     ],
+     "vida_real": 8.0,
+     "fuego_real_siguiendo": 0.0,
+     "fuego_real_desviado": 13.12,
+     "pos_real": [
+      25,
+      29
+     ]
+    }
+   ],
+   "caida": "vida real",
+   "X": 86.0,
+   "Y": 100.0,
+   "fuego_real_siguiendo_hasta_fin": 0.0,
+   "fuego_real_desviado_hasta_fin": 13.12,
+   "fuego_imaginado_total": 0.0
+  },
+  {
+   "sem": 20994019,
+   "slot": 11,
+   "id": 4,
+   "nace": 12701,
+   "aceptada": 12725,
+   "pos0": [
+    26,
+    29
+   ],
+   "d0": 5.39,
+   "cal0": 5.0,
+   "obs0": 5,
+   "arde_al_nacer_segun_proyeccion": true,
+   "quema_al_nacer_segun_juego": true,
+   "hp0": 80.0,
+   "mri0": 0,
+   "destino": [
+    24,
+    28
+   ],
+   "tics": [
+    12723,
+    12773,
+    12823,
+    12996
+   ],
+   "curva": [
+    {
+     "tic": 12723,
+     "vida": 80.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      28
+     ],
+     "vida_real": 73.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      26,
+      29
+     ]
+    },
+    {
+     "tic": 12773,
+     "vida": 80.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      28
+     ],
+     "vida_real": 60.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 6.56,
+     "pos_real": [
+      27,
+      29
+     ]
+    },
+    {
+     "tic": 12823,
+     "vida": 80.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      28
+     ],
+     "vida_real": 47.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 6.56,
+     "pos_real": [
+      26,
+      29
+     ]
+    },
+    {
+     "tic": 12996,
+     "vida": 80.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      28
+     ],
+     "vida_real": 8.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 6.56,
+     "pos_real": [
+      26,
+      29
+     ]
+    }
+   ],
+   "caida": "vida real",
+   "X": 67.0,
+   "Y": 80.0,
+   "fuego_real_siguiendo_hasta_fin": 6.56,
+   "fuego_real_desviado_hasta_fin": 6.56,
+   "fuego_imaginado_total": 0.0
+  },
+  {
+   "sem": 20994019,
+   "slot": 11,
+   "id": 5,
+   "nace": 12751,
+   "aceptada": 12776,
+   "pos0": [
+    27,
+    29
+   ],
+   "d0": 5.83,
+   "cal0": 5.0,
+   "obs0": 5,
+   "arde_al_nacer_segun_proyeccion": true,
+   "quema_al_nacer_segun_juego": true,
+   "hp0": 67.0,
+   "mri0": 0,
+   "destino": [
+    24,
+    28
+   ],
+   "tics": [
+    12784,
+    12834,
+    12884,
+    12996
+   ],
+   "curva": [
+    {
+     "tic": 12784,
+     "vida": 67.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      28
+     ],
+     "vida_real": 60.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      27,
+      29
+     ]
+    },
+    {
+     "tic": 12834,
+     "vida": 67.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      28
+     ],
+     "vida_real": 47.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 6.56,
+     "pos_real": [
+      27,
+      29
+     ]
+    },
+    {
+     "tic": 12884,
+     "vida": 67.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      28
+     ],
+     "vida_real": 34.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 6.56,
+     "pos_real": [
+      26,
+      29
+     ]
+    },
+    {
+     "tic": 12996,
+     "vida": 67.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      28
+     ],
+     "vida_real": 8.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 6.56,
+     "pos_real": [
+      26,
+      29
+     ]
+    }
+   ],
+   "caida": "vida real",
+   "X": 54.0,
+   "Y": 67.0,
+   "fuego_real_siguiendo_hasta_fin": 6.56,
+   "fuego_real_desviado_hasta_fin": 6.56,
+   "fuego_imaginado_total": 0.0
+  },
+  {
+   "sem": 20994019,
+   "slot": 11,
+   "id": 6,
+   "nace": 12812,
+   "aceptada": 12830,
+   "pos0": [
+    27,
+    29
+   ],
+   "d0": 5.83,
+   "cal0": 5.0,
+   "obs0": 5,
+   "arde_al_nacer_segun_proyeccion": true,
+   "quema_al_nacer_segun_juego": true,
+   "hp0": 54.0,
+   "mri0": 0,
+   "destino": [
+    24,
+    28
+   ],
+   "tics": [
+    12845,
+    12895,
+    12945,
+    12996
+   ],
+   "curva": [
+    {
+     "tic": 12845,
+     "vida": 54.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      28
+     ],
+     "vida_real": 40.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 6.56,
+     "pos_real": [
+      27,
+      29
+     ]
+    },
+    {
+     "tic": 12895,
+     "vida": 54.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      28
+     ],
+     "vida_real": 27.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 13.12,
+     "pos_real": [
+      25,
+      29
+     ]
+    },
+    {
+     "tic": 12945,
+     "vida": 54.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      28
+     ],
+     "vida_real": 21.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 13.12,
+     "pos_real": [
+      24,
+      28
+     ]
+    },
+    {
+     "tic": 12996,
+     "vida": 54.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      28
+     ],
+     "vida_real": 8.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 13.12,
+     "pos_real": [
+      26,
+      29
+     ]
+    }
+   ],
+   "caida": "vida real",
+   "X": 34.0,
+   "Y": 54.0,
+   "fuego_real_siguiendo_hasta_fin": 6.56,
+   "fuego_real_desviado_hasta_fin": 13.12,
+   "fuego_imaginado_total": 0.0
+  },
+  {
+   "sem": 20994019,
+   "slot": 11,
+   "id": 7,
+   "nace": 12874,
+   "aceptada": 12894,
+   "pos0": [
+    27,
+    29
+   ],
+   "d0": 5.83,
+   "cal0": 5.0,
+   "obs0": 5,
+   "arde_al_nacer_segun_proyeccion": true,
+   "quema_al_nacer_segun_juego": true,
+   "hp0": 34.0,
+   "mri0": 0,
+   "destino": [
+    24,
+    28
+   ],
+   "tics": [
+    12907,
+    12996
+   ],
+   "curva": [
+    {
+     "tic": 12907,
+     "vida": 34.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      28
+     ],
+     "vida_real": 27.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      24,
+      29
+     ]
+    },
+    {
+     "tic": 12996,
+     "vida": 84.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      28
+     ],
+     "vida_real": 8.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 6.56,
+     "pos_real": [
+      26,
+      29
+     ]
+    }
+   ],
+   "caida": "vida real",
+   "X": 21.0,
+   "Y": 34.0,
+   "fuego_real_siguiendo_hasta_fin": 6.56,
+   "fuego_real_desviado_hasta_fin": 6.56,
+   "fuego_imaginado_total": 0.0
+  },
+  {
+   "sem": 21098748,
+   "slot": 10,
+   "id": 8,
+   "nace": 12183,
+   "aceptada": 12205,
+   "pos0": [
+    31,
+    27
+   ],
+   "d0": 7.62,
+   "cal0": 7.52,
+   "obs0": 8,
+   "arde_al_nacer_segun_proyeccion": true,
+   "quema_al_nacer_segun_juego": false,
+   "hp0": 73.0,
+   "mri0": 0,
+   "destino": [
+    28,
+    24
+   ],
+   "tics": [
+    12216,
+    12266,
+    12316,
+    12616
+   ],
+   "curva": [
+    {
+     "tic": 12216,
+     "vida": 73.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      28,
+      24
+     ],
+     "vida_real": 66.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      31,
+      29
+     ]
+    },
+    {
+     "tic": 12266,
+     "vida": 73.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      28,
+      24
+     ],
+     "vida_real": 60.0,
+     "fuego_real_siguiendo": 13.12,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      30,
+      26
+     ]
+    },
+    {
+     "tic": 12316,
+     "vida": 73.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      28,
+      24
+     ],
+     "vida_real": 46.0,
+     "fuego_real_siguiendo": 13.12,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      31,
+      29
+     ]
+    },
+    {
+     "tic": 12616,
+     "vida": 73.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      28,
+      24
+     ],
+     "vida_real": 7.0,
+     "fuego_real_siguiendo": 13.12,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      31,
+      28
+     ]
+    }
+   ],
+   "caida": "vida real",
+   "X": 60.0,
+   "Y": 73.0,
+   "fuego_real_siguiendo_hasta_fin": 13.12,
+   "fuego_real_desviado_hasta_fin": 0.0,
+   "fuego_imaginado_total": 0.0
+  },
+  {
+   "sem": 21098748,
+   "slot": 10,
+   "id": 9,
+   "nace": 12286,
+   "aceptada": 12307,
+   "pos0": [
+    31,
+    27
+   ],
+   "d0": 7.62,
+   "cal0": 6.94,
+   "obs0": 7,
+   "arde_al_nacer_segun_proyeccion": true,
+   "quema_al_nacer_segun_juego": true,
+   "hp0": 60.0,
+   "mri0": 0,
+   "destino": [
+    27,
+    25
+   ],
+   "tics": [
+    12330,
+    12380,
+    12430,
+    12730
+   ],
+   "curva": [
+    {
+     "tic": 12330,
+     "vida": 100.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      27,
+      25
+     ],
+     "vida_real": 46.0,
+     "fuego_real_siguiendo": 13.12,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      30,
+      28
+     ]
+    },
+    {
+     "tic": 12380,
+     "vida": 100.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      27,
+      25
+     ],
+     "vida_real": 46.0,
+     "fuego_real_siguiendo": 13.12,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      31,
+      28
+     ]
+    },
+    {
+     "tic": 12430,
+     "vida": 100.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      27,
+      25
+     ],
+     "vida_real": 33.0,
+     "fuego_real_siguiendo": 13.12,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      29,
+      27
+     ]
+    },
+    {
+     "tic": 12730,
+     "vida": 100.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      27,
+      25
+     ]
+    }
+   ],
+   "caida": "vida real",
+   "X": 46.0,
+   "Y": 100.0,
+   "fuego_real_siguiendo_hasta_fin": 13.12,
+   "fuego_real_desviado_hasta_fin": 0.0,
+   "fuego_imaginado_total": 0.0
+  },
+  {
+   "sem": 21098748,
+   "slot": 10,
+   "id": 10,
+   "nace": 12368,
+   "aceptada": 12385,
+   "pos0": [
+    30,
+    27
+   ],
+   "d0": 6.71,
+   "cal0": 6.49,
+   "obs0": 7,
+   "arde_al_nacer_segun_proyeccion": true,
+   "quema_al_nacer_segun_juego": false,
+   "hp0": 46.0,
+   "mri0": 0,
+   "destino": [
+    27,
+    25
+   ],
+   "tics": [
+    12401,
+    12451,
+    12501,
+    12801
+   ],
+   "curva": [
+    {
+     "tic": 12401,
+     "vida": 46.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      27,
+      25
+     ],
+     "vida_real": 40.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      31,
+      29
+     ]
+    },
+    {
+     "tic": 12451,
+     "vida": 46.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      27,
+      25
+     ],
+     "vida_real": 33.0,
+     "fuego_real_siguiendo": 13.12,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      29,
+      25
+     ]
+    },
+    {
+     "tic": 12501,
+     "vida": 46.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      27,
+      25
+     ],
+     "vida_real": 27.0,
+     "fuego_real_siguiendo": 13.12,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      31,
+      28
+     ]
+    },
+    {
+     "tic": 12801,
+     "vida": 46.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      27,
+      25
+     ]
+    }
+   ],
+   "caida": "vida real",
+   "X": 33.0,
+   "Y": 46.0,
+   "fuego_real_siguiendo_hasta_fin": 13.12,
+   "fuego_real_desviado_hasta_fin": 0.0,
+   "fuego_imaginado_total": 0.0
+  },
+  {
+   "sem": 21098748,
+   "slot": 10,
+   "id": 12,
+   "nace": 12468,
+   "aceptada": 12486,
+   "pos0": [
+    30,
+    26
+   ],
+   "d0": 6.32,
+   "cal0": 5.93,
+   "obs0": 6,
+   "arde_al_nacer_segun_proyeccion": true,
+   "quema_al_nacer_segun_juego": true,
+   "hp0": 33.0,
+   "mri0": 0,
+   "destino": [
+    27,
+    25
+   ],
+   "tics": [
+    12501,
+    12551,
+    12601,
+    12901
+   ],
+   "curva": [
+    {
+     "tic": 12501,
+     "vida": 33.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      27,
+      25
+     ],
+     "vida_real": 27.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      31,
+      28
+     ]
+    },
+    {
+     "tic": 12551,
+     "vida": 33.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      27,
+      25
+     ],
+     "vida_real": 20.0,
+     "fuego_real_siguiendo": 13.12,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      29,
+      25
+     ]
+    },
+    {
+     "tic": 12601,
+     "vida": 33.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      27,
+      25
+     ],
+     "vida_real": 7.0,
+     "fuego_real_siguiendo": 13.12,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      30,
+      27
+     ]
+    },
+    {
+     "tic": 12901,
+     "vida": 33.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      27,
+      25
+     ]
+    }
+   ],
+   "caida": "vida real",
+   "X": 20.0,
+   "Y": 33.0,
+   "fuego_real_siguiendo_hasta_fin": 13.12,
+   "fuego_real_desviado_hasta_fin": 0.0,
+   "fuego_imaginado_total": 0.0
+  },
+  {
+   "sem": 21098748,
+   "slot": 11,
+   "id": 1,
+   "nace": 12511,
+   "aceptada": 12541,
+   "pos0": [
+    27,
+    29
+   ],
+   "d0": 5.83,
+   "cal0": 5.69,
+   "obs0": 6,
+   "arde_al_nacer_segun_proyeccion": true,
+   "quema_al_nacer_segun_juego": false,
+   "hp0": 100.0,
+   "mri0": 0,
+   "destino": [
+    26,
+    26
+   ],
+   "tics": [
+    12544,
+    12594,
+    12644,
+    12944
+   ],
+   "curva": [
+    {
+     "tic": 12544,
+     "vida": 100.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      26,
+      26
+     ],
+     "vida_real": 93.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      29,
+      27
+     ]
+    },
+    {
+     "tic": 12594,
+     "vida": 100.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      26,
+      26
+     ],
+     "vida_real": 86.0,
+     "fuego_real_siguiendo": 13.12,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      29,
+      26
+     ]
+    },
+    {
+     "tic": 12644,
+     "vida": 100.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      26,
+      26
+     ],
+     "vida_real": 86.0,
+     "fuego_real_siguiendo": 13.12,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      31,
+      26
+     ]
+    },
+    {
+     "tic": 12944,
+     "vida": 100.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      26,
+      26
+     ],
+     "vida_real": 34.0,
+     "fuego_real_siguiendo": 13.12,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      29,
+      25
+     ]
+    }
+   ],
+   "caida": "vida real",
+   "X": 86.0,
+   "Y": 100.0,
+   "fuego_real_siguiendo_hasta_fin": 13.12,
+   "fuego_real_desviado_hasta_fin": 0.0,
+   "fuego_imaginado_total": 0.0
+  },
+  {
+   "sem": 21203477,
+   "slot": 11,
+   "id": 2,
+   "nace": 12180,
+   "aceptada": 12193,
+   "pos0": [
+    27,
+    17
+   ],
+   "d0": 7.62,
+   "cal0": 7.53,
+   "obs0": 8,
+   "arde_al_nacer_segun_proyeccion": true,
+   "quema_al_nacer_segun_juego": false,
+   "hp0": 87.0,
+   "mri0": 0,
+   "destino": [
+    24,
+    19
+   ],
+   "tics": [
+    12213,
+    12263,
+    12313,
+    12613
+   ],
+   "curva": [
+    {
+     "tic": 12213,
+     "vida": 87.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      19
+     ],
+     "vida_real": 81.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      27,
+      17
+     ]
+    },
+    {
+     "tic": 12263,
+     "vida": 87.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      19
+     ],
+     "vida_real": 81.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      24,
+      19
+     ]
+    },
+    {
+     "tic": 12313,
+     "vida": 87.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      19
+     ],
+     "vida_real": 81.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      24,
+      19
+     ]
+    },
+    {
+     "tic": 12613,
+     "vida": 87.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      19
+     ],
+     "vida_real": 81.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      24,
+      19
+     ]
+    }
+   ],
+   "caida": null,
+   "X": null,
+   "Y": null,
+   "fuego_real_siguiendo_hasta_fin": 6.56,
+   "fuego_real_desviado_hasta_fin": 0.0,
+   "fuego_imaginado_total": 0.0
+  },
+  {
+   "sem": 21203477,
+   "slot": 11,
+   "id": 3,
+   "nace": 12624,
+   "aceptada": 12637,
+   "pos0": [
+    23,
+    19
+   ],
+   "d0": 5.1,
+   "cal0": 5.07,
+   "obs0": 6,
+   "arde_al_nacer_segun_proyeccion": true,
+   "quema_al_nacer_segun_juego": false,
+   "hp0": 81.0,
+   "mri0": 0,
+   "destino": [
+    24,
+    19
+   ],
+   "tics": [
+    12635,
+    12685,
+    12735,
+    12996
+   ],
+   "curva": [
+    {
+     "tic": 12635,
+     "vida": 81.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      19
+     ],
+     "vida_real": 81.0,
+     "fuego_real_siguiendo": 0.0,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      24,
+      19
+     ]
+    },
+    {
+     "tic": 12685,
+     "vida": 81.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      19
+     ],
+     "vida_real": 81.0,
+     "fuego_real_siguiendo": 0.0,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      24,
+      19
+     ]
+    },
+    {
+     "tic": 12735,
+     "vida": 81.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      19
+     ],
+     "vida_real": 81.0,
+     "fuego_real_siguiendo": 0.0,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      24,
+      19
+     ]
+    },
+    {
+     "tic": 12996,
+     "vida": 81.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      19
+     ],
+     "vida_real": 48.0,
+     "fuego_real_siguiendo": 0.0,
+     "fuego_real_desviado": 6.56,
+     "pos_real": [
+      25,
+      18
+     ]
+    }
+   ],
+   "caida": "reevaluacion",
+   "X": null,
+   "Y": null,
+   "fuego_real_siguiendo_hasta_fin": 0.0,
+   "fuego_real_desviado_hasta_fin": 6.56,
+   "fuego_imaginado_total": 0.0
+  },
+  {
+   "sem": 21203477,
+   "slot": 11,
+   "id": 4,
+   "nace": 12866,
+   "aceptada": 12881,
+   "pos0": [
+    25,
+    18
+   ],
+   "d0": 6.08,
+   "cal0": 5.0,
+   "obs0": 5,
+   "arde_al_nacer_segun_proyeccion": true,
+   "quema_al_nacer_segun_juego": true,
+   "hp0": 68.0,
+   "mri0": 0,
+   "destino": [
+    24,
+    19
+   ],
+   "tics": [
+    12877,
+    12996
+   ],
+   "curva": [
+    {
+     "tic": 12877,
+     "vida": 68.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      19
+     ],
+     "vida_real": 68.0,
+     "fuego_real_siguiendo": 0.0,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      25,
+      19
+     ]
+    },
+    {
+     "tic": 12996,
+     "vida": 68.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      19
+     ],
+     "vida_real": 48.0,
+     "fuego_real_siguiendo": 0.0,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      25,
+      18
+     ]
+    }
+   ],
+   "caida": "reevaluacion",
+   "X": null,
+   "Y": null,
+   "fuego_real_siguiendo_hasta_fin": 0.0,
+   "fuego_real_desviado_hasta_fin": 0.0,
+   "fuego_imaginado_total": 0.0
+  },
+  {
+   "sem": 21203477,
+   "slot": 11,
+   "id": 5,
+   "nace": 12907,
+   "aceptada": 12922,
+   "pos0": [
+    25,
+    18
+   ],
+   "d0": 6.08,
+   "cal0": 5.0,
+   "obs0": 5,
+   "arde_al_nacer_segun_proyeccion": true,
+   "quema_al_nacer_segun_juego": true,
+   "hp0": 68.0,
+   "mri0": 0,
+   "destino": [
+    24,
+    19
+   ],
+   "tics": [
+    12918,
+    12996
+   ],
+   "curva": [
+    {
+     "tic": 12918,
+     "vida": 68.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      19
+     ],
+     "vida_real": 61.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      26,
+      17
+     ]
+    },
+    {
+     "tic": 12996,
+     "vida": 68.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      19
+     ],
+     "vida_real": 48.0,
+     "fuego_real_siguiendo": 13.12,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      25,
+      18
+     ]
+    }
+   ],
+   "caida": "vida real",
+   "X": 55.0,
+   "Y": 68.0,
+   "fuego_real_siguiendo_hasta_fin": 13.12,
+   "fuego_real_desviado_hasta_fin": 0.0,
+   "fuego_imaginado_total": 0.0
+  },
+  {
+   "sem": 21203477,
+   "slot": 11,
+   "id": 6,
+   "nace": 12961,
+   "aceptada": 12975,
+   "pos0": [
+    25,
+    18
+   ],
+   "d0": 6.08,
+   "cal0": 5.0,
+   "obs0": 5,
+   "arde_al_nacer_segun_proyeccion": true,
+   "quema_al_nacer_segun_juego": true,
+   "hp0": 48.0,
+   "mri0": 0,
+   "destino": [
+    24,
+    19
+   ],
+   "tics": [
+    12972,
+    12997
+   ],
+   "curva": [
+    {
+     "tic": 12972,
+     "vida": 48.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      19
+     ],
+     "vida_real": 48.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      25,
+      19
+     ]
+    },
+    {
+     "tic": 12997,
+     "vida": 48.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      19
+     ],
+     "vida_real": 48.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      25,
+      18
+     ]
+    }
+   ],
+   "caida": "reevaluacion",
+   "X": null,
+   "Y": null,
+   "fuego_real_siguiendo_hasta_fin": 6.56,
+   "fuego_real_desviado_hasta_fin": 0.0,
+   "fuego_imaginado_total": 0.0
+  },
+  {
+   "sem": 21308206,
+   "slot": 10,
+   "id": 3,
+   "nace": 12463,
+   "aceptada": 12525,
+   "pos0": [
+    22,
+    30
+   ],
+   "d0": 6.32,
+   "cal0": 5.96,
+   "obs0": 6,
+   "arde_al_nacer_segun_proyeccion": true,
+   "quema_al_nacer_segun_juego": true,
+   "hp0": 93.0,
+   "mri0": 0,
+   "destino": [
+    23,
+    28
+   ],
+   "tics": [
+    12485,
+    12535,
+    12585,
+    12885
+   ],
+   "curva": [
+    {
+     "tic": 12485,
+     "vida": 93.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      23,
+      28
+     ],
+     "vida_real": 93.0,
+     "fuego_real_siguiendo": 0.0,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      22,
+      29
+     ]
+    },
+    {
+     "tic": 12535,
+     "vida": 93.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      23,
+      28
+     ],
+     "vida_real": 93.0,
+     "fuego_real_siguiendo": 0.0,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      26,
+      27
+     ]
+    },
+    {
+     "tic": 12585,
+     "vida": 93.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      23,
+      28
+     ],
+     "vida_real": 93.0,
+     "fuego_real_siguiendo": 0.0,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      27,
+      27
+     ]
+    },
+    {
+     "tic": 12885,
+     "vida": 93.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      23,
+      28
+     ],
+     "vida_real": 47.0,
+     "fuego_real_siguiendo": 0.0,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      29,
+      25
+     ]
+    }
+   ],
+   "caida": "reevaluacion",
+   "X": null,
+   "Y": null,
+   "fuego_real_siguiendo_hasta_fin": 0.0,
+   "fuego_real_desviado_hasta_fin": 0.0,
+   "fuego_imaginado_total": 0.0
+  },
+  {
+   "sem": 21308206,
+   "slot": 10,
+   "id": 4,
+   "nace": 12632,
+   "aceptada": 12667,
+   "pos0": [
+    25,
+    29
+   ],
+   "d0": 5.1,
+   "cal0": 5.02,
+   "obs0": 6,
+   "arde_al_nacer_segun_proyeccion": true,
+   "quema_al_nacer_segun_juego": false,
+   "hp0": 93.0,
+   "mri0": 0,
+   "destino": [
+    24,
+    29
+   ],
+   "tics": [
+    12643,
+    12693,
+    12743,
+    12996
+   ],
+   "curva": [
+    {
+     "tic": 12643,
+     "vida": 93.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      29
+     ],
+     "vida_real": 93.0,
+     "fuego_real_siguiendo": 0.0,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      24,
+      30
+     ]
+    },
+    {
+     "tic": 12693,
+     "vida": 93.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      29
+     ],
+     "vida_real": 100.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      24,
+      30
+     ]
+    },
+    {
+     "tic": 12743,
+     "vida": 93.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      29
+     ],
+     "vida_real": 86.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 13.12,
+     "pos_real": [
+      26,
+      29
+     ]
+    },
+    {
+     "tic": 12996,
+     "vida": 93.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      29
+     ],
+     "vida_real": 14.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 19.68,
+     "pos_real": [
+      29,
+      25
+     ]
+    }
+   ],
+   "caida": "vida real",
+   "X": 80.0,
+   "Y": 93.0,
+   "fuego_real_siguiendo_hasta_fin": 6.56,
+   "fuego_real_desviado_hasta_fin": 19.68,
+   "fuego_imaginado_total": 0.0
+  },
+  {
+   "sem": 21308206,
+   "slot": 10,
+   "id": 7,
+   "nace": 12857,
+   "aceptada": 12892,
+   "pos0": [
+    29,
+    27
+   ],
+   "d0": 5.83,
+   "cal0": 5.0,
+   "obs0": 5,
+   "arde_al_nacer_segun_proyeccion": true,
+   "quema_al_nacer_segun_juego": true,
+   "hp0": 54.0,
+   "mri0": 0,
+   "destino": [
+    27,
+    25
+   ],
+   "tics": [
+    12879,
+    12974
+   ],
+   "curva": [
+    {
+     "tic": 12879,
+     "vida": 54.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      27,
+      25
+     ],
+     "vida_real": 47.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      29,
+      26
+     ]
+    },
+    {
+     "tic": 12974,
+     "vida": 54.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      27,
+      25
+     ],
+     "vida_real": 21.0,
+     "fuego_real_siguiendo": 13.12,
+     "fuego_real_desviado": 6.56,
+     "pos_real": [
+      29,
+      27
+     ]
+    }
+   ],
+   "caida": "vida real",
+   "X": 34.0,
+   "Y": 54.0,
+   "fuego_real_siguiendo_hasta_fin": 13.12,
+   "fuego_real_desviado_hasta_fin": 6.56,
+   "fuego_imaginado_total": 0.0
+  },
+  {
+   "sem": 21308206,
+   "slot": 10,
+   "id": 8,
+   "nace": 12928,
+   "aceptada": 12956,
+   "pos0": [
+    29,
+    26
+   ],
+   "d0": 5.39,
+   "cal0": 5.0,
+   "obs0": 5,
+   "arde_al_nacer_segun_proyeccion": true,
+   "quema_al_nacer_segun_juego": true,
+   "hp0": 34.0,
+   "mri0": 0,
+   "destino": [
+    27,
+    25
+   ],
+   "tics": [
+    12950,
+    12985
+   ],
+   "curva": [
+    {
+     "tic": 12950,
+     "vida": 34.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      27,
+      25
+     ],
+     "vida_real": 27.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      29,
+      28
+     ]
+    },
+    {
+     "tic": 12985,
+     "vida": 84.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      27,
+      25
+     ],
+     "vida_real": 14.0,
+     "fuego_real_siguiendo": 13.12,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      29,
+      26
+     ]
+    }
+   ],
+   "caida": "vida real",
+   "X": 21.0,
+   "Y": 34.0,
+   "fuego_real_siguiendo_hasta_fin": 13.12,
+   "fuego_real_desviado_hasta_fin": 0.0,
+   "fuego_imaginado_total": 0.0
+  },
+  {
+   "sem": 21308206,
+   "slot": 11,
+   "id": 10,
+   "nace": 12928,
+   "aceptada": 12944,
+   "pos0": [
+    25,
+    29
+   ],
+   "d0": 5.1,
+   "cal0": 5.0,
+   "obs0": 5,
+   "arde_al_nacer_segun_proyeccion": true,
+   "quema_al_nacer_segun_juego": true,
+   "hp0": 49.0,
+   "mri0": 0,
+   "destino": [
+    25,
+    27
+   ],
+   "tics": [
+    12950,
+    12996
+   ],
+   "curva": [
+    {
+     "tic": 12950,
+     "vida": 99.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      25,
+      27
+     ],
+     "vida_real": 43.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      25,
+      29
+     ]
+    },
+    {
+     "tic": 12996,
+     "vida": 99.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      25,
+      27
+     ],
+     "vida_real": 36.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      24,
+      28
+     ]
+    }
+   ],
+   "caida": "reevaluacion",
+   "X": null,
+   "Y": null,
+   "fuego_real_siguiendo_hasta_fin": 6.56,
+   "fuego_real_desviado_hasta_fin": 0.0,
+   "fuego_imaginado_total": 0.0
+  },
+  {
+   "sem": 21412935,
+   "slot": 11,
+   "id": 2,
+   "nace": 12663,
+   "aceptada": 12678,
+   "pos0": [
+    22,
+    19
+   ],
+   "d0": 5.39,
+   "cal0": 5.0,
+   "obs0": 5,
+   "arde_al_nacer_segun_proyeccion": true,
+   "quema_al_nacer_segun_juego": true,
+   "hp0": 71.0,
+   "mri0": 0,
+   "destino": [
+    19,
+    24
+   ],
+   "tics": [
+    12718,
+    12768,
+    12818,
+    12996
+   ],
+   "curva": [
+    {
+     "tic": 12718,
+     "vida": 64.33,
+     "fuego_imaginado": 6.67,
+     "pos": [
+      19,
+      24
+     ],
+     "vida_real": 58.0,
+     "fuego_real_siguiendo": 13.12,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      20,
+      18
+     ]
+    },
+    {
+     "tic": 12768,
+     "vida": 64.33,
+     "fuego_imaginado": 6.67,
+     "pos": [
+      19,
+      24
+     ],
+     "vida_real": 44.0,
+     "fuego_real_siguiendo": 13.12,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      21,
+      18
+     ]
+    },
+    {
+     "tic": 12818,
+     "vida": 64.33,
+     "fuego_imaginado": 6.67,
+     "pos": [
+      19,
+      24
+     ],
+     "vida_real": 25.0,
+     "fuego_real_siguiendo": 13.12,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      20,
+      19
+     ]
+    },
+    {
+     "tic": 12996,
+     "vida": 64.33,
+     "fuego_imaginado": 6.67,
+     "pos": [
+      19,
+      24
+     ]
+    }
+   ],
+   "caida": "reevaluacion",
+   "X": null,
+   "Y": null,
+   "fuego_real_siguiendo_hasta_fin": 13.12,
+   "fuego_real_desviado_hasta_fin": 0.0,
+   "fuego_imaginado_total": 6.67
+  },
+  {
+   "sem": 21412935,
+   "slot": 11,
+   "id": 3,
+   "nace": 12702,
+   "aceptada": 12716,
+   "pos0": [
+    19,
+    18
+   ],
+   "d0": 7.81,
+   "cal0": 5.0,
+   "obs0": 5,
+   "arde_al_nacer_segun_proyeccion": true,
+   "quema_al_nacer_segun_juego": true,
+   "hp0": 58.0,
+   "mri0": 0,
+   "destino": [
+    23,
+    20
+   ],
+   "tics": [
+    12746,
+    12796,
+    12846,
+    12996
+   ],
+   "curva": [
+    {
+     "tic": 12746,
+     "vida": 54.67,
+     "fuego_imaginado": 3.33,
+     "pos": [
+      23,
+      20
+     ],
+     "vida_real": 44.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      22,
+      19
+     ]
+    },
+    {
+     "tic": 12796,
+     "vida": 54.67,
+     "fuego_imaginado": 3.33,
+     "pos": [
+      23,
+      20
+     ],
+     "vida_real": 31.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      20,
+      18
+     ]
+    },
+    {
+     "tic": 12846,
+     "vida": 54.67,
+     "fuego_imaginado": 3.33,
+     "pos": [
+      23,
+      20
+     ],
+     "vida_real": 18.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      19,
+      22
+     ]
+    },
+    {
+     "tic": 12996,
+     "vida": 54.67,
+     "fuego_imaginado": 3.33,
+     "pos": [
+      23,
+      20
+     ]
+    }
+   ],
+   "caida": "reevaluacion",
+   "X": null,
+   "Y": null,
+   "fuego_real_siguiendo_hasta_fin": 6.56,
+   "fuego_real_desviado_hasta_fin": 0.0,
+   "fuego_imaginado_total": 3.33
+  },
+  {
+   "sem": 21412935,
+   "slot": 11,
+   "id": 5,
+   "nace": 12767,
+   "aceptada": 12787,
+   "pos0": [
+    21,
+    18
+   ],
+   "d0": 6.71,
+   "cal0": 5.0,
+   "obs0": 5,
+   "arde_al_nacer_segun_proyeccion": true,
+   "quema_al_nacer_segun_juego": true,
+   "hp0": 44.0,
+   "mri0": 0,
+   "destino": [
+    20,
+    23
+   ],
+   "tics": [
+    12822,
+    12872,
+    12922,
+    12996
+   ],
+   "curva": [
+    {
+     "tic": 12822,
+     "vida": 37.33,
+     "fuego_imaginado": 6.67,
+     "pos": [
+      20,
+      23
+     ],
+     "vida_real": 25.0,
+     "fuego_real_siguiendo": 19.68,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      19,
+      20
+     ]
+    },
+    {
+     "tic": 12872,
+     "vida": 37.33,
+     "fuego_imaginado": 6.67,
+     "pos": [
+      20,
+      23
+     ],
+     "vida_real": 12.0,
+     "fuego_real_siguiendo": 26.24,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      18,
+      24
+     ]
+    },
+    {
+     "tic": 12922,
+     "vida": 37.33,
+     "fuego_imaginado": 6.67,
+     "pos": [
+      20,
+      23
+     ]
+    },
+    {
+     "tic": 12996,
+     "vida": 37.33,
+     "fuego_imaginado": 6.67,
+     "pos": [
+      20,
+      23
+     ]
+    }
+   ],
+   "caida": "vida real",
+   "X": 18.0,
+   "Y": 37.0,
+   "fuego_real_siguiendo_hasta_fin": 26.24,
+   "fuego_real_desviado_hasta_fin": 0.0,
+   "fuego_imaginado_total": 6.67
+  },
+  {
+   "sem": 21517664,
+   "slot": 10,
+   "id": 4,
+   "nace": 12517,
+   "aceptada": 12540,
+   "pos0": [
+    26,
+    18
+   ],
+   "d0": 6.32,
+   "cal0": 5.66,
+   "obs0": 6,
+   "arde_al_nacer_segun_proyeccion": true,
+   "quema_al_nacer_segun_juego": true,
+   "hp0": 79.0,
+   "mri0": 0,
+   "destino": [
+    24,
+    19
+   ],
+   "tics": [
+    12540,
+    12590,
+    12640,
+    12940
+   ],
+   "curva": [
+    {
+     "tic": 12540,
+     "vida": 79.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      19
+     ],
+     "vida_real": 79.0,
+     "fuego_real_siguiendo": 0.0,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      26,
+      18
+     ]
+    },
+    {
+     "tic": 12590,
+     "vida": 79.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      19
+     ],
+     "vida_real": 79.0,
+     "fuego_real_siguiendo": 0.0,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      24,
+      19
+     ]
+    },
+    {
+     "tic": 12640,
+     "vida": 79.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      19
+     ],
+     "vida_real": 79.0,
+     "fuego_real_siguiendo": 0.0,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      25,
+      19
+     ]
+    },
+    {
+     "tic": 12940,
+     "vida": 79.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      19
+     ],
+     "vida_real": 46.0,
+     "fuego_real_siguiendo": 0.0,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      23,
+      20
+     ]
+    }
+   ],
+   "caida": "reevaluacion",
+   "X": null,
+   "Y": null,
+   "fuego_real_siguiendo_hasta_fin": 0.0,
+   "fuego_real_desviado_hasta_fin": 0.0,
+   "fuego_imaginado_total": 0.0
+  },
+  {
+   "sem": 21517664,
+   "slot": 11,
+   "id": 3,
+   "nace": 12578,
+   "aceptada": 12621,
+   "pos0": [
+    26,
+    18
+   ],
+   "d0": 6.32,
+   "cal0": 5.32,
+   "obs0": 6,
+   "arde_al_nacer_segun_proyeccion": true,
+   "quema_al_nacer_segun_juego": true,
+   "hp0": 65.0,
+   "mri0": 0,
+   "destino": [
+    24,
+    19
+   ],
+   "tics": [
+    12600,
+    12650,
+    12700,
+    12996
+   ],
+   "curva": [
+    {
+     "tic": 12600,
+     "vida": 65.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      19
+     ],
+     "vida_real": 65.0,
+     "fuego_real_siguiendo": 0.0,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      26,
+      19
+     ]
+    },
+    {
+     "tic": 12650,
+     "vida": 100.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      19
+     ],
+     "vida_real": 52.0,
+     "fuego_real_siguiendo": 0.0,
+     "fuego_real_desviado": 13.12,
+     "pos_real": [
+      25,
+      18
+     ]
+    },
+    {
+     "tic": 12700,
+     "vida": 100.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      19
+     ],
+     "vida_real": 39.0,
+     "fuego_real_siguiendo": 0.0,
+     "fuego_real_desviado": 13.12,
+     "pos_real": [
+      27,
+      19
+     ]
+    },
+    {
+     "tic": 12996,
+     "vida": 100.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      19
+     ]
+    }
+   ],
+   "caida": "vida real",
+   "X": 52.0,
+   "Y": 65.0,
+   "fuego_real_siguiendo_hasta_fin": 0.0,
+   "fuego_real_desviado_hasta_fin": 13.12,
+   "fuego_imaginado_total": 0.0
+  },
+  {
+   "sem": 21517664,
+   "slot": 11,
+   "id": 5,
+   "nace": 12706,
+   "aceptada": 12734,
+   "pos0": [
+    27,
+    19
+   ],
+   "d0": 5.83,
+   "cal0": 5.0,
+   "obs0": 5,
+   "arde_al_nacer_segun_proyeccion": true,
+   "quema_al_nacer_segun_juego": true,
+   "hp0": 39.0,
+   "mri0": 0,
+   "destino": [
+    24,
+    20
+   ],
+   "tics": [
+    12739,
+    12789,
+    12839,
+    12996
+   ],
+   "curva": [
+    {
+     "tic": 12739,
+     "vida": 39.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      20
+     ],
+     "vida_real": 32.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      27,
+      19
+     ]
+    },
+    {
+     "tic": 12789,
+     "vida": 39.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      20
+     ],
+     "vida_real": 19.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 6.56,
+     "pos_real": [
+      27,
+      19
+     ]
+    },
+    {
+     "tic": 12839,
+     "vida": 39.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      20
+     ],
+     "vida_real": 6.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 6.56,
+     "pos_real": [
+      25,
+      19
+     ]
+    },
+    {
+     "tic": 12996,
+     "vida": 39.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      20
+     ]
+    }
+   ],
+   "caida": "vida real",
+   "X": 25.0,
+   "Y": 39.0,
+   "fuego_real_siguiendo_hasta_fin": 6.56,
+   "fuego_real_desviado_hasta_fin": 6.56,
+   "fuego_imaginado_total": 0.0
+  },
+  {
+   "sem": 21622393,
+   "slot": 10,
+   "id": 4,
+   "nace": 12790,
+   "aceptada": 12812,
+   "pos0": [
+    25,
+    29
+   ],
+   "d0": 5.1,
+   "cal0": 5.0,
+   "obs0": 5,
+   "arde_al_nacer_segun_proyeccion": true,
+   "quema_al_nacer_segun_juego": true,
+   "hp0": 77.0,
+   "mri0": 0,
+   "destino": [
+    24,
+    28
+   ],
+   "tics": [
+    12801,
+    12851,
+    12901,
+    12996
+   ],
+   "curva": [
+    {
+     "tic": 12801,
+     "vida": 77.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      28
+     ],
+     "vida_real": 70.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      26,
+      29
+     ]
+    },
+    {
+     "tic": 12851,
+     "vida": 77.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      28
+     ],
+     "vida_real": 57.0,
+     "fuego_real_siguiendo": 13.12,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      25,
+      29
+     ]
+    },
+    {
+     "tic": 12901,
+     "vida": 77.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      28
+     ],
+     "vida_real": 51.0,
+     "fuego_real_siguiendo": 13.12,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      24,
+      29
+     ]
+    },
+    {
+     "tic": 12996,
+     "vida": 77.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      28
+     ],
+     "vida_real": 44.0,
+     "fuego_real_siguiendo": 13.12,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      23,
+      27
+     ]
+    }
+   ],
+   "caida": "vida real",
+   "X": 64.0,
+   "Y": 77.0,
+   "fuego_real_siguiendo_hasta_fin": 13.12,
+   "fuego_real_desviado_hasta_fin": 0.0,
+   "fuego_imaginado_total": 0.0
+  },
+  {
+   "sem": 21622393,
+   "slot": 10,
+   "id": 5,
+   "nace": 12855,
+   "aceptada": 12885,
+   "pos0": [
+    25,
+    29
+   ],
+   "d0": 5.1,
+   "cal0": 5.0,
+   "obs0": 5,
+   "arde_al_nacer_segun_proyeccion": true,
+   "quema_al_nacer_segun_juego": true,
+   "hp0": 57.0,
+   "mri0": 0,
+   "destino": [
+    24,
+    28
+   ],
+   "tics": [
+    12866,
+    12916,
+    12966,
+    12996
+   ],
+   "curva": [
+    {
+     "tic": 12866,
+     "vida": 57.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      28
+     ],
+     "vida_real": 57.0,
+     "fuego_real_siguiendo": 0.0,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      24,
+      29
+     ]
+    },
+    {
+     "tic": 12916,
+     "vida": 57.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      28
+     ],
+     "vida_real": 51.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      24,
+      29
+     ]
+    },
+    {
+     "tic": 12966,
+     "vida": 57.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      28
+     ],
+     "vida_real": 44.0,
+     "fuego_real_siguiendo": 13.12,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      23,
+      27
+     ]
+    },
+    {
+     "tic": 12996,
+     "vida": 57.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      28
+     ],
+     "vida_real": 44.0,
+     "fuego_real_siguiendo": 13.12,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      23,
+      27
+     ]
+    }
+   ],
+   "caida": "vida real",
+   "X": 44.0,
+   "Y": 57.0,
+   "fuego_real_siguiendo_hasta_fin": 13.12,
+   "fuego_real_desviado_hasta_fin": 0.0,
+   "fuego_imaginado_total": 0.0
+  },
+  {
+   "sem": 21622393,
+   "slot": 11,
+   "id": 1,
+   "nace": 12488,
+   "aceptada": 12506,
+   "pos0": [
+    26,
+    30
+   ],
+   "d0": 6.32,
+   "cal0": 5.82,
+   "obs0": 6,
+   "arde_al_nacer_segun_proyeccion": true,
+   "quema_al_nacer_segun_juego": true,
+   "hp0": 87.0,
+   "mri0": 0,
+   "destino": [
+    24,
+    28
+   ],
+   "tics": [
+    12510,
+    12560,
+    12610,
+    12910
+   ],
+   "curva": [
+    {
+     "tic": 12510,
+     "vida": 100.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      28
+     ],
+     "vida_real": 100.0,
+     "fuego_real_siguiendo": 0.0,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      25,
+      29
+     ]
+    },
+    {
+     "tic": 12560,
+     "vida": 100.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      28
+     ],
+     "vida_real": 100.0,
+     "fuego_real_siguiendo": 0.0,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      25,
+      29
+     ]
+    },
+    {
+     "tic": 12610,
+     "vida": 100.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      28
+     ],
+     "vida_real": 100.0,
+     "fuego_real_siguiendo": 0.0,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      24,
+      28
+     ]
+    },
+    {
+     "tic": 12910,
+     "vida": 100.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      28
+     ],
+     "vida_real": 100.0,
+     "fuego_real_siguiendo": 0.0,
+     "fuego_real_desviado": 13.12,
+     "pos_real": [
+      24,
+      28
+     ]
+    }
+   ],
+   "caida": "vida real",
+   "X": 86.0,
+   "Y": 100.0,
+   "fuego_real_siguiendo_hasta_fin": 0.0,
+   "fuego_real_desviado_hasta_fin": 13.12,
+   "fuego_imaginado_total": 0.0
+  },
+  {
+   "sem": 21727122,
+   "slot": 11,
+   "id": 2,
+   "nace": 12506,
+   "aceptada": 12555,
+   "pos0": [
+    19,
+    28
+   ],
+   "d0": 6.4,
+   "cal0": 5.72,
+   "obs0": 6,
+   "arde_al_nacer_segun_proyeccion": true,
+   "quema_al_nacer_segun_juego": true,
+   "hp0": 93.0,
+   "mri0": 0,
+   "destino": [
+    23,
+    28
+   ],
+   "tics": [
+    12550,
+    12600,
+    12650,
+    12950
+   ],
+   "curva": [
+    {
+     "tic": 12550,
+     "vida": 100.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      23,
+      28
+     ],
+     "vida_real": 100.0,
+     "fuego_real_siguiendo": 0.0,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      22,
+      29
+     ]
+    },
+    {
+     "tic": 12600,
+     "vida": 100.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      23,
+      28
+     ],
+     "vida_real": 100.0,
+     "fuego_real_siguiendo": 0.0,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      23,
+      29
+     ]
+    },
+    {
+     "tic": 12650,
+     "vida": 100.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      23,
+      28
+     ],
+     "vida_real": 93.0,
+     "fuego_real_siguiendo": 0.0,
+     "fuego_real_desviado": 6.56,
+     "pos_real": [
+      25,
+      29
+     ]
+    },
+    {
+     "tic": 12950,
+     "vida": 100.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      23,
+      28
+     ],
+     "vida_real": 14.0,
+     "fuego_real_siguiendo": 0.0,
+     "fuego_real_desviado": 13.12,
+     "pos_real": [
+      28,
+      29
+     ]
+    }
+   ],
+   "caida": "vida real",
+   "X": 86.0,
+   "Y": 100.0,
+   "fuego_real_siguiendo_hasta_fin": 0.0,
+   "fuego_real_desviado_hasta_fin": 13.12,
+   "fuego_imaginado_total": 0.0
+  },
+  {
+   "sem": 21727122,
+   "slot": 11,
+   "id": 3,
+   "nace": 12702,
+   "aceptada": 12746,
+   "pos0": [
+    27,
+    29
+   ],
+   "d0": 5.83,
+   "cal0": 5.0,
+   "obs0": 5,
+   "arde_al_nacer_segun_proyeccion": true,
+   "quema_al_nacer_segun_juego": true,
+   "hp0": 80.0,
+   "mri0": 0,
+   "destino": [
+    24,
+    28
+   ],
+   "tics": [
+    12735,
+    12785,
+    12835,
+    12996
+   ],
+   "curva": [
+    {
+     "tic": 12735,
+     "vida": 80.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      28
+     ],
+     "vida_real": 73.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      27,
+      29
+     ]
+    },
+    {
+     "tic": 12785,
+     "vida": 100.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      28
+     ],
+     "vida_real": 60.0,
+     "fuego_real_siguiendo": 13.12,
+     "fuego_real_desviado": 6.56,
+     "pos_real": [
+      29,
+      28
+     ]
+    },
+    {
+     "tic": 12835,
+     "vida": 100.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      28
+     ],
+     "vida_real": 47.0,
+     "fuego_real_siguiendo": 13.12,
+     "fuego_real_desviado": 6.56,
+     "pos_real": [
+      29,
+      27
+     ]
+    },
+    {
+     "tic": 12996,
+     "vida": 100.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      28
+     ],
+     "vida_real": 1.0,
+     "fuego_real_siguiendo": 13.12,
+     "fuego_real_desviado": 6.56,
+     "pos_real": [
+      29,
+      27
+     ]
+    }
+   ],
+   "caida": "vida real",
+   "X": 60.0,
+   "Y": 80.0,
+   "fuego_real_siguiendo_hasta_fin": 13.12,
+   "fuego_real_desviado_hasta_fin": 6.56,
+   "fuego_imaginado_total": 0.0
+  },
+  {
+   "sem": 21727122,
+   "slot": 11,
+   "id": 5,
+   "nace": 12847,
+   "aceptada": 12884,
+   "pos0": [
+    29,
+    28
+   ],
+   "d0": 6.4,
+   "cal0": 5.0,
+   "obs0": 5,
+   "arde_al_nacer_segun_proyeccion": true,
+   "quema_al_nacer_segun_juego": true,
+   "hp0": 40.0,
+   "mri0": 0,
+   "destino": [
+    28,
+    24
+   ],
+   "tics": [
+    12891,
+    12996
+   ],
+   "curva": [
+    {
+     "tic": 12891,
+     "vida": 40.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      28,
+      24
+     ],
+     "vida_real": 27.0,
+     "fuego_real_siguiendo": 13.12,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      29,
+      29
+     ]
+    },
+    {
+     "tic": 12996,
+     "vida": 90.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      28,
+      24
+     ],
+     "vida_real": 1.0,
+     "fuego_real_siguiendo": 13.12,
+     "fuego_real_desviado": 6.56,
+     "pos_real": [
+      29,
+      27
+     ]
+    }
+   ],
+   "caida": "vida real",
+   "X": 21.0,
+   "Y": 40.0,
+   "fuego_real_siguiendo_hasta_fin": 13.12,
+   "fuego_real_desviado_hasta_fin": 6.56,
+   "fuego_imaginado_total": 0.0
+  },
+  {
+   "sem": 21831851,
+   "slot": 10,
+   "id": 1,
+   "nace": 12372,
+   "aceptada": 12392,
+   "pos0": [
+    26,
+    30
+   ],
+   "d0": 6.32,
+   "cal0": 6.47,
+   "obs0": 7,
+   "arde_al_nacer_segun_proyeccion": false,
+   "quema_al_nacer_segun_juego": false,
+   "hp0": 92.0,
+   "mri0": 0,
+   "destino": [
+    24,
+    28
+   ],
+   "tics": [
+    12394,
+    12444,
+    12494,
+    12794
+   ],
+   "curva": [
+    {
+     "tic": 12394,
+     "vida": 92.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      28
+     ],
+     "vida_real": 92.0,
+     "fuego_real_siguiendo": 0.0,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      25,
+      29
+     ]
+    },
+    {
+     "tic": 12444,
+     "vida": 92.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      28
+     ],
+     "vida_real": 92.0,
+     "fuego_real_siguiendo": 0.0,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      23,
+      28
+     ]
+    },
+    {
+     "tic": 12494,
+     "vida": 92.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      28
+     ],
+     "vida_real": 92.0,
+     "fuego_real_siguiendo": 0.0,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      23,
+      27
+     ]
+    },
+    {
+     "tic": 12794,
+     "vida": 92.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      28
+     ],
+     "vida_real": 92.0,
+     "fuego_real_siguiendo": 0.0,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      21,
+      27
+     ]
+    }
+   ],
+   "caida": "reevaluacion",
+   "X": null,
+   "Y": null,
+   "fuego_real_siguiendo_hasta_fin": 0.0,
+   "fuego_real_desviado_hasta_fin": 0.0,
+   "fuego_imaginado_total": 0.0
+  },
+  {
+   "sem": 21831851,
+   "slot": 11,
+   "id": 1,
+   "nace": 12355,
+   "aceptada": 12367,
+   "pos0": [
+    26,
+    30
+   ],
+   "d0": 6.32,
+   "cal0": 6.56,
+   "obs0": 7,
+   "arde_al_nacer_segun_proyeccion": false,
+   "quema_al_nacer_segun_juego": false,
+   "hp0": 100.0,
+   "mri0": 0,
+   "destino": [
+    24,
+    28
+   ],
+   "tics": [
+    12377,
+    12427,
+    12477,
+    12777
+   ],
+   "curva": [
+    {
+     "tic": 12377,
+     "vida": 100.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      28
+     ],
+     "vida_real": 100.0,
+     "fuego_real_siguiendo": 0.0,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      25,
+      29
+     ]
+    },
+    {
+     "tic": 12427,
+     "vida": 100.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      28
+     ],
+     "vida_real": 100.0,
+     "fuego_real_siguiendo": 0.0,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      24,
+      28
+     ]
+    },
+    {
+     "tic": 12477,
+     "vida": 100.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      28
+     ],
+     "vida_real": 100.0,
+     "fuego_real_siguiendo": 0.0,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      24,
+      26
+     ]
+    },
+    {
+     "tic": 12777,
+     "vida": 100.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      28
+     ],
+     "vida_real": 100.0,
+     "fuego_real_siguiendo": 0.0,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      22,
+      27
+     ]
+    }
+   ],
+   "caida": "reevaluacion",
+   "X": null,
+   "Y": null,
+   "fuego_real_siguiendo_hasta_fin": 0.0,
+   "fuego_real_desviado_hasta_fin": 0.0,
+   "fuego_imaginado_total": 0.0
+  },
+  {
+   "sem": 21936580,
+   "slot": 10,
+   "id": 4,
+   "nace": 12801,
+   "aceptada": 12839,
+   "pos0": [
+    19,
+    26
+   ],
+   "d0": 5.39,
+   "cal0": 5.0,
+   "obs0": 5,
+   "arde_al_nacer_segun_proyeccion": true,
+   "quema_al_nacer_segun_juego": true,
+   "hp0": 50.0,
+   "mri0": 0,
+   "destino": [
+    20,
+    24
+   ],
+   "tics": [
+    12823,
+    12873,
+    12923,
+    12996
+   ],
+   "curva": [
+    {
+     "tic": 12823,
+     "vida": 50.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      20,
+      24
+     ],
+     "vida_real": 44.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      19,
+      28
+     ]
+    },
+    {
+     "tic": 12873,
+     "vida": 100.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      20,
+      24
+     ],
+     "vida_real": 31.0,
+     "fuego_real_siguiendo": 13.12,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      19,
+      27
+     ]
+    },
+    {
+     "tic": 12923,
+     "vida": 100.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      20,
+      24
+     ],
+     "vida_real": 17.0,
+     "fuego_real_siguiendo": 13.12,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      20,
+      29
+     ]
+    },
+    {
+     "tic": 12996,
+     "vida": 100.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      20,
+      24
+     ]
+    }
+   ],
+   "caida": "vida real",
+   "X": 37.0,
+   "Y": 50.0,
+   "fuego_real_siguiendo_hasta_fin": 13.12,
+   "fuego_real_desviado_hasta_fin": 0.0,
+   "fuego_imaginado_total": 0.0
+  },
+  {
+   "sem": 21936580,
+   "slot": 10,
+   "id": 5,
+   "nace": 12886,
+   "aceptada": 12922,
+   "pos0": [
+    19,
+    28
+   ],
+   "d0": 6.4,
+   "cal0": 5.0,
+   "obs0": 5,
+   "arde_al_nacer_segun_proyeccion": true,
+   "quema_al_nacer_segun_juego": true,
+   "hp0": 31.0,
+   "mri0": 0,
+   "destino": [
+    20,
+    24
+   ],
+   "tics": [
+    12930,
+    12996
+   ],
+   "curva": [
+    {
+     "tic": 12930,
+     "vida": 31.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      20,
+      24
+     ],
+     "vida_real": 17.0,
+     "fuego_real_siguiendo": 13.12,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      20,
+      29
+     ]
+    },
+    {
+     "tic": 12996,
+     "vida": 31.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      20,
+      24
+     ]
+    }
+   ],
+   "caida": "vida real",
+   "X": 11.0,
+   "Y": 31.0,
+   "fuego_real_siguiendo_hasta_fin": 19.68,
+   "fuego_real_desviado_hasta_fin": 0.0,
+   "fuego_imaginado_total": 0.0
+  },
+  {
+   "sem": 21936580,
+   "slot": 11,
+   "id": 3,
+   "nace": 12498,
+   "aceptada": 12514,
+   "pos0": [
+    21,
+    29
+   ],
+   "d0": 5.83,
+   "cal0": 5.77,
+   "obs0": 6,
+   "arde_al_nacer_segun_proyeccion": true,
+   "quema_al_nacer_segun_juego": false,
+   "hp0": 76.0,
+   "mri0": 0,
+   "destino": [
+    21,
+    26
+   ],
+   "tics": [
+    12531,
+    12581,
+    12631,
+    12931
+   ],
+   "curva": [
+    {
+     "tic": 12531,
+     "vida": 76.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      21,
+      26
+     ],
+     "vida_real": 69.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      21,
+      29
+     ]
+    },
+    {
+     "tic": 12581,
+     "vida": 76.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      21,
+      26
+     ],
+     "vida_real": 69.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      21,
+      29
+     ]
+    },
+    {
+     "tic": 12631,
+     "vida": 76.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      21,
+      26
+     ],
+     "vida_real": 69.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      21,
+      29
+     ]
+    },
+    {
+     "tic": 12931,
+     "vida": 76.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      21,
+      26
+     ],
+     "vida_real": 93.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      21,
+      25
+     ]
+    }
+   ],
+   "caida": "reevaluacion",
+   "X": null,
+   "Y": null,
+   "fuego_real_siguiendo_hasta_fin": 6.56,
+   "fuego_real_desviado_hasta_fin": 0.0,
+   "fuego_imaginado_total": 0.0
+  },
+  {
+   "sem": 21936580,
+   "slot": 11,
+   "id": 4,
+   "nace": 12575,
+   "aceptada": 12595,
+   "pos0": [
+    22,
+    29
+   ],
+   "d0": 5.39,
+   "cal0": 5.34,
+   "obs0": 6,
+   "arde_al_nacer_segun_proyeccion": true,
+   "quema_al_nacer_segun_juego": false,
+   "hp0": 69.0,
+   "mri0": 0,
+   "destino": [
+    21,
+    26
+   ],
+   "tics": [
+    12608,
+    12658,
+    12708,
+    12996
+   ],
+   "curva": [
+    {
+     "tic": 12608,
+     "vida": 69.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      21,
+      26
+     ],
+     "vida_real": 69.0,
+     "fuego_real_siguiendo": 0.0,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      22,
+      29
+     ]
+    },
+    {
+     "tic": 12658,
+     "vida": 69.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      21,
+      26
+     ],
+     "vida_real": 62.0,
+     "fuego_real_siguiendo": 0.0,
+     "fuego_real_desviado": 6.56,
+     "pos_real": [
+      21,
+      29
+     ]
+    },
+    {
+     "tic": 12708,
+     "vida": 69.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      21,
+      26
+     ],
+     "vida_real": 49.0,
+     "fuego_real_siguiendo": 0.0,
+     "fuego_real_desviado": 13.12,
+     "pos_real": [
+      20,
+      29
+     ]
+    },
+    {
+     "tic": 12996,
+     "vida": 69.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      21,
+      26
+     ],
+     "vida_real": 93.0,
+     "fuego_real_siguiendo": 0.0,
+     "fuego_real_desviado": 13.12,
+     "pos_real": [
+      21,
+      25
+     ]
+    }
+   ],
+   "caida": "vida real",
+   "X": 56.0,
+   "Y": 69.0,
+   "fuego_real_siguiendo_hasta_fin": 0.0,
+   "fuego_real_desviado_hasta_fin": 13.12,
+   "fuego_imaginado_total": 0.0
+  },
+  {
+   "sem": 21936580,
+   "slot": 11,
+   "id": 5,
+   "nace": 12684,
+   "aceptada": 12703,
+   "pos0": [
+    22,
+    29
+   ],
+   "d0": 5.39,
+   "cal0": 5.0,
+   "obs0": 5,
+   "arde_al_nacer_segun_proyeccion": true,
+   "quema_al_nacer_segun_juego": true,
+   "hp0": 56.0,
+   "mri0": 0,
+   "destino": [
+    21,
+    26
+   ],
+   "tics": [
+    12717,
+    12767,
+    12817,
+    12996
+   ],
+   "curva": [
+    {
+     "tic": 12717,
+     "vida": 56.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      21,
+      26
+     ],
+     "vida_real": 49.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      21,
+      29
+     ]
+    },
+    {
+     "tic": 12767,
+     "vida": 56.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      21,
+      26
+     ],
+     "vida_real": 43.0,
+     "fuego_real_siguiendo": 13.12,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      21,
+      26
+     ]
+    },
+    {
+     "tic": 12817,
+     "vida": 56.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      21,
+      26
+     ],
+     "vida_real": 93.0,
+     "fuego_real_siguiendo": 13.12,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      20,
+      24
+     ]
+    },
+    {
+     "tic": 12996,
+     "vida": 56.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      21,
+      26
+     ],
+     "vida_real": 93.0,
+     "fuego_real_siguiendo": 13.12,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      21,
+      25
+     ]
+    }
+   ],
+   "caida": "vida real",
+   "X": 43.0,
+   "Y": 56.0,
+   "fuego_real_siguiendo_hasta_fin": 13.12,
+   "fuego_real_desviado_hasta_fin": 0.0,
+   "fuego_imaginado_total": 0.0
+  },
+  {
+   "sem": 22146038,
+   "slot": 10,
+   "id": 4,
+   "nace": 12224,
+   "aceptada": 12234,
+   "pos0": [
+    27,
+    17
+   ],
+   "d0": 7.62,
+   "cal0": 7.29,
+   "obs0": 8,
+   "arde_al_nacer_segun_proyeccion": true,
+   "quema_al_nacer_segun_juego": false,
+   "hp0": 38.0,
+   "mri0": 0,
+   "destino": [
+    24,
+    19
+   ],
+   "tics": [
+    12257,
+    12307,
+    12357,
+    12657
+   ],
+   "curva": [
+    {
+     "tic": 12257,
+     "vida": 38.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      19
+     ],
+     "vida_real": 31.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      26,
+      18
+     ]
+    },
+    {
+     "tic": 12307,
+     "vida": 38.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      19
+     ],
+     "vida_real": 31.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      24,
+      19
+     ]
+    },
+    {
+     "tic": 12357,
+     "vida": 38.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      19
+     ],
+     "vida_real": 31.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      24,
+      19
+     ]
+    },
+    {
+     "tic": 12657,
+     "vida": 38.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      19
+     ]
+    }
+   ],
+   "caida": "vida real",
+   "X": 17.0,
+   "Y": 38.0,
+   "fuego_real_siguiendo_hasta_fin": 6.56,
+   "fuego_real_desviado_hasta_fin": 6.56,
+   "fuego_imaginado_total": 0.0
+  },
+  {
+   "sem": 22146038,
+   "slot": 10,
+   "id": 5,
+   "nace": 12462,
+   "aceptada": 12473,
+   "pos0": [
+    25,
+    18
+   ],
+   "d0": 6.08,
+   "cal0": 5.97,
+   "obs0": 6,
+   "arde_al_nacer_segun_proyeccion": true,
+   "quema_al_nacer_segun_juego": true,
+   "hp0": 17.0,
+   "mri0": 0,
+   "destino": [
+    24,
+    19
+   ],
+   "tics": [
+    12473,
+    12523,
+    12573,
+    12873
+   ],
+   "curva": [
+    {
+     "tic": 12473,
+     "vida": 17.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      19
+     ],
+     "vida_real": 17.0,
+     "fuego_real_siguiendo": 0.0,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      26,
+      17
+     ]
+    },
+    {
+     "tic": 12523,
+     "vida": 17.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      19
+     ],
+     "vida_real": 4.0,
+     "fuego_real_siguiendo": 0.0,
+     "fuego_real_desviado": 6.56,
+     "pos_real": [
+      27,
+      17
+     ]
+    },
+    {
+     "tic": 12573,
+     "vida": 17.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      19
+     ]
+    },
+    {
+     "tic": 12873,
+     "vida": 17.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      19
+     ]
+    }
+   ],
+   "caida": "reevaluacion",
+   "X": null,
+   "Y": null,
+   "fuego_real_siguiendo_hasta_fin": 0.0,
+   "fuego_real_desviado_hasta_fin": 6.56,
+   "fuego_imaginado_total": 0.0
+  },
+  {
+   "sem": 22146038,
+   "slot": 11,
+   "id": 4,
+   "nace": 12161,
+   "aceptada": 12176,
+   "pos0": [
+    27,
+    17
+   ],
+   "d0": 7.62,
+   "cal0": 7.64,
+   "obs0": 8,
+   "arde_al_nacer_segun_proyeccion": false,
+   "quema_al_nacer_segun_juego": false,
+   "hp0": 70.0,
+   "mri0": 0,
+   "destino": [
+    24,
+    19
+   ],
+   "tics": [
+    12194,
+    12244,
+    12294,
+    12594
+   ],
+   "curva": [
+    {
+     "tic": 12194,
+     "vida": 70.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      19
+     ],
+     "vida_real": 63.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      26,
+      18
+     ]
+    },
+    {
+     "tic": 12244,
+     "vida": 70.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      19
+     ],
+     "vida_real": 63.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      24,
+      19
+     ]
+    },
+    {
+     "tic": 12294,
+     "vida": 70.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      19
+     ],
+     "vida_real": 63.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      25,
+      18
+     ]
+    },
+    {
+     "tic": 12594,
+     "vida": 70.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      19
+     ],
+     "vida_real": 37.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 6.56,
+     "pos_real": [
+      24,
+      19
+     ]
+    }
+   ],
+   "caida": "vida real",
+   "X": 56.0,
+   "Y": 70.0,
+   "fuego_real_siguiendo_hasta_fin": 6.56,
+   "fuego_real_desviado_hasta_fin": 6.56,
+   "fuego_imaginado_total": 0.0
+  },
+  {
+   "sem": 22146038,
+   "slot": 11,
+   "id": 5,
+   "nace": 12383,
+   "aceptada": 12393,
+   "pos0": [
+    26,
+    17
+   ],
+   "d0": 7.28,
+   "cal0": 6.41,
+   "obs0": 7,
+   "arde_al_nacer_segun_proyeccion": true,
+   "quema_al_nacer_segun_juego": true,
+   "hp0": 56.0,
+   "mri0": 0,
+   "destino": [
+    24,
+    19
+   ],
+   "tics": [
+    12405,
+    12455,
+    12505,
+    12805
+   ],
+   "curva": [
+    {
+     "tic": 12405,
+     "vida": 56.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      19
+     ],
+     "vida_real": 50.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      26,
+      17
+     ]
+    },
+    {
+     "tic": 12455,
+     "vida": 56.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      19
+     ],
+     "vida_real": 43.0,
+     "fuego_real_siguiendo": 13.12,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      27,
+      17
+     ]
+    },
+    {
+     "tic": 12505,
+     "vida": 56.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      19
+     ],
+     "vida_real": 37.0,
+     "fuego_real_siguiendo": 13.12,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      24,
+      19
+     ]
+    },
+    {
+     "tic": 12805,
+     "vida": 56.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      19
+     ]
+    }
+   ],
+   "caida": "vida real",
+   "X": 43.0,
+   "Y": 56.0,
+   "fuego_real_siguiendo_hasta_fin": 13.12,
+   "fuego_real_desviado_hasta_fin": 0.0,
+   "fuego_imaginado_total": 0.0
+  },
+  {
+   "sem": 22146038,
+   "slot": 11,
+   "id": 6,
+   "nace": 12444,
+   "aceptada": 12456,
+   "pos0": [
+    26,
+    18
+   ],
+   "d0": 6.32,
+   "cal0": 6.07,
+   "obs0": 7,
+   "arde_al_nacer_segun_proyeccion": true,
+   "quema_al_nacer_segun_juego": false,
+   "hp0": 43.0,
+   "mri0": 0,
+   "destino": [
+    24,
+    19
+   ],
+   "tics": [
+    12466,
+    12516,
+    12566,
+    12866
+   ],
+   "curva": [
+    {
+     "tic": 12466,
+     "vida": 43.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      19
+     ],
+     "vida_real": 37.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      26,
+      18
+     ]
+    },
+    {
+     "tic": 12516,
+     "vida": 43.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      19
+     ],
+     "vida_real": 37.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      24,
+      19
+     ]
+    },
+    {
+     "tic": 12566,
+     "vida": 43.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      19
+     ],
+     "vida_real": 37.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      24,
+      19
+     ]
+    },
+    {
+     "tic": 12866,
+     "vida": 43.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      24,
+      19
+     ]
+    }
+   ],
+   "caida": "vida real",
+   "X": 30.0,
+   "Y": 43.0,
+   "fuego_real_siguiendo_hasta_fin": 6.56,
+   "fuego_real_desviado_hasta_fin": 6.56,
+   "fuego_imaginado_total": 0.0
+  },
+  {
+   "sem": 22146038,
+   "slot": 11,
+   "id": 7,
+   "nace": 12678,
+   "aceptada": 12687,
+   "pos0": [
+    25,
+    18
+   ],
+   "d0": 6.08,
+   "cal0": 5.0,
+   "obs0": 5,
+   "arde_al_nacer_segun_proyeccion": true,
+   "quema_al_nacer_segun_juego": true,
+   "hp0": 24.0,
+   "mri0": 0,
+   "destino": [
+    28,
+    23
+   ],
+   "tics": [
+    12733,
+    12783,
+    12833,
+    12985
+   ],
+   "curva": [
+    {
+     "tic": 12733,
+     "vida": 20.67,
+     "fuego_imaginado": 3.33,
+     "pos": [
+      28,
+      23
+     ],
+     "vida_real": 10.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      29,
+      21
+     ]
+    },
+    {
+     "tic": 12783,
+     "vida": 20.67,
+     "fuego_imaginado": 3.33,
+     "pos": [
+      28,
+      23
+     ]
+    },
+    {
+     "tic": 12833,
+     "vida": 20.67,
+     "fuego_imaginado": 3.33,
+     "pos": [
+      28,
+      23
+     ]
+    },
+    {
+     "tic": 12985,
+     "vida": 20.67,
+     "fuego_imaginado": 3.33,
+     "pos": [
+      28,
+      23
+     ]
+    }
+   ],
+   "caida": "reevaluacion",
+   "X": null,
+   "Y": null,
+   "fuego_real_siguiendo_hasta_fin": 6.56,
+   "fuego_real_desviado_hasta_fin": 0.0,
+   "fuego_imaginado_total": 3.33
+  },
+  {
+   "sem": 22250767,
+   "slot": 10,
+   "id": 2,
+   "nace": 12444,
+   "aceptada": 12476,
+   "pos0": [
+    18,
+    26
+   ],
+   "d0": 6.32,
+   "cal0": 6.07,
+   "obs0": 7,
+   "arde_al_nacer_segun_proyeccion": true,
+   "quema_al_nacer_segun_juego": false,
+   "hp0": 91.0,
+   "mri0": 0,
+   "destino": [
+    19,
+    24
+   ],
+   "tics": [
+    12466,
+    12516,
+    12566,
+    12866
+   ],
+   "curva": [
+    {
+     "tic": 12466,
+     "vida": 91.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      19,
+      24
+     ],
+     "vida_real": 91.0,
+     "fuego_real_siguiendo": 0.0,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      19,
+      26
+     ]
+    },
+    {
+     "tic": 12516,
+     "vida": 91.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      19,
+      24
+     ],
+     "vida_real": 91.0,
+     "fuego_real_siguiendo": 0.0,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      19,
+      26
+     ]
+    },
+    {
+     "tic": 12566,
+     "vida": 91.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      19,
+      24
+     ],
+     "vida_real": 91.0,
+     "fuego_real_siguiendo": 0.0,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      19,
+      25
+     ]
+    },
+    {
+     "tic": 12866,
+     "vida": 91.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      19,
+      24
+     ],
+     "vida_real": 71.0,
+     "fuego_real_siguiendo": 0.0,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      19,
+      26
+     ]
+    }
+   ],
+   "caida": "reevaluacion",
+   "X": null,
+   "Y": null,
+   "fuego_real_siguiendo_hasta_fin": 0.0,
+   "fuego_real_desviado_hasta_fin": 0.0,
+   "fuego_imaginado_total": 0.0
+  },
+  {
+   "sem": 22250767,
+   "slot": 10,
+   "id": 4,
+   "nace": 12575,
+   "aceptada": 12639,
+   "pos0": [
+    19,
+    25
+   ],
+   "d0": 5.1,
+   "cal0": 5.34,
+   "obs0": 6,
+   "arde_al_nacer_segun_proyeccion": false,
+   "quema_al_nacer_segun_juego": false,
+   "hp0": 91.0,
+   "mri0": 0,
+   "destino": [
+    20,
+    24
+   ],
+   "tics": [
+    12586,
+    12636,
+    12686,
+    12986
+   ],
+   "curva": [
+    {
+     "tic": 12586,
+     "vida": 91.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      20,
+      24
+     ],
+     "vida_real": 91.0,
+     "fuego_real_siguiendo": 0.0,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      19,
+      26
+     ]
+    },
+    {
+     "tic": 12636,
+     "vida": 91.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      20,
+      24
+     ],
+     "vida_real": 91.0,
+     "fuego_real_siguiendo": 0.0,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      19,
+      27
+     ]
+    },
+    {
+     "tic": 12686,
+     "vida": 91.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      20,
+      24
+     ],
+     "vida_real": 84.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      20,
+      24
+     ]
+    },
+    {
+     "tic": 12986,
+     "vida": 91.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      20,
+      24
+     ],
+     "vida_real": 45.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      19,
+      25
+     ]
+    }
+   ],
+   "caida": "reevaluacion",
+   "X": null,
+   "Y": null,
+   "fuego_real_siguiendo_hasta_fin": 6.56,
+   "fuego_real_desviado_hasta_fin": 0.0,
+   "fuego_imaginado_total": 0.0
+  },
+  {
+   "sem": 22250767,
+   "slot": 10,
+   "id": 6,
+   "nace": 12853,
+   "aceptada": 12880,
+   "pos0": [
+    19,
+    25
+   ],
+   "d0": 5.1,
+   "cal0": 5.0,
+   "obs0": 5,
+   "arde_al_nacer_segun_proyeccion": true,
+   "quema_al_nacer_segun_juego": true,
+   "hp0": 77.0,
+   "mri0": 0,
+   "destino": [
+    21,
+    24
+   ],
+   "tics": [
+    12875,
+    12996
+   ],
+   "curva": [
+    {
+     "tic": 12875,
+     "vida": 77.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      21,
+      24
+     ],
+     "vida_real": 71.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      19,
+      27
+     ]
+    },
+    {
+     "tic": 12996,
+     "vida": 77.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      21,
+      24
+     ],
+     "vida_real": 45.0,
+     "fuego_real_siguiendo": 13.12,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      19,
+      25
+     ]
+    }
+   ],
+   "caida": "vida real",
+   "X": 64.0,
+   "Y": 77.0,
+   "fuego_real_siguiendo_hasta_fin": 13.12,
+   "fuego_real_desviado_hasta_fin": 0.0,
+   "fuego_imaginado_total": 0.0
+  },
+  {
+   "sem": 22250767,
+   "slot": 10,
+   "id": 7,
+   "nace": 12916,
+   "aceptada": 12944,
+   "pos0": [
+    19,
+    27
+   ],
+   "d0": 5.83,
+   "cal0": 5.0,
+   "obs0": 5,
+   "arde_al_nacer_segun_proyeccion": true,
+   "quema_al_nacer_segun_juego": true,
+   "hp0": 58.0,
+   "mri0": 0,
+   "destino": [
+    20,
+    24
+   ],
+   "tics": [
+    12949,
+    12996
+   ],
+   "curva": [
+    {
+     "tic": 12949,
+     "vida": 58.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      20,
+      24
+     ],
+     "vida_real": 51.0,
+     "fuego_real_siguiendo": 6.56,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      19,
+      27
+     ]
+    },
+    {
+     "tic": 12996,
+     "vida": 58.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      20,
+      24
+     ],
+     "vida_real": 45.0,
+     "fuego_real_siguiendo": 13.12,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      19,
+      25
+     ]
+    }
+   ],
+   "caida": "vida real",
+   "X": 45.0,
+   "Y": 58.0,
+   "fuego_real_siguiendo_hasta_fin": 13.12,
+   "fuego_real_desviado_hasta_fin": 0.0,
+   "fuego_imaginado_total": 0.0
+  },
+  {
+   "sem": 22250767,
+   "slot": 11,
+   "id": 1,
+   "nace": 12405,
+   "aceptada": 12460,
+   "pos0": [
+    18,
+    26
+   ],
+   "d0": 6.32,
+   "cal0": 6.28,
+   "obs0": 7,
+   "arde_al_nacer_segun_proyeccion": true,
+   "quema_al_nacer_segun_juego": false,
+   "hp0": 88.0,
+   "mri0": 0,
+   "destino": [
+    19,
+    24
+   ],
+   "tics": [
+    12427,
+    12477,
+    12527,
+    12827
+   ],
+   "curva": [
+    {
+     "tic": 12427,
+     "vida": 88.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      19,
+      24
+     ],
+     "vida_real": 88.0,
+     "fuego_real_siguiendo": 0.0,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      19,
+      26
+     ]
+    },
+    {
+     "tic": 12477,
+     "vida": 88.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      19,
+      24
+     ],
+     "vida_real": 88.0,
+     "fuego_real_siguiendo": 0.0,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      19,
+      25
+     ]
+    },
+    {
+     "tic": 12527,
+     "vida": 88.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      19,
+      24
+     ],
+     "vida_real": 88.0,
+     "fuego_real_siguiendo": 0.0,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      20,
+      24
+     ]
+    },
+    {
+     "tic": 12827,
+     "vida": 88.0,
+     "fuego_imaginado": 0.0,
+     "pos": [
+      19,
+      24
+     ],
+     "vida_real": 88.0,
+     "fuego_real_siguiendo": 0.0,
+     "fuego_real_desviado": 0.0,
+     "pos_real": [
+      23,
+      25
+     ]
+    }
+   ],
+   "caida": "reevaluacion",
+   "X": null,
+   "Y": null,
+   "fuego_real_siguiendo_hasta_fin": 0.0,
+   "fuego_real_desviado_hasta_fin": 0.0,
+   "fuego_imaginado_total": 0.0
+  }
+ ],
+ "arden_al_nacer_segun_proyeccion": 64,
+ "queman_al_nacer_segun_juego": 49,
+ "planes_con_fuego_imaginado": 10,
+ "fuego_imaginado_total": 37.6,
+ "fuego_real_siguiendo_total (hasta la caida o el ultimo control)": 610.1,
+ "fuego_real_desviado_total": 223.0,
+ "planes_con_fuego_real_siguiendo": 56,
+ "planes_con_fuego_real_siguiendo_y_0_imaginado": 47,
+ "coincide_Y_con_la_curva (caidas vida real)": {
+  "n": 47,
+  "coinciden": 47
+ }
+}

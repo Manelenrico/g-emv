@@ -1,0 +1,235 @@
+{
+ "nota": "P6-22. INSTRUMENTO DE MEDIDA (la medida de P6-21). Por brazo y fase.",
+ "brazos": {
+  "A4 humo": {
+   "partidas": 1,
+   "vidas": 2,
+   "por_fase": {
+    "antes del aviso 1": {
+     "tics": 2038,
+     "pasos a casilla libre": 114,
+     "dado en el tic": 114,
+     "perdido": 0,
+     "pct_perdido": 0.0,
+     "fantasma": 0,
+     "pct_fantasma_por_tic": 0.0,
+     "retraso_minimo_fantasma": {
+      "n": 0
+     },
+     "retraso_pasos_dados": {
+      "n": 114,
+      "mediana": 0,
+      "p90": 0,
+      "max": 0,
+      "0": 114,
+      "1-2": 0,
+      ">=3": 0,
+      ">=10": 0
+     }
+    },
+    "fases 1-4": {
+     "tics": 2240,
+     "pasos a casilla libre": 121,
+     "dado en el tic": 121,
+     "perdido": 0,
+     "pct_perdido": 0.0,
+     "fantasma": 0,
+     "pct_fantasma_por_tic": 0.0,
+     "retraso_minimo_fantasma": {
+      "n": 0
+     },
+     "retraso_pasos_dados": {
+      "n": 121,
+      "mediana": 0,
+      "p90": 0,
+      "max": 0,
+      "0": 121,
+      "1-2": 0,
+      ">=3": 0,
+      ">=10": 0
+     }
+    },
+    "fases 5-7": {
+     "tics": 978,
+     "pasos a casilla libre": 71,
+     "dado en el tic": 71,
+     "perdido": 0,
+     "pct_perdido": 0.0,
+     "fantasma": 0,
+     "pct_fantasma_por_tic": 0.0,
+     "retraso_minimo_fantasma": {
+      "n": 0
+     },
+     "retraso_pasos_dados": {
+      "n": 71,
+      "mediana": 0,
+      "p90": 0,
+      "max": 0,
+      "0": 71,
+      "1-2": 0,
+      ">=3": 0,
+      ">=10": 0
+     }
+    }
+   },
+   "vidas_con_perdidos_fases_5-7": 0,
+   "vidas_lista": [
+    {
+     "carpeta": "P624_t0_A4_24450076",
+     "slot": 10,
+     "tics": 2664,
+     "antes del aviso 1": {
+      "perdido": 0,
+      "libre": 21,
+      "fantasma": 0
+     },
+     "fases 1-4": {
+      "perdido": 0,
+      "libre": 24,
+      "fantasma": 0
+     },
+     "fases 5-7": {
+      "perdido": 0,
+      "libre": 36,
+      "fantasma": 0
+     }
+    },
+    {
+     "carpeta": "P624_t0_A4_24450076",
+     "slot": 11,
+     "tics": 2592,
+     "antes del aviso 1": {
+      "perdido": 0,
+      "libre": 93,
+      "fantasma": 0
+     },
+     "fases 1-4": {
+      "perdido": 0,
+      "libre": 97,
+      "fantasma": 0
+     },
+     "fases 5-7": {
+      "perdido": 0,
+      "libre": 35,
+      "fantasma": 0
+     }
+    }
+   ]
+  },
+  "A7h humo": {
+   "partidas": 1,
+   "vidas": 2,
+   "por_fase": {
+    "antes del aviso 1": {
+     "tics": 2038,
+     "pasos a casilla libre": 114,
+     "dado en el tic": 114,
+     "perdido": 0,
+     "pct_perdido": 0.0,
+     "fantasma": 0,
+     "pct_fantasma_por_tic": 0.0,
+     "retraso_minimo_fantasma": {
+      "n": 0
+     },
+     "retraso_pasos_dados": {
+      "n": 114,
+      "mediana": 0,
+      "p90": 0,
+      "max": 0,
+      "0": 114,
+      "1-2": 0,
+      ">=3": 0,
+      ">=10": 0
+     }
+    },
+    "fases 1-4": {
+     "tics": 2240,
+     "pasos a casilla libre": 107,
+     "dado en el tic": 107,
+     "perdido": 0,
+     "pct_perdido": 0.0,
+     "fantasma": 0,
+     "pct_fantasma_por_tic": 0.0,
+     "retraso_minimo_fantasma": {
+      "n": 0
+     },
+     "retraso_pasos_dados": {
+      "n": 107,
+      "mediana": 0,
+      "p90": 0,
+      "max": 0,
+      "0": 107,
+      "1-2": 0,
+      ">=3": 0,
+      ">=10": 0
+     }
+    },
+    "fases 5-7": {
+     "tics": 1626,
+     "pasos a casilla libre": 116,
+     "dado en el tic": 116,
+     "perdido": 0,
+     "pct_perdido": 0.0,
+     "fantasma": 0,
+     "pct_fantasma_por_tic": 0.0,
+     "retraso_minimo_fantasma": {
+      "n": 0
+     },
+     "retraso_pasos_dados": {
+      "n": 121,
+      "mediana": 0,
+      "p90": 0,
+      "max": 0,
+      "0": 121,
+      "1-2": 0,
+      ">=3": 0,
+      ">=10": 0
+     }
+    }
+   },
+   "vidas_con_perdidos_fases_5-7": 0,
+   "vidas_lista": [
+    {
+     "carpeta": "P624_t0_A7h_24450076",
+     "slot": 10,
+     "tics": 2952,
+     "antes del aviso 1": {
+      "perdido": 0,
+      "libre": 21,
+      "fantasma": 0
+     },
+     "fases 1-4": {
+      "perdido": 0,
+      "libre": 18,
+      "fantasma": 0
+     },
+     "fases 5-7": {
+      "perdido": 0,
+      "libre": 55,
+      "fantasma": 0
+     }
+    },
+    {
+     "carpeta": "P624_t0_A7h_24450076",
+     "slot": 11,
+     "tics": 2952,
+     "antes del aviso 1": {
+      "perdido": 0,
+      "libre": 93,
+      "fantasma": 0
+     },
+     "fases 1-4": {
+      "perdido": 0,
+      "libre": 89,
+      "fantasma": 0
+     },
+     "fases 5-7": {
+      "perdido": 0,
+      "libre": 61,
+      "fantasma": 0
+     }
+    }
+   ]
+  }
+ }
+}

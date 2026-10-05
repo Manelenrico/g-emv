@@ -1,0 +1,201 @@
+{
+ "total_usd": 6.595724,
+ "tope_usd": 10.0,
+ "llamadas": {
+  "bucle2/haiku": 38,
+  "bucle2/sonnet": 34,
+  "bucle3/haiku": 34,
+  "bucle3/sonnet": 24,
+  "humo/haiku": 1,
+  "humo/sonnet": 1,
+  "pareja/haiku": 80,
+  "pareja/sonnet": 80,
+  "primera/haiku": 200,
+  "primera/sonnet": 200
+ },
+ "por_brazo": {
+  "bucle2/haiku": {
+   "llamadas": 38,
+   "entrada_fresca": 60083,
+   "salida": 17998,
+   "cache_escritura": 0,
+   "cache_lectura": 409982,
+   "usd": 0.191075,
+   "usd_por_llamada": 0.005028
+  },
+  "bucle2/sonnet": {
+   "llamadas": 34,
+   "entrada_fresca": 53033,
+   "salida": 16193,
+   "cache_escritura": 0,
+   "cache_lectura": 366826,
+   "usd": 0.512052,
+   "usd_por_llamada": 0.01506
+  },
+  "bucle3/haiku": {
+   "llamadas": 34,
+   "entrada_fresca": 54889,
+   "salida": 14891,
+   "cache_escritura": 0,
+   "cache_lectura": 366826,
+   "usd": 0.16603,
+   "usd_por_llamada": 0.004883
+  },
+  "bucle3/sonnet": {
+   "llamadas": 24,
+   "entrada_fresca": 39297,
+   "salida": 10497,
+   "cache_escritura": 0,
+   "cache_lectura": 258936,
+   "usd": 0.353034,
+   "usd_por_llamada": 0.01471
+  },
+  "humo/haiku": {
+   "llamadas": 1,
+   "entrada_fresca": 1276,
+   "salida": 448,
+   "cache_escritura": 10789,
+   "cache_lectura": 0,
+   "usd": 0.017002,
+   "usd_por_llamada": 0.017002
+  },
+  "humo/sonnet": {
+   "llamadas": 1,
+   "entrada_fresca": 1276,
+   "salida": 808,
+   "cache_escritura": 10789,
+   "cache_lectura": 0,
+   "usd": 0.056407,
+   "usd_por_llamada": 0.056407
+  },
+  "pareja/haiku": {
+   "llamadas": 80,
+   "entrada_fresca": 120223,
+   "salida": 31031,
+   "cache_escritura": 0,
+   "cache_lectura": 863120,
+   "usd": 0.361698,
+   "usd_por_llamada": 0.004521
+  },
+  "pareja/sonnet": {
+   "llamadas": 80,
+   "entrada_fresca": 120223,
+   "salida": 35776,
+   "cache_escritura": 0,
+   "cache_lectura": 863120,
+   "usd": 1.156269,
+   "usd_por_llamada": 0.014453
+  },
+  "primera/haiku": {
+   "llamadas": 200,
+   "entrada_fresca": 255446,
+   "salida": 70624,
+   "cache_escritura": 0,
+   "cache_lectura": 2157800,
+   "usd": 0.824366,
+   "usd_por_llamada": 0.004122
+  },
+  "primera/sonnet": {
+   "llamadas": 200,
+   "entrada_fresca": 255446,
+   "salida": 102946,
+   "cache_escritura": 0,
+   "cache_lectura": 2157800,
+   "usd": 2.957928,
+   "usd_por_llamada": 0.01479
+  }
+ },
+ "parada_usd": 9.5,
+ "modos": {
+  "bucle2/haiku": {
+   "llamadas": 38,
+   "entrada_fresca": 60083,
+   "salida": 17998,
+   "cache_escritura": 0,
+   "cache_lectura": 409982,
+   "usd": 0.191075,
+   "usd_por_llamada": 0.005028
+  },
+  "bucle2/sonnet": {
+   "llamadas": 34,
+   "entrada_fresca": 53033,
+   "salida": 16193,
+   "cache_escritura": 0,
+   "cache_lectura": 366826,
+   "usd": 0.512052,
+   "usd_por_llamada": 0.01506
+  },
+  "bucle3/haiku": {
+   "llamadas": 34,
+   "entrada_fresca": 54889,
+   "salida": 14891,
+   "cache_escritura": 0,
+   "cache_lectura": 366826,
+   "usd": 0.16603,
+   "usd_por_llamada": 0.004883
+  },
+  "bucle3/sonnet": {
+   "llamadas": 24,
+   "entrada_fresca": 39297,
+   "salida": 10497,
+   "cache_escritura": 0,
+   "cache_lectura": 258936,
+   "usd": 0.353034,
+   "usd_por_llamada": 0.01471
+  },
+  "humo/haiku": {
+   "llamadas": 1,
+   "entrada_fresca": 1276,
+   "salida": 448,
+   "cache_escritura": 10789,
+   "cache_lectura": 0,
+   "usd": 0.017002,
+   "usd_por_llamada": 0.017002
+  },
+  "humo/sonnet": {
+   "llamadas": 1,
+   "entrada_fresca": 1276,
+   "salida": 808,
+   "cache_escritura": 10789,
+   "cache_lectura": 0,
+   "usd": 0.056407,
+   "usd_por_llamada": 0.056407
+  },
+  "pareja/haiku": {
+   "llamadas": 80,
+   "entrada_fresca": 120223,
+   "salida": 31031,
+   "cache_escritura": 0,
+   "cache_lectura": 863120,
+   "usd": 0.361698,
+   "usd_por_llamada": 0.004521
+  },
+  "pareja/sonnet": {
+   "llamadas": 80,
+   "entrada_fresca": 120223,
+   "salida": 35776,
+   "cache_escritura": 0,
+   "cache_lectura": 863120,
+   "usd": 1.156269,
+   "usd_por_llamada": 0.014453
+  },
+  "primera/haiku": {
+   "llamadas": 200,
+   "entrada_fresca": 255446,
+   "salida": 70624,
+   "cache_escritura": 0,
+   "cache_lectura": 2157800,
+   "usd": 0.824366,
+   "usd_por_llamada": 0.004122
+  },
+  "primera/sonnet": {
+   "llamadas": 200,
+   "entrada_fresca": 255446,
+   "salida": 102946,
+   "cache_escritura": 0,
+   "cache_lectura": 2157800,
+   "usd": 2.957928,
+   "usd_por_llamada": 0.01479
+  }
+ }
+}

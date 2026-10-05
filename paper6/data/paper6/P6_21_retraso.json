@@ -1,0 +1,89 @@
+{
+ "nota": "P6-21 §3 apoyo. Retraso (tics) entre el ultimo envio de un paso en esa direccion desde esa casilla y el paso dado.",
+ "por_brazo_fase": {
+  "A4 | fase5+": {
+   "n": 4226,
+   "sin envio previo en 120 tics": 0,
+   "retraso 0": 4226,
+   "retraso 1-2": 0,
+   "retraso >= 3": 0,
+   "retraso >= 10": 0,
+   "mediana": 0,
+   "p90": 0,
+   "max": 0,
+   "pct >= 3": 0.0,
+   "pasos_enviados": 5547,
+   "pasos_dados": 4226
+  },
+  "A4 | fases1-4": {
+   "n": 28293,
+   "sin envio previo en 120 tics": 0,
+   "retraso 0": 28292,
+   "retraso 1-2": 1,
+   "retraso >= 3": 0,
+   "retraso >= 10": 0,
+   "mediana": 0,
+   "p90": 0,
+   "max": 1,
+   "pct >= 3": 0.0,
+   "pasos_enviados": 71748,
+   "pasos_dados": 28293
+  },
+  "A5h | fase5+": {
+   "n": 3232,
+   "sin envio previo en 120 tics": 5,
+   "retraso 0": 3168,
+   "retraso 1-2": 21,
+   "retraso >= 3": 43,
+   "retraso >= 10": 7,
+   "mediana": 0,
+   "p90": 0,
+   "max": 12,
+   "pct >= 3": 1.3,
+   "pasos_enviados": 6798,
+   "pasos_dados": 3237
+  },
+  "A5h | fases1-4": {
+   "n": 26570,
+   "sin envio previo en 120 tics": 0,
+   "retraso 0": 26557,
+   "retraso 1-2": 4,
+   "retraso >= 3": 9,
+   "retraso >= 10": 1,
+   "mediana": 0,
+   "p90": 0,
+   "max": 11,
+   "pct >= 3": 0.0,
+   "pasos_enviados": 69438,
+   "pasos_dados": 26570
+  },
+  "A6 | fase5+": {
+   "n": 4558,
+   "sin envio previo en 120 tics": 20,
+   "retraso 0": 4477,
+   "retraso 1-2": 35,
+   "retraso >= 3": 46,
+   "retraso >= 10": 5,
+   "mediana": 0,
+   "p90": 0,
+   "max": 17,
+   "pct >= 3": 1.0,
+   "pasos_enviados": 9351,
+   "pasos_dados": 4578
+  },
+  "A6 | fases1-4": {
+   "n": 27523,
+   "sin envio previo en 120 tics": 4,
+   "retraso 0": 27499,
+   "retraso 1-2": 7,
+   "retraso >= 3": 17,
+   "retraso >= 10": 3,
+   "mediana": 0,
+   "p90": 0,
+   "max": 60,
+   "pct >= 3": 0.1,
+   "pasos_enviados": 83097,
+   "pasos_dados": 27527
+  }
+ }
+}

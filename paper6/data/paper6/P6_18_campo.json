@@ -1,0 +1,4273 @@
+{
+ "A4": {
+  "resumen": {
+   "vidas": 40,
+   "vivas_en_warn5": 35,
+   "dentro_pct_media": 32.7,
+   "dentro_pct_mediana": 22.3,
+   "ardiendo_media": 196,
+   "ardiendo_mediana": 205,
+   "vidas_0_ardiendo": 6,
+   "nunca_entra": 6,
+   "sobreviven_fase5": 21,
+   "planes_aceptados_fase5": 0,
+   "planes_sostenidos": 0,
+   "fines": {},
+   "rupturas": {},
+   "estados_compromiso": {},
+   "muertes_anillo": 22,
+   "muertes_rival": 6,
+   "supervivientes": 11
+  },
+  "vidas": [
+   {
+    "semilla": 20260916,
+    "slot": 10,
+    "tics": 12648,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "tics_fase": 793,
+    "dentro_pct": 0.0,
+    "ardiendo": 350,
+    "golpes_anillo": 15,
+    "sobrevive_fase": false,
+    "entra": null,
+    "planes": {
+     "aceptados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {}
+    },
+    "sujeta_total": null
+   },
+   {
+    "semilla": 20260916,
+    "slot": 11,
+    "tics": 13632,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "tics_fase": 1140,
+    "dentro_pct": 4.8,
+    "ardiendo": 316,
+    "golpes_anillo": 13,
+    "sobrevive_fase": true,
+    "entra": 12672,
+    "planes": {
+     "aceptados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {}
+    },
+    "sujeta_total": null
+   },
+   {
+    "semilla": 20365645,
+    "slot": 10,
+    "tics": 10920,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": false
+   },
+   {
+    "semilla": 20365645,
+    "slot": 11,
+    "tics": 11544,
+    "superviviente": false,
+    "causa": "no consta",
+    "viva_en_warn5": false
+   },
+   {
+    "semilla": 20470374,
+    "slot": 10,
+    "tics": 13956,
+    "superviviente": true,
+    "causa": null,
+    "viva_en_warn5": true,
+    "tics_fase": 1140,
+    "dentro_pct": 82.2,
+    "ardiendo": 0,
+    "golpes_anillo": 0,
+    "sobrevive_fase": true,
+    "entra": 11856,
+    "planes": {
+     "aceptados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {}
+    },
+    "sujeta_total": null
+   },
+   {
+    "semilla": 20470374,
+    "slot": 11,
+    "tics": 13944,
+    "superviviente": false,
+    "causa": "rival",
+    "viva_en_warn5": true,
+    "tics_fase": 1140,
+    "dentro_pct": 100.0,
+    "ardiendo": 0,
+    "golpes_anillo": 0,
+    "sobrevive_fase": true,
+    "entra": 11856,
+    "planes": {
+     "aceptados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {}
+    },
+    "sujeta_total": null
+   },
+   {
+    "semilla": 20575103,
+    "slot": 10,
+    "tics": 12600,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "tics_fase": 745,
+    "dentro_pct": 4.8,
+    "ardiendo": 331,
+    "golpes_anillo": 13,
+    "sobrevive_fase": false,
+    "entra": 11856,
+    "planes": {
+     "aceptados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {}
+    },
+    "sujeta_total": null
+   },
+   {
+    "semilla": 20575103,
+    "slot": 11,
+    "tics": 12816,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "tics_fase": 961,
+    "dentro_pct": 75.4,
+    "ardiendo": 225,
+    "golpes_anillo": 9,
+    "sobrevive_fase": false,
+    "entra": 11856,
+    "planes": {
+     "aceptados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {}
+    },
+    "sujeta_total": null
+   },
+   {
+    "semilla": 20679832,
+    "slot": 10,
+    "tics": 12410,
+    "superviviente": false,
+    "causa": "rival",
+    "viva_en_warn5": true,
+    "tics_fase": 555,
+    "dentro_pct": 100.0,
+    "ardiendo": 0,
+    "golpes_anillo": 0,
+    "sobrevive_fase": false,
+    "entra": 11856,
+    "planes": {
+     "aceptados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {}
+    },
+    "sujeta_total": null
+   },
+   {
+    "semilla": 20679832,
+    "slot": 11,
+    "tics": 12888,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "tics_fase": 1033,
+    "dentro_pct": 6.4,
+    "ardiendo": 276,
+    "golpes_anillo": 11,
+    "sobrevive_fase": false,
+    "entra": 12536,
+    "planes": {
+     "aceptados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {}
+    },
+    "sujeta_total": null
+   },
+   {
+    "semilla": 20784561,
+    "slot": 10,
+    "tics": 14688,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "tics_fase": 1140,
+    "dentro_pct": 24.5,
+    "ardiendo": 125,
+    "golpes_anillo": 6,
+    "sobrevive_fase": true,
+    "entra": 12640,
+    "planes": {
+     "aceptados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {}
+    },
+    "sujeta_total": null
+   },
+   {
+    "semilla": 20784561,
+    "slot": 11,
+    "tics": 12840,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "tics_fase": 985,
+    "dentro_pct": 10.3,
+    "ardiendo": 205,
+    "golpes_anillo": 10,
+    "sobrevive_fase": false,
+    "entra": 12376,
+    "planes": {
+     "aceptados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {}
+    },
+    "sujeta_total": null
+   },
+   {
+    "semilla": 20889290,
+    "slot": 10,
+    "tics": 13008,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "tics_fase": 1140,
+    "dentro_pct": 15.6,
+    "ardiendo": 266,
+    "golpes_anillo": 12,
+    "sobrevive_fase": true,
+    "entra": 12395,
+    "planes": {
+     "aceptados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {}
+    },
+    "sujeta_total": null
+   },
+   {
+    "semilla": 20889290,
+    "slot": 11,
+    "tics": 14696,
+    "superviviente": true,
+    "causa": null,
+    "viva_en_warn5": true,
+    "tics_fase": 1140,
+    "dentro_pct": 38.1,
+    "ardiendo": 238,
+    "golpes_anillo": 6,
+    "sobrevive_fase": true,
+    "entra": 12044,
+    "planes": {
+     "aceptados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {}
+    },
+    "sujeta_total": null
+   },
+   {
+    "semilla": 20994019,
+    "slot": 10,
+    "tics": 14833,
+    "superviviente": true,
+    "causa": null,
+    "viva_en_warn5": true,
+    "tics_fase": 1140,
+    "dentro_pct": 70.1,
+    "ardiendo": 0,
+    "golpes_anillo": 0,
+    "sobrevive_fase": true,
+    "entra": 12174,
+    "planes": {
+     "aceptados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {}
+    },
+    "sujeta_total": null
+   },
+   {
+    "semilla": 20994019,
+    "slot": 11,
+    "tics": 14833,
+    "superviviente": true,
+    "causa": null,
+    "viva_en_warn5": true,
+    "tics_fase": 1140,
+    "dentro_pct": 64.9,
+    "ardiendo": 0,
+    "golpes_anillo": 0,
+    "sobrevive_fase": true,
+    "entra": 12011,
+    "planes": {
+     "aceptados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {}
+    },
+    "sujeta_total": null
+   },
+   {
+    "semilla": 21098748,
+    "slot": 10,
+    "tics": 14143,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "tics_fase": 1140,
+    "dentro_pct": 14.4,
+    "ardiendo": 196,
+    "golpes_anillo": 7,
+    "sobrevive_fase": true,
+    "entra": 12644,
+    "planes": {
+     "aceptados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {}
+    },
+    "sujeta_total": null
+   },
+   {
+    "semilla": 21098748,
+    "slot": 11,
+    "tics": 13008,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "tics_fase": 1140,
+    "dentro_pct": 1.9,
+    "ardiendo": 382,
+    "golpes_anillo": 15,
+    "sobrevive_fase": true,
+    "entra": 12967,
+    "planes": {
+     "aceptados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {}
+    },
+    "sujeta_total": null
+   },
+   {
+    "semilla": 21203477,
+    "slot": 10,
+    "tics": 14328,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "tics_fase": 1140,
+    "dentro_pct": 93.0,
+    "ardiendo": 11,
+    "golpes_anillo": 0,
+    "sobrevive_fase": true,
+    "entra": 11914,
+    "planes": {
+     "aceptados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {}
+    },
+    "sujeta_total": null
+   },
+   {
+    "semilla": 21203477,
+    "slot": 11,
+    "tics": 12024,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "tics_fase": 169,
+    "dentro_pct": 6.5,
+    "ardiendo": 57,
+    "golpes_anillo": 3,
+    "sobrevive_fase": false,
+    "entra": 11956,
+    "planes": {
+     "aceptados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {}
+    },
+    "sujeta_total": null
+   },
+   {
+    "semilla": 21308206,
+    "slot": 10,
+    "tics": 13056,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "tics_fase": 1140,
+    "dentro_pct": 16.4,
+    "ardiendo": 294,
+    "golpes_anillo": 12,
+    "sobrevive_fase": true,
+    "entra": 12472,
+    "planes": {
+     "aceptados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {}
+    },
+    "sujeta_total": null
+   },
+   {
+    "semilla": 21308206,
+    "slot": 11,
+    "tics": 14702,
+    "superviviente": true,
+    "causa": null,
+    "viva_en_warn5": true,
+    "tics_fase": 1140,
+    "dentro_pct": 20.9,
+    "ardiendo": 178,
+    "golpes_anillo": 7,
+    "sobrevive_fase": true,
+    "entra": 12736,
+    "planes": {
+     "aceptados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {}
+    },
+    "sujeta_total": null
+   },
+   {
+    "semilla": 21412935,
+    "slot": 10,
+    "tics": 14136,
+    "superviviente": true,
+    "causa": null,
+    "viva_en_warn5": true,
+    "tics_fase": 1140,
+    "dentro_pct": 46.0,
+    "ardiendo": 22,
+    "golpes_anillo": 1,
+    "sobrevive_fase": true,
+    "entra": 12240,
+    "planes": {
+     "aceptados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {}
+    },
+    "sujeta_total": null
+   },
+   {
+    "semilla": 21412935,
+    "slot": 11,
+    "tics": 14136,
+    "superviviente": true,
+    "causa": null,
+    "viva_en_warn5": true,
+    "tics_fase": 1140,
+    "dentro_pct": 41.7,
+    "ardiendo": 0,
+    "golpes_anillo": 0,
+    "sobrevive_fase": true,
+    "entra": 12521,
+    "planes": {
+     "aceptados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {}
+    },
+    "sujeta_total": null
+   },
+   {
+    "semilla": 21517664,
+    "slot": 10,
+    "tics": 14952,
+    "superviviente": true,
+    "causa": null,
+    "viva_en_warn5": true,
+    "tics_fase": 1140,
+    "dentro_pct": 36.9,
+    "ardiendo": 226,
+    "golpes_anillo": 8,
+    "sobrevive_fase": true,
+    "entra": 11856,
+    "planes": {
+     "aceptados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {}
+    },
+    "sujeta_total": null
+   },
+   {
+    "semilla": 21517664,
+    "slot": 11,
+    "tics": 14952,
+    "superviviente": true,
+    "causa": null,
+    "viva_en_warn5": true,
+    "tics_fase": 1140,
+    "dentro_pct": 42.3,
+    "ardiendo": 205,
+    "golpes_anillo": 7,
+    "sobrevive_fase": true,
+    "entra": 11856,
+    "planes": {
+     "aceptados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {}
+    },
+    "sujeta_total": null
+   },
+   {
+    "semilla": 21622393,
+    "slot": 10,
+    "tics": 2290,
+    "superviviente": false,
+    "causa": "rival",
+    "viva_en_warn5": false
+   },
+   {
+    "semilla": 21622393,
+    "slot": 11,
+    "tics": 1900,
+    "superviviente": false,
+    "causa": "rival",
+    "viva_en_warn5": false
+   },
+   {
+    "semilla": 21727122,
+    "slot": 10,
+    "tics": 12744,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "tics_fase": 889,
+    "dentro_pct": 0.0,
+    "ardiendo": 365,
+    "golpes_anillo": 15,
+    "sobrevive_fase": false,
+    "entra": null,
+    "planes": {
+     "aceptados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {}
+    },
+    "sujeta_total": null
+   },
+   {
+    "semilla": 21727122,
+    "slot": 11,
+    "tics": 12672,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "tics_fase": 817,
+    "dentro_pct": 0.0,
+    "ardiendo": 361,
+    "golpes_anillo": 14,
+    "sobrevive_fase": false,
+    "entra": null,
+    "planes": {
+     "aceptados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {}
+    },
+    "sujeta_total": null
+   },
+   {
+    "semilla": 21831851,
+    "slot": 10,
+    "tics": 12960,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "tics_fase": 1105,
+    "dentro_pct": 35.9,
+    "ardiendo": 279,
+    "golpes_anillo": 13,
+    "sobrevive_fase": false,
+    "entra": 11856,
+    "planes": {
+     "aceptados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {}
+    },
+    "sujeta_total": null
+   },
+   {
+    "semilla": 21831851,
+    "slot": 11,
+    "tics": 12840,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "tics_fase": 985,
+    "dentro_pct": 22.3,
+    "ardiendo": 238,
+    "golpes_anillo": 9,
+    "sobrevive_fase": false,
+    "entra": 11856,
+    "planes": {
+     "aceptados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {}
+    },
+    "sujeta_total": null
+   },
+   {
+    "semilla": 21936580,
+    "slot": 10,
+    "tics": 12888,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "tics_fase": 1033,
+    "dentro_pct": 0.0,
+    "ardiendo": 393,
+    "golpes_anillo": 15,
+    "sobrevive_fase": false,
+    "entra": null,
+    "planes": {
+     "aceptados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {}
+    },
+    "sujeta_total": null
+   },
+   {
+    "semilla": 21936580,
+    "slot": 11,
+    "tics": 13968,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "tics_fase": 1140,
+    "dentro_pct": 53.5,
+    "ardiendo": 154,
+    "golpes_anillo": 4,
+    "sobrevive_fase": true,
+    "entra": 11858,
+    "planes": {
+     "aceptados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {}
+    },
+    "sujeta_total": null
+   },
+   {
+    "semilla": 22041309,
+    "slot": 10,
+    "tics": 14679,
+    "superviviente": true,
+    "causa": null,
+    "viva_en_warn5": true,
+    "tics_fase": 1140,
+    "dentro_pct": 19.6,
+    "ardiendo": 192,
+    "golpes_anillo": 3,
+    "sobrevive_fase": true,
+    "entra": 12666,
+    "planes": {
+     "aceptados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {}
+    },
+    "sujeta_total": null
+   },
+   {
+    "semilla": 22041309,
+    "slot": 11,
+    "tics": 12720,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "tics_fase": 865,
+    "dentro_pct": 0.0,
+    "ardiendo": 430,
+    "golpes_anillo": 19,
+    "sobrevive_fase": false,
+    "entra": null,
+    "planes": {
+     "aceptados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {}
+    },
+    "sujeta_total": null
+   },
+   {
+    "semilla": 22146038,
+    "slot": 10,
+    "tics": 11615,
+    "superviviente": false,
+    "causa": "rival",
+    "viva_en_warn5": false
+   },
+   {
+    "semilla": 22146038,
+    "slot": 11,
+    "tics": 13061,
+    "superviviente": true,
+    "causa": null,
+    "viva_en_warn5": true,
+    "tics_fase": 1140,
+    "dentro_pct": 52.1,
+    "ardiendo": 168,
+    "golpes_anillo": 8,
+    "sobrevive_fase": true,
+    "entra": 11860,
+    "planes": {
+     "aceptados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {}
+    },
+    "sujeta_total": null
+   },
+   {
+    "semilla": 22250767,
+    "slot": 10,
+    "tics": 14628,
+    "superviviente": false,
+    "causa": "rival",
+    "viva_en_warn5": true,
+    "tics_fase": 1140,
+    "dentro_pct": 45.3,
+    "ardiendo": 11,
+    "golpes_anillo": 1,
+    "sobrevive_fase": true,
+    "entra": 12469,
+    "planes": {
+     "aceptados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {}
+    },
+    "sujeta_total": null
+   },
+   {
+    "semilla": 22250767,
+    "slot": 11,
+    "tics": 12912,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "tics_fase": 1057,
+    "dentro_pct": 0.0,
+    "ardiendo": 366,
+    "golpes_anillo": 14,
+    "sobrevive_fase": false,
+    "entra": null,
+    "planes": {
+     "aceptados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {}
+    },
+    "sujeta_total": null
+   }
+  ],
+  "por_semilla": {
+   "20260916": {
+    "semilla": 20260916,
+    "supervivientes": 0,
+    "anillo": 2,
+    "rival": 0,
+    "dentro_pct": [
+     0.0,
+     4.8
+    ],
+    "ardiendo": [
+     350,
+     316
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 0,
+    "dentro_pct_media": 2.4,
+    "ardiendo_media": 333
+   },
+   "20365645": {
+    "semilla": 20365645,
+    "supervivientes": 0,
+    "anillo": 1,
+    "rival": 0,
+    "dentro_pct": [],
+    "ardiendo": [],
+    "vivas_en_warn": 0,
+    "sostenidos": 0,
+    "aceptados_fase": 0,
+    "dentro_pct_media": null,
+    "ardiendo_media": null
+   },
+   "20470374": {
+    "semilla": 20470374,
+    "supervivientes": 1,
+    "anillo": 0,
+    "rival": 1,
+    "dentro_pct": [
+     82.2,
+     100.0
+    ],
+    "ardiendo": [
+     0,
+     0
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 0,
+    "dentro_pct_media": 91.1,
+    "ardiendo_media": 0
+   },
+   "20575103": {
+    "semilla": 20575103,
+    "supervivientes": 0,
+    "anillo": 2,
+    "rival": 0,
+    "dentro_pct": [
+     4.8,
+     75.4
+    ],
+    "ardiendo": [
+     331,
+     225
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 0,
+    "dentro_pct_media": 40.1,
+    "ardiendo_media": 278
+   },
+   "20679832": {
+    "semilla": 20679832,
+    "supervivientes": 0,
+    "anillo": 1,
+    "rival": 1,
+    "dentro_pct": [
+     100.0,
+     6.4
+    ],
+    "ardiendo": [
+     0,
+     276
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 0,
+    "dentro_pct_media": 53.2,
+    "ardiendo_media": 138
+   },
+   "20784561": {
+    "semilla": 20784561,
+    "supervivientes": 0,
+    "anillo": 2,
+    "rival": 0,
+    "dentro_pct": [
+     24.5,
+     10.3
+    ],
+    "ardiendo": [
+     125,
+     205
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 0,
+    "dentro_pct_media": 17.4,
+    "ardiendo_media": 165
+   },
+   "20889290": {
+    "semilla": 20889290,
+    "supervivientes": 1,
+    "anillo": 1,
+    "rival": 0,
+    "dentro_pct": [
+     15.6,
+     38.1
+    ],
+    "ardiendo": [
+     266,
+     238
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 0,
+    "dentro_pct_media": 26.9,
+    "ardiendo_media": 252
+   },
+   "20994019": {
+    "semilla": 20994019,
+    "supervivientes": 2,
+    "anillo": 0,
+    "rival": 0,
+    "dentro_pct": [
+     70.1,
+     64.9
+    ],
+    "ardiendo": [
+     0,
+     0
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 0,
+    "dentro_pct_media": 67.5,
+    "ardiendo_media": 0
+   },
+   "21098748": {
+    "semilla": 21098748,
+    "supervivientes": 0,
+    "anillo": 2,
+    "rival": 0,
+    "dentro_pct": [
+     14.4,
+     1.9
+    ],
+    "ardiendo": [
+     196,
+     382
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 0,
+    "dentro_pct_media": 8.2,
+    "ardiendo_media": 289
+   },
+   "21203477": {
+    "semilla": 21203477,
+    "supervivientes": 0,
+    "anillo": 2,
+    "rival": 0,
+    "dentro_pct": [
+     93.0,
+     6.5
+    ],
+    "ardiendo": [
+     11,
+     57
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 0,
+    "dentro_pct_media": 49.8,
+    "ardiendo_media": 34
+   },
+   "21308206": {
+    "semilla": 21308206,
+    "supervivientes": 1,
+    "anillo": 1,
+    "rival": 0,
+    "dentro_pct": [
+     16.4,
+     20.9
+    ],
+    "ardiendo": [
+     294,
+     178
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 0,
+    "dentro_pct_media": 18.6,
+    "ardiendo_media": 236
+   },
+   "21412935": {
+    "semilla": 21412935,
+    "supervivientes": 2,
+    "anillo": 0,
+    "rival": 0,
+    "dentro_pct": [
+     46.0,
+     41.7
+    ],
+    "ardiendo": [
+     22,
+     0
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 0,
+    "dentro_pct_media": 43.9,
+    "ardiendo_media": 11
+   },
+   "21517664": {
+    "semilla": 21517664,
+    "supervivientes": 2,
+    "anillo": 0,
+    "rival": 0,
+    "dentro_pct": [
+     36.9,
+     42.3
+    ],
+    "ardiendo": [
+     226,
+     205
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 0,
+    "dentro_pct_media": 39.6,
+    "ardiendo_media": 215.5
+   },
+   "21622393": {
+    "semilla": 21622393,
+    "supervivientes": 0,
+    "anillo": 0,
+    "rival": 2,
+    "dentro_pct": [],
+    "ardiendo": [],
+    "vivas_en_warn": 0,
+    "sostenidos": 0,
+    "aceptados_fase": 0,
+    "dentro_pct_media": null,
+    "ardiendo_media": null
+   },
+   "21727122": {
+    "semilla": 21727122,
+    "supervivientes": 0,
+    "anillo": 2,
+    "rival": 0,
+    "dentro_pct": [
+     0.0,
+     0.0
+    ],
+    "ardiendo": [
+     365,
+     361
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 0,
+    "dentro_pct_media": 0.0,
+    "ardiendo_media": 363
+   },
+   "21831851": {
+    "semilla": 21831851,
+    "supervivientes": 0,
+    "anillo": 2,
+    "rival": 0,
+    "dentro_pct": [
+     35.9,
+     22.3
+    ],
+    "ardiendo": [
+     279,
+     238
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 0,
+    "dentro_pct_media": 29.1,
+    "ardiendo_media": 258.5
+   },
+   "21936580": {
+    "semilla": 21936580,
+    "supervivientes": 0,
+    "anillo": 2,
+    "rival": 0,
+    "dentro_pct": [
+     0.0,
+     53.5
+    ],
+    "ardiendo": [
+     393,
+     154
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 0,
+    "dentro_pct_media": 26.8,
+    "ardiendo_media": 273.5
+   },
+   "22041309": {
+    "semilla": 22041309,
+    "supervivientes": 1,
+    "anillo": 1,
+    "rival": 0,
+    "dentro_pct": [
+     19.6,
+     0.0
+    ],
+    "ardiendo": [
+     192,
+     430
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 0,
+    "dentro_pct_media": 9.8,
+    "ardiendo_media": 311
+   },
+   "22146038": {
+    "semilla": 22146038,
+    "supervivientes": 1,
+    "anillo": 0,
+    "rival": 1,
+    "dentro_pct": [
+     52.1
+    ],
+    "ardiendo": [
+     168
+    ],
+    "vivas_en_warn": 1,
+    "sostenidos": 0,
+    "aceptados_fase": 0,
+    "dentro_pct_media": 52.1,
+    "ardiendo_media": 168
+   },
+   "22250767": {
+    "semilla": 22250767,
+    "supervivientes": 0,
+    "anillo": 1,
+    "rival": 1,
+    "dentro_pct": [
+     45.3,
+     0.0
+    ],
+    "ardiendo": [
+     11,
+     366
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 0,
+    "dentro_pct_media": 22.6,
+    "ardiendo_media": 188.5
+   }
+  }
+ },
+ "A5h": {
+  "resumen": {
+   "vidas": 40,
+   "vivas_en_warn5": 34,
+   "dentro_pct_media": 27.4,
+   "dentro_pct_mediana": 17.9,
+   "ardiendo_media": 190.6,
+   "ardiendo_mediana": 223.0,
+   "vidas_0_ardiendo": 4,
+   "nunca_entra": 6,
+   "sobreviven_fase5": 17,
+   "planes_aceptados_fase5": 89,
+   "planes_sostenidos": 0,
+   "fines": {
+    "caida: la vida real 72 esta por debajo de la proyectada 8": 1,
+    "caida: la vida real 8 esta por debajo de la proyectada 21": 1,
+    "andado (destino)": 18,
+    "andado (a salvo)": 23,
+    "caida: en la reevaluacion deja de ganar (area)": 15,
+    "caida: en la reevaluacion deja de ganar (vida)": 7,
+    "caida: la vida real 88 esta por debajo de la proyectada 1": 1,
+    "caida: la vida real 49 esta por debajo de la proyectada 6": 1,
+    "caida: la vida real 86 esta por debajo de la proyectada 1": 1,
+    "caida: la vida real 58 esta por debajo de la proyectada 7": 1,
+    "caida: la vida real 60 esta por debajo de la proyectada 8": 2,
+    "caida: la vida real 55 esta por debajo de la proyectada 8": 1,
+    "caida: la vida real 45 esta por debajo de la proyectada 5": 1,
+    "caida: la vida real 6 esta por debajo de la proyectada 29": 1,
+    "caida: la vida real 56 esta por debajo de la proyectada 6": 1,
+    "caida: la vida real 30 esta por debajo de la proyectada 5": 1,
+    "caida: la vida real 25 esta por debajo de la proyectada 3": 1,
+    "caida: la vida real 40 esta por debajo de la proyectada 5": 1,
+    "caida: la vida real 27 esta por debajo de la proyectada 4": 1,
+    "caida: la vida real 54 esta por debajo de la proyectada 6": 1,
+    "caida: la vida real 21 esta por debajo de la proyectada 3": 1,
+    "caida: la vida real 21 esta por debajo de la proyectada 4": 1,
+    "caida: la vida real 73 esta por debajo de la proyectada 8": 1,
+    "caida: la vida real 47 esta por debajo de la proyectada 6": 1,
+    "caida: la vida real 34 esta por debajo de la proyectada 4": 1,
+    "caida: la vida real 30 esta por debajo de la proyectada 4": 1,
+    "caida: la vida real 57 esta por debajo de la proyectada 7": 1,
+    "caida: la vida real 44 esta por debajo de la proyectada 5": 1,
+    "caida: la vida real 67 esta por debajo de la proyectada 9": 1
+   },
+   "rupturas": {
+    "d)": 64,
+    "a)": 284,
+    "e)": 11
+   },
+   "estados_compromiso": {
+    "enfriamiento": 1554,
+    "obedece": 479,
+    "rompe": 359,
+    "cumplida": 41
+   },
+   "muertes_anillo": 19,
+   "muertes_rival": 12,
+   "supervivientes": 5
+  },
+  "vidas": [
+   {
+    "semilla": 20260916,
+    "slot": 10,
+    "tics": 11465,
+    "superviviente": false,
+    "causa": "rival",
+    "viva_en_warn5": false
+   },
+   {
+    "semilla": 20260916,
+    "slot": 11,
+    "tics": 10905,
+    "superviviente": false,
+    "causa": "no consta",
+    "viva_en_warn5": false
+   },
+   {
+    "semilla": 20365645,
+    "slot": 10,
+    "tics": 11542,
+    "superviviente": false,
+    "causa": "rival",
+    "viva_en_warn5": false
+   },
+   {
+    "semilla": 20365645,
+    "slot": 11,
+    "tics": 11496,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": false
+   },
+   {
+    "semilla": 20470374,
+    "slot": 10,
+    "tics": 13896,
+    "superviviente": true,
+    "causa": null,
+    "viva_en_warn5": true,
+    "tics_fase": 1140,
+    "dentro_pct": 45.4,
+    "ardiendo": 14,
+    "golpes_anillo": 1,
+    "sobrevive_fase": true,
+    "entra": 12459,
+    "planes": {
+     "aceptados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {}
+    },
+    "sujeta_total": null
+   },
+   {
+    "semilla": 20470374,
+    "slot": 11,
+    "tics": 13824,
+    "superviviente": false,
+    "causa": "rival",
+    "viva_en_warn5": true,
+    "tics_fase": 1140,
+    "dentro_pct": 28.9,
+    "ardiendo": 140,
+    "golpes_anillo": 6,
+    "sobrevive_fase": true,
+    "entra": 12277,
+    "planes": {
+     "aceptados": 1,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "caida: la vida real 72 esta por debajo de la proyectada 8": 1
+     },
+     "rupturas": {},
+     "estados": {
+      "enfriamiento": 17,
+      "obedece": 8
+     }
+    },
+    "sujeta_total": null
+   },
+   {
+    "semilla": 20575103,
+    "slot": 10,
+    "tics": 12312,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "tics_fase": 457,
+    "dentro_pct": 0.0,
+    "ardiendo": 80,
+    "golpes_anillo": 3,
+    "sobrevive_fase": false,
+    "entra": null,
+    "planes": {
+     "aceptados": 1,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "caida: la vida real 8 esta por debajo de la proyectada 21": 1
+     },
+     "rupturas": {
+      "d)": 15
+     },
+     "estados": {
+      "rompe": 15,
+      "enfriamiento": 10
+     }
+    },
+    "sujeta_total": null
+   },
+   {
+    "semilla": 20575103,
+    "slot": 11,
+    "tics": 12864,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "tics_fase": 1009,
+    "dentro_pct": 22.7,
+    "ardiendo": 227,
+    "golpes_anillo": 10,
+    "sobrevive_fase": false,
+    "entra": 12283,
+    "planes": {
+     "aceptados": 7,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "andado (destino)": 1,
+      "andado (a salvo)": 4,
+      "caida: en la reevaluacion deja de ganar (area)": 1,
+      "caida: en la reevaluacion deja de ganar (vida)": 1
+     },
+     "rupturas": {
+      "a)": 4,
+      "d)": 1
+     },
+     "estados": {
+      "enfriamiento": 94,
+      "obedece": 24,
+      "cumplida": 5,
+      "rompe": 5
+     }
+    },
+    "sujeta_total": null
+   },
+   {
+    "semilla": 20679832,
+    "slot": 10,
+    "tics": 13879,
+    "superviviente": true,
+    "causa": null,
+    "viva_en_warn5": true,
+    "tics_fase": 1140,
+    "dentro_pct": 100.0,
+    "ardiendo": 0,
+    "golpes_anillo": 0,
+    "sobrevive_fase": true,
+    "entra": 11856,
+    "planes": {
+     "aceptados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {}
+    },
+    "sujeta_total": null
+   },
+   {
+    "semilla": 20679832,
+    "slot": 11,
+    "tics": 13800,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "tics_fase": 1140,
+    "dentro_pct": 100.0,
+    "ardiendo": 0,
+    "golpes_anillo": 0,
+    "sobrevive_fase": true,
+    "entra": 11856,
+    "planes": {
+     "aceptados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {}
+    },
+    "sujeta_total": null
+   },
+   {
+    "semilla": 20784561,
+    "slot": 10,
+    "tics": 14040,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "tics_fase": 1140,
+    "dentro_pct": 23.3,
+    "ardiendo": 315,
+    "golpes_anillo": 13,
+    "sobrevive_fase": true,
+    "entra": 12163,
+    "planes": {
+     "aceptados": 3,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "andado (destino)": 1,
+      "caida: la vida real 88 esta por debajo de la proyectada 1": 1,
+      "caida: la vida real 49 esta por debajo de la proyectada 6": 1
+     },
+     "rupturas": {
+      "a)": 87
+     },
+     "estados": {
+      "enfriamiento": 55,
+      "obedece": 5,
+      "rompe": 87,
+      "cumplida": 1
+     }
+    },
+    "sujeta_total": null
+   },
+   {
+    "semilla": 20784561,
+    "slot": 11,
+    "tics": 13224,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "tics_fase": 1140,
+    "dentro_pct": 33.3,
+    "ardiendo": 14,
+    "golpes_anillo": 0,
+    "sobrevive_fase": true,
+    "entra": 12586,
+    "planes": {
+     "aceptados": 2,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "andado (a salvo)": 1,
+      "caida: en la reevaluacion deja de ganar (area)": 1
+     },
+     "rupturas": {
+      "a)": 41
+     },
+     "estados": {
+      "rompe": 41,
+      "enfriamiento": 20,
+      "cumplida": 1
+     }
+    },
+    "sujeta_total": null
+   },
+   {
+    "semilla": 20889290,
+    "slot": 10,
+    "tics": 15048,
+    "superviviente": true,
+    "causa": null,
+    "viva_en_warn5": true,
+    "tics_fase": 1140,
+    "dentro_pct": 25.3,
+    "ardiendo": 83,
+    "golpes_anillo": 3,
+    "sobrevive_fase": true,
+    "entra": 12622,
+    "planes": {
+     "aceptados": 2,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "andado (a salvo)": 2
+     },
+     "rupturas": {
+      "a)": 12
+     },
+     "estados": {
+      "enfriamiento": 22,
+      "rompe": 12,
+      "cumplida": 2
+     }
+    },
+    "sujeta_total": null
+   },
+   {
+    "semilla": 20889290,
+    "slot": 11,
+    "tics": 15048,
+    "superviviente": true,
+    "causa": null,
+    "viva_en_warn5": true,
+    "tics_fase": 1140,
+    "dentro_pct": 21.9,
+    "ardiendo": 110,
+    "golpes_anillo": 5,
+    "sobrevive_fase": true,
+    "entra": 12729,
+    "planes": {
+     "aceptados": 1,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "caida: la vida real 86 esta por debajo de la proyectada 1": 1
+     },
+     "rupturas": {},
+     "estados": {
+      "obedece": 9,
+      "enfriamiento": 16
+     }
+    },
+    "sujeta_total": null
+   },
+   {
+    "semilla": 20994019,
+    "slot": 10,
+    "tics": 9938,
+    "superviviente": false,
+    "causa": "rival",
+    "viva_en_warn5": false
+   },
+   {
+    "semilla": 20994019,
+    "slot": 11,
+    "tics": 5071,
+    "superviviente": false,
+    "causa": "rival",
+    "viva_en_warn5": false
+   },
+   {
+    "semilla": 21098748,
+    "slot": 10,
+    "tics": 12873,
+    "superviviente": false,
+    "causa": "rival",
+    "viva_en_warn5": true,
+    "tics_fase": 1018,
+    "dentro_pct": 18.1,
+    "ardiendo": 163,
+    "golpes_anillo": 6,
+    "sobrevive_fase": false,
+    "entra": 12461,
+    "planes": {
+     "aceptados": 1,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "caida: la vida real 58 esta por debajo de la proyectada 7": 1
+     },
+     "rupturas": {
+      "a)": 2
+     },
+     "estados": {
+      "enfriamiento": 40,
+      "rompe": 2,
+      "obedece": 8
+     }
+    },
+    "sujeta_total": null
+   },
+   {
+    "semilla": 21098748,
+    "slot": 11,
+    "tics": 13033,
+    "superviviente": true,
+    "causa": null,
+    "viva_en_warn5": true,
+    "tics_fase": 1140,
+    "dentro_pct": 8.9,
+    "ardiendo": 349,
+    "golpes_anillo": 16,
+    "sobrevive_fase": true,
+    "entra": 12495,
+    "planes": {
+     "aceptados": 3,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "andado (a salvo)": 1,
+      "caida: la vida real 60 esta por debajo de la proyectada 8": 1,
+      "caida: la vida real 55 esta por debajo de la proyectada 8": 1
+     },
+     "rupturas": {},
+     "estados": {
+      "enfriamiento": 33,
+      "obedece": 17,
+      "cumplida": 1
+     }
+    },
+    "sujeta_total": null
+   },
+   {
+    "semilla": 21203477,
+    "slot": 10,
+    "tics": 12840,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "tics_fase": 985,
+    "dentro_pct": 6.4,
+    "ardiendo": 219,
+    "golpes_anillo": 9,
+    "sobrevive_fase": false,
+    "entra": 12380,
+    "planes": {
+     "aceptados": 4,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "andado (destino)": 2,
+      "caida: la vida real 45 esta por debajo de la proyectada 5": 1,
+      "caida: la vida real 6 esta por debajo de la proyectada 29": 1
+     },
+     "rupturas": {
+      "d)": 22
+     },
+     "estados": {
+      "enfriamiento": 41,
+      "obedece": 46,
+      "cumplida": 2,
+      "rompe": 22
+     }
+    },
+    "sujeta_total": null
+   },
+   {
+    "semilla": 21203477,
+    "slot": 11,
+    "tics": 14577,
+    "superviviente": false,
+    "causa": "no consta",
+    "viva_en_warn5": true,
+    "tics_fase": 1140,
+    "dentro_pct": 17.7,
+    "ardiendo": 254,
+    "golpes_anillo": 11,
+    "sobrevive_fase": true,
+    "entra": 12347,
+    "planes": {
+     "aceptados": 6,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "andado (destino)": 4,
+      "caida: en la reevaluacion deja de ganar (vida)": 2
+     },
+     "rupturas": {
+      "d)": 5
+     },
+     "estados": {
+      "enfriamiento": 52,
+      "obedece": 10,
+      "cumplida": 4,
+      "rompe": 5
+     }
+    },
+    "sujeta_total": null
+   },
+   {
+    "semilla": 21308206,
+    "slot": 10,
+    "tics": 12984,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "tics_fase": 1129,
+    "dentro_pct": 10.0,
+    "ardiendo": 313,
+    "golpes_anillo": 12,
+    "sobrevive_fase": false,
+    "entra": 12521,
+    "planes": {
+     "aceptados": 3,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "caida: en la reevaluacion deja de ganar (area)": 1,
+      "caida: la vida real 56 esta por debajo de la proyectada 6": 1,
+      "caida: la vida real 30 esta por debajo de la proyectada 5": 1
+     },
+     "rupturas": {
+      "a)": 6
+     },
+     "estados": {
+      "enfriamiento": 82,
+      "obedece": 18,
+      "rompe": 6
+     }
+    },
+    "sujeta_total": null
+   },
+   {
+    "semilla": 21308206,
+    "slot": 11,
+    "tics": 14629,
+    "superviviente": false,
+    "causa": "rival",
+    "viva_en_warn5": true,
+    "tics_fase": 1140,
+    "dentro_pct": 16.9,
+    "ardiendo": 241,
+    "golpes_anillo": 10,
+    "sobrevive_fase": true,
+    "entra": 11888,
+    "planes": {
+     "aceptados": 2,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "andado (a salvo)": 1,
+      "caida: en la reevaluacion deja de ganar (area)": 1
+     },
+     "rupturas": {},
+     "estados": {
+      "enfriamiento": 27,
+      "obedece": 7,
+      "cumplida": 1
+     }
+    },
+    "sujeta_total": null
+   },
+   {
+    "semilla": 21412935,
+    "slot": 10,
+    "tics": 12459,
+    "superviviente": false,
+    "causa": "rival",
+    "viva_en_warn5": true,
+    "tics_fase": 604,
+    "dentro_pct": 100.0,
+    "ardiendo": 0,
+    "golpes_anillo": 0,
+    "sobrevive_fase": false,
+    "entra": 11856,
+    "planes": {
+     "aceptados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {}
+    },
+    "sujeta_total": null
+   },
+   {
+    "semilla": 21412935,
+    "slot": 11,
+    "tics": 12631,
+    "superviviente": false,
+    "causa": "rival",
+    "viva_en_warn5": true,
+    "tics_fase": 776,
+    "dentro_pct": 11.9,
+    "ardiendo": 253,
+    "golpes_anillo": 10,
+    "sobrevive_fase": false,
+    "entra": 11856,
+    "planes": {
+     "aceptados": 2,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "andado (destino)": 1,
+      "caida: en la reevaluacion deja de ganar (area)": 1
+     },
+     "rupturas": {},
+     "estados": {
+      "enfriamiento": 46,
+      "obedece": 14,
+      "cumplida": 1
+     }
+    },
+    "sujeta_total": null
+   },
+   {
+    "semilla": 21517664,
+    "slot": 10,
+    "tics": 14628,
+    "superviviente": false,
+    "causa": "rival",
+    "viva_en_warn5": true,
+    "tics_fase": 1140,
+    "dentro_pct": 56.2,
+    "ardiendo": 0,
+    "golpes_anillo": 0,
+    "sobrevive_fase": true,
+    "entra": 12289,
+    "planes": {
+     "aceptados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {}
+    },
+    "sujeta_total": null
+   },
+   {
+    "semilla": 21517664,
+    "slot": 11,
+    "tics": 14556,
+    "superviviente": false,
+    "causa": "rival",
+    "viva_en_warn5": true,
+    "tics_fase": 1140,
+    "dentro_pct": 41.1,
+    "ardiendo": 16,
+    "golpes_anillo": 0,
+    "sobrevive_fase": true,
+    "entra": 12486,
+    "planes": {
+     "aceptados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {}
+    },
+    "sujeta_total": null
+   },
+   {
+    "semilla": 21622393,
+    "slot": 10,
+    "tics": 12936,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "tics_fase": 1081,
+    "dentro_pct": 10.2,
+    "ardiendo": 292,
+    "golpes_anillo": 10,
+    "sobrevive_fase": false,
+    "entra": 12493,
+    "planes": {
+     "aceptados": 4,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "andado (destino)": 3,
+      "caida: la vida real 25 esta por debajo de la proyectada 3": 1
+     },
+     "rupturas": {
+      "a)": 16,
+      "d)": 5
+     },
+     "estados": {
+      "enfriamiento": 60,
+      "obedece": 47,
+      "rompe": 21,
+      "cumplida": 3
+     }
+    },
+    "sujeta_total": null
+   },
+   {
+    "semilla": 21622393,
+    "slot": 11,
+    "tics": 12936,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "tics_fase": 1081,
+    "dentro_pct": 0.0,
+    "ardiendo": 370,
+    "golpes_anillo": 15,
+    "sobrevive_fase": false,
+    "entra": null,
+    "planes": {
+     "aceptados": 5,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "caida: en la reevaluacion deja de ganar (area)": 2,
+      "caida: la vida real 40 esta por debajo de la proyectada 5": 1,
+      "caida: la vida real 27 esta por debajo de la proyectada 4": 1,
+      "caida: en la reevaluacion deja de ganar (vida)": 1
+     },
+     "rupturas": {
+      "a)": 16,
+      "d)": 6
+     },
+     "estados": {
+      "rompe": 22,
+      "enfriamiento": 89,
+      "obedece": 25
+     }
+    },
+    "sujeta_total": null
+   },
+   {
+    "semilla": 21727122,
+    "slot": 10,
+    "tics": 12504,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "tics_fase": 649,
+    "dentro_pct": 0.0,
+    "ardiendo": 255,
+    "golpes_anillo": 11,
+    "sobrevive_fase": false,
+    "entra": null,
+    "planes": {
+     "aceptados": 2,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "caida: la vida real 54 esta por debajo de la proyectada 6": 1,
+      "caida: la vida real 21 esta por debajo de la proyectada 3": 1
+     },
+     "rupturas": {
+      "a)": 28
+     },
+     "estados": {
+      "enfriamiento": 28,
+      "obedece": 9,
+      "rompe": 28
+     }
+    },
+    "sujeta_total": null
+   },
+   {
+    "semilla": 21727122,
+    "slot": 11,
+    "tics": 12576,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "tics_fase": 721,
+    "dentro_pct": 7.6,
+    "ardiendo": 290,
+    "golpes_anillo": 12,
+    "sobrevive_fase": false,
+    "entra": 12174,
+    "planes": {
+     "aceptados": 2,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "caida: la vida real 60 esta por debajo de la proyectada 8": 1,
+      "caida: la vida real 21 esta por debajo de la proyectada 4": 1
+     },
+     "rupturas": {
+      "a)": 9
+     },
+     "estados": {
+      "obedece": 22,
+      "rompe": 9,
+      "enfriamiento": 19
+     }
+    },
+    "sujeta_total": null
+   },
+   {
+    "semilla": 21831851,
+    "slot": 10,
+    "tics": 13152,
+    "superviviente": false,
+    "causa": "rival",
+    "viva_en_warn5": true,
+    "tics_fase": 1140,
+    "dentro_pct": 79.1,
+    "ardiendo": 216,
+    "golpes_anillo": 9,
+    "sobrevive_fase": true,
+    "entra": 11856,
+    "planes": {
+     "aceptados": 2,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "andado (a salvo)": 2
+     },
+     "rupturas": {
+      "a)": 8
+     },
+     "estados": {
+      "enfriamiento": 13,
+      "rompe": 8,
+      "cumplida": 2
+     }
+    },
+    "sujeta_total": null
+   },
+   {
+    "semilla": 21831851,
+    "slot": 11,
+    "tics": 13008,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "tics_fase": 1140,
+    "dentro_pct": 64.7,
+    "ardiendo": 360,
+    "golpes_anillo": 15,
+    "sobrevive_fase": true,
+    "entra": 11856,
+    "planes": {
+     "aceptados": 5,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "caida: en la reevaluacion deja de ganar (area)": 2,
+      "caida: la vida real 73 esta por debajo de la proyectada 8": 1,
+      "caida: la vida real 47 esta por debajo de la proyectada 6": 1,
+      "caida: la vida real 34 esta por debajo de la proyectada 4": 1
+     },
+     "rupturas": {
+      "a)": 55
+     },
+     "estados": {
+      "enfriamiento": 119,
+      "rompe": 55
+     }
+    },
+    "sujeta_total": null
+   },
+   {
+    "semilla": 21936580,
+    "slot": 10,
+    "tics": 13008,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "tics_fase": 1140,
+    "dentro_pct": 39.3,
+    "ardiendo": 472,
+    "golpes_anillo": 20,
+    "sobrevive_fase": true,
+    "entra": 11856,
+    "planes": {
+     "aceptados": 7,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "andado (a salvo)": 4,
+      "andado (destino)": 1,
+      "caida: en la reevaluacion deja de ganar (area)": 2
+     },
+     "rupturas": {
+      "e)": 2,
+      "d)": 1
+     },
+     "estados": {
+      "enfriamiento": 101,
+      "obedece": 36,
+      "cumplida": 5,
+      "rompe": 3
+     }
+    },
+    "sujeta_total": null
+   },
+   {
+    "semilla": 21936580,
+    "slot": 11,
+    "tics": 12312,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "tics_fase": 457,
+    "dentro_pct": 0.0,
+    "ardiendo": 150,
+    "golpes_anillo": 6,
+    "sobrevive_fase": false,
+    "entra": null,
+    "planes": {
+     "aceptados": 2,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "caida: la vida real 30 esta por debajo de la proyectada 4": 1,
+      "caida: en la reevaluacion deja de ganar (vida)": 1
+     },
+     "rupturas": {},
+     "estados": {
+      "enfriamiento": 59,
+      "obedece": 14
+     }
+    },
+    "sujeta_total": null
+   },
+   {
+    "semilla": 22041309,
+    "slot": 10,
+    "tics": 13152,
+    "superviviente": false,
+    "causa": "no consta",
+    "viva_en_warn5": true,
+    "tics_fase": 1140,
+    "dentro_pct": 12.5,
+    "ardiendo": 283,
+    "golpes_anillo": 13,
+    "sobrevive_fase": true,
+    "entra": 12566,
+    "planes": {
+     "aceptados": 3,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "andado (a salvo)": 1,
+      "caida: en la reevaluacion deja de ganar (area)": 2
+     },
+     "rupturas": {},
+     "estados": {
+      "enfriamiento": 78,
+      "obedece": 20,
+      "cumplida": 1
+     }
+    },
+    "sujeta_total": null
+   },
+   {
+    "semilla": 22041309,
+    "slot": 11,
+    "tics": 12624,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "tics_fase": 769,
+    "dentro_pct": 1.4,
+    "ardiendo": 241,
+    "golpes_anillo": 10,
+    "sobrevive_fase": false,
+    "entra": 12300,
+    "planes": {
+     "aceptados": 4,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "andado (a salvo)": 1,
+      "caida: la vida real 57 esta por debajo de la proyectada 7": 1,
+      "caida: la vida real 44 esta por debajo de la proyectada 5": 1,
+      "caida: en la reevaluacion deja de ganar (vida)": 1
+     },
+     "rupturas": {
+      "d)": 1
+     },
+     "estados": {
+      "enfriamiento": 76,
+      "obedece": 33,
+      "cumplida": 1,
+      "rompe": 1
+     }
+    },
+    "sujeta_total": null
+   },
+   {
+    "semilla": 22146038,
+    "slot": 10,
+    "tics": 12960,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "tics_fase": 1105,
+    "dentro_pct": 24.2,
+    "ardiendo": 318,
+    "golpes_anillo": 9,
+    "sobrevive_fase": false,
+    "entra": 12225,
+    "planes": {
+     "aceptados": 10,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "andado (destino)": 4,
+      "andado (a salvo)": 4,
+      "caida: en la reevaluacion deja de ganar (area)": 2
+     },
+     "rupturas": {
+      "e)": 1
+     },
+     "estados": {
+      "enfriamiento": 184,
+      "obedece": 60,
+      "rompe": 1,
+      "cumplida": 8
+     }
+    },
+    "sujeta_total": null
+   },
+   {
+    "semilla": 22146038,
+    "slot": 11,
+    "tics": 12168,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "tics_fase": 313,
+    "dentro_pct": 0.0,
+    "ardiendo": 46,
+    "golpes_anillo": 2,
+    "sobrevive_fase": false,
+    "entra": null,
+    "planes": {
+     "aceptados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {}
+    },
+    "sujeta_total": null
+   },
+   {
+    "semilla": 22250767,
+    "slot": 10,
+    "tics": 12576,
+    "superviviente": false,
+    "causa": "no consta",
+    "viva_en_warn5": true,
+    "tics_fase": 721,
+    "dentro_pct": 0.0,
+    "ardiendo": 35,
+    "golpes_anillo": 1,
+    "sobrevive_fase": false,
+    "entra": null,
+    "planes": {
+     "aceptados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {}
+    },
+    "sujeta_total": null
+   },
+   {
+    "semilla": 22250767,
+    "slot": 11,
+    "tics": 12984,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "tics_fase": 1129,
+    "dentro_pct": 3.8,
+    "ardiendo": 360,
+    "golpes_anillo": 15,
+    "sobrevive_fase": false,
+    "entra": 11856,
+    "planes": {
+     "aceptados": 5,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "andado (destino)": 1,
+      "andado (a salvo)": 2,
+      "caida: la vida real 67 esta por debajo de la proyectada 9": 1,
+      "caida: en la reevaluacion deja de ganar (vida)": 1
+     },
+     "rupturas": {
+      "e)": 8,
+      "d)": 8
+     },
+     "estados": {
+      "enfriamiento": 173,
+      "obedece": 47,
+      "cumplida": 3,
+      "rompe": 16
+     }
+    },
+    "sujeta_total": null
+   }
+  ],
+  "por_semilla": {
+   "20260916": {
+    "semilla": 20260916,
+    "supervivientes": 0,
+    "anillo": 0,
+    "rival": 1,
+    "dentro_pct": [],
+    "ardiendo": [],
+    "vivas_en_warn": 0,
+    "sostenidos": 0,
+    "aceptados_fase": 0,
+    "dentro_pct_media": null,
+    "ardiendo_media": null
+   },
+   "20365645": {
+    "semilla": 20365645,
+    "supervivientes": 0,
+    "anillo": 1,
+    "rival": 1,
+    "dentro_pct": [],
+    "ardiendo": [],
+    "vivas_en_warn": 0,
+    "sostenidos": 0,
+    "aceptados_fase": 0,
+    "dentro_pct_media": null,
+    "ardiendo_media": null
+   },
+   "20470374": {
+    "semilla": 20470374,
+    "supervivientes": 1,
+    "anillo": 0,
+    "rival": 1,
+    "dentro_pct": [
+     45.4,
+     28.9
+    ],
+    "ardiendo": [
+     14,
+     140
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 1,
+    "dentro_pct_media": 37.1,
+    "ardiendo_media": 77
+   },
+   "20575103": {
+    "semilla": 20575103,
+    "supervivientes": 0,
+    "anillo": 2,
+    "rival": 0,
+    "dentro_pct": [
+     0.0,
+     22.7
+    ],
+    "ardiendo": [
+     80,
+     227
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 8,
+    "dentro_pct_media": 11.3,
+    "ardiendo_media": 153.5
+   },
+   "20679832": {
+    "semilla": 20679832,
+    "supervivientes": 1,
+    "anillo": 1,
+    "rival": 0,
+    "dentro_pct": [
+     100.0,
+     100.0
+    ],
+    "ardiendo": [
+     0,
+     0
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 0,
+    "dentro_pct_media": 100.0,
+    "ardiendo_media": 0
+   },
+   "20784561": {
+    "semilla": 20784561,
+    "supervivientes": 0,
+    "anillo": 2,
+    "rival": 0,
+    "dentro_pct": [
+     23.3,
+     33.3
+    ],
+    "ardiendo": [
+     315,
+     14
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 5,
+    "dentro_pct_media": 28.3,
+    "ardiendo_media": 164.5
+   },
+   "20889290": {
+    "semilla": 20889290,
+    "supervivientes": 2,
+    "anillo": 0,
+    "rival": 0,
+    "dentro_pct": [
+     25.3,
+     21.9
+    ],
+    "ardiendo": [
+     83,
+     110
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 3,
+    "dentro_pct_media": 23.6,
+    "ardiendo_media": 96.5
+   },
+   "20994019": {
+    "semilla": 20994019,
+    "supervivientes": 0,
+    "anillo": 0,
+    "rival": 2,
+    "dentro_pct": [],
+    "ardiendo": [],
+    "vivas_en_warn": 0,
+    "sostenidos": 0,
+    "aceptados_fase": 0,
+    "dentro_pct_media": null,
+    "ardiendo_media": null
+   },
+   "21098748": {
+    "semilla": 21098748,
+    "supervivientes": 1,
+    "anillo": 0,
+    "rival": 1,
+    "dentro_pct": [
+     18.1,
+     8.9
+    ],
+    "ardiendo": [
+     163,
+     349
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 4,
+    "dentro_pct_media": 13.5,
+    "ardiendo_media": 256
+   },
+   "21203477": {
+    "semilla": 21203477,
+    "supervivientes": 0,
+    "anillo": 1,
+    "rival": 0,
+    "dentro_pct": [
+     6.4,
+     17.7
+    ],
+    "ardiendo": [
+     219,
+     254
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 10,
+    "dentro_pct_media": 12.1,
+    "ardiendo_media": 236.5
+   },
+   "21308206": {
+    "semilla": 21308206,
+    "supervivientes": 0,
+    "anillo": 1,
+    "rival": 1,
+    "dentro_pct": [
+     10.0,
+     16.9
+    ],
+    "ardiendo": [
+     313,
+     241
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 5,
+    "dentro_pct_media": 13.4,
+    "ardiendo_media": 277
+   },
+   "21412935": {
+    "semilla": 21412935,
+    "supervivientes": 0,
+    "anillo": 0,
+    "rival": 2,
+    "dentro_pct": [
+     100.0,
+     11.9
+    ],
+    "ardiendo": [
+     0,
+     253
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 2,
+    "dentro_pct_media": 56.0,
+    "ardiendo_media": 126.5
+   },
+   "21517664": {
+    "semilla": 21517664,
+    "supervivientes": 0,
+    "anillo": 0,
+    "rival": 2,
+    "dentro_pct": [
+     56.2,
+     41.1
+    ],
+    "ardiendo": [
+     0,
+     16
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 0,
+    "dentro_pct_media": 48.7,
+    "ardiendo_media": 8
+   },
+   "21622393": {
+    "semilla": 21622393,
+    "supervivientes": 0,
+    "anillo": 2,
+    "rival": 0,
+    "dentro_pct": [
+     10.2,
+     0.0
+    ],
+    "ardiendo": [
+     292,
+     370
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 9,
+    "dentro_pct_media": 5.1,
+    "ardiendo_media": 331
+   },
+   "21727122": {
+    "semilla": 21727122,
+    "supervivientes": 0,
+    "anillo": 2,
+    "rival": 0,
+    "dentro_pct": [
+     0.0,
+     7.6
+    ],
+    "ardiendo": [
+     255,
+     290
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 4,
+    "dentro_pct_media": 3.8,
+    "ardiendo_media": 272.5
+   },
+   "21831851": {
+    "semilla": 21831851,
+    "supervivientes": 0,
+    "anillo": 1,
+    "rival": 1,
+    "dentro_pct": [
+     79.1,
+     64.7
+    ],
+    "ardiendo": [
+     216,
+     360
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 7,
+    "dentro_pct_media": 71.9,
+    "ardiendo_media": 288
+   },
+   "21936580": {
+    "semilla": 21936580,
+    "supervivientes": 0,
+    "anillo": 2,
+    "rival": 0,
+    "dentro_pct": [
+     39.3,
+     0.0
+    ],
+    "ardiendo": [
+     472,
+     150
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 9,
+    "dentro_pct_media": 19.6,
+    "ardiendo_media": 311
+   },
+   "22041309": {
+    "semilla": 22041309,
+    "supervivientes": 0,
+    "anillo": 1,
+    "rival": 0,
+    "dentro_pct": [
+     12.5,
+     1.4
+    ],
+    "ardiendo": [
+     283,
+     241
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 7,
+    "dentro_pct_media": 7.0,
+    "ardiendo_media": 262
+   },
+   "22146038": {
+    "semilla": 22146038,
+    "supervivientes": 0,
+    "anillo": 2,
+    "rival": 0,
+    "dentro_pct": [
+     24.2,
+     0.0
+    ],
+    "ardiendo": [
+     318,
+     46
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 10,
+    "dentro_pct_media": 12.1,
+    "ardiendo_media": 182
+   },
+   "22250767": {
+    "semilla": 22250767,
+    "supervivientes": 0,
+    "anillo": 1,
+    "rival": 0,
+    "dentro_pct": [
+     0.0,
+     3.8
+    ],
+    "ardiendo": [
+     35,
+     360
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 5,
+    "dentro_pct_media": 1.9,
+    "ardiendo_media": 197.5
+   }
+  }
+ },
+ "A6": {
+  "resumen": {
+   "vidas": 40,
+   "vivas_en_warn5": 35,
+   "dentro_pct_media": 35.4,
+   "dentro_pct_mediana": 35.3,
+   "ardiendo_media": 159.3,
+   "ardiendo_mediana": 157,
+   "vidas_0_ardiendo": 5,
+   "nunca_entra": 2,
+   "sobreviven_fase5": 24,
+   "planes_aceptados_fase5": 74,
+   "planes_sostenidos": 2,
+   "fines": {
+    "caida: la vida real 66 esta por debajo de la proyectada 7": 1,
+    "caida: en la reevaluacion deja de ganar (area)": 21,
+    "caida: la vida real 86 esta por debajo de la proyectada 1": 7,
+    "caida: en la reevaluacion deja de ganar (vida)": 4,
+    "caida: la vida real 58 esta por debajo de la proyectada 7": 1,
+    "caida: la vida real 19 esta por debajo de la proyectada 5": 1,
+    "caida: la vida real 73 esta por debajo de la proyectada 8": 1,
+    "caida: la vida real 60 esta por debajo de la proyectada 7": 2,
+    "caida: la vida real 34 esta por debajo de la proyectada 5": 3,
+    "caida: la vida real 56 esta por debajo de la proyectada 6": 2,
+    "caida: la vida real 36 esta por debajo de la proyectada 5": 1,
+    "caida: la vida real 16 esta por debajo de la proyectada 3": 1,
+    "caida: la vida real 67 esta por debajo de la proyectada 8": 2,
+    "caida: la vida real 54 esta por debajo de la proyectada 6": 2,
+    "caida: la vida real 21 esta por debajo de la proyectada 3": 2,
+    "caida: la vida real 46 esta por debajo de la proyectada 1": 1,
+    "caida: la vida real 33 esta por debajo de la proyectada 4": 1,
+    "caida: la vida real 20 esta por debajo de la proyectada 3": 1,
+    "caida: la vida real 55 esta por debajo de la proyectada 6": 1,
+    "caida: la vida real 80 esta por debajo de la proyectada 9": 1,
+    "caida: la vida real 18 esta por debajo de la proyectada 3": 1,
+    "caida: la vida real 52 esta por debajo de la proyectada 6": 1,
+    "caida: la vida real 25 esta por debajo de la proyectada 3": 1,
+    "caida: la vida real 64 esta por debajo de la proyectada 7": 2,
+    "caida: la vida real 44 esta por debajo de la proyectada 5": 1,
+    "caida: la vida real 60 esta por debajo de la proyectada 8": 1,
+    "caida: la vida real 21 esta por debajo de la proyectada 4": 1,
+    "caida: la vida real 37 esta por debajo de la proyectada 5": 1,
+    "caida: la vida real 11 esta por debajo de la proyectada 3": 1,
+    "caida: la vida real 43 esta por debajo de la proyectada 5": 2,
+    "caida: la vida real 17 esta por debajo de la proyectada 3": 1,
+    "caida: la vida real 56 esta por debajo de la proyectada 7": 1,
+    "caida: la vida real 30 esta por debajo de la proyectada 4": 1,
+    "caida: la vida real 45 esta por debajo de la proyectada 5": 1
+   },
+   "rupturas": {
+    "e)": 238,
+    "a)": 672,
+    "d)": 20
+   },
+   "estados_compromiso": {
+    "enfriamiento": 1831,
+    "obedece": 644,
+    "rompe": 930,
+    "sujeta": 1054
+   },
+   "muertes_anillo": 21,
+   "muertes_rival": 7,
+   "supervivientes": 12
+  },
+  "vidas": [
+   {
+    "semilla": 20260916,
+    "slot": 10,
+    "tics": 14617,
+    "superviviente": true,
+    "causa": null,
+    "viva_en_warn5": true,
+    "tics_fase": 1140,
+    "dentro_pct": 66.7,
+    "ardiendo": 138,
+    "golpes_anillo": 6,
+    "sobrevive_fase": true,
+    "entra": 11856,
+    "planes": {
+     "aceptados": 2,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "caida: la vida real 66 esta por debajo de la proyectada 7": 1,
+      "caida: en la reevaluacion deja de ganar (area)": 1
+     },
+     "rupturas": {
+      "e)": 13,
+      "a)": 14
+     },
+     "estados": {
+      "enfriamiento": 70,
+      "obedece": 13,
+      "rompe": 27,
+      "sujeta": 38
+     }
+    },
+    "sujeta_total": 38
+   },
+   {
+    "semilla": 20260916,
+    "slot": 11,
+    "tics": 14040,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "tics_fase": 1140,
+    "dentro_pct": 46.2,
+    "ardiendo": 177,
+    "golpes_anillo": 6,
+    "sobrevive_fase": true,
+    "entra": 11856,
+    "planes": {
+     "aceptados": 2,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "caida: la vida real 86 esta por debajo de la proyectada 1": 1,
+      "caida: en la reevaluacion deja de ganar (area)": 1
+     },
+     "rupturas": {
+      "e)": 23,
+      "a)": 12
+     },
+     "estados": {
+      "obedece": 25,
+      "rompe": 35,
+      "sujeta": 74,
+      "enfriamiento": 145
+     }
+    },
+    "sujeta_total": 74
+   },
+   {
+    "semilla": 20365645,
+    "slot": 10,
+    "tics": 12840,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "tics_fase": 985,
+    "dentro_pct": 3.4,
+    "ardiendo": 172,
+    "golpes_anillo": 8,
+    "sobrevive_fase": false,
+    "entra": 12655,
+    "planes": {
+     "aceptados": 1,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "caida: en la reevaluacion deja de ganar (vida)": 1
+     },
+     "rupturas": {
+      "a)": 4
+     },
+     "estados": {
+      "enfriamiento": 18,
+      "rompe": 4
+     }
+    },
+    "sujeta_total": 47
+   },
+   {
+    "semilla": 20365645,
+    "slot": 11,
+    "tics": 11328,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": false
+   },
+   {
+    "semilla": 20470374,
+    "slot": 10,
+    "tics": 10735,
+    "superviviente": false,
+    "causa": "rival",
+    "viva_en_warn5": false
+   },
+   {
+    "semilla": 20470374,
+    "slot": 11,
+    "tics": 12720,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "tics_fase": 865,
+    "dentro_pct": 6.4,
+    "ardiendo": 157,
+    "golpes_anillo": 7,
+    "sobrevive_fase": false,
+    "entra": 11968,
+    "planes": {
+     "aceptados": 2,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "caida: la vida real 58 esta por debajo de la proyectada 7": 1,
+      "caida: la vida real 19 esta por debajo de la proyectada 5": 1
+     },
+     "rupturas": {
+      "e)": 2,
+      "a)": 18
+     },
+     "estados": {
+      "enfriamiento": 45,
+      "obedece": 9,
+      "rompe": 20
+     }
+    },
+    "sujeta_total": 0
+   },
+   {
+    "semilla": 20575103,
+    "slot": 10,
+    "tics": 11544,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": false
+   },
+   {
+    "semilla": 20575103,
+    "slot": 11,
+    "tics": 12024,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "tics_fase": 169,
+    "dentro_pct": 0.0,
+    "ardiendo": 27,
+    "golpes_anillo": 1,
+    "sobrevive_fase": false,
+    "entra": null,
+    "planes": {
+     "aceptados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {}
+    },
+    "sujeta_total": 19
+   },
+   {
+    "semilla": 20679832,
+    "slot": 10,
+    "tics": 12888,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "tics_fase": 1033,
+    "dentro_pct": 1.5,
+    "ardiendo": 368,
+    "golpes_anillo": 15,
+    "sobrevive_fase": false,
+    "entra": 12503,
+    "planes": {
+     "aceptados": 5,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "caida: la vida real 86 esta por debajo de la proyectada 1": 1,
+      "caida: la vida real 73 esta por debajo de la proyectada 8": 1,
+      "caida: la vida real 60 esta por debajo de la proyectada 7": 1,
+      "caida: la vida real 34 esta por debajo de la proyectada 5": 1,
+      "caida: en la reevaluacion deja de ganar (vida)": 1
+     },
+     "rupturas": {
+      "d)": 9
+     },
+     "estados": {
+      "obedece": 42,
+      "enfriamiento": 24,
+      "rompe": 9
+     }
+    },
+    "sujeta_total": 0
+   },
+   {
+    "semilla": 20679832,
+    "slot": 11,
+    "tics": 13848,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "tics_fase": 1140,
+    "dentro_pct": 97.6,
+    "ardiendo": 27,
+    "golpes_anillo": 1,
+    "sobrevive_fase": true,
+    "entra": 11856,
+    "planes": {
+     "aceptados": 1,
+     "sostenidos_fin_fase": 1,
+     "fines": {},
+     "rupturas": {
+      "e)": 27
+     },
+     "estados": {
+      "rompe": 27,
+      "sujeta": 10
+     }
+    },
+    "sujeta_total": 10
+   },
+   {
+    "semilla": 20784561,
+    "slot": 10,
+    "tics": 11514,
+    "superviviente": false,
+    "causa": "rival",
+    "viva_en_warn5": false
+   },
+   {
+    "semilla": 20784561,
+    "slot": 11,
+    "tics": 12936,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "tics_fase": 1081,
+    "dentro_pct": 2.5,
+    "ardiendo": 296,
+    "golpes_anillo": 11,
+    "sobrevive_fase": false,
+    "entra": 12560,
+    "planes": {
+     "aceptados": 5,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "caida: en la reevaluacion deja de ganar (area)": 2,
+      "caida: la vida real 56 esta por debajo de la proyectada 6": 1,
+      "caida: la vida real 36 esta por debajo de la proyectada 5": 1,
+      "caida: la vida real 16 esta por debajo de la proyectada 3": 1
+     },
+     "rupturas": {
+      "e)": 1,
+      "a)": 16
+     },
+     "estados": {
+      "enfriamiento": 144,
+      "obedece": 34,
+      "rompe": 17
+     }
+    },
+    "sujeta_total": 0
+   },
+   {
+    "semilla": 20889290,
+    "slot": 10,
+    "tics": 14592,
+    "superviviente": false,
+    "causa": "rival",
+    "viva_en_warn5": true,
+    "tics_fase": 1140,
+    "dentro_pct": 35.8,
+    "ardiendo": 40,
+    "golpes_anillo": 1,
+    "sobrevive_fase": true,
+    "entra": 11912,
+    "planes": {
+     "aceptados": 1,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "caida: en la reevaluacion deja de ganar (area)": 1
+     },
+     "rupturas": {
+      "e)": 6
+     },
+     "estados": {
+      "enfriamiento": 33,
+      "obedece": 43,
+      "rompe": 6,
+      "sujeta": 7
+     }
+    },
+    "sujeta_total": 7
+   },
+   {
+    "semilla": 20889290,
+    "slot": 11,
+    "tics": 13080,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "tics_fase": 1140,
+    "dentro_pct": 43.9,
+    "ardiendo": 195,
+    "golpes_anillo": 8,
+    "sobrevive_fase": true,
+    "entra": 12120,
+    "planes": {
+     "aceptados": 3,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "caida: la vida real 86 esta por debajo de la proyectada 1": 1,
+      "caida: la vida real 67 esta por debajo de la proyectada 8": 1,
+      "caida: la vida real 54 esta por debajo de la proyectada 6": 1
+     },
+     "rupturas": {
+      "e)": 1
+     },
+     "estados": {
+      "enfriamiento": 53,
+      "obedece": 21,
+      "rompe": 1
+     }
+    },
+    "sujeta_total": 0
+   },
+   {
+    "semilla": 20994019,
+    "slot": 10,
+    "tics": 14834,
+    "superviviente": true,
+    "causa": null,
+    "viva_en_warn5": true,
+    "tics_fase": 1140,
+    "dentro_pct": 33.2,
+    "ardiendo": 142,
+    "golpes_anillo": 5,
+    "sobrevive_fase": true,
+    "entra": 12410,
+    "planes": {
+     "aceptados": 2,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "caida: en la reevaluacion deja de ganar (area)": 2
+     },
+     "rupturas": {
+      "a)": 54
+     },
+     "estados": {
+      "rompe": 54,
+      "enfriamiento": 16,
+      "obedece": 3
+     }
+    },
+    "sujeta_total": 0
+   },
+   {
+    "semilla": 20994019,
+    "slot": 11,
+    "tics": 13008,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "tics_fase": 1140,
+    "dentro_pct": 3.9,
+    "ardiendo": 316,
+    "golpes_anillo": 14,
+    "sobrevive_fase": true,
+    "entra": 12906,
+    "planes": {
+     "aceptados": 5,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "caida: la vida real 86 esta por debajo de la proyectada 1": 1,
+      "caida: la vida real 67 esta por debajo de la proyectada 8": 1,
+      "caida: la vida real 54 esta por debajo de la proyectada 6": 1,
+      "caida: la vida real 34 esta por debajo de la proyectada 5": 1,
+      "caida: la vida real 21 esta por debajo de la proyectada 3": 1
+     },
+     "rupturas": {
+      "a)": 70
+     },
+     "estados": {
+      "enfriamiento": 138,
+      "obedece": 22,
+      "rompe": 70
+     }
+    },
+    "sujeta_total": 0
+   },
+   {
+    "semilla": 21098748,
+    "slot": 10,
+    "tics": 12648,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "tics_fase": 793,
+    "dentro_pct": 0.0,
+    "ardiendo": 282,
+    "golpes_anillo": 12,
+    "sobrevive_fase": false,
+    "entra": null,
+    "planes": {
+     "aceptados": 4,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "caida: la vida real 60 esta por debajo de la proyectada 7": 1,
+      "caida: la vida real 46 esta por debajo de la proyectada 1": 1,
+      "caida: la vida real 33 esta por debajo de la proyectada 4": 1,
+      "caida: la vida real 20 esta por debajo de la proyectada 3": 1
+     },
+     "rupturas": {},
+     "estados": {
+      "enfriamiento": 111,
+      "obedece": 54
+     }
+    },
+    "sujeta_total": 0
+   },
+   {
+    "semilla": 21098748,
+    "slot": 11,
+    "tics": 13176,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "tics_fase": 1140,
+    "dentro_pct": 17.4,
+    "ardiendo": 280,
+    "golpes_anillo": 10,
+    "sobrevive_fase": true,
+    "entra": 12160,
+    "planes": {
+     "aceptados": 1,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "caida: la vida real 86 esta por debajo de la proyectada 1": 1
+     },
+     "rupturas": {
+      "a)": 1
+     },
+     "estados": {
+      "enfriamiento": 42,
+      "obedece": 10,
+      "rompe": 1
+     }
+    },
+    "sujeta_total": 0
+   },
+   {
+    "semilla": 21203477,
+    "slot": 10,
+    "tics": 14784,
+    "superviviente": true,
+    "causa": null,
+    "viva_en_warn5": true,
+    "tics_fase": 1140,
+    "dentro_pct": 35.3,
+    "ardiendo": 101,
+    "golpes_anillo": 5,
+    "sobrevive_fase": true,
+    "entra": 12190,
+    "planes": {
+     "aceptados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {}
+    },
+    "sujeta_total": 0
+   },
+   {
+    "semilla": 21203477,
+    "slot": 11,
+    "tics": 14605,
+    "superviviente": false,
+    "causa": "rival",
+    "viva_en_warn5": true,
+    "tics_fase": 1140,
+    "dentro_pct": 58.8,
+    "ardiendo": 137,
+    "golpes_anillo": 6,
+    "sobrevive_fase": true,
+    "entra": 12080,
+    "planes": {
+     "aceptados": 5,
+     "sostenidos_fin_fase": 1,
+     "fines": {
+      "caida: en la reevaluacion deja de ganar (area)": 3,
+      "caida: la vida real 55 esta por debajo de la proyectada 6": 1
+     },
+     "rupturas": {
+      "e)": 7
+     },
+     "estados": {
+      "enfriamiento": 54,
+      "obedece": 31,
+      "sujeta": 557,
+      "rompe": 7
+     }
+    },
+    "sujeta_total": 568
+   },
+   {
+    "semilla": 21308206,
+    "slot": 10,
+    "tics": 14928,
+    "superviviente": true,
+    "causa": null,
+    "viva_en_warn5": true,
+    "tics_fase": 1140,
+    "dentro_pct": 14.7,
+    "ardiendo": 347,
+    "golpes_anillo": 15,
+    "sobrevive_fase": true,
+    "entra": 12486,
+    "planes": {
+     "aceptados": 4,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "caida: en la reevaluacion deja de ganar (area)": 1,
+      "caida: la vida real 80 esta por debajo de la proyectada 9": 1,
+      "caida: la vida real 34 esta por debajo de la proyectada 5": 1,
+      "caida: la vida real 21 esta por debajo de la proyectada 3": 1
+     },
+     "rupturas": {
+      "a)": 129
+     },
+     "estados": {
+      "rompe": 129,
+      "enfriamiento": 75,
+      "obedece": 13
+     }
+    },
+    "sujeta_total": 0
+   },
+   {
+    "semilla": 21308206,
+    "slot": 11,
+    "tics": 13944,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "tics_fase": 1140,
+    "dentro_pct": 38.6,
+    "ardiendo": 179,
+    "golpes_anillo": 8,
+    "sobrevive_fase": true,
+    "entra": 11857,
+    "planes": {
+     "aceptados": 1,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "caida: en la reevaluacion deja de ganar (area)": 1
+     },
+     "rupturas": {
+      "a)": 8
+     },
+     "estados": {
+      "obedece": 4,
+      "enfriamiento": 10,
+      "rompe": 8
+     }
+    },
+    "sujeta_total": 0
+   },
+   {
+    "semilla": 21412935,
+    "slot": 10,
+    "tics": 11798,
+    "superviviente": false,
+    "causa": "rival",
+    "viva_en_warn5": false
+   },
+   {
+    "semilla": 21412935,
+    "slot": 11,
+    "tics": 12912,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "tics_fase": 1057,
+    "dentro_pct": 46.9,
+    "ardiendo": 260,
+    "golpes_anillo": 10,
+    "sobrevive_fase": false,
+    "entra": 11958,
+    "planes": {
+     "aceptados": 3,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "caida: en la reevaluacion deja de ganar (area)": 2,
+      "caida: la vida real 18 esta por debajo de la proyectada 3": 1
+     },
+     "rupturas": {},
+     "estados": {
+      "enfriamiento": 87,
+      "obedece": 20
+     }
+    },
+    "sujeta_total": 0
+   },
+   {
+    "semilla": 21517664,
+    "slot": 10,
+    "tics": 14420,
+    "superviviente": false,
+    "causa": "rival",
+    "viva_en_warn5": true,
+    "tics_fase": 1140,
+    "dentro_pct": 31.8,
+    "ardiendo": 129,
+    "golpes_anillo": 6,
+    "sobrevive_fase": true,
+    "entra": 11856,
+    "planes": {
+     "aceptados": 1,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "caida: en la reevaluacion deja de ganar (area)": 1
+     },
+     "rupturas": {
+      "a)": 44,
+      "e)": 2
+     },
+     "estados": {
+      "enfriamiento": 53,
+      "rompe": 46,
+      "obedece": 7
+     }
+    },
+    "sujeta_total": 0
+   },
+   {
+    "semilla": 21517664,
+    "slot": 11,
+    "tics": 12840,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "tics_fase": 985,
+    "dentro_pct": 13.5,
+    "ardiendo": 243,
+    "golpes_anillo": 11,
+    "sobrevive_fase": false,
+    "entra": 11856,
+    "planes": {
+     "aceptados": 2,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "caida: la vida real 52 esta por debajo de la proyectada 6": 1,
+      "caida: la vida real 25 esta por debajo de la proyectada 3": 1
+     },
+     "rupturas": {
+      "a)": 21
+     },
+     "estados": {
+      "rompe": 21,
+      "enfriamiento": 35,
+      "obedece": 3
+     }
+    },
+    "sujeta_total": 0
+   },
+   {
+    "semilla": 21622393,
+    "slot": 10,
+    "tics": 15024,
+    "superviviente": true,
+    "causa": null,
+    "viva_en_warn5": true,
+    "tics_fase": 1140,
+    "dentro_pct": 68.0,
+    "ardiendo": 195,
+    "golpes_anillo": 8,
+    "sobrevive_fase": true,
+    "entra": 11856,
+    "planes": {
+     "aceptados": 2,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "caida: la vida real 64 esta por debajo de la proyectada 7": 1,
+      "caida: la vida real 44 esta por debajo de la proyectada 5": 1
+     },
+     "rupturas": {
+      "e)": 1
+     },
+     "estados": {
+      "enfriamiento": 16,
+      "obedece": 25,
+      "sujeta": 28,
+      "rompe": 1
+     }
+    },
+    "sujeta_total": 28
+   },
+   {
+    "semilla": 21622393,
+    "slot": 11,
+    "tics": 15024,
+    "superviviente": true,
+    "causa": null,
+    "viva_en_warn5": true,
+    "tics_fase": 1140,
+    "dentro_pct": 81.1,
+    "ardiendo": 78,
+    "golpes_anillo": 3,
+    "sobrevive_fase": true,
+    "entra": 11856,
+    "planes": {
+     "aceptados": 1,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "caida: la vida real 86 esta por debajo de la proyectada 1": 1
+     },
+     "rupturas": {
+      "e)": 30
+     },
+     "estados": {
+      "enfriamiento": 79,
+      "obedece": 62,
+      "rompe": 30,
+      "sujeta": 2
+     }
+    },
+    "sujeta_total": 2
+   },
+   {
+    "semilla": 21727122,
+    "slot": 10,
+    "tics": 14641,
+    "superviviente": false,
+    "causa": "rival",
+    "viva_en_warn5": true,
+    "tics_fase": 1140,
+    "dentro_pct": 52.9,
+    "ardiendo": 0,
+    "golpes_anillo": 0,
+    "sobrevive_fase": true,
+    "entra": 11984,
+    "planes": {
+     "aceptados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {}
+    },
+    "sujeta_total": 0
+   },
+   {
+    "semilla": 21727122,
+    "slot": 11,
+    "tics": 13008,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "tics_fase": 1140,
+    "dentro_pct": 2.0,
+    "ardiendo": 401,
+    "golpes_anillo": 16,
+    "sobrevive_fase": true,
+    "entra": 12588,
+    "planes": {
+     "aceptados": 3,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "caida: la vida real 86 esta por debajo de la proyectada 1": 1,
+      "caida: la vida real 60 esta por debajo de la proyectada 8": 1,
+      "caida: la vida real 21 esta por debajo de la proyectada 4": 1
+     },
+     "rupturas": {
+      "a)": 113
+     },
+     "estados": {
+      "enfriamiento": 64,
+      "rompe": 113
+     }
+    },
+    "sujeta_total": 0
+   },
+   {
+    "semilla": 21831851,
+    "slot": 10,
+    "tics": 14952,
+    "superviviente": true,
+    "causa": null,
+    "viva_en_warn5": true,
+    "tics_fase": 1140,
+    "dentro_pct": 50.3,
+    "ardiendo": 0,
+    "golpes_anillo": 0,
+    "sobrevive_fase": true,
+    "entra": 12423,
+    "planes": {
+     "aceptados": 1,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "caida: en la reevaluacion deja de ganar (area)": 1
+     },
+     "rupturas": {
+      "a)": 74
+     },
+     "estados": {
+      "enfriamiento": 9,
+      "obedece": 11,
+      "rompe": 74
+     }
+    },
+    "sujeta_total": 0
+   },
+   {
+    "semilla": 21831851,
+    "slot": 11,
+    "tics": 14952,
+    "superviviente": true,
+    "causa": null,
+    "viva_en_warn5": true,
+    "tics_fase": 1140,
+    "dentro_pct": 53.6,
+    "ardiendo": 0,
+    "golpes_anillo": 0,
+    "sobrevive_fase": true,
+    "entra": 12385,
+    "planes": {
+     "aceptados": 1,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "caida: en la reevaluacion deja de ganar (area)": 1
+     },
+     "rupturas": {
+      "a)": 33
+     },
+     "estados": {
+      "enfriamiento": 12,
+      "obedece": 6,
+      "rompe": 33
+     }
+    },
+    "sujeta_total": 0
+   },
+   {
+    "semilla": 21936580,
+    "slot": 10,
+    "tics": 12984,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "tics_fase": 1129,
+    "dentro_pct": 17.5,
+    "ardiendo": 246,
+    "golpes_anillo": 10,
+    "sobrevive_fase": false,
+    "entra": 12522,
+    "planes": {
+     "aceptados": 2,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "caida: la vida real 37 esta por debajo de la proyectada 5": 1,
+      "caida: la vida real 11 esta por debajo de la proyectada 3": 1
+     },
+     "rupturas": {
+      "d)": 5
+     },
+     "estados": {
+      "enfriamiento": 35,
+      "obedece": 18,
+      "rompe": 5
+     }
+    },
+    "sujeta_total": 0
+   },
+   {
+    "semilla": 21936580,
+    "slot": 11,
+    "tics": 14040,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "tics_fase": 1140,
+    "dentro_pct": 22.3,
+    "ardiendo": 117,
+    "golpes_anillo": 5,
+    "sobrevive_fase": true,
+    "entra": 12742,
+    "planes": {
+     "aceptados": 3,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "caida: en la reevaluacion deja de ganar (area)": 1,
+      "caida: la vida real 56 esta por debajo de la proyectada 6": 1,
+      "caida: la vida real 43 esta por debajo de la proyectada 5": 1
+     },
+     "rupturas": {
+      "e)": 6
+     },
+     "estados": {
+      "enfriamiento": 115,
+      "obedece": 63,
+      "rompe": 6
+     }
+    },
+    "sujeta_total": 0
+   },
+   {
+    "semilla": 22041309,
+    "slot": 10,
+    "tics": 15048,
+    "superviviente": true,
+    "causa": null,
+    "viva_en_warn5": true,
+    "tics_fase": 1140,
+    "dentro_pct": 67.3,
+    "ardiendo": 16,
+    "golpes_anillo": 0,
+    "sobrevive_fase": true,
+    "entra": 11929,
+    "planes": {
+     "aceptados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {}
+    },
+    "sujeta_total": 208
+   },
+   {
+    "semilla": 22041309,
+    "slot": 11,
+    "tics": 15048,
+    "superviviente": true,
+    "causa": null,
+    "viva_en_warn5": true,
+    "tics_fase": 1140,
+    "dentro_pct": 56.2,
+    "ardiendo": 0,
+    "golpes_anillo": 0,
+    "sobrevive_fase": true,
+    "entra": 12355,
+    "planes": {
+     "aceptados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {}
+    },
+    "sujeta_total": 0
+   },
+   {
+    "semilla": 22146038,
+    "slot": 10,
+    "tics": 12528,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "tics_fase": 673,
+    "dentro_pct": 18.0,
+    "ardiendo": 89,
+    "golpes_anillo": 4,
+    "sobrevive_fase": false,
+    "entra": 12280,
+    "planes": {
+     "aceptados": 2,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "caida: la vida real 17 esta por debajo de la proyectada 3": 1,
+      "caida: en la reevaluacion deja de ganar (vida)": 1
+     },
+     "rupturas": {
+      "a)": 37,
+      "e)": 6,
+      "d)": 6
+     },
+     "estados": {
+      "enfriamiento": 92,
+      "obedece": 28,
+      "rompe": 49,
+      "sujeta": 62
+     }
+    },
+    "sujeta_total": 62
+   },
+   {
+    "semilla": 22146038,
+    "slot": 11,
+    "tics": 12768,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "tics_fase": 913,
+    "dentro_pct": 28.4,
+    "ardiendo": 215,
+    "golpes_anillo": 10,
+    "sobrevive_fase": false,
+    "entra": 12212,
+    "planes": {
+     "aceptados": 4,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "caida: la vida real 56 esta por debajo de la proyectada 7": 1,
+      "caida: la vida real 43 esta por debajo de la proyectada 5": 1,
+      "caida: la vida real 30 esta por debajo de la proyectada 4": 1,
+      "caida: en la reevaluacion deja de ganar (vida)": 1
+     },
+     "rupturas": {
+      "a)": 24,
+      "e)": 1
+     },
+     "estados": {
+      "enfriamiento": 174,
+      "obedece": 34,
+      "sujeta": 208,
+      "rompe": 25
+     }
+    },
+    "sujeta_total": 208
+   },
+   {
+    "semilla": 22250767,
+    "slot": 10,
+    "tics": 14976,
+    "superviviente": true,
+    "causa": null,
+    "viva_en_warn5": true,
+    "tics_fase": 1140,
+    "dentro_pct": 46.1,
+    "ardiendo": 207,
+    "golpes_anillo": 7,
+    "sobrevive_fase": true,
+    "entra": 11856,
+    "planes": {
+     "aceptados": 4,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "caida: en la reevaluacion deja de ganar (area)": 2,
+      "caida: la vida real 64 esta por debajo de la proyectada 7": 1,
+      "caida: la vida real 45 esta por debajo de la proyectada 5": 1
+     },
+     "rupturas": {
+      "e)": 7
+     },
+     "estados": {
+      "rompe": 7,
+      "obedece": 41,
+      "enfriamiento": 62,
+      "sujeta": 67
+     }
+    },
+    "sujeta_total": 67
+   },
+   {
+    "semilla": 22250767,
+    "slot": 11,
+    "tics": 14976,
+    "superviviente": true,
+    "causa": null,
+    "viva_en_warn5": true,
+    "tics_fase": 1140,
+    "dentro_pct": 77.0,
+    "ardiendo": 0,
+    "golpes_anillo": 0,
+    "sobrevive_fase": true,
+    "entra": 11856,
+    "planes": {
+     "aceptados": 1,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "caida: en la reevaluacion deja de ganar (area)": 1
+     },
+     "rupturas": {
+      "e)": 105
+     },
+     "estados": {
+      "rompe": 105,
+      "sujeta": 1,
+      "enfriamiento": 20,
+      "obedece": 2
+     }
+    },
+    "sujeta_total": 1
+   }
+  ],
+  "por_semilla": {
+   "20260916": {
+    "semilla": 20260916,
+    "supervivientes": 1,
+    "anillo": 1,
+    "rival": 0,
+    "dentro_pct": [
+     66.7,
+     46.2
+    ],
+    "ardiendo": [
+     138,
+     177
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 4,
+    "dentro_pct_media": 56.5,
+    "ardiendo_media": 157.5
+   },
+   "20365645": {
+    "semilla": 20365645,
+    "supervivientes": 0,
+    "anillo": 2,
+    "rival": 0,
+    "dentro_pct": [
+     3.4
+    ],
+    "ardiendo": [
+     172
+    ],
+    "vivas_en_warn": 1,
+    "sostenidos": 0,
+    "aceptados_fase": 1,
+    "dentro_pct_media": 3.4,
+    "ardiendo_media": 172
+   },
+   "20470374": {
+    "semilla": 20470374,
+    "supervivientes": 0,
+    "anillo": 1,
+    "rival": 1,
+    "dentro_pct": [
+     6.4
+    ],
+    "ardiendo": [
+     157
+    ],
+    "vivas_en_warn": 1,
+    "sostenidos": 0,
+    "aceptados_fase": 2,
+    "dentro_pct_media": 6.4,
+    "ardiendo_media": 157
+   },
+   "20575103": {
+    "semilla": 20575103,
+    "supervivientes": 0,
+    "anillo": 2,
+    "rival": 0,
+    "dentro_pct": [
+     0.0
+    ],
+    "ardiendo": [
+     27
+    ],
+    "vivas_en_warn": 1,
+    "sostenidos": 0,
+    "aceptados_fase": 0,
+    "dentro_pct_media": 0.0,
+    "ardiendo_media": 27
+   },
+   "20679832": {
+    "semilla": 20679832,
+    "supervivientes": 0,
+    "anillo": 2,
+    "rival": 0,
+    "dentro_pct": [
+     1.5,
+     97.6
+    ],
+    "ardiendo": [
+     368,
+     27
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 1,
+    "aceptados_fase": 6,
+    "dentro_pct_media": 49.5,
+    "ardiendo_media": 197.5
+   },
+   "20784561": {
+    "semilla": 20784561,
+    "supervivientes": 0,
+    "anillo": 1,
+    "rival": 1,
+    "dentro_pct": [
+     2.5
+    ],
+    "ardiendo": [
+     296
+    ],
+    "vivas_en_warn": 1,
+    "sostenidos": 0,
+    "aceptados_fase": 5,
+    "dentro_pct_media": 2.5,
+    "ardiendo_media": 296
+   },
+   "20889290": {
+    "semilla": 20889290,
+    "supervivientes": 0,
+    "anillo": 1,
+    "rival": 1,
+    "dentro_pct": [
+     35.8,
+     43.9
+    ],
+    "ardiendo": [
+     40,
+     195
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 4,
+    "dentro_pct_media": 39.8,
+    "ardiendo_media": 117.5
+   },
+   "20994019": {
+    "semilla": 20994019,
+    "supervivientes": 1,
+    "anillo": 1,
+    "rival": 0,
+    "dentro_pct": [
+     33.2,
+     3.9
+    ],
+    "ardiendo": [
+     142,
+     316
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 7,
+    "dentro_pct_media": 18.6,
+    "ardiendo_media": 229
+   },
+   "21098748": {
+    "semilla": 21098748,
+    "supervivientes": 0,
+    "anillo": 2,
+    "rival": 0,
+    "dentro_pct": [
+     0.0,
+     17.4
+    ],
+    "ardiendo": [
+     282,
+     280
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 5,
+    "dentro_pct_media": 8.7,
+    "ardiendo_media": 281
+   },
+   "21203477": {
+    "semilla": 21203477,
+    "supervivientes": 1,
+    "anillo": 0,
+    "rival": 1,
+    "dentro_pct": [
+     35.3,
+     58.8
+    ],
+    "ardiendo": [
+     101,
+     137
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 1,
+    "aceptados_fase": 5,
+    "dentro_pct_media": 47.0,
+    "ardiendo_media": 119
+   },
+   "21308206": {
+    "semilla": 21308206,
+    "supervivientes": 1,
+    "anillo": 1,
+    "rival": 0,
+    "dentro_pct": [
+     14.7,
+     38.6
+    ],
+    "ardiendo": [
+     347,
+     179
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 5,
+    "dentro_pct_media": 26.6,
+    "ardiendo_media": 263
+   },
+   "21412935": {
+    "semilla": 21412935,
+    "supervivientes": 0,
+    "anillo": 1,
+    "rival": 1,
+    "dentro_pct": [
+     46.9
+    ],
+    "ardiendo": [
+     260
+    ],
+    "vivas_en_warn": 1,
+    "sostenidos": 0,
+    "aceptados_fase": 3,
+    "dentro_pct_media": 46.9,
+    "ardiendo_media": 260
+   },
+   "21517664": {
+    "semilla": 21517664,
+    "supervivientes": 0,
+    "anillo": 1,
+    "rival": 1,
+    "dentro_pct": [
+     31.8,
+     13.5
+    ],
+    "ardiendo": [
+     129,
+     243
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 3,
+    "dentro_pct_media": 22.6,
+    "ardiendo_media": 186
+   },
+   "21622393": {
+    "semilla": 21622393,
+    "supervivientes": 2,
+    "anillo": 0,
+    "rival": 0,
+    "dentro_pct": [
+     68.0,
+     81.1
+    ],
+    "ardiendo": [
+     195,
+     78
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 3,
+    "dentro_pct_media": 74.5,
+    "ardiendo_media": 136.5
+   },
+   "21727122": {
+    "semilla": 21727122,
+    "supervivientes": 0,
+    "anillo": 1,
+    "rival": 1,
+    "dentro_pct": [
+     52.9,
+     2.0
+    ],
+    "ardiendo": [
+     0,
+     401
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 3,
+    "dentro_pct_media": 27.4,
+    "ardiendo_media": 200.5
+   },
+   "21831851": {
+    "semilla": 21831851,
+    "supervivientes": 2,
+    "anillo": 0,
+    "rival": 0,
+    "dentro_pct": [
+     50.3,
+     53.6
+    ],
+    "ardiendo": [
+     0,
+     0
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 2,
+    "dentro_pct_media": 52.0,
+    "ardiendo_media": 0
+   },
+   "21936580": {
+    "semilla": 21936580,
+    "supervivientes": 0,
+    "anillo": 2,
+    "rival": 0,
+    "dentro_pct": [
+     17.5,
+     22.3
+    ],
+    "ardiendo": [
+     246,
+     117
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 5,
+    "dentro_pct_media": 19.9,
+    "ardiendo_media": 181.5
+   },
+   "22041309": {
+    "semilla": 22041309,
+    "supervivientes": 2,
+    "anillo": 0,
+    "rival": 0,
+    "dentro_pct": [
+     67.3,
+     56.2
+    ],
+    "ardiendo": [
+     16,
+     0
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 0,
+    "dentro_pct_media": 61.8,
+    "ardiendo_media": 8
+   },
+   "22146038": {
+    "semilla": 22146038,
+    "supervivientes": 0,
+    "anillo": 2,
+    "rival": 0,
+    "dentro_pct": [
+     18.0,
+     28.4
+    ],
+    "ardiendo": [
+     89,
+     215
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 6,
+    "dentro_pct_media": 23.2,
+    "ardiendo_media": 152
+   },
+   "22250767": {
+    "semilla": 22250767,
+    "supervivientes": 2,
+    "anillo": 0,
+    "rival": 0,
+    "dentro_pct": [
+     46.1,
+     77.0
+    ],
+    "ardiendo": [
+     207,
+     0
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 5,
+    "dentro_pct_media": 61.5,
+    "ardiendo_media": 103.5
+   }
+  }
+ },
+ "_emparejado": {
+  "A6 - A4": {
+   "dentro_pct_media": {
+    "n": 18,
+    "media_dif": -1.57,
+    "gana": 9,
+    "pierde": 9,
+    "p_perm": 0.8549
+   },
+   "ardiendo_media": {
+    "n": 18,
+    "media_dif": -32.11,
+    "gana": 7,
+    "pierde": 11,
+    "p_perm": 0.4163
+   },
+   "supervivientes": {
+    "n": 20,
+    "media_dif": 0.05,
+    "gana": 6,
+    "pierde": 6,
+    "p_perm": 1.0
+   },
+   "anillo": {
+    "n": 20,
+    "media_dif": -0.05,
+    "gana": 7,
+    "pierde": 7,
+    "p_perm": 1.0
+   },
+   "rival": {
+    "n": 20,
+    "media_dif": 0.05,
+    "gana": 6,
+    "pierde": 4,
+    "p_perm": 1.0
+   }
+  },
+  "A6 - A5h": {
+   "dentro_pct_media": {
+    "n": 17,
+    "media_dif": 6.17,
+    "gana": 9,
+    "pierde": 8,
+    "p_perm": 0.4639
+   },
+   "ardiendo_media": {
+    "n": 17,
+    "media_dif": -32.56,
+    "gana": 7,
+    "pierde": 10,
+    "p_perm": 0.3688
+   },
+   "supervivientes": {
+    "n": 20,
+    "media_dif": 0.35,
+    "gana": 8,
+    "pierde": 4,
+    "p_perm": 0.2539
+   },
+   "anillo": {
+    "n": 20,
+    "media_dif": 0.1,
+    "gana": 9,
+    "pierde": 7,
+    "p_perm": 0.8342
+   },
+   "rival": {
+    "n": 20,
+    "media_dif": -0.25,
+    "gana": 4,
+    "pierde": 8,
+    "p_perm": 0.3071
+   }
+  }
+ }
+}

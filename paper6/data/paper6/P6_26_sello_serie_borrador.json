@@ -1,0 +1,108 @@
+{
+ "origenes": {
+  "humo": {
+   "vidas": 4,
+   "llamadas": 8,
+   "usd": 0.046711,
+   "usd_por_llamada": 0.00584,
+   "retraso_tics": {
+    "n": 8,
+    "mediana": 113,
+    "p95": 146
+   },
+   "propone": 8,
+   "intraducibles": 0,
+   "aceptadas": 2,
+   "pasan_pregunta": 3,
+   "pasan_llegada": 2,
+   "llegan_donde_la_puerta_ya_rechaza": 2,
+   "e2_sustituidos": 2,
+   "planes_del_hermano_recibidos": 1
+  },
+  "pasos_perdidos_humo": {
+   "antes del aviso 1": {
+    "perdidos": 0,
+    "libres": 1652,
+    "pct": 0.0
+   },
+   "fases 1-4": {
+    "perdidos": 1,
+    "libres": 760,
+    "pct": 0.13
+   },
+   "fases 5-7": {
+    "perdidos": 3,
+    "libres": 249,
+    "pct": 1.2
+   }
+  },
+  "banco_P6_25": {
+   "acepta_puerta6_pct": {
+    "oraculo": 51.0,
+    "haiku": 51.3
+   },
+   "retraso_sigue_pasando_pct_haiku": 51.8
+  },
+  "puente_40": {
+   "ardiendo_5_7_A7h_media": 174.7,
+   "A7h_menos_A4": -57.59,
+   "planes_aceptados_f5_A7h": 128
+  }
+ },
+ "coste_estimado": {
+  "partidas": 40,
+  "vidas": 80,
+  "plataforma_A8_usd": 4.48,
+  "coste_por_partida_A8_medido": 0.112,
+  "coste_por_partida_A7h_P6_24": 0.0898,
+  "lenguaje_usd": 0.93,
+  "llamadas_por_vida_humo": 2.0,
+  "usd_por_llamada_humo": 0.00584,
+  "lenguaje_usd_si_5_llamadas_por_vida": 2.34,
+  "A7h": "sin coste: las 40 partidas de A7h ya estan jugadas (P6-23 + P6-24, mismas semillas)",
+  "total_estimado_usd": 5.42,
+  "con_margen_5_llamadas_por_vida_usd": 6.82
+ },
+ "sello": {
+  "principal · tics ardiendo en las fases 5-7, por vida viva en el aviso 5, media por semilla, A8 - A7h, emparejado (40 semillas)": {
+   "prediccion": "A8 arde como A7h o algo mas: diferencia entre -20 y +40 tics (la puerta acepta lo del razonador como lo del oraculo, P6-25, pero el retraso de 113 tics de mediana deja pasar la mitad y el razonador propone menos veces: 2.0 llamadas por vida en el humo)",
+   "prueba": "permutacion exacta por cambio de signo, bilateral, alfa 0,05; IC95 bootstrap",
+   "falla_si": "A8 arde mas de 60 tics mas que A7h (peor que A4), o menos de 40 tics menos (mejor que el puente sin motivo)"
+  },
+  "secundarias (declaradas)": {
+   "planes aceptados en la fase 5": "A8 acepta menos que A7h (128 en 40 partidas): entre la mitad y las tres cuartas partes",
+   "llegan donde la puerta ya rechaza": "entre un cuarto y la mitad de las respuestas que pasaban en la pregunta (banco: 48 %; humo: 2 de 3)",
+   "retraso": "mediana 80-130 tics (3-5 s), p95 < 200",
+   "intraducibles": "< 5 %",
+   "pasos perdidos fases 5-7": "0 tras el arreglo del encargo; se declara si > 0,5 %",
+   "E2 sustituidos": "uno por plan aceptado",
+   "planes del hermano recibidos": "la mayoria de los mensajes (canal cada 25 tics)",
+   "malestar26": "por cada plan aceptado, las tres columnas; se informa cuantos tramos tienen el signo de vida propuesto = imaginado = pasado"
+  },
+  "gasto": {
+   "prediccion": "plataforma A8 4.48 USD + lenguaje 0.93 USD = 5.42 USD (con margen a 5 llamadas por vida: 6.82)",
+   "falla_si": "> 1,5 veces la estimacion"
+  }
+ },
+ "md5": {
+  "cantera/paper6/policy_pareja26.py": "05447030532b55c2a5cfc6dfffe2db41",
+  "cantera/paper6/puerta_proceso_P6_26.py": "f238453756cd48406f47838237dd628a",
+  "cantera/paper6/texto_escena_P6_26.py": "7f0d6743e53eb684ce095e9a02cd68e1",
+  "cantera/paper6/instruccion_P6_25.md": "f70183f40964b2c7487207a9b63bf85d",
+  "cantera/paper6/Dockerfile.pareja26": "b67f0cff06dde36f247c455501cd6c8a",
+  "cantera/paper6/humo_red_P6_26.py": "0c406e3f9fee5d9f2440cd04916b956f",
+  "cantera/paper6/lanza_P6_26.py": "b3e2216b746b5f7628db2bdbcb87905c",
+  "cantera/paper6/P6_26_brazos.json": "8d0d227057227f7ef016a34e574bd3d3",
+  "cantera/paper6/mide_P6_26.py": "aee2fb23cacb65aa8b1c02b6ee720398",
+  "cantera/paper6/mide_campo_P6_24.py": "3c44463cd7a4a9c914f087eaabffe864",
+  "cantera/paper6/policy_pareja23.py": "5947b1d9c3ef99e61624ed09d0afa7ec",
+  "cantera/paper6/puerta_proceso_P6_23.py": "848fa2dabf55a2ba8778c757aa9c81c3",
+  "cantera/paper6/compromiso6c_P6_23.py": "38d8529db6362b8f792ff958f5b29855",
+  "cantera/paper5/instruccion_forma.md": "02653e4edf04f3bdd9a0ac3deda9aa01",
+  "cantera/paper5/tabla_ensenada.md": "9d53807699c4ee2be31d8dd173196de0",
+  "cantera/paper5/traductor_forma.py": "b310bb72884ef5f4e3510ab803cd2776",
+  "paintball/alma/manual_M2.md": "7d54902964b33d1862798680e304cd3c",
+  "paintball/alma/relator_t5.py": "929c49f6ced9af1cbd37eadec08c54f0",
+  "motor/model.py": "1e511978c251130e95169ebf8443efa1"
+ }
+}

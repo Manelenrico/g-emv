@@ -1,0 +1,109 @@
+{
+ "A0": {
+  "recuento": {
+   "asientos": 40,
+   "tics": 474188,
+   "tics con tabla": 474188,
+   "partes del hermano": 9282,
+   "  los LEE el cinco": 9282,
+   "    b=0": 3561,
+   "`soltar_*` DISPONIBLE": 93434,
+   "con consumible en la mochila": 342754,
+   "    b>=1": 5721,
+   "hermano visible y HERIDO": 13668,
+   "  ...y yo con consumible (PUERTA DE LA HERIDA)": 3435
+  },
+  "filas": {
+   "F-4-ALCANCE": 417324,
+   "R-ACOPIO": 268341,
+   "R-CARENCIA": 463861,
+   "R-LLAMADA": 474188,
+   "S-DANO-PAREJA": 97351,
+   "S-8-EXPOSICION": 324614,
+   "S-PROVISION": 90869,
+   "F-DANO": 119995,
+   "S-7-AGRESOR": 10442,
+   "F-HERMANO-AMENAZA": 50776,
+   "S-HERIDO": 10194,
+   "F-REENCUENTRO": 1658,
+   "F-ANTICIPACION": 31886,
+   "S-SOLEDAD": 29298,
+   "S-MUERTE-PAREJA": 29298,
+   "F-HERMANO-GOLPE": 3256,
+   "R-HERMANO-FALTA": 5548
+  },
+  "elegido": {
+   "ir": 17892,
+   "noop": 363633,
+   "coger": 23336,
+   "paso": 2376,
+   "move": 53673,
+   "usar": 138,
+   "soltar": 12764,
+   "atacar": 358,
+   "empunar": 11,
+   "ponerse": 7
+  },
+  "gana_a_soltar": {
+   "noop": 58526,
+   "move": 7219,
+   "paso": 503,
+   "ir": 2976,
+   "coger": 11390,
+   "usar": 48,
+   "atacar": 4,
+   "empunar": 1,
+   "ponerse": 3
+  }
+ },
+ "A1": {
+  "recuento": {
+   "asientos": 40,
+   "tics": 490594,
+   "tics con tabla": 490594,
+   "partes del hermano": 18315,
+   "  NO los lee el cinco (parser estricto)": 18315,
+   "con consumible en la mochila": 366753,
+   "hermano visible y HERIDO": 4751,
+   "`soltar_*` DISPONIBLE": 2510,
+   "  ...y yo con consumible (PUERTA DE LA HERIDA)": 2510
+  },
+  "filas": {
+   "F-4-ALCANCE": 441232,
+   "R-ACOPIO": 213759,
+   "R-CARENCIA": 458733,
+   "R-LLAMADA": 490594,
+   "S-DANO-PAREJA": 457568,
+   "S-8-EXPOSICION": 252770,
+   "F-HERMANO-AMENAZA": 23108,
+   "F-ANTICIPACION": 34744,
+   "F-DANO": 120009,
+   "S-HERIDO": 644,
+   "S-SOLEDAD": 33026,
+   "S-MUERTE-PAREJA": 33026,
+   "S-7-AGRESOR": 8764,
+   "F-REENCUENTRO": 2484
+  },
+  "elegido": {
+   "ir": 11825,
+   "noop": 420567,
+   "move": 40083,
+   "coger": 12830,
+   "paso": 3540,
+   "usar": 197,
+   "empunar": 13,
+   "atacar": 1520,
+   "soltar": 8,
+   "ponerse": 11
+  },
+  "gana_a_soltar": {
+   "noop": 2076,
+   "move": 310,
+   "ir": 19,
+   "paso": 27,
+   "atacar": 2,
+   "coger": 66,
+   "usar": 2
+  }
+ }
+}

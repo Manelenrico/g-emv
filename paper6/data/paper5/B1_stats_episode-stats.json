@@ -1,0 +1,261 @@
+{
+ "game_stats": {},
+ "policy_stats": [
+  {
+   "position": 0,
+   "policy_version_id": "6244cdeb-e044-42ff-91e3-a5c716c4338d",
+   "policy_name": "zero-sum-scavenger",
+   "policy_version": 12,
+   "num_agents": 2,
+   "avg_metrics": {
+    "reward": 11.5
+   },
+   "avg_reward": 11.5,
+   "agents": [
+    {
+     "agent_id": 0,
+     "reward": 14.0,
+     "metrics": {
+      "reward": 14.0
+     }
+    },
+    {
+     "agent_id": 1,
+     "reward": 9.0,
+     "metrics": {
+      "reward": 9.0
+     }
+    }
+   ]
+  },
+  {
+   "position": 2,
+   "policy_version_id": "47f38a1c-9143-4b56-9316-ceabe7c82c6d",
+   "policy_name": "relh-zero-sum",
+   "policy_version": 52,
+   "num_agents": 2,
+   "avg_metrics": {
+    "reward": 4.0
+   },
+   "avg_reward": 4.0,
+   "agents": [
+    {
+     "agent_id": 2,
+     "reward": 0.0,
+     "metrics": {
+      "reward": 0.0
+     }
+    },
+    {
+     "agent_id": 3,
+     "reward": 8.0,
+     "metrics": {
+      "reward": 8.0
+     }
+    }
+   ]
+  },
+  {
+   "position": 4,
+   "policy_version_id": "41f43efa-bbd5-477a-8ed1-1443f2731eb1",
+   "policy_name": "sivanlevy-zs-courier",
+   "policy_version": 3,
+   "num_agents": 2,
+   "avg_metrics": {
+    "reward": 3.5
+   },
+   "avg_reward": 3.5,
+   "agents": [
+    {
+     "agent_id": 4,
+     "reward": 4.0,
+     "metrics": {
+      "reward": 4.0
+     }
+    },
+    {
+     "agent_id": 5,
+     "reward": 3.0,
+     "metrics": {
+      "reward": 3.0
+     }
+    }
+   ]
+  },
+  {
+   "position": 6,
+   "policy_version_id": "458ec0b6-fc59-4bda-aff0-68daa7f21b79",
+   "policy_name": "belobog",
+   "policy_version": 2,
+   "num_agents": 2,
+   "avg_metrics": {
+    "reward": 8.5
+   },
+   "avg_reward": 8.5,
+   "agents": [
+    {
+     "agent_id": 6,
+     "reward": 6.0,
+     "metrics": {
+      "reward": 6.0
+     }
+    },
+    {
+     "agent_id": 7,
+     "reward": 11.0,
+     "metrics": {
+      "reward": 11.0
+     }
+    }
+   ]
+  },
+  {
+   "position": 8,
+   "policy_version_id": "54ec6fab-6773-46db-bb55-119688182786",
+   "policy_name": "ryanschiller-zero-sum-player-v1",
+   "policy_version": 2,
+   "num_agents": 1,
+   "avg_metrics": {
+    "reward": 3.0
+   },
+   "avg_reward": 3.0,
+   "agents": [
+    {
+     "agent_id": 8,
+     "reward": 3.0,
+     "metrics": {
+      "reward": 3.0
+     }
+    }
+   ]
+  },
+  {
+   "position": 9,
+   "policy_version_id": "2b9cfd17-db50-4990-8f99-6c7c13453f61",
+   "policy_name": "zs-patient",
+   "policy_version": 3,
+   "num_agents": 1,
+   "avg_metrics": {
+    "reward": 3.0
+   },
+   "avg_reward": 3.0,
+   "agents": [
+    {
+     "agent_id": 9,
+     "reward": 3.0,
+     "metrics": {
+      "reward": 3.0
+     }
+    }
+   ]
+  },
+  {
+   "position": 10,
+   "policy_version_id": "4127bf16-85f3-4588-a055-b174ca72b6c1",
+   "policy_name": "gemv-p5-A",
+   "policy_version": 1,
+   "num_agents": 2,
+   "avg_metrics": {
+    "reward": 3.0
+   },
+   "avg_reward": 3.0,
+   "agents": [
+    {
+     "agent_id": 10,
+     "reward": 5.0,
+     "metrics": {
+      "reward": 5.0
+     }
+    },
+    {
+     "agent_id": 11,
+     "reward": 1.0,
+     "metrics": {
+      "reward": 1.0
+     }
+    }
+   ]
+  },
+  {
+   "position": 12,
+   "policy_version_id": "9457da2a-832d-45e5-b918-9209e86f9948",
+   "policy_name": "aaron-zs-fable",
+   "policy_version": 2,
+   "num_agents": 1,
+   "avg_metrics": {
+    "reward": 1.0
+   },
+   "avg_reward": 1.0,
+   "agents": [
+    {
+     "agent_id": 12,
+     "reward": 1.0,
+     "metrics": {
+      "reward": 1.0
+     }
+    }
+   ]
+  },
+  {
+   "position": 13,
+   "policy_version_id": "dfc40843-b709-4332-85a6-c5bbb653375b",
+   "policy_name": "zero-sum-example",
+   "policy_version": 1,
+   "num_agents": 1,
+   "avg_metrics": {
+    "reward": 20.0
+   },
+   "avg_reward": 20.0,
+   "agents": [
+    {
+     "agent_id": 13,
+     "reward": 20.0,
+     "metrics": {
+      "reward": 20.0
+     }
+    }
+   ]
+  },
+  {
+   "position": 14,
+   "policy_version_id": "3e8097e1-85b8-4731-b7c1-e674f2ccbd10",
+   "policy_name": "skourehjan-zero-sum-scripted-v1",
+   "policy_version": 1,
+   "num_agents": 1,
+   "avg_metrics": {
+    "reward": 1.0
+   },
+   "avg_reward": 1.0,
+   "agents": [
+    {
+     "agent_id": 14,
+     "reward": 1.0,
+     "metrics": {
+      "reward": 1.0
+     }
+    }
+   ]
+  },
+  {
+   "position": 15,
+   "policy_version_id": "09da1dbc-ac3b-4bb1-9114-4ee615496755",
+   "policy_name": "Zero Sum Baseline",
+   "policy_version": 1,
+   "num_agents": 1,
+   "avg_metrics": {
+    "reward": 3.0
+   },
+   "avg_reward": 3.0,
+   "agents": [
+    {
+     "agent_id": 15,
+     "reward": 3.0,
+     "metrics": {
+      "reward": 3.0
+     }
+    }
+   ]
+  }
+ ],
+ "steps": 0
+}

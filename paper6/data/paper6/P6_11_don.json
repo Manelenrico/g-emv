@@ -1,0 +1,995 @@
+{
+ "A4": {
+  "recuento": {
+   "partidas": 20,
+   "tics vividos": 494370,
+   "INTENTOS (tics soltar_*)": 61,
+   "EPISODIOS de don": 61,
+   "  EFECTIVO (queda en el suelo)": 50,
+   "    efectivo de first_aid": 34,
+   "    ...VIAJA en un parte E2": 48,
+   "    ...NO lo recoge el hermano": 38,
+   "    efectivo de rations": 16,
+   "    ...lo RECOGE el hermano": 12,
+   "    ...y lo USA": 11,
+   "  REABSORBIDO por el que solto": 11
+  },
+  "detalle": [
+   {
+    "carp": "P611_t1_A4_20365645",
+    "slot": 10,
+    "id": "first_aid",
+    "casilla": [
+     22,
+     23
+    ],
+    "ini": 8203,
+    "fin": 8203,
+    "intentos": 1,
+    "destino": "efectivo",
+    "t_destino": 8214,
+    "viaja_en_E2": 8206,
+    "recoge_hermano": null
+   },
+   {
+    "carp": "P611_t1_A4_20365645",
+    "slot": 10,
+    "id": "rations",
+    "casilla": [
+     28,
+     13
+    ],
+    "ini": 10683,
+    "fin": 10683,
+    "intentos": 1,
+    "destino": "efectivo",
+    "t_destino": 10693,
+    "viaja_en_E2": 10706,
+    "recoge_hermano": null
+   },
+   {
+    "carp": "P611_t1_A4_20470374",
+    "slot": 10,
+    "id": "rations",
+    "casilla": [
+     24,
+     27
+    ],
+    "ini": 13777,
+    "fin": 13777,
+    "intentos": 1,
+    "destino": "efectivo",
+    "t_destino": 13779,
+    "viaja_en_E2": 13781,
+    "recoge_hermano": 13784,
+    "tics_hasta_recoger": 7,
+    "usa": 13809
+   },
+   {
+    "carp": "P611_t1_A4_20470374",
+    "slot": 11,
+    "id": "first_aid",
+    "casilla": [
+     21,
+     26
+    ],
+    "ini": 4851,
+    "fin": 4851,
+    "intentos": 1,
+    "destino": "reabsorbido",
+    "t_destino": 5131
+   },
+   {
+    "carp": "P611_t1_A4_20470374",
+    "slot": 11,
+    "id": "first_aid",
+    "casilla": [
+     21,
+     26
+    ],
+    "ini": 5133,
+    "fin": 5133,
+    "intentos": 1,
+    "destino": "reabsorbido",
+    "t_destino": 5413
+   },
+   {
+    "carp": "P611_t1_A4_20470374",
+    "slot": 11,
+    "id": "first_aid",
+    "casilla": [
+     21,
+     26
+    ],
+    "ini": 5433,
+    "fin": 5433,
+    "intentos": 1,
+    "destino": "reabsorbido",
+    "t_destino": 5713
+   },
+   {
+    "carp": "P611_t1_A4_20470374",
+    "slot": 11,
+    "id": "first_aid",
+    "casilla": [
+     21,
+     26
+    ],
+    "ini": 5733,
+    "fin": 5733,
+    "intentos": 1,
+    "destino": "reabsorbido",
+    "t_destino": 6013
+   },
+   {
+    "carp": "P611_t1_A4_20470374",
+    "slot": 11,
+    "id": "first_aid",
+    "casilla": [
+     21,
+     26
+    ],
+    "ini": 6033,
+    "fin": 6033,
+    "intentos": 1,
+    "destino": "reabsorbido",
+    "t_destino": 6313
+   },
+   {
+    "carp": "P611_t1_A4_20470374",
+    "slot": 11,
+    "id": "first_aid",
+    "casilla": [
+     21,
+     26
+    ],
+    "ini": 6333,
+    "fin": 6333,
+    "intentos": 1,
+    "destino": "reabsorbido",
+    "t_destino": 6613
+   },
+   {
+    "carp": "P611_t1_A4_20470374",
+    "slot": 11,
+    "id": "first_aid",
+    "casilla": [
+     21,
+     26
+    ],
+    "ini": 6633,
+    "fin": 6633,
+    "intentos": 1,
+    "destino": "reabsorbido",
+    "t_destino": 6913
+   },
+   {
+    "carp": "P611_t1_A4_20470374",
+    "slot": 11,
+    "id": "first_aid",
+    "casilla": [
+     21,
+     26
+    ],
+    "ini": 6933,
+    "fin": 6933,
+    "intentos": 1,
+    "destino": "reabsorbido",
+    "t_destino": 7213
+   },
+   {
+    "carp": "P611_t1_A4_20470374",
+    "slot": 11,
+    "id": "first_aid",
+    "casilla": [
+     21,
+     26
+    ],
+    "ini": 7233,
+    "fin": 7233,
+    "intentos": 1,
+    "destino": "reabsorbido",
+    "t_destino": 7513
+   },
+   {
+    "carp": "P611_t1_A4_20470374",
+    "slot": 11,
+    "id": "first_aid",
+    "casilla": [
+     21,
+     26
+    ],
+    "ini": 7533,
+    "fin": 7533,
+    "intentos": 1,
+    "destino": "reabsorbido",
+    "t_destino": 7813
+   },
+   {
+    "carp": "P611_t1_A4_20470374",
+    "slot": 11,
+    "id": "first_aid",
+    "casilla": [
+     21,
+     26
+    ],
+    "ini": 7833,
+    "fin": 7833,
+    "intentos": 1,
+    "destino": "reabsorbido",
+    "t_destino": 8113
+   },
+   {
+    "carp": "P611_t1_A4_20470374",
+    "slot": 11,
+    "id": "first_aid",
+    "casilla": [
+     21,
+     26
+    ],
+    "ini": 8133,
+    "fin": 8133,
+    "intentos": 1,
+    "destino": "efectivo",
+    "t_destino": 8161,
+    "viaja_en_E2": 8156,
+    "recoge_hermano": null
+   },
+   {
+    "carp": "P611_t1_A4_20470374",
+    "slot": 11,
+    "id": "first_aid",
+    "casilla": [
+     21,
+     26
+    ],
+    "ini": 8533,
+    "fin": 8533,
+    "intentos": 1,
+    "destino": "efectivo",
+    "t_destino": 8535,
+    "viaja_en_E2": 8556,
+    "recoge_hermano": null
+   },
+   {
+    "carp": "P611_t1_A4_20470374",
+    "slot": 11,
+    "id": "first_aid",
+    "casilla": [
+     23,
+     27
+    ],
+    "ini": 8858,
+    "fin": 8858,
+    "intentos": 1,
+    "destino": "efectivo",
+    "t_destino": 8869,
+    "viaja_en_E2": 8881,
+    "recoge_hermano": null
+   },
+   {
+    "carp": "P611_t1_A4_20470374",
+    "slot": 11,
+    "id": "first_aid",
+    "casilla": [
+     25,
+     27
+    ],
+    "ini": 9530,
+    "fin": 9530,
+    "intentos": 1,
+    "destino": "efectivo",
+    "t_destino": 9541,
+    "viaja_en_E2": 9531,
+    "recoge_hermano": null
+   },
+   {
+    "carp": "P611_t1_A4_20470374",
+    "slot": 11,
+    "id": "first_aid",
+    "casilla": [
+     25,
+     27
+    ],
+    "ini": 9833,
+    "fin": 9833,
+    "intentos": 1,
+    "destino": "efectivo",
+    "t_destino": 9838,
+    "viaja_en_E2": 9856,
+    "recoge_hermano": null
+   },
+   {
+    "carp": "P611_t1_A4_20470374",
+    "slot": 11,
+    "id": "first_aid",
+    "casilla": [
+     26,
+     27
+    ],
+    "ini": 10133,
+    "fin": 10133,
+    "intentos": 1,
+    "destino": "efectivo",
+    "t_destino": 10139,
+    "viaja_en_E2": 10156,
+    "recoge_hermano": null
+   },
+   {
+    "carp": "P611_t1_A4_20470374",
+    "slot": 11,
+    "id": "first_aid",
+    "casilla": [
+     25,
+     26
+    ],
+    "ini": 10437,
+    "fin": 10437,
+    "intentos": 1,
+    "destino": "efectivo",
+    "t_destino": 10454,
+    "viaja_en_E2": 10456,
+    "recoge_hermano": null
+   },
+   {
+    "carp": "P611_t1_A4_20470374",
+    "slot": 11,
+    "id": "rations",
+    "casilla": [
+     23,
+     27
+    ],
+    "ini": 13849,
+    "fin": 13849,
+    "intentos": 1,
+    "destino": "efectivo",
+    "t_destino": 13853,
+    "viaja_en_E2": 13856,
+    "recoge_hermano": null
+   },
+   {
+    "carp": "P611_t1_A4_20575103",
+    "slot": 11,
+    "id": "first_aid",
+    "casilla": [
+     24,
+     25
+    ],
+    "ini": 2356,
+    "fin": 2356,
+    "intentos": 1,
+    "destino": "efectivo",
+    "t_destino": 2367,
+    "viaja_en_E2": 2381,
+    "recoge_hermano": null
+   },
+   {
+    "carp": "P611_t1_A4_20679832",
+    "slot": 11,
+    "id": "rations",
+    "casilla": [
+     24,
+     23
+    ],
+    "ini": 897,
+    "fin": 897,
+    "intentos": 1,
+    "destino": "efectivo",
+    "t_destino": 907,
+    "viaja_en_E2": 906,
+    "recoge_hermano": null
+   },
+   {
+    "carp": "P611_t1_A4_20679832",
+    "slot": 11,
+    "id": "rations",
+    "casilla": [
+     27,
+     22
+    ],
+    "ini": 2259,
+    "fin": 2259,
+    "intentos": 1,
+    "destino": "efectivo",
+    "t_destino": 2269,
+    "viaja_en_E2": 12656,
+    "recoge_hermano": 2270,
+    "tics_hasta_recoger": 11,
+    "usa": 11803
+   },
+   {
+    "carp": "P611_t1_A4_20679832",
+    "slot": 11,
+    "id": "first_aid",
+    "casilla": [
+     26,
+     23
+    ],
+    "ini": 9298,
+    "fin": 9298,
+    "intentos": 1,
+    "destino": "efectivo",
+    "t_destino": 9309,
+    "viaja_en_E2": 9306,
+    "recoge_hermano": null
+   },
+   {
+    "carp": "P611_t1_A4_20784561",
+    "slot": 10,
+    "id": "rations",
+    "casilla": [
+     19,
+     25
+    ],
+    "ini": 12630,
+    "fin": 12630,
+    "intentos": 1,
+    "destino": "efectivo",
+    "t_destino": 12640,
+    "viaja_en_E2": 12631,
+    "recoge_hermano": null
+   },
+   {
+    "carp": "P611_t1_A4_20784561",
+    "slot": 11,
+    "id": "rations",
+    "casilla": [
+     19,
+     25
+    ],
+    "ini": 12608,
+    "fin": 12608,
+    "intentos": 1,
+    "destino": "efectivo",
+    "t_destino": 12619,
+    "viaja_en_E2": 12631,
+    "recoge_hermano": 12630,
+    "tics_hasta_recoger": 22,
+    "usa": 12631
+   },
+   {
+    "carp": "P611_t1_A4_20889290",
+    "slot": 10,
+    "id": "first_aid",
+    "casilla": [
+     26,
+     27
+    ],
+    "ini": 2276,
+    "fin": 2276,
+    "intentos": 1,
+    "destino": "efectivo",
+    "t_destino": 2287,
+    "viaja_en_E2": 2281,
+    "recoge_hermano": 5227,
+    "tics_hasta_recoger": 2951,
+    "usa": 8918
+   },
+   {
+    "carp": "P611_t1_A4_20889290",
+    "slot": 11,
+    "id": "rations",
+    "casilla": [
+     23,
+     28
+    ],
+    "ini": 8907,
+    "fin": 8907,
+    "intentos": 1,
+    "destino": "efectivo",
+    "t_destino": 8917,
+    "viaja_en_E2": 8931,
+    "recoge_hermano": null
+   },
+   {
+    "carp": "P611_t1_A4_20889290",
+    "slot": 11,
+    "id": "first_aid",
+    "casilla": [
+     22,
+     27
+    ],
+    "ini": 8917,
+    "fin": 8917,
+    "intentos": 1,
+    "destino": "efectivo",
+    "t_destino": 8954,
+    "viaja_en_E2": 8931,
+    "recoge_hermano": null
+   },
+   {
+    "carp": "P611_t1_A4_20889290",
+    "slot": 11,
+    "id": "first_aid",
+    "casilla": [
+     22,
+     27
+    ],
+    "ini": 9226,
+    "fin": 9226,
+    "intentos": 1,
+    "destino": "efectivo",
+    "t_destino": 9233,
+    "viaja_en_E2": 9231,
+    "recoge_hermano": null
+   },
+   {
+    "carp": "P611_t1_A4_20889290",
+    "slot": 11,
+    "id": "first_aid",
+    "casilla": [
+     24,
+     23
+    ],
+    "ini": 10431,
+    "fin": 10431,
+    "intentos": 1,
+    "destino": "efectivo",
+    "t_destino": 10442,
+    "viaja_en_E2": 10456,
+    "recoge_hermano": null
+   },
+   {
+    "carp": "P611_t1_A4_20994019",
+    "slot": 10,
+    "id": "first_aid",
+    "casilla": [
+     22,
+     25
+    ],
+    "ini": 13919,
+    "fin": 13919,
+    "intentos": 1,
+    "destino": "efectivo",
+    "t_destino": 13921,
+    "viaja_en_E2": 13981,
+    "recoge_hermano": 13923,
+    "tics_hasta_recoger": 4,
+    "usa": 13966
+   },
+   {
+    "carp": "P611_t1_A4_20994019",
+    "slot": 10,
+    "id": "first_aid",
+    "casilla": [
+     22,
+     25
+    ],
+    "ini": 14208,
+    "fin": 14208,
+    "intentos": 1,
+    "destino": "efectivo",
+    "t_destino": 14210,
+    "viaja_en_E2": 14231,
+    "recoge_hermano": null
+   },
+   {
+    "carp": "P611_t1_A4_20994019",
+    "slot": 11,
+    "id": "first_aid",
+    "casilla": [
+     21,
+     24
+    ],
+    "ini": 13777,
+    "fin": 13777,
+    "intentos": 1,
+    "destino": "efectivo",
+    "t_destino": 13779,
+    "viaja_en_E2": 13781,
+    "recoge_hermano": 13782,
+    "tics_hasta_recoger": 5,
+    "usa": 13875
+   },
+   {
+    "carp": "P611_t1_A4_20994019",
+    "slot": 11,
+    "id": "first_aid",
+    "casilla": [
+     22,
+     25
+    ],
+    "ini": 13965,
+    "fin": 13965,
+    "intentos": 1,
+    "destino": "efectivo",
+    "t_destino": 13967,
+    "viaja_en_E2": 13981,
+    "recoge_hermano": 14200,
+    "tics_hasta_recoger": 235,
+    "usa": 14209
+   },
+   {
+    "carp": "P611_t1_A4_21098748",
+    "slot": 10,
+    "id": "first_aid",
+    "casilla": [
+     29,
+     28
+    ],
+    "ini": 12929,
+    "fin": 12929,
+    "intentos": 1,
+    "destino": "efectivo",
+    "t_destino": 12940,
+    "viaja_en_E2": 12931,
+    "recoge_hermano": null
+   },
+   {
+    "carp": "P611_t1_A4_21098748",
+    "slot": 10,
+    "id": "rations",
+    "casilla": [
+     29,
+     27
+    ],
+    "ini": 12940,
+    "fin": 12940,
+    "intentos": 1,
+    "destino": "efectivo",
+    "t_destino": 12951,
+    "viaja_en_E2": 12956,
+    "recoge_hermano": null
+   },
+   {
+    "carp": "P611_t1_A4_21203477",
+    "slot": 10,
+    "id": "rations",
+    "casilla": [
+     25,
+     19
+    ],
+    "ini": 11925,
+    "fin": 11925,
+    "intentos": 1,
+    "destino": "efectivo",
+    "t_destino": 11936,
+    "viaja_en_E2": 11931,
+    "recoge_hermano": null
+   },
+   {
+    "carp": "P611_t1_A4_21203477",
+    "slot": 11,
+    "id": "first_aid",
+    "casilla": [
+     22,
+     23
+    ],
+    "ini": 4861,
+    "fin": 4861,
+    "intentos": 1,
+    "destino": "efectivo",
+    "t_destino": 4872,
+    "viaja_en_E2": 4881,
+    "recoge_hermano": null
+   },
+   {
+    "carp": "P611_t2_A4_21308206",
+    "slot": 11,
+    "id": "first_aid",
+    "casilla": [
+     22,
+     26
+    ],
+    "ini": 4857,
+    "fin": 4857,
+    "intentos": 1,
+    "destino": "efectivo",
+    "t_destino": 4867,
+    "viaja_en_E2": 4881,
+    "recoge_hermano": null
+   },
+   {
+    "carp": "P611_t2_A4_21308206",
+    "slot": 11,
+    "id": "first_aid",
+    "casilla": [
+     22,
+     27
+    ],
+    "ini": 5161,
+    "fin": 5161,
+    "intentos": 1,
+    "destino": "efectivo",
+    "t_destino": 5172,
+    "viaja_en_E2": 5181,
+    "recoge_hermano": null
+   },
+   {
+    "carp": "P611_t2_A4_21517664",
+    "slot": 11,
+    "id": "first_aid",
+    "casilla": [
+     28,
+     24
+    ],
+    "ini": 13012,
+    "fin": 13012,
+    "intentos": 1,
+    "destino": "efectivo",
+    "t_destino": 13017,
+    "recoge_hermano": 13024,
+    "tics_hasta_recoger": 12,
+    "usa": 13085
+   },
+   {
+    "carp": "P611_t2_A4_21517664",
+    "slot": 11,
+    "id": "first_aid",
+    "casilla": [
+     25,
+     25
+    ],
+    "ini": 14083,
+    "fin": 14083,
+    "intentos": 1,
+    "destino": "efectivo",
+    "t_destino": 14091,
+    "viaja_en_E2": 14106,
+    "recoge_hermano": null
+   },
+   {
+    "carp": "P611_t2_A4_21517664",
+    "slot": 11,
+    "id": "rations",
+    "casilla": [
+     23,
+     23
+    ],
+    "ini": 14626,
+    "fin": 14626,
+    "intentos": 1,
+    "destino": "efectivo",
+    "t_destino": 14633,
+    "viaja_en_E2": 14631,
+    "recoge_hermano": null
+   },
+   {
+    "carp": "P611_t2_A4_21517664",
+    "slot": 11,
+    "id": "first_aid",
+    "casilla": [
+     23,
+     23
+    ],
+    "ini": 14627,
+    "fin": 14627,
+    "intentos": 1,
+    "destino": "efectivo",
+    "t_destino": 14633,
+    "viaja_en_E2": 14631,
+    "recoge_hermano": null
+   },
+   {
+    "carp": "P611_t2_A4_21727122",
+    "slot": 10,
+    "id": "first_aid",
+    "casilla": [
+     14,
+     26
+    ],
+    "ini": 12533,
+    "fin": 12533,
+    "intentos": 1,
+    "destino": "efectivo",
+    "t_destino": 12535,
+    "viaja_en_E2": 12556,
+    "recoge_hermano": null
+   },
+   {
+    "carp": "P611_t2_A4_21727122",
+    "slot": 10,
+    "id": "rations",
+    "casilla": [
+     10,
+     25
+    ],
+    "ini": 12570,
+    "fin": 12570,
+    "intentos": 1,
+    "destino": "efectivo",
+    "t_destino": 12579,
+    "viaja_en_E2": 12581,
+    "recoge_hermano": null
+   },
+   {
+    "carp": "P611_t2_A4_21727122",
+    "slot": 11,
+    "id": "rations",
+    "casilla": [
+     17,
+     27
+    ],
+    "ini": 12645,
+    "fin": 12645,
+    "intentos": 1,
+    "destino": "efectivo",
+    "t_destino": 12656,
+    "viaja_en_E2": 12656,
+    "recoge_hermano": 12668,
+    "tics_hasta_recoger": 23
+   },
+   {
+    "carp": "P611_t2_A4_21831851",
+    "slot": 10,
+    "id": "rations",
+    "casilla": [
+     23,
+     24
+    ],
+    "ini": 626,
+    "fin": 626,
+    "intentos": 1,
+    "destino": "efectivo",
+    "t_destino": 636,
+    "viaja_en_E2": 631,
+    "recoge_hermano": null
+   },
+   {
+    "carp": "P611_t2_A4_21831851",
+    "slot": 10,
+    "id": "first_aid",
+    "casilla": [
+     28,
+     23
+    ],
+    "ini": 1483,
+    "fin": 1483,
+    "intentos": 1,
+    "destino": "efectivo",
+    "t_destino": 1485,
+    "recoge_hermano": 1496,
+    "tics_hasta_recoger": 13,
+    "usa": 1545
+   },
+   {
+    "carp": "P611_t2_A4_21936580",
+    "slot": 11,
+    "id": "rations",
+    "casilla": [
+     22,
+     19
+    ],
+    "ini": 12733,
+    "fin": 12733,
+    "intentos": 1,
+    "destino": "efectivo",
+    "t_destino": 12738,
+    "viaja_en_E2": 12756,
+    "recoge_hermano": null
+   },
+   {
+    "carp": "P611_t2_A4_22041309",
+    "slot": 10,
+    "id": "first_aid",
+    "casilla": [
+     18,
+     27
+    ],
+    "ini": 12567,
+    "fin": 12567,
+    "intentos": 1,
+    "destino": "efectivo",
+    "t_destino": 12578,
+    "viaja_en_E2": 12581,
+    "recoge_hermano": null
+   },
+   {
+    "carp": "P611_t2_A4_22146038",
+    "slot": 11,
+    "id": "rations",
+    "casilla": [
+     22,
+     21
+    ],
+    "ini": 11549,
+    "fin": 11549,
+    "intentos": 1,
+    "destino": "efectivo",
+    "t_destino": 11552,
+    "viaja_en_E2": 12306,
+    "recoge_hermano": null
+   },
+   {
+    "carp": "P611_t2_A4_22250767",
+    "slot": 10,
+    "id": "first_aid",
+    "casilla": [
+     24,
+     21
+    ],
+    "ini": 899,
+    "fin": 899,
+    "intentos": 1,
+    "destino": "efectivo",
+    "t_destino": 910,
+    "viaja_en_E2": 906,
+    "recoge_hermano": 911,
+    "tics_hasta_recoger": 12,
+    "usa": 934
+   },
+   {
+    "carp": "P611_t2_A4_22250767",
+    "slot": 10,
+    "id": "first_aid",
+    "casilla": [
+     23,
+     22
+    ],
+    "ini": 1219,
+    "fin": 1219,
+    "intentos": 1,
+    "destino": "efectivo",
+    "t_destino": 1230,
+    "viaja_en_E2": 1231,
+    "recoge_hermano": null
+   },
+   {
+    "carp": "P611_t2_A4_22250767",
+    "slot": 10,
+    "id": "first_aid",
+    "casilla": [
+     24,
+     23
+    ],
+    "ini": 1516,
+    "fin": 1516,
+    "intentos": 1,
+    "destino": "efectivo",
+    "t_destino": 1527,
+    "viaja_en_E2": 1531,
+    "recoge_hermano": null
+   },
+   {
+    "carp": "P611_t2_A4_22250767",
+    "slot": 10,
+    "id": "first_aid",
+    "casilla": [
+     25,
+     22
+    ],
+    "ini": 1813,
+    "fin": 1813,
+    "intentos": 1,
+    "destino": "efectivo",
+    "t_destino": 1826,
+    "viaja_en_E2": 1831,
+    "recoge_hermano": null
+   },
+   {
+    "carp": "P611_t2_A4_22250767",
+    "slot": 10,
+    "id": "first_aid",
+    "casilla": [
+     24,
+     24
+    ],
+    "ini": 2233,
+    "fin": 2233,
+    "intentos": 1,
+    "destino": "efectivo",
+    "t_destino": 2244,
+    "viaja_en_E2": 2256,
+    "recoge_hermano": null
+   },
+   {
+    "carp": "P611_t2_A4_22250767",
+    "slot": 11,
+    "id": "first_aid",
+    "casilla": [
+     22,
+     21
+    ],
+    "ini": 933,
+    "fin": 933,
+    "intentos": 1,
+    "destino": "efectivo",
+    "t_destino": 943,
+    "viaja_en_E2": 956,
+    "recoge_hermano": 1209,
+    "tics_hasta_recoger": 276,
+    "usa": 1220
+   }
+  ]
+ }
+}

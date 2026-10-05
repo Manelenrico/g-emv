@@ -1,0 +1,4973 @@
+{
+ "nota": "P6-25. Juicios de la puerta6 real (proceso aparte) sobre las instantaneas: bucle3.",
+ "version": "juez_P6_25 (P6-25): puerta6 real de A7h en proceso aparte sobre instantaneas; filas en contra; dentro del circulo futuro",
+ "segundos": 11.6,
+ "cuenta": {
+  "haiku|area": 32,
+  "haiku|vida": 2,
+  "sonnet|area": 23,
+  "sonnet|ok": 1
+ },
+ "juicios": [
+  {
+   "id": "P623_t2_A7h_20260916_10_13000",
+   "modelo": "haiku",
+   "etiqueta": "bucle3",
+   "snap_clave": "0",
+   "retraso": null,
+   "snap": "P6_30/_P6_25_snaps/P623_t2_A7h_20260916_10_13000.pkl.gz",
+   "tick_juicio": 13000,
+   "veredicto": "area",
+   "ventaja": -0.039562,
+   "margen": 0.062,
+   "ms": 699.3,
+   "comparador": "rollout",
+   "n_base": 17,
+   "puntos_control": [
+    13044,
+    13094,
+    13144,
+    13194
+   ],
+   "destino": [
+    23,
+    24
+   ],
+   "fase": 6,
+   "r1": 3,
+   "dentro_futuro": true,
+   "a_salvo": true,
+   "contra": [
+    [
+     "S-8-EXPOSICION",
+     0.02536,
+     0.3,
+     0.2381
+    ],
+    [
+     "S-DANO-PAREJA",
+     0.01914,
+     0.1,
+     0.05
+    ],
+    [
+     "F-4-ALCANCE",
+     0.01435,
+     0.4938,
+     0.475
+    ],
+    [
+     "R-CARENCIA",
+     0.00259,
+     0.7,
+     0.7
+    ],
+    [
+     "F-DANO",
+     0.00134,
+     0.23,
+     0.23
+    ],
+    [
+     "R-ACOPIO",
+     0.0005,
+     0.18,
+     0.18
+    ],
+    [
+     "F-ANTICIPACION",
+     -0.0061,
+     0.0,
+     0.0125
+    ],
+    [
+     "R-LLAMADA",
+     -0.00924,
+     0.24,
+     0.2112
+    ]
+   ],
+   "curva": [
+    {
+     "tic": 13044,
+     "d": 3.78705,
+     "vida": 77.0
+    },
+    {
+     "tic": 13094,
+     "d": 3.83621,
+     "vida": 77.0
+    },
+    {
+     "tic": 13144,
+     "d": 3.83621,
+     "vida": 77.0
+    },
+    {
+     "tic": 13194,
+     "d": 3.83621,
+     "vida": 77.0
+    }
+   ]
+  },
+  {
+   "id": "P623_t2_A7h_20260916_10_13000",
+   "modelo": "sonnet",
+   "etiqueta": "bucle3",
+   "snap_clave": "0",
+   "retraso": null,
+   "snap": "P6_30/_P6_25_snaps/P623_t2_A7h_20260916_10_13000.pkl.gz",
+   "tick_juicio": 13000,
+   "veredicto": "area",
+   "ventaja": -0.023169,
+   "margen": 0.062,
+   "ms": 673.1,
+   "comparador": "rollout",
+   "n_base": 17,
+   "puntos_control": [
+    13033,
+    13083
+   ],
+   "destino": [
+    22,
+    24
+   ],
+   "fase": 6,
+   "r1": 3,
+   "dentro_futuro": true,
+   "a_salvo": true,
+   "contra": [
+    [
+     "S-8-EXPOSICION",
+     0.02843,
+     0.3,
+     0.2381
+    ],
+    [
+     "F-4-ALCANCE",
+     0.01087,
+     0.4875,
+     0.475
+    ],
+    [
+     "R-CARENCIA",
+     0.00166,
+     0.7,
+     0.7
+    ],
+    [
+     "F-DANO",
+     0.00112,
+     0.23,
+     0.23
+    ],
+    [
+     "R-ACOPIO",
+     0.00031,
+     0.18,
+     0.18
+    ],
+    [
+     "S-DANO-PAREJA",
+     0.00027,
+     0.05,
+     0.05
+    ],
+    [
+     "F-ANTICIPACION",
+     -0.00276,
+     0.0,
+     0.0049
+    ],
+    [
+     "R-LLAMADA",
+     -0.01099,
+     0.24,
+     0.2112
+    ]
+   ],
+   "curva": [
+    {
+     "tic": 13033,
+     "d": 3.74662,
+     "vida": 77.0
+    },
+    {
+     "tic": 13083,
+     "d": 3.83051,
+     "vida": 77.0
+    }
+   ]
+  },
+  {
+   "id": "P623_t2_A7h_20260916_11_12746",
+   "modelo": "haiku",
+   "etiqueta": "bucle3",
+   "snap_clave": "0",
+   "retraso": null,
+   "snap": "P6_30/_P6_25_snaps/P623_t2_A7h_20260916_11_12746.pkl.gz",
+   "tick_juicio": 12746,
+   "veredicto": "area",
+   "ventaja": 0.006115,
+   "margen": 0.062,
+   "ms": 1335.2,
+   "comparador": "rollout",
+   "n_base": 17,
+   "puntos_control": [
+    12779,
+    12790,
+    12940,
+    13280
+   ],
+   "destino": [
+    22,
+    23
+   ],
+   "fase": 5,
+   "r1": 5,
+   "dentro_futuro": true,
+   "a_salvo": true,
+   "contra": [
+    [
+     "F-4-ALCANCE",
+     0.00334,
+     0.5,
+     0.4985
+    ],
+    [
+     "S-8-EXPOSICION",
+     -0.00013,
+     0.3,
+     0.3
+    ],
+    [
+     "R-CARENCIA",
+     -0.00015,
+     0.6083,
+     0.6083
+    ],
+    [
+     "R-LLAMADA",
+     -0.00123,
+     0.24,
+     0.24
+    ],
+    [
+     "F-DANO",
+     -0.00895,
+     0.07,
+     0.07
+    ]
+   ],
+   "curva": [
+    {
+     "tic": 12779,
+     "d": 3.65318,
+     "vida": 93.0
+    },
+    {
+     "tic": 12790,
+     "d": 3.65318,
+     "vida": 93.0
+    },
+    {
+     "tic": 12940,
+     "d": 3.61138,
+     "vida": 93.0
+    },
+    {
+     "tic": 13280,
+     "d": 3.61138,
+     "vida": 93.0
+    }
+   ]
+  },
+  {
+   "id": "P623_t2_A7h_20260916_11_13937",
+   "modelo": "haiku",
+   "etiqueta": "bucle3",
+   "snap_clave": "0",
+   "retraso": null,
+   "snap": "P6_30/_P6_25_snaps/P623_t2_A7h_20260916_11_13937.pkl.gz",
+   "tick_juicio": 13937,
+   "veredicto": "area",
+   "ventaja": -0.040373,
+   "margen": 0.062,
+   "ms": 1168.3,
+   "comparador": "rollout",
+   "n_base": 15,
+   "puntos_control": [
+    13948,
+    13959,
+    13981,
+    14223
+   ],
+   "destino": [
+    23,
+    26
+   ],
+   "fase": 6,
+   "r1": 3,
+   "dentro_futuro": true,
+   "a_salvo": true,
+   "contra": [
+    [
+     "S-8-EXPOSICION",
+     0.0323,
+     0.2051,
+     0.2051
+    ],
+    [
+     "F-4-ALCANCE",
+     0.01057,
+     0.4927,
+     0.4927
+    ],
+    [
+     "R-CARENCIA",
+     0.00161,
+     0.625,
+     0.625
+    ],
+    [
+     "S-DANO-PAREJA",
+     0.00127,
+     0.23,
+     0.23
+    ],
+    [
+     "F-DANO",
+     0.00055,
+     0.1,
+     0.1
+    ],
+    [
+     "R-LLAMADA",
+     0.00038,
+     0.24,
+     0.24
+    ],
+    [
+     "R-ACOPIO",
+     0.00034,
+     0.18,
+     0.18
+    ]
+   ],
+   "curva": [
+    {
+     "tic": 13948,
+     "d": 3.62063,
+     "vida": 90.0
+    },
+    {
+     "tic": 13959,
+     "d": 3.65215,
+     "vida": 90.0
+    },
+    {
+     "tic": 13981,
+     "d": 3.65215,
+     "vida": 90.0
+    },
+    {
+     "tic": 14223,
+     "d": 3.61059,
+     "vida": 90.0
+    }
+   ]
+  },
+  {
+   "id": "P623_t2_A7h_20260916_11_13937",
+   "modelo": "sonnet",
+   "etiqueta": "bucle3",
+   "snap_clave": "0",
+   "retraso": null,
+   "snap": "P6_30/_P6_25_snaps/P623_t2_A7h_20260916_11_13937.pkl.gz",
+   "tick_juicio": 13937,
+   "veredicto": "area",
+   "ventaja": -0.06039,
+   "margen": 0.062,
+   "ms": 873.7,
+   "comparador": "rollout",
+   "n_base": 15,
+   "puntos_control": [
+    13970,
+    14020,
+    14070,
+    14120
+   ],
+   "destino": [
+    24,
+    24
+   ],
+   "fase": 6,
+   "r1": 3,
+   "dentro_futuro": true,
+   "a_salvo": true,
+   "contra": [
+    [
+     "S-8-EXPOSICION",
+     0.05345,
+     0.27,
+     0.2051
+    ],
+    [
+     "F-4-ALCANCE",
+     0.01092,
+     0.5,
+     0.4927
+    ],
+    [
+     "R-CARENCIA",
+     0.00242,
+     0.625,
+     0.625
+    ],
+    [
+     "S-DANO-PAREJA",
+     0.00191,
+     0.23,
+     0.23
+    ],
+    [
+     "F-DANO",
+     0.0008,
+     0.1,
+     0.1
+    ],
+    [
+     "R-LLAMADA",
+     0.0006,
+     0.24,
+     0.24
+    ],
+    [
+     "R-ACOPIO",
+     0.00051,
+     0.18,
+     0.18
+    ]
+   ],
+   "curva": [
+    {
+     "tic": 13970,
+     "d": 3.67385,
+     "vida": 90.0
+    },
+    {
+     "tic": 14020,
+     "d": 3.67385,
+     "vida": 90.0
+    },
+    {
+     "tic": 14070,
+     "d": 3.63209,
+     "vida": 90.0
+    },
+    {
+     "tic": 14120,
+     "d": 3.63209,
+     "vida": 90.0
+    }
+   ]
+  },
+  {
+   "id": "P623_t2_A7h_20365645_10_13445",
+   "modelo": "haiku",
+   "etiqueta": "bucle3",
+   "snap_clave": "0",
+   "retraso": null,
+   "snap": "P6_30/_P6_25_snaps/P623_t2_A7h_20365645_10_13445.pkl.gz",
+   "tick_juicio": 13445,
+   "veredicto": "area",
+   "ventaja": -0.11456,
+   "margen": 0.062,
+   "ms": 1144.6,
+   "comparador": "rollout",
+   "n_base": 17,
+   "puntos_control": [
+    13489,
+    13820
+   ],
+   "destino": [
+    24,
+    24
+   ],
+   "fase": 6,
+   "r1": 3,
+   "dentro_futuro": true,
+   "a_salvo": true,
+   "contra": [
+    [
+     "F-REENCUENTRO",
+     0.1138,
+     0.218,
+     0.0
+    ],
+    [
+     "F-4-ALCANCE",
+     0.00871,
+     0.5,
+     0.4985
+    ],
+    [
+     "S-MUERTE-PAREJA",
+     0.00549,
+     0.8819,
+     0.8819
+    ],
+    [
+     "R-CARENCIA",
+     0.00362,
+     0.6667,
+     0.6667
+    ],
+    [
+     "S-8-EXPOSICION",
+     0.00286,
+     0.3,
+     0.3
+    ],
+    [
+     "S-SOLEDAD",
+     0.00208,
+     0.3701,
+     0.3701
+    ],
+    [
+     "R-ACOPIO",
+     0.00084,
+     0.18,
+     0.18
+    ]
+   ],
+   "curva": [
+    {
+     "tic": 13489,
+     "d": 4.59522,
+     "vida": 100.0
+    },
+    {
+     "tic": 13820,
+     "d": 4.54729,
+     "vida": 100.0
+    }
+   ]
+  },
+  {
+   "id": "P623_t2_A7h_20365645_10_13445",
+   "modelo": "sonnet",
+   "etiqueta": "bucle3",
+   "snap_clave": "0",
+   "retraso": null,
+   "snap": "P6_30/_P6_25_snaps/P623_t2_A7h_20365645_10_13445.pkl.gz",
+   "tick_juicio": 13445,
+   "veredicto": "area",
+   "ventaja": -0.316168,
+   "margen": 0.062,
+   "ms": 450.1,
+   "comparador": "rollout",
+   "n_base": 17,
+   "puntos_control": [
+    13456,
+    13467,
+    13478,
+    13528
+   ],
+   "destino": [
+    21,
+    23
+   ],
+   "fase": 6,
+   "r1": 3,
+   "dentro_futuro": false,
+   "a_salvo": false,
+   "contra": [
+    [
+     "F-REENCUENTRO",
+     0.19978,
+     0.218,
+     0.218
+    ],
+    [
+     "F-ANTICIPACION",
+     0.11804,
+     0.1415,
+     0.0
+    ],
+    [
+     "F-4-ALCANCE",
+     0.02239,
+     0.5,
+     0.5
+    ],
+    [
+     "S-MUERTE-PAREJA",
+     0.01473,
+     0.8881,
+     0.8881
+    ],
+    [
+     "R-CARENCIA",
+     0.00967,
+     0.6667,
+     0.6667
+    ],
+    [
+     "S-8-EXPOSICION",
+     0.0076,
+     0.3,
+     0.3
+    ],
+    [
+     "S-SOLEDAD",
+     0.0056,
+     0.3701,
+     0.3701
+    ],
+    [
+     "R-ACOPIO",
+     0.00225,
+     0.18,
+     0.18
+    ]
+   ],
+   "curva": [
+    {
+     "tic": 13456,
+     "d": 4.73779,
+     "vida": 100.0
+    },
+    {
+     "tic": 13467,
+     "d": 4.5986,
+     "vida": 100.0
+    },
+    {
+     "tic": 13478,
+     "d": 4.59691,
+     "vida": 100.0
+    },
+    {
+     "tic": 13528,
+     "d": 4.58929,
+     "vida": 100.0
+    }
+   ]
+  },
+  {
+   "id": "P623_t2_A7h_20365645_10_13701",
+   "modelo": "haiku",
+   "etiqueta": "bucle3",
+   "snap_clave": "0",
+   "retraso": null,
+   "snap": "P6_30/_P6_25_snaps/P623_t2_A7h_20365645_10_13701.pkl.gz",
+   "tick_juicio": 13701,
+   "veredicto": "area",
+   "ventaja": -0.185653,
+   "margen": 0.062,
+   "ms": 532.0,
+   "comparador": "rollout",
+   "n_base": 15,
+   "puntos_control": [
+    13734,
+    13809
+   ],
+   "destino": [
+    24,
+    24
+   ],
+   "fase": 6,
+   "r1": 3,
+   "dentro_futuro": true,
+   "a_salvo": true,
+   "contra": [
+    [
+     "F-REENCUENTRO",
+     0.17759,
+     0.218,
+     0.0
+    ],
+    [
+     "F-4-ALCANCE",
+     0.02051,
+     0.5,
+     0.49
+    ],
+    [
+     "S-MUERTE-PAREJA",
+     0.00841,
+     0.8379,
+     0.8379
+    ],
+    [
+     "R-CARENCIA",
+     0.00512,
+     0.5833,
+     0.5833
+    ],
+    [
+     "S-8-EXPOSICION",
+     0.00466,
+     0.3,
+     0.3
+    ],
+    [
+     "S-SOLEDAD",
+     0.0046,
+     0.5,
+     0.5
+    ],
+    [
+     "R-ACOPIO",
+     0.00135,
+     0.18,
+     0.18
+    ],
+    [
+     "R-LLAMADA",
+     0.00012,
+     0.24,
+     0.24
+    ]
+   ],
+   "curva": [
+    {
+     "tic": 13734,
+     "d": 4.57451,
+     "vida": 100.0
+    },
+    {
+     "tic": 13809,
+     "d": 4.56395,
+     "vida": 100.0
+    }
+   ]
+  },
+  {
+   "id": "P623_t2_A7h_20365645_10_13701",
+   "modelo": "sonnet",
+   "etiqueta": "bucle3",
+   "snap_clave": "0",
+   "retraso": null,
+   "snap": "P6_30/_P6_25_snaps/P623_t2_A7h_20365645_10_13701.pkl.gz",
+   "tick_juicio": 13701,
+   "veredicto": "area",
+   "ventaja": -0.01277,
+   "margen": 0.062,
+   "ms": 457.8,
+   "comparador": "rollout",
+   "n_base": 15,
+   "puntos_control": [
+    13712,
+    13762,
+    13787
+   ],
+   "destino": [
+    22,
+    24
+   ],
+   "fase": 6,
+   "r1": 3,
+   "dentro_futuro": true,
+   "a_salvo": true,
+   "contra": [
+    [
+     "F-4-ALCANCE",
+     0.01277,
+     0.4985,
+     0.49
+    ],
+    [
+     "S-MUERTE-PAREJA",
+     0.00061,
+     0.8417,
+     0.8417
+    ],
+    [
+     "R-CARENCIA",
+     0.00037,
+     0.5833,
+     0.5833
+    ],
+    [
+     "S-8-EXPOSICION",
+     0.00034,
+     0.3,
+     0.3
+    ],
+    [
+     "S-SOLEDAD",
+     0.00033,
+     0.5,
+     0.5
+    ]
+   ],
+   "curva": [
+    {
+     "tic": 13712,
+     "d": 4.36888,
+     "vida": 100.0
+    },
+    {
+     "tic": 13762,
+     "d": 4.36185,
+     "vida": 100.0
+    },
+    {
+     "tic": 13787,
+     "d": 4.35838,
+     "vida": 100.0
+    }
+   ]
+  },
+  {
+   "id": "P623_t2_A7h_20365645_10_13845",
+   "modelo": "haiku",
+   "etiqueta": "bucle3",
+   "snap_clave": "0",
+   "retraso": null,
+   "snap": "P6_30/_P6_25_snaps/P623_t2_A7h_20365645_10_13845.pkl.gz",
+   "tick_juicio": 13845,
+   "veredicto": "area",
+   "ventaja": -0.208557,
+   "margen": 0.062,
+   "ms": 507.2,
+   "comparador": "rollout",
+   "n_base": 16,
+   "puntos_control": [
+    13878,
+    13928
+   ],
+   "destino": [
+    24,
+    24
+   ],
+   "fase": 6,
+   "r1": 3,
+   "dentro_futuro": true,
+   "a_salvo": true,
+   "contra": [
+    [
+     "F-REENCUENTRO",
+     0.19983,
+     0.218,
+     0.0
+    ],
+    [
+     "F-4-ALCANCE",
+     0.0219,
+     0.5,
+     0.49
+    ],
+    [
+     "S-MUERTE-PAREJA",
+     0.0086,
+     0.8136,
+     0.8136
+    ],
+    [
+     "R-CARENCIA",
+     0.00539,
+     0.5833,
+     0.5833
+    ],
+    [
+     "S-SOLEDAD",
+     0.00489,
+     0.5,
+     0.5
+    ],
+    [
+     "S-8-EXPOSICION",
+     0.00485,
+     0.3,
+     0.3
+    ],
+    [
+     "F-DANO",
+     0.00342,
+     0.14,
+     0.14
+    ],
+    [
+     "R-ACOPIO",
+     0.00143,
+     0.18,
+     0.18
+    ]
+   ],
+   "curva": [
+    {
+     "tic": 13878,
+     "d": 4.69026,
+     "vida": 86.0
+    },
+    {
+     "tic": 13928,
+     "d": 4.68348,
+     "vida": 86.0
+    }
+   ]
+  },
+  {
+   "id": "P623_t2_A7h_20365645_10_13845",
+   "modelo": "sonnet",
+   "etiqueta": "bucle3",
+   "snap_clave": "0",
+   "retraso": null,
+   "snap": "P6_30/_P6_25_snaps/P623_t2_A7h_20365645_10_13845.pkl.gz",
+   "tick_juicio": 13845,
+   "veredicto": "area",
+   "ventaja": -0.259644,
+   "margen": 0.062,
+   "ms": 543.7,
+   "comparador": "rollout",
+   "n_base": 16,
+   "puntos_control": [
+    13878,
+    13928,
+    13978,
+    14028
+   ],
+   "destino": [
+    24,
+    24
+   ],
+   "fase": 6,
+   "r1": 3,
+   "dentro_futuro": true,
+   "a_salvo": true,
+   "contra": [
+    [
+     "F-REENCUENTRO",
+     0.24975,
+     0.218,
+     0.0
+    ],
+    [
+     "F-4-ALCANCE",
+     0.02629,
+     0.5,
+     0.49
+    ],
+    [
+     "S-MUERTE-PAREJA",
+     0.01067,
+     0.8136,
+     0.8136
+    ],
+    [
+     "R-CARENCIA",
+     0.00671,
+     0.5833,
+     0.5833
+    ],
+    [
+     "S-SOLEDAD",
+     0.00609,
+     0.5,
+     0.5
+    ],
+    [
+     "S-8-EXPOSICION",
+     0.00604,
+     0.3,
+     0.3
+    ],
+    [
+     "F-DANO",
+     0.00426,
+     0.14,
+     0.14
+    ],
+    [
+     "R-ACOPIO",
+     0.00178,
+     0.18,
+     0.18
+    ]
+   ],
+   "curva": [
+    {
+     "tic": 13878,
+     "d": 4.69026,
+     "vida": 86.0
+    },
+    {
+     "tic": 13928,
+     "d": 4.68348,
+     "vida": 86.0
+    },
+    {
+     "tic": 13978,
+     "d": 4.6768,
+     "vida": 86.0
+    },
+    {
+     "tic": 14028,
+     "d": 4.67024,
+     "vida": 86.0
+    }
+   ]
+  },
+  {
+   "id": "P623_t2_A7h_20470374_10_14010",
+   "modelo": "haiku",
+   "etiqueta": "bucle3",
+   "snap_clave": "0",
+   "retraso": null,
+   "snap": "P6_30/_P6_25_snaps/P623_t2_A7h_20470374_10_14010.pkl.gz",
+   "tick_juicio": 14010,
+   "veredicto": "area",
+   "ventaja": 0.0,
+   "margen": 0.062,
+   "ms": 682.5,
+   "comparador": "rollout",
+   "n_base": 17,
+   "puntos_control": [
+    14043,
+    14093
+   ],
+   "destino": [
+    24,
+    24
+   ],
+   "fase": 6,
+   "r1": 3,
+   "dentro_futuro": true,
+   "a_salvo": true,
+   "contra": null,
+   "curva": [
+    {
+     "tic": 14043,
+     "d": 3.84188,
+     "vida": 60.0
+    },
+    {
+     "tic": 14093,
+     "d": 3.84188,
+     "vida": 60.0
+    }
+   ]
+  },
+  {
+   "id": "P623_t2_A7h_20575103_11_13578",
+   "modelo": "haiku",
+   "etiqueta": "bucle3",
+   "snap_clave": "0",
+   "retraso": null,
+   "snap": "P6_30/_P6_25_snaps/P623_t2_A7h_20575103_11_13578.pkl.gz",
+   "tick_juicio": 13578,
+   "veredicto": "area",
+   "ventaja": -0.288246,
+   "margen": 0.062,
+   "ms": 557.1,
+   "comparador": "rollout",
+   "n_base": 15,
+   "puntos_control": [
+    13579,
+    13623,
+    13623,
+    13667
+   ],
+   "destino": [
+    23,
+    22
+   ],
+   "fase": 6,
+   "r1": 3,
+   "dentro_futuro": true,
+   "a_salvo": true,
+   "contra": [
+    [
+     "F-ANTICIPACION",
+     0.28698,
+     0.3101,
+     0.0
+    ],
+    [
+     "F-4-ALCANCE",
+     0.02104,
+     0.4845,
+     0.4927
+    ],
+    [
+     "R-CARENCIA",
+     0.00792,
+     0.5833,
+     0.5833
+    ],
+    [
+     "S-8-EXPOSICION",
+     0.00734,
+     0.3,
+     0.3
+    ],
+    [
+     "S-DANO-PAREJA",
+     0.0055,
+     0.35,
+     0.35
+    ],
+    [
+     "S-PROVISION",
+     0.00466,
+     0.3,
+     0.3
+    ],
+    [
+     "F-DANO",
+     0.00404,
+     0.11,
+     0.11
+    ],
+    [
+     "R-HERMANO-FALTA",
+     0.00144,
+     0.125,
+     0.125
+    ]
+   ],
+   "curva": [
+    {
+     "tic": 13579,
+     "d": 4.30517,
+     "vida": 89.0
+    },
+    {
+     "tic": 13623,
+     "d": 4.02841,
+     "vida": 89.0
+    },
+    {
+     "tic": 13623,
+     "d": 4.02841,
+     "vida": 89.0
+    },
+    {
+     "tic": 13667,
+     "d": 3.70086,
+     "vida": 89.0
+    }
+   ]
+  },
+  {
+   "id": "P623_t2_A7h_20575103_11_13578",
+   "modelo": "sonnet",
+   "etiqueta": "bucle3",
+   "snap_clave": "0",
+   "retraso": null,
+   "snap": "P6_30/_P6_25_snaps/P623_t2_A7h_20575103_11_13578.pkl.gz",
+   "tick_juicio": 13578,
+   "veredicto": "area",
+   "ventaja": -0.009205,
+   "margen": 0.062,
+   "ms": 607.3,
+   "comparador": "rollout",
+   "n_base": 15,
+   "puntos_control": [
+    13589,
+    13600,
+    13650,
+    13700
+   ],
+   "destino": [
+    26,
+    25
+   ],
+   "fase": 6,
+   "r1": 3,
+   "dentro_futuro": true,
+   "a_salvo": true,
+   "contra": [
+    [
+     "F-4-ALCANCE",
+     0.00921,
+     0.4927,
+     0.4927
+    ],
+    [
+     "R-CARENCIA",
+     0.00028,
+     0.5833,
+     0.5833
+    ],
+    [
+     "S-8-EXPOSICION",
+     0.00026,
+     0.3,
+     0.3
+    ],
+    [
+     "S-DANO-PAREJA",
+     0.0002,
+     0.35,
+     0.35
+    ],
+    [
+     "F-DANO",
+     0.00014,
+     0.11,
+     0.11
+    ],
+    [
+     "S-PROVISION",
+     0.00014,
+     0.3,
+     0.3
+    ]
+   ],
+   "curva": [
+    {
+     "tic": 13589,
+     "d": 4.02172,
+     "vida": 89.0
+    },
+    {
+     "tic": 13600,
+     "d": 4.02705,
+     "vida": 89.0
+    },
+    {
+     "tic": 13650,
+     "d": 4.02705,
+     "vida": 89.0
+    },
+    {
+     "tic": 13700,
+     "d": 3.70086,
+     "vida": 89.0
+    }
+   ]
+  },
+  {
+   "id": "P623_t2_A7h_20575103_11_13703",
+   "modelo": "haiku",
+   "etiqueta": "bucle3",
+   "snap_clave": "0",
+   "retraso": null,
+   "snap": "P6_30/_P6_25_snaps/P623_t2_A7h_20575103_11_13703.pkl.gz",
+   "tick_juicio": 13703,
+   "veredicto": "area",
+   "ventaja": -0.012181,
+   "margen": 0.062,
+   "ms": 747.1,
+   "comparador": "rollout",
+   "n_base": 17,
+   "puntos_control": [
+    13714,
+    13725,
+    13736,
+    13798
+   ],
+   "destino": [
+    26,
+    24
+   ],
+   "fase": 6,
+   "r1": 3,
+   "dentro_futuro": true,
+   "a_salvo": true,
+   "contra": [
+    [
+     "F-4-ALCANCE",
+     0.01218,
+     0.4985,
+     0.4938
+    ],
+    [
+     "R-CARENCIA",
+     0.00036,
+     0.5833,
+     0.5833
+    ],
+    [
+     "S-8-EXPOSICION",
+     0.00034,
+     0.3,
+     0.3
+    ],
+    [
+     "S-DANO-PAREJA",
+     0.00026,
+     0.35,
+     0.35
+    ],
+    [
+     "F-DANO",
+     0.00019,
+     0.11,
+     0.11
+    ],
+    [
+     "S-PROVISION",
+     0.00019,
+     0.3,
+     0.3
+    ]
+   ],
+   "curva": [
+    {
+     "tic": 13714,
+     "d": 4.02705,
+     "vida": 89.0
+    },
+    {
+     "tic": 13725,
+     "d": 4.02705,
+     "vida": 89.0
+    },
+    {
+     "tic": 13736,
+     "d": 4.02841,
+     "vida": 89.0
+    },
+    {
+     "tic": 13798,
+     "d": 3.7022,
+     "vida": 89.0
+    }
+   ]
+  },
+  {
+   "id": "P623_t2_A7h_20575103_11_13703",
+   "modelo": "sonnet",
+   "etiqueta": "bucle3",
+   "snap_clave": "0",
+   "retraso": null,
+   "snap": "P6_30/_P6_25_snaps/P623_t2_A7h_20575103_11_13703.pkl.gz",
+   "tick_juicio": 13703,
+   "veredicto": "area",
+   "ventaja": -0.005666,
+   "margen": 0.062,
+   "ms": 670.8,
+   "comparador": "rollout",
+   "n_base": 17,
+   "puntos_control": [
+    13714,
+    13764
+   ],
+   "destino": [
+    26,
+    24
+   ],
+   "fase": 6,
+   "r1": 3,
+   "dentro_futuro": true,
+   "a_salvo": true,
+   "contra": [
+    [
+     "F-4-ALCANCE",
+     0.00567,
+     0.4985,
+     0.4938
+    ],
+    [
+     "R-CARENCIA",
+     0.00017,
+     0.5833,
+     0.5833
+    ],
+    [
+     "S-8-EXPOSICION",
+     0.00016,
+     0.3,
+     0.3
+    ],
+    [
+     "S-DANO-PAREJA",
+     0.00012,
+     0.35,
+     0.35
+    ]
+   ],
+   "curva": [
+    {
+     "tic": 13714,
+     "d": 4.02705,
+     "vida": 89.0
+    },
+    {
+     "tic": 13764,
+     "d": 4.02705,
+     "vida": 89.0
+    }
+   ]
+  },
+  {
+   "id": "P623_t2_A7h_20889290_10_14560",
+   "modelo": "sonnet",
+   "etiqueta": "bucle3",
+   "snap_clave": "0",
+   "retraso": null,
+   "snap": "P6_30/_P6_25_snaps/P623_t2_A7h_20889290_10_14560.pkl.gz",
+   "tick_juicio": 14560,
+   "veredicto": "area",
+   "ventaja": -0.076754,
+   "margen": 0.062,
+   "ms": 718.0,
+   "comparador": "rollout",
+   "n_base": 16,
+   "puntos_control": [
+    14615,
+    14615,
+    14665
+   ],
+   "destino": [
+    24,
+    24
+   ],
+   "fase": 7,
+   "r1": 0,
+   "dentro_futuro": true,
+   "a_salvo": true,
+   "contra": [
+    [
+     "F-DANO",
+     0.14547,
+     0.35,
+     0.23
+    ],
+    [
+     "S-MUERTE-PAREJA",
+     0.00522,
+     0.6538,
+     0.6538
+    ],
+    [
+     "S-SOLEDAD",
+     0.0041,
+     0.5,
+     0.5
+    ],
+    [
+     "R-LLAMADA",
+     0.00031,
+     0.24,
+     0.24
+    ],
+    [
+     "R-CARENCIA",
+     -0.06734,
+     0.1667,
+     0.1667
+    ]
+   ],
+   "curva": [
+    {
+     "tic": 14615,
+     "d": 3.2912,
+     "vida": 65.0
+    },
+    {
+     "tic": 14615,
+     "d": 3.2912,
+     "vida": 65.0
+    },
+    {
+     "tic": 14665,
+     "d": 3.28704,
+     "vida": 65.0
+    }
+   ]
+  },
+  {
+   "id": "P623_t2_A7h_20889290_10_14604",
+   "modelo": "sonnet",
+   "etiqueta": "bucle3",
+   "snap_clave": "0",
+   "retraso": null,
+   "snap": "P6_30/_P6_25_snaps/P623_t2_A7h_20889290_10_14604.pkl.gz",
+   "tick_juicio": 14604,
+   "veredicto": "area",
+   "ventaja": 0.033233,
+   "margen": 0.062,
+   "ms": 739.7,
+   "comparador": "rollout",
+   "n_base": 18,
+   "puntos_control": [
+    14604,
+    14659,
+    14659,
+    14709
+   ],
+   "destino": [
+    24,
+    24
+   ],
+   "fase": 7,
+   "r1": 0,
+   "dentro_futuro": true,
+   "a_salvo": true,
+   "contra": [
+    [
+     "F-DANO",
+     0.50762,
+     0.3,
+     0.3
+    ],
+    [
+     "S-SOLEDAD",
+     0.00831,
+     0.5,
+     0.5
+    ],
+    [
+     "S-MUERTE-PAREJA",
+     0.00501,
+     0.6551,
+     0.6551
+    ],
+    [
+     "R-LLAMADA",
+     0.00062,
+     0.1849,
+     0.1849
+    ],
+    [
+     "R-ACOPIO",
+     -0.19881,
+     0.0,
+     0.0
+    ],
+    [
+     "R-CARENCIA",
+     -0.35356,
+     0.1667,
+     0.1667
+    ]
+   ],
+   "curva": [
+    {
+     "tic": 14604,
+     "d": 3.72202,
+     "vida": 70.0
+    },
+    {
+     "tic": 14659,
+     "d": 3.54456,
+     "vida": 40.0
+    },
+    {
+     "tic": 14659,
+     "d": 3.54456,
+     "vida": 40.0
+    },
+    {
+     "tic": 14709,
+     "d": 3.54037,
+     "vida": 40.0
+    }
+   ]
+  },
+  {
+   "id": "P623_t2_A7h_20889290_11_12312",
+   "modelo": "sonnet",
+   "etiqueta": "bucle3",
+   "snap_clave": "0",
+   "retraso": null,
+   "snap": "P6_30/_P6_25_snaps/P623_t2_A7h_20889290_11_12312.pkl.gz",
+   "tick_juicio": 12312,
+   "veredicto": "ok",
+   "ventaja": 0.515407,
+   "margen": 0.062,
+   "ms": 733.0,
+   "comparador": "rollout",
+   "n_base": 20,
+   "puntos_control": [
+    12378,
+    12455,
+    12477,
+    12527
+   ],
+   "destino": [
+    24,
+    25
+   ],
+   "fase": 5,
+   "r1": 5,
+   "dentro_futuro": true,
+   "a_salvo": true,
+   "contra": [
+    [
+     "F-ANTICIPACION",
+     0.0449,
+     0.0,
+     0.0
+    ],
+    [
+     "F-DANO",
+     0.03446,
+     0.17,
+     0.17
+    ],
+    [
+     "R-LLAMADA",
+     0.00612,
+     0.24,
+     0.1849
+    ],
+    [
+     "S-DANO-PAREJA",
+     -0.00396,
+     0.15,
+     0.15
+    ],
+    [
+     "R-ACOPIO",
+     -0.0041,
+     0.18,
+     0.18
+    ],
+    [
+     "S-8-EXPOSICION",
+     -0.0264,
+     0.21,
+     0.27
+    ],
+    [
+     "F-4-ALCANCE",
+     -0.02647,
+     0.4938,
+     0.5
+    ],
+    [
+     "R-CARENCIA",
+     -0.07767,
+     1.0,
+     1.0
+    ]
+   ],
+   "curva": [
+    {
+     "tic": 12378,
+     "d": 3.98911,
+     "vida": 83.0
+    },
+    {
+     "tic": 12455,
+     "d": 4.28382,
+     "vida": 74.0
+    },
+    {
+     "tic": 12477,
+     "d": 4.03055,
+     "vida": 66.67
+    },
+    {
+     "tic": 12527,
+     "d": 4.19779,
+     "vida": 50.0
+    }
+   ]
+  },
+  {
+   "id": "P623_t2_A7h_20889290_11_12356",
+   "modelo": "haiku",
+   "etiqueta": "bucle3",
+   "snap_clave": "0",
+   "retraso": null,
+   "snap": "P6_30/_P6_25_snaps/P623_t2_A7h_20889290_11_12356.pkl.gz",
+   "tick_juicio": 12356,
+   "veredicto": "area",
+   "ventaja": -1.551596,
+   "margen": 0.062,
+   "ms": 730.7,
+   "comparador": "rollout",
+   "n_base": 20,
+   "puntos_control": [
+    12411,
+    12426,
+    12426,
+    12459
+   ],
+   "destino": [
+    24,
+    26
+   ],
+   "fase": 5,
+   "r1": 5,
+   "dentro_futuro": true,
+   "a_salvo": true,
+   "contra": [
+    [
+     "F-REENCUENTRO",
+     1.63143,
+     1.3538,
+     0.0
+    ],
+    [
+     "S-8-EXPOSICION",
+     0.1087,
+     0.27,
+     0.18
+    ],
+    [
+     "F-4-ALCANCE",
+     0.08559,
+     0.5,
+     0.4948
+    ],
+    [
+     "R-CARENCIA",
+     0.06521,
+     1.0,
+     1.0
+    ],
+    [
+     "F-DANO",
+     0.0254,
+     0.17,
+     0.17
+    ],
+    [
+     "S-DANO-PAREJA",
+     0.01241,
+     0.15,
+     0.15
+    ],
+    [
+     "R-ACOPIO",
+     0.01028,
+     0.18,
+     0.18
+    ],
+    [
+     "R-LLAMADA",
+     -0.03393,
+     0.24,
+     0.1849
+    ]
+   ],
+   "curva": [
+    {
+     "tic": 12411,
+     "d": 5.3714,
+     "vida": 83.0
+    },
+    {
+     "tic": 12426,
+     "d": 5.3714,
+     "vida": 83.0
+    },
+    {
+     "tic": 12426,
+     "d": 5.3714,
+     "vida": 83.0
+    },
+    {
+     "tic": 12459,
+     "d": 4.15624,
+     "vida": 83.0
+    }
+   ]
+  },
+  {
+   "id": "P623_t2_A7h_20994019_10_12014",
+   "modelo": "haiku",
+   "etiqueta": "bucle3",
+   "snap_clave": "0",
+   "retraso": null,
+   "snap": "P6_30/_P6_25_snaps/P623_t2_A7h_20994019_10_12014.pkl.gz",
+   "tick_juicio": 12014,
+   "veredicto": "area",
+   "ventaja": -0.304266,
+   "margen": 0.062,
+   "ms": 941.1,
+   "comparador": "rollout",
+   "n_base": 21,
+   "puntos_control": [
+    12069,
+    12091,
+    12135,
+    12218
+   ],
+   "destino": [
+    18,
+    24
+   ],
+   "fase": 5,
+   "r1": 5,
+   "dentro_futuro": false,
+   "a_salvo": false,
+   "contra": [
+    [
+     "S-7-AGRESOR",
+     0.27139,
+     0.3285,
+     0.0
+    ],
+    [
+     "S-8-EXPOSICION",
+     0.24446,
+     0.3,
+     0.0
+    ],
+    [
+     "F-REENCUENTRO",
+     0.15122,
+     0.0,
+     0.0
+    ],
+    [
+     "F-DANO",
+     0.11421,
+     0.37,
+     0.4565
+    ],
+    [
+     "F-4-ALCANCE",
+     0.06767,
+     0.4938,
+     0.4535
+    ],
+    [
+     "S-DANO-PAREJA",
+     0.0179,
+     0.33,
+     0.33
+    ],
+    [
+     "F-HERMANO-GOLPE",
+     0.01378,
+     0.2687,
+     0.2687
+    ],
+    [
+     "R-LLAMADA",
+     -0.051,
+     0.1608,
+     0.12
+    ]
+   ],
+   "curva": [
+    {
+     "tic": 12069,
+     "d": 4.08326,
+     "vida": 63.0
+    },
+    {
+     "tic": 12091,
+     "d": 4.60891,
+     "vida": 63.0
+    },
+    {
+     "tic": 12135,
+     "d": 3.38296,
+     "vida": 63.0
+    },
+    {
+     "tic": 12218,
+     "d": 3.38296,
+     "vida": 63.0
+    }
+   ]
+  },
+  {
+   "id": "P623_t2_A7h_20994019_10_12130",
+   "modelo": "haiku",
+   "etiqueta": "bucle3",
+   "snap_clave": "0",
+   "retraso": null,
+   "snap": "P6_30/_P6_25_snaps/P623_t2_A7h_20994019_10_12130.pkl.gz",
+   "tick_juicio": 12130,
+   "veredicto": "area",
+   "ventaja": -0.354688,
+   "margen": 0.062,
+   "ms": 1110.3,
+   "comparador": "rollout",
+   "n_base": 20,
+   "puntos_control": [
+    12174,
+    12196,
+    12218,
+    12724
+   ],
+   "destino": [
+    19,
+    26
+   ],
+   "fase": 5,
+   "r1": 5,
+   "dentro_futuro": false,
+   "a_salvo": false,
+   "contra": [
+    [
+     "F-REENCUENTRO",
+     0.6213,
+     0.0,
+     0.0
+    ],
+    [
+     "S-8-EXPOSICION",
+     0.17984,
+     0.0,
+     0.0
+    ],
+    [
+     "F-DANO",
+     0.161,
+     0.6938,
+     0.8802
+    ],
+    [
+     "F-4-ALCANCE",
+     0.06627,
+     0.4948,
+     0.4637
+    ],
+    [
+     "S-MUERTE-PAREJA",
+     0.03113,
+     0.9897,
+     0.9897
+    ],
+    [
+     "R-LLAMADA",
+     -0.06959,
+     0.1849,
+     0.12
+    ],
+    [
+     "R-ACOPIO",
+     -0.12503,
+     0.0,
+     0.0
+    ],
+    [
+     "F-ANTICIPACION",
+     -0.18215,
+     0.0303,
+     0.1667
+    ]
+   ],
+   "curva": [
+    {
+     "tic": 12174,
+     "d": 4.10447,
+     "vida": 36.67
+    },
+    {
+     "tic": 12196,
+     "d": 5.42748,
+     "vida": 36.67
+    },
+    {
+     "tic": 12218,
+     "d": 4.84284,
+     "vida": 36.67
+    },
+    {
+     "tic": 12724,
+     "d": 4.761,
+     "vida": 36.67
+    }
+   ]
+  },
+  {
+   "id": "P623_t2_A7h_20994019_10_12174",
+   "modelo": "haiku",
+   "etiqueta": "bucle3",
+   "snap_clave": "0",
+   "retraso": null,
+   "snap": "P6_30/_P6_25_snaps/P623_t2_A7h_20994019_10_12174.pkl.gz",
+   "tick_juicio": 12174,
+   "veredicto": "vida",
+   "ventaja": -0.257947,
+   "margen": 0.062,
+   "ms": 730.0,
+   "comparador": "rollout",
+   "n_base": 20,
+   "puntos_control": [
+    12251,
+    12301,
+    12367,
+    12467
+   ],
+   "destino": [
+    13,
+    24
+   ],
+   "fase": 5,
+   "r1": 5,
+   "dentro_futuro": false,
+   "a_salvo": false,
+   "contra": [
+    [
+     "F-DANO",
+     0.4826,
+     1.3691,
+     0.495
+    ],
+    [
+     "F-ANTICIPACION",
+     0.04625,
+     0.1667,
+     0.1667
+    ],
+    [
+     "R-LLAMADA",
+     0.02609,
+     0.0924,
+     0.1172
+    ],
+    [
+     "S-MUERTE-PAREJA",
+     0.01124,
+     0.9729,
+     0.9729
+    ],
+    [
+     "S-SOLEDAD",
+     0.00049,
+     0.0326,
+     0.0326
+    ],
+    [
+     "R-ACOPIO",
+     -0.10642,
+     0.0,
+     0.18
+    ],
+    [
+     "R-CARENCIA",
+     -0.18697,
+     0.25,
+     0.5833
+    ]
+   ],
+   "curva": [
+    {
+     "tic": 12251,
+     "d": 4.4748,
+     "vida": 1.33
+    },
+    {
+     "tic": 12301,
+     "d": 4.49702,
+     "vida": 0.0
+    },
+    {
+     "tic": 12367,
+     "d": 4.44418,
+     "vida": 0.0
+    },
+    {
+     "tic": 12467,
+     "d": 4.42837,
+     "vida": 0.0
+    }
+   ]
+  },
+  {
+   "id": "P623_t2_A7h_20994019_10_12495",
+   "modelo": "haiku",
+   "etiqueta": "bucle3",
+   "snap_clave": "0",
+   "retraso": null,
+   "snap": "P6_30/_P6_25_snaps/P623_t2_A7h_20994019_10_12495.pkl.gz",
+   "tick_juicio": 12495,
+   "veredicto": "area",
+   "ventaja": 0.0,
+   "margen": 0.062,
+   "ms": 653.0,
+   "comparador": "rollout",
+   "n_base": 13,
+   "puntos_control": [
+    12539,
+    12589,
+    12600,
+    12741
+   ],
+   "destino": [
+    23,
+    24
+   ],
+   "fase": 5,
+   "r1": 5,
+   "dentro_futuro": true,
+   "a_salvo": true,
+   "contra": null,
+   "curva": [
+    {
+     "tic": 12539,
+     "d": 3.58324,
+     "vida": 100.0
+    },
+    {
+     "tic": 12589,
+     "d": 3.57603,
+     "vida": 100.0
+    },
+    {
+     "tic": 12600,
+     "d": 3.57445,
+     "vida": 100.0
+    },
+    {
+     "tic": 12741,
+     "d": 3.55484,
+     "vida": 100.0
+    }
+   ]
+  },
+  {
+   "id": "P623_t2_A7h_20994019_10_12583",
+   "modelo": "haiku",
+   "etiqueta": "bucle3",
+   "snap_clave": "0",
+   "retraso": null,
+   "snap": "P6_30/_P6_25_snaps/P623_t2_A7h_20994019_10_12583.pkl.gz",
+   "tick_juicio": 12583,
+   "veredicto": "area",
+   "ventaja": 0.021332,
+   "margen": 0.062,
+   "ms": 585.9,
+   "comparador": "rollout",
+   "n_base": 13,
+   "puntos_control": [
+    12638,
+    12688
+   ],
+   "destino": [
+    24,
+    23
+   ],
+   "fase": 5,
+   "r1": 5,
+   "dentro_futuro": true,
+   "a_salvo": true,
+   "contra": [
+    [
+     "R-LLAMADA",
+     0.0001,
+     0.24,
+     0.24
+    ],
+    [
+     "R-ACOPIO",
+     -0.00026,
+     0.18,
+     0.18
+    ],
+    [
+     "S-SOLEDAD",
+     -0.00052,
+     0.3167,
+     0.3167
+    ],
+    [
+     "R-CARENCIA",
+     -0.00104,
+     0.5917,
+     0.5917
+    ],
+    [
+     "S-MUERTE-PAREJA",
+     -0.00173,
+     0.8943,
+     0.8943
+    ],
+    [
+     "F-DANO",
+     -0.02133,
+     0.0,
+     0.0367
+    ]
+   ],
+   "curva": [
+    {
+     "tic": 12638,
+     "d": 3.60975,
+     "vida": 100.0
+    },
+    {
+     "tic": 12688,
+     "d": 3.60271,
+     "vida": 100.0
+    }
+   ]
+  },
+  {
+   "id": "P623_t2_A7h_20994019_10_13019",
+   "modelo": "haiku",
+   "etiqueta": "bucle3",
+   "snap_clave": "0",
+   "retraso": null,
+   "snap": "P6_30/_P6_25_snaps/P623_t2_A7h_20994019_10_13019.pkl.gz",
+   "tick_juicio": 13019,
+   "veredicto": "area",
+   "ventaja": -0.502449,
+   "margen": 0.062,
+   "ms": 724.3,
+   "comparador": "rollout",
+   "n_base": 16,
+   "puntos_control": [
+    13030,
+    13041,
+    13063,
+    13113
+   ],
+   "destino": [
+    20,
+    23
+   ],
+   "fase": 6,
+   "r1": 3,
+   "dentro_futuro": false,
+   "a_salvo": false,
+   "contra": [
+    [
+     "F-REENCUENTRO",
+     0.56362,
+     0.0,
+     0.0
+    ],
+    [
+     "F-4-ALCANCE",
+     0.03309,
+     0.4927,
+     0.4927
+    ],
+    [
+     "F-DANO",
+     0.02548,
+     0.5488,
+     0.5488
+    ],
+    [
+     "S-MUERTE-PAREJA",
+     0.01819,
+     0.8241,
+     0.8241
+    ],
+    [
+     "S-SOLEDAD",
+     0.01099,
+     0.5,
+     0.5
+    ],
+    [
+     "R-CARENCIA",
+     0.01047,
+     0.5917,
+     0.5917
+    ],
+    [
+     "S-8-EXPOSICION",
+     0.00925,
+     0.3,
+     0.3
+    ],
+    [
+     "R-ACOPIO",
+     0.00279,
+     0.18,
+     0.18
+    ]
+   ],
+   "curva": [
+    {
+     "tic": 13030,
+     "d": 4.93042,
+     "vida": 47.0
+    },
+    {
+     "tic": 13041,
+     "d": 4.89411,
+     "vida": 47.0
+    },
+    {
+     "tic": 13063,
+     "d": 5.58261,
+     "vida": 47.0
+    },
+    {
+     "tic": 13113,
+     "d": 5.57545,
+     "vida": 47.0
+    }
+   ]
+  },
+  {
+   "id": "P623_t2_A7h_20994019_10_13019",
+   "modelo": "sonnet",
+   "etiqueta": "bucle3",
+   "snap_clave": "0",
+   "retraso": null,
+   "snap": "P6_30/_P6_25_snaps/P623_t2_A7h_20994019_10_13019.pkl.gz",
+   "tick_juicio": 13019,
+   "veredicto": "area",
+   "ventaja": -0.501672,
+   "margen": 0.062,
+   "ms": 703.3,
+   "comparador": "rollout",
+   "n_base": 16,
+   "puntos_control": [
+    13030,
+    13041,
+    13052,
+    13102
+   ],
+   "destino": [
+    19,
+    23
+   ],
+   "fase": 6,
+   "r1": 3,
+   "dentro_futuro": false,
+   "a_salvo": false,
+   "contra": [
+    [
+     "F-DANO",
+     0.2712,
+     0.6493,
+     0.5488
+    ],
+    [
+     "F-ANTICIPACION",
+     0.24355,
+     0.3333,
+     0.0259
+    ],
+    [
+     "F-4-ALCANCE",
+     0.02304,
+     0.4867,
+     0.4927
+    ],
+    [
+     "S-MUERTE-PAREJA",
+     0.01761,
+     0.8241,
+     0.8241
+    ],
+    [
+     "R-CARENCIA",
+     0.01135,
+     0.5917,
+     0.5917
+    ],
+    [
+     "S-SOLEDAD",
+     0.01007,
+     0.5,
+     0.5
+    ],
+    [
+     "S-8-EXPOSICION",
+     0.00911,
+     0.3,
+     0.3
+    ],
+    [
+     "R-LLAMADA",
+     0.00377,
+     0.1849,
+     0.2112
+    ]
+   ],
+   "curva": [
+    {
+     "tic": 13030,
+     "d": 5.35351,
+     "vida": 39.67
+    },
+    {
+     "tic": 13041,
+     "d": 5.03733,
+     "vida": 39.67
+    },
+    {
+     "tic": 13052,
+     "d": 4.9917,
+     "vida": 39.67
+    },
+    {
+     "tic": 13102,
+     "d": 4.98471,
+     "vida": 39.67
+    }
+   ]
+  },
+  {
+   "id": "P623_t2_A7h_21098748_10_13731",
+   "modelo": "haiku",
+   "etiqueta": "bucle3",
+   "snap_clave": "0",
+   "retraso": null,
+   "snap": "P6_30/_P6_25_snaps/P623_t2_A7h_21098748_10_13731.pkl.gz",
+   "tick_juicio": 13731,
+   "veredicto": "area",
+   "ventaja": -0.008317,
+   "margen": 0.062,
+   "ms": 653.6,
+   "comparador": "rollout",
+   "n_base": 15,
+   "puntos_control": [
+    13764,
+    13809
+   ],
+   "destino": [
+    24,
+    25
+   ],
+   "fase": 6,
+   "r1": 3,
+   "dentro_futuro": true,
+   "a_salvo": true,
+   "contra": [
+    [
+     "F-4-ALCANCE",
+     0.00832,
+     0.5,
+     0.49
+    ],
+    [
+     "S-8-EXPOSICION",
+     0.00032,
+     0.3,
+     0.3
+    ],
+    [
+     "R-CARENCIA",
+     0.00017,
+     0.3056,
+     0.3056
+    ]
+   ],
+   "curva": [
+    {
+     "tic": 13764,
+     "d": 3.08149,
+     "vida": 100.0
+    },
+    {
+     "tic": 13809,
+     "d": 3.11692,
+     "vida": 100.0
+    }
+   ]
+  },
+  {
+   "id": "P623_t2_A7h_21098748_10_13731",
+   "modelo": "sonnet",
+   "etiqueta": "bucle3",
+   "snap_clave": "0",
+   "retraso": null,
+   "snap": "P6_30/_P6_25_snaps/P623_t2_A7h_21098748_10_13731.pkl.gz",
+   "tick_juicio": 13731,
+   "veredicto": "area",
+   "ventaja": -0.011342,
+   "margen": 0.062,
+   "ms": 661.1,
+   "comparador": "rollout",
+   "n_base": 15,
+   "puntos_control": [
+    13742,
+    13775,
+    13775,
+    13797
+   ],
+   "destino": [
+    27,
+    24
+   ],
+   "fase": 6,
+   "r1": 3,
+   "dentro_futuro": true,
+   "a_salvo": true,
+   "contra": [
+    [
+     "F-4-ALCANCE",
+     0.01134,
+     0.49,
+     0.49
+    ],
+    [
+     "S-8-EXPOSICION",
+     0.00044,
+     0.3,
+     0.3
+    ],
+    [
+     "R-CARENCIA",
+     0.00023,
+     0.3056,
+     0.3056
+    ],
+    [
+     "R-LLAMADA",
+     0.00013,
+     0.24,
+     0.24
+    ]
+   ],
+   "curva": [
+    {
+     "tic": 13742,
+     "d": 3.07294,
+     "vida": 100.0
+    },
+    {
+     "tic": 13775,
+     "d": 3.08023,
+     "vida": 100.0
+    },
+    {
+     "tic": 13775,
+     "d": 3.08023,
+     "vida": 100.0
+    },
+    {
+     "tic": 13797,
+     "d": 3.08149,
+     "vida": 100.0
+    }
+   ]
+  },
+  {
+   "id": "P623_t2_A7h_21098748_10_13845",
+   "modelo": "haiku",
+   "etiqueta": "bucle3",
+   "snap_clave": "0",
+   "retraso": null,
+   "snap": "P6_30/_P6_25_snaps/P623_t2_A7h_21098748_10_13845.pkl.gz",
+   "tick_juicio": 13845,
+   "veredicto": "area",
+   "ventaja": -0.011777,
+   "margen": 0.062,
+   "ms": 703.3,
+   "comparador": "rollout",
+   "n_base": 16,
+   "puntos_control": [
+    13878,
+    13889,
+    13939
+   ],
+   "destino": [
+    24,
+    25
+   ],
+   "fase": 6,
+   "r1": 3,
+   "dentro_futuro": true,
+   "a_salvo": true,
+   "contra": [
+    [
+     "F-4-ALCANCE",
+     0.01178,
+     0.5,
+     0.49
+    ],
+    [
+     "F-DANO",
+     0.00052,
+     0.27,
+     0.27
+    ],
+    [
+     "S-8-EXPOSICION",
+     0.00037,
+     0.3,
+     0.3
+    ],
+    [
+     "R-CARENCIA",
+     0.00019,
+     0.3056,
+     0.3056
+    ],
+    [
+     "R-LLAMADA",
+     0.00014,
+     0.24,
+     0.24
+    ]
+   ],
+   "curva": [
+    {
+     "tic": 13878,
+     "d": 3.31712,
+     "vida": 73.0
+    },
+    {
+     "tic": 13889,
+     "d": 3.31712,
+     "vida": 73.0
+    },
+    {
+     "tic": 13939,
+     "d": 3.3534,
+     "vida": 73.0
+    }
+   ]
+  },
+  {
+   "id": "P623_t2_A7h_21098748_10_13845",
+   "modelo": "sonnet",
+   "etiqueta": "bucle3",
+   "snap_clave": "0",
+   "retraso": null,
+   "snap": "P6_30/_P6_25_snaps/P623_t2_A7h_21098748_10_13845.pkl.gz",
+   "tick_juicio": 13845,
+   "veredicto": "area",
+   "ventaja": -0.014525,
+   "margen": 0.062,
+   "ms": 712.5,
+   "comparador": "rollout",
+   "n_base": 16,
+   "puntos_control": [
+    13867,
+    13878,
+    13928,
+    13978
+   ],
+   "destino": [
+    25,
+    25
+   ],
+   "fase": 6,
+   "r1": 3,
+   "dentro_futuro": true,
+   "a_salvo": true,
+   "contra": [
+    [
+     "F-4-ALCANCE",
+     0.01483,
+     0.4985,
+     0.49
+    ],
+    [
+     "F-DANO",
+     0.00064,
+     0.27,
+     0.27
+    ],
+    [
+     "S-8-EXPOSICION",
+     0.00045,
+     0.3,
+     0.3
+    ],
+    [
+     "R-CARENCIA",
+     0.00024,
+     0.3056,
+     0.3056
+    ],
+    [
+     "R-LLAMADA",
+     0.00018,
+     0.24,
+     0.24
+    ],
+    [
+     "S-DANO-PAREJA",
+     0.00012,
+     0.115,
+     0.115
+    ],
+    [
+     "F-ANTICIPACION",
+     -0.00033,
+     0.0,
+     0.0
+    ]
+   ],
+   "curva": [
+    {
+     "tic": 13867,
+     "d": 3.3158,
+     "vida": 73.0
+    },
+    {
+     "tic": 13878,
+     "d": 3.31712,
+     "vida": 73.0
+    },
+    {
+     "tic": 13928,
+     "d": 3.3534,
+     "vida": 73.0
+    },
+    {
+     "tic": 13978,
+     "d": 3.3534,
+     "vida": 73.0
+    }
+   ]
+  },
+  {
+   "id": "P623_t2_A7h_21098748_11_12525",
+   "modelo": "haiku",
+   "etiqueta": "bucle3",
+   "snap_clave": "0",
+   "retraso": null,
+   "snap": "P6_30/_P6_25_snaps/P623_t2_A7h_21098748_11_12525.pkl.gz",
+   "tick_juicio": 12525,
+   "veredicto": "area",
+   "ventaja": -0.047014,
+   "margen": 0.062,
+   "ms": 773.9,
+   "comparador": "rollout",
+   "n_base": 15,
+   "puntos_control": [
+    12547,
+    12580,
+    12691
+   ],
+   "destino": [
+    24,
+    29
+   ],
+   "fase": 5,
+   "r1": 5,
+   "dentro_futuro": true,
+   "a_salvo": true,
+   "contra": [
+    [
+     "S-8-EXPOSICION",
+     0.05899,
+     0.146,
+     0.146
+    ],
+    [
+     "F-4-ALCANCE",
+     0.01495,
+     0.4683,
+     0.4683
+    ],
+    [
+     "S-DANO-PAREJA",
+     0.00316,
+     0.24,
+     0.24
+    ],
+    [
+     "R-LLAMADA",
+     -0.01865,
+     0.1849,
+     0.1849
+    ]
+   ],
+   "curva": [
+    {
+     "tic": 12547,
+     "d": 2.79477,
+     "vida": 100.0
+    },
+    {
+     "tic": 12580,
+     "d": 2.87803,
+     "vida": 100.0
+    },
+    {
+     "tic": 12691,
+     "d": 2.83292,
+     "vida": 100.0
+    }
+   ]
+  },
+  {
+   "id": "P623_t2_A7h_21308206_10_14624",
+   "modelo": "haiku",
+   "etiqueta": "bucle3",
+   "snap_clave": "0",
+   "retraso": null,
+   "snap": "P6_30/_P6_25_snaps/P623_t2_A7h_21308206_10_14624.pkl.gz",
+   "tick_juicio": 14624,
+   "veredicto": "area",
+   "ventaja": 0.0,
+   "margen": 0.062,
+   "ms": 1346.2,
+   "comparador": "rollout",
+   "n_base": 19,
+   "puntos_control": [
+    14646,
+    14938
+   ],
+   "destino": [
+    24,
+    24
+   ],
+   "fase": 7,
+   "r1": 0,
+   "dentro_futuro": true,
+   "a_salvo": true,
+   "contra": null,
+   "curva": [
+    {
+     "tic": 14646,
+     "d": 3.46926,
+     "vida": 93.0
+    },
+    {
+     "tic": 14938,
+     "d": 3.72397,
+     "vida": 93.0
+    }
+   ]
+  },
+  {
+   "id": "P623_t2_A7h_21308206_10_14624",
+   "modelo": "sonnet",
+   "etiqueta": "bucle3",
+   "snap_clave": "0",
+   "retraso": null,
+   "snap": "P6_30/_P6_25_snaps/P623_t2_A7h_21308206_10_14624.pkl.gz",
+   "tick_juicio": 14624,
+   "veredicto": "area",
+   "ventaja": 0.0,
+   "margen": 0.062,
+   "ms": 794.3,
+   "comparador": "rollout",
+   "n_base": 19,
+   "puntos_control": [
+    14646,
+    14646,
+    14696,
+    14746
+   ],
+   "destino": [
+    24,
+    24
+   ],
+   "fase": 7,
+   "r1": 0,
+   "dentro_futuro": true,
+   "a_salvo": true,
+   "contra": null,
+   "curva": [
+    {
+     "tic": 14646,
+     "d": 3.46926,
+     "vida": 93.0
+    },
+    {
+     "tic": 14646,
+     "d": 3.46926,
+     "vida": 93.0
+    },
+    {
+     "tic": 14696,
+     "d": 3.46926,
+     "vida": 93.0
+    },
+    {
+     "tic": 14746,
+     "d": 3.72397,
+     "vida": 93.0
+    }
+   ]
+  },
+  {
+   "id": "P623_t2_A7h_21308206_11_12839",
+   "modelo": "haiku",
+   "etiqueta": "bucle3",
+   "snap_clave": "0",
+   "retraso": null,
+   "snap": "P6_30/_P6_25_snaps/P623_t2_A7h_21308206_11_12839.pkl.gz",
+   "tick_juicio": 12839,
+   "veredicto": "area",
+   "ventaja": -0.053055,
+   "margen": 0.062,
+   "ms": 558.1,
+   "comparador": "rollout",
+   "n_base": 18,
+   "puntos_control": [
+    12894,
+    12894,
+    12949
+   ],
+   "destino": [
+    24,
+    24
+   ],
+   "fase": 5,
+   "r1": 5,
+   "dentro_futuro": true,
+   "a_salvo": true,
+   "contra": [
+    [
+     "F-ANTICIPACION",
+     0.03,
+     0.0,
+     0.0
+    ],
+    [
+     "F-DANO",
+     0.01707,
+     0.27,
+     0.27
+    ],
+    [
+     "R-LLAMADA",
+     0.00876,
+     0.24,
+     0.24
+    ],
+    [
+     "S-DANO-PAREJA",
+     0.00198,
+     0.4,
+     0.4
+    ],
+    [
+     "R-CARENCIA",
+     0.0008,
+     0.25,
+     0.25
+    ]
+   ],
+   "curva": [
+    {
+     "tic": 12894,
+     "d": 2.81697,
+     "vida": 73.0
+    },
+    {
+     "tic": 12894,
+     "d": 2.81697,
+     "vida": 73.0
+    },
+    {
+     "tic": 12949,
+     "d": 3.12501,
+     "vida": 64.67
+    }
+   ]
+  },
+  {
+   "id": "P623_t2_A7h_21308206_11_13727",
+   "modelo": "haiku",
+   "etiqueta": "bucle3",
+   "snap_clave": "0",
+   "retraso": null,
+   "snap": "P6_30/_P6_25_snaps/P623_t2_A7h_21308206_11_13727.pkl.gz",
+   "tick_juicio": 13727,
+   "veredicto": "area",
+   "ventaja": -0.014158,
+   "margen": 0.062,
+   "ms": 648.8,
+   "comparador": "rollout",
+   "n_base": 17,
+   "puntos_control": [
+    13749,
+    13750,
+    13761,
+    13772
+   ],
+   "destino": [
+    25,
+    24
+   ],
+   "fase": 6,
+   "r1": 3,
+   "dentro_futuro": true,
+   "a_salvo": true,
+   "contra": [
+    [
+     "F-4-ALCANCE",
+     0.01416,
+     0.5,
+     0.4938
+    ],
+    [
+     "S-8-EXPOSICION",
+     0.00051,
+     0.3,
+     0.3
+    ],
+    [
+     "R-CARENCIA",
+     0.00022,
+     0.25,
+     0.25
+    ],
+    [
+     "S-DANO-PAREJA",
+     0.00016,
+     0.16,
+     0.16
+    ],
+    [
+     "R-ACOPIO",
+     0.00013,
+     0.18,
+     0.18
+    ],
+    [
+     "R-LLAMADA",
+     0.00013,
+     0.24,
+     0.24
+    ]
+   ],
+   "curva": [
+    {
+     "tic": 13749,
+     "d": 3.2463,
+     "vida": 100.0
+    },
+    {
+     "tic": 13750,
+     "d": 3.2463,
+     "vida": 100.0
+    },
+    {
+     "tic": 13761,
+     "d": 3.2463,
+     "vida": 100.0
+    },
+    {
+     "tic": 13772,
+     "d": 3.2463,
+     "vida": 100.0
+    }
+   ]
+  },
+  {
+   "id": "P623_t2_A7h_21308206_11_13760",
+   "modelo": "haiku",
+   "etiqueta": "bucle3",
+   "snap_clave": "0",
+   "retraso": null,
+   "snap": "P6_30/_P6_25_snaps/P623_t2_A7h_21308206_11_13760.pkl.gz",
+   "tick_juicio": 13760,
+   "veredicto": "area",
+   "ventaja": -0.10422,
+   "margen": 0.062,
+   "ms": 784.9,
+   "comparador": "rollout",
+   "n_base": 13,
+   "puntos_control": [
+    13761,
+    13794,
+    13794,
+    13844
+   ],
+   "destino": [
+    24,
+    23
+   ],
+   "fase": 6,
+   "r1": 3,
+   "dentro_futuro": true,
+   "a_salvo": true,
+   "contra": [
+    [
+     "F-ANTICIPACION",
+     0.28013,
+     0.3333,
+     0.0
+    ],
+    [
+     "F-4-ALCANCE",
+     0.02256,
+     0.4845,
+     0.49
+    ],
+    [
+     "F-DANO",
+     0.0147,
+     0.0067,
+     0.0
+    ],
+    [
+     "R-CARENCIA",
+     0.00095,
+     0.25,
+     0.25
+    ],
+    [
+     "R-ACOPIO",
+     0.00076,
+     0.18,
+     0.18
+    ],
+    [
+     "S-DANO-PAREJA",
+     -0.00217,
+     0.16,
+     0.16
+    ],
+    [
+     "S-8-EXPOSICION",
+     -0.19845,
+     0.0,
+     0.3
+    ]
+   ],
+   "curva": [
+    {
+     "tic": 13761,
+     "d": 3.28995,
+     "vida": 99.33
+    },
+    {
+     "tic": 13794,
+     "d": 3.22127,
+     "vida": 99.33
+    },
+    {
+     "tic": 13794,
+     "d": 3.22127,
+     "vida": 99.33
+    },
+    {
+     "tic": 13844,
+     "d": 3.22127,
+     "vida": 99.33
+    }
+   ]
+  },
+  {
+   "id": "P623_t2_A7h_21308206_11_13760",
+   "modelo": "sonnet",
+   "etiqueta": "bucle3",
+   "snap_clave": "0",
+   "retraso": null,
+   "snap": "P6_30/_P6_25_snaps/P623_t2_A7h_21308206_11_13760.pkl.gz",
+   "tick_juicio": 13760,
+   "veredicto": "area",
+   "ventaja": -0.011551,
+   "margen": 0.062,
+   "ms": 706.6,
+   "comparador": "rollout",
+   "n_base": 13,
+   "puntos_control": [
+    13771,
+    13782,
+    13832
+   ],
+   "destino": [
+    26,
+    25
+   ],
+   "fase": 6,
+   "r1": 3,
+   "dentro_futuro": true,
+   "a_salvo": true,
+   "contra": [
+    [
+     "F-4-ALCANCE",
+     0.01155,
+     0.4927,
+     0.49
+    ],
+    [
+     "S-8-EXPOSICION",
+     0.00043,
+     0.3,
+     0.3
+    ],
+    [
+     "R-CARENCIA",
+     0.00018,
+     0.25,
+     0.25
+    ],
+    [
+     "S-DANO-PAREJA",
+     0.00014,
+     0.16,
+     0.16
+    ],
+    [
+     "R-ACOPIO",
+     0.00011,
+     0.18,
+     0.18
+    ],
+    [
+     "R-LLAMADA",
+     0.0001,
+     0.24,
+     0.24
+    ]
+   ],
+   "curva": [
+    {
+     "tic": 13771,
+     "d": 3.20932,
+     "vida": 100.0
+    },
+    {
+     "tic": 13782,
+     "d": 3.21555,
+     "vida": 100.0
+    },
+    {
+     "tic": 13832,
+     "d": 3.21555,
+     "vida": 100.0
+    }
+   ]
+  },
+  {
+   "id": "P623_t2_A7h_21412935_11_13692",
+   "modelo": "haiku",
+   "etiqueta": "bucle3",
+   "snap_clave": "0",
+   "retraso": null,
+   "snap": "P6_30/_P6_25_snaps/P623_t2_A7h_21412935_11_13692.pkl.gz",
+   "tick_juicio": 13692,
+   "veredicto": "area",
+   "ventaja": -0.065133,
+   "margen": 0.062,
+   "ms": 629.4,
+   "comparador": "rollout",
+   "n_base": 18,
+   "puntos_control": [
+    13725,
+    13775,
+    13809
+   ],
+   "destino": [
+    24,
+    23
+   ],
+   "fase": 6,
+   "r1": 3,
+   "dentro_futuro": true,
+   "a_salvo": true,
+   "contra": [
+    [
+     "S-8-EXPOSICION",
+     0.0527,
+     0.21,
+     0.15
+    ],
+    [
+     "F-4-ALCANCE",
+     0.01631,
+     0.4938,
+     0.4813
+    ],
+    [
+     "S-SOLEDAD",
+     0.00474,
+     0.5,
+     0.5
+    ],
+    [
+     "S-MUERTE-PAREJA",
+     0.00247,
+     0.3214,
+     0.3214
+    ],
+    [
+     "R-CARENCIA",
+     0.00109,
+     0.3083,
+     0.3083
+    ],
+    [
+     "R-LLAMADA",
+     0.00081,
+     0.24,
+     0.24
+    ],
+    [
+     "R-ACOPIO",
+     0.00047,
+     0.18,
+     0.18
+    ]
+   ],
+   "curva": [
+    {
+     "tic": 13725,
+     "d": 3.62397,
+     "vida": 100.0
+    },
+    {
+     "tic": 13775,
+     "d": 3.62372,
+     "vida": 100.0
+    },
+    {
+     "tic": 13809,
+     "d": 3.62355,
+     "vida": 100.0
+    }
+   ]
+  },
+  {
+   "id": "P623_t2_A7h_21412935_11_13692",
+   "modelo": "sonnet",
+   "etiqueta": "bucle3",
+   "snap_clave": "0",
+   "retraso": null,
+   "snap": "P6_30/_P6_25_snaps/P623_t2_A7h_21412935_11_13692.pkl.gz",
+   "tick_juicio": 13692,
+   "veredicto": "area",
+   "ventaja": -1.681526,
+   "margen": 0.062,
+   "ms": 659.5,
+   "comparador": "rollout",
+   "n_base": 18,
+   "puntos_control": [
+    13758,
+    13759,
+    13781,
+    13831
+   ],
+   "destino": [
+    24,
+    26
+   ],
+   "fase": 6,
+   "r1": 3,
+   "dentro_futuro": true,
+   "a_salvo": true,
+   "contra": [
+    [
+     "F-REENCUENTRO",
+     1.53941,
+     1.2906,
+     0.0
+    ],
+    [
+     "S-8-EXPOSICION",
+     0.15313,
+     0.3,
+     0.15
+    ],
+    [
+     "F-4-ALCANCE",
+     0.12102,
+     0.5,
+     0.4813
+    ],
+    [
+     "S-SOLEDAD",
+     0.04613,
+     0.5,
+     0.5
+    ],
+    [
+     "S-MUERTE-PAREJA",
+     0.02899,
+     0.3212,
+     0.3212
+    ],
+    [
+     "R-CARENCIA",
+     0.02194,
+     0.3083,
+     0.3083
+    ],
+    [
+     "R-LLAMADA",
+     0.01178,
+     0.24,
+     0.24
+    ],
+    [
+     "R-ACOPIO",
+     0.01085,
+     0.18,
+     0.18
+    ]
+   ],
+   "curva": [
+    {
+     "tic": 13758,
+     "d": 4.94982,
+     "vida": 100.0
+    },
+    {
+     "tic": 13759,
+     "d": 4.94982,
+     "vida": 100.0
+    },
+    {
+     "tic": 13781,
+     "d": 4.89808,
+     "vida": 100.0
+    },
+    {
+     "tic": 13831,
+     "d": 4.89781,
+     "vida": 100.0
+    }
+   ]
+  },
+  {
+   "id": "P623_t2_A7h_21412935_11_13791",
+   "modelo": "haiku",
+   "etiqueta": "bucle3",
+   "snap_clave": "0",
+   "retraso": null,
+   "snap": "P6_30/_P6_25_snaps/P623_t2_A7h_21412935_11_13791.pkl.gz",
+   "tick_juicio": 13791,
+   "veredicto": "area",
+   "ventaja": -1.390188,
+   "margen": 0.062,
+   "ms": 838.8,
+   "comparador": "rollout",
+   "n_base": 16,
+   "puntos_control": [
+    13824,
+    13874,
+    13974,
+    14074
+   ],
+   "destino": [
+    24,
+    24
+   ],
+   "fase": 6,
+   "r1": 3,
+   "dentro_futuro": true,
+   "a_salvo": true,
+   "contra": [
+    [
+     "F-REENCUENTRO",
+     1.30858,
+     1.2906,
+     0.0
+    ],
+    [
+     "S-8-EXPOSICION",
+     0.09634,
+     0.27,
+     0.18
+    ],
+    [
+     "F-4-ALCANCE",
+     0.09464,
+     0.5,
+     0.4875
+    ],
+    [
+     "S-SOLEDAD",
+     0.03638,
+     0.5,
+     0.5
+    ],
+    [
+     "S-MUERTE-PAREJA",
+     0.02314,
+     0.3207,
+     0.3207
+    ],
+    [
+     "R-CARENCIA",
+     0.01803,
+     0.3083,
+     0.3083
+    ],
+    [
+     "R-LLAMADA",
+     0.00954,
+     0.24,
+     0.24
+    ],
+    [
+     "R-ACOPIO",
+     0.00896,
+     0.18,
+     0.18
+    ]
+   ],
+   "curva": [
+    {
+     "tic": 13824,
+     "d": 4.92362,
+     "vida": 100.0
+    },
+    {
+     "tic": 13874,
+     "d": 4.92335,
+     "vida": 100.0
+    },
+    {
+     "tic": 13974,
+     "d": 4.92282,
+     "vida": 100.0
+    },
+    {
+     "tic": 14074,
+     "d": 4.92232,
+     "vida": 100.0
+    }
+   ]
+  },
+  {
+   "id": "P623_t2_A7h_21412935_11_13791",
+   "modelo": "sonnet",
+   "etiqueta": "bucle3",
+   "snap_clave": "0",
+   "retraso": null,
+   "snap": "P6_30/_P6_25_snaps/P623_t2_A7h_21412935_11_13791.pkl.gz",
+   "tick_juicio": 13791,
+   "veredicto": "area",
+   "ventaja": -1.570911,
+   "margen": 0.062,
+   "ms": 699.6,
+   "comparador": "rollout",
+   "n_base": 16,
+   "puntos_control": [
+    13824,
+    13874,
+    13924,
+    13974
+   ],
+   "destino": [
+    24,
+    24
+   ],
+   "fase": 6,
+   "r1": 3,
+   "dentro_futuro": true,
+   "a_salvo": true,
+   "contra": [
+    [
+     "F-REENCUENTRO",
+     1.4814,
+     1.2906,
+     0.0
+    ],
+    [
+     "S-8-EXPOSICION",
+     0.10673,
+     0.27,
+     0.18
+    ],
+    [
+     "F-4-ALCANCE",
+     0.10642,
+     0.5,
+     0.4875
+    ],
+    [
+     "S-SOLEDAD",
+     0.04098,
+     0.5,
+     0.5
+    ],
+    [
+     "S-MUERTE-PAREJA",
+     0.02608,
+     0.3207,
+     0.3207
+    ],
+    [
+     "R-CARENCIA",
+     0.02037,
+     0.3083,
+     0.3083
+    ],
+    [
+     "R-LLAMADA",
+     0.01076,
+     0.24,
+     0.24
+    ],
+    [
+     "R-ACOPIO",
+     0.01012,
+     0.18,
+     0.18
+    ]
+   ],
+   "curva": [
+    {
+     "tic": 13824,
+     "d": 4.92362,
+     "vida": 100.0
+    },
+    {
+     "tic": 13874,
+     "d": 4.92335,
+     "vida": 100.0
+    },
+    {
+     "tic": 13924,
+     "d": 4.92308,
+     "vida": 100.0
+    },
+    {
+     "tic": 13974,
+     "d": 4.92282,
+     "vida": 100.0
+    }
+   ]
+  },
+  {
+   "id": "P623_t2_A7h_21412935_11_13835",
+   "modelo": "haiku",
+   "etiqueta": "bucle3",
+   "snap_clave": "0",
+   "retraso": null,
+   "snap": "P6_30/_P6_25_snaps/P623_t2_A7h_21412935_11_13835.pkl.gz",
+   "tick_juicio": 13835,
+   "veredicto": "area",
+   "ventaja": -1.111907,
+   "margen": 0.062,
+   "ms": 514.7,
+   "comparador": "rollout",
+   "n_base": 17,
+   "puntos_control": [
+    13836,
+    13847,
+    13858,
+    13869
+   ],
+   "destino": [
+    23,
+    22
+   ],
+   "fase": 6,
+   "r1": 3,
+   "dentro_futuro": true,
+   "a_salvo": true,
+   "contra": [
+    [
+     "F-REENCUENTRO",
+     0.78911,
+     0.0,
+     0.0
+    ],
+    [
+     "F-ANTICIPACION",
+     0.29948,
+     0.3333,
+     0.0
+    ],
+    [
+     "F-4-ALCANCE",
+     0.09017,
+     0.4806,
+     0.4813
+    ],
+    [
+     "F-DANO",
+     0.03734,
+     0.1467,
+     0.14
+    ],
+    [
+     "S-SOLEDAD",
+     0.02541,
+     0.5,
+     0.5
+    ],
+    [
+     "S-MUERTE-PAREJA",
+     0.01708,
+     0.3206,
+     0.3206
+    ],
+    [
+     "R-CARENCIA",
+     0.01463,
+     0.3083,
+     0.3083
+    ],
+    [
+     "R-ACOPIO",
+     0.00733,
+     0.18,
+     0.18
+    ]
+   ],
+   "curva": [
+    {
+     "tic": 13836,
+     "d": 3.88593,
+     "vida": 85.33
+    },
+    {
+     "tic": 13847,
+     "d": 3.72265,
+     "vida": 85.33
+    },
+    {
+     "tic": 13858,
+     "d": 3.75514,
+     "vida": 85.33
+    },
+    {
+     "tic": 13869,
+     "d": 5.04846,
+     "vida": 85.33
+    }
+   ]
+  },
+  {
+   "id": "P623_t2_A7h_21412935_11_13835",
+   "modelo": "sonnet",
+   "etiqueta": "bucle3",
+   "snap_clave": "0",
+   "retraso": null,
+   "snap": "P6_30/_P6_25_snaps/P623_t2_A7h_21412935_11_13835.pkl.gz",
+   "tick_juicio": 13835,
+   "veredicto": "area",
+   "ventaja": -1.339638,
+   "margen": 0.062,
+   "ms": 617.3,
+   "comparador": "rollout",
+   "n_base": 17,
+   "puntos_control": [
+    13846,
+    13857,
+    13868,
+    13918
+   ],
+   "destino": [
+    23,
+    22
+   ],
+   "fase": 6,
+   "r1": 3,
+   "dentro_futuro": true,
+   "a_salvo": true,
+   "contra": [
+    [
+     "F-REENCUENTRO",
+     1.19941,
+     0.0,
+     0.0
+    ],
+    [
+     "S-8-EXPOSICION",
+     0.13799,
+     0.1763,
+     0.15
+    ],
+    [
+     "F-4-ALCANCE",
+     0.10198,
+     0.4867,
+     0.4813
+    ],
+    [
+     "S-SOLEDAD",
+     0.03685,
+     0.5,
+     0.5
+    ],
+    [
+     "S-MUERTE-PAREJA",
+     0.02271,
+     0.3206,
+     0.3206
+    ],
+    [
+     "F-DANO",
+     0.01919,
+     0.14,
+     0.14
+    ],
+    [
+     "R-CARENCIA",
+     0.01681,
+     0.3083,
+     0.3083
+    ],
+    [
+     "R-LLAMADA",
+     0.00991,
+     0.24,
+     0.24
+    ]
+   ],
+   "curva": [
+    {
+     "tic": 13846,
+     "d": 3.71663,
+     "vida": 86.0
+    },
+    {
+     "tic": 13857,
+     "d": 3.74909,
+     "vida": 86.0
+    },
+    {
+     "tic": 13868,
+     "d": 5.04157,
+     "vida": 86.0
+    },
+    {
+     "tic": 13918,
+     "d": 5.04131,
+     "vida": 86.0
+    }
+   ]
+  },
+  {
+   "id": "P623_t2_A7h_21517664_11_12273",
+   "modelo": "haiku",
+   "etiqueta": "bucle3",
+   "snap_clave": "0",
+   "retraso": null,
+   "snap": "P6_30/_P6_25_snaps/P623_t2_A7h_21517664_11_12273.pkl.gz",
+   "tick_juicio": 12273,
+   "veredicto": "vida",
+   "ventaja": -0.072459,
+   "margen": 0.062,
+   "ms": 903.6,
+   "comparador": "rollout",
+   "n_base": 22,
+   "puntos_control": [
+    12306,
+    12306,
+    12306,
+    12350
+   ],
+   "destino": [
+    32,
+    26
+   ],
+   "fase": 5,
+   "r1": 5,
+   "dentro_futuro": false,
+   "a_salvo": false,
+   "contra": [
+    [
+     "S-8-EXPOSICION",
+     0.12705,
+     0.1554,
+     0.1103
+    ],
+    [
+     "F-4-ALCANCE",
+     0.02343,
+     0.4788,
+     0.473
+    ],
+    [
+     "F-DANO",
+     0.0102,
+     1.4,
+     1.4
+    ],
+    [
+     "S-DANO-PAREJA",
+     0.00821,
+     0.63,
+     0.63
+    ],
+    [
+     "R-CARENCIA",
+     0.00139,
+     0.5,
+     0.5
+    ],
+    [
+     "S-HERIDO",
+     0.00128,
+     0.1035,
+     0.1035
+    ],
+    [
+     "R-LLAMADA",
+     -0.01636,
+     0.1191,
+     0.12
+    ],
+    [
+     "F-ANTICIPACION",
+     -0.05771,
+     0.1667,
+     0.1667
+    ]
+   ],
+   "curva": [
+    {
+     "tic": 12306,
+     "d": 5.13578,
+     "vida": 0.0
+    },
+    {
+     "tic": 12306,
+     "d": 5.13578,
+     "vida": 0.0
+    },
+    {
+     "tic": 12306,
+     "d": 5.13578,
+     "vida": 0.0
+    },
+    {
+     "tic": 12350,
+     "d": 5.05588,
+     "vida": 0.0
+    }
+   ]
+  },
+  {
+   "id": "P623_t2_A7h_21622393_10_13731",
+   "modelo": "haiku",
+   "etiqueta": "bucle3",
+   "snap_clave": "0",
+   "retraso": null,
+   "snap": "P6_30/_P6_25_snaps/P623_t2_A7h_21622393_10_13731.pkl.gz",
+   "tick_juicio": 13731,
+   "veredicto": "area",
+   "ventaja": -0.005167,
+   "margen": 0.062,
+   "ms": 646.8,
+   "comparador": "rollout",
+   "n_base": 17,
+   "puntos_control": [
+    13764,
+    13809
+   ],
+   "destino": [
+    24,
+    25
+   ],
+   "fase": 6,
+   "r1": 3,
+   "dentro_futuro": true,
+   "a_salvo": true,
+   "contra": [
+    [
+     "F-4-ALCANCE",
+     0.00517,
+     0.5,
+     0.4938
+    ],
+    [
+     "S-8-EXPOSICION",
+     0.0002,
+     0.3,
+     0.3
+    ],
+    [
+     "R-CARENCIA",
+     0.0001,
+     0.2963,
+     0.2963
+    ]
+   ],
+   "curva": [
+    {
+     "tic": 13764,
+     "d": 3.03304,
+     "vida": 100.0
+    },
+    {
+     "tic": 13809,
+     "d": 3.12944,
+     "vida": 100.0
+    }
+   ]
+  },
+  {
+   "id": "P623_t2_A7h_21622393_10_13731",
+   "modelo": "sonnet",
+   "etiqueta": "bucle3",
+   "snap_clave": "0",
+   "retraso": null,
+   "snap": "P6_30/_P6_25_snaps/P623_t2_A7h_21622393_10_13731.pkl.gz",
+   "tick_juicio": 13731,
+   "veredicto": "area",
+   "ventaja": -0.058268,
+   "margen": 0.062,
+   "ms": 572.1,
+   "comparador": "rollout",
+   "n_base": 17,
+   "puntos_control": [
+    13731,
+    13753,
+    13796
+   ],
+   "destino": [
+    27,
+    23
+   ],
+   "fase": 6,
+   "r1": 3,
+   "dentro_futuro": false,
+   "a_salvo": false,
+   "contra": [
+    [
+     "S-DANO-PAREJA",
+     0.05225,
+     0.07,
+     0.07
+    ],
+    [
+     "F-4-ALCANCE",
+     0.00904,
+     0.4938,
+     0.4938
+    ],
+    [
+     "S-8-EXPOSICION",
+     0.00327,
+     0.3,
+     0.3
+    ],
+    [
+     "R-CARENCIA",
+     0.00182,
+     0.2963,
+     0.2963
+    ],
+    [
+     "R-LLAMADA",
+     0.00096,
+     0.24,
+     0.24
+    ]
+   ],
+   "curva": [
+    {
+     "tic": 13731,
+     "d": 3.31742,
+     "vida": 100.0
+    },
+    {
+     "tic": 13753,
+     "d": 3.07872,
+     "vida": 100.0
+    },
+    {
+     "tic": 13796,
+     "d": 3.07872,
+     "vida": 100.0
+    }
+   ]
+  },
+  {
+   "id": "P623_t2_A7h_21622393_11_13707",
+   "modelo": "haiku",
+   "etiqueta": "bucle3",
+   "snap_clave": "0",
+   "retraso": null,
+   "snap": "P6_30/_P6_25_snaps/P623_t2_A7h_21622393_11_13707.pkl.gz",
+   "tick_juicio": 13707,
+   "veredicto": "area",
+   "ventaja": -0.280883,
+   "margen": 0.062,
+   "ms": 669.4,
+   "comparador": "rollout",
+   "n_base": 18,
+   "puntos_control": [
+    13708,
+    13741,
+    13791
+   ],
+   "destino": [
+    24,
+    24
+   ],
+   "fase": 6,
+   "r1": 3,
+   "dentro_futuro": true,
+   "a_salvo": true,
+   "contra": [
+    [
+     "F-ANTICIPACION",
+     0.27581,
+     0.3165,
+     0.0
+    ],
+    [
+     "F-4-ALCANCE",
+     0.03034,
+     0.4938,
+     0.4938
+    ],
+    [
+     "S-8-EXPOSICION",
+     0.00916,
+     0.3,
+     0.3
+    ],
+    [
+     "F-DANO",
+     0.00641,
+     0.14,
+     0.14
+    ],
+    [
+     "R-CARENCIA",
+     0.00391,
+     0.25,
+     0.25
+    ],
+    [
+     "R-LLAMADA",
+     0.00389,
+     0.24,
+     0.24
+    ]
+   ],
+   "curva": [
+    {
+     "tic": 13708,
+     "d": 3.34148,
+     "vida": 86.0
+    },
+    {
+     "tic": 13741,
+     "d": 3.0672,
+     "vida": 86.0
+    },
+    {
+     "tic": 13791,
+     "d": 3.21026,
+     "vida": 86.0
+    }
+   ]
+  },
+  {
+   "id": "P623_t2_A7h_21622393_11_13707",
+   "modelo": "sonnet",
+   "etiqueta": "bucle3",
+   "snap_clave": "0",
+   "retraso": null,
+   "snap": "P6_30/_P6_25_snaps/P623_t2_A7h_21622393_11_13707.pkl.gz",
+   "tick_juicio": 13707,
+   "veredicto": "area",
+   "ventaja": -0.005297,
+   "margen": 0.062,
+   "ms": 606.2,
+   "comparador": "rollout",
+   "n_base": 18,
+   "puntos_control": [
+    13718,
+    13768
+   ],
+   "destino": [
+    26,
+    24
+   ],
+   "fase": 6,
+   "r1": 3,
+   "dentro_futuro": true,
+   "a_salvo": true,
+   "contra": [
+    [
+     "F-4-ALCANCE",
+     0.0053,
+     0.4985,
+     0.4938
+    ],
+    [
+     "S-8-EXPOSICION",
+     0.00019,
+     0.3,
+     0.3
+    ],
+    [
+     "F-DANO",
+     0.00014,
+     0.14,
+     0.14
+    ]
+   ],
+   "curva": [
+    {
+     "tic": 13718,
+     "d": 3.06593,
+     "vida": 86.0
+    },
+    {
+     "tic": 13768,
+     "d": 3.06593,
+     "vida": 86.0
+    }
+   ]
+  },
+  {
+   "id": "P623_t2_A7h_21622393_11_13851",
+   "modelo": "haiku",
+   "etiqueta": "bucle3",
+   "snap_clave": "0",
+   "retraso": null,
+   "snap": "P6_30/_P6_25_snaps/P623_t2_A7h_21622393_11_13851.pkl.gz",
+   "tick_juicio": 13851,
+   "veredicto": "area",
+   "ventaja": -0.0043,
+   "margen": 0.062,
+   "ms": 828.2,
+   "comparador": "rollout",
+   "n_base": 17,
+   "puntos_control": [
+    13884,
+    13934,
+    13984,
+    14034
+   ],
+   "destino": [
+    24,
+    24
+   ],
+   "fase": 6,
+   "r1": 3,
+   "dentro_futuro": true,
+   "a_salvo": true,
+   "contra": [
+    [
+     "F-4-ALCANCE",
+     0.0043,
+     0.5,
+     0.4938
+    ],
+    [
+     "F-DANO",
+     0.00023,
+     0.4,
+     0.4
+    ],
+    [
+     "S-8-EXPOSICION",
+     0.00013,
+     0.3,
+     0.3
+    ]
+   ],
+   "curva": [
+    {
+     "tic": 13884,
+     "d": 3.38635,
+     "vida": 60.0
+    },
+    {
+     "tic": 13934,
+     "d": 3.55812,
+     "vida": 100.0
+    },
+    {
+     "tic": 13984,
+     "d": 3.55812,
+     "vida": 100.0
+    },
+    {
+     "tic": 14034,
+     "d": 3.55812,
+     "vida": 100.0
+    }
+   ]
+  },
+  {
+   "id": "P623_t2_A7h_21622393_11_13851",
+   "modelo": "sonnet",
+   "etiqueta": "bucle3",
+   "snap_clave": "0",
+   "retraso": null,
+   "snap": "P6_30/_P6_25_snaps/P623_t2_A7h_21622393_11_13851.pkl.gz",
+   "tick_juicio": 13851,
+   "veredicto": "area",
+   "ventaja": -0.0043,
+   "margen": 0.062,
+   "ms": 1005.6,
+   "comparador": "rollout",
+   "n_base": 17,
+   "puntos_control": [
+    13884,
+    13934,
+    13984,
+    14034
+   ],
+   "destino": [
+    24,
+    24
+   ],
+   "fase": 6,
+   "r1": 3,
+   "dentro_futuro": true,
+   "a_salvo": true,
+   "contra": [
+    [
+     "F-4-ALCANCE",
+     0.0043,
+     0.5,
+     0.4938
+    ],
+    [
+     "F-DANO",
+     0.00023,
+     0.4,
+     0.4
+    ],
+    [
+     "S-8-EXPOSICION",
+     0.00013,
+     0.3,
+     0.3
+    ]
+   ],
+   "curva": [
+    {
+     "tic": 13884,
+     "d": 3.38635,
+     "vida": 60.0
+    },
+    {
+     "tic": 13934,
+     "d": 3.55812,
+     "vida": 100.0
+    },
+    {
+     "tic": 13984,
+     "d": 3.55812,
+     "vida": 100.0
+    },
+    {
+     "tic": 14034,
+     "d": 3.55812,
+     "vida": 100.0
+    }
+   ]
+  },
+  {
+   "id": "P623_t2_A7h_21727122_10_12441",
+   "modelo": "haiku",
+   "etiqueta": "bucle3",
+   "snap_clave": "0",
+   "retraso": null,
+   "snap": "P6_30/_P6_25_snaps/P623_t2_A7h_21727122_10_12441.pkl.gz",
+   "tick_juicio": 12441,
+   "veredicto": "area",
+   "ventaja": -0.056737,
+   "margen": 0.062,
+   "ms": 577.2,
+   "comparador": "rollout",
+   "n_base": 15,
+   "puntos_control": [
+    12496,
+    12546
+   ],
+   "destino": [
+    24,
+    21
+   ],
+   "fase": 5,
+   "r1": 5,
+   "dentro_futuro": true,
+   "a_salvo": true,
+   "contra": [
+    [
+     "S-8-EXPOSICION",
+     0.06458,
+     0.1918,
+     0.0581
+    ],
+    [
+     "F-4-ALCANCE",
+     0.02199,
+     0.49,
+     0.4621
+    ],
+    [
+     "R-CARENCIA",
+     0.00486,
+     0.6833,
+     0.6833
+    ],
+    [
+     "S-DANO-PAREJA",
+     0.0012,
+     0.05,
+     0.05
+    ],
+    [
+     "R-ACOPIO",
+     0.00097,
+     0.18,
+     0.18
+    ],
+    [
+     "F-DANO",
+     0.00052,
+     0.04,
+     0.04
+    ],
+    [
+     "R-LLAMADA",
+     -0.02365,
+     0.24,
+     0.1849
+    ]
+   ],
+   "curva": [
+    {
+     "tic": 12496,
+     "d": 3.4881,
+     "vida": 96.0
+    },
+    {
+     "tic": 12546,
+     "d": 3.56917,
+     "vida": 96.0
+    }
+   ]
+  },
+  {
+   "id": "P623_t2_A7h_21727122_10_12681",
+   "modelo": "haiku",
+   "etiqueta": "bucle3",
+   "snap_clave": "0",
+   "retraso": null,
+   "snap": "P6_30/_P6_25_snaps/P623_t2_A7h_21727122_10_12681.pkl.gz",
+   "tick_juicio": 12681,
+   "veredicto": "area",
+   "ventaja": -0.104765,
+   "margen": 0.062,
+   "ms": 473.9,
+   "comparador": "rollout",
+   "n_base": 17,
+   "puntos_control": [
+    12714,
+    12714,
+    12714,
+    12764
+   ],
+   "destino": [
+    24,
+    22
+   ],
+   "fase": 5,
+   "r1": 5,
+   "dentro_futuro": true,
+   "a_salvo": true,
+   "contra": [
+    [
+     "F-REENCUENTRO",
+     0.22207,
+     0.11,
+     0.0
+    ],
+    [
+     "F-4-ALCANCE",
+     0.02174,
+     0.5,
+     0.4938
+    ],
+    [
+     "R-CARENCIA",
+     0.00512,
+     0.6833,
+     0.6833
+    ],
+    [
+     "S-8-EXPOSICION",
+     0.00442,
+     0.3,
+     0.3
+    ],
+    [
+     "S-DANO-PAREJA",
+     0.00158,
+     0.16,
+     0.16
+    ],
+    [
+     "R-ACOPIO",
+     0.00109,
+     0.18,
+     0.18
+    ],
+    [
+     "R-LLAMADA",
+     -0.03291,
+     0.24,
+     0.2112
+    ],
+    [
+     "F-DANO",
+     -0.0888,
+     0.17,
+     0.2067
+    ]
+   ],
+   "curva": [
+    {
+     "tic": 12714,
+     "d": 3.86479,
+     "vida": 83.0
+    },
+    {
+     "tic": 12714,
+     "d": 3.86479,
+     "vida": 83.0
+    },
+    {
+     "tic": 12714,
+     "d": 3.86479,
+     "vida": 83.0
+    },
+    {
+     "tic": 12764,
+     "d": 3.87187,
+     "vida": 83.0
+    }
+   ]
+  },
+  {
+   "id": "P623_t2_A7h_21727122_10_13818",
+   "modelo": "haiku",
+   "etiqueta": "bucle3",
+   "snap_clave": "0",
+   "retraso": null,
+   "snap": "P6_30/_P6_25_snaps/P623_t2_A7h_21727122_10_13818.pkl.gz",
+   "tick_juicio": 13818,
+   "veredicto": "area",
+   "ventaja": -0.116341,
+   "margen": 0.062,
+   "ms": 1155.2,
+   "comparador": "rollout",
+   "n_base": 16,
+   "puntos_control": [
+    13851,
+    13901,
+    13951,
+    14051
+   ],
+   "destino": [
+    24,
+    24
+   ],
+   "fase": 6,
+   "r1": 3,
+   "dentro_futuro": true,
+   "a_salvo": true,
+   "contra": [
+    [
+     "F-REENCUENTRO",
+     0.11508,
+     0.11,
+     0.0
+    ],
+    [
+     "F-4-ALCANCE",
+     0.01042,
+     0.5,
+     0.4985
+    ],
+    [
+     "R-CARENCIA",
+     0.00409,
+     0.6833,
+     0.6833
+    ],
+    [
+     "F-DANO",
+     0.00391,
+     0.23,
+     0.23
+    ],
+    [
+     "S-8-EXPOSICION",
+     0.00331,
+     0.3,
+     0.3
+    ],
+    [
+     "R-ACOPIO",
+     0.00089,
+     0.18,
+     0.18
+    ],
+    [
+     "R-LLAMADA",
+     0.00072,
+     0.24,
+     0.24
+    ],
+    [
+     "S-DANO-PAREJA",
+     0.00023,
+     0.005,
+     0.005
+    ]
+   ],
+   "curva": [
+    {
+     "tic": 13851,
+     "d": 3.81137,
+     "vida": 77.0
+    },
+    {
+     "tic": 13901,
+     "d": 3.81137,
+     "vida": 77.0
+    },
+    {
+     "tic": 13951,
+     "d": 3.9272,
+     "vida": 77.0
+    },
+    {
+     "tic": 14051,
+     "d": 3.9272,
+     "vida": 77.0
+    }
+   ]
+  },
+  {
+   "id": "P623_t2_A7h_21727122_10_13818",
+   "modelo": "sonnet",
+   "etiqueta": "bucle3",
+   "snap_clave": "0",
+   "retraso": null,
+   "snap": "P6_30/_P6_25_snaps/P623_t2_A7h_21727122_10_13818.pkl.gz",
+   "tick_juicio": 13818,
+   "veredicto": "area",
+   "ventaja": -0.112341,
+   "margen": 0.062,
+   "ms": 616.4,
+   "comparador": "rollout",
+   "n_base": 16,
+   "puntos_control": [
+    13851,
+    13901,
+    13951
+   ],
+   "destino": [
+    24,
+    24
+   ],
+   "fase": 6,
+   "r1": 3,
+   "dentro_futuro": true,
+   "a_salvo": true,
+   "contra": [
+    [
+     "F-REENCUENTRO",
+     0.11108,
+     0.11,
+     0.0
+    ],
+    [
+     "F-4-ALCANCE",
+     0.01011,
+     0.5,
+     0.4985
+    ],
+    [
+     "R-CARENCIA",
+     0.00395,
+     0.6833,
+     0.6833
+    ],
+    [
+     "F-DANO",
+     0.00378,
+     0.23,
+     0.23
+    ],
+    [
+     "S-8-EXPOSICION",
+     0.0032,
+     0.3,
+     0.3
+    ],
+    [
+     "R-ACOPIO",
+     0.00086,
+     0.18,
+     0.18
+    ],
+    [
+     "R-LLAMADA",
+     0.0007,
+     0.24,
+     0.24
+    ],
+    [
+     "S-DANO-PAREJA",
+     0.00019,
+     0.005,
+     0.005
+    ]
+   ],
+   "curva": [
+    {
+     "tic": 13851,
+     "d": 3.81137,
+     "vida": 77.0
+    },
+    {
+     "tic": 13901,
+     "d": 3.81137,
+     "vida": 77.0
+    },
+    {
+     "tic": 13951,
+     "d": 3.9272,
+     "vida": 77.0
+    }
+   ]
+  },
+  {
+   "id": "P623_t2_A7h_21831851_10_13744",
+   "modelo": "haiku",
+   "etiqueta": "bucle3",
+   "snap_clave": "0",
+   "retraso": null,
+   "snap": "P6_30/_P6_25_snaps/P623_t2_A7h_21831851_10_13744.pkl.gz",
+   "tick_juicio": 13744,
+   "veredicto": "area",
+   "ventaja": -0.41016,
+   "margen": 0.062,
+   "ms": 698.9,
+   "comparador": "rollout",
+   "n_base": 13,
+   "puntos_control": [
+    13755,
+    13766,
+    13798
+   ],
+   "destino": [
+    27,
+    25
+   ],
+   "fase": 6,
+   "r1": 3,
+   "dentro_futuro": false,
+   "a_salvo": false,
+   "contra": [
+    [
+     "F-ANTICIPACION",
+     0.27064,
+     0.3333,
+     0.0
+    ],
+    [
+     "F-DANO",
+     0.15303,
+     0.3833,
+     0.31
+    ],
+    [
+     "F-4-ALCANCE",
+     0.02693,
+     0.4938,
+     0.4985
+    ],
+    [
+     "R-CARENCIA",
+     0.01508,
+     0.7944,
+     0.7944
+    ],
+    [
+     "S-8-EXPOSICION",
+     0.01023,
+     0.3,
+     0.3
+    ],
+    [
+     "R-ACOPIO",
+     0.0029,
+     0.18,
+     0.18
+    ],
+    [
+     "R-LLAMADA",
+     0.00245,
+     0.24,
+     0.24
+    ],
+    [
+     "F-HERMANO-AMENAZA",
+     0.00048,
+     0.01,
+     0.01
+    ]
+   ],
+   "curva": [
+    {
+     "tic": 13755,
+     "d": 4.27224,
+     "vida": 61.67
+    },
+    {
+     "tic": 13766,
+     "d": 3.96282,
+     "vida": 61.67
+    },
+    {
+     "tic": 13798,
+     "d": 3.96282,
+     "vida": 61.67
+    }
+   ]
+  },
+  {
+   "id": "P623_t2_A7h_21831851_10_13744",
+   "modelo": "sonnet",
+   "etiqueta": "bucle3",
+   "snap_clave": "0",
+   "retraso": null,
+   "snap": "P6_30/_P6_25_snaps/P623_t2_A7h_21831851_10_13744.pkl.gz",
+   "tick_juicio": 13744,
+   "veredicto": "area",
+   "ventaja": -0.003626,
+   "margen": 0.062,
+   "ms": 519.0,
+   "comparador": "rollout",
+   "n_base": 13,
+   "puntos_control": [
+    13755,
+    13766,
+    13766,
+    13816
+   ],
+   "destino": [
+    26,
+    25
+   ],
+   "fase": 6,
+   "r1": 3,
+   "dentro_futuro": true,
+   "a_salvo": true,
+   "contra": [
+    [
+     "F-4-ALCANCE",
+     0.00363,
+     0.5,
+     0.4985
+    ],
+    [
+     "F-DANO",
+     0.00016,
+     0.31,
+     0.31
+    ],
+    [
+     "R-CARENCIA",
+     0.00015,
+     0.7944,
+     0.7944
+    ]
+   ],
+   "curva": [
+    {
+     "tic": 13755,
+     "d": 3.89506,
+     "vida": 69.0
+    },
+    {
+     "tic": 13766,
+     "d": 3.89506,
+     "vida": 69.0
+    },
+    {
+     "tic": 13766,
+     "d": 3.89506,
+     "vida": 69.0
+    },
+    {
+     "tic": 13816,
+     "d": 3.89506,
+     "vida": 69.0
+    }
+   ]
+  },
+  {
+   "id": "P623_t2_A7h_21936580_10_12736",
+   "modelo": "sonnet",
+   "etiqueta": "bucle3",
+   "snap_clave": "0",
+   "retraso": null,
+   "snap": "P6_30/_P6_25_snaps/P623_t2_A7h_21936580_10_12736.pkl.gz",
+   "tick_juicio": 12736,
+   "veredicto": "area",
+   "ventaja": -1.594011,
+   "margen": 0.062,
+   "ms": 577.7,
+   "comparador": "rollout",
+   "n_base": 21,
+   "puntos_control": [
+    12736,
+    12747,
+    12747,
+    12769
+   ],
+   "destino": [
+    24,
+    15
+   ],
+   "fase": 5,
+   "r1": 5,
+   "dentro_futuro": false,
+   "a_salvo": false,
+   "contra": [
+    [
+     "S-HERIDO",
+     0.64207,
+     0.3,
+     0.045
+    ],
+    [
+     "S-DANO-PAREJA",
+     0.48262,
+     0.5,
+     0.5
+    ],
+    [
+     "R-HERMANO-FALTA",
+     0.42222,
+     0.125,
+     0.0
+    ],
+    [
+     "S-8-EXPOSICION",
+     0.12182,
+     0.0,
+     0.0
+    ],
+    [
+     "R-CARENCIA",
+     0.07603,
+     0.5833,
+     0.5833
+    ],
+    [
+     "F-4-ALCANCE",
+     0.06221,
+     0.4625,
+     0.4625
+    ],
+    [
+     "F-DANO",
+     0.04178,
+     0.33,
+     0.33
+    ],
+    [
+     "R-ACOPIO",
+     0.02067,
+     0.18,
+     0.18
+    ]
+   ],
+   "curva": [
+    {
+     "tic": 12736,
+     "d": 4.38206,
+     "vida": 67.0
+    },
+    {
+     "tic": 12747,
+     "d": 4.48489,
+     "vida": 63.33
+    },
+    {
+     "tic": 12747,
+     "d": 4.48489,
+     "vida": 63.33
+    },
+    {
+     "tic": 12769,
+     "d": 4.47972,
+     "vida": 56.0
+    }
+   ]
+  }
+ ]
+}

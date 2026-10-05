@@ -1,0 +1,6698 @@
+{
+ "nota": "[P6-27 · 2-4] LAS MEDIDAS DE A8 (humo y serie) DESDE LOS DIARIOS, ademas de `mide_P6_26.py` (llamadas, coste,",
+ "brazos": {
+  "A7h": {
+   "total": {
+    "vidas": 80,
+    "partidas": 40,
+    "llamadas": 0,
+    "usd": 0.0,
+    "usd_por_llamada": 0.0,
+    "llamadas_por_vida": 0,
+    "retraso_tics": {
+     "n": 0,
+     "mediana": null,
+     "p95": null
+    },
+    "propone": 0,
+    "intraducibles": 0,
+    "calla": 0,
+    "errores": 0,
+    "pasan_pregunta": 0,
+    "pasan_llegada": 0,
+    "llegan_donde_la_puerta_ya_rechaza": 0,
+    "aceptadas": 253,
+    "cumplidas_fin_fase": 0,
+    "e2_sustituidos": 0,
+    "planes_del_hermano_recibidos": 0,
+    "pareja": {
+     "partidas": 40,
+     "veces_los_dos_con_plan_vivo": 50,
+     "planes_del_hermano_recibidos": 0,
+     "planes_enviados": 0
+    },
+    "falsas_confianza": {
+     "planes_con_puntos": 245,
+     "planes_peor_algun_punto": 185,
+     "pct_planes_peor": 75.5,
+     "puntos": 477,
+     "puntos_peor": 305,
+     "pct_puntos_peor": 63.9
+    },
+    "falsas_malestar26": {
+     "tramos": 0,
+     "peor": 0
+    },
+    "pasos_perdidos_5_7": 26,
+    "pasos_perdidos_en_razonador": 0,
+    "pasos_perdidos_en_encargo_juicio": 16,
+    "pasos_perdidos_total": 44
+   },
+   "vidas": [
+    {
+     "tics": 14520,
+     "final": {
+      "reason": "match_over",
+      "placement": 2
+     },
+     "resumen26": null,
+     "entorno_razonador": null,
+     "encargos": 0,
+     "no_dispara": 0,
+     "llamadas": 0,
+     "usd": 0.0,
+     "propone": 0,
+     "intraducibles": 0,
+     "calla": 0,
+     "errores": [],
+     "retraso_tics": {
+      "n": 0,
+      "mediana": null,
+      "p95": null,
+      "max": null
+     },
+     "ms_llamada_mediana": null,
+     "escena_largo_mediana": null,
+     "pasan_pregunta": 0,
+     "pasan_llegada": 0,
+     "llegan_donde_la_puerta_ya_rechaza": 0,
+     "pares_pregunta_llegada": [],
+     "aceptadas": 2,
+     "evaluadas": {
+      "area": 4,
+      "ok": 2
+     },
+     "e2_dichos": 581,
+     "e2_sustituidos": 0,
+     "planes_del_hermano_recibidos": 0,
+     "mensajes_plan": [],
+     "malestar": [],
+     "cumplidas_fin_fase": 0,
+     "falsas_confianza": {
+      "planes_con_puntos": 2,
+      "puntos": 6,
+      "puntos_peor": 5,
+      "planes_peor_algun_punto": 2,
+      "planes_peor_primer_punto": 2,
+      "dif_mediana (d_real - d_proyectada)": 0.24083,
+      "dif_p90": 0.4573700000000005
+     },
+     "falsas_malestar26": {
+      "tramos": 0,
+      "peor": 0,
+      "dif_mediana (sentida - imaginada, vida)": null
+     },
+     "pasos_perdidos": [],
+     "pasos_perdidos_5_7": 0,
+     "pasos_perdidos_en_razonador": 0,
+     "pasos_perdidos_en_encargo_juicio": 0,
+     "planes_vivos": [
+      [
+       12566,
+       4
+      ],
+      [
+       14725,
+       6
+      ]
+     ],
+     "planes_cerrados": {
+      "4": 12641
+     },
+     "carp": "P623_t2_A7h_20260916",
+     "slot": 10
+    },
+    {
+     "tics": 14520,
+     "final": {
+      "reason": "winner",
+      "placement": 1
+     },
+     "resumen26": null,
+     "entorno_razonador": null,
+     "encargos": 0,
+     "no_dispara": 0,
+     "llamadas": 0,
+     "usd": 0.0,
+     "propone": 0,
+     "intraducibles": 0,
+     "calla": 0,
+     "errores": [],
+     "retraso_tics": {
+      "n": 0,
+      "mediana": null,
+      "p95": null,
+      "max": null
+     },
+     "ms_llamada_mediana": null,
+     "escena_largo_mediana": null,
+     "pasan_pregunta": 0,
+     "pasan_llegada": 0,
+     "llegan_donde_la_puerta_ya_rechaza": 0,
+     "pares_pregunta_llegada": [],
+     "aceptadas": 2,
+     "evaluadas": {
+      "ok": 2,
+      "area": 2
+     },
+     "e2_dichos": 581,
+     "e2_sustituidos": 0,
+     "planes_del_hermano_recibidos": 0,
+     "mensajes_plan": [],
+     "malestar": [],
+     "cumplidas_fin_fase": 0,
+     "falsas_confianza": {
+      "planes_con_puntos": 2,
+      "puntos": 2,
+      "puntos_peor": 2,
+      "planes_peor_algun_punto": 2,
+      "planes_peor_primer_punto": 2,
+      "dif_mediana (d_real - d_proyectada)": 0.19935,
+      "dif_p90": 0.32992
+     },
+     "falsas_malestar26": {
+      "tramos": 0,
+      "peor": 0,
+      "dif_mediana (sentida - imaginada, vida)": null
+     },
+     "pasos_perdidos": [],
+     "pasos_perdidos_5_7": 0,
+     "pasos_perdidos_en_razonador": 0,
+     "pasos_perdidos_en_encargo_juicio": 0,
+     "planes_vivos": [
+      [
+       12406,
+       1
+      ],
+      [
+       12569,
+       2
+      ]
+     ],
+     "planes_cerrados": {
+      "1": 12433,
+      "2": 12595
+     },
+     "carp": "P623_t2_A7h_20260916",
+     "slot": 11
+    },
+    {
+     "tics": 13632,
+     "final": {
+      "reason": "eliminated",
+      "placement": 3
+     },
+     "resumen26": null,
+     "entorno_razonador": null,
+     "encargos": 0,
+     "no_dispara": 0,
+     "llamadas": 0,
+     "usd": 0.0,
+     "propone": 0,
+     "intraducibles": 0,
+     "calla": 0,
+     "errores": [],
+     "retraso_tics": {
+      "n": 0,
+      "mediana": null,
+      "p95": null,
+      "max": null
+     },
+     "ms_llamada_mediana": null,
+     "escena_largo_mediana": null,
+     "pasan_pregunta": 0,
+     "pasan_llegada": 0,
+     "llegan_donde_la_puerta_ya_rechaza": 0,
+     "pares_pregunta_llegada": [],
+     "aceptadas": 5,
+     "evaluadas": {
+      "ok": 5,
+      "area": 6
+     },
+     "e2_dichos": 546,
+     "e2_sustituidos": 0,
+     "planes_del_hermano_recibidos": 0,
+     "mensajes_plan": [],
+     "malestar": [],
+     "cumplidas_fin_fase": 0,
+     "falsas_confianza": {
+      "planes_con_puntos": 4,
+      "puntos": 5,
+      "puntos_peor": 5,
+      "planes_peor_algun_punto": 4,
+      "planes_peor_primer_punto": 4,
+      "dif_mediana (d_real - d_proyectada)": 0.20102,
+      "dif_p90": 0.3046699999999998
+     },
+     "falsas_malestar26": {
+      "tramos": 0,
+      "peor": 0,
+      "dif_mediana (sentida - imaginada, vida)": null
+     },
+     "pasos_perdidos": [],
+     "pasos_perdidos_5_7": 0,
+     "pasos_perdidos_en_razonador": 0,
+     "pasos_perdidos_en_encargo_juicio": 0,
+     "planes_vivos": [
+      [
+       12994,
+       1
+      ],
+      [
+       13301,
+       2
+      ],
+      [
+       13929,
+       9
+      ],
+      [
+       13978,
+       10
+      ],
+      [
+       14032,
+       11
+      ]
+     ],
+     "planes_cerrados": {
+      "1": 13044,
+      "2": 13412,
+      "9": 13953,
+      "10": 14008,
+      "11": 14058
+     },
+     "carp": "P623_t2_A7h_20365645",
+     "slot": 10
+    },
+    {
+     "tics": 12432,
+     "final": {
+      "reason": "eliminated",
+      "placement": 5
+     },
+     "resumen26": null,
+     "entorno_razonador": null,
+     "encargos": 0,
+     "no_dispara": 0,
+     "llamadas": 0,
+     "usd": 0.0,
+     "propone": 0,
+     "intraducibles": 0,
+     "calla": 0,
+     "errores": [],
+     "retraso_tics": {
+      "n": 0,
+      "mediana": null,
+      "p95": null,
+      "max": null
+     },
+     "ms_llamada_mediana": null,
+     "escena_largo_mediana": null,
+     "pasan_pregunta": 0,
+     "pasan_llegada": 0,
+     "llegan_donde_la_puerta_ya_rechaza": 0,
+     "pares_pregunta_llegada": [],
+     "aceptadas": 2,
+     "evaluadas": {
+      "ok": 2,
+      "vida": 2
+     },
+     "e2_dichos": 498,
+     "e2_sustituidos": 0,
+     "planes_del_hermano_recibidos": 0,
+     "mensajes_plan": [],
+     "malestar": [],
+     "cumplidas_fin_fase": 0,
+     "falsas_confianza": {
+      "planes_con_puntos": 2,
+      "puntos": 2,
+      "puntos_peor": 2,
+      "planes_peor_algun_punto": 2,
+      "planes_peor_primer_punto": 2,
+      "dif_mediana (d_real - d_proyectada)": 0.05208,
+      "dif_p90": 0.05936999999999948
+     },
+     "falsas_malestar26": {
+      "tramos": 0,
+      "peor": 0,
+      "dif_mediana (sentida - imaginada, vida)": null
+     },
+     "pasos_perdidos": [
+      {
+       "tick": 11085,
+       "fase": "1-4",
+       "en_razonador": false,
+       "en_encargo_juicio": false,
+       "ms16": 43.241
+      },
+      {
+       "tick": 12068,
+       "fase": "5-7",
+       "en_razonador": false,
+       "en_encargo_juicio": false,
+       "ms16": 43.21
+      },
+      {
+       "tick": 12730,
+       "fase": "5-7",
+       "en_razonador": false,
+       "en_encargo_juicio": false,
+       "ms16": 53.659
+      },
+      {
+       "tick": 12753,
+       "fase": "5-7",
+       "en_razonador": false,
+       "en_encargo_juicio": false,
+       "ms16": 49.913
+      },
+      {
+       "tick": 12765,
+       "fase": "5-7",
+       "en_razonador": false,
+       "en_encargo_juicio": false,
+       "ms16": 44.089
+      },
+      {
+       "tick": 12777,
+       "fase": "5-7",
+       "en_razonador": false,
+       "en_encargo_juicio": false,
+       "ms16": 42.154
+      },
+      {
+       "tick": 12800,
+       "fase": "5-7",
+       "en_razonador": false,
+       "en_encargo_juicio": false,
+       "ms16": 53.666
+      },
+      {
+       "tick": 12823,
+       "fase": "5-7",
+       "en_razonador": false,
+       "en_encargo_juicio": false,
+       "ms16": 29.367
+      }
+     ],
+     "pasos_perdidos_5_7": 7,
+     "pasos_perdidos_en_razonador": 0,
+     "pasos_perdidos_en_encargo_juicio": 0,
+     "planes_vivos": [
+      [
+       12660,
+       1
+      ],
+      [
+       12798,
+       2
+      ]
+     ],
+     "planes_cerrados": {
+      "1": 12661,
+      "2": 12839
+     },
+     "carp": "P623_t2_A7h_20365645",
+     "slot": 11
+    },
+    {
+     "tics": 13763,
+     "final": {
+      "reason": "eliminated",
+      "placement": 8
+     },
+     "resumen26": null,
+     "entorno_razonador": null,
+     "encargos": 0,
+     "no_dispara": 0,
+     "llamadas": 0,
+     "usd": 0.0,
+     "propone": 0,
+     "intraducibles": 0,
+     "calla": 0,
+     "errores": [],
+     "retraso_tics": {
+      "n": 0,
+      "mediana": null,
+      "p95": null,
+      "max": null
+     },
+     "ms_llamada_mediana": null,
+     "escena_largo_mediana": null,
+     "pasan_pregunta": 0,
+     "pasan_llegada": 0,
+     "llegan_donde_la_puerta_ya_rechaza": 0,
+     "pares_pregunta_llegada": [],
+     "aceptadas": 3,
+     "evaluadas": {
+      "area": 7,
+      "ok": 3,
+      "vida": 1
+     },
+     "e2_dichos": 551,
+     "e2_sustituidos": 0,
+     "planes_del_hermano_recibidos": 0,
+     "mensajes_plan": [],
+     "malestar": [],
+     "cumplidas_fin_fase": 0,
+     "falsas_confianza": {
+      "planes_con_puntos": 3,
+      "puntos": 8,
+      "puntos_peor": 4,
+      "planes_peor_algun_punto": 2,
+      "planes_peor_primer_punto": 1,
+      "dif_mediana (d_real - d_proyectada)": 0.01017,
+      "dif_p90": 0.6059000000000001
+     },
+     "falsas_malestar26": {
+      "tramos": 0,
+      "peor": 0,
+      "dif_mediana (sentida - imaginada, vida)": null
+     },
+     "pasos_perdidos": [
+      {
+       "tick": 12760,
+       "fase": "5-7",
+       "en_razonador": false,
+       "en_encargo_juicio": true,
+       "ms16": 79.365
+      },
+      {
+       "tick": 12761,
+       "fase": "5-7",
+       "en_razonador": false,
+       "en_encargo_juicio": true,
+       "ms16": 8.836
+      },
+      {
+       "tick": 12861,
+       "fase": "5-7",
+       "en_razonador": false,
+       "en_encargo_juicio": true,
+       "ms16": 77.05
+      },
+      {
+       "tick": 13005,
+       "fase": "5-7",
+       "en_razonador": false,
+       "en_encargo_juicio": false,
+       "ms16": 40.56
+      },
+      {
+       "tick": 13634,
+       "fase": "5-7",
+       "en_razonador": false,
+       "en_encargo_juicio": true,
+       "ms16": 7.451
+      }
+     ],
+     "pasos_perdidos_5_7": 5,
+     "pasos_perdidos_en_razonador": 0,
+     "pasos_perdidos_en_encargo_juicio": 4,
+     "planes_vivos": [
+      [
+       12760,
+       3
+      ],
+      [
+       13633,
+       5
+      ],
+      [
+       13887,
+       6
+      ]
+     ],
+     "planes_cerrados": {
+      "3": 12917,
+      "5": 13837,
+      "6": 13933
+     },
+     "carp": "P623_t2_A7h_20470374",
+     "slot": 10
+    },
+    {
+     "tics": 13920,
+     "final": {
+      "reason": "eliminated",
+      "placement": 7
+     },
+     "resumen26": null,
+     "entorno_razonador": null,
+     "encargos": 0,
+     "no_dispara": 0,
+     "llamadas": 0,
+     "usd": 0.0,
+     "propone": 0,
+     "intraducibles": 0,
+     "calla": 0,
+     "errores": [],
+     "retraso_tics": {
+      "n": 0,
+      "mediana": null,
+      "p95": null,
+      "max": null
+     },
+     "ms_llamada_mediana": null,
+     "escena_largo_mediana": null,
+     "pasan_pregunta": 0,
+     "pasan_llegada": 0,
+     "llegan_donde_la_puerta_ya_rechaza": 0,
+     "pares_pregunta_llegada": [],
+     "aceptadas": 4,
+     "evaluadas": {
+      "area": 2,
+      "ok": 4
+     },
+     "e2_dichos": 557,
+     "e2_sustituidos": 0,
+     "planes_del_hermano_recibidos": 0,
+     "mensajes_plan": [],
+     "malestar": [],
+     "cumplidas_fin_fase": 0,
+     "falsas_confianza": {
+      "planes_con_puntos": 4,
+      "puntos": 9,
+      "puntos_peor": 4,
+      "planes_peor_algun_punto": 2,
+      "planes_peor_primer_punto": 2,
+      "dif_mediana (d_real - d_proyectada)": -0.00173,
+      "dif_p90": 0.9614799999999999
+     },
+     "falsas_malestar26": {
+      "tramos": 0,
+      "peor": 0,
+      "dif_mediana (sentida - imaginada, vida)": null
+     },
+     "pasos_perdidos": [],
+     "pasos_perdidos_5_7": 0,
+     "pasos_perdidos_en_razonador": 0,
+     "pasos_perdidos_en_encargo_juicio": 0,
+     "planes_vivos": [
+      [
+       12559,
+       2
+      ],
+      [
+       12962,
+       3
+      ],
+      [
+       14254,
+       5
+      ],
+      [
+       14390,
+       6
+      ]
+     ],
+     "planes_cerrados": {
+      "3": 12990,
+      "5": 14353
+     },
+     "carp": "P623_t2_A7h_20470374",
+     "slot": 11
+    },
+    {
+     "tics": 14496,
+     "final": {
+      "reason": "eliminated",
+      "placement": 3
+     },
+     "resumen26": null,
+     "entorno_razonador": null,
+     "encargos": 0,
+     "no_dispara": 0,
+     "llamadas": 0,
+     "usd": 0.0,
+     "propone": 0,
+     "intraducibles": 0,
+     "calla": 0,
+     "errores": [],
+     "retraso_tics": {
+      "n": 0,
+      "mediana": null,
+      "p95": null,
+      "max": null
+     },
+     "ms_llamada_mediana": null,
+     "escena_largo_mediana": null,
+     "pasan_pregunta": 0,
+     "pasan_llegada": 0,
+     "llegan_donde_la_puerta_ya_rechaza": 0,
+     "pares_pregunta_llegada": [],
+     "aceptadas": 1,
+     "evaluadas": {
+      "area": 3,
+      "ok": 1
+     },
+     "e2_dichos": 580,
+     "e2_sustituidos": 0,
+     "planes_del_hermano_recibidos": 0,
+     "mensajes_plan": [],
+     "malestar": [],
+     "cumplidas_fin_fase": 0,
+     "falsas_confianza": {
+      "planes_con_puntos": 1,
+      "puntos": 1,
+      "puntos_peor": 1,
+      "planes_peor_algun_punto": 1,
+      "planes_peor_primer_punto": 1,
+      "dif_mediana (d_real - d_proyectada)": 0.06722,
+      "dif_p90": 0.06721999999999984
+     },
+     "falsas_malestar26": {
+      "tramos": 0,
+      "peor": 0,
+      "dif_mediana (sentida - imaginada, vida)": null
+     },
+     "pasos_perdidos": [],
+     "pasos_perdidos_5_7": 0,
+     "pasos_perdidos_en_razonador": 0,
+     "pasos_perdidos_en_encargo_juicio": 0,
+     "planes_vivos": [
+      [
+       13803,
+       4
+      ]
+     ],
+     "planes_cerrados": {
+      "4": 13828
+     },
+     "carp": "P623_t2_A7h_20575103",
+     "slot": 10
+    },
+    {
+     "tics": 14544,
+     "final": {
+      "reason": "winner",
+      "placement": 1
+     },
+     "resumen26": null,
+     "entorno_razonador": null,
+     "encargos": 0,
+     "no_dispara": 0,
+     "llamadas": 0,
+     "usd": 0.0,
+     "propone": 0,
+     "intraducibles": 0,
+     "calla": 0,
+     "errores": [],
+     "retraso_tics": {
+      "n": 0,
+      "mediana": null,
+      "p95": null,
+      "max": null
+     },
+     "ms_llamada_mediana": null,
+     "escena_largo_mediana": null,
+     "pasan_pregunta": 0,
+     "pasan_llegada": 0,
+     "llegan_donde_la_puerta_ya_rechaza": 0,
+     "pares_pregunta_llegada": [],
+     "aceptadas": 5,
+     "evaluadas": {
+      "area": 3,
+      "ok": 5,
+      "vida": 1
+     },
+     "e2_dichos": 582,
+     "e2_sustituidos": 0,
+     "planes_del_hermano_recibidos": 0,
+     "mensajes_plan": [],
+     "malestar": [],
+     "cumplidas_fin_fase": 0,
+     "falsas_confianza": {
+      "planes_con_puntos": 5,
+      "puntos": 8,
+      "puntos_peor": 8,
+      "planes_peor_algun_punto": 5,
+      "planes_peor_primer_punto": 5,
+      "dif_mediana (d_real - d_proyectada)": 0.42641,
+      "dif_p90": 0.9034599999999999
+     },
+     "falsas_malestar26": {
+      "tramos": 0,
+      "peor": 0,
+      "dif_mediana (sentida - imaginada, vida)": null
+     },
+     "pasos_perdidos": [],
+     "pasos_perdidos_5_7": 0,
+     "pasos_perdidos_en_razonador": 0,
+     "pasos_perdidos_en_encargo_juicio": 0,
+     "planes_vivos": [
+      [
+       13758,
+       4
+      ],
+      [
+       13825,
+       5
+      ],
+      [
+       13866,
+       6
+      ],
+      [
+       14708,
+       8
+      ],
+      [
+       14950,
+       9
+      ]
+     ],
+     "planes_cerrados": {
+      "4": 13801,
+      "5": 13850,
+      "6": 13916,
+      "8": 14933,
+      "9": 14975
+     },
+     "carp": "P623_t2_A7h_20575103",
+     "slot": 11
+    },
+    {
+     "tics": 13611,
+     "final": {
+      "reason": "eliminated",
+      "placement": 6
+     },
+     "resumen26": null,
+     "entorno_razonador": null,
+     "encargos": 0,
+     "no_dispara": 0,
+     "llamadas": 0,
+     "usd": 0.0,
+     "propone": 0,
+     "intraducibles": 0,
+     "calla": 0,
+     "errores": [],
+     "retraso_tics": {
+      "n": 0,
+      "mediana": null,
+      "p95": null,
+      "max": null
+     },
+     "ms_llamada_mediana": null,
+     "escena_largo_mediana": null,
+     "pasan_pregunta": 0,
+     "pasan_llegada": 0,
+     "llegan_donde_la_puerta_ya_rechaza": 0,
+     "pares_pregunta_llegada": [],
+     "aceptadas": 1,
+     "evaluadas": {
+      "area": 4,
+      "ok": 1
+     },
+     "e2_dichos": 545,
+     "e2_sustituidos": 0,
+     "planes_del_hermano_recibidos": 0,
+     "mensajes_plan": [],
+     "malestar": [],
+     "cumplidas_fin_fase": 0,
+     "falsas_confianza": {
+      "planes_con_puntos": 1,
+      "puntos": 3,
+      "puntos_peor": 3,
+      "planes_peor_algun_punto": 1,
+      "planes_peor_primer_punto": 1,
+      "dif_mediana (d_real - d_proyectada)": 0.5245,
+      "dif_p90": 1.0202900000000001
+     },
+     "falsas_malestar26": {
+      "tramos": 0,
+      "peor": 0,
+      "dif_mediana (sentida - imaginada, vida)": null
+     },
+     "pasos_perdidos": [],
+     "pasos_perdidos_5_7": 0,
+     "pasos_perdidos_en_razonador": 0,
+     "pasos_perdidos_en_encargo_juicio": 0,
+     "planes_vivos": [
+      [
+       13832,
+       5
+      ]
+     ],
+     "planes_cerrados": {
+      "5": 14007
+     },
+     "carp": "P623_t2_A7h_20679832",
+     "slot": 10
+    },
+    {
+     "tics": 14131,
+     "final": {
+      "reason": "eliminated",
+      "placement": 4
+     },
+     "resumen26": null,
+     "entorno_razonador": null,
+     "encargos": 0,
+     "no_dispara": 0,
+     "llamadas": 0,
+     "usd": 0.0,
+     "propone": 0,
+     "intraducibles": 0,
+     "calla": 0,
+     "errores": [],
+     "retraso_tics": {
+      "n": 0,
+      "mediana": null,
+      "p95": null,
+      "max": null
+     },
+     "ms_llamada_mediana": null,
+     "escena_largo_mediana": null,
+     "pasan_pregunta": 0,
+     "pasan_llegada": 0,
+     "llegan_donde_la_puerta_ya_rechaza": 0,
+     "pares_pregunta_llegada": [],
+     "aceptadas": 1,
+     "evaluadas": {
+      "ok": 1
+     },
+     "e2_dichos": 566,
+     "e2_sustituidos": 0,
+     "planes_del_hermano_recibidos": 0,
+     "mensajes_plan": [],
+     "malestar": [],
+     "cumplidas_fin_fase": 0,
+     "falsas_confianza": {
+      "planes_con_puntos": 1,
+      "puntos": 3,
+      "puntos_peor": 3,
+      "planes_peor_algun_punto": 1,
+      "planes_peor_primer_punto": 1,
+      "dif_mediana (d_real - d_proyectada)": 0.30471,
+      "dif_p90": 0.30569999999999986
+     },
+     "falsas_malestar26": {
+      "tramos": 0,
+      "peor": 0,
+      "dif_mediana (sentida - imaginada, vida)": null
+     },
+     "pasos_perdidos": [
+      {
+       "tick": 13611,
+       "fase": "5-7",
+       "en_razonador": false,
+       "en_encargo_juicio": true,
+       "ms16": 47.735
+      },
+      {
+       "tick": 13766,
+       "fase": "5-7",
+       "en_razonador": false,
+       "en_encargo_juicio": true,
+       "ms16": 5.199
+      }
+     ],
+     "pasos_perdidos_5_7": 2,
+     "pasos_perdidos_en_razonador": 0,
+     "pasos_perdidos_en_encargo_juicio": 2,
+     "planes_vivos": [
+      [
+       13611,
+       1
+      ]
+     ],
+     "planes_cerrados": {
+      "1": 13812
+     },
+     "carp": "P623_t2_A7h_20679832",
+     "slot": 11
+    },
+    {
+     "tics": 14280,
+     "final": {
+      "reason": "eliminated",
+      "placement": 4
+     },
+     "resumen26": null,
+     "entorno_razonador": null,
+     "encargos": 0,
+     "no_dispara": 0,
+     "llamadas": 0,
+     "usd": 0.0,
+     "propone": 0,
+     "intraducibles": 0,
+     "calla": 0,
+     "errores": [],
+     "retraso_tics": {
+      "n": 0,
+      "mediana": null,
+      "p95": null,
+      "max": null
+     },
+     "ms_llamada_mediana": null,
+     "escena_largo_mediana": null,
+     "pasan_pregunta": 0,
+     "pasan_llegada": 0,
+     "llegan_donde_la_puerta_ya_rechaza": 0,
+     "pares_pregunta_llegada": [],
+     "aceptadas": 3,
+     "evaluadas": {
+      "ok": 3,
+      "area": 2
+     },
+     "e2_dichos": 572,
+     "e2_sustituidos": 0,
+     "planes_del_hermano_recibidos": 0,
+     "mensajes_plan": [],
+     "malestar": [],
+     "cumplidas_fin_fase": 0,
+     "falsas_confianza": {
+      "planes_con_puntos": 3,
+      "puntos": 7,
+      "puntos_peor": 6,
+      "planes_peor_algun_punto": 3,
+      "planes_peor_primer_punto": 2,
+      "dif_mediana (d_real - d_proyectada)": 0.52328,
+      "dif_p90": 0.6846900000000002
+     },
+     "falsas_malestar26": {
+      "tramos": 0,
+      "peor": 0,
+      "dif_mediana (sentida - imaginada, vida)": null
+     },
+     "pasos_perdidos": [
+      {
+       "tick": 12814,
+       "fase": "5-7",
+       "en_razonador": false,
+       "en_encargo_juicio": true,
+       "ms16": 60.072
+      }
+     ],
+     "pasos_perdidos_5_7": 1,
+     "pasos_perdidos_en_razonador": 0,
+     "pasos_perdidos_en_encargo_juicio": 1,
+     "planes_vivos": [
+      [
+       12342,
+       1
+      ],
+      [
+       12814,
+       2
+      ],
+      [
+       12984,
+       5
+      ]
+     ],
+     "planes_cerrados": {
+      "2": 12863,
+      "5": 13009
+     },
+     "carp": "P623_t2_A7h_20784561",
+     "slot": 10
+    },
+    {
+     "tics": 14472,
+     "final": {
+      "reason": "match_over",
+      "placement": 2
+     },
+     "resumen26": null,
+     "entorno_razonador": null,
+     "encargos": 0,
+     "no_dispara": 0,
+     "llamadas": 0,
+     "usd": 0.0,
+     "propone": 0,
+     "intraducibles": 0,
+     "calla": 0,
+     "errores": [],
+     "retraso_tics": {
+      "n": 0,
+      "mediana": null,
+      "p95": null,
+      "max": null
+     },
+     "ms_llamada_mediana": null,
+     "escena_largo_mediana": null,
+     "pasan_pregunta": 0,
+     "pasan_llegada": 0,
+     "llegan_donde_la_puerta_ya_rechaza": 0,
+     "pares_pregunta_llegada": [],
+     "aceptadas": 4,
+     "evaluadas": {
+      "area": 3,
+      "ok": 4
+     },
+     "e2_dichos": 579,
+     "e2_sustituidos": 0,
+     "planes_del_hermano_recibidos": 0,
+     "mensajes_plan": [],
+     "malestar": [],
+     "cumplidas_fin_fase": 0,
+     "falsas_confianza": {
+      "planes_con_puntos": 4,
+      "puntos": 8,
+      "puntos_peor": 6,
+      "planes_peor_algun_punto": 4,
+      "planes_peor_primer_punto": 4,
+      "dif_mediana (d_real - d_proyectada)": 0.31209,
+      "dif_p90": 2.147099999999999
+     },
+     "falsas_malestar26": {
+      "tramos": 0,
+      "peor": 0,
+      "dif_mediana (sentida - imaginada, vida)": null
+     },
+     "pasos_perdidos": [
+      {
+       "tick": 14748,
+       "fase": "5-7",
+       "en_razonador": false,
+       "en_encargo_juicio": true,
+       "ms16": 60.755
+      }
+     ],
+     "pasos_perdidos_5_7": 1,
+     "pasos_perdidos_en_razonador": 0,
+     "pasos_perdidos_en_encargo_juicio": 1,
+     "planes_vivos": [
+      [
+       12609,
+       3
+      ],
+      [
+       12958,
+       5
+      ],
+      [
+       14748,
+       6
+      ],
+      [
+       14858,
+       7
+      ]
+     ],
+     "planes_cerrados": {
+      "3": 12870,
+      "6": 14805,
+      "7": 14883
+     },
+     "carp": "P623_t2_A7h_20784561",
+     "slot": 11
+    },
+    {
+     "tics": 14208,
+     "final": {
+      "reason": "match_over",
+      "placement": 2
+     },
+     "resumen26": null,
+     "entorno_razonador": null,
+     "encargos": 0,
+     "no_dispara": 0,
+     "llamadas": 0,
+     "usd": 0.0,
+     "propone": 0,
+     "intraducibles": 0,
+     "calla": 0,
+     "errores": [],
+     "retraso_tics": {
+      "n": 0,
+      "mediana": null,
+      "p95": null,
+      "max": null
+     },
+     "ms_llamada_mediana": null,
+     "escena_largo_mediana": null,
+     "pasan_pregunta": 0,
+     "pasan_llegada": 0,
+     "llegan_donde_la_puerta_ya_rechaza": 0,
+     "pares_pregunta_llegada": [],
+     "aceptadas": 0,
+     "evaluadas": {
+      "area": 9,
+      "vida": 1
+     },
+     "e2_dichos": 569,
+     "e2_sustituidos": 0,
+     "planes_del_hermano_recibidos": 0,
+     "mensajes_plan": [],
+     "malestar": [],
+     "cumplidas_fin_fase": 0,
+     "falsas_confianza": {
+      "planes_con_puntos": 0,
+      "puntos": 0,
+      "puntos_peor": 0,
+      "planes_peor_algun_punto": 0,
+      "planes_peor_primer_punto": 0,
+      "dif_mediana (d_real - d_proyectada)": null,
+      "dif_p90": null
+     },
+     "falsas_malestar26": {
+      "tramos": 0,
+      "peor": 0,
+      "dif_mediana (sentida - imaginada, vida)": null
+     },
+     "pasos_perdidos": [],
+     "pasos_perdidos_5_7": 0,
+     "pasos_perdidos_en_razonador": 0,
+     "pasos_perdidos_en_encargo_juicio": 0,
+     "planes_vivos": [],
+     "planes_cerrados": {},
+     "carp": "P623_t2_A7h_20889290",
+     "slot": 10
+    },
+    {
+     "tics": 12008,
+     "final": {
+      "reason": "eliminated",
+      "placement": 4
+     },
+     "resumen26": null,
+     "entorno_razonador": null,
+     "encargos": 0,
+     "no_dispara": 0,
+     "llamadas": 0,
+     "usd": 0.0,
+     "propone": 0,
+     "intraducibles": 0,
+     "calla": 0,
+     "errores": [],
+     "retraso_tics": {
+      "n": 0,
+      "mediana": null,
+      "p95": null,
+      "max": null
+     },
+     "ms_llamada_mediana": null,
+     "escena_largo_mediana": null,
+     "pasan_pregunta": 0,
+     "pasan_llegada": 0,
+     "llegan_donde_la_puerta_ya_rechaza": 0,
+     "pares_pregunta_llegada": [],
+     "aceptadas": 1,
+     "evaluadas": {
+      "area": 3,
+      "ok": 1
+     },
+     "e2_dichos": 481,
+     "e2_sustituidos": 0,
+     "planes_del_hermano_recibidos": 0,
+     "mensajes_plan": [],
+     "malestar": [],
+     "cumplidas_fin_fase": 0,
+     "falsas_confianza": {
+      "planes_con_puntos": 1,
+      "puntos": 1,
+      "puntos_peor": 0,
+      "planes_peor_algun_punto": 0,
+      "planes_peor_primer_punto": 0,
+      "dif_mediana (d_real - d_proyectada)": -0.49529,
+      "dif_p90": -0.4952900000000007
+     },
+     "falsas_malestar26": {
+      "tramos": 0,
+      "peor": 0,
+      "dif_mediana (sentida - imaginada, vida)": null
+     },
+     "pasos_perdidos": [],
+     "pasos_perdidos_5_7": 0,
+     "pasos_perdidos_en_razonador": 0,
+     "pasos_perdidos_en_encargo_juicio": 0,
+     "planes_vivos": [
+      [
+       12384,
+       4
+      ]
+     ],
+     "planes_cerrados": {
+      "4": 12414
+     },
+     "carp": "P623_t2_A7h_20889290",
+     "slot": 11
+    },
+    {
+     "tics": 12648,
+     "final": {
+      "reason": "eliminated",
+      "placement": 4
+     },
+     "resumen26": null,
+     "entorno_razonador": null,
+     "encargos": 0,
+     "no_dispara": 0,
+     "llamadas": 0,
+     "usd": 0.0,
+     "propone": 0,
+     "intraducibles": 0,
+     "calla": 0,
+     "errores": [],
+     "retraso_tics": {
+      "n": 0,
+      "mediana": null,
+      "p95": null,
+      "max": null
+     },
+     "ms_llamada_mediana": null,
+     "escena_largo_mediana": null,
+     "pasan_pregunta": 0,
+     "pasan_llegada": 0,
+     "llegan_donde_la_puerta_ya_rechaza": 0,
+     "pares_pregunta_llegada": [],
+     "aceptadas": 4,
+     "evaluadas": {
+      "area": 9,
+      "vida": 1,
+      "ok": 4
+     },
+     "e2_dichos": 506,
+     "e2_sustituidos": 0,
+     "planes_del_hermano_recibidos": 0,
+     "mensajes_plan": [],
+     "malestar": [],
+     "cumplidas_fin_fase": 0,
+     "falsas_confianza": {
+      "planes_con_puntos": 4,
+      "puntos": 7,
+      "puntos_peor": 7,
+      "planes_peor_algun_punto": 4,
+      "planes_peor_primer_punto": 4,
+      "dif_mediana (d_real - d_proyectada)": 0.09866,
+      "dif_p90": 0.9353100000000003
+     },
+     "falsas_malestar26": {
+      "tramos": 0,
+      "peor": 0,
+      "dif_mediana (sentida - imaginada, vida)": null
+     },
+     "pasos_perdidos": [],
+     "pasos_perdidos_5_7": 0,
+     "pasos_perdidos_en_razonador": 0,
+     "pasos_perdidos_en_encargo_juicio": 0,
+     "planes_vivos": [
+      [
+       12259,
+       6
+      ],
+      [
+       12716,
+       12
+      ],
+      [
+       12789,
+       13
+      ],
+      [
+       13050,
+       14
+      ]
+     ],
+     "planes_cerrados": {
+      "6": 12300,
+      "12": 12733,
+      "14": 13078
+     },
+     "carp": "P623_t2_A7h_20994019",
+     "slot": 10
+    },
+    {
+     "tics": 11647,
+     "final": {
+      "reason": "eliminated",
+      "placement": 8
+     },
+     "resumen26": null,
+     "entorno_razonador": null,
+     "encargos": 0,
+     "no_dispara": 0,
+     "llamadas": 0,
+     "usd": 0.0,
+     "propone": 0,
+     "intraducibles": 0,
+     "calla": 0,
+     "errores": [],
+     "retraso_tics": {
+      "n": 0,
+      "mediana": null,
+      "p95": null,
+      "max": null
+     },
+     "ms_llamada_mediana": null,
+     "escena_largo_mediana": null,
+     "pasan_pregunta": 0,
+     "pasan_llegada": 0,
+     "llegan_donde_la_puerta_ya_rechaza": 0,
+     "pares_pregunta_llegada": [],
+     "aceptadas": 3,
+     "evaluadas": {
+      "ok": 3,
+      "area": 1
+     },
+     "e2_dichos": 466,
+     "e2_sustituidos": 0,
+     "planes_del_hermano_recibidos": 0,
+     "mensajes_plan": [],
+     "malestar": [],
+     "cumplidas_fin_fase": 0,
+     "falsas_confianza": {
+      "planes_con_puntos": 3,
+      "puntos": 5,
+      "puntos_peor": 2,
+      "planes_peor_algun_punto": 2,
+      "planes_peor_primer_punto": 2,
+      "dif_mediana (d_real - d_proyectada)": -0.00483,
+      "dif_p90": 0.21970999999999963
+     },
+     "falsas_malestar26": {
+      "tramos": 0,
+      "peor": 0,
+      "dif_mediana (sentida - imaginada, vida)": null
+     },
+     "pasos_perdidos": [],
+     "pasos_perdidos_5_7": 0,
+     "pasos_perdidos_en_razonador": 0,
+     "pasos_perdidos_en_encargo_juicio": 0,
+     "planes_vivos": [
+      [
+       11270,
+       1
+      ],
+      [
+       11406,
+       2
+      ],
+      [
+       11622,
+       3
+      ]
+     ],
+     "planes_cerrados": {
+      "1": 11353,
+      "2": 11513,
+      "3": 11647
+     },
+     "carp": "P623_t2_A7h_20994019",
+     "slot": 11
+    },
+    {
+     "tics": 14568,
+     "final": {
+      "reason": "match_over",
+      "placement": 1
+     },
+     "resumen26": null,
+     "entorno_razonador": null,
+     "encargos": 0,
+     "no_dispara": 0,
+     "llamadas": 0,
+     "usd": 0.0,
+     "propone": 0,
+     "intraducibles": 0,
+     "calla": 0,
+     "errores": [],
+     "retraso_tics": {
+      "n": 0,
+      "mediana": null,
+      "p95": null,
+      "max": null
+     },
+     "ms_llamada_mediana": null,
+     "escena_largo_mediana": null,
+     "pasan_pregunta": 0,
+     "pasan_llegada": 0,
+     "llegan_donde_la_puerta_ya_rechaza": 0,
+     "pares_pregunta_llegada": [],
+     "aceptadas": 2,
+     "evaluadas": {
+      "ok": 2,
+      "area": 4
+     },
+     "e2_dichos": 583,
+     "e2_sustituidos": 0,
+     "planes_del_hermano_recibidos": 0,
+     "mensajes_plan": [],
+     "malestar": [],
+     "cumplidas_fin_fase": 0,
+     "falsas_confianza": {
+      "planes_con_puntos": 2,
+      "puntos": 3,
+      "puntos_peor": 1,
+      "planes_peor_algun_punto": 1,
+      "planes_peor_primer_punto": 0,
+      "dif_mediana (d_real - d_proyectada)": -0.00036,
+      "dif_p90": 0.09143999999999997
+     },
+     "falsas_malestar26": {
+      "tramos": 0,
+      "peor": 0,
+      "dif_mediana (sentida - imaginada, vida)": null
+     },
+     "pasos_perdidos": [],
+     "pasos_perdidos_5_7": 0,
+     "pasos_perdidos_en_razonador": 0,
+     "pasos_perdidos_en_encargo_juicio": 0,
+     "planes_vivos": [
+      [
+       12563,
+       1
+      ],
+      [
+       12704,
+       2
+      ]
+     ],
+     "planes_cerrados": {
+      "1": 12610,
+      "2": 12729
+     },
+     "carp": "P623_t2_A7h_21098748",
+     "slot": 10
+    },
+    {
+     "tics": 14568,
+     "final": {
+      "reason": "match_over",
+      "placement": 2
+     },
+     "resumen26": null,
+     "entorno_razonador": null,
+     "encargos": 0,
+     "no_dispara": 0,
+     "llamadas": 0,
+     "usd": 0.0,
+     "propone": 0,
+     "intraducibles": 0,
+     "calla": 0,
+     "errores": [],
+     "retraso_tics": {
+      "n": 0,
+      "mediana": null,
+      "p95": null,
+      "max": null
+     },
+     "ms_llamada_mediana": null,
+     "escena_largo_mediana": null,
+     "pasan_pregunta": 0,
+     "pasan_llegada": 0,
+     "llegan_donde_la_puerta_ya_rechaza": 0,
+     "pares_pregunta_llegada": [],
+     "aceptadas": 7,
+     "evaluadas": {
+      "ok": 7,
+      "area": 1
+     },
+     "e2_dichos": 583,
+     "e2_sustituidos": 0,
+     "planes_del_hermano_recibidos": 0,
+     "mensajes_plan": [],
+     "malestar": [],
+     "cumplidas_fin_fase": 0,
+     "falsas_confianza": {
+      "planes_con_puntos": 7,
+      "puntos": 16,
+      "puntos_peor": 11,
+      "planes_peor_algun_punto": 6,
+      "planes_peor_primer_punto": 5,
+      "dif_mediana (d_real - d_proyectada)": 0.2514,
+      "dif_p90": 0.45276000000000005
+     },
+     "falsas_malestar26": {
+      "tramos": 0,
+      "peor": 0,
+      "dif_mediana (sentida - imaginada, vida)": null
+     },
+     "pasos_perdidos": [],
+     "pasos_perdidos_5_7": 0,
+     "pasos_perdidos_en_razonador": 0,
+     "pasos_perdidos_en_encargo_juicio": 0,
+     "planes_vivos": [
+      [
+       12558,
+       1
+      ],
+      [
+       12770,
+       2
+      ],
+      [
+       12821,
+       3
+      ],
+      [
+       13053,
+       4
+      ],
+      [
+       13612,
+       6
+      ],
+      [
+       14053,
+       7
+      ],
+      [
+       14641,
+       8
+      ]
+     ],
+     "planes_cerrados": {
+      "1": 12629,
+      "2": 12792,
+      "4": 13088,
+      "6": 14005,
+      "7": 14124
+     },
+     "carp": "P623_t2_A7h_21098748",
+     "slot": 11
+    },
+    {
+     "tics": 12607,
+     "final": {
+      "reason": "eliminated",
+      "placement": 4
+     },
+     "resumen26": null,
+     "entorno_razonador": null,
+     "encargos": 0,
+     "no_dispara": 0,
+     "llamadas": 0,
+     "usd": 0.0,
+     "propone": 0,
+     "intraducibles": 0,
+     "calla": 0,
+     "errores": [],
+     "retraso_tics": {
+      "n": 0,
+      "mediana": null,
+      "p95": null,
+      "max": null
+     },
+     "ms_llamada_mediana": null,
+     "escena_largo_mediana": null,
+     "pasan_pregunta": 0,
+     "pasan_llegada": 0,
+     "llegan_donde_la_puerta_ya_rechaza": 0,
+     "pares_pregunta_llegada": [],
+     "aceptadas": 2,
+     "evaluadas": {
+      "ok": 2
+     },
+     "e2_dichos": 505,
+     "e2_sustituidos": 0,
+     "planes_del_hermano_recibidos": 0,
+     "mensajes_plan": [],
+     "malestar": [],
+     "cumplidas_fin_fase": 0,
+     "falsas_confianza": {
+      "planes_con_puntos": 2,
+      "puntos": 4,
+      "puntos_peor": 1,
+      "planes_peor_algun_punto": 1,
+      "planes_peor_primer_punto": 1,
+      "dif_mediana (d_real - d_proyectada)": -0.10561,
+      "dif_p90": 0.17584
+     },
+     "falsas_malestar26": {
+      "tramos": 0,
+      "peor": 0,
+      "dif_mediana (sentida - imaginada, vida)": null
+     },
+     "pasos_perdidos": [],
+     "pasos_perdidos_5_7": 0,
+     "pasos_perdidos_en_razonador": 0,
+     "pasos_perdidos_en_encargo_juicio": 0,
+     "planes_vivos": [
+      [
+       12828,
+       1
+      ],
+      [
+       12982,
+       2
+      ]
+     ],
+     "planes_cerrados": {
+      "1": 12957,
+      "2": 13006
+     },
+     "carp": "P623_t2_A7h_21203477",
+     "slot": 10
+    },
+    {
+     "tics": 12783,
+     "final": {
+      "reason": "eliminated",
+      "placement": 3
+     },
+     "resumen26": null,
+     "entorno_razonador": null,
+     "encargos": 0,
+     "no_dispara": 0,
+     "llamadas": 0,
+     "usd": 0.0,
+     "propone": 0,
+     "intraducibles": 0,
+     "calla": 0,
+     "errores": [],
+     "retraso_tics": {
+      "n": 0,
+      "mediana": null,
+      "p95": null,
+      "max": null
+     },
+     "ms_llamada_mediana": null,
+     "escena_largo_mediana": null,
+     "pasan_pregunta": 0,
+     "pasan_llegada": 0,
+     "llegan_donde_la_puerta_ya_rechaza": 0,
+     "pares_pregunta_llegada": [],
+     "aceptadas": 0,
+     "evaluadas": {},
+     "e2_dichos": 512,
+     "e2_sustituidos": 0,
+     "planes_del_hermano_recibidos": 0,
+     "mensajes_plan": [],
+     "malestar": [],
+     "cumplidas_fin_fase": 0,
+     "falsas_confianza": {
+      "planes_con_puntos": 0,
+      "puntos": 0,
+      "puntos_peor": 0,
+      "planes_peor_algun_punto": 0,
+      "planes_peor_primer_punto": 0,
+      "dif_mediana (d_real - d_proyectada)": null,
+      "dif_p90": null
+     },
+     "falsas_malestar26": {
+      "tramos": 0,
+      "peor": 0,
+      "dif_mediana (sentida - imaginada, vida)": null
+     },
+     "pasos_perdidos": [],
+     "pasos_perdidos_5_7": 0,
+     "pasos_perdidos_en_razonador": 0,
+     "pasos_perdidos_en_encargo_juicio": 0,
+     "planes_vivos": [],
+     "planes_cerrados": {},
+     "carp": "P623_t2_A7h_21203477",
+     "slot": 11
+    },
+    {
+     "tics": 14496,
+     "final": {
+      "reason": "winner",
+      "placement": 1
+     },
+     "resumen26": null,
+     "entorno_razonador": null,
+     "encargos": 0,
+     "no_dispara": 0,
+     "llamadas": 0,
+     "usd": 0.0,
+     "propone": 0,
+     "intraducibles": 0,
+     "calla": 0,
+     "errores": [],
+     "retraso_tics": {
+      "n": 0,
+      "mediana": null,
+      "p95": null,
+      "max": null
+     },
+     "ms_llamada_mediana": null,
+     "escena_largo_mediana": null,
+     "pasan_pregunta": 0,
+     "pasan_llegada": 0,
+     "llegan_donde_la_puerta_ya_rechaza": 0,
+     "pares_pregunta_llegada": [],
+     "aceptadas": 4,
+     "evaluadas": {
+      "ok": 4,
+      "area": 4
+     },
+     "e2_dichos": 580,
+     "e2_sustituidos": 0,
+     "planes_del_hermano_recibidos": 0,
+     "mensajes_plan": [],
+     "malestar": [],
+     "cumplidas_fin_fase": 0,
+     "falsas_confianza": {
+      "planes_con_puntos": 4,
+      "puntos": 8,
+      "puntos_peor": 7,
+      "planes_peor_algun_punto": 4,
+      "planes_peor_primer_punto": 4,
+      "dif_mediana (d_real - d_proyectada)": 0.24087,
+      "dif_p90": 0.38594000000000017
+     },
+     "falsas_malestar26": {
+      "tramos": 0,
+      "peor": 0,
+      "dif_mediana (sentida - imaginada, vida)": null
+     },
+     "pasos_perdidos": [
+      {
+       "tick": 5095,
+       "fase": "antes",
+       "en_razonador": false,
+       "en_encargo_juicio": false,
+       "ms16": 47.765
+      },
+      {
+       "tick": 6108,
+       "fase": "antes",
+       "en_razonador": false,
+       "en_encargo_juicio": false,
+       "ms16": 59.711
+      },
+      {
+       "tick": 6417,
+       "fase": "antes",
+       "en_razonador": false,
+       "en_encargo_juicio": false,
+       "ms16": 43.449
+      },
+      {
+       "tick": 7298,
+       "fase": "1-4",
+       "en_razonador": false,
+       "en_encargo_juicio": false,
+       "ms16": 42.087
+      },
+      {
+       "tick": 7629,
+       "fase": "1-4",
+       "en_razonador": false,
+       "en_encargo_juicio": false,
+       "ms16": 47.185
+      },
+      {
+       "tick": 10774,
+       "fase": "1-4",
+       "en_razonador": false,
+       "en_encargo_juicio": false,
+       "ms16": 38.917
+      },
+      {
+       "tick": 12895,
+       "fase": "5-7",
+       "en_razonador": false,
+       "en_encargo_juicio": true,
+       "ms16": 44.473
+      },
+      {
+       "tick": 14789,
+       "fase": "5-7",
+       "en_razonador": false,
+       "en_encargo_juicio": true,
+       "ms16": 9.011
+      }
+     ],
+     "pasos_perdidos_5_7": 2,
+     "pasos_perdidos_en_razonador": 0,
+     "pasos_perdidos_en_encargo_juicio": 2,
+     "planes_vivos": [
+      [
+       12354,
+       1
+      ],
+      [
+       12895,
+       4
+      ],
+      [
+       14788,
+       7
+      ],
+      [
+       14906,
+       8
+      ]
+     ],
+     "planes_cerrados": {
+      "1": 12574,
+      "4": 12920,
+      "7": 14796
+     },
+     "carp": "P623_t2_A7h_21308206",
+     "slot": 10
+    },
+    {
+     "tics": 14496,
+     "final": {
+      "reason": "match_over",
+      "placement": 2
+     },
+     "resumen26": null,
+     "entorno_razonador": null,
+     "encargos": 0,
+     "no_dispara": 0,
+     "llamadas": 0,
+     "usd": 0.0,
+     "propone": 0,
+     "intraducibles": 0,
+     "calla": 0,
+     "errores": [],
+     "retraso_tics": {
+      "n": 0,
+      "mediana": null,
+      "p95": null,
+      "max": null
+     },
+     "ms_llamada_mediana": null,
+     "escena_largo_mediana": null,
+     "pasan_pregunta": 0,
+     "pasan_llegada": 0,
+     "llegan_donde_la_puerta_ya_rechaza": 0,
+     "pares_pregunta_llegada": [],
+     "aceptadas": 5,
+     "evaluadas": {
+      "ok": 5,
+      "area": 6
+     },
+     "e2_dichos": 580,
+     "e2_sustituidos": 0,
+     "planes_del_hermano_recibidos": 0,
+     "mensajes_plan": [],
+     "malestar": [],
+     "cumplidas_fin_fase": 0,
+     "falsas_confianza": {
+      "planes_con_puntos": 5,
+      "puntos": 8,
+      "puntos_peor": 4,
+      "planes_peor_algun_punto": 2,
+      "planes_peor_primer_punto": 2,
+      "dif_mediana (d_real - d_proyectada)": -0.00398,
+      "dif_p90": 0.5831899999999997
+     },
+     "falsas_malestar26": {
+      "tramos": 0,
+      "peor": 0,
+      "dif_mediana (sentida - imaginada, vida)": null
+     },
+     "pasos_perdidos": [],
+     "pasos_perdidos_5_7": 0,
+     "pasos_perdidos_en_razonador": 0,
+     "pasos_perdidos_en_encargo_juicio": 0,
+     "planes_vivos": [
+      [
+       12372,
+       1
+      ],
+      [
+       12666,
+       3
+      ],
+      [
+       12982,
+       6
+      ],
+      [
+       14542,
+       9
+      ],
+      [
+       14691,
+       10
+      ]
+     ],
+     "planes_cerrados": {
+      "1": 12461,
+      "3": 12691,
+      "6": 13016,
+      "9": 14656,
+      "10": 14716
+     },
+     "carp": "P623_t2_A7h_21308206",
+     "slot": 11
+    },
+    {
+     "tics": 2374,
+     "final": {
+      "reason": "eliminated",
+      "placement": 13
+     },
+     "resumen26": null,
+     "entorno_razonador": null,
+     "encargos": 0,
+     "no_dispara": 0,
+     "llamadas": 0,
+     "usd": 0.0,
+     "propone": 0,
+     "intraducibles": 0,
+     "calla": 0,
+     "errores": [],
+     "retraso_tics": {
+      "n": 0,
+      "mediana": null,
+      "p95": null,
+      "max": null
+     },
+     "ms_llamada_mediana": null,
+     "escena_largo_mediana": null,
+     "pasan_pregunta": 0,
+     "pasan_llegada": 0,
+     "llegan_donde_la_puerta_ya_rechaza": 0,
+     "pares_pregunta_llegada": [],
+     "aceptadas": 0,
+     "evaluadas": {},
+     "e2_dichos": 95,
+     "e2_sustituidos": 0,
+     "planes_del_hermano_recibidos": 0,
+     "mensajes_plan": [],
+     "malestar": [],
+     "cumplidas_fin_fase": 0,
+     "falsas_confianza": {
+      "planes_con_puntos": 0,
+      "puntos": 0,
+      "puntos_peor": 0,
+      "planes_peor_algun_punto": 0,
+      "planes_peor_primer_punto": 0,
+      "dif_mediana (d_real - d_proyectada)": null,
+      "dif_p90": null
+     },
+     "falsas_malestar26": {
+      "tramos": 0,
+      "peor": 0,
+      "dif_mediana (sentida - imaginada, vida)": null
+     },
+     "pasos_perdidos": [],
+     "pasos_perdidos_5_7": 0,
+     "pasos_perdidos_en_razonador": 0,
+     "pasos_perdidos_en_encargo_juicio": 0,
+     "planes_vivos": [],
+     "planes_cerrados": {},
+     "carp": "P623_t2_A7h_21412935",
+     "slot": 10
+    },
+    {
+     "tics": 13488,
+     "final": {
+      "reason": "match_over",
+      "placement": 2
+     },
+     "resumen26": null,
+     "entorno_razonador": null,
+     "encargos": 0,
+     "no_dispara": 0,
+     "llamadas": 0,
+     "usd": 0.0,
+     "propone": 0,
+     "intraducibles": 0,
+     "calla": 0,
+     "errores": [],
+     "retraso_tics": {
+      "n": 0,
+      "mediana": null,
+      "p95": null,
+      "max": null
+     },
+     "ms_llamada_mediana": null,
+     "escena_largo_mediana": null,
+     "pasan_pregunta": 0,
+     "pasan_llegada": 0,
+     "llegan_donde_la_puerta_ya_rechaza": 0,
+     "pares_pregunta_llegada": [],
+     "aceptadas": 1,
+     "evaluadas": {
+      "ok": 1,
+      "area": 8
+     },
+     "e2_dichos": 540,
+     "e2_sustituidos": 0,
+     "planes_del_hermano_recibidos": 0,
+     "mensajes_plan": [],
+     "malestar": [],
+     "cumplidas_fin_fase": 0,
+     "falsas_confianza": {
+      "planes_con_puntos": 0,
+      "puntos": 0,
+      "puntos_peor": 0,
+      "planes_peor_algun_punto": 0,
+      "planes_peor_primer_punto": 0,
+      "dif_mediana (d_real - d_proyectada)": null,
+      "dif_p90": null
+     },
+     "falsas_malestar26": {
+      "tramos": 0,
+      "peor": 0,
+      "dif_mediana (sentida - imaginada, vida)": null
+     },
+     "pasos_perdidos": [
+      {
+       "tick": 12432,
+       "fase": "5-7",
+       "en_razonador": false,
+       "en_encargo_juicio": true,
+       "ms16": 55.777
+      }
+     ],
+     "pasos_perdidos_5_7": 1,
+     "pasos_perdidos_en_razonador": 0,
+     "pasos_perdidos_en_encargo_juicio": 1,
+     "planes_vivos": [
+      [
+       12432,
+       1
+      ]
+     ],
+     "planes_cerrados": {
+      "1": 12454
+     },
+     "carp": "P623_t2_A7h_21412935",
+     "slot": 11
+    },
+    {
+     "tics": 11891,
+     "final": {
+      "reason": "eliminated",
+      "placement": 7
+     },
+     "resumen26": null,
+     "entorno_razonador": null,
+     "encargos": 0,
+     "no_dispara": 0,
+     "llamadas": 0,
+     "usd": 0.0,
+     "propone": 0,
+     "intraducibles": 0,
+     "calla": 0,
+     "errores": [],
+     "retraso_tics": {
+      "n": 0,
+      "mediana": null,
+      "p95": null,
+      "max": null
+     },
+     "ms_llamada_mediana": null,
+     "escena_largo_mediana": null,
+     "pasan_pregunta": 0,
+     "pasan_llegada": 0,
+     "llegan_donde_la_puerta_ya_rechaza": 0,
+     "pares_pregunta_llegada": [],
+     "aceptadas": 4,
+     "evaluadas": {
+      "ok": 4
+     },
+     "e2_dichos": 476,
+     "e2_sustituidos": 0,
+     "planes_del_hermano_recibidos": 0,
+     "mensajes_plan": [],
+     "malestar": [],
+     "cumplidas_fin_fase": 0,
+     "falsas_confianza": {
+      "planes_con_puntos": 4,
+      "puntos": 4,
+      "puntos_peor": 4,
+      "planes_peor_algun_punto": 4,
+      "planes_peor_primer_punto": 4,
+      "dif_mediana (d_real - d_proyectada)": 0.32888,
+      "dif_p90": 1.14635
+     },
+     "falsas_malestar26": {
+      "tramos": 0,
+      "peor": 0,
+      "dif_mediana (sentida - imaginada, vida)": null
+     },
+     "pasos_perdidos": [
+      {
+       "tick": 12292,
+       "fase": "5-7",
+       "en_razonador": false,
+       "en_encargo_juicio": true,
+       "ms16": 41.822
+      }
+     ],
+     "pasos_perdidos_5_7": 1,
+     "pasos_perdidos_en_razonador": 0,
+     "pasos_perdidos_en_encargo_juicio": 1,
+     "planes_vivos": [
+      [
+       12026,
+       1
+      ],
+      [
+       12126,
+       2
+      ],
+      [
+       12213,
+       3
+      ],
+      [
+       12292,
+       4
+      ]
+     ],
+     "planes_cerrados": {
+      "1": 12065,
+      "2": 12164,
+      "3": 12252,
+      "4": 12318
+     },
+     "carp": "P623_t2_A7h_21517664",
+     "slot": 10
+    },
+    {
+     "tics": 11832,
+     "final": {
+      "reason": "eliminated",
+      "placement": 8
+     },
+     "resumen26": null,
+     "entorno_razonador": null,
+     "encargos": 0,
+     "no_dispara": 0,
+     "llamadas": 0,
+     "usd": 0.0,
+     "propone": 0,
+     "intraducibles": 0,
+     "calla": 0,
+     "errores": [],
+     "retraso_tics": {
+      "n": 0,
+      "mediana": null,
+      "p95": null,
+      "max": null
+     },
+     "ms_llamada_mediana": null,
+     "escena_largo_mediana": null,
+     "pasan_pregunta": 0,
+     "pasan_llegada": 0,
+     "llegan_donde_la_puerta_ya_rechaza": 0,
+     "pares_pregunta_llegada": [],
+     "aceptadas": 4,
+     "evaluadas": {
+      "ok": 4
+     },
+     "e2_dichos": 474,
+     "e2_sustituidos": 0,
+     "planes_del_hermano_recibidos": 0,
+     "mensajes_plan": [],
+     "malestar": [],
+     "cumplidas_fin_fase": 0,
+     "falsas_confianza": {
+      "planes_con_puntos": 4,
+      "puntos": 4,
+      "puntos_peor": 4,
+      "planes_peor_algun_punto": 4,
+      "planes_peor_primer_punto": 4,
+      "dif_mediana (d_real - d_proyectada)": 0.31113,
+      "dif_p90": 1.2096399999999998
+     },
+     "falsas_malestar26": {
+      "tramos": 0,
+      "peor": 0,
+      "dif_mediana (sentida - imaginada, vida)": null
+     },
+     "pasos_perdidos": [],
+     "pasos_perdidos_5_7": 0,
+     "pasos_perdidos_en_razonador": 0,
+     "pasos_perdidos_en_encargo_juicio": 0,
+     "planes_vivos": [
+      [
+       11927,
+       1
+      ],
+      [
+       12029,
+       2
+      ],
+      [
+       12123,
+       3
+      ],
+      [
+       12219,
+       4
+      ]
+     ],
+     "planes_cerrados": {
+      "1": 11969,
+      "2": 12068,
+      "3": 12156,
+      "4": 12244
+     },
+     "carp": "P623_t2_A7h_21517664",
+     "slot": 11
+    },
+    {
+     "tics": 14496,
+     "final": {
+      "reason": "match_over",
+      "placement": 2
+     },
+     "resumen26": null,
+     "entorno_razonador": null,
+     "encargos": 0,
+     "no_dispara": 0,
+     "llamadas": 0,
+     "usd": 0.0,
+     "propone": 0,
+     "intraducibles": 0,
+     "calla": 0,
+     "errores": [],
+     "retraso_tics": {
+      "n": 0,
+      "mediana": null,
+      "p95": null,
+      "max": null
+     },
+     "ms_llamada_mediana": null,
+     "escena_largo_mediana": null,
+     "pasan_pregunta": 0,
+     "pasan_llegada": 0,
+     "llegan_donde_la_puerta_ya_rechaza": 0,
+     "pares_pregunta_llegada": [],
+     "aceptadas": 4,
+     "evaluadas": {
+      "area": 6,
+      "ok": 4
+     },
+     "e2_dichos": 580,
+     "e2_sustituidos": 0,
+     "planes_del_hermano_recibidos": 0,
+     "mensajes_plan": [],
+     "malestar": [],
+     "cumplidas_fin_fase": 0,
+     "falsas_confianza": {
+      "planes_con_puntos": 4,
+      "puntos": 7,
+      "puntos_peor": 6,
+      "planes_peor_algun_punto": 3,
+      "planes_peor_primer_punto": 3,
+      "dif_mediana (d_real - d_proyectada)": 0.38032,
+      "dif_p90": 0.9765299999999999
+     },
+     "falsas_malestar26": {
+      "tramos": 0,
+      "peor": 0,
+      "dif_mediana (sentida - imaginada, vida)": null
+     },
+     "pasos_perdidos": [],
+     "pasos_perdidos_5_7": 0,
+     "pasos_perdidos_en_razonador": 0,
+     "pasos_perdidos_en_encargo_juicio": 0,
+     "planes_vivos": [
+      [
+       14669,
+       7
+      ],
+      [
+       14725,
+       8
+      ],
+      [
+       14810,
+       9
+      ],
+      [
+       14954,
+       10
+      ]
+     ],
+     "planes_cerrados": {
+      "7": 14691,
+      "8": 14795,
+      "9": 14933,
+      "10": 14968
+     },
+     "carp": "P623_t2_A7h_21622393",
+     "slot": 10
+    },
+    {
+     "tics": 14496,
+     "final": {
+      "reason": "match_over",
+      "placement": 1
+     },
+     "resumen26": null,
+     "entorno_razonador": null,
+     "encargos": 0,
+     "no_dispara": 0,
+     "llamadas": 0,
+     "usd": 0.0,
+     "propone": 0,
+     "intraducibles": 0,
+     "calla": 0,
+     "errores": [],
+     "retraso_tics": {
+      "n": 0,
+      "mediana": null,
+      "p95": null,
+      "max": null
+     },
+     "ms_llamada_mediana": null,
+     "escena_largo_mediana": null,
+     "pasan_pregunta": 0,
+     "pasan_llegada": 0,
+     "llegan_donde_la_puerta_ya_rechaza": 0,
+     "pares_pregunta_llegada": [],
+     "aceptadas": 4,
+     "evaluadas": {
+      "area": 6,
+      "ok": 4
+     },
+     "e2_dichos": 580,
+     "e2_sustituidos": 0,
+     "planes_del_hermano_recibidos": 0,
+     "mensajes_plan": [],
+     "malestar": [],
+     "cumplidas_fin_fase": 0,
+     "falsas_confianza": {
+      "planes_con_puntos": 4,
+      "puntos": 7,
+      "puntos_peor": 3,
+      "planes_peor_algun_punto": 3,
+      "planes_peor_primer_punto": 2,
+      "dif_mediana (d_real - d_proyectada)": -0.01438,
+      "dif_p90": 1.0126599999999994
+     },
+     "falsas_malestar26": {
+      "tramos": 0,
+      "peor": 0,
+      "dif_mediana (sentida - imaginada, vida)": null
+     },
+     "pasos_perdidos": [],
+     "pasos_perdidos_5_7": 0,
+     "pasos_perdidos_en_razonador": 0,
+     "pasos_perdidos_en_encargo_juicio": 0,
+     "planes_vivos": [
+      [
+       12561,
+       2
+      ],
+      [
+       12821,
+       3
+      ],
+      [
+       14621,
+       9
+      ],
+      [
+       14686,
+       10
+      ]
+     ],
+     "planes_cerrados": {
+      "2": 12665,
+      "3": 12853,
+      "9": 14665,
+      "10": 14736
+     },
+     "carp": "P623_t2_A7h_21622393",
+     "slot": 11
+    },
+    {
+     "tics": 14208,
+     "final": {
+      "reason": "eliminated",
+      "placement": 5
+     },
+     "resumen26": null,
+     "entorno_razonador": null,
+     "encargos": 0,
+     "no_dispara": 0,
+     "llamadas": 0,
+     "usd": 0.0,
+     "propone": 0,
+     "intraducibles": 0,
+     "calla": 0,
+     "errores": [],
+     "retraso_tics": {
+      "n": 0,
+      "mediana": null,
+      "p95": null,
+      "max": null
+     },
+     "ms_llamada_mediana": null,
+     "escena_largo_mediana": null,
+     "pasan_pregunta": 0,
+     "pasan_llegada": 0,
+     "llegan_donde_la_puerta_ya_rechaza": 0,
+     "pares_pregunta_llegada": [],
+     "aceptadas": 4,
+     "evaluadas": {
+      "ok": 4,
+      "area": 4,
+      "vida": 1
+     },
+     "e2_dichos": 569,
+     "e2_sustituidos": 0,
+     "planes_del_hermano_recibidos": 0,
+     "mensajes_plan": [],
+     "malestar": [],
+     "cumplidas_fin_fase": 0,
+     "falsas_confianza": {
+      "planes_con_puntos": 4,
+      "puntos": 9,
+      "puntos_peor": 4,
+      "planes_peor_algun_punto": 3,
+      "planes_peor_primer_punto": 2,
+      "dif_mediana (d_real - d_proyectada)": -0.0023,
+      "dif_p90": 1.2756399999999992
+     },
+     "falsas_malestar26": {
+      "tramos": 0,
+      "peor": 0,
+      "dif_mediana (sentida - imaginada, vida)": null
+     },
+     "pasos_perdidos": [],
+     "pasos_perdidos_5_7": 0,
+     "pasos_perdidos_en_razonador": 0,
+     "pasos_perdidos_en_encargo_juicio": 0,
+     "planes_vivos": [
+      [
+       12465,
+       1
+      ],
+      [
+       12526,
+       2
+      ],
+      [
+       12694,
+       3
+      ],
+      [
+       14615,
+       8
+      ]
+     ],
+     "planes_cerrados": {
+      "1": 12490,
+      "2": 12654,
+      "8": 14640
+     },
+     "carp": "P623_t2_A7h_21727122",
+     "slot": 10
+    },
+    {
+     "tics": 14208,
+     "final": {
+      "reason": "eliminated",
+      "placement": 6
+     },
+     "resumen26": null,
+     "entorno_razonador": null,
+     "encargos": 0,
+     "no_dispara": 0,
+     "llamadas": 0,
+     "usd": 0.0,
+     "propone": 0,
+     "intraducibles": 0,
+     "calla": 0,
+     "errores": [],
+     "retraso_tics": {
+      "n": 0,
+      "mediana": null,
+      "p95": null,
+      "max": null
+     },
+     "ms_llamada_mediana": null,
+     "escena_largo_mediana": null,
+     "pasan_pregunta": 0,
+     "pasan_llegada": 0,
+     "llegan_donde_la_puerta_ya_rechaza": 0,
+     "pares_pregunta_llegada": [],
+     "aceptadas": 2,
+     "evaluadas": {
+      "area": 1,
+      "ok": 2
+     },
+     "e2_dichos": 569,
+     "e2_sustituidos": 0,
+     "planes_del_hermano_recibidos": 0,
+     "mensajes_plan": [],
+     "malestar": [],
+     "cumplidas_fin_fase": 0,
+     "falsas_confianza": {
+      "planes_con_puntos": 2,
+      "puntos": 4,
+      "puntos_peor": 4,
+      "planes_peor_algun_punto": 2,
+      "planes_peor_primer_punto": 2,
+      "dif_mediana (d_real - d_proyectada)": 0.43519,
+      "dif_p90": 1.4886600000000003
+     },
+     "falsas_malestar26": {
+      "tramos": 0,
+      "peor": 0,
+      "dif_mediana (sentida - imaginada, vida)": null
+     },
+     "pasos_perdidos": [],
+     "pasos_perdidos_5_7": 0,
+     "pasos_perdidos_en_razonador": 0,
+     "pasos_perdidos_en_encargo_juicio": 0,
+     "planes_vivos": [
+      [
+       14356,
+       2
+      ],
+      [
+       14646,
+       3
+      ]
+     ],
+     "planes_cerrados": {
+      "2": 14605,
+      "3": 14671
+     },
+     "carp": "P623_t2_A7h_21727122",
+     "slot": 11
+    },
+    {
+     "tics": 14130,
+     "final": {
+      "reason": "eliminated",
+      "placement": 5
+     },
+     "resumen26": null,
+     "entorno_razonador": null,
+     "encargos": 0,
+     "no_dispara": 0,
+     "llamadas": 0,
+     "usd": 0.0,
+     "propone": 0,
+     "intraducibles": 0,
+     "calla": 0,
+     "errores": [],
+     "retraso_tics": {
+      "n": 0,
+      "mediana": null,
+      "p95": null,
+      "max": null
+     },
+     "ms_llamada_mediana": null,
+     "escena_largo_mediana": null,
+     "pasan_pregunta": 0,
+     "pasan_llegada": 0,
+     "llegan_donde_la_puerta_ya_rechaza": 0,
+     "pares_pregunta_llegada": [],
+     "aceptadas": 3,
+     "evaluadas": {
+      "ok": 3,
+      "area": 1
+     },
+     "e2_dichos": 566,
+     "e2_sustituidos": 0,
+     "planes_del_hermano_recibidos": 0,
+     "mensajes_plan": [],
+     "malestar": [],
+     "cumplidas_fin_fase": 0,
+     "falsas_confianza": {
+      "planes_con_puntos": 3,
+      "puntos": 6,
+      "puntos_peor": 1,
+      "planes_peor_algun_punto": 1,
+      "planes_peor_primer_punto": 1,
+      "dif_mediana (d_real - d_proyectada)": -0.05438,
+      "dif_p90": 0.01839999999999975
+     },
+     "falsas_malestar26": {
+      "tramos": 0,
+      "peor": 0,
+      "dif_mediana (sentida - imaginada, vida)": null
+     },
+     "pasos_perdidos": [],
+     "pasos_perdidos_5_7": 0,
+     "pasos_perdidos_en_razonador": 0,
+     "pasos_perdidos_en_encargo_juicio": 0,
+     "planes_vivos": [
+      [
+       12529,
+       1
+      ],
+      [
+       12611,
+       2
+      ],
+      [
+       13597,
+       3
+      ]
+     ],
+     "planes_cerrados": {
+      "1": 12562,
+      "2": 12997,
+      "3": 13646
+     },
+     "carp": "P623_t2_A7h_21831851",
+     "slot": 10
+    },
+    {
+     "tics": 14148,
+     "final": {
+      "reason": "eliminated",
+      "placement": 4
+     },
+     "resumen26": null,
+     "entorno_razonador": null,
+     "encargos": 0,
+     "no_dispara": 0,
+     "llamadas": 0,
+     "usd": 0.0,
+     "propone": 0,
+     "intraducibles": 0,
+     "calla": 0,
+     "errores": [],
+     "retraso_tics": {
+      "n": 0,
+      "mediana": null,
+      "p95": null,
+      "max": null
+     },
+     "ms_llamada_mediana": null,
+     "escena_largo_mediana": null,
+     "pasan_pregunta": 0,
+     "pasan_llegada": 0,
+     "llegan_donde_la_puerta_ya_rechaza": 0,
+     "pares_pregunta_llegada": [],
+     "aceptadas": 5,
+     "evaluadas": {
+      "ok": 5
+     },
+     "e2_dichos": 566,
+     "e2_sustituidos": 0,
+     "planes_del_hermano_recibidos": 0,
+     "mensajes_plan": [],
+     "malestar": [],
+     "cumplidas_fin_fase": 0,
+     "falsas_confianza": {
+      "planes_con_puntos": 5,
+      "puntos": 10,
+      "puntos_peor": 7,
+      "planes_peor_algun_punto": 4,
+      "planes_peor_primer_punto": 4,
+      "dif_mediana (d_real - d_proyectada)": 0.25863,
+      "dif_p90": 0.5955699999999999
+     },
+     "falsas_malestar26": {
+      "tramos": 0,
+      "peor": 0,
+      "dif_mediana (sentida - imaginada, vida)": null
+     },
+     "pasos_perdidos": [],
+     "pasos_perdidos_5_7": 0,
+     "pasos_perdidos_en_razonador": 0,
+     "pasos_perdidos_en_encargo_juicio": 0,
+     "planes_vivos": [
+      [
+       12504,
+       1
+      ],
+      [
+       12823,
+       2
+      ],
+      [
+       13657,
+       3
+      ],
+      [
+       13830,
+       4
+      ],
+      [
+       13884,
+       5
+      ]
+     ],
+     "planes_cerrados": {
+      "1": 12652,
+      "2": 12878,
+      "3": 13788,
+      "4": 13855,
+      "5": 13909
+     },
+     "carp": "P623_t2_A7h_21831851",
+     "slot": 11
+    },
+    {
+     "tics": 12504,
+     "final": {
+      "reason": "eliminated",
+      "placement": 4
+     },
+     "resumen26": null,
+     "entorno_razonador": null,
+     "encargos": 0,
+     "no_dispara": 0,
+     "llamadas": 0,
+     "usd": 0.0,
+     "propone": 0,
+     "intraducibles": 0,
+     "calla": 0,
+     "errores": [],
+     "retraso_tics": {
+      "n": 0,
+      "mediana": null,
+      "p95": null,
+      "max": null
+     },
+     "ms_llamada_mediana": null,
+     "escena_largo_mediana": null,
+     "pasan_pregunta": 0,
+     "pasan_llegada": 0,
+     "llegan_donde_la_puerta_ya_rechaza": 0,
+     "pares_pregunta_llegada": [],
+     "aceptadas": 3,
+     "evaluadas": {
+      "area": 8,
+      "ok": 3,
+      "vida": 4
+     },
+     "e2_dichos": 501,
+     "e2_sustituidos": 0,
+     "planes_del_hermano_recibidos": 0,
+     "mensajes_plan": [],
+     "malestar": [],
+     "cumplidas_fin_fase": 0,
+     "falsas_confianza": {
+      "planes_con_puntos": 2,
+      "puntos": 2,
+      "puntos_peor": 0,
+      "planes_peor_algun_punto": 0,
+      "planes_peor_primer_punto": 0,
+      "dif_mediana (d_real - d_proyectada)": -0.38927,
+      "dif_p90": -0.07689000000000012
+     },
+     "falsas_malestar26": {
+      "tramos": 0,
+      "peor": 0,
+      "dif_mediana (sentida - imaginada, vida)": null
+     },
+     "pasos_perdidos": [],
+     "pasos_perdidos_5_7": 0,
+     "pasos_perdidos_en_razonador": 0,
+     "pasos_perdidos_en_encargo_juicio": 0,
+     "planes_vivos": [
+      [
+       12612,
+       7
+      ],
+      [
+       12757,
+       9
+      ],
+      [
+       12827,
+       11
+      ]
+     ],
+     "planes_cerrados": {
+      "7": 12643,
+      "9": 12775,
+      "11": 12857
+     },
+     "carp": "P623_t2_A7h_21936580",
+     "slot": 10
+    },
+    {
+     "tics": 12432,
+     "final": {
+      "reason": "eliminated",
+      "placement": 5
+     },
+     "resumen26": null,
+     "entorno_razonador": null,
+     "encargos": 0,
+     "no_dispara": 0,
+     "llamadas": 0,
+     "usd": 0.0,
+     "propone": 0,
+     "intraducibles": 0,
+     "calla": 0,
+     "errores": [],
+     "retraso_tics": {
+      "n": 0,
+      "mediana": null,
+      "p95": null,
+      "max": null
+     },
+     "ms_llamada_mediana": null,
+     "escena_largo_mediana": null,
+     "pasan_pregunta": 0,
+     "pasan_llegada": 0,
+     "llegan_donde_la_puerta_ya_rechaza": 0,
+     "pares_pregunta_llegada": [],
+     "aceptadas": 7,
+     "evaluadas": {
+      "ok": 7,
+      "area": 2
+     },
+     "e2_dichos": 498,
+     "e2_sustituidos": 0,
+     "planes_del_hermano_recibidos": 0,
+     "mensajes_plan": [],
+     "malestar": [],
+     "cumplidas_fin_fase": 0,
+     "falsas_confianza": {
+      "planes_con_puntos": 7,
+      "puntos": 19,
+      "puntos_peor": 11,
+      "planes_peor_algun_punto": 6,
+      "planes_peor_primer_punto": 6,
+      "dif_mediana (d_real - d_proyectada)": 0.01948,
+      "dif_p90": 0.1879900000000001
+     },
+     "falsas_malestar26": {
+      "tramos": 0,
+      "peor": 0,
+      "dif_mediana (sentida - imaginada, vida)": null
+     },
+     "pasos_perdidos": [],
+     "pasos_perdidos_5_7": 0,
+     "pasos_perdidos_en_razonador": 0,
+     "pasos_perdidos_en_encargo_juicio": 0,
+     "planes_vivos": [
+      [
+       10207,
+       1
+      ],
+      [
+       10300,
+       2
+      ],
+      [
+       10762,
+       3
+      ],
+      [
+       11259,
+       4
+      ],
+      [
+       11365,
+       5
+      ],
+      [
+       11703,
+       7
+      ],
+      [
+       12131,
+       9
+      ]
+     ],
+     "planes_cerrados": {
+      "1": 10259,
+      "4": 11341,
+      "5": 11388,
+      "7": 11865
+     },
+     "carp": "P623_t2_A7h_21936580",
+     "slot": 11
+    },
+    {
+     "tics": 12576,
+     "final": {
+      "reason": "eliminated",
+      "placement": 4
+     },
+     "resumen26": null,
+     "entorno_razonador": null,
+     "encargos": 0,
+     "no_dispara": 0,
+     "llamadas": 0,
+     "usd": 0.0,
+     "propone": 0,
+     "intraducibles": 0,
+     "calla": 0,
+     "errores": [],
+     "retraso_tics": {
+      "n": 0,
+      "mediana": null,
+      "p95": null,
+      "max": null
+     },
+     "ms_llamada_mediana": null,
+     "escena_largo_mediana": null,
+     "pasan_pregunta": 0,
+     "pasan_llegada": 0,
+     "llegan_donde_la_puerta_ya_rechaza": 0,
+     "pares_pregunta_llegada": [],
+     "aceptadas": 3,
+     "evaluadas": {
+      "area": 6,
+      "ok": 3,
+      "vida": 1
+     },
+     "e2_dichos": 504,
+     "e2_sustituidos": 0,
+     "planes_del_hermano_recibidos": 0,
+     "mensajes_plan": [],
+     "malestar": [],
+     "cumplidas_fin_fase": 0,
+     "falsas_confianza": {
+      "planes_con_puntos": 1,
+      "puntos": 3,
+      "puntos_peor": 1,
+      "planes_peor_algun_punto": 1,
+      "planes_peor_primer_punto": 1,
+      "dif_mediana (d_real - d_proyectada)": -0.02212,
+      "dif_p90": 0.052990000000000315
+     },
+     "falsas_malestar26": {
+      "tramos": 0,
+      "peor": 0,
+      "dif_mediana (sentida - imaginada, vida)": null
+     },
+     "pasos_perdidos": [],
+     "pasos_perdidos_5_7": 0,
+     "pasos_perdidos_en_razonador": 0,
+     "pasos_perdidos_en_encargo_juicio": 0,
+     "planes_vivos": [
+      [
+       12543,
+       2
+      ],
+      [
+       12773,
+       3
+      ],
+      [
+       13042,
+       10
+      ]
+     ],
+     "planes_cerrados": {
+      "2": 12741,
+      "3": 12797
+     },
+     "carp": "P623_t2_A7h_22041309",
+     "slot": 10
+    },
+    {
+     "tics": 11856,
+     "final": {
+      "reason": "eliminated",
+      "placement": 6
+     },
+     "resumen26": null,
+     "entorno_razonador": null,
+     "encargos": 0,
+     "no_dispara": 0,
+     "llamadas": 0,
+     "usd": 0.0,
+     "propone": 0,
+     "intraducibles": 0,
+     "calla": 0,
+     "errores": [],
+     "retraso_tics": {
+      "n": 0,
+      "mediana": null,
+      "p95": null,
+      "max": null
+     },
+     "ms_llamada_mediana": null,
+     "escena_largo_mediana": null,
+     "pasan_pregunta": 0,
+     "pasan_llegada": 0,
+     "llegan_donde_la_puerta_ya_rechaza": 0,
+     "pares_pregunta_llegada": [],
+     "aceptadas": 0,
+     "evaluadas": {
+      "vida": 4
+     },
+     "e2_dichos": 475,
+     "e2_sustituidos": 0,
+     "planes_del_hermano_recibidos": 0,
+     "mensajes_plan": [],
+     "malestar": [],
+     "cumplidas_fin_fase": 0,
+     "falsas_confianza": {
+      "planes_con_puntos": 0,
+      "puntos": 0,
+      "puntos_peor": 0,
+      "planes_peor_algun_punto": 0,
+      "planes_peor_primer_punto": 0,
+      "dif_mediana (d_real - d_proyectada)": null,
+      "dif_p90": null
+     },
+     "falsas_malestar26": {
+      "tramos": 0,
+      "peor": 0,
+      "dif_mediana (sentida - imaginada, vida)": null
+     },
+     "pasos_perdidos": [],
+     "pasos_perdidos_5_7": 0,
+     "pasos_perdidos_en_razonador": 0,
+     "pasos_perdidos_en_encargo_juicio": 0,
+     "planes_vivos": [],
+     "planes_cerrados": {},
+     "carp": "P623_t2_A7h_22041309",
+     "slot": 11
+    },
+    {
+     "tics": 12048,
+     "final": {
+      "reason": "eliminated",
+      "placement": 6
+     },
+     "resumen26": null,
+     "entorno_razonador": null,
+     "encargos": 0,
+     "no_dispara": 0,
+     "llamadas": 0,
+     "usd": 0.0,
+     "propone": 0,
+     "intraducibles": 0,
+     "calla": 0,
+     "errores": [],
+     "retraso_tics": {
+      "n": 0,
+      "mediana": null,
+      "p95": null,
+      "max": null
+     },
+     "ms_llamada_mediana": null,
+     "escena_largo_mediana": null,
+     "pasan_pregunta": 0,
+     "pasan_llegada": 0,
+     "llegan_donde_la_puerta_ya_rechaza": 0,
+     "pares_pregunta_llegada": [],
+     "aceptadas": 2,
+     "evaluadas": {
+      "area": 3,
+      "ok": 2,
+      "vida": 1
+     },
+     "e2_dichos": 482,
+     "e2_sustituidos": 0,
+     "planes_del_hermano_recibidos": 0,
+     "mensajes_plan": [],
+     "malestar": [],
+     "cumplidas_fin_fase": 0,
+     "falsas_confianza": {
+      "planes_con_puntos": 2,
+      "puntos": 5,
+      "puntos_peor": 3,
+      "planes_peor_algun_punto": 1,
+      "planes_peor_primer_punto": 1,
+      "dif_mediana (d_real - d_proyectada)": 0.10601,
+      "dif_p90": 0.20750000000000046
+     },
+     "falsas_malestar26": {
+      "tramos": 0,
+      "peor": 0,
+      "dif_mediana (sentida - imaginada, vida)": null
+     },
+     "pasos_perdidos": [
+      {
+       "tick": 9534,
+       "fase": "1-4",
+       "en_razonador": false,
+       "en_encargo_juicio": false,
+       "ms16": 11.728
+      }
+     ],
+     "pasos_perdidos_5_7": 0,
+     "pasos_perdidos_en_razonador": 0,
+     "pasos_perdidos_en_encargo_juicio": 0,
+     "planes_vivos": [
+      [
+       11701,
+       2
+      ],
+      [
+       12238,
+       4
+      ]
+     ],
+     "planes_cerrados": {
+      "2": 11766,
+      "4": 12414
+     },
+     "carp": "P623_t2_A7h_22146038",
+     "slot": 10
+    },
+    {
+     "tics": 14184,
+     "final": {
+      "reason": "eliminated",
+      "placement": 4
+     },
+     "resumen26": null,
+     "entorno_razonador": null,
+     "encargos": 0,
+     "no_dispara": 0,
+     "llamadas": 0,
+     "usd": 0.0,
+     "propone": 0,
+     "intraducibles": 0,
+     "calla": 0,
+     "errores": [],
+     "retraso_tics": {
+      "n": 0,
+      "mediana": null,
+      "p95": null,
+      "max": null
+     },
+     "ms_llamada_mediana": null,
+     "escena_largo_mediana": null,
+     "pasan_pregunta": 0,
+     "pasan_llegada": 0,
+     "llegan_donde_la_puerta_ya_rechaza": 0,
+     "pares_pregunta_llegada": [],
+     "aceptadas": 2,
+     "evaluadas": {
+      "area": 6,
+      "ok": 2
+     },
+     "e2_dichos": 568,
+     "e2_sustituidos": 0,
+     "planes_del_hermano_recibidos": 0,
+     "mensajes_plan": [],
+     "malestar": [],
+     "cumplidas_fin_fase": 0,
+     "falsas_confianza": {
+      "planes_con_puntos": 2,
+      "puntos": 4,
+      "puntos_peor": 4,
+      "planes_peor_algun_punto": 2,
+      "planes_peor_primer_punto": 2,
+      "dif_mediana (d_real - d_proyectada)": 0.23449,
+      "dif_p90": 0.29391999999999996
+     },
+     "falsas_malestar26": {
+      "tramos": 0,
+      "peor": 0,
+      "dif_mediana (sentida - imaginada, vida)": null
+     },
+     "pasos_perdidos": [],
+     "pasos_perdidos_5_7": 0,
+     "pasos_perdidos_en_razonador": 0,
+     "pasos_perdidos_en_encargo_juicio": 0,
+     "planes_vivos": [
+      [
+       12525,
+       2
+      ],
+      [
+       14431,
+       8
+      ]
+     ],
+     "planes_cerrados": {
+      "2": 12550
+     },
+     "carp": "P623_t2_A7h_22146038",
+     "slot": 11
+    },
+    {
+     "tics": 14040,
+     "final": {
+      "reason": "match_over",
+      "placement": 2
+     },
+     "resumen26": null,
+     "entorno_razonador": null,
+     "encargos": 0,
+     "no_dispara": 0,
+     "llamadas": 0,
+     "usd": 0.0,
+     "propone": 0,
+     "intraducibles": 0,
+     "calla": 0,
+     "errores": [],
+     "retraso_tics": {
+      "n": 0,
+      "mediana": null,
+      "p95": null,
+      "max": null
+     },
+     "ms_llamada_mediana": null,
+     "escena_largo_mediana": null,
+     "pasan_pregunta": 0,
+     "pasan_llegada": 0,
+     "llegan_donde_la_puerta_ya_rechaza": 0,
+     "pares_pregunta_llegada": [],
+     "aceptadas": 2,
+     "evaluadas": {
+      "area": 2,
+      "ok": 2
+     },
+     "e2_dichos": 562,
+     "e2_sustituidos": 0,
+     "planes_del_hermano_recibidos": 0,
+     "mensajes_plan": [],
+     "malestar": [],
+     "cumplidas_fin_fase": 0,
+     "falsas_confianza": {
+      "planes_con_puntos": 1,
+      "puntos": 3,
+      "puntos_peor": 3,
+      "planes_peor_algun_punto": 1,
+      "planes_peor_primer_punto": 1,
+      "dif_mediana (d_real - d_proyectada)": 0.16056,
+      "dif_p90": 0.7041099999999996
+     },
+     "falsas_malestar26": {
+      "tramos": 0,
+      "peor": 0,
+      "dif_mediana (sentida - imaginada, vida)": null
+     },
+     "pasos_perdidos": [],
+     "pasos_perdidos_5_7": 0,
+     "pasos_perdidos_en_razonador": 0,
+     "pasos_perdidos_en_encargo_juicio": 0,
+     "planes_vivos": [
+      [
+       12586,
+       2
+      ],
+      [
+       14517,
+       4
+      ]
+     ],
+     "planes_cerrados": {
+      "2": 12882
+     },
+     "carp": "P623_t2_A7h_22250767",
+     "slot": 10
+    },
+    {
+     "tics": 12360,
+     "final": {
+      "reason": "eliminated",
+      "placement": 3
+     },
+     "resumen26": null,
+     "entorno_razonador": null,
+     "encargos": 0,
+     "no_dispara": 0,
+     "llamadas": 0,
+     "usd": 0.0,
+     "propone": 0,
+     "intraducibles": 0,
+     "calla": 0,
+     "errores": [],
+     "retraso_tics": {
+      "n": 0,
+      "mediana": null,
+      "p95": null,
+      "max": null
+     },
+     "ms_llamada_mediana": null,
+     "escena_largo_mediana": null,
+     "pasan_pregunta": 0,
+     "pasan_llegada": 0,
+     "llegan_donde_la_puerta_ya_rechaza": 0,
+     "pares_pregunta_llegada": [],
+     "aceptadas": 1,
+     "evaluadas": {
+      "area": 1,
+      "ok": 1,
+      "vida": 1
+     },
+     "e2_dichos": 495,
+     "e2_sustituidos": 0,
+     "planes_del_hermano_recibidos": 0,
+     "mensajes_plan": [],
+     "malestar": [],
+     "cumplidas_fin_fase": 0,
+     "falsas_confianza": {
+      "planes_con_puntos": 1,
+      "puntos": 1,
+      "puntos_peor": 0,
+      "planes_peor_algun_punto": 0,
+      "planes_peor_primer_punto": 0,
+      "dif_mediana (d_real - d_proyectada)": -0.03597,
+      "dif_p90": -0.035969999999999835
+     },
+     "falsas_malestar26": {
+      "tramos": 0,
+      "peor": 0,
+      "dif_mediana (sentida - imaginada, vida)": null
+     },
+     "pasos_perdidos": [],
+     "pasos_perdidos_5_7": 0,
+     "pasos_perdidos_en_razonador": 0,
+     "pasos_perdidos_en_encargo_juicio": 0,
+     "planes_vivos": [
+      [
+       12762,
+       2
+      ]
+     ],
+     "planes_cerrados": {
+      "2": 12794
+     },
+     "carp": "P623_t2_A7h_22250767",
+     "slot": 11
+    },
+    {
+     "tics": 14568,
+     "final": {
+      "reason": "match_over",
+      "placement": 1
+     },
+     "resumen26": null,
+     "entorno_razonador": null,
+     "encargos": 0,
+     "no_dispara": 0,
+     "llamadas": 0,
+     "usd": 0.0,
+     "propone": 0,
+     "intraducibles": 0,
+     "calla": 0,
+     "errores": [],
+     "retraso_tics": {
+      "n": 0,
+      "mediana": null,
+      "p95": null,
+      "max": null
+     },
+     "ms_llamada_mediana": null,
+     "escena_largo_mediana": null,
+     "pasan_pregunta": 0,
+     "pasan_llegada": 0,
+     "llegan_donde_la_puerta_ya_rechaza": 0,
+     "pares_pregunta_llegada": [],
+     "aceptadas": 2,
+     "evaluadas": {
+      "ok": 2,
+      "vida": 1
+     },
+     "e2_dichos": 583,
+     "e2_sustituidos": 0,
+     "planes_del_hermano_recibidos": 0,
+     "mensajes_plan": [],
+     "malestar": [],
+     "cumplidas_fin_fase": 0,
+     "falsas_confianza": {
+      "planes_con_puntos": 2,
+      "puntos": 3,
+      "puntos_peor": 1,
+      "planes_peor_algun_punto": 1,
+      "planes_peor_primer_punto": 1,
+      "dif_mediana (d_real - d_proyectada)": -0.04865,
+      "dif_p90": 0.6366599999999996
+     },
+     "falsas_malestar26": {
+      "tramos": 0,
+      "peor": 0,
+      "dif_mediana (sentida - imaginada, vida)": null
+     },
+     "pasos_perdidos": [],
+     "pasos_perdidos_5_7": 0,
+     "pasos_perdidos_en_razonador": 0,
+     "pasos_perdidos_en_encargo_juicio": 0,
+     "planes_vivos": [
+      [
+       14350,
+       1
+      ],
+      [
+       14987,
+       2
+      ]
+     ],
+     "planes_cerrados": {
+      "1": 14412,
+      "2": 15012
+     },
+     "carp": "P624_t2_A7h_24450076",
+     "slot": 10
+    },
+    {
+     "tics": 14568,
+     "final": {
+      "reason": "match_over",
+      "placement": 2
+     },
+     "resumen26": null,
+     "entorno_razonador": null,
+     "encargos": 0,
+     "no_dispara": 0,
+     "llamadas": 0,
+     "usd": 0.0,
+     "propone": 0,
+     "intraducibles": 0,
+     "calla": 0,
+     "errores": [],
+     "retraso_tics": {
+      "n": 0,
+      "mediana": null,
+      "p95": null,
+      "max": null
+     },
+     "ms_llamada_mediana": null,
+     "escena_largo_mediana": null,
+     "pasan_pregunta": 0,
+     "pasan_llegada": 0,
+     "llegan_donde_la_puerta_ya_rechaza": 0,
+     "pares_pregunta_llegada": [],
+     "aceptadas": 2,
+     "evaluadas": {
+      "ok": 2
+     },
+     "e2_dichos": 583,
+     "e2_sustituidos": 0,
+     "planes_del_hermano_recibidos": 0,
+     "mensajes_plan": [],
+     "malestar": [],
+     "cumplidas_fin_fase": 0,
+     "falsas_confianza": {
+      "planes_con_puntos": 2,
+      "puntos": 4,
+      "puntos_peor": 4,
+      "planes_peor_algun_punto": 2,
+      "planes_peor_primer_punto": 2,
+      "dif_mediana (d_real - d_proyectada)": 0.35345,
+      "dif_p90": 1.0027300000000001
+     },
+     "falsas_malestar26": {
+      "tramos": 0,
+      "peor": 0,
+      "dif_mediana (sentida - imaginada, vida)": null
+     },
+     "pasos_perdidos": [],
+     "pasos_perdidos_5_7": 0,
+     "pasos_perdidos_en_razonador": 0,
+     "pasos_perdidos_en_encargo_juicio": 0,
+     "planes_vivos": [
+      [
+       14718,
+       1
+      ],
+      [
+       14960,
+       2
+      ]
+     ],
+     "planes_cerrados": {
+      "1": 14934,
+      "2": 14985
+     },
+     "carp": "P624_t2_A7h_24450076",
+     "slot": 11
+    },
+    {
+     "tics": 14520,
+     "final": {
+      "reason": "match_over",
+      "placement": 2
+     },
+     "resumen26": null,
+     "entorno_razonador": null,
+     "encargos": 0,
+     "no_dispara": 0,
+     "llamadas": 0,
+     "usd": 0.0,
+     "propone": 0,
+     "intraducibles": 0,
+     "calla": 0,
+     "errores": [],
+     "retraso_tics": {
+      "n": 0,
+      "mediana": null,
+      "p95": null,
+      "max": null
+     },
+     "ms_llamada_mediana": null,
+     "escena_largo_mediana": null,
+     "pasan_pregunta": 0,
+     "pasan_llegada": 0,
+     "llegan_donde_la_puerta_ya_rechaza": 0,
+     "pares_pregunta_llegada": [],
+     "aceptadas": 6,
+     "evaluadas": {
+      "ok": 6
+     },
+     "e2_dichos": 581,
+     "e2_sustituidos": 0,
+     "planes_del_hermano_recibidos": 0,
+     "mensajes_plan": [],
+     "malestar": [],
+     "cumplidas_fin_fase": 0,
+     "falsas_confianza": {
+      "planes_con_puntos": 5,
+      "puntos": 13,
+      "puntos_peor": 5,
+      "planes_peor_algun_punto": 4,
+      "planes_peor_primer_punto": 4,
+      "dif_mediana (d_real - d_proyectada)": -0.04824,
+      "dif_p90": 0.10512999999999995
+     },
+     "falsas_malestar26": {
+      "tramos": 0,
+      "peor": 0,
+      "dif_mediana (sentida - imaginada, vida)": null
+     },
+     "pasos_perdidos": [],
+     "pasos_perdidos_5_7": 0,
+     "pasos_perdidos_en_razonador": 0,
+     "pasos_perdidos_en_encargo_juicio": 0,
+     "planes_vivos": [
+      [
+       11123,
+       1
+      ],
+      [
+       11611,
+       2
+      ],
+      [
+       12283,
+       3
+      ],
+      [
+       12340,
+       4
+      ],
+      [
+       12670,
+       5
+      ],
+      [
+       13935,
+       6
+      ]
+     ],
+     "planes_cerrados": {
+      "2": 11638,
+      "3": 12306,
+      "4": 12600,
+      "6": 13964
+     },
+     "carp": "P624_t2_A7h_24554805",
+     "slot": 10
+    },
+    {
+     "tics": 14520,
+     "final": {
+      "reason": "winner",
+      "placement": 1
+     },
+     "resumen26": null,
+     "entorno_razonador": null,
+     "encargos": 0,
+     "no_dispara": 0,
+     "llamadas": 0,
+     "usd": 0.0,
+     "propone": 0,
+     "intraducibles": 0,
+     "calla": 0,
+     "errores": [],
+     "retraso_tics": {
+      "n": 0,
+      "mediana": null,
+      "p95": null,
+      "max": null
+     },
+     "ms_llamada_mediana": null,
+     "escena_largo_mediana": null,
+     "pasan_pregunta": 0,
+     "pasan_llegada": 0,
+     "llegan_donde_la_puerta_ya_rechaza": 0,
+     "pares_pregunta_llegada": [],
+     "aceptadas": 5,
+     "evaluadas": {
+      "ok": 5
+     },
+     "e2_dichos": 581,
+     "e2_sustituidos": 0,
+     "planes_del_hermano_recibidos": 0,
+     "mensajes_plan": [],
+     "malestar": [],
+     "cumplidas_fin_fase": 0,
+     "falsas_confianza": {
+      "planes_con_puntos": 5,
+      "puntos": 9,
+      "puntos_peor": 9,
+      "planes_peor_algun_punto": 5,
+      "planes_peor_primer_punto": 5,
+      "dif_mediana (d_real - d_proyectada)": 0.29227,
+      "dif_p90": 0.5173100000000002
+     },
+     "falsas_malestar26": {
+      "tramos": 0,
+      "peor": 0,
+      "dif_mediana (sentida - imaginada, vida)": null
+     },
+     "pasos_perdidos": [],
+     "pasos_perdidos_5_7": 0,
+     "pasos_perdidos_en_razonador": 0,
+     "pasos_perdidos_en_encargo_juicio": 0,
+     "planes_vivos": [
+      [
+       13480,
+       1
+      ],
+      [
+       13805,
+       2
+      ],
+      [
+       13860,
+       3
+      ],
+      [
+       14705,
+       4
+      ],
+      [
+       14947,
+       5
+      ]
+     ],
+     "planes_cerrados": {
+      "1": 13779,
+      "2": 13830,
+      "3": 13885,
+      "4": 14930,
+      "5": 14997
+     },
+     "carp": "P624_t2_A7h_24554805",
+     "slot": 11
+    },
+    {
+     "tics": 11880,
+     "final": {
+      "reason": "eliminated",
+      "placement": 6
+     },
+     "resumen26": null,
+     "entorno_razonador": null,
+     "encargos": 0,
+     "no_dispara": 0,
+     "llamadas": 0,
+     "usd": 0.0,
+     "propone": 0,
+     "intraducibles": 0,
+     "calla": 0,
+     "errores": [],
+     "retraso_tics": {
+      "n": 0,
+      "mediana": null,
+      "p95": null,
+      "max": null
+     },
+     "ms_llamada_mediana": null,
+     "escena_largo_mediana": null,
+     "pasan_pregunta": 0,
+     "pasan_llegada": 0,
+     "llegan_donde_la_puerta_ya_rechaza": 0,
+     "pares_pregunta_llegada": [],
+     "aceptadas": 4,
+     "evaluadas": {
+      "area": 8,
+      "ok": 4,
+      "vida": 3
+     },
+     "e2_dichos": 476,
+     "e2_sustituidos": 0,
+     "planes_del_hermano_recibidos": 0,
+     "mensajes_plan": [],
+     "malestar": [],
+     "cumplidas_fin_fase": 0,
+     "falsas_confianza": {
+      "planes_con_puntos": 4,
+      "puntos": 4,
+      "puntos_peor": 4,
+      "planes_peor_algun_punto": 4,
+      "planes_peor_primer_punto": 4,
+      "dif_mediana (d_real - d_proyectada)": 0.12149,
+      "dif_p90": 0.1498400000000002
+     },
+     "falsas_malestar26": {
+      "tramos": 0,
+      "peor": 0,
+      "dif_mediana (sentida - imaginada, vida)": null
+     },
+     "pasos_perdidos": [],
+     "pasos_perdidos_5_7": 0,
+     "pasos_perdidos_en_razonador": 0,
+     "pasos_perdidos_en_encargo_juicio": 0,
+     "planes_vivos": [
+      [
+       11732,
+       7
+      ],
+      [
+       11835,
+       9
+      ],
+      [
+       12104,
+       11
+      ],
+      [
+       12215,
+       12
+      ]
+     ],
+     "planes_cerrados": {
+      "7": 11775,
+      "9": 11851,
+      "11": 12152,
+      "12": 12236
+     },
+     "carp": "P624_t2_A7h_24659534",
+     "slot": 10
+    },
+    {
+     "tics": 12432,
+     "final": {
+      "reason": "eliminated",
+      "placement": 4
+     },
+     "resumen26": null,
+     "entorno_razonador": null,
+     "encargos": 0,
+     "no_dispara": 0,
+     "llamadas": 0,
+     "usd": 0.0,
+     "propone": 0,
+     "intraducibles": 0,
+     "calla": 0,
+     "errores": [],
+     "retraso_tics": {
+      "n": 0,
+      "mediana": null,
+      "p95": null,
+      "max": null
+     },
+     "ms_llamada_mediana": null,
+     "escena_largo_mediana": null,
+     "pasan_pregunta": 0,
+     "pasan_llegada": 0,
+     "llegan_donde_la_puerta_ya_rechaza": 0,
+     "pares_pregunta_llegada": [],
+     "aceptadas": 8,
+     "evaluadas": {
+      "ok": 8,
+      "area": 8,
+      "vida": 1
+     },
+     "e2_dichos": 498,
+     "e2_sustituidos": 0,
+     "planes_del_hermano_recibidos": 0,
+     "mensajes_plan": [],
+     "malestar": [],
+     "cumplidas_fin_fase": 0,
+     "falsas_confianza": {
+      "planes_con_puntos": 7,
+      "puntos": 7,
+      "puntos_peor": 0,
+      "planes_peor_algun_punto": 0,
+      "planes_peor_primer_punto": 0,
+      "dif_mediana (d_real - d_proyectada)": -0.38955,
+      "dif_p90": -0.018219999999999903
+     },
+     "falsas_malestar26": {
+      "tramos": 0,
+      "peor": 0,
+      "dif_mediana (sentida - imaginada, vida)": null
+     },
+     "pasos_perdidos": [],
+     "pasos_perdidos_5_7": 0,
+     "pasos_perdidos_en_razonador": 0,
+     "pasos_perdidos_en_encargo_juicio": 0,
+     "planes_vivos": [
+      [
+       11481,
+       1
+      ],
+      [
+       12241,
+       4
+      ],
+      [
+       12415,
+       7
+      ],
+      [
+       12511,
+       9
+      ],
+      [
+       12557,
+       10
+      ],
+      [
+       12666,
+       12
+      ],
+      [
+       12754,
+       14
+      ],
+      [
+       12840,
+       16
+      ]
+     ],
+     "planes_cerrados": {
+      "1": 11519,
+      "4": 12281,
+      "7": 12439,
+      "9": 12530,
+      "10": 12607,
+      "12": 12691,
+      "14": 12771,
+      "16": 12856
+     },
+     "carp": "P624_t2_A7h_24659534",
+     "slot": 11
+    },
+    {
+     "tics": 14157,
+     "final": {
+      "reason": "eliminated",
+      "placement": 3
+     },
+     "resumen26": null,
+     "entorno_razonador": null,
+     "encargos": 0,
+     "no_dispara": 0,
+     "llamadas": 0,
+     "usd": 0.0,
+     "propone": 0,
+     "intraducibles": 0,
+     "calla": 0,
+     "errores": [],
+     "retraso_tics": {
+      "n": 0,
+      "mediana": null,
+      "p95": null,
+      "max": null
+     },
+     "ms_llamada_mediana": null,
+     "escena_largo_mediana": null,
+     "pasan_pregunta": 0,
+     "pasan_llegada": 0,
+     "llegan_donde_la_puerta_ya_rechaza": 0,
+     "pares_pregunta_llegada": [],
+     "aceptadas": 4,
+     "evaluadas": {
+      "ok": 4,
+      "area": 3
+     },
+     "e2_dichos": 567,
+     "e2_sustituidos": 0,
+     "planes_del_hermano_recibidos": 0,
+     "mensajes_plan": [],
+     "malestar": [],
+     "cumplidas_fin_fase": 0,
+     "falsas_confianza": {
+      "planes_con_puntos": 4,
+      "puntos": 9,
+      "puntos_peor": 6,
+      "planes_peor_algun_punto": 3,
+      "planes_peor_primer_punto": 3,
+      "dif_mediana (d_real - d_proyectada)": 0.08189,
+      "dif_p90": 1.21612
+     },
+     "falsas_malestar26": {
+      "tramos": 0,
+      "peor": 0,
+      "dif_mediana (sentida - imaginada, vida)": null
+     },
+     "pasos_perdidos": [],
+     "pasos_perdidos_5_7": 0,
+     "pasos_perdidos_en_razonador": 0,
+     "pasos_perdidos_en_encargo_juicio": 0,
+     "planes_vivos": [
+      [
+       12363,
+       1
+      ],
+      [
+       12553,
+       4
+      ],
+      [
+       12837,
+       5
+      ],
+      [
+       14613,
+       7
+      ]
+     ],
+     "planes_cerrados": {
+      "1": 12395,
+      "4": 12808
+     },
+     "carp": "P624_t2_A7h_24764263",
+     "slot": 10
+    },
+    {
+     "tics": 12000,
+     "final": {
+      "reason": "eliminated",
+      "placement": 6
+     },
+     "resumen26": null,
+     "entorno_razonador": null,
+     "encargos": 0,
+     "no_dispara": 0,
+     "llamadas": 0,
+     "usd": 0.0,
+     "propone": 0,
+     "intraducibles": 0,
+     "calla": 0,
+     "errores": [],
+     "retraso_tics": {
+      "n": 0,
+      "mediana": null,
+      "p95": null,
+      "max": null
+     },
+     "ms_llamada_mediana": null,
+     "escena_largo_mediana": null,
+     "pasan_pregunta": 0,
+     "pasan_llegada": 0,
+     "llegan_donde_la_puerta_ya_rechaza": 0,
+     "pares_pregunta_llegada": [],
+     "aceptadas": 9,
+     "evaluadas": {
+      "ok": 9,
+      "area": 4,
+      "vida": 1
+     },
+     "e2_dichos": 480,
+     "e2_sustituidos": 0,
+     "planes_del_hermano_recibidos": 0,
+     "mensajes_plan": [],
+     "malestar": [],
+     "cumplidas_fin_fase": 0,
+     "falsas_confianza": {
+      "planes_con_puntos": 9,
+      "puntos": 22,
+      "puntos_peor": 12,
+      "planes_peor_algun_punto": 8,
+      "planes_peor_primer_punto": 8,
+      "dif_mediana (d_real - d_proyectada)": 0.02548,
+      "dif_p90": 0.17758999999999991
+     },
+     "falsas_malestar26": {
+      "tramos": 0,
+      "peor": 0,
+      "dif_mediana (sentida - imaginada, vida)": null
+     },
+     "pasos_perdidos": [],
+     "pasos_perdidos_5_7": 0,
+     "pasos_perdidos_en_razonador": 0,
+     "pasos_perdidos_en_encargo_juicio": 0,
+     "planes_vivos": [
+      [
+       10037,
+       1
+      ],
+      [
+       10122,
+       2
+      ],
+      [
+       10549,
+       3
+      ],
+      [
+       10770,
+       4
+      ],
+      [
+       11125,
+       5
+      ],
+      [
+       11540,
+       8
+      ],
+      [
+       12059,
+       10
+      ],
+      [
+       12294,
+       12
+      ],
+      [
+       12410,
+       13
+      ]
+     ],
+     "planes_cerrados": {
+      "1": 10063,
+      "4": 10975,
+      "5": 11146,
+      "10": 12205,
+      "12": 12343,
+      "13": 12435
+     },
+     "carp": "P624_t2_A7h_24764263",
+     "slot": 11
+    },
+    {
+     "tics": 14544,
+     "final": {
+      "reason": "winner",
+      "placement": 1
+     },
+     "resumen26": null,
+     "entorno_razonador": null,
+     "encargos": 0,
+     "no_dispara": 0,
+     "llamadas": 0,
+     "usd": 0.0,
+     "propone": 0,
+     "intraducibles": 0,
+     "calla": 0,
+     "errores": [],
+     "retraso_tics": {
+      "n": 0,
+      "mediana": null,
+      "p95": null,
+      "max": null
+     },
+     "ms_llamada_mediana": null,
+     "escena_largo_mediana": null,
+     "pasan_pregunta": 0,
+     "pasan_llegada": 0,
+     "llegan_donde_la_puerta_ya_rechaza": 0,
+     "pares_pregunta_llegada": [],
+     "aceptadas": 2,
+     "evaluadas": {
+      "ok": 2
+     },
+     "e2_dichos": 582,
+     "e2_sustituidos": 0,
+     "planes_del_hermano_recibidos": 0,
+     "mensajes_plan": [],
+     "malestar": [],
+     "cumplidas_fin_fase": 0,
+     "falsas_confianza": {
+      "planes_con_puntos": 2,
+      "puntos": 4,
+      "puntos_peor": 4,
+      "planes_peor_algun_punto": 2,
+      "planes_peor_primer_punto": 2,
+      "dif_mediana (d_real - d_proyectada)": 0.38101,
+      "dif_p90": 0.6339799999999998
+     },
+     "falsas_malestar26": {
+      "tramos": 0,
+      "peor": 0,
+      "dif_mediana (sentida - imaginada, vida)": null
+     },
+     "pasos_perdidos": [],
+     "pasos_perdidos_5_7": 0,
+     "pasos_perdidos_en_razonador": 0,
+     "pasos_perdidos_en_encargo_juicio": 0,
+     "planes_vivos": [
+      [
+       14723,
+       1
+      ],
+      [
+       14965,
+       2
+      ]
+     ],
+     "planes_cerrados": {
+      "1": 14931,
+      "2": 14990
+     },
+     "carp": "P624_t2_A7h_24868992",
+     "slot": 10
+    },
+    {
+     "tics": 14544,
+     "final": {
+      "reason": "match_over",
+      "placement": 2
+     },
+     "resumen26": null,
+     "entorno_razonador": null,
+     "encargos": 0,
+     "no_dispara": 0,
+     "llamadas": 0,
+     "usd": 0.0,
+     "propone": 0,
+     "intraducibles": 0,
+     "calla": 0,
+     "errores": [],
+     "retraso_tics": {
+      "n": 0,
+      "mediana": null,
+      "p95": null,
+      "max": null
+     },
+     "ms_llamada_mediana": null,
+     "escena_largo_mediana": null,
+     "pasan_pregunta": 0,
+     "pasan_llegada": 0,
+     "llegan_donde_la_puerta_ya_rechaza": 0,
+     "pares_pregunta_llegada": [],
+     "aceptadas": 2,
+     "evaluadas": {
+      "ok": 2
+     },
+     "e2_dichos": 582,
+     "e2_sustituidos": 0,
+     "planes_del_hermano_recibidos": 0,
+     "mensajes_plan": [],
+     "malestar": [],
+     "cumplidas_fin_fase": 0,
+     "falsas_confianza": {
+      "planes_con_puntos": 2,
+      "puntos": 6,
+      "puntos_peor": 2,
+      "planes_peor_algun_punto": 1,
+      "planes_peor_primer_punto": 0,
+      "dif_mediana (d_real - d_proyectada)": -0.06791,
+      "dif_p90": 0.03236999999999979
+     },
+     "falsas_malestar26": {
+      "tramos": 0,
+      "peor": 0,
+      "dif_mediana (sentida - imaginada, vida)": null
+     },
+     "pasos_perdidos": [
+      {
+       "tick": 6512,
+       "fase": "antes",
+       "en_razonador": false,
+       "en_encargo_juicio": false,
+       "ms16": 28.489
+      }
+     ],
+     "pasos_perdidos_5_7": 0,
+     "pasos_perdidos_en_razonador": 0,
+     "pasos_perdidos_en_encargo_juicio": 0,
+     "planes_vivos": [
+      [
+       12313,
+       1
+      ],
+      [
+       13553,
+       2
+      ]
+     ],
+     "planes_cerrados": {
+      "1": 12425,
+      "2": 13639
+     },
+     "carp": "P624_t2_A7h_24868992",
+     "slot": 11
+    },
+    {
+     "tics": 14328,
+     "final": {
+      "reason": "match_over",
+      "placement": 2
+     },
+     "resumen26": null,
+     "entorno_razonador": null,
+     "encargos": 0,
+     "no_dispara": 0,
+     "llamadas": 0,
+     "usd": 0.0,
+     "propone": 0,
+     "intraducibles": 0,
+     "calla": 0,
+     "errores": [],
+     "retraso_tics": {
+      "n": 0,
+      "mediana": null,
+      "p95": null,
+      "max": null
+     },
+     "ms_llamada_mediana": null,
+     "escena_largo_mediana": null,
+     "pasan_pregunta": 0,
+     "pasan_llegada": 0,
+     "llegan_donde_la_puerta_ya_rechaza": 0,
+     "pares_pregunta_llegada": [],
+     "aceptadas": 5,
+     "evaluadas": {
+      "ok": 5,
+      "area": 7
+     },
+     "e2_dichos": 574,
+     "e2_sustituidos": 0,
+     "planes_del_hermano_recibidos": 0,
+     "mensajes_plan": [],
+     "malestar": [],
+     "cumplidas_fin_fase": 0,
+     "falsas_confianza": {
+      "planes_con_puntos": 5,
+      "puntos": 9,
+      "puntos_peor": 7,
+      "planes_peor_algun_punto": 5,
+      "planes_peor_primer_punto": 5,
+      "dif_mediana (d_real - d_proyectada)": 0.1121,
+      "dif_p90": 0.6716499999999996
+     },
+     "falsas_malestar26": {
+      "tramos": 0,
+      "peor": 0,
+      "dif_mediana (sentida - imaginada, vida)": null
+     },
+     "pasos_perdidos": [],
+     "pasos_perdidos_5_7": 0,
+     "pasos_perdidos_en_razonador": 0,
+     "pasos_perdidos_en_encargo_juicio": 0,
+     "planes_vivos": [
+      [
+       12285,
+       1
+      ],
+      [
+       12745,
+       2
+      ],
+      [
+       12808,
+       3
+      ],
+      [
+       12899,
+       4
+      ],
+      [
+       13062,
+       5
+      ]
+     ],
+     "planes_cerrados": {
+      "2": 12772,
+      "3": 12852,
+      "5": 13099
+     },
+     "carp": "P624_t2_A7h_24973721",
+     "slot": 10
+    },
+    {
+     "tics": 12696,
+     "final": {
+      "reason": "eliminated",
+      "placement": 6
+     },
+     "resumen26": null,
+     "entorno_razonador": null,
+     "encargos": 0,
+     "no_dispara": 0,
+     "llamadas": 0,
+     "usd": 0.0,
+     "propone": 0,
+     "intraducibles": 0,
+     "calla": 0,
+     "errores": [],
+     "retraso_tics": {
+      "n": 0,
+      "mediana": null,
+      "p95": null,
+      "max": null
+     },
+     "ms_llamada_mediana": null,
+     "escena_largo_mediana": null,
+     "pasan_pregunta": 0,
+     "pasan_llegada": 0,
+     "llegan_donde_la_puerta_ya_rechaza": 0,
+     "pares_pregunta_llegada": [],
+     "aceptadas": 5,
+     "evaluadas": {
+      "ok": 5
+     },
+     "e2_dichos": 508,
+     "e2_sustituidos": 0,
+     "planes_del_hermano_recibidos": 0,
+     "mensajes_plan": [],
+     "malestar": [],
+     "cumplidas_fin_fase": 0,
+     "falsas_confianza": {
+      "planes_con_puntos": 5,
+      "puntos": 11,
+      "puntos_peor": 7,
+      "planes_peor_algun_punto": 4,
+      "planes_peor_primer_punto": 4,
+      "dif_mediana (d_real - d_proyectada)": 0.08495,
+      "dif_p90": 0.2288300000000003
+     },
+     "falsas_malestar26": {
+      "tramos": 0,
+      "peor": 0,
+      "dif_mediana (sentida - imaginada, vida)": null
+     },
+     "pasos_perdidos": [],
+     "pasos_perdidos_5_7": 0,
+     "pasos_perdidos_en_razonador": 0,
+     "pasos_perdidos_en_encargo_juicio": 0,
+     "planes_vivos": [
+      [
+       11325,
+       1
+      ],
+      [
+       11446,
+       2
+      ],
+      [
+       12555,
+       3
+      ],
+      [
+       12621,
+       4
+      ],
+      [
+       13049,
+       5
+      ]
+     ],
+     "planes_cerrados": {
+      "1": 11382,
+      "2": 11616,
+      "3": 12580,
+      "5": 13089
+     },
+     "carp": "P624_t2_A7h_24973721",
+     "slot": 11
+    },
+    {
+     "tics": 13656,
+     "final": {
+      "reason": "eliminated",
+      "placement": 3
+     },
+     "resumen26": null,
+     "entorno_razonador": null,
+     "encargos": 0,
+     "no_dispara": 0,
+     "llamadas": 0,
+     "usd": 0.0,
+     "propone": 0,
+     "intraducibles": 0,
+     "calla": 0,
+     "errores": [],
+     "retraso_tics": {
+      "n": 0,
+      "mediana": null,
+      "p95": null,
+      "max": null
+     },
+     "ms_llamada_mediana": null,
+     "escena_largo_mediana": null,
+     "pasan_pregunta": 0,
+     "pasan_llegada": 0,
+     "llegan_donde_la_puerta_ya_rechaza": 0,
+     "pares_pregunta_llegada": [],
+     "aceptadas": 5,
+     "evaluadas": {
+      "ok": 5,
+      "area": 5,
+      "vida": 2
+     },
+     "e2_dichos": 547,
+     "e2_sustituidos": 0,
+     "planes_del_hermano_recibidos": 0,
+     "mensajes_plan": [],
+     "malestar": [],
+     "cumplidas_fin_fase": 0,
+     "falsas_confianza": {
+      "planes_con_puntos": 5,
+      "puntos": 17,
+      "puntos_peor": 14,
+      "planes_peor_algun_punto": 5,
+      "planes_peor_primer_punto": 4,
+      "dif_mediana (d_real - d_proyectada)": 0.18996,
+      "dif_p90": 0.4165800000000002
+     },
+     "falsas_malestar26": {
+      "tramos": 0,
+      "peor": 0,
+      "dif_mediana (sentida - imaginada, vida)": null
+     },
+     "pasos_perdidos": [],
+     "pasos_perdidos_5_7": 0,
+     "pasos_perdidos_en_razonador": 0,
+     "pasos_perdidos_en_encargo_juicio": 0,
+     "planes_vivos": [
+      [
+       11256,
+       1
+      ],
+      [
+       11689,
+       2
+      ],
+      [
+       12334,
+       5
+      ],
+      [
+       12775,
+       6
+      ],
+      [
+       13053,
+       7
+      ]
+     ],
+     "planes_cerrados": {
+      "7": 13099
+     },
+     "carp": "P624_t2_A7h_25078450",
+     "slot": 10
+    },
+    {
+     "tics": 13416,
+     "final": {
+      "reason": "eliminated",
+      "placement": 4
+     },
+     "resumen26": null,
+     "entorno_razonador": null,
+     "encargos": 0,
+     "no_dispara": 0,
+     "llamadas": 0,
+     "usd": 0.0,
+     "propone": 0,
+     "intraducibles": 0,
+     "calla": 0,
+     "errores": [],
+     "retraso_tics": {
+      "n": 0,
+      "mediana": null,
+      "p95": null,
+      "max": null
+     },
+     "ms_llamada_mediana": null,
+     "escena_largo_mediana": null,
+     "pasan_pregunta": 0,
+     "pasan_llegada": 0,
+     "llegan_donde_la_puerta_ya_rechaza": 0,
+     "pares_pregunta_llegada": [],
+     "aceptadas": 1,
+     "evaluadas": {
+      "area": 2,
+      "ok": 1
+     },
+     "e2_dichos": 537,
+     "e2_sustituidos": 0,
+     "planes_del_hermano_recibidos": 0,
+     "mensajes_plan": [],
+     "malestar": [],
+     "cumplidas_fin_fase": 0,
+     "falsas_confianza": {
+      "planes_con_puntos": 1,
+      "puntos": 1,
+      "puntos_peor": 1,
+      "planes_peor_algun_punto": 1,
+      "planes_peor_primer_punto": 1,
+      "dif_mediana (d_real - d_proyectada)": 0.06242,
+      "dif_p90": 0.062420000000000364
+     },
+     "falsas_malestar26": {
+      "tramos": 0,
+      "peor": 0,
+      "dif_mediana (sentida - imaginada, vida)": null
+     },
+     "pasos_perdidos": [],
+     "pasos_perdidos_5_7": 0,
+     "pasos_perdidos_en_razonador": 0,
+     "pasos_perdidos_en_encargo_juicio": 0,
+     "planes_vivos": [
+      [
+       13845,
+       3
+      ]
+     ],
+     "planes_cerrados": {
+      "3": 13870
+     },
+     "carp": "P624_t2_A7h_25078450",
+     "slot": 11
+    },
+    {
+     "tics": 10680,
+     "final": {
+      "reason": "eliminated",
+      "placement": 12
+     },
+     "resumen26": null,
+     "entorno_razonador": null,
+     "encargos": 0,
+     "no_dispara": 0,
+     "llamadas": 0,
+     "usd": 0.0,
+     "propone": 0,
+     "intraducibles": 0,
+     "calla": 0,
+     "errores": [],
+     "retraso_tics": {
+      "n": 0,
+      "mediana": null,
+      "p95": null,
+      "max": null
+     },
+     "ms_llamada_mediana": null,
+     "escena_largo_mediana": null,
+     "pasan_pregunta": 0,
+     "pasan_llegada": 0,
+     "llegan_donde_la_puerta_ya_rechaza": 0,
+     "pares_pregunta_llegada": [],
+     "aceptadas": 0,
+     "evaluadas": {
+      "vida": 2
+     },
+     "e2_dichos": 428,
+     "e2_sustituidos": 0,
+     "planes_del_hermano_recibidos": 0,
+     "mensajes_plan": [],
+     "malestar": [],
+     "cumplidas_fin_fase": 0,
+     "falsas_confianza": {
+      "planes_con_puntos": 0,
+      "puntos": 0,
+      "puntos_peor": 0,
+      "planes_peor_algun_punto": 0,
+      "planes_peor_primer_punto": 0,
+      "dif_mediana (d_real - d_proyectada)": null,
+      "dif_p90": null
+     },
+     "falsas_malestar26": {
+      "tramos": 0,
+      "peor": 0,
+      "dif_mediana (sentida - imaginada, vida)": null
+     },
+     "pasos_perdidos": [],
+     "pasos_perdidos_5_7": 0,
+     "pasos_perdidos_en_razonador": 0,
+     "pasos_perdidos_en_encargo_juicio": 0,
+     "planes_vivos": [],
+     "planes_cerrados": {},
+     "carp": "P624_t2_A7h_25183179",
+     "slot": 10
+    },
+    {
+     "tics": 10954,
+     "final": {
+      "reason": "eliminated",
+      "placement": 11
+     },
+     "resumen26": null,
+     "entorno_razonador": null,
+     "encargos": 0,
+     "no_dispara": 0,
+     "llamadas": 0,
+     "usd": 0.0,
+     "propone": 0,
+     "intraducibles": 0,
+     "calla": 0,
+     "errores": [],
+     "retraso_tics": {
+      "n": 0,
+      "mediana": null,
+      "p95": null,
+      "max": null
+     },
+     "ms_llamada_mediana": null,
+     "escena_largo_mediana": null,
+     "pasan_pregunta": 0,
+     "pasan_llegada": 0,
+     "llegan_donde_la_puerta_ya_rechaza": 0,
+     "pares_pregunta_llegada": [],
+     "aceptadas": 0,
+     "evaluadas": {
+      "area": 2,
+      "vida": 1
+     },
+     "e2_dichos": 439,
+     "e2_sustituidos": 0,
+     "planes_del_hermano_recibidos": 0,
+     "mensajes_plan": [],
+     "malestar": [],
+     "cumplidas_fin_fase": 0,
+     "falsas_confianza": {
+      "planes_con_puntos": 0,
+      "puntos": 0,
+      "puntos_peor": 0,
+      "planes_peor_algun_punto": 0,
+      "planes_peor_primer_punto": 0,
+      "dif_mediana (d_real - d_proyectada)": null,
+      "dif_p90": null
+     },
+     "falsas_malestar26": {
+      "tramos": 0,
+      "peor": 0,
+      "dif_mediana (sentida - imaginada, vida)": null
+     },
+     "pasos_perdidos": [],
+     "pasos_perdidos_5_7": 0,
+     "pasos_perdidos_en_razonador": 0,
+     "pasos_perdidos_en_encargo_juicio": 0,
+     "planes_vivos": [],
+     "planes_cerrados": {},
+     "carp": "P624_t2_A7h_25183179",
+     "slot": 11
+    },
+    {
+     "tics": 13416,
+     "final": {
+      "reason": "eliminated",
+      "placement": 4
+     },
+     "resumen26": null,
+     "entorno_razonador": null,
+     "encargos": 0,
+     "no_dispara": 0,
+     "llamadas": 0,
+     "usd": 0.0,
+     "propone": 0,
+     "intraducibles": 0,
+     "calla": 0,
+     "errores": [],
+     "retraso_tics": {
+      "n": 0,
+      "mediana": null,
+      "p95": null,
+      "max": null
+     },
+     "ms_llamada_mediana": null,
+     "escena_largo_mediana": null,
+     "pasan_pregunta": 0,
+     "pasan_llegada": 0,
+     "llegan_donde_la_puerta_ya_rechaza": 0,
+     "pares_pregunta_llegada": [],
+     "aceptadas": 6,
+     "evaluadas": {
+      "area": 16,
+      "ok": 6,
+      "vida": 1
+     },
+     "e2_dichos": 537,
+     "e2_sustituidos": 0,
+     "planes_del_hermano_recibidos": 0,
+     "mensajes_plan": [],
+     "malestar": [],
+     "cumplidas_fin_fase": 0,
+     "falsas_confianza": {
+      "planes_con_puntos": 6,
+      "puntos": 10,
+      "puntos_peor": 6,
+      "planes_peor_algun_punto": 4,
+      "planes_peor_primer_punto": 3,
+      "dif_mediana (d_real - d_proyectada)": 0.04719,
+      "dif_p90": 0.5936399999999997
+     },
+     "falsas_malestar26": {
+      "tramos": 0,
+      "peor": 0,
+      "dif_mediana (sentida - imaginada, vida)": null
+     },
+     "pasos_perdidos": [],
+     "pasos_perdidos_5_7": 0,
+     "pasos_perdidos_en_razonador": 0,
+     "pasos_perdidos_en_encargo_juicio": 0,
+     "planes_vivos": [
+      [
+       11363,
+       14
+      ],
+      [
+       11429,
+       15
+      ],
+      [
+       11560,
+       16
+      ],
+      [
+       11698,
+       17
+      ],
+      [
+       12373,
+       18
+      ],
+      [
+       13802,
+       21
+      ]
+     ],
+     "planes_cerrados": {
+      "14": 11393,
+      "15": 11488,
+      "16": 11656,
+      "17": 11824,
+      "18": 12434,
+      "21": 13827
+     },
+     "carp": "P624_t2_A7h_25287908",
+     "slot": 10
+    },
+    {
+     "tics": 12432,
+     "final": {
+      "reason": "eliminated",
+      "placement": 6
+     },
+     "resumen26": null,
+     "entorno_razonador": null,
+     "encargos": 0,
+     "no_dispara": 0,
+     "llamadas": 0,
+     "usd": 0.0,
+     "propone": 0,
+     "intraducibles": 0,
+     "calla": 0,
+     "errores": [],
+     "retraso_tics": {
+      "n": 0,
+      "mediana": null,
+      "p95": null,
+      "max": null
+     },
+     "ms_llamada_mediana": null,
+     "escena_largo_mediana": null,
+     "pasan_pregunta": 0,
+     "pasan_llegada": 0,
+     "llegan_donde_la_puerta_ya_rechaza": 0,
+     "pares_pregunta_llegada": [],
+     "aceptadas": 7,
+     "evaluadas": {
+      "ok": 7,
+      "area": 13
+     },
+     "e2_dichos": 498,
+     "e2_sustituidos": 0,
+     "planes_del_hermano_recibidos": 0,
+     "mensajes_plan": [],
+     "malestar": [],
+     "cumplidas_fin_fase": 0,
+     "falsas_confianza": {
+      "planes_con_puntos": 7,
+      "puntos": 14,
+      "puntos_peor": 8,
+      "planes_peor_algun_punto": 5,
+      "planes_peor_primer_punto": 4,
+      "dif_mediana (d_real - d_proyectada)": 0.07138,
+      "dif_p90": 0.5928599999999999
+     },
+     "falsas_malestar26": {
+      "tramos": 0,
+      "peor": 0,
+      "dif_mediana (sentida - imaginada, vida)": null
+     },
+     "pasos_perdidos": [],
+     "pasos_perdidos_5_7": 0,
+     "pasos_perdidos_en_razonador": 0,
+     "pasos_perdidos_en_encargo_juicio": 0,
+     "planes_vivos": [
+      [
+       10327,
+       1
+      ],
+      [
+       10980,
+       15
+      ],
+      [
+       11388,
+       16
+      ],
+      [
+       11673,
+       17
+      ],
+      [
+       11717,
+       18
+      ],
+      [
+       11780,
+       19
+      ],
+      [
+       12350,
+       20
+      ]
+     ],
+     "planes_cerrados": {
+      "1": 10340,
+      "15": 11316,
+      "16": 11493,
+      "17": 11701,
+      "18": 11757,
+      "19": 11843
+     },
+     "carp": "P624_t2_A7h_25287908",
+     "slot": 11
+    },
+    {
+     "tics": 12408,
+     "final": {
+      "reason": "eliminated",
+      "placement": 4
+     },
+     "resumen26": null,
+     "entorno_razonador": null,
+     "encargos": 0,
+     "no_dispara": 0,
+     "llamadas": 0,
+     "usd": 0.0,
+     "propone": 0,
+     "intraducibles": 0,
+     "calla": 0,
+     "errores": [],
+     "retraso_tics": {
+      "n": 0,
+      "mediana": null,
+      "p95": null,
+      "max": null
+     },
+     "ms_llamada_mediana": null,
+     "escena_largo_mediana": null,
+     "pasan_pregunta": 0,
+     "pasan_llegada": 0,
+     "llegan_donde_la_puerta_ya_rechaza": 0,
+     "pares_pregunta_llegada": [],
+     "aceptadas": 3,
+     "evaluadas": {
+      "ok": 3,
+      "area": 2,
+      "vida": 1
+     },
+     "e2_dichos": 497,
+     "e2_sustituidos": 0,
+     "planes_del_hermano_recibidos": 0,
+     "mensajes_plan": [],
+     "malestar": [],
+     "cumplidas_fin_fase": 0,
+     "falsas_confianza": {
+      "planes_con_puntos": 3,
+      "puntos": 5,
+      "puntos_peor": 3,
+      "planes_peor_algun_punto": 3,
+      "planes_peor_primer_punto": 3,
+      "dif_mediana (d_real - d_proyectada)": 0.059,
+      "dif_p90": 0.6777499999999996
+     },
+     "falsas_malestar26": {
+      "tramos": 0,
+      "peor": 0,
+      "dif_mediana (sentida - imaginada, vida)": null
+     },
+     "pasos_perdidos": [
+      {
+       "tick": 12542,
+       "fase": "5-7",
+       "en_razonador": false,
+       "en_encargo_juicio": true,
+       "ms16": 45.183
+      }
+     ],
+     "pasos_perdidos_5_7": 1,
+     "pasos_perdidos_en_razonador": 0,
+     "pasos_perdidos_en_encargo_juicio": 1,
+     "planes_vivos": [
+      [
+       12387,
+       1
+      ],
+      [
+       12725,
+       4
+      ],
+      [
+       12799,
+       5
+      ]
+     ],
+     "planes_cerrados": {
+      "1": 12573,
+      "4": 12750,
+      "5": 12824
+     },
+     "carp": "P624_t2_A7h_25392637",
+     "slot": 10
+    },
+    {
+     "tics": 14131,
+     "final": {
+      "reason": "match_over",
+      "placement": 2
+     },
+     "resumen26": null,
+     "entorno_razonador": null,
+     "encargos": 0,
+     "no_dispara": 0,
+     "llamadas": 0,
+     "usd": 0.0,
+     "propone": 0,
+     "intraducibles": 0,
+     "calla": 0,
+     "errores": [],
+     "retraso_tics": {
+      "n": 0,
+      "mediana": null,
+      "p95": null,
+      "max": null
+     },
+     "ms_llamada_mediana": null,
+     "escena_largo_mediana": null,
+     "pasan_pregunta": 0,
+     "pasan_llegada": 0,
+     "llegan_donde_la_puerta_ya_rechaza": 0,
+     "pares_pregunta_llegada": [],
+     "aceptadas": 3,
+     "evaluadas": {
+      "area": 11,
+      "ok": 3
+     },
+     "e2_dichos": 566,
+     "e2_sustituidos": 0,
+     "planes_del_hermano_recibidos": 0,
+     "mensajes_plan": [],
+     "malestar": [],
+     "cumplidas_fin_fase": 0,
+     "falsas_confianza": {
+      "planes_con_puntos": 3,
+      "puntos": 8,
+      "puntos_peor": 6,
+      "planes_peor_algun_punto": 2,
+      "planes_peor_primer_punto": 1,
+      "dif_mediana (d_real - d_proyectada)": 0.12651,
+      "dif_p90": 0.2306200000000005
+     },
+     "falsas_malestar26": {
+      "tramos": 0,
+      "peor": 0,
+      "dif_mediana (sentida - imaginada, vida)": null
+     },
+     "pasos_perdidos": [],
+     "pasos_perdidos_5_7": 0,
+     "pasos_perdidos_en_razonador": 0,
+     "pasos_perdidos_en_encargo_juicio": 0,
+     "planes_vivos": [
+      [
+       12553,
+       4
+      ],
+      [
+       12765,
+       5
+      ],
+      [
+       12817,
+       6
+      ]
+     ],
+     "planes_cerrados": {
+      "4": 12658,
+      "5": 12785
+     },
+     "carp": "P624_t2_A7h_25392637",
+     "slot": 11
+    },
+    {
+     "tics": 14496,
+     "final": {
+      "reason": "match_over",
+      "placement": 1
+     },
+     "resumen26": null,
+     "entorno_razonador": null,
+     "encargos": 0,
+     "no_dispara": 0,
+     "llamadas": 0,
+     "usd": 0.0,
+     "propone": 0,
+     "intraducibles": 0,
+     "calla": 0,
+     "errores": [],
+     "retraso_tics": {
+      "n": 0,
+      "mediana": null,
+      "p95": null,
+      "max": null
+     },
+     "ms_llamada_mediana": null,
+     "escena_largo_mediana": null,
+     "pasan_pregunta": 0,
+     "pasan_llegada": 0,
+     "llegan_donde_la_puerta_ya_rechaza": 0,
+     "pares_pregunta_llegada": [],
+     "aceptadas": 3,
+     "evaluadas": {
+      "ok": 3,
+      "area": 3
+     },
+     "e2_dichos": 580,
+     "e2_sustituidos": 0,
+     "planes_del_hermano_recibidos": 0,
+     "mensajes_plan": [],
+     "malestar": [],
+     "cumplidas_fin_fase": 0,
+     "falsas_confianza": {
+      "planes_con_puntos": 3,
+      "puntos": 9,
+      "puntos_peor": 6,
+      "planes_peor_algun_punto": 3,
+      "planes_peor_primer_punto": 2,
+      "dif_mediana (d_real - d_proyectada)": 0.02438,
+      "dif_p90": 0.48275999999999986
+     },
+     "falsas_malestar26": {
+      "tramos": 0,
+      "peor": 0,
+      "dif_mediana (sentida - imaginada, vida)": null
+     },
+     "pasos_perdidos": [
+      {
+       "tick": 12977,
+       "fase": "5-7",
+       "en_razonador": false,
+       "en_encargo_juicio": true,
+       "ms16": 55.267
+      },
+      {
+       "tick": 14785,
+       "fase": "5-7",
+       "en_razonador": false,
+       "en_encargo_juicio": true,
+       "ms16": 8.622
+      }
+     ],
+     "pasos_perdidos_5_7": 2,
+     "pasos_perdidos_en_razonador": 0,
+     "pasos_perdidos_en_encargo_juicio": 2,
+     "planes_vivos": [
+      [
+       12485,
+       1
+      ],
+      [
+       12977,
+       4
+      ],
+      [
+       14733,
+       6
+      ]
+     ],
+     "planes_cerrados": {},
+     "carp": "P624_t2_A7h_25497366",
+     "slot": 10
+    },
+    {
+     "tics": 14496,
+     "final": {
+      "reason": "match_over",
+      "placement": 2
+     },
+     "resumen26": null,
+     "entorno_razonador": null,
+     "encargos": 0,
+     "no_dispara": 0,
+     "llamadas": 0,
+     "usd": 0.0,
+     "propone": 0,
+     "intraducibles": 0,
+     "calla": 0,
+     "errores": [],
+     "retraso_tics": {
+      "n": 0,
+      "mediana": null,
+      "p95": null,
+      "max": null
+     },
+     "ms_llamada_mediana": null,
+     "escena_largo_mediana": null,
+     "pasan_pregunta": 0,
+     "pasan_llegada": 0,
+     "llegan_donde_la_puerta_ya_rechaza": 0,
+     "pares_pregunta_llegada": [],
+     "aceptadas": 2,
+     "evaluadas": {
+      "area": 3,
+      "ok": 2
+     },
+     "e2_dichos": 580,
+     "e2_sustituidos": 0,
+     "planes_del_hermano_recibidos": 0,
+     "mensajes_plan": [],
+     "malestar": [],
+     "cumplidas_fin_fase": 0,
+     "falsas_confianza": {
+      "planes_con_puntos": 2,
+      "puntos": 4,
+      "puntos_peor": 2,
+      "planes_peor_algun_punto": 2,
+      "planes_peor_primer_punto": 1,
+      "dif_mediana (d_real - d_proyectada)": 0.10765,
+      "dif_p90": 1.26668
+     },
+     "falsas_malestar26": {
+      "tramos": 0,
+      "peor": 0,
+      "dif_mediana (sentida - imaginada, vida)": null
+     },
+     "pasos_perdidos": [
+      {
+       "tick": 12588,
+       "fase": "5-7",
+       "en_razonador": false,
+       "en_encargo_juicio": true,
+       "ms16": 41.614
+      }
+     ],
+     "pasos_perdidos_5_7": 1,
+     "pasos_perdidos_en_razonador": 0,
+     "pasos_perdidos_en_encargo_juicio": 1,
+     "planes_vivos": [
+      [
+       12588,
+       2
+      ],
+      [
+       12999,
+       5
+      ]
+     ],
+     "planes_cerrados": {
+      "2": 12902,
+      "5": 13036
+     },
+     "carp": "P624_t2_A7h_25497366",
+     "slot": 11
+    },
+    {
+     "tics": 14520,
+     "final": {
+      "reason": "match_over",
+      "placement": 2
+     },
+     "resumen26": null,
+     "entorno_razonador": null,
+     "encargos": 0,
+     "no_dispara": 0,
+     "llamadas": 0,
+     "usd": 0.0,
+     "propone": 0,
+     "intraducibles": 0,
+     "calla": 0,
+     "errores": [],
+     "retraso_tics": {
+      "n": 0,
+      "mediana": null,
+      "p95": null,
+      "max": null
+     },
+     "ms_llamada_mediana": null,
+     "escena_largo_mediana": null,
+     "pasan_pregunta": 0,
+     "pasan_llegada": 0,
+     "llegan_donde_la_puerta_ya_rechaza": 0,
+     "pares_pregunta_llegada": [],
+     "aceptadas": 3,
+     "evaluadas": {
+      "ok": 3,
+      "vida": 1
+     },
+     "e2_dichos": 581,
+     "e2_sustituidos": 0,
+     "planes_del_hermano_recibidos": 0,
+     "mensajes_plan": [],
+     "malestar": [],
+     "cumplidas_fin_fase": 0,
+     "falsas_confianza": {
+      "planes_con_puntos": 3,
+      "puntos": 5,
+      "puntos_peor": 4,
+      "planes_peor_algun_punto": 2,
+      "planes_peor_primer_punto": 2,
+      "dif_mediana (d_real - d_proyectada)": 0.35691,
+      "dif_p90": 0.3957200000000003
+     },
+     "falsas_malestar26": {
+      "tramos": 0,
+      "peor": 0,
+      "dif_mediana (sentida - imaginada, vida)": null
+     },
+     "pasos_perdidos": [],
+     "pasos_perdidos_5_7": 0,
+     "pasos_perdidos_en_razonador": 0,
+     "pasos_perdidos_en_encargo_juicio": 0,
+     "planes_vivos": [
+      [
+       12620,
+       1
+      ],
+      [
+       12671,
+       2
+      ],
+      [
+       14658,
+       3
+      ]
+     ],
+     "planes_cerrados": {
+      "1": 12641,
+      "2": 12718,
+      "3": 14950
+     },
+     "carp": "P624_t2_A7h_25602095",
+     "slot": 10
+    },
+    {
+     "tics": 14520,
+     "final": {
+      "reason": "winner",
+      "placement": 1
+     },
+     "resumen26": null,
+     "entorno_razonador": null,
+     "encargos": 0,
+     "no_dispara": 0,
+     "llamadas": 0,
+     "usd": 0.0,
+     "propone": 0,
+     "intraducibles": 0,
+     "calla": 0,
+     "errores": [],
+     "retraso_tics": {
+      "n": 0,
+      "mediana": null,
+      "p95": null,
+      "max": null
+     },
+     "ms_llamada_mediana": null,
+     "escena_largo_mediana": null,
+     "pasan_pregunta": 0,
+     "pasan_llegada": 0,
+     "llegan_donde_la_puerta_ya_rechaza": 0,
+     "pares_pregunta_llegada": [],
+     "aceptadas": 1,
+     "evaluadas": {
+      "area": 7,
+      "ok": 1
+     },
+     "e2_dichos": 581,
+     "e2_sustituidos": 0,
+     "planes_del_hermano_recibidos": 0,
+     "mensajes_plan": [],
+     "malestar": [],
+     "cumplidas_fin_fase": 0,
+     "falsas_confianza": {
+      "planes_con_puntos": 1,
+      "puntos": 2,
+      "puntos_peor": 2,
+      "planes_peor_algun_punto": 1,
+      "planes_peor_primer_punto": 1,
+      "dif_mediana (d_real - d_proyectada)": 0.08326,
+      "dif_p90": 0.13905000000000012
+     },
+     "falsas_malestar26": {
+      "tramos": 0,
+      "peor": 0,
+      "dif_mediana (sentida - imaginada, vida)": null
+     },
+     "pasos_perdidos": [],
+     "pasos_perdidos_5_7": 0,
+     "pasos_perdidos_en_razonador": 0,
+     "pasos_perdidos_en_encargo_juicio": 0,
+     "planes_vivos": [
+      [
+       12951,
+       5
+      ]
+     ],
+     "planes_cerrados": {},
+     "carp": "P624_t2_A7h_25602095",
+     "slot": 11
+    },
+    {
+     "tics": 14472,
+     "final": {
+      "reason": "winner",
+      "placement": 1
+     },
+     "resumen26": null,
+     "entorno_razonador": null,
+     "encargos": 0,
+     "no_dispara": 0,
+     "llamadas": 0,
+     "usd": 0.0,
+     "propone": 0,
+     "intraducibles": 0,
+     "calla": 0,
+     "errores": [],
+     "retraso_tics": {
+      "n": 0,
+      "mediana": null,
+      "p95": null,
+      "max": null
+     },
+     "ms_llamada_mediana": null,
+     "escena_largo_mediana": null,
+     "pasan_pregunta": 0,
+     "pasan_llegada": 0,
+     "llegan_donde_la_puerta_ya_rechaza": 0,
+     "pares_pregunta_llegada": [],
+     "aceptadas": 1,
+     "evaluadas": {
+      "area": 5,
+      "ok": 1
+     },
+     "e2_dichos": 579,
+     "e2_sustituidos": 0,
+     "planes_del_hermano_recibidos": 0,
+     "mensajes_plan": [],
+     "malestar": [],
+     "cumplidas_fin_fase": 0,
+     "falsas_confianza": {
+      "planes_con_puntos": 1,
+      "puntos": 3,
+      "puntos_peor": 0,
+      "planes_peor_algun_punto": 0,
+      "planes_peor_primer_punto": 0,
+      "dif_mediana (d_real - d_proyectada)": -0.19414,
+      "dif_p90": -0.017409999999999926
+     },
+     "falsas_malestar26": {
+      "tramos": 0,
+      "peor": 0,
+      "dif_mediana (sentida - imaginada, vida)": null
+     },
+     "pasos_perdidos": [],
+     "pasos_perdidos_5_7": 0,
+     "pasos_perdidos_en_razonador": 0,
+     "pasos_perdidos_en_encargo_juicio": 0,
+     "planes_vivos": [
+      [
+       13708,
+       3
+      ]
+     ],
+     "planes_cerrados": {
+      "3": 13824
+     },
+     "carp": "P624_t2_A7h_25706824",
+     "slot": 10
+    },
+    {
+     "tics": 14472,
+     "final": {
+      "reason": "match_over",
+      "placement": 2
+     },
+     "resumen26": null,
+     "entorno_razonador": null,
+     "encargos": 0,
+     "no_dispara": 0,
+     "llamadas": 0,
+     "usd": 0.0,
+     "propone": 0,
+     "intraducibles": 0,
+     "calla": 0,
+     "errores": [],
+     "retraso_tics": {
+      "n": 0,
+      "mediana": null,
+      "p95": null,
+      "max": null
+     },
+     "ms_llamada_mediana": null,
+     "escena_largo_mediana": null,
+     "pasan_pregunta": 0,
+     "pasan_llegada": 0,
+     "llegan_donde_la_puerta_ya_rechaza": 0,
+     "pares_pregunta_llegada": [],
+     "aceptadas": 5,
+     "evaluadas": {
+      "area": 4,
+      "ok": 5
+     },
+     "e2_dichos": 579,
+     "e2_sustituidos": 0,
+     "planes_del_hermano_recibidos": 0,
+     "mensajes_plan": [],
+     "malestar": [],
+     "cumplidas_fin_fase": 0,
+     "falsas_confianza": {
+      "planes_con_puntos": 5,
+      "puntos": 9,
+      "puntos_peor": 3,
+      "planes_peor_algun_punto": 1,
+      "planes_peor_primer_punto": 1,
+      "dif_mediana (d_real - d_proyectada)": -0.03168,
+      "dif_p90": 0.5138999999999996
+     },
+     "falsas_malestar26": {
+      "tramos": 0,
+      "peor": 0,
+      "dif_mediana (sentida - imaginada, vida)": null
+     },
+     "pasos_perdidos": [],
+     "pasos_perdidos_5_7": 0,
+     "pasos_perdidos_en_razonador": 0,
+     "pasos_perdidos_en_encargo_juicio": 0,
+     "planes_vivos": [
+      [
+       12454,
+       2
+      ],
+      [
+       12637,
+       5
+      ],
+      [
+       12824,
+       6
+      ],
+      [
+       13919,
+       8
+      ],
+      [
+       14715,
+       9
+      ]
+     ],
+     "planes_cerrados": {
+      "2": 12495,
+      "5": 12732,
+      "6": 12852,
+      "8": 13949,
+      "9": 14932
+     },
+     "carp": "P624_t2_A7h_25706824",
+     "slot": 11
+    },
+    {
+     "tics": 13416,
+     "final": {
+      "reason": "eliminated",
+      "placement": 5
+     },
+     "resumen26": null,
+     "entorno_razonador": null,
+     "encargos": 0,
+     "no_dispara": 0,
+     "llamadas": 0,
+     "usd": 0.0,
+     "propone": 0,
+     "intraducibles": 0,
+     "calla": 0,
+     "errores": [],
+     "retraso_tics": {
+      "n": 0,
+      "mediana": null,
+      "p95": null,
+      "max": null
+     },
+     "ms_llamada_mediana": null,
+     "escena_largo_mediana": null,
+     "pasan_pregunta": 0,
+     "pasan_llegada": 0,
+     "llegan_donde_la_puerta_ya_rechaza": 0,
+     "pares_pregunta_llegada": [],
+     "aceptadas": 6,
+     "evaluadas": {
+      "area": 8,
+      "ok": 6,
+      "vida": 1
+     },
+     "e2_dichos": 537,
+     "e2_sustituidos": 0,
+     "planes_del_hermano_recibidos": 0,
+     "mensajes_plan": [],
+     "malestar": [],
+     "cumplidas_fin_fase": 0,
+     "falsas_confianza": {
+      "planes_con_puntos": 6,
+      "puntos": 10,
+      "puntos_peor": 3,
+      "planes_peor_algun_punto": 3,
+      "planes_peor_primer_punto": 2,
+      "dif_mediana (d_real - d_proyectada)": -0.04944,
+      "dif_p90": 0.15330999999999984
+     },
+     "falsas_malestar26": {
+      "tramos": 0,
+      "peor": 0,
+      "dif_mediana (sentida - imaginada, vida)": null
+     },
+     "pasos_perdidos": [],
+     "pasos_perdidos_5_7": 0,
+     "pasos_perdidos_en_razonador": 0,
+     "pasos_perdidos_en_encargo_juicio": 0,
+     "planes_vivos": [
+      [
+       11166,
+       5
+      ],
+      [
+       11461,
+       6
+      ],
+      [
+       11580,
+       7
+      ],
+      [
+       11799,
+       10
+      ],
+      [
+       12123,
+       11
+      ],
+      [
+       13076,
+       12
+      ]
+     ],
+     "planes_cerrados": {
+      "5": 11199,
+      "6": 11488,
+      "7": 11659,
+      "10": 11845,
+      "11": 12213,
+      "12": 13271
+     },
+     "carp": "P624_t2_A7h_25811553",
+     "slot": 10
+    },
+    {
+     "tics": 14472,
+     "final": {
+      "reason": "match_over",
+      "placement": 2
+     },
+     "resumen26": null,
+     "entorno_razonador": null,
+     "encargos": 0,
+     "no_dispara": 0,
+     "llamadas": 0,
+     "usd": 0.0,
+     "propone": 0,
+     "intraducibles": 0,
+     "calla": 0,
+     "errores": [],
+     "retraso_tics": {
+      "n": 0,
+      "mediana": null,
+      "p95": null,
+      "max": null
+     },
+     "ms_llamada_mediana": null,
+     "escena_largo_mediana": null,
+     "pasan_pregunta": 0,
+     "pasan_llegada": 0,
+     "llegan_donde_la_puerta_ya_rechaza": 0,
+     "pares_pregunta_llegada": [],
+     "aceptadas": 1,
+     "evaluadas": {
+      "area": 4,
+      "ok": 1
+     },
+     "e2_dichos": 579,
+     "e2_sustituidos": 0,
+     "planes_del_hermano_recibidos": 0,
+     "mensajes_plan": [],
+     "malestar": [],
+     "cumplidas_fin_fase": 0,
+     "falsas_confianza": {
+      "planes_con_puntos": 1,
+      "puntos": 2,
+      "puntos_peor": 2,
+      "planes_peor_algun_punto": 1,
+      "planes_peor_primer_punto": 1,
+      "dif_mediana (d_real - d_proyectada)": 2.09994,
+      "dif_p90": 2.4450499999999993
+     },
+     "falsas_malestar26": {
+      "tramos": 0,
+      "peor": 0,
+      "dif_mediana (sentida - imaginada, vida)": null
+     },
+     "pasos_perdidos": [],
+     "pasos_perdidos_5_7": 0,
+     "pasos_perdidos_en_razonador": 0,
+     "pasos_perdidos_en_encargo_juicio": 0,
+     "planes_vivos": [
+      [
+       12417,
+       4
+      ]
+     ],
+     "planes_cerrados": {
+      "4": 12526
+     },
+     "carp": "P624_t2_A7h_25811553",
+     "slot": 11
+    },
+    {
+     "tics": 13440,
+     "final": {
+      "reason": "eliminated",
+      "placement": 3
+     },
+     "resumen26": null,
+     "entorno_razonador": null,
+     "encargos": 0,
+     "no_dispara": 0,
+     "llamadas": 0,
+     "usd": 0.0,
+     "propone": 0,
+     "intraducibles": 0,
+     "calla": 0,
+     "errores": [],
+     "retraso_tics": {
+      "n": 0,
+      "mediana": null,
+      "p95": null,
+      "max": null
+     },
+     "ms_llamada_mediana": null,
+     "escena_largo_mediana": null,
+     "pasan_pregunta": 0,
+     "pasan_llegada": 0,
+     "llegan_donde_la_puerta_ya_rechaza": 0,
+     "pares_pregunta_llegada": [],
+     "aceptadas": 13,
+     "evaluadas": {
+      "ok": 13,
+      "area": 3
+     },
+     "e2_dichos": 538,
+     "e2_sustituidos": 0,
+     "planes_del_hermano_recibidos": 0,
+     "mensajes_plan": [],
+     "malestar": [],
+     "cumplidas_fin_fase": 0,
+     "falsas_confianza": {
+      "planes_con_puntos": 13,
+      "puntos": 22,
+      "puntos_peor": 14,
+      "planes_peor_algun_punto": 10,
+      "planes_peor_primer_punto": 9,
+      "dif_mediana (d_real - d_proyectada)": 0.02416,
+      "dif_p90": 0.40307999999999966
+     },
+     "falsas_malestar26": {
+      "tramos": 0,
+      "peor": 0,
+      "dif_mediana (sentida - imaginada, vida)": null
+     },
+     "pasos_perdidos": [],
+     "pasos_perdidos_5_7": 0,
+     "pasos_perdidos_en_razonador": 0,
+     "pasos_perdidos_en_encargo_juicio": 0,
+     "planes_vivos": [
+      [
+       11202,
+       1
+      ],
+      [
+       11313,
+       2
+      ],
+      [
+       11397,
+       3
+      ],
+      [
+       11571,
+       4
+      ],
+      [
+       12202,
+       8
+      ],
+      [
+       12294,
+       9
+      ],
+      [
+       12383,
+       10
+      ],
+      [
+       12459,
+       11
+      ],
+      [
+       12901,
+       12
+      ],
+      [
+       13010,
+       13
+      ],
+      [
+       13091,
+       14
+      ],
+      [
+       13210,
+       15
+      ],
+      [
+       13821,
+       16
+      ]
+     ],
+     "planes_cerrados": {
+      "1": 11246,
+      "2": 11356,
+      "3": 11533,
+      "4": 11593,
+      "8": 12270,
+      "9": 12341,
+      "10": 12429,
+      "13": 13057,
+      "14": 13165,
+      "15": 13257
+     },
+     "carp": "P624_t2_A7h_25916282",
+     "slot": 10
+    },
+    {
+     "tics": 12720,
+     "final": {
+      "reason": "eliminated",
+      "placement": 5
+     },
+     "resumen26": null,
+     "entorno_razonador": null,
+     "encargos": 0,
+     "no_dispara": 0,
+     "llamadas": 0,
+     "usd": 0.0,
+     "propone": 0,
+     "intraducibles": 0,
+     "calla": 0,
+     "errores": [],
+     "retraso_tics": {
+      "n": 0,
+      "mediana": null,
+      "p95": null,
+      "max": null
+     },
+     "ms_llamada_mediana": null,
+     "escena_largo_mediana": null,
+     "pasan_pregunta": 0,
+     "pasan_llegada": 0,
+     "llegan_donde_la_puerta_ya_rechaza": 0,
+     "pares_pregunta_llegada": [],
+     "aceptadas": 4,
+     "evaluadas": {
+      "area": 1,
+      "ok": 4,
+      "vida": 1
+     },
+     "e2_dichos": 509,
+     "e2_sustituidos": 0,
+     "planes_del_hermano_recibidos": 0,
+     "mensajes_plan": [],
+     "malestar": [],
+     "cumplidas_fin_fase": 0,
+     "falsas_confianza": {
+      "planes_con_puntos": 4,
+      "puntos": 10,
+      "puntos_peor": 9,
+      "planes_peor_algun_punto": 4,
+      "planes_peor_primer_punto": 4,
+      "dif_mediana (d_real - d_proyectada)": 0.22852,
+      "dif_p90": 0.39598999999999984
+     },
+     "falsas_malestar26": {
+      "tramos": 0,
+      "peor": 0,
+      "dif_mediana (sentida - imaginada, vida)": null
+     },
+     "pasos_perdidos": [],
+     "pasos_perdidos_5_7": 0,
+     "pasos_perdidos_en_razonador": 0,
+     "pasos_perdidos_en_encargo_juicio": 0,
+     "planes_vivos": [
+      [
+       12313,
+       2
+      ],
+      [
+       12764,
+       3
+      ],
+      [
+       13040,
+       4
+      ],
+      [
+       13129,
+       5
+      ]
+     ],
+     "planes_cerrados": {
+      "4": 13065,
+      "5": 13154
+     },
+     "carp": "P624_t2_A7h_25916282",
+     "slot": 11
+    },
+    {
+     "tics": 12264,
+     "final": {
+      "reason": "eliminated",
+      "placement": 6
+     },
+     "resumen26": null,
+     "entorno_razonador": null,
+     "encargos": 0,
+     "no_dispara": 0,
+     "llamadas": 0,
+     "usd": 0.0,
+     "propone": 0,
+     "intraducibles": 0,
+     "calla": 0,
+     "errores": [],
+     "retraso_tics": {
+      "n": 0,
+      "mediana": null,
+      "p95": null,
+      "max": null
+     },
+     "ms_llamada_mediana": null,
+     "escena_largo_mediana": null,
+     "pasan_pregunta": 0,
+     "pasan_llegada": 0,
+     "llegan_donde_la_puerta_ya_rechaza": 0,
+     "pares_pregunta_llegada": [],
+     "aceptadas": 2,
+     "evaluadas": {
+      "area": 19,
+      "ok": 2,
+      "vida": 1
+     },
+     "e2_dichos": 491,
+     "e2_sustituidos": 0,
+     "planes_del_hermano_recibidos": 0,
+     "mensajes_plan": [],
+     "malestar": [],
+     "cumplidas_fin_fase": 0,
+     "falsas_confianza": {
+      "planes_con_puntos": 2,
+      "puntos": 2,
+      "puntos_peor": 2,
+      "planes_peor_algun_punto": 2,
+      "planes_peor_primer_punto": 2,
+      "dif_mediana (d_real - d_proyectada)": 0.15326,
+      "dif_p90": 0.1622600000000003
+     },
+     "falsas_malestar26": {
+      "tramos": 0,
+      "peor": 0,
+      "dif_mediana (sentida - imaginada, vida)": null
+     },
+     "pasos_perdidos": [],
+     "pasos_perdidos_5_7": 0,
+     "pasos_perdidos_en_razonador": 0,
+     "pasos_perdidos_en_encargo_juicio": 0,
+     "planes_vivos": [
+      [
+       10438,
+       6
+      ],
+      [
+       11058,
+       20
+      ]
+     ],
+     "planes_cerrados": {
+      "6": 10494,
+      "20": 11114
+     },
+     "carp": "P624_t2_A7h_26021011",
+     "slot": 10
+    },
+    {
+     "tics": 13656,
+     "final": {
+      "reason": "eliminated",
+      "placement": 3
+     },
+     "resumen26": null,
+     "entorno_razonador": null,
+     "encargos": 0,
+     "no_dispara": 0,
+     "llamadas": 0,
+     "usd": 0.0,
+     "propone": 0,
+     "intraducibles": 0,
+     "calla": 0,
+     "errores": [],
+     "retraso_tics": {
+      "n": 0,
+      "mediana": null,
+      "p95": null,
+      "max": null
+     },
+     "ms_llamada_mediana": null,
+     "escena_largo_mediana": null,
+     "pasan_pregunta": 0,
+     "pasan_llegada": 0,
+     "llegan_donde_la_puerta_ya_rechaza": 0,
+     "pares_pregunta_llegada": [],
+     "aceptadas": 3,
+     "evaluadas": {
+      "ok": 3,
+      "area": 1
+     },
+     "e2_dichos": 547,
+     "e2_sustituidos": 0,
+     "planes_del_hermano_recibidos": 0,
+     "mensajes_plan": [],
+     "malestar": [],
+     "cumplidas_fin_fase": 0,
+     "falsas_confianza": {
+      "planes_con_puntos": 3,
+      "puntos": 8,
+      "puntos_peor": 7,
+      "planes_peor_algun_punto": 3,
+      "planes_peor_primer_punto": 2,
+      "dif_mediana (d_real - d_proyectada)": 0.2498,
+      "dif_p90": 1.1219200000000003
+     },
+     "falsas_malestar26": {
+      "tramos": 0,
+      "peor": 0,
+      "dif_mediana (sentida - imaginada, vida)": null
+     },
+     "pasos_perdidos": [],
+     "pasos_perdidos_5_7": 0,
+     "pasos_perdidos_en_razonador": 0,
+     "pasos_perdidos_en_encargo_juicio": 0,
+     "planes_vivos": [
+      [
+       12418,
+       1
+      ],
+      [
+       12832,
+       3
+      ],
+      [
+       14086,
+       4
+      ]
+     ],
+     "planes_cerrados": {
+      "1": 12765,
+      "4": 14112
+     },
+     "carp": "P624_t2_A7h_26021011",
+     "slot": 11
+    },
+    {
+     "tics": 14240,
+     "final": {
+      "reason": "eliminated",
+      "placement": 4
+     },
+     "resumen26": null,
+     "entorno_razonador": null,
+     "encargos": 0,
+     "no_dispara": 0,
+     "llamadas": 0,
+     "usd": 0.0,
+     "propone": 0,
+     "intraducibles": 0,
+     "calla": 0,
+     "errores": [],
+     "retraso_tics": {
+      "n": 0,
+      "mediana": null,
+      "p95": null,
+      "max": null
+     },
+     "ms_llamada_mediana": null,
+     "escena_largo_mediana": null,
+     "pasan_pregunta": 0,
+     "pasan_llegada": 0,
+     "llegan_donde_la_puerta_ya_rechaza": 0,
+     "pares_pregunta_llegada": [],
+     "aceptadas": 2,
+     "evaluadas": {
+      "area": 8,
+      "ok": 2
+     },
+     "e2_dichos": 570,
+     "e2_sustituidos": 0,
+     "planes_del_hermano_recibidos": 0,
+     "mensajes_plan": [],
+     "malestar": [],
+     "cumplidas_fin_fase": 0,
+     "falsas_confianza": {
+      "planes_con_puntos": 2,
+      "puntos": 2,
+      "puntos_peor": 2,
+      "planes_peor_algun_punto": 2,
+      "planes_peor_primer_punto": 2,
+      "dif_mediana (d_real - d_proyectada)": 0.46298,
+      "dif_p90": 0.7016499999999999
+     },
+     "falsas_malestar26": {
+      "tramos": 0,
+      "peor": 0,
+      "dif_mediana (sentida - imaginada, vida)": null
+     },
+     "pasos_perdidos": [],
+     "pasos_perdidos_5_7": 0,
+     "pasos_perdidos_en_razonador": 0,
+     "pasos_perdidos_en_encargo_juicio": 0,
+     "planes_vivos": [
+      [
+       12560,
+       2
+      ],
+      [
+       12632,
+       3
+      ]
+     ],
+     "planes_cerrados": {
+      "2": 12578,
+      "3": 12658
+     },
+     "carp": "P624_t2_A7h_26125740",
+     "slot": 10
+    },
+    {
+     "tics": 12288,
+     "final": {
+      "reason": "eliminated",
+      "placement": 7
+     },
+     "resumen26": null,
+     "entorno_razonador": null,
+     "encargos": 0,
+     "no_dispara": 0,
+     "llamadas": 0,
+     "usd": 0.0,
+     "propone": 0,
+     "intraducibles": 0,
+     "calla": 0,
+     "errores": [],
+     "retraso_tics": {
+      "n": 0,
+      "mediana": null,
+      "p95": null,
+      "max": null
+     },
+     "ms_llamada_mediana": null,
+     "escena_largo_mediana": null,
+     "pasan_pregunta": 0,
+     "pasan_llegada": 0,
+     "llegan_donde_la_puerta_ya_rechaza": 0,
+     "pares_pregunta_llegada": [],
+     "aceptadas": 7,
+     "evaluadas": {
+      "ok": 7,
+      "area": 3
+     },
+     "e2_dichos": 492,
+     "e2_sustituidos": 0,
+     "planes_del_hermano_recibidos": 0,
+     "mensajes_plan": [],
+     "malestar": [],
+     "cumplidas_fin_fase": 0,
+     "falsas_confianza": {
+      "planes_con_puntos": 7,
+      "puntos": 9,
+      "puntos_peor": 5,
+      "planes_peor_algun_punto": 3,
+      "planes_peor_primer_punto": 3,
+      "dif_mediana (d_real - d_proyectada)": 0.12353,
+      "dif_p90": 0.33202
+     },
+     "falsas_malestar26": {
+      "tramos": 0,
+      "peor": 0,
+      "dif_mediana (sentida - imaginada, vida)": null
+     },
+     "pasos_perdidos": [],
+     "pasos_perdidos_5_7": 0,
+     "pasos_perdidos_en_razonador": 0,
+     "pasos_perdidos_en_encargo_juicio": 0,
+     "planes_vivos": [
+      [
+       11559,
+       1
+      ],
+      [
+       11623,
+       2
+      ],
+      [
+       11720,
+       3
+      ],
+      [
+       12214,
+       5
+      ],
+      [
+       12378,
+       6
+      ],
+      [
+       12534,
+       9
+      ],
+      [
+       12610,
+       10
+      ]
+     ],
+     "planes_cerrados": {
+      "1": 11582,
+      "2": 11645,
+      "3": 11741,
+      "5": 12319,
+      "6": 12438,
+      "9": 12581,
+      "10": 12697
+     },
+     "carp": "P624_t2_A7h_26125740",
+     "slot": 11
+    },
+    {
+     "tics": 13608,
+     "final": {
+      "reason": "eliminated",
+      "placement": 3
+     },
+     "resumen26": null,
+     "entorno_razonador": null,
+     "encargos": 0,
+     "no_dispara": 0,
+     "llamadas": 0,
+     "usd": 0.0,
+     "propone": 0,
+     "intraducibles": 0,
+     "calla": 0,
+     "errores": [],
+     "retraso_tics": {
+      "n": 0,
+      "mediana": null,
+      "p95": null,
+      "max": null
+     },
+     "ms_llamada_mediana": null,
+     "escena_largo_mediana": null,
+     "pasan_pregunta": 0,
+     "pasan_llegada": 0,
+     "llegan_donde_la_puerta_ya_rechaza": 0,
+     "pares_pregunta_llegada": [],
+     "aceptadas": 2,
+     "evaluadas": {
+      "ok": 2,
+      "area": 12
+     },
+     "e2_dichos": 545,
+     "e2_sustituidos": 0,
+     "planes_del_hermano_recibidos": 0,
+     "mensajes_plan": [],
+     "malestar": [],
+     "cumplidas_fin_fase": 0,
+     "falsas_confianza": {
+      "planes_con_puntos": 2,
+      "puntos": 8,
+      "puntos_peor": 2,
+      "planes_peor_algun_punto": 1,
+      "planes_peor_primer_punto": 1,
+      "dif_mediana (d_real - d_proyectada)": -0.06992,
+      "dif_p90": 0.3458199999999998
+     },
+     "falsas_malestar26": {
+      "tramos": 0,
+      "peor": 0,
+      "dif_mediana (sentida - imaginada, vida)": null
+     },
+     "pasos_perdidos": [],
+     "pasos_perdidos_5_7": 0,
+     "pasos_perdidos_en_razonador": 0,
+     "pasos_perdidos_en_encargo_juicio": 0,
+     "planes_vivos": [
+      [
+       12361,
+       1
+      ],
+      [
+       12822,
+       3
+      ]
+     ],
+     "planes_cerrados": {},
+     "carp": "P624_t2_A7h_26230469",
+     "slot": 10
+    },
+    {
+     "tics": 14125,
+     "final": {
+      "reason": "match_over",
+      "placement": 2
+     },
+     "resumen26": null,
+     "entorno_razonador": null,
+     "encargos": 0,
+     "no_dispara": 0,
+     "llamadas": 0,
+     "usd": 0.0,
+     "propone": 0,
+     "intraducibles": 0,
+     "calla": 0,
+     "errores": [],
+     "retraso_tics": {
+      "n": 0,
+      "mediana": null,
+      "p95": null,
+      "max": null
+     },
+     "ms_llamada_mediana": null,
+     "escena_largo_mediana": null,
+     "pasan_pregunta": 0,
+     "pasan_llegada": 0,
+     "llegan_donde_la_puerta_ya_rechaza": 0,
+     "pares_pregunta_llegada": [],
+     "aceptadas": 2,
+     "evaluadas": {
+      "area": 11,
+      "ok": 2
+     },
+     "e2_dichos": 565,
+     "e2_sustituidos": 0,
+     "planes_del_hermano_recibidos": 0,
+     "mensajes_plan": [],
+     "malestar": [],
+     "cumplidas_fin_fase": 0,
+     "falsas_confianza": {
+      "planes_con_puntos": 2,
+      "puntos": 4,
+      "puntos_peor": 3,
+      "planes_peor_algun_punto": 2,
+      "planes_peor_primer_punto": 1,
+      "dif_mediana (d_real - d_proyectada)": 0.05559,
+      "dif_p90": 0.39197000000000015
+     },
+     "falsas_malestar26": {
+      "tramos": 0,
+      "peor": 0,
+      "dif_mediana (sentida - imaginada, vida)": null
+     },
+     "pasos_perdidos": [],
+     "pasos_perdidos_5_7": 0,
+     "pasos_perdidos_en_razonador": 0,
+     "pasos_perdidos_en_encargo_juicio": 0,
+     "planes_vivos": [
+      [
+       12593,
+       3
+      ],
+      [
+       12674,
+       4
+      ]
+     ],
+     "planes_cerrados": {
+      "3": 12618,
+      "4": 12860
+     },
+     "carp": "P624_t2_A7h_26230469",
+     "slot": 11
+    },
+    {
+     "tics": 12408,
+     "final": {
+      "reason": "eliminated",
+      "placement": 4
+     },
+     "resumen26": null,
+     "entorno_razonador": null,
+     "encargos": 0,
+     "no_dispara": 0,
+     "llamadas": 0,
+     "usd": 0.0,
+     "propone": 0,
+     "intraducibles": 0,
+     "calla": 0,
+     "errores": [],
+     "retraso_tics": {
+      "n": 0,
+      "mediana": null,
+      "p95": null,
+      "max": null
+     },
+     "ms_llamada_mediana": null,
+     "escena_largo_mediana": null,
+     "pasan_pregunta": 0,
+     "pasan_llegada": 0,
+     "llegan_donde_la_puerta_ya_rechaza": 0,
+     "pares_pregunta_llegada": [],
+     "aceptadas": 0,
+     "evaluadas": {
+      "area": 7,
+      "vida": 1
+     },
+     "e2_dichos": 497,
+     "e2_sustituidos": 0,
+     "planes_del_hermano_recibidos": 0,
+     "mensajes_plan": [],
+     "malestar": [],
+     "cumplidas_fin_fase": 0,
+     "falsas_confianza": {
+      "planes_con_puntos": 0,
+      "puntos": 0,
+      "puntos_peor": 0,
+      "planes_peor_algun_punto": 0,
+      "planes_peor_primer_punto": 0,
+      "dif_mediana (d_real - d_proyectada)": null,
+      "dif_p90": null
+     },
+     "falsas_malestar26": {
+      "tramos": 0,
+      "peor": 0,
+      "dif_mediana (sentida - imaginada, vida)": null
+     },
+     "pasos_perdidos": [],
+     "pasos_perdidos_5_7": 0,
+     "pasos_perdidos_en_razonador": 0,
+     "pasos_perdidos_en_encargo_juicio": 0,
+     "planes_vivos": [],
+     "planes_cerrados": {},
+     "carp": "P624_t2_A7h_26335198",
+     "slot": 10
+    },
+    {
+     "tics": 13560,
+     "final": {
+      "reason": "match_over",
+      "placement": 2
+     },
+     "resumen26": null,
+     "entorno_razonador": null,
+     "encargos": 0,
+     "no_dispara": 0,
+     "llamadas": 0,
+     "usd": 0.0,
+     "propone": 0,
+     "intraducibles": 0,
+     "calla": 0,
+     "errores": [],
+     "retraso_tics": {
+      "n": 0,
+      "mediana": null,
+      "p95": null,
+      "max": null
+     },
+     "ms_llamada_mediana": null,
+     "escena_largo_mediana": null,
+     "pasan_pregunta": 0,
+     "pasan_llegada": 0,
+     "llegan_donde_la_puerta_ya_rechaza": 0,
+     "pares_pregunta_llegada": [],
+     "aceptadas": 1,
+     "evaluadas": {
+      "area": 2,
+      "ok": 1,
+      "vida": 1
+     },
+     "e2_dichos": 543,
+     "e2_sustituidos": 0,
+     "planes_del_hermano_recibidos": 0,
+     "mensajes_plan": [],
+     "malestar": [],
+     "cumplidas_fin_fase": 0,
+     "falsas_confianza": {
+      "planes_con_puntos": 1,
+      "puntos": 3,
+      "puntos_peor": 2,
+      "planes_peor_algun_punto": 1,
+      "planes_peor_primer_punto": 0,
+      "dif_mediana (d_real - d_proyectada)": 0.71138,
+      "dif_p90": 1.0181899999999997
+     },
+     "falsas_malestar26": {
+      "tramos": 0,
+      "peor": 0,
+      "dif_mediana (sentida - imaginada, vida)": null
+     },
+     "pasos_perdidos": [],
+     "pasos_perdidos_5_7": 0,
+     "pasos_perdidos_en_razonador": 0,
+     "pasos_perdidos_en_encargo_juicio": 0,
+     "planes_vivos": [
+      [
+       12728,
+       2
+      ]
+     ],
+     "planes_cerrados": {
+      "2": 12885
+     },
+     "carp": "P624_t2_A7h_26335198",
+     "slot": 11
+    },
+    {
+     "tics": 14208,
+     "final": {
+      "reason": "eliminated",
+      "placement": 5
+     },
+     "resumen26": null,
+     "entorno_razonador": null,
+     "encargos": 0,
+     "no_dispara": 0,
+     "llamadas": 0,
+     "usd": 0.0,
+     "propone": 0,
+     "intraducibles": 0,
+     "calla": 0,
+     "errores": [],
+     "retraso_tics": {
+      "n": 0,
+      "mediana": null,
+      "p95": null,
+      "max": null
+     },
+     "ms_llamada_mediana": null,
+     "escena_largo_mediana": null,
+     "pasan_pregunta": 0,
+     "pasan_llegada": 0,
+     "llegan_donde_la_puerta_ya_rechaza": 0,
+     "pares_pregunta_llegada": [],
+     "aceptadas": 1,
+     "evaluadas": {
+      "ok": 1
+     },
+     "e2_dichos": 569,
+     "e2_sustituidos": 0,
+     "planes_del_hermano_recibidos": 0,
+     "mensajes_plan": [],
+     "malestar": [],
+     "cumplidas_fin_fase": 0,
+     "falsas_confianza": {
+      "planes_con_puntos": 1,
+      "puntos": 4,
+      "puntos_peor": 0,
+      "planes_peor_algun_punto": 0,
+      "planes_peor_primer_punto": 0,
+      "dif_mediana (d_real - d_proyectada)": -1.11086,
+      "dif_p90": -0.6488199999999997
+     },
+     "falsas_malestar26": {
+      "tramos": 0,
+      "peor": 0,
+      "dif_mediana (sentida - imaginada, vida)": null
+     },
+     "pasos_perdidos": [
+      {
+       "tick": 591,
+       "fase": "antes",
+       "en_razonador": false,
+       "en_encargo_juicio": false,
+       "ms16": 39.663
+      },
+      {
+       "tick": 1526,
+       "fase": "antes",
+       "en_razonador": false,
+       "en_encargo_juicio": false,
+       "ms16": 46.583
+      },
+      {
+       "tick": 1538,
+       "fase": "antes",
+       "en_razonador": false,
+       "en_encargo_juicio": false,
+       "ms16": 36.318
+      },
+      {
+       "tick": 3861,
+       "fase": "antes",
+       "en_razonador": false,
+       "en_encargo_juicio": false,
+       "ms16": 33.078
+      },
+      {
+       "tick": 5416,
+       "fase": "antes",
+       "en_razonador": false,
+       "en_encargo_juicio": false,
+       "ms16": 52.986
+      },
+      {
+       "tick": 7298,
+       "fase": "1-4",
+       "en_razonador": false,
+       "en_encargo_juicio": false,
+       "ms16": 39.213
+      },
+      {
+       "tick": 8872,
+       "fase": "1-4",
+       "en_razonador": false,
+       "en_encargo_juicio": false,
+       "ms16": 46.648
+      },
+      {
+       "tick": 8950,
+       "fase": "1-4",
+       "en_razonador": false,
+       "en_encargo_juicio": false,
+       "ms16": 42.579
+      },
+      {
+       "tick": 10627,
+       "fase": "1-4",
+       "en_razonador": false,
+       "en_encargo_juicio": false,
+       "ms16": 51.339
+      },
+      {
+       "tick": 12087,
+       "fase": "5-7",
+       "en_razonador": false,
+       "en_encargo_juicio": false,
+       "ms16": 37.994
+      },
+      {
+       "tick": 12176,
+       "fase": "5-7",
+       "en_razonador": false,
+       "en_encargo_juicio": false,
+       "ms16": 41.1
+      }
+     ],
+     "pasos_perdidos_5_7": 2,
+     "pasos_perdidos_en_razonador": 0,
+     "pasos_perdidos_en_encargo_juicio": 0,
+     "planes_vivos": [
+      [
+       12769,
+       1
+      ]
+     ],
+     "planes_cerrados": {},
+     "carp": "P624_t2_A7h_26439927",
+     "slot": 10
+    },
+    {
+     "tics": 12288,
+     "final": {
+      "reason": "eliminated",
+      "placement": 9
+     },
+     "resumen26": null,
+     "entorno_razonador": null,
+     "encargos": 0,
+     "no_dispara": 0,
+     "llamadas": 0,
+     "usd": 0.0,
+     "propone": 0,
+     "intraducibles": 0,
+     "calla": 0,
+     "errores": [],
+     "retraso_tics": {
+      "n": 0,
+      "mediana": null,
+      "p95": null,
+      "max": null
+     },
+     "ms_llamada_mediana": null,
+     "escena_largo_mediana": null,
+     "pasan_pregunta": 0,
+     "pasan_llegada": 0,
+     "llegan_donde_la_puerta_ya_rechaza": 0,
+     "pares_pregunta_llegada": [],
+     "aceptadas": 3,
+     "evaluadas": {
+      "ok": 3,
+      "area": 1,
+      "vida": 1
+     },
+     "e2_dichos": 492,
+     "e2_sustituidos": 0,
+     "planes_del_hermano_recibidos": 0,
+     "mensajes_plan": [],
+     "malestar": [],
+     "cumplidas_fin_fase": 0,
+     "falsas_confianza": {
+      "planes_con_puntos": 3,
+      "puntos": 3,
+      "puntos_peor": 1,
+      "planes_peor_algun_punto": 1,
+      "planes_peor_primer_punto": 1,
+      "dif_mediana (d_real - d_proyectada)": -0.09247,
+      "dif_p90": 0.7751800000000002
+     },
+     "falsas_malestar26": {
+      "tramos": 0,
+      "peor": 0,
+      "dif_mediana (sentida - imaginada, vida)": null
+     },
+     "pasos_perdidos": [],
+     "pasos_perdidos_5_7": 0,
+     "pasos_perdidos_en_razonador": 0,
+     "pasos_perdidos_en_encargo_juicio": 0,
+     "planes_vivos": [
+      [
+       12477,
+       1
+      ],
+      [
+       12572,
+       2
+      ],
+      [
+       12714,
+       5
+      ]
+     ],
+     "planes_cerrados": {
+      "1": 12502,
+      "2": 12619,
+      "5": 12764
+     },
+     "carp": "P624_t2_A7h_26439927",
+     "slot": 11
+    }
+   ]
+  }
+ }
+}

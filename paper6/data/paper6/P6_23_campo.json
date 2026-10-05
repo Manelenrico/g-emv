@@ -1,0 +1,7396 @@
+{
+ "A4": {
+  "resumen": {
+   "vidas": 40,
+   "vivas_en_warn5": 35,
+   "pasos_libres": 31772,
+   "pasos_perdidos": 5,
+   "pasos_libres_5_7": 4209,
+   "pasos_perdidos_5_7": 0,
+   "dentro_pct_media": 32.7,
+   "dentro_pct_mediana": 22.3,
+   "ardiendo_media": 196,
+   "ardiendo_mediana": 205,
+   "vidas_0_ardiendo": 6,
+   "nunca_entra": 6,
+   "sobreviven_fase5": 21,
+   "planes_aceptados_fase5": 0,
+   "planes_andados": 0,
+   "planes_sostenidos": 0,
+   "fines": {},
+   "rupturas": {},
+   "estados_compromiso": {},
+   "suspensiones": 0,
+   "reanudaciones": 0,
+   "alertas": 0,
+   "retenido": 0,
+   "sale": 0,
+   "caidas_vida_real": 0,
+   "caidas_cuenta_justa": 0,
+   "semillas_aceptan_los_dos": 0,
+   "muertes_anillo": 22,
+   "muertes_rival": 6,
+   "supervivientes": 11
+  },
+  "vidas": [
+   {
+    "semilla": 20260916,
+    "slot": 10,
+    "tics": 12648,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "pasos_libres": 1087,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 69,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 793,
+    "dentro_pct": 0.0,
+    "ardiendo": 350,
+    "golpes_anillo": 15,
+    "sobrevive_fase": false,
+    "entra": null,
+    "planes": {
+     "aceptados": 0,
+     "andados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {},
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 0,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": null
+   },
+   {
+    "semilla": 20260916,
+    "slot": 11,
+    "tics": 13632,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "pasos_libres": 747,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 136,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 1140,
+    "dentro_pct": 4.8,
+    "ardiendo": 316,
+    "golpes_anillo": 13,
+    "sobrevive_fase": true,
+    "entra": 12672,
+    "planes": {
+     "aceptados": 0,
+     "andados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {},
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 0,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": null
+   },
+   {
+    "semilla": 20365645,
+    "slot": 10,
+    "tics": 10920,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": false,
+    "pasos_libres": 895,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 0,
+    "pasos_perdidos_5_7": 0
+   },
+   {
+    "semilla": 20365645,
+    "slot": 11,
+    "tics": 11544,
+    "superviviente": false,
+    "causa": "no consta",
+    "viva_en_warn5": false,
+    "pasos_libres": 919,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 0,
+    "pasos_perdidos_5_7": 0
+   },
+   {
+    "semilla": 20470374,
+    "slot": 10,
+    "tics": 13956,
+    "superviviente": true,
+    "causa": null,
+    "viva_en_warn5": true,
+    "pasos_libres": 411,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 99,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 1140,
+    "dentro_pct": 82.2,
+    "ardiendo": 0,
+    "golpes_anillo": 0,
+    "sobrevive_fase": true,
+    "entra": 11856,
+    "planes": {
+     "aceptados": 0,
+     "andados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {},
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 0,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": null
+   },
+   {
+    "semilla": 20470374,
+    "slot": 11,
+    "tics": 13944,
+    "superviviente": false,
+    "causa": "rival",
+    "viva_en_warn5": true,
+    "pasos_libres": 418,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 99,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 1140,
+    "dentro_pct": 100.0,
+    "ardiendo": 0,
+    "golpes_anillo": 0,
+    "sobrevive_fase": true,
+    "entra": 11856,
+    "planes": {
+     "aceptados": 0,
+     "andados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {},
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 0,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": null
+   },
+   {
+    "semilla": 20575103,
+    "slot": 10,
+    "tics": 12600,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "pasos_libres": 1026,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 37,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 745,
+    "dentro_pct": 4.8,
+    "ardiendo": 331,
+    "golpes_anillo": 13,
+    "sobrevive_fase": false,
+    "entra": 11856,
+    "planes": {
+     "aceptados": 0,
+     "andados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {},
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 0,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": null
+   },
+   {
+    "semilla": 20575103,
+    "slot": 11,
+    "tics": 12816,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "pasos_libres": 1014,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 87,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 961,
+    "dentro_pct": 75.4,
+    "ardiendo": 225,
+    "golpes_anillo": 9,
+    "sobrevive_fase": false,
+    "entra": 11856,
+    "planes": {
+     "aceptados": 0,
+     "andados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {},
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 0,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": null
+   },
+   {
+    "semilla": 20679832,
+    "slot": 10,
+    "tics": 12410,
+    "superviviente": false,
+    "causa": "rival",
+    "viva_en_warn5": true,
+    "pasos_libres": 1070,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 50,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 555,
+    "dentro_pct": 100.0,
+    "ardiendo": 0,
+    "golpes_anillo": 0,
+    "sobrevive_fase": false,
+    "entra": 11856,
+    "planes": {
+     "aceptados": 0,
+     "andados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {},
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 0,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": null
+   },
+   {
+    "semilla": 20679832,
+    "slot": 11,
+    "tics": 12888,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "pasos_libres": 988,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 65,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 1033,
+    "dentro_pct": 6.4,
+    "ardiendo": 276,
+    "golpes_anillo": 11,
+    "sobrevive_fase": false,
+    "entra": 12536,
+    "planes": {
+     "aceptados": 0,
+     "andados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {},
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 0,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": null
+   },
+   {
+    "semilla": 20784561,
+    "slot": 10,
+    "tics": 14688,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "pasos_libres": 1118,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 241,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 1140,
+    "dentro_pct": 24.5,
+    "ardiendo": 125,
+    "golpes_anillo": 6,
+    "sobrevive_fase": true,
+    "entra": 12640,
+    "planes": {
+     "aceptados": 0,
+     "andados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {},
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 0,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": null
+   },
+   {
+    "semilla": 20784561,
+    "slot": 11,
+    "tics": 12840,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "pasos_libres": 1007,
+    "pasos_perdidos": 1,
+    "pasos_libres_5_7": 89,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 985,
+    "dentro_pct": 10.3,
+    "ardiendo": 205,
+    "golpes_anillo": 10,
+    "sobrevive_fase": false,
+    "entra": 12376,
+    "planes": {
+     "aceptados": 0,
+     "andados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {},
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 0,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": null
+   },
+   {
+    "semilla": 20889290,
+    "slot": 10,
+    "tics": 13008,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "pasos_libres": 944,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 58,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 1140,
+    "dentro_pct": 15.6,
+    "ardiendo": 266,
+    "golpes_anillo": 12,
+    "sobrevive_fase": true,
+    "entra": 12395,
+    "planes": {
+     "aceptados": 0,
+     "andados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {},
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 0,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": null
+   },
+   {
+    "semilla": 20889290,
+    "slot": 11,
+    "tics": 14696,
+    "superviviente": true,
+    "causa": null,
+    "viva_en_warn5": true,
+    "pasos_libres": 1042,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 256,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 1140,
+    "dentro_pct": 38.1,
+    "ardiendo": 238,
+    "golpes_anillo": 6,
+    "sobrevive_fase": true,
+    "entra": 12044,
+    "planes": {
+     "aceptados": 0,
+     "andados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {},
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 0,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": null
+   },
+   {
+    "semilla": 20994019,
+    "slot": 10,
+    "tics": 14833,
+    "superviviente": true,
+    "causa": null,
+    "viva_en_warn5": true,
+    "pasos_libres": 355,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 154,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 1140,
+    "dentro_pct": 70.1,
+    "ardiendo": 0,
+    "golpes_anillo": 0,
+    "sobrevive_fase": true,
+    "entra": 12174,
+    "planes": {
+     "aceptados": 0,
+     "andados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {},
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 0,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": null
+   },
+   {
+    "semilla": 20994019,
+    "slot": 11,
+    "tics": 14833,
+    "superviviente": true,
+    "causa": null,
+    "viva_en_warn5": true,
+    "pasos_libres": 398,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 153,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 1140,
+    "dentro_pct": 64.9,
+    "ardiendo": 0,
+    "golpes_anillo": 0,
+    "sobrevive_fase": true,
+    "entra": 12011,
+    "planes": {
+     "aceptados": 0,
+     "andados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {},
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 0,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": null
+   },
+   {
+    "semilla": 21098748,
+    "slot": 10,
+    "tics": 14143,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "pasos_libres": 764,
+    "pasos_perdidos": 1,
+    "pasos_libres_5_7": 132,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 1140,
+    "dentro_pct": 14.4,
+    "ardiendo": 196,
+    "golpes_anillo": 7,
+    "sobrevive_fase": true,
+    "entra": 12644,
+    "planes": {
+     "aceptados": 0,
+     "andados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {},
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 0,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": null
+   },
+   {
+    "semilla": 21098748,
+    "slot": 11,
+    "tics": 13008,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "pasos_libres": 963,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 103,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 1140,
+    "dentro_pct": 1.9,
+    "ardiendo": 382,
+    "golpes_anillo": 15,
+    "sobrevive_fase": true,
+    "entra": 12967,
+    "planes": {
+     "aceptados": 0,
+     "andados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {},
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 0,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": null
+   },
+   {
+    "semilla": 21203477,
+    "slot": 10,
+    "tics": 14328,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "pasos_libres": 1164,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 207,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 1140,
+    "dentro_pct": 93.0,
+    "ardiendo": 11,
+    "golpes_anillo": 0,
+    "sobrevive_fase": true,
+    "entra": 11914,
+    "planes": {
+     "aceptados": 0,
+     "andados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {},
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 0,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": null
+   },
+   {
+    "semilla": 21203477,
+    "slot": 11,
+    "tics": 12024,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "pasos_libres": 997,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 14,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 169,
+    "dentro_pct": 6.5,
+    "ardiendo": 57,
+    "golpes_anillo": 3,
+    "sobrevive_fase": false,
+    "entra": 11956,
+    "planes": {
+     "aceptados": 0,
+     "andados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {},
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 0,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": null
+   },
+   {
+    "semilla": 21308206,
+    "slot": 10,
+    "tics": 13056,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "pasos_libres": 685,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 105,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 1140,
+    "dentro_pct": 16.4,
+    "ardiendo": 294,
+    "golpes_anillo": 12,
+    "sobrevive_fase": true,
+    "entra": 12472,
+    "planes": {
+     "aceptados": 0,
+     "andados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {},
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 0,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": null
+   },
+   {
+    "semilla": 21308206,
+    "slot": 11,
+    "tics": 14702,
+    "superviviente": true,
+    "causa": null,
+    "viva_en_warn5": true,
+    "pasos_libres": 626,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 195,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 1140,
+    "dentro_pct": 20.9,
+    "ardiendo": 178,
+    "golpes_anillo": 7,
+    "sobrevive_fase": true,
+    "entra": 12736,
+    "planes": {
+     "aceptados": 0,
+     "andados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {},
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 0,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": null
+   },
+   {
+    "semilla": 21412935,
+    "slot": 10,
+    "tics": 14136,
+    "superviviente": true,
+    "causa": null,
+    "viva_en_warn5": true,
+    "pasos_libres": 618,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 121,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 1140,
+    "dentro_pct": 46.0,
+    "ardiendo": 22,
+    "golpes_anillo": 1,
+    "sobrevive_fase": true,
+    "entra": 12240,
+    "planes": {
+     "aceptados": 0,
+     "andados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {},
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 0,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": null
+   },
+   {
+    "semilla": 21412935,
+    "slot": 11,
+    "tics": 14136,
+    "superviviente": true,
+    "causa": null,
+    "viva_en_warn5": true,
+    "pasos_libres": 688,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 161,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 1140,
+    "dentro_pct": 41.7,
+    "ardiendo": 0,
+    "golpes_anillo": 0,
+    "sobrevive_fase": true,
+    "entra": 12521,
+    "planes": {
+     "aceptados": 0,
+     "andados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {},
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 0,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": null
+   },
+   {
+    "semilla": 21517664,
+    "slot": 10,
+    "tics": 14952,
+    "superviviente": true,
+    "causa": null,
+    "viva_en_warn5": true,
+    "pasos_libres": 713,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 178,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 1140,
+    "dentro_pct": 36.9,
+    "ardiendo": 226,
+    "golpes_anillo": 8,
+    "sobrevive_fase": true,
+    "entra": 11856,
+    "planes": {
+     "aceptados": 0,
+     "andados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {},
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 0,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": null
+   },
+   {
+    "semilla": 21517664,
+    "slot": 11,
+    "tics": 14952,
+    "superviviente": true,
+    "causa": null,
+    "viva_en_warn5": true,
+    "pasos_libres": 1200,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 255,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 1140,
+    "dentro_pct": 42.3,
+    "ardiendo": 205,
+    "golpes_anillo": 7,
+    "sobrevive_fase": true,
+    "entra": 11856,
+    "planes": {
+     "aceptados": 0,
+     "andados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {},
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 0,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": null
+   },
+   {
+    "semilla": 21622393,
+    "slot": 10,
+    "tics": 2290,
+    "superviviente": false,
+    "causa": "rival",
+    "viva_en_warn5": false,
+    "pasos_libres": 150,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 0,
+    "pasos_perdidos_5_7": 0
+   },
+   {
+    "semilla": 21622393,
+    "slot": 11,
+    "tics": 1900,
+    "superviviente": false,
+    "causa": "rival",
+    "viva_en_warn5": false,
+    "pasos_libres": 129,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 0,
+    "pasos_perdidos_5_7": 0
+   },
+   {
+    "semilla": 21727122,
+    "slot": 10,
+    "tics": 12744,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "pasos_libres": 1142,
+    "pasos_perdidos": 3,
+    "pasos_libres_5_7": 79,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 889,
+    "dentro_pct": 0.0,
+    "ardiendo": 365,
+    "golpes_anillo": 15,
+    "sobrevive_fase": false,
+    "entra": null,
+    "planes": {
+     "aceptados": 0,
+     "andados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {},
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 0,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": null
+   },
+   {
+    "semilla": 21727122,
+    "slot": 11,
+    "tics": 12672,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "pasos_libres": 1099,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 75,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 817,
+    "dentro_pct": 0.0,
+    "ardiendo": 361,
+    "golpes_anillo": 14,
+    "sobrevive_fase": false,
+    "entra": null,
+    "planes": {
+     "aceptados": 0,
+     "andados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {},
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 0,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": null
+   },
+   {
+    "semilla": 21831851,
+    "slot": 10,
+    "tics": 12960,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "pasos_libres": 921,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 84,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 1105,
+    "dentro_pct": 35.9,
+    "ardiendo": 279,
+    "golpes_anillo": 13,
+    "sobrevive_fase": false,
+    "entra": 11856,
+    "planes": {
+     "aceptados": 0,
+     "andados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {},
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 0,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": null
+   },
+   {
+    "semilla": 21831851,
+    "slot": 11,
+    "tics": 12840,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "pasos_libres": 743,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 78,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 985,
+    "dentro_pct": 22.3,
+    "ardiendo": 238,
+    "golpes_anillo": 9,
+    "sobrevive_fase": false,
+    "entra": 11856,
+    "planes": {
+     "aceptados": 0,
+     "andados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {},
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 0,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": null
+   },
+   {
+    "semilla": 21936580,
+    "slot": 10,
+    "tics": 12888,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "pasos_libres": 182,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 37,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 1033,
+    "dentro_pct": 0.0,
+    "ardiendo": 393,
+    "golpes_anillo": 15,
+    "sobrevive_fase": false,
+    "entra": null,
+    "planes": {
+     "aceptados": 0,
+     "andados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {},
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 0,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": null
+   },
+   {
+    "semilla": 21936580,
+    "slot": 11,
+    "tics": 13968,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "pasos_libres": 639,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 192,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 1140,
+    "dentro_pct": 53.5,
+    "ardiendo": 154,
+    "golpes_anillo": 4,
+    "sobrevive_fase": true,
+    "entra": 11858,
+    "planes": {
+     "aceptados": 0,
+     "andados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {},
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 0,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": null
+   },
+   {
+    "semilla": 22041309,
+    "slot": 10,
+    "tics": 14679,
+    "superviviente": true,
+    "causa": null,
+    "viva_en_warn5": true,
+    "pasos_libres": 724,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 202,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 1140,
+    "dentro_pct": 19.6,
+    "ardiendo": 192,
+    "golpes_anillo": 3,
+    "sobrevive_fase": true,
+    "entra": 12666,
+    "planes": {
+     "aceptados": 0,
+     "andados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {},
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 0,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": null
+   },
+   {
+    "semilla": 22041309,
+    "slot": 11,
+    "tics": 12720,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "pasos_libres": 1113,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 78,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 865,
+    "dentro_pct": 0.0,
+    "ardiendo": 430,
+    "golpes_anillo": 19,
+    "sobrevive_fase": false,
+    "entra": null,
+    "planes": {
+     "aceptados": 0,
+     "andados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {},
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 0,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": null
+   },
+   {
+    "semilla": 22146038,
+    "slot": 10,
+    "tics": 11615,
+    "superviviente": false,
+    "causa": "rival",
+    "viva_en_warn5": false,
+    "pasos_libres": 1010,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 0,
+    "pasos_perdidos_5_7": 0
+   },
+   {
+    "semilla": 22146038,
+    "slot": 11,
+    "tics": 13061,
+    "superviviente": true,
+    "causa": null,
+    "viva_en_warn5": true,
+    "pasos_libres": 1144,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 110,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 1140,
+    "dentro_pct": 52.1,
+    "ardiendo": 168,
+    "golpes_anillo": 8,
+    "sobrevive_fase": true,
+    "entra": 11860,
+    "planes": {
+     "aceptados": 0,
+     "andados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {},
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 0,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": null
+   },
+   {
+    "semilla": 22250767,
+    "slot": 10,
+    "tics": 14628,
+    "superviviente": false,
+    "causa": "rival",
+    "viva_en_warn5": true,
+    "pasos_libres": 504,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 146,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 1140,
+    "dentro_pct": 45.3,
+    "ardiendo": 11,
+    "golpes_anillo": 1,
+    "sobrevive_fase": true,
+    "entra": 12469,
+    "planes": {
+     "aceptados": 0,
+     "andados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {},
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 0,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": null
+   },
+   {
+    "semilla": 22250767,
+    "slot": 11,
+    "tics": 12912,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "pasos_libres": 415,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 64,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 1057,
+    "dentro_pct": 0.0,
+    "ardiendo": 366,
+    "golpes_anillo": 14,
+    "sobrevive_fase": false,
+    "entra": null,
+    "planes": {
+     "aceptados": 0,
+     "andados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {},
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 0,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": null
+   }
+  ],
+  "por_semilla": {
+   "20260916": {
+    "semilla": 20260916,
+    "supervivientes": 0,
+    "anillo": 2,
+    "rival": 0,
+    "dentro_pct": [
+     0.0,
+     4.8
+    ],
+    "ardiendo": [
+     350,
+     316
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 0,
+    "aceptan_los_dos": 0,
+    "perdidos": 0,
+    "libres": 1834,
+    "dentro_pct_media": 2.4,
+    "ardiendo_media": 333
+   },
+   "20365645": {
+    "semilla": 20365645,
+    "supervivientes": 0,
+    "anillo": 1,
+    "rival": 0,
+    "dentro_pct": [],
+    "ardiendo": [],
+    "vivas_en_warn": 0,
+    "sostenidos": 0,
+    "aceptados_fase": 0,
+    "aceptan_los_dos": 0,
+    "perdidos": 0,
+    "libres": 1814,
+    "dentro_pct_media": null,
+    "ardiendo_media": null
+   },
+   "20470374": {
+    "semilla": 20470374,
+    "supervivientes": 1,
+    "anillo": 0,
+    "rival": 1,
+    "dentro_pct": [
+     82.2,
+     100.0
+    ],
+    "ardiendo": [
+     0,
+     0
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 0,
+    "aceptan_los_dos": 0,
+    "perdidos": 0,
+    "libres": 829,
+    "dentro_pct_media": 91.1,
+    "ardiendo_media": 0
+   },
+   "20575103": {
+    "semilla": 20575103,
+    "supervivientes": 0,
+    "anillo": 2,
+    "rival": 0,
+    "dentro_pct": [
+     4.8,
+     75.4
+    ],
+    "ardiendo": [
+     331,
+     225
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 0,
+    "aceptan_los_dos": 0,
+    "perdidos": 0,
+    "libres": 2040,
+    "dentro_pct_media": 40.1,
+    "ardiendo_media": 278
+   },
+   "20679832": {
+    "semilla": 20679832,
+    "supervivientes": 0,
+    "anillo": 1,
+    "rival": 1,
+    "dentro_pct": [
+     100.0,
+     6.4
+    ],
+    "ardiendo": [
+     0,
+     276
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 0,
+    "aceptan_los_dos": 0,
+    "perdidos": 0,
+    "libres": 2058,
+    "dentro_pct_media": 53.2,
+    "ardiendo_media": 138
+   },
+   "20784561": {
+    "semilla": 20784561,
+    "supervivientes": 0,
+    "anillo": 2,
+    "rival": 0,
+    "dentro_pct": [
+     24.5,
+     10.3
+    ],
+    "ardiendo": [
+     125,
+     205
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 0,
+    "aceptan_los_dos": 0,
+    "perdidos": 1,
+    "libres": 2125,
+    "dentro_pct_media": 17.4,
+    "ardiendo_media": 165
+   },
+   "20889290": {
+    "semilla": 20889290,
+    "supervivientes": 1,
+    "anillo": 1,
+    "rival": 0,
+    "dentro_pct": [
+     15.6,
+     38.1
+    ],
+    "ardiendo": [
+     266,
+     238
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 0,
+    "aceptan_los_dos": 0,
+    "perdidos": 0,
+    "libres": 1986,
+    "dentro_pct_media": 26.9,
+    "ardiendo_media": 252
+   },
+   "20994019": {
+    "semilla": 20994019,
+    "supervivientes": 2,
+    "anillo": 0,
+    "rival": 0,
+    "dentro_pct": [
+     70.1,
+     64.9
+    ],
+    "ardiendo": [
+     0,
+     0
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 0,
+    "aceptan_los_dos": 0,
+    "perdidos": 0,
+    "libres": 753,
+    "dentro_pct_media": 67.5,
+    "ardiendo_media": 0
+   },
+   "21098748": {
+    "semilla": 21098748,
+    "supervivientes": 0,
+    "anillo": 2,
+    "rival": 0,
+    "dentro_pct": [
+     14.4,
+     1.9
+    ],
+    "ardiendo": [
+     196,
+     382
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 0,
+    "aceptan_los_dos": 0,
+    "perdidos": 1,
+    "libres": 1727,
+    "dentro_pct_media": 8.2,
+    "ardiendo_media": 289
+   },
+   "21203477": {
+    "semilla": 21203477,
+    "supervivientes": 0,
+    "anillo": 2,
+    "rival": 0,
+    "dentro_pct": [
+     93.0,
+     6.5
+    ],
+    "ardiendo": [
+     11,
+     57
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 0,
+    "aceptan_los_dos": 0,
+    "perdidos": 0,
+    "libres": 2161,
+    "dentro_pct_media": 49.8,
+    "ardiendo_media": 34
+   },
+   "21308206": {
+    "semilla": 21308206,
+    "supervivientes": 1,
+    "anillo": 1,
+    "rival": 0,
+    "dentro_pct": [
+     16.4,
+     20.9
+    ],
+    "ardiendo": [
+     294,
+     178
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 0,
+    "aceptan_los_dos": 0,
+    "perdidos": 0,
+    "libres": 1311,
+    "dentro_pct_media": 18.6,
+    "ardiendo_media": 236
+   },
+   "21412935": {
+    "semilla": 21412935,
+    "supervivientes": 2,
+    "anillo": 0,
+    "rival": 0,
+    "dentro_pct": [
+     46.0,
+     41.7
+    ],
+    "ardiendo": [
+     22,
+     0
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 0,
+    "aceptan_los_dos": 0,
+    "perdidos": 0,
+    "libres": 1306,
+    "dentro_pct_media": 43.9,
+    "ardiendo_media": 11
+   },
+   "21517664": {
+    "semilla": 21517664,
+    "supervivientes": 2,
+    "anillo": 0,
+    "rival": 0,
+    "dentro_pct": [
+     36.9,
+     42.3
+    ],
+    "ardiendo": [
+     226,
+     205
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 0,
+    "aceptan_los_dos": 0,
+    "perdidos": 0,
+    "libres": 1913,
+    "dentro_pct_media": 39.6,
+    "ardiendo_media": 215.5
+   },
+   "21622393": {
+    "semilla": 21622393,
+    "supervivientes": 0,
+    "anillo": 0,
+    "rival": 2,
+    "dentro_pct": [],
+    "ardiendo": [],
+    "vivas_en_warn": 0,
+    "sostenidos": 0,
+    "aceptados_fase": 0,
+    "aceptan_los_dos": 0,
+    "perdidos": 0,
+    "libres": 279,
+    "dentro_pct_media": null,
+    "ardiendo_media": null
+   },
+   "21727122": {
+    "semilla": 21727122,
+    "supervivientes": 0,
+    "anillo": 2,
+    "rival": 0,
+    "dentro_pct": [
+     0.0,
+     0.0
+    ],
+    "ardiendo": [
+     365,
+     361
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 0,
+    "aceptan_los_dos": 0,
+    "perdidos": 3,
+    "libres": 2241,
+    "dentro_pct_media": 0.0,
+    "ardiendo_media": 363
+   },
+   "21831851": {
+    "semilla": 21831851,
+    "supervivientes": 0,
+    "anillo": 2,
+    "rival": 0,
+    "dentro_pct": [
+     35.9,
+     22.3
+    ],
+    "ardiendo": [
+     279,
+     238
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 0,
+    "aceptan_los_dos": 0,
+    "perdidos": 0,
+    "libres": 1664,
+    "dentro_pct_media": 29.1,
+    "ardiendo_media": 258.5
+   },
+   "21936580": {
+    "semilla": 21936580,
+    "supervivientes": 0,
+    "anillo": 2,
+    "rival": 0,
+    "dentro_pct": [
+     0.0,
+     53.5
+    ],
+    "ardiendo": [
+     393,
+     154
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 0,
+    "aceptan_los_dos": 0,
+    "perdidos": 0,
+    "libres": 821,
+    "dentro_pct_media": 26.8,
+    "ardiendo_media": 273.5
+   },
+   "22041309": {
+    "semilla": 22041309,
+    "supervivientes": 1,
+    "anillo": 1,
+    "rival": 0,
+    "dentro_pct": [
+     19.6,
+     0.0
+    ],
+    "ardiendo": [
+     192,
+     430
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 0,
+    "aceptan_los_dos": 0,
+    "perdidos": 0,
+    "libres": 1837,
+    "dentro_pct_media": 9.8,
+    "ardiendo_media": 311
+   },
+   "22146038": {
+    "semilla": 22146038,
+    "supervivientes": 1,
+    "anillo": 0,
+    "rival": 1,
+    "dentro_pct": [
+     52.1
+    ],
+    "ardiendo": [
+     168
+    ],
+    "vivas_en_warn": 1,
+    "sostenidos": 0,
+    "aceptados_fase": 0,
+    "aceptan_los_dos": 0,
+    "perdidos": 0,
+    "libres": 2154,
+    "dentro_pct_media": 52.1,
+    "ardiendo_media": 168
+   },
+   "22250767": {
+    "semilla": 22250767,
+    "supervivientes": 0,
+    "anillo": 1,
+    "rival": 1,
+    "dentro_pct": [
+     45.3,
+     0.0
+    ],
+    "ardiendo": [
+     11,
+     366
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 0,
+    "aceptan_los_dos": 0,
+    "perdidos": 0,
+    "libres": 919,
+    "dentro_pct_media": 22.6,
+    "ardiendo_media": 188.5
+   }
+  }
+ },
+ "A7v": {
+  "resumen": {
+   "vidas": 40,
+   "vivas_en_warn5": 36,
+   "pasos_libres": 33347,
+   "pasos_perdidos": 32,
+   "pasos_libres_5_7": 5716,
+   "pasos_perdidos_5_7": 16,
+   "dentro_pct_media": 35.6,
+   "dentro_pct_mediana": 29.55,
+   "ardiendo_media": 149.1,
+   "ardiendo_mediana": 119.5,
+   "vidas_0_ardiendo": 7,
+   "nunca_entra": 0,
+   "sobreviven_fase5": 27,
+   "planes_aceptados_fase5": 109,
+   "planes_andados": 102,
+   "planes_sostenidos": 0,
+   "fines": {
+    "caida: en la reevaluacion deja de ganar (area)": 104,
+    "caida: la vida real 14 esta por debajo de la proyectada 24 menos 10": 1,
+    "caida: en la reevaluacion deja de ganar (vida)": 2,
+    "caida: la vida real 70 esta por debajo de la proyectada 100 menos 1": 1,
+    "caida: la vida real 59 esta por debajo de la proyectada 74 menos 10": 1
+   },
+   "rupturas": {
+    "e) rival a 2 o menos": 248,
+    "d) vida bajo 15": 16
+   },
+   "estados_compromiso": {
+    "enfriamiento": 2538,
+    "rompe": 264,
+    "obedece": 296,
+    "sujeta": 220,
+    "alerta": 60,
+    "suspende": 4,
+    "retenido": 2
+   },
+   "suspensiones": 4,
+   "reanudaciones": 0,
+   "alertas": 60,
+   "retenido": 2,
+   "sale": 0,
+   "caidas_vida_real": 3,
+   "caidas_cuenta_justa": 0,
+   "semillas_aceptan_los_dos": 13,
+   "muertes_anillo": 13,
+   "muertes_rival": 13,
+   "supervivientes": 10
+  },
+  "vidas": [
+   {
+    "semilla": 20260916,
+    "slot": 10,
+    "tics": 15024,
+    "superviviente": true,
+    "causa": null,
+    "viva_en_warn5": true,
+    "pasos_libres": 1146,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 202,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 1140,
+    "dentro_pct": 100.0,
+    "ardiendo": 0,
+    "golpes_anillo": 0,
+    "sobrevive_fase": true,
+    "entra": 11856,
+    "planes": {
+     "aceptados": 0,
+     "andados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {},
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 0,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": {
+     "sujeta": 0,
+     "alertas": 0,
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "tics_suspendida": 0,
+     "retenido": 0,
+     "sale": 0,
+     "instantaneas": {
+      "n": 3,
+      "mediana_ms": 23.48,
+      "max_ms": 29.09
+     },
+     "encargos_oraculo": {
+      "n": 1207,
+      "mediana_ms": 0.07,
+      "max_ms": 19.88
+     },
+     "errores_juez": []
+    }
+   },
+   {
+    "semilla": 20260916,
+    "slot": 11,
+    "tics": 15024,
+    "superviviente": true,
+    "causa": null,
+    "viva_en_warn5": true,
+    "pasos_libres": 1120,
+    "pasos_perdidos": 1,
+    "pasos_libres_5_7": 276,
+    "pasos_perdidos_5_7": 1,
+    "tics_fase": 1140,
+    "dentro_pct": 100.0,
+    "ardiendo": 0,
+    "golpes_anillo": 0,
+    "sobrevive_fase": true,
+    "entra": 11856,
+    "planes": {
+     "aceptados": 0,
+     "andados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {},
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 0,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": {
+     "sujeta": 0,
+     "alertas": 4,
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "tics_suspendida": 0,
+     "retenido": 0,
+     "sale": 0,
+     "instantaneas": {
+      "n": 25,
+      "mediana_ms": 18.43,
+      "max_ms": 30.07
+     },
+     "encargos_oraculo": {
+      "n": 908,
+      "mediana_ms": 0.07,
+      "max_ms": 20.43
+     },
+     "errores_juez": []
+    }
+   },
+   {
+    "semilla": 20365645,
+    "slot": 10,
+    "tics": 14784,
+    "superviviente": false,
+    "causa": "rival",
+    "viva_en_warn5": true,
+    "pasos_libres": 838,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 209,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 1140,
+    "dentro_pct": 41.6,
+    "ardiendo": 11,
+    "golpes_anillo": 1,
+    "sobrevive_fase": true,
+    "entra": 12445,
+    "planes": {
+     "aceptados": 2,
+     "andados": 1,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "caida: en la reevaluacion deja de ganar (area)": 2
+     },
+     "rupturas": {
+      "e) rival a 2 o menos": 9
+     },
+     "estados": {
+      "enfriamiento": 16,
+      "rompe": 9,
+      "obedece": 2
+     },
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 0,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": {
+     "sujeta": 0,
+     "alertas": 0,
+     "suspensiones": 2,
+     "reanudaciones": 0,
+     "tics_suspendida": 29,
+     "retenido": 15,
+     "sale": 0,
+     "instantaneas": {
+      "n": 12,
+      "mediana_ms": 18.34,
+      "max_ms": 22.78
+     },
+     "encargos_oraculo": {
+      "n": 1833,
+      "mediana_ms": 0.08,
+      "max_ms": 8.91
+     },
+     "errores_juez": []
+    }
+   },
+   {
+    "semilla": 20365645,
+    "slot": 11,
+    "tics": 12816,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "pasos_libres": 892,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 74,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 961,
+    "dentro_pct": 9.1,
+    "ardiendo": 351,
+    "golpes_anillo": 11,
+    "sobrevive_fase": false,
+    "entra": 12267,
+    "planes": {
+     "aceptados": 6,
+     "andados": 6,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "caida: en la reevaluacion deja de ganar (area)": 6
+     },
+     "rupturas": {
+      "e) rival a 2 o menos": 18
+     },
+     "estados": {
+      "enfriamiento": 124,
+      "obedece": 14,
+      "rompe": 18,
+      "sujeta": 21
+     },
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 0,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": {
+     "sujeta": 21,
+     "alertas": 0,
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "tics_suspendida": 0,
+     "retenido": 0,
+     "sale": 0,
+     "instantaneas": {
+      "n": 20,
+      "mediana_ms": 24.64,
+      "max_ms": 41.04
+     },
+     "encargos_oraculo": {
+      "n": 551,
+      "mediana_ms": 0.07,
+      "max_ms": 15.02
+     },
+     "errores_juez": []
+    }
+   },
+   {
+    "semilla": 20470374,
+    "slot": 10,
+    "tics": 14593,
+    "superviviente": false,
+    "causa": "rival",
+    "viva_en_warn5": true,
+    "pasos_libres": 1000,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 189,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 1140,
+    "dentro_pct": 25.3,
+    "ardiendo": 118,
+    "golpes_anillo": 4,
+    "sobrevive_fase": true,
+    "entra": 12620,
+    "planes": {
+     "aceptados": 2,
+     "andados": 2,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "caida: en la reevaluacion deja de ganar (area)": 2
+     },
+     "rupturas": {
+      "e) rival a 2 o menos": 27
+     },
+     "estados": {
+      "enfriamiento": 106,
+      "obedece": 9,
+      "rompe": 27
+     },
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 0,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": {
+     "sujeta": 0,
+     "alertas": 0,
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "tics_suspendida": 0,
+     "retenido": 0,
+     "sale": 0,
+     "instantaneas": {
+      "n": 10,
+      "mediana_ms": 21.71,
+      "max_ms": 23.77
+     },
+     "encargos_oraculo": {
+      "n": 1644,
+      "mediana_ms": 0.07,
+      "max_ms": 27.6
+     },
+     "errores_juez": []
+    }
+   },
+   {
+    "semilla": 20470374,
+    "slot": 11,
+    "tics": 14665,
+    "superviviente": false,
+    "causa": "rival",
+    "viva_en_warn5": true,
+    "pasos_libres": 1142,
+    "pasos_perdidos": 2,
+    "pasos_libres_5_7": 218,
+    "pasos_perdidos_5_7": 1,
+    "tics_fase": 1140,
+    "dentro_pct": 35.7,
+    "ardiendo": 55,
+    "golpes_anillo": 2,
+    "sobrevive_fase": true,
+    "entra": 12452,
+    "planes": {
+     "aceptados": 4,
+     "andados": 3,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "caida: en la reevaluacion deja de ganar (area)": 4
+     },
+     "rupturas": {
+      "e) rival a 2 o menos": 50
+     },
+     "estados": {
+      "rompe": 50,
+      "enfriamiento": 43,
+      "obedece": 5
+     },
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 0,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": {
+     "sujeta": 0,
+     "alertas": 0,
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "tics_suspendida": 0,
+     "retenido": 0,
+     "sale": 0,
+     "instantaneas": {
+      "n": 10,
+      "mediana_ms": 27.77,
+      "max_ms": 42.6
+     },
+     "encargos_oraculo": {
+      "n": 1102,
+      "mediana_ms": 0.07,
+      "max_ms": 38.25
+     },
+     "errores_juez": []
+    }
+   },
+   {
+    "semilla": 20575103,
+    "slot": 10,
+    "tics": 12792,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "pasos_libres": 947,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 31,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 937,
+    "dentro_pct": 5.9,
+    "ardiendo": 168,
+    "golpes_anillo": 6,
+    "sobrevive_fase": false,
+    "entra": 12583,
+    "planes": {
+     "aceptados": 4,
+     "andados": 4,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "caida: en la reevaluacion deja de ganar (area)": 4
+     },
+     "rupturas": {},
+     "estados": {
+      "enfriamiento": 57,
+      "obedece": 7
+     },
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 0,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": {
+     "sujeta": 0,
+     "alertas": 1,
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "tics_suspendida": 0,
+     "retenido": 0,
+     "sale": 0,
+     "instantaneas": {
+      "n": 39,
+      "mediana_ms": 11.57,
+      "max_ms": 18.96
+     },
+     "encargos_oraculo": {
+      "n": 1105,
+      "mediana_ms": 0.07,
+      "max_ms": 9.16
+     },
+     "errores_juez": []
+    }
+   },
+   {
+    "semilla": 20575103,
+    "slot": 11,
+    "tics": 14616,
+    "superviviente": true,
+    "causa": null,
+    "viva_en_warn5": true,
+    "pasos_libres": 1098,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 201,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 1140,
+    "dentro_pct": 91.3,
+    "ardiendo": 99,
+    "golpes_anillo": 4,
+    "sobrevive_fase": true,
+    "entra": 11856,
+    "planes": {
+     "aceptados": 1,
+     "andados": 1,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "caida: en la reevaluacion deja de ganar (area)": 1
+     },
+     "rupturas": {
+      "e) rival a 2 o menos": 6
+     },
+     "estados": {
+      "enfriamiento": 42,
+      "obedece": 5,
+      "rompe": 6
+     },
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 0,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": {
+     "sujeta": 0,
+     "alertas": 0,
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "tics_suspendida": 0,
+     "retenido": 0,
+     "sale": 0,
+     "instantaneas": {
+      "n": 12,
+      "mediana_ms": 19.37,
+      "max_ms": 30.39
+     },
+     "encargos_oraculo": {
+      "n": 1472,
+      "mediana_ms": 0.07,
+      "max_ms": 17.3
+     },
+     "errores_juez": []
+    }
+   },
+   {
+    "semilla": 20679832,
+    "slot": 10,
+    "tics": 14684,
+    "superviviente": true,
+    "causa": null,
+    "viva_en_warn5": true,
+    "pasos_libres": 1238,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 247,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 1140,
+    "dentro_pct": 100.0,
+    "ardiendo": 0,
+    "golpes_anillo": 0,
+    "sobrevive_fase": true,
+    "entra": 11856,
+    "planes": {
+     "aceptados": 0,
+     "andados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {},
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 0,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": {
+     "sujeta": 0,
+     "alertas": 0,
+     "suspensiones": 1,
+     "reanudaciones": 0,
+     "tics_suspendida": 55,
+     "retenido": 0,
+     "sale": 0,
+     "instantaneas": {
+      "n": 13,
+      "mediana_ms": 20.39,
+      "max_ms": 39.38
+     },
+     "encargos_oraculo": {
+      "n": 1006,
+      "mediana_ms": 0.07,
+      "max_ms": 19.38
+     },
+     "errores_juez": []
+    }
+   },
+   {
+    "semilla": 20679832,
+    "slot": 11,
+    "tics": 14617,
+    "superviviente": false,
+    "causa": "rival",
+    "viva_en_warn5": true,
+    "pasos_libres": 1098,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 191,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 1140,
+    "dentro_pct": 18.7,
+    "ardiendo": 311,
+    "golpes_anillo": 13,
+    "sobrevive_fase": true,
+    "entra": 12508,
+    "planes": {
+     "aceptados": 7,
+     "andados": 7,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "caida: en la reevaluacion deja de ganar (area)": 6,
+      "caida: la vida real 14 esta por debajo de la proyectada 24 menos 10": 1
+     },
+     "rupturas": {
+      "e) rival a 2 o menos": 1,
+      "d) vida bajo 15": 4
+     },
+     "estados": {
+      "obedece": 19,
+      "enfriamiento": 147,
+      "sujeta": 69,
+      "rompe": 5
+     },
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 0,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 1,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": {
+     "sujeta": 69,
+     "alertas": 0,
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "tics_suspendida": 0,
+     "retenido": 0,
+     "sale": 0,
+     "instantaneas": {
+      "n": 21,
+      "mediana_ms": 21.29,
+      "max_ms": 40.44
+     },
+     "encargos_oraculo": {
+      "n": 1190,
+      "mediana_ms": 0.07,
+      "max_ms": 31.74
+     },
+     "errores_juez": []
+    }
+   },
+   {
+    "semilla": 20784561,
+    "slot": 10,
+    "tics": 11202,
+    "superviviente": false,
+    "causa": "rival",
+    "viva_en_warn5": false,
+    "pasos_libres": 178,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 0,
+    "pasos_perdidos_5_7": 0
+   },
+   {
+    "semilla": 20784561,
+    "slot": 11,
+    "tics": 13979,
+    "superviviente": false,
+    "causa": "no consta",
+    "viva_en_warn5": true,
+    "pasos_libres": 514,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 134,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 1140,
+    "dentro_pct": 11.7,
+    "ardiendo": 326,
+    "golpes_anillo": 14,
+    "sobrevive_fase": true,
+    "entra": 12158,
+    "planes": {
+     "aceptados": 4,
+     "andados": 4,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "caida: en la reevaluacion deja de ganar (area)": 4
+     },
+     "rupturas": {
+      "e) rival a 2 o menos": 1
+     },
+     "estados": {
+      "enfriamiento": 196,
+      "obedece": 21,
+      "rompe": 1,
+      "sujeta": 23
+     },
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 0,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": {
+     "sujeta": 23,
+     "alertas": 0,
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "tics_suspendida": 0,
+     "retenido": 0,
+     "sale": 0,
+     "instantaneas": {
+      "n": 21,
+      "mediana_ms": 14.03,
+      "max_ms": 21.74
+     },
+     "encargos_oraculo": {
+      "n": 1906,
+      "mediana_ms": 0.07,
+      "max_ms": 10.52
+     },
+     "errores_juez": []
+    }
+   },
+   {
+    "semilla": 20889290,
+    "slot": 10,
+    "tics": 14640,
+    "superviviente": false,
+    "causa": "rival",
+    "viva_en_warn5": true,
+    "pasos_libres": 883,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 247,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 1140,
+    "dentro_pct": 35.1,
+    "ardiendo": 78,
+    "golpes_anillo": 5,
+    "sobrevive_fase": true,
+    "entra": 12441,
+    "planes": {
+     "aceptados": 2,
+     "andados": 1,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "caida: en la reevaluacion deja de ganar (area)": 2
+     },
+     "rupturas": {},
+     "estados": {
+      "enfriamiento": 22,
+      "obedece": 3
+     },
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 0,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": {
+     "sujeta": 0,
+     "alertas": 0,
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "tics_suspendida": 0,
+     "retenido": 0,
+     "sale": 0,
+     "instantaneas": {
+      "n": 19,
+      "mediana_ms": 18.46,
+      "max_ms": 24.49
+     },
+     "encargos_oraculo": {
+      "n": 994,
+      "mediana_ms": 0.07,
+      "max_ms": 18.12
+     },
+     "errores_juez": []
+    }
+   },
+   {
+    "semilla": 20889290,
+    "slot": 11,
+    "tics": 14765,
+    "superviviente": true,
+    "causa": null,
+    "viva_en_warn5": true,
+    "pasos_libres": 653,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 176,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 1140,
+    "dentro_pct": 23.8,
+    "ardiendo": 158,
+    "golpes_anillo": 7,
+    "sobrevive_fase": true,
+    "entra": 12556,
+    "planes": {
+     "aceptados": 5,
+     "andados": 5,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "caida: en la reevaluacion deja de ganar (area)": 5
+     },
+     "rupturas": {},
+     "estados": {
+      "enfriamiento": 105,
+      "obedece": 12,
+      "alerta": 1
+     },
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 1,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": {
+     "sujeta": 0,
+     "alertas": 1,
+     "suspensiones": 1,
+     "reanudaciones": 0,
+     "tics_suspendida": 2,
+     "retenido": 0,
+     "sale": 0,
+     "instantaneas": {
+      "n": 21,
+      "mediana_ms": 17.91,
+      "max_ms": 35.61
+     },
+     "encargos_oraculo": {
+      "n": 1921,
+      "mediana_ms": 0.05,
+      "max_ms": 16.9
+     },
+     "errores_juez": []
+    }
+   },
+   {
+    "semilla": 20994019,
+    "slot": 10,
+    "tics": 14557,
+    "superviviente": false,
+    "causa": "no consta",
+    "viva_en_warn5": true,
+    "pasos_libres": 286,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 145,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 1140,
+    "dentro_pct": 20.5,
+    "ardiendo": 264,
+    "golpes_anillo": 10,
+    "sobrevive_fase": true,
+    "entra": 12465,
+    "planes": {
+     "aceptados": 5,
+     "andados": 5,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "caida: en la reevaluacion deja de ganar (area)": 5
+     },
+     "rupturas": {
+      "e) rival a 2 o menos": 31
+     },
+     "estados": {
+      "enfriamiento": 185,
+      "obedece": 21,
+      "alerta": 5,
+      "rompe": 31,
+      "sujeta": 19
+     },
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 5,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": {
+     "sujeta": 19,
+     "alertas": 5,
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "tics_suspendida": 0,
+     "retenido": 0,
+     "sale": 0,
+     "instantaneas": {
+      "n": 24,
+      "mediana_ms": 16.3,
+      "max_ms": 24.22
+     },
+     "encargos_oraculo": {
+      "n": 2448,
+      "mediana_ms": 0.07,
+      "max_ms": 10.39
+     },
+     "errores_juez": []
+    }
+   },
+   {
+    "semilla": 20994019,
+    "slot": 11,
+    "tics": 11832,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": false,
+    "pasos_libres": 205,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 0,
+    "pasos_perdidos_5_7": 0
+   },
+   {
+    "semilla": 21098748,
+    "slot": 10,
+    "tics": 12816,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "pasos_libres": 810,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 73,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 961,
+    "dentro_pct": 5.7,
+    "ardiendo": 372,
+    "golpes_anillo": 15,
+    "sobrevive_fase": false,
+    "entra": 12413,
+    "planes": {
+     "aceptados": 7,
+     "andados": 7,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "caida: en la reevaluacion deja de ganar (area)": 7
+     },
+     "rupturas": {},
+     "estados": {
+      "alerta": 8,
+      "enfriamiento": 149,
+      "obedece": 16
+     },
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 8,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": {
+     "sujeta": 0,
+     "alertas": 8,
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "tics_suspendida": 0,
+     "retenido": 0,
+     "sale": 0,
+     "instantaneas": {
+      "n": 19,
+      "mediana_ms": 13.82,
+      "max_ms": 21.27
+     },
+     "encargos_oraculo": {
+      "n": 883,
+      "mediana_ms": 0.06,
+      "max_ms": 8.46
+     },
+     "errores_juez": []
+    }
+   },
+   {
+    "semilla": 21098748,
+    "slot": 11,
+    "tics": 14689,
+    "superviviente": false,
+    "causa": "rival",
+    "viva_en_warn5": true,
+    "pasos_libres": 957,
+    "pasos_perdidos": 1,
+    "pasos_libres_5_7": 226,
+    "pasos_perdidos_5_7": 1,
+    "tics_fase": 1140,
+    "dentro_pct": 19.0,
+    "ardiendo": 220,
+    "golpes_anillo": 9,
+    "sobrevive_fase": true,
+    "entra": 12385,
+    "planes": {
+     "aceptados": 5,
+     "andados": 5,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "caida: en la reevaluacion deja de ganar (area)": 5
+     },
+     "rupturas": {
+      "e) rival a 2 o menos": 6
+     },
+     "estados": {
+      "enfriamiento": 116,
+      "obedece": 16,
+      "alerta": 2,
+      "rompe": 6
+     },
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 2,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": {
+     "sujeta": 0,
+     "alertas": 2,
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "tics_suspendida": 0,
+     "retenido": 0,
+     "sale": 0,
+     "instantaneas": {
+      "n": 20,
+      "mediana_ms": 19.87,
+      "max_ms": 31.01
+     },
+     "encargos_oraculo": {
+      "n": 1213,
+      "mediana_ms": 0.07,
+      "max_ms": 16.27
+     },
+     "errores_juez": []
+    }
+   },
+   {
+    "semilla": 21203477,
+    "slot": 10,
+    "tics": 14636,
+    "superviviente": false,
+    "causa": "rival",
+    "viva_en_warn5": true,
+    "pasos_libres": 685,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 236,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 1140,
+    "dentro_pct": 41.1,
+    "ardiendo": 176,
+    "golpes_anillo": 8,
+    "sobrevive_fase": true,
+    "entra": 12330,
+    "planes": {
+     "aceptados": 1,
+     "andados": 1,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "caida: en la reevaluacion deja de ganar (area)": 1
+     },
+     "rupturas": {},
+     "estados": {
+      "enfriamiento": 4,
+      "obedece": 1
+     },
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 0,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": {
+     "sujeta": 0,
+     "alertas": 1,
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "tics_suspendida": 0,
+     "retenido": 0,
+     "sale": 0,
+     "instantaneas": {
+      "n": 15,
+      "mediana_ms": 16.49,
+      "max_ms": 23.74
+     },
+     "encargos_oraculo": {
+      "n": 1126,
+      "mediana_ms": 0.05,
+      "max_ms": 6.4
+     },
+     "errores_juez": []
+    }
+   },
+   {
+    "semilla": 21203477,
+    "slot": 11,
+    "tics": 14642,
+    "superviviente": true,
+    "causa": null,
+    "viva_en_warn5": true,
+    "pasos_libres": 691,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 216,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 1140,
+    "dentro_pct": 43.7,
+    "ardiendo": 0,
+    "golpes_anillo": 0,
+    "sobrevive_fase": true,
+    "entra": 12498,
+    "planes": {
+     "aceptados": 1,
+     "andados": 1,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "caida: en la reevaluacion deja de ganar (area)": 1
+     },
+     "rupturas": {},
+     "estados": {
+      "enfriamiento": 1,
+      "obedece": 1
+     },
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 0,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": {
+     "sujeta": 0,
+     "alertas": 0,
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "tics_suspendida": 0,
+     "retenido": 0,
+     "sale": 0,
+     "instantaneas": {
+      "n": 3,
+      "mediana_ms": 22.63,
+      "max_ms": 31.08
+     },
+     "encargos_oraculo": {
+      "n": 1204,
+      "mediana_ms": 0.07,
+      "max_ms": 7.72
+     },
+     "errores_juez": []
+    }
+   },
+   {
+    "semilla": 21308206,
+    "slot": 10,
+    "tics": 10939,
+    "superviviente": false,
+    "causa": "rival",
+    "viva_en_warn5": false,
+    "pasos_libres": 948,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 0,
+    "pasos_perdidos_5_7": 0
+   },
+   {
+    "semilla": 21308206,
+    "slot": 11,
+    "tics": 12936,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "pasos_libres": 278,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 83,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 1081,
+    "dentro_pct": 9.0,
+    "ardiendo": 355,
+    "golpes_anillo": 13,
+    "sobrevive_fase": false,
+    "entra": 12384,
+    "planes": {
+     "aceptados": 5,
+     "andados": 4,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "caida: en la reevaluacion deja de ganar (area)": 4,
+      "caida: en la reevaluacion deja de ganar (vida)": 1
+     },
+     "rupturas": {
+      "e) rival a 2 o menos": 6,
+      "d) vida bajo 15": 2
+     },
+     "estados": {
+      "enfriamiento": 285,
+      "obedece": 21,
+      "alerta": 7,
+      "rompe": 8
+     },
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 7,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": {
+     "sujeta": 0,
+     "alertas": 7,
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "tics_suspendida": 0,
+     "retenido": 0,
+     "sale": 0,
+     "instantaneas": {
+      "n": 22,
+      "mediana_ms": 4.55,
+      "max_ms": 5.94
+     },
+     "encargos_oraculo": {
+      "n": 1932,
+      "mediana_ms": 0.05,
+      "max_ms": 4.15
+     },
+     "errores_juez": []
+    }
+   },
+   {
+    "semilla": 21412935,
+    "slot": 10,
+    "tics": 12768,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "pasos_libres": 403,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 83,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 913,
+    "dentro_pct": 12.0,
+    "ardiendo": 193,
+    "golpes_anillo": 8,
+    "sobrevive_fase": false,
+    "entra": 12378,
+    "planes": {
+     "aceptados": 2,
+     "andados": 2,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "caida: en la reevaluacion deja de ganar (area)": 1,
+      "caida: en la reevaluacion deja de ganar (vida)": 1
+     },
+     "rupturas": {
+      "d) vida bajo 15": 10
+     },
+     "estados": {
+      "enfriamiento": 73,
+      "obedece": 8,
+      "rompe": 10
+     },
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 0,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": {
+     "sujeta": 0,
+     "alertas": 0,
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "tics_suspendida": 0,
+     "retenido": 0,
+     "sale": 0,
+     "instantaneas": {
+      "n": 13,
+      "mediana_ms": 19.9,
+      "max_ms": 26.82
+     },
+     "encargos_oraculo": {
+      "n": 1851,
+      "mediana_ms": 0.07,
+      "max_ms": 10.96
+     },
+     "errores_juez": []
+    }
+   },
+   {
+    "semilla": 21412935,
+    "slot": 11,
+    "tics": 12696,
+    "superviviente": false,
+    "causa": "no consta",
+    "viva_en_warn5": true,
+    "pasos_libres": 571,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 68,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 841,
+    "dentro_pct": 17.2,
+    "ardiendo": 15,
+    "golpes_anillo": 0,
+    "sobrevive_fase": false,
+    "entra": 12504,
+    "planes": {
+     "aceptados": 1,
+     "andados": 1,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "caida: la vida real 70 esta por debajo de la proyectada 100 menos 1": 1
+     },
+     "rupturas": {},
+     "estados": {
+      "alerta": 2,
+      "enfriamiento": 12,
+      "obedece": 2,
+      "suspende": 1,
+      "retenido": 2
+     },
+     "suspensiones": 1,
+     "reanudaciones": 0,
+     "alertas": 2,
+     "retenido": 2,
+     "sale": 0,
+     "caidas_vida_real": 1,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": {
+     "sujeta": 0,
+     "alertas": 2,
+     "suspensiones": 1,
+     "reanudaciones": 0,
+     "tics_suspendida": 6,
+     "retenido": 2,
+     "sale": 0,
+     "instantaneas": {
+      "n": 5,
+      "mediana_ms": 26.25,
+      "max_ms": 27.45
+     },
+     "encargos_oraculo": {
+      "n": 1877,
+      "mediana_ms": 0.06,
+      "max_ms": 12.96
+     },
+     "errores_juez": []
+    }
+   },
+   {
+    "semilla": 21517664,
+    "slot": 10,
+    "tics": 11424,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": false,
+    "pasos_libres": 895,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 0,
+    "pasos_perdidos_5_7": 0
+   },
+   {
+    "semilla": 21517664,
+    "slot": 11,
+    "tics": 12000,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "pasos_libres": 1044,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 13,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 145,
+    "dentro_pct": 7.6,
+    "ardiendo": 98,
+    "golpes_anillo": 4,
+    "sobrevive_fase": false,
+    "entra": 11870,
+    "planes": {
+     "aceptados": 0,
+     "andados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {},
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 0,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": {
+     "sujeta": 21,
+     "alertas": 3,
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "tics_suspendida": 0,
+     "retenido": 0,
+     "sale": 0,
+     "instantaneas": {
+      "n": 58,
+      "mediana_ms": 14.36,
+      "max_ms": 21.95
+     },
+     "encargos_oraculo": {
+      "n": 350,
+      "mediana_ms": 0.07,
+      "max_ms": 26.08
+     },
+     "errores_juez": []
+    }
+   },
+   {
+    "semilla": 21622393,
+    "slot": 10,
+    "tics": 15048,
+    "superviviente": true,
+    "causa": null,
+    "viva_en_warn5": true,
+    "pasos_libres": 314,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 218,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 1140,
+    "dentro_pct": 28.5,
+    "ardiendo": 133,
+    "golpes_anillo": 4,
+    "sobrevive_fase": true,
+    "entra": 12417,
+    "planes": {
+     "aceptados": 5,
+     "andados": 5,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "caida: en la reevaluacion deja de ganar (area)": 5
+     },
+     "rupturas": {},
+     "estados": {
+      "enfriamiento": 53,
+      "obedece": 10,
+      "alerta": 1
+     },
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 1,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": {
+     "sujeta": 0,
+     "alertas": 1,
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "tics_suspendida": 0,
+     "retenido": 0,
+     "sale": 0,
+     "instantaneas": {
+      "n": 24,
+      "mediana_ms": 25.9,
+      "max_ms": 40.88
+     },
+     "encargos_oraculo": {
+      "n": 2678,
+      "mediana_ms": 0.06,
+      "max_ms": 15.91
+     },
+     "errores_juez": []
+    }
+   },
+   {
+    "semilla": 21622393,
+    "slot": 11,
+    "tics": 15048,
+    "superviviente": true,
+    "causa": null,
+    "viva_en_warn5": true,
+    "pasos_libres": 783,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 202,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 1140,
+    "dentro_pct": 56.1,
+    "ardiendo": 0,
+    "golpes_anillo": 0,
+    "sobrevive_fase": true,
+    "entra": 11856,
+    "planes": {
+     "aceptados": 0,
+     "andados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {},
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 0,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": {
+     "sujeta": 0,
+     "alertas": 1,
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "tics_suspendida": 0,
+     "retenido": 0,
+     "sale": 0,
+     "instantaneas": {
+      "n": 8,
+      "mediana_ms": 14.02,
+      "max_ms": 24.53
+     },
+     "encargos_oraculo": {
+      "n": 2260,
+      "mediana_ms": 0.05,
+      "max_ms": 8.16
+     },
+     "errores_juez": []
+    }
+   },
+   {
+    "semilla": 21727122,
+    "slot": 10,
+    "tics": 12934,
+    "superviviente": true,
+    "causa": null,
+    "viva_en_warn5": true,
+    "pasos_libres": 1108,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 83,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 1079,
+    "dentro_pct": 35.9,
+    "ardiendo": 121,
+    "golpes_anillo": 4,
+    "sobrevive_fase": true,
+    "entra": 12361,
+    "planes": {
+     "aceptados": 6,
+     "andados": 6,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "caida: en la reevaluacion deja de ganar (area)": 6
+     },
+     "rupturas": {},
+     "estados": {
+      "enfriamiento": 80,
+      "obedece": 13,
+      "alerta": 5,
+      "sujeta": 38
+     },
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 5,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": {
+     "sujeta": 38,
+     "alertas": 5,
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "tics_suspendida": 0,
+     "retenido": 0,
+     "sale": 0,
+     "instantaneas": {
+      "n": 16,
+      "mediana_ms": 19.85,
+      "max_ms": 26.92
+     },
+     "encargos_oraculo": {
+      "n": 567,
+      "mediana_ms": 0.08,
+      "max_ms": 25.57
+     },
+     "errores_juez": []
+    }
+   },
+   {
+    "semilla": 21727122,
+    "slot": 11,
+    "tics": 12652,
+    "superviviente": false,
+    "causa": "rival",
+    "viva_en_warn5": true,
+    "pasos_libres": 1742,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 67,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 797,
+    "dentro_pct": 24.7,
+    "ardiendo": 81,
+    "golpes_anillo": 4,
+    "sobrevive_fase": false,
+    "entra": 12302,
+    "planes": {
+     "aceptados": 4,
+     "andados": 4,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "caida: en la reevaluacion deja de ganar (area)": 3,
+      "caida: la vida real 59 esta por debajo de la proyectada 74 menos 10": 1
+     },
+     "rupturas": {},
+     "estados": {
+      "obedece": 11,
+      "alerta": 6,
+      "enfriamiento": 75,
+      "suspende": 1,
+      "sujeta": 24
+     },
+     "suspensiones": 1,
+     "reanudaciones": 0,
+     "alertas": 6,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 1,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": {
+     "sujeta": 24,
+     "alertas": 6,
+     "suspensiones": 1,
+     "reanudaciones": 0,
+     "tics_suspendida": 14,
+     "retenido": 0,
+     "sale": 0,
+     "instantaneas": {
+      "n": 19,
+      "mediana_ms": 18.69,
+      "max_ms": 26.82
+     },
+     "encargos_oraculo": {
+      "n": 488,
+      "mediana_ms": 0.08,
+      "max_ms": 12.34
+     },
+     "errores_juez": []
+    }
+   },
+   {
+    "semilla": 21831851,
+    "slot": 10,
+    "tics": 14928,
+    "superviviente": false,
+    "causa": "no consta",
+    "viva_en_warn5": true,
+    "pasos_libres": 594,
+    "pasos_perdidos": 15,
+    "pasos_libres_5_7": 206,
+    "pasos_perdidos_5_7": 9,
+    "tics_fase": 1140,
+    "dentro_pct": 22.1,
+    "ardiendo": 248,
+    "golpes_anillo": 12,
+    "sobrevive_fase": true,
+    "entra": 12463,
+    "planes": {
+     "aceptados": 2,
+     "andados": 1,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "caida: en la reevaluacion deja de ganar (area)": 2
+     },
+     "rupturas": {},
+     "estados": {
+      "alerta": 2,
+      "sujeta": 6,
+      "enfriamiento": 5,
+      "obedece": 1
+     },
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 2,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": {
+     "sujeta": 6,
+     "alertas": 3,
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "tics_suspendida": 0,
+     "retenido": 0,
+     "sale": 0,
+     "instantaneas": {
+      "n": 21,
+      "mediana_ms": 45.17,
+      "max_ms": 56.24
+     },
+     "encargos_oraculo": {
+      "n": 1814,
+      "mediana_ms": 0.12,
+      "max_ms": 26.53
+     },
+     "errores_juez": []
+    }
+   },
+   {
+    "semilla": 21831851,
+    "slot": 11,
+    "tics": 14952,
+    "superviviente": true,
+    "causa": null,
+    "viva_en_warn5": true,
+    "pasos_libres": 382,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 250,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 1140,
+    "dentro_pct": 30.6,
+    "ardiendo": 78,
+    "golpes_anillo": 5,
+    "sobrevive_fase": true,
+    "entra": 12449,
+    "planes": {
+     "aceptados": 2,
+     "andados": 2,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "caida: en la reevaluacion deja de ganar (area)": 2
+     },
+     "rupturas": {},
+     "estados": {
+      "obedece": 6,
+      "enfriamiento": 40,
+      "alerta": 2
+     },
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 2,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": {
+     "sujeta": 0,
+     "alertas": 4,
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "tics_suspendida": 0,
+     "retenido": 0,
+     "sale": 0,
+     "instantaneas": {
+      "n": 25,
+      "mediana_ms": 19.84,
+      "max_ms": 29.88
+     },
+     "encargos_oraculo": {
+      "n": 2208,
+      "mediana_ms": 0.07,
+      "max_ms": 10.54
+     },
+     "errores_juez": []
+    }
+   },
+   {
+    "semilla": 21936580,
+    "slot": 10,
+    "tics": 14664,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "pasos_libres": 501,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 221,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 1140,
+    "dentro_pct": 32.5,
+    "ardiendo": 227,
+    "golpes_anillo": 10,
+    "sobrevive_fase": true,
+    "entra": 12625,
+    "planes": {
+     "aceptados": 2,
+     "andados": 2,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "caida: en la reevaluacion deja de ganar (area)": 2
+     },
+     "rupturas": {},
+     "estados": {
+      "enfriamiento": 69,
+      "obedece": 7
+     },
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 0,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": {
+     "sujeta": 0,
+     "alertas": 0,
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "tics_suspendida": 0,
+     "retenido": 0,
+     "sale": 0,
+     "instantaneas": {
+      "n": 18,
+      "mediana_ms": 10.23,
+      "max_ms": 13.06
+     },
+     "encargos_oraculo": {
+      "n": 2100,
+      "mediana_ms": 0.05,
+      "max_ms": 8.74
+     },
+     "errores_juez": []
+    }
+   },
+   {
+    "semilla": 21936580,
+    "slot": 11,
+    "tics": 14688,
+    "superviviente": false,
+    "causa": "rival",
+    "viva_en_warn5": true,
+    "pasos_libres": 1239,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 217,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 1140,
+    "dentro_pct": 41.0,
+    "ardiendo": 66,
+    "golpes_anillo": 2,
+    "sobrevive_fase": true,
+    "entra": 12320,
+    "planes": {
+     "aceptados": 6,
+     "andados": 6,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "caida: en la reevaluacion deja de ganar (area)": 6
+     },
+     "rupturas": {
+      "e) rival a 2 o menos": 14
+     },
+     "estados": {
+      "enfriamiento": 106,
+      "obedece": 15,
+      "rompe": 14,
+      "suspende": 1
+     },
+     "suspensiones": 1,
+     "reanudaciones": 0,
+     "alertas": 0,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": {
+     "sujeta": 0,
+     "alertas": 8,
+     "suspensiones": 1,
+     "reanudaciones": 0,
+     "tics_suspendida": 12,
+     "retenido": 0,
+     "sale": 0,
+     "instantaneas": {
+      "n": 28,
+      "mediana_ms": 17.78,
+      "max_ms": 26.62
+     },
+     "encargos_oraculo": {
+      "n": 853,
+      "mediana_ms": 0.07,
+      "max_ms": 11.19
+     },
+     "errores_juez": []
+    }
+   },
+   {
+    "semilla": 22041309,
+    "slot": 10,
+    "tics": 13451,
+    "superviviente": false,
+    "causa": "rival",
+    "viva_en_warn5": true,
+    "pasos_libres": 1168,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 144,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 1140,
+    "dentro_pct": 97.1,
+    "ardiendo": 33,
+    "golpes_anillo": 1,
+    "sobrevive_fase": true,
+    "entra": 11856,
+    "planes": {
+     "aceptados": 1,
+     "andados": 1,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "caida: en la reevaluacion deja de ganar (area)": 1
+     },
+     "rupturas": {
+      "e) rival a 2 o menos": 1
+     },
+     "estados": {
+      "enfriamiento": 21,
+      "obedece": 4,
+      "sujeta": 8,
+      "rompe": 1
+     },
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 0,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": {
+     "sujeta": 8,
+     "alertas": 0,
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "tics_suspendida": 0,
+     "retenido": 0,
+     "sale": 0,
+     "instantaneas": {
+      "n": 3,
+      "mediana_ms": 26.66,
+      "max_ms": 41.03
+     },
+     "encargos_oraculo": {
+      "n": 556,
+      "mediana_ms": 0.07,
+      "max_ms": 14.23
+     },
+     "errores_juez": []
+    }
+   },
+   {
+    "semilla": 22041309,
+    "slot": 11,
+    "tics": 13008,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "pasos_libres": 1100,
+    "pasos_perdidos": 1,
+    "pasos_libres_5_7": 82,
+    "pasos_perdidos_5_7": 1,
+    "tics_fase": 1140,
+    "dentro_pct": 39.6,
+    "ardiendo": 353,
+    "golpes_anillo": 15,
+    "sobrevive_fase": true,
+    "entra": 12214,
+    "planes": {
+     "aceptados": 4,
+     "andados": 4,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "caida: en la reevaluacion deja de ganar (area)": 4
+     },
+     "rupturas": {},
+     "estados": {
+      "enfriamiento": 115,
+      "obedece": 15
+     },
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 0,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": {
+     "sujeta": 10,
+     "alertas": 0,
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "tics_suspendida": 0,
+     "retenido": 0,
+     "sale": 0,
+     "instantaneas": {
+      "n": 24,
+      "mediana_ms": 26.64,
+      "max_ms": 39.09
+     },
+     "encargos_oraculo": {
+      "n": 637,
+      "mediana_ms": 0.07,
+      "max_ms": 24.06
+     },
+     "errores_juez": []
+    }
+   },
+   {
+    "semilla": 22146038,
+    "slot": 10,
+    "tics": 13080,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "pasos_libres": 1134,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 102,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 1140,
+    "dentro_pct": 14.5,
+    "ardiendo": 338,
+    "golpes_anillo": 14,
+    "sobrevive_fase": true,
+    "entra": 12331,
+    "planes": {
+     "aceptados": 7,
+     "andados": 6,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "caida: en la reevaluacion deja de ganar (area)": 7
+     },
+     "rupturas": {
+      "e) rival a 2 o menos": 31
+     },
+     "estados": {
+      "enfriamiento": 147,
+      "obedece": 15,
+      "rompe": 31,
+      "alerta": 6,
+      "suspende": 1
+     },
+     "suspensiones": 1,
+     "reanudaciones": 0,
+     "alertas": 6,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": {
+     "sujeta": 0,
+     "alertas": 6,
+     "suspensiones": 1,
+     "reanudaciones": 0,
+     "tics_suspendida": 4,
+     "retenido": 0,
+     "sale": 0,
+     "instantaneas": {
+      "n": 24,
+      "mediana_ms": 13.51,
+      "max_ms": 21.75
+     },
+     "encargos_oraculo": {
+      "n": 511,
+      "mediana_ms": 0.07,
+      "max_ms": 7.64
+     },
+     "errores_juez": []
+    }
+   },
+   {
+    "semilla": 22146038,
+    "slot": 11,
+    "tics": 12744,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "pasos_libres": 1093,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 69,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 889,
+    "dentro_pct": 3.8,
+    "ardiendo": 320,
+    "golpes_anillo": 14,
+    "sobrevive_fase": false,
+    "entra": 12293,
+    "planes": {
+     "aceptados": 4,
+     "andados": 4,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "caida: en la reevaluacion deja de ganar (area)": 4
+     },
+     "rupturas": {
+      "e) rival a 2 o menos": 7
+     },
+     "estados": {
+      "enfriamiento": 131,
+      "obedece": 14,
+      "alerta": 9,
+      "rompe": 7,
+      "sujeta": 12
+     },
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 9,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": {
+     "sujeta": 12,
+     "alertas": 11,
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "tics_suspendida": 0,
+     "retenido": 0,
+     "sale": 0,
+     "instantaneas": {
+      "n": 25,
+      "mediana_ms": 13.53,
+      "max_ms": 22.93
+     },
+     "encargos_oraculo": {
+      "n": 521,
+      "mediana_ms": 0.08,
+      "max_ms": 10.92
+     },
+     "errores_juez": []
+    }
+   },
+   {
+    "semilla": 22250767,
+    "slot": 10,
+    "tics": 14688,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "pasos_libres": 504,
+    "pasos_perdidos": 12,
+    "pasos_libres_5_7": 171,
+    "pasos_perdidos_5_7": 3,
+    "tics_fase": 1140,
+    "dentro_pct": 35.5,
+    "ardiendo": 0,
+    "golpes_anillo": 0,
+    "sobrevive_fase": true,
+    "entra": 12591,
+    "planes": {
+     "aceptados": 1,
+     "andados": 1,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "caida: en la reevaluacion deja de ganar (area)": 1
+     },
+     "rupturas": {
+      "e) rival a 2 o menos": 24
+     },
+     "estados": {
+      "obedece": 2,
+      "enfriamiento": 10,
+      "alerta": 3,
+      "rompe": 24
+     },
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 3,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": {
+     "sujeta": 0,
+     "alertas": 4,
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "tics_suspendida": 0,
+     "retenido": 0,
+     "sale": 0,
+     "instantaneas": {
+      "n": 9,
+      "mediana_ms": 41.56,
+      "max_ms": 46.57
+     },
+     "encargos_oraculo": {
+      "n": 1933,
+      "mediana_ms": 0.12,
+      "max_ms": 15.17
+     },
+     "errores_juez": []
+    }
+   },
+   {
+    "semilla": 22250767,
+    "slot": 11,
+    "tics": 14665,
+    "superviviente": false,
+    "causa": "rival",
+    "viva_en_warn5": true,
+    "pasos_libres": 1165,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 146,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 1140,
+    "dentro_pct": 46.4,
+    "ardiendo": 0,
+    "golpes_anillo": 0,
+    "sobrevive_fase": true,
+    "entra": 12456,
+    "planes": {
+     "aceptados": 1,
+     "andados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "caida: en la reevaluacion deja de ganar (area)": 1
+     },
+     "rupturas": {
+      "e) rival a 2 o menos": 16
+     },
+     "estados": {
+      "enfriamiento": 3,
+      "rompe": 16,
+      "alerta": 1
+     },
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 1,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": {
+     "sujeta": 0,
+     "alertas": 1,
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "tics_suspendida": 0,
+     "retenido": 0,
+     "sale": 0,
+     "instantaneas": {
+      "n": 2,
+      "mediana_ms": 25.97,
+      "max_ms": 25.97
+     },
+     "encargos_oraculo": {
+      "n": 1191,
+      "mediana_ms": 0.06,
+      "max_ms": 9.55
+     },
+     "errores_juez": []
+    }
+   }
+  ],
+  "por_semilla": {
+   "20260916": {
+    "semilla": 20260916,
+    "supervivientes": 2,
+    "anillo": 0,
+    "rival": 0,
+    "dentro_pct": [
+     100.0,
+     100.0
+    ],
+    "ardiendo": [
+     0,
+     0
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 0,
+    "aceptan_los_dos": 0,
+    "perdidos": 1,
+    "libres": 2266,
+    "dentro_pct_media": 100.0,
+    "ardiendo_media": 0
+   },
+   "20365645": {
+    "semilla": 20365645,
+    "supervivientes": 0,
+    "anillo": 1,
+    "rival": 1,
+    "dentro_pct": [
+     41.6,
+     9.1
+    ],
+    "ardiendo": [
+     11,
+     351
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 8,
+    "aceptan_los_dos": 1,
+    "perdidos": 0,
+    "libres": 1730,
+    "dentro_pct_media": 25.4,
+    "ardiendo_media": 181
+   },
+   "20470374": {
+    "semilla": 20470374,
+    "supervivientes": 0,
+    "anillo": 0,
+    "rival": 2,
+    "dentro_pct": [
+     25.3,
+     35.7
+    ],
+    "ardiendo": [
+     118,
+     55
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 6,
+    "aceptan_los_dos": 1,
+    "perdidos": 2,
+    "libres": 2142,
+    "dentro_pct_media": 30.5,
+    "ardiendo_media": 86.5
+   },
+   "20575103": {
+    "semilla": 20575103,
+    "supervivientes": 1,
+    "anillo": 1,
+    "rival": 0,
+    "dentro_pct": [
+     5.9,
+     91.3
+    ],
+    "ardiendo": [
+     168,
+     99
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 5,
+    "aceptan_los_dos": 1,
+    "perdidos": 0,
+    "libres": 2045,
+    "dentro_pct_media": 48.6,
+    "ardiendo_media": 133.5
+   },
+   "20679832": {
+    "semilla": 20679832,
+    "supervivientes": 1,
+    "anillo": 0,
+    "rival": 1,
+    "dentro_pct": [
+     100.0,
+     18.7
+    ],
+    "ardiendo": [
+     0,
+     311
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 7,
+    "aceptan_los_dos": 0,
+    "perdidos": 0,
+    "libres": 2336,
+    "dentro_pct_media": 59.4,
+    "ardiendo_media": 155.5
+   },
+   "20784561": {
+    "semilla": 20784561,
+    "supervivientes": 0,
+    "anillo": 0,
+    "rival": 1,
+    "dentro_pct": [
+     11.7
+    ],
+    "ardiendo": [
+     326
+    ],
+    "vivas_en_warn": 1,
+    "sostenidos": 0,
+    "aceptados_fase": 4,
+    "aceptan_los_dos": 0,
+    "perdidos": 0,
+    "libres": 692,
+    "dentro_pct_media": 11.7,
+    "ardiendo_media": 326
+   },
+   "20889290": {
+    "semilla": 20889290,
+    "supervivientes": 1,
+    "anillo": 0,
+    "rival": 1,
+    "dentro_pct": [
+     35.1,
+     23.8
+    ],
+    "ardiendo": [
+     78,
+     158
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 7,
+    "aceptan_los_dos": 1,
+    "perdidos": 0,
+    "libres": 1536,
+    "dentro_pct_media": 29.5,
+    "ardiendo_media": 118
+   },
+   "20994019": {
+    "semilla": 20994019,
+    "supervivientes": 0,
+    "anillo": 1,
+    "rival": 0,
+    "dentro_pct": [
+     20.5
+    ],
+    "ardiendo": [
+     264
+    ],
+    "vivas_en_warn": 1,
+    "sostenidos": 0,
+    "aceptados_fase": 5,
+    "aceptan_los_dos": 0,
+    "perdidos": 0,
+    "libres": 491,
+    "dentro_pct_media": 20.5,
+    "ardiendo_media": 264
+   },
+   "21098748": {
+    "semilla": 21098748,
+    "supervivientes": 0,
+    "anillo": 1,
+    "rival": 1,
+    "dentro_pct": [
+     5.7,
+     19.0
+    ],
+    "ardiendo": [
+     372,
+     220
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 12,
+    "aceptan_los_dos": 1,
+    "perdidos": 1,
+    "libres": 1767,
+    "dentro_pct_media": 12.3,
+    "ardiendo_media": 296
+   },
+   "21203477": {
+    "semilla": 21203477,
+    "supervivientes": 1,
+    "anillo": 0,
+    "rival": 1,
+    "dentro_pct": [
+     41.1,
+     43.7
+    ],
+    "ardiendo": [
+     176,
+     0
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 2,
+    "aceptan_los_dos": 1,
+    "perdidos": 0,
+    "libres": 1376,
+    "dentro_pct_media": 42.4,
+    "ardiendo_media": 88
+   },
+   "21308206": {
+    "semilla": 21308206,
+    "supervivientes": 0,
+    "anillo": 1,
+    "rival": 1,
+    "dentro_pct": [
+     9.0
+    ],
+    "ardiendo": [
+     355
+    ],
+    "vivas_en_warn": 1,
+    "sostenidos": 0,
+    "aceptados_fase": 5,
+    "aceptan_los_dos": 0,
+    "perdidos": 0,
+    "libres": 1226,
+    "dentro_pct_media": 9.0,
+    "ardiendo_media": 355
+   },
+   "21412935": {
+    "semilla": 21412935,
+    "supervivientes": 0,
+    "anillo": 1,
+    "rival": 0,
+    "dentro_pct": [
+     12.0,
+     17.2
+    ],
+    "ardiendo": [
+     193,
+     15
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 3,
+    "aceptan_los_dos": 1,
+    "perdidos": 0,
+    "libres": 974,
+    "dentro_pct_media": 14.6,
+    "ardiendo_media": 104
+   },
+   "21517664": {
+    "semilla": 21517664,
+    "supervivientes": 0,
+    "anillo": 2,
+    "rival": 0,
+    "dentro_pct": [
+     7.6
+    ],
+    "ardiendo": [
+     98
+    ],
+    "vivas_en_warn": 1,
+    "sostenidos": 0,
+    "aceptados_fase": 0,
+    "aceptan_los_dos": 0,
+    "perdidos": 0,
+    "libres": 1939,
+    "dentro_pct_media": 7.6,
+    "ardiendo_media": 98
+   },
+   "21622393": {
+    "semilla": 21622393,
+    "supervivientes": 2,
+    "anillo": 0,
+    "rival": 0,
+    "dentro_pct": [
+     28.5,
+     56.1
+    ],
+    "ardiendo": [
+     133,
+     0
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 5,
+    "aceptan_los_dos": 0,
+    "perdidos": 0,
+    "libres": 1097,
+    "dentro_pct_media": 42.3,
+    "ardiendo_media": 66.5
+   },
+   "21727122": {
+    "semilla": 21727122,
+    "supervivientes": 1,
+    "anillo": 0,
+    "rival": 1,
+    "dentro_pct": [
+     35.9,
+     24.7
+    ],
+    "ardiendo": [
+     121,
+     81
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 10,
+    "aceptan_los_dos": 1,
+    "perdidos": 0,
+    "libres": 2850,
+    "dentro_pct_media": 30.3,
+    "ardiendo_media": 101
+   },
+   "21831851": {
+    "semilla": 21831851,
+    "supervivientes": 1,
+    "anillo": 0,
+    "rival": 0,
+    "dentro_pct": [
+     22.1,
+     30.6
+    ],
+    "ardiendo": [
+     248,
+     78
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 4,
+    "aceptan_los_dos": 1,
+    "perdidos": 15,
+    "libres": 976,
+    "dentro_pct_media": 26.4,
+    "ardiendo_media": 163
+   },
+   "21936580": {
+    "semilla": 21936580,
+    "supervivientes": 0,
+    "anillo": 1,
+    "rival": 1,
+    "dentro_pct": [
+     32.5,
+     41.0
+    ],
+    "ardiendo": [
+     227,
+     66
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 8,
+    "aceptan_los_dos": 1,
+    "perdidos": 0,
+    "libres": 1740,
+    "dentro_pct_media": 36.8,
+    "ardiendo_media": 146.5
+   },
+   "22041309": {
+    "semilla": 22041309,
+    "supervivientes": 0,
+    "anillo": 1,
+    "rival": 1,
+    "dentro_pct": [
+     97.1,
+     39.6
+    ],
+    "ardiendo": [
+     33,
+     353
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 5,
+    "aceptan_los_dos": 1,
+    "perdidos": 1,
+    "libres": 2268,
+    "dentro_pct_media": 68.3,
+    "ardiendo_media": 193
+   },
+   "22146038": {
+    "semilla": 22146038,
+    "supervivientes": 0,
+    "anillo": 2,
+    "rival": 0,
+    "dentro_pct": [
+     14.5,
+     3.8
+    ],
+    "ardiendo": [
+     338,
+     320
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 11,
+    "aceptan_los_dos": 1,
+    "perdidos": 0,
+    "libres": 2227,
+    "dentro_pct_media": 9.2,
+    "ardiendo_media": 329
+   },
+   "22250767": {
+    "semilla": 22250767,
+    "supervivientes": 0,
+    "anillo": 1,
+    "rival": 1,
+    "dentro_pct": [
+     35.5,
+     46.4
+    ],
+    "ardiendo": [
+     0,
+     0
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 2,
+    "aceptan_los_dos": 1,
+    "perdidos": 12,
+    "libres": 1669,
+    "dentro_pct_media": 41.0,
+    "ardiendo_media": 0
+   }
+  }
+ },
+ "A7h": {
+  "resumen": {
+   "vidas": 40,
+   "vivas_en_warn5": 39,
+   "pasos_libres": 29518,
+   "pasos_perdidos": 28,
+   "pasos_libres_5_7": 5530,
+   "pasos_perdidos_5_7": 20,
+   "dentro_pct_media": 42.4,
+   "dentro_pct_mediana": 37.4,
+   "ardiendo_media": 115.5,
+   "ardiendo_mediana": 66,
+   "vidas_0_ardiendo": 7,
+   "nunca_entra": 2,
+   "sobreviven_fase5": 29,
+   "planes_aceptados_fase5": 58,
+   "planes_andados": 54,
+   "planes_sostenidos": 6,
+   "fines": {
+    "caida: en la reevaluacion deja de ganar (area)": 30,
+    "caida: la vida real 68 esta por debajo de la proyectada 78 menos 10": 1,
+    "caida: en la reevaluacion deja de ganar (vida)": 2,
+    "caida: la vida real 80 esta por debajo de la proyectada 90 menos 10": 1,
+    "caida: la vida real 60 esta por debajo de la proyectada 71 menos 10": 1,
+    "caida: la vida real 73 esta por debajo de la proyectada 90 menos 10": 1,
+    "caida: la vida real 56 esta por debajo de la proyectada 66 menos 10": 1,
+    "caida: la vida real 34 esta por debajo de la proyectada 51 menos 10": 1,
+    "caida: la vida real 86 esta por debajo de la proyectada 97 menos 10": 2,
+    "caida: la vida real 47 esta por debajo de la proyectada 64 menos 10": 1,
+    "caida: la vida real 77 esta por debajo de la proyectada 94 menos 10": 1,
+    "caida: la vida real 57 esta por debajo de la proyectada 71 menos 10": 1,
+    "caida: la vida real 37 esta por debajo de la proyectada 100 menos 1": 1,
+    "caida: la vida real 8 esta por debajo de la proyectada 33 menos 10": 1,
+    "caida: la vida real 80 esta por debajo de la proyectada 97 menos 10": 1,
+    "caida: la vida real 40 esta por debajo de la proyectada 98 menos 10": 1,
+    "caida: la vida real 14 esta por debajo de la proyectada 30 menos 10": 1,
+    "caida: la vida real 22 esta por debajo de la proyectada 35 menos 10": 1,
+    "caida: la vida real 54 esta por debajo de la proyectada 71 menos 10": 1,
+    "caida: la vida real 10 esta por debajo de la proyectada 26 menos 10": 1
+   },
+   "rupturas": {
+    "e) rival a 2 o menos": 397
+   },
+   "estados_compromiso": {
+    "obedece": 192,
+    "sujeta": 2021,
+    "enfriamiento": 1656,
+    "rompe": 397,
+    "alerta": 81,
+    "suspende": 2,
+    "retenido": 13
+   },
+   "suspensiones": 2,
+   "reanudaciones": 0,
+   "alertas": 81,
+   "retenido": 13,
+   "sale": 0,
+   "caidas_vida_real": 19,
+   "caidas_cuenta_justa": 0,
+   "semillas_aceptan_los_dos": 11,
+   "muertes_anillo": 14,
+   "muertes_rival": 12,
+   "supervivientes": 13
+  },
+  "vidas": [
+   {
+    "semilla": 20260916,
+    "slot": 10,
+    "tics": 15000,
+    "superviviente": true,
+    "causa": null,
+    "viva_en_warn5": true,
+    "pasos_libres": 1205,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 253,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 1140,
+    "dentro_pct": 42.9,
+    "ardiendo": 28,
+    "golpes_anillo": 1,
+    "sobrevive_fase": true,
+    "entra": 12245,
+    "planes": {
+     "aceptados": 1,
+     "andados": 1,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "caida: en la reevaluacion deja de ganar (area)": 1
+     },
+     "rupturas": {},
+     "estados": {
+      "obedece": 1,
+      "sujeta": 24
+     },
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 0,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": {
+     "sujeta": 24,
+     "alertas": 0,
+     "suspensiones": 1,
+     "reanudaciones": 0,
+     "tics_suspendida": 70,
+     "retenido": 0,
+     "sale": 0,
+     "instantaneas": {
+      "n": 16,
+      "mediana_ms": 26.02,
+      "max_ms": 42.19
+     },
+     "encargos_oraculo": {
+      "n": 993,
+      "mediana_ms": 0.06,
+      "max_ms": 25.19
+     },
+     "errores_juez": []
+    }
+   },
+   {
+    "semilla": 20260916,
+    "slot": 11,
+    "tics": 15000,
+    "superviviente": true,
+    "causa": null,
+    "viva_en_warn5": true,
+    "pasos_libres": 1145,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 199,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 1140,
+    "dentro_pct": 41.1,
+    "ardiendo": 44,
+    "golpes_anillo": 3,
+    "sobrevive_fase": true,
+    "entra": 12418,
+    "planes": {
+     "aceptados": 2,
+     "andados": 2,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "caida: en la reevaluacion deja de ganar (area)": 2
+     },
+     "rupturas": {
+      "e) rival a 2 o menos": 28
+     },
+     "estados": {
+      "obedece": 3,
+      "enfriamiento": 16,
+      "rompe": 28
+     },
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 0,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": {
+     "sujeta": 0,
+     "alertas": 0,
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "tics_suspendida": 0,
+     "retenido": 0,
+     "sale": 0,
+     "instantaneas": {
+      "n": 6,
+      "mediana_ms": 20.69,
+      "max_ms": 26.27
+     },
+     "encargos_oraculo": {
+      "n": 1324,
+      "mediana_ms": 0.07,
+      "max_ms": 17.28
+     },
+     "errores_juez": []
+    }
+   },
+   {
+    "semilla": 20365645,
+    "slot": 10,
+    "tics": 14112,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "pasos_libres": 420,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 181,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 1140,
+    "dentro_pct": 94.7,
+    "ardiendo": 27,
+    "golpes_anillo": 1,
+    "sobrevive_fase": true,
+    "entra": 11856,
+    "planes": {
+     "aceptados": 1,
+     "andados": 1,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "caida: en la reevaluacion deja de ganar (area)": 1
+     },
+     "rupturas": {},
+     "estados": {
+      "enfriamiento": 46,
+      "obedece": 4
+     },
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 0,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": {
+     "sujeta": 37,
+     "alertas": 2,
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "tics_suspendida": 0,
+     "retenido": 0,
+     "sale": 0,
+     "instantaneas": {
+      "n": 19,
+      "mediana_ms": 13.7,
+      "max_ms": 21.0
+     },
+     "encargos_oraculo": {
+      "n": 1752,
+      "mediana_ms": 0.07,
+      "max_ms": 7.84
+     },
+     "errores_juez": []
+    }
+   },
+   {
+    "semilla": 20365645,
+    "slot": 11,
+    "tics": 12912,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "pasos_libres": 323,
+    "pasos_perdidos": 8,
+    "pasos_libres_5_7": 85,
+    "pasos_perdidos_5_7": 7,
+    "tics_fase": 1057,
+    "dentro_pct": 67.2,
+    "ardiendo": 299,
+    "golpes_anillo": 12,
+    "sobrevive_fase": false,
+    "entra": 11856,
+    "planes": {
+     "aceptados": 2,
+     "andados": 1,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "caida: la vida real 68 esta por debajo de la proyectada 78 menos 10": 1,
+      "caida: en la reevaluacion deja de ganar (vida)": 1
+     },
+     "rupturas": {},
+     "estados": {
+      "enfriamiento": 36,
+      "obedece": 6
+     },
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 0,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 1,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": {
+     "sujeta": 0,
+     "alertas": 0,
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "tics_suspendida": 0,
+     "retenido": 0,
+     "sale": 0,
+     "instantaneas": {
+      "n": 6,
+      "mediana_ms": 28.49,
+      "max_ms": 58.55
+     },
+     "encargos_oraculo": {
+      "n": 1640,
+      "mediana_ms": 0.11,
+      "max_ms": 19.71
+     },
+     "errores_juez": []
+    }
+   },
+   {
+    "semilla": 20470374,
+    "slot": 10,
+    "tics": 14243,
+    "superviviente": false,
+    "causa": "rival",
+    "viva_en_warn5": true,
+    "pasos_libres": 452,
+    "pasos_perdidos": 5,
+    "pasos_libres_5_7": 201,
+    "pasos_perdidos_5_7": 5,
+    "tics_fase": 1140,
+    "dentro_pct": 16.5,
+    "ardiendo": 185,
+    "golpes_anillo": 8,
+    "sobrevive_fase": true,
+    "entra": 12807,
+    "planes": {
+     "aceptados": 1,
+     "andados": 1,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "caida: en la reevaluacion deja de ganar (area)": 1
+     },
+     "rupturas": {
+      "e) rival a 2 o menos": 54
+     },
+     "estados": {
+      "alerta": 1,
+      "obedece": 7,
+      "enfriamiento": 40,
+      "rompe": 54
+     },
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 1,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": {
+     "sujeta": 0,
+     "alertas": 3,
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "tics_suspendida": 0,
+     "retenido": 0,
+     "sale": 0,
+     "instantaneas": {
+      "n": 17,
+      "mediana_ms": 46.55,
+      "max_ms": 65.25
+     },
+     "encargos_oraculo": {
+      "n": 1535,
+      "mediana_ms": 0.09,
+      "max_ms": 37.86
+     },
+     "errores_juez": []
+    }
+   },
+   {
+    "semilla": 20470374,
+    "slot": 11,
+    "tics": 14400,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "pasos_libres": 653,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 149,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 1140,
+    "dentro_pct": 34.0,
+    "ardiendo": 88,
+    "golpes_anillo": 3,
+    "sobrevive_fase": true,
+    "entra": 12421,
+    "planes": {
+     "aceptados": 2,
+     "andados": 2,
+     "sostenidos_fin_fase": 1,
+     "fines": {
+      "caida: la vida real 80 esta por debajo de la proyectada 90 menos 10": 1
+     },
+     "rupturas": {
+      "e) rival a 2 o menos": 16
+     },
+     "estados": {
+      "enfriamiento": 86,
+      "rompe": 16,
+      "obedece": 8,
+      "sujeta": 269,
+      "alerta": 3
+     },
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 3,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 1,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": {
+     "sujeta": 269,
+     "alertas": 5,
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "tics_suspendida": 0,
+     "retenido": 0,
+     "sale": 0,
+     "instantaneas": {
+      "n": 19,
+      "mediana_ms": 18.02,
+      "max_ms": 27.48
+     },
+     "encargos_oraculo": {
+      "n": 1795,
+      "mediana_ms": 0.07,
+      "max_ms": 22.53
+     },
+     "errores_juez": []
+    }
+   },
+   {
+    "semilla": 20575103,
+    "slot": 10,
+    "tics": 14976,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "pasos_libres": 1229,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 202,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 1140,
+    "dentro_pct": 100.0,
+    "ardiendo": 0,
+    "golpes_anillo": 0,
+    "sobrevive_fase": true,
+    "entra": 11856,
+    "planes": {
+     "aceptados": 0,
+     "andados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {},
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 0,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": {
+     "sujeta": 0,
+     "alertas": 1,
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "tics_suspendida": 0,
+     "retenido": 0,
+     "sale": 0,
+     "instantaneas": {
+      "n": 5,
+      "mediana_ms": 18.2,
+      "max_ms": 26.89
+     },
+     "encargos_oraculo": {
+      "n": 1052,
+      "mediana_ms": 0.06,
+      "max_ms": 9.79
+     },
+     "errores_juez": []
+    }
+   },
+   {
+    "semilla": 20575103,
+    "slot": 11,
+    "tics": 15024,
+    "superviviente": true,
+    "causa": null,
+    "viva_en_warn5": true,
+    "pasos_libres": 1310,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 280,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 1140,
+    "dentro_pct": 100.0,
+    "ardiendo": 0,
+    "golpes_anillo": 0,
+    "sobrevive_fase": true,
+    "entra": 11856,
+    "planes": {
+     "aceptados": 0,
+     "andados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {},
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 0,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": {
+     "sujeta": 1,
+     "alertas": 5,
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "tics_suspendida": 0,
+     "retenido": 0,
+     "sale": 0,
+     "instantaneas": {
+      "n": 24,
+      "mediana_ms": 10.58,
+      "max_ms": 11.64
+     },
+     "encargos_oraculo": {
+      "n": 701,
+      "mediana_ms": 0.05,
+      "max_ms": 8.85
+     },
+     "errores_juez": []
+    }
+   },
+   {
+    "semilla": 20679832,
+    "slot": 10,
+    "tics": 14091,
+    "superviviente": false,
+    "causa": "rival",
+    "viva_en_warn5": true,
+    "pasos_libres": 1126,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 151,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 1140,
+    "dentro_pct": 40.4,
+    "ardiendo": 21,
+    "golpes_anillo": 0,
+    "sobrevive_fase": true,
+    "entra": 12481,
+    "planes": {
+     "aceptados": 0,
+     "andados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {},
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 0,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": {
+     "sujeta": 0,
+     "alertas": 1,
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "tics_suspendida": 0,
+     "retenido": 0,
+     "sale": 0,
+     "instantaneas": {
+      "n": 9,
+      "mediana_ms": 34.51,
+      "max_ms": 51.99
+     },
+     "encargos_oraculo": {
+      "n": 896,
+      "mediana_ms": 0.07,
+      "max_ms": 24.12
+     },
+     "errores_juez": []
+    }
+   },
+   {
+    "semilla": 20679832,
+    "slot": 11,
+    "tics": 14611,
+    "superviviente": false,
+    "causa": "rival",
+    "viva_en_warn5": true,
+    "pasos_libres": 1246,
+    "pasos_perdidos": 2,
+    "pasos_libres_5_7": 186,
+    "pasos_perdidos_5_7": 2,
+    "tics_fase": 1140,
+    "dentro_pct": 51.8,
+    "ardiendo": 0,
+    "golpes_anillo": 0,
+    "sobrevive_fase": true,
+    "entra": 11856,
+    "planes": {
+     "aceptados": 0,
+     "andados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {},
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 0,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": {
+     "sujeta": 0,
+     "alertas": 0,
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "tics_suspendida": 0,
+     "retenido": 0,
+     "sale": 0,
+     "instantaneas": {
+      "n": 5,
+      "mediana_ms": 42.64,
+      "max_ms": 56.39
+     },
+     "encargos_oraculo": {
+      "n": 955,
+      "mediana_ms": 0.08,
+      "max_ms": 21.55
+     },
+     "errores_juez": []
+    }
+   },
+   {
+    "semilla": 20784561,
+    "slot": 10,
+    "tics": 14760,
+    "superviviente": false,
+    "causa": "rival",
+    "viva_en_warn5": true,
+    "pasos_libres": 666,
+    "pasos_perdidos": 1,
+    "pasos_libres_5_7": 185,
+    "pasos_perdidos_5_7": 1,
+    "tics_fase": 1140,
+    "dentro_pct": 30.7,
+    "ardiendo": 272,
+    "golpes_anillo": 12,
+    "sobrevive_fase": true,
+    "entra": 12352,
+    "planes": {
+     "aceptados": 3,
+     "andados": 3,
+     "sostenidos_fin_fase": 1,
+     "fines": {
+      "caida: en la reevaluacion deja de ganar (area)": 2
+     },
+     "rupturas": {
+      "e) rival a 2 o menos": 45
+     },
+     "estados": {
+      "enfriamiento": 85,
+      "obedece": 11,
+      "alerta": 42,
+      "rompe": 45,
+      "sujeta": 191
+     },
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 42,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": {
+     "sujeta": 191,
+     "alertas": 42,
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "tics_suspendida": 0,
+     "retenido": 0,
+     "sale": 0,
+     "instantaneas": {
+      "n": 12,
+      "mediana_ms": 47.2,
+      "max_ms": 58.5
+     },
+     "encargos_oraculo": {
+      "n": 1365,
+      "mediana_ms": 0.09,
+      "max_ms": 26.32
+     },
+     "errores_juez": []
+    }
+   },
+   {
+    "semilla": 20784561,
+    "slot": 11,
+    "tics": 14952,
+    "superviviente": true,
+    "causa": null,
+    "viva_en_warn5": true,
+    "pasos_libres": 715,
+    "pasos_perdidos": 1,
+    "pasos_libres_5_7": 217,
+    "pasos_perdidos_5_7": 1,
+    "tics_fase": 1140,
+    "dentro_pct": 36.7,
+    "ardiendo": 44,
+    "golpes_anillo": 1,
+    "sobrevive_fase": true,
+    "entra": 12107,
+    "planes": {
+     "aceptados": 2,
+     "andados": 1,
+     "sostenidos_fin_fase": 1,
+     "fines": {
+      "caida: en la reevaluacion deja de ganar (area)": 1
+     },
+     "rupturas": {},
+     "estados": {
+      "alerta": 9,
+      "obedece": 2,
+      "sujeta": 157
+     },
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 9,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": {
+     "sujeta": 163,
+     "alertas": 12,
+     "suspensiones": 1,
+     "reanudaciones": 0,
+     "tics_suspendida": 28,
+     "retenido": 8,
+     "sale": 0,
+     "instantaneas": {
+      "n": 14,
+      "mediana_ms": 49.43,
+      "max_ms": 69.78
+     },
+     "encargos_oraculo": {
+      "n": 1237,
+      "mediana_ms": 0.09,
+      "max_ms": 25.44
+     },
+     "errores_juez": []
+    }
+   },
+   {
+    "semilla": 20889290,
+    "slot": 10,
+    "tics": 14688,
+    "superviviente": true,
+    "causa": null,
+    "viva_en_warn5": true,
+    "pasos_libres": 367,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 90,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 1140,
+    "dentro_pct": 37.4,
+    "ardiendo": 121,
+    "golpes_anillo": 3,
+    "sobrevive_fase": true,
+    "entra": 11906,
+    "planes": {
+     "aceptados": 0,
+     "andados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {},
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 0,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": {
+     "sujeta": 0,
+     "alertas": 0,
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "tics_suspendida": 0,
+     "retenido": 0,
+     "sale": 0,
+     "instantaneas": {
+      "n": 10,
+      "mediana_ms": 40.55,
+      "max_ms": 54.5
+     },
+     "encargos_oraculo": {
+      "n": 2290,
+      "mediana_ms": 0.06,
+      "max_ms": 23.0
+     },
+     "errores_juez": []
+    }
+   },
+   {
+    "semilla": 20889290,
+    "slot": 11,
+    "tics": 12488,
+    "superviviente": false,
+    "causa": "rival",
+    "viva_en_warn5": true,
+    "pasos_libres": 966,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 55,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 633,
+    "dentro_pct": 35.2,
+    "ardiendo": 22,
+    "golpes_anillo": 1,
+    "sobrevive_fase": false,
+    "entra": 11894,
+    "planes": {
+     "aceptados": 1,
+     "andados": 1,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "caida: en la reevaluacion deja de ganar (area)": 1
+     },
+     "rupturas": {},
+     "estados": {
+      "enfriamiento": 27,
+      "obedece": 3,
+      "alerta": 1
+     },
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 1,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": {
+     "sujeta": 0,
+     "alertas": 1,
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "tics_suspendida": 0,
+     "retenido": 0,
+     "sale": 0,
+     "instantaneas": {
+      "n": 5,
+      "mediana_ms": 18.84,
+      "max_ms": 21.05
+     },
+     "encargos_oraculo": {
+      "n": 833,
+      "mediana_ms": 0.07,
+      "max_ms": 9.38
+     },
+     "errores_juez": []
+    }
+   },
+   {
+    "semilla": 20994019,
+    "slot": 10,
+    "tics": 13128,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "pasos_libres": 289,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 84,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 1140,
+    "dentro_pct": 21.0,
+    "ardiendo": 444,
+    "golpes_anillo": 18,
+    "sobrevive_fase": true,
+    "entra": 12253,
+    "planes": {
+     "aceptados": 3,
+     "andados": 3,
+     "sostenidos_fin_fase": 1,
+     "fines": {
+      "caida: la vida real 60 esta por debajo de la proyectada 71 menos 10": 1,
+      "caida: la vida real 73 esta por debajo de la proyectada 90 menos 10": 1
+     },
+     "rupturas": {
+      "e) rival a 2 o menos": 8
+     },
+     "estados": {
+      "alerta": 1,
+      "rompe": 8,
+      "enfriamiento": 33,
+      "obedece": 4,
+      "sujeta": 184
+     },
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 1,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 2,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": {
+     "sujeta": 184,
+     "alertas": 1,
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "tics_suspendida": 0,
+     "retenido": 0,
+     "sale": 0,
+     "instantaneas": {
+      "n": 23,
+      "mediana_ms": 46.91,
+      "max_ms": 69.59
+     },
+     "encargos_oraculo": {
+      "n": 1961,
+      "mediana_ms": 0.09,
+      "max_ms": 26.82
+     },
+     "errores_juez": []
+    }
+   },
+   {
+    "semilla": 20994019,
+    "slot": 11,
+    "tics": 12127,
+    "superviviente": false,
+    "causa": "rival",
+    "viva_en_warn5": true,
+    "pasos_libres": 945,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 22,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 272,
+    "dentro_pct": 79.8,
+    "ardiendo": 0,
+    "golpes_anillo": 0,
+    "sobrevive_fase": false,
+    "entra": 11856,
+    "planes": {
+     "aceptados": 0,
+     "andados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {},
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 0,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": {
+     "sujeta": 0,
+     "alertas": 0,
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "tics_suspendida": 0,
+     "retenido": 0,
+     "sale": 0,
+     "instantaneas": {
+      "n": 10,
+      "mediana_ms": 17.63,
+      "max_ms": 22.92
+     },
+     "encargos_oraculo": {
+      "n": 417,
+      "mediana_ms": 0.08,
+      "max_ms": 10.73
+     },
+     "errores_juez": []
+    }
+   },
+   {
+    "semilla": 21098748,
+    "slot": 10,
+    "tics": 15048,
+    "superviviente": true,
+    "causa": null,
+    "viva_en_warn5": true,
+    "pasos_libres": 684,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 143,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 1140,
+    "dentro_pct": 29.1,
+    "ardiendo": 62,
+    "golpes_anillo": 3,
+    "sobrevive_fase": true,
+    "entra": 12602,
+    "planes": {
+     "aceptados": 2,
+     "andados": 2,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "caida: en la reevaluacion deja de ganar (area)": 1,
+      "caida: la vida real 56 esta por debajo de la proyectada 66 menos 10": 1
+     },
+     "rupturas": {
+      "e) rival a 2 o menos": 6
+     },
+     "estados": {
+      "alerta": 2,
+      "enfriamiento": 55,
+      "obedece": 6,
+      "rompe": 6
+     },
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 2,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 1,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": {
+     "sujeta": 0,
+     "alertas": 2,
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "tics_suspendida": 0,
+     "retenido": 0,
+     "sale": 0,
+     "instantaneas": {
+      "n": 8,
+      "mediana_ms": 19.43,
+      "max_ms": 29.53
+     },
+     "encargos_oraculo": {
+      "n": 2508,
+      "mediana_ms": 0.07,
+      "max_ms": 8.1
+     },
+     "errores_juez": []
+    }
+   },
+   {
+    "semilla": 21098748,
+    "slot": 11,
+    "tics": 15048,
+    "superviviente": true,
+    "causa": null,
+    "viva_en_warn5": true,
+    "pasos_libres": 828,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 228,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 1140,
+    "dentro_pct": 27.7,
+    "ardiendo": 121,
+    "golpes_anillo": 5,
+    "sobrevive_fase": true,
+    "entra": 12559,
+    "planes": {
+     "aceptados": 3,
+     "andados": 3,
+     "sostenidos_fin_fase": 1,
+     "fines": {
+      "caida: en la reevaluacion deja de ganar (area)": 2
+     },
+     "rupturas": {
+      "e) rival a 2 o menos": 5
+     },
+     "estados": {
+      "alerta": 3,
+      "obedece": 9,
+      "rompe": 5,
+      "enfriamiento": 61,
+      "sujeta": 130
+     },
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 3,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": {
+     "sujeta": 396,
+     "alertas": 8,
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "tics_suspendida": 0,
+     "retenido": 0,
+     "sale": 0,
+     "instantaneas": {
+      "n": 47,
+      "mediana_ms": 15.53,
+      "max_ms": 60.16
+     },
+     "encargos_oraculo": {
+      "n": 1624,
+      "mediana_ms": 0.07,
+      "max_ms": 10.29
+     },
+     "errores_juez": []
+    }
+   },
+   {
+    "semilla": 21203477,
+    "slot": 10,
+    "tics": 13087,
+    "superviviente": false,
+    "causa": "rival",
+    "viva_en_warn5": true,
+    "pasos_libres": 213,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 78,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 1140,
+    "dentro_pct": 92.3,
+    "ardiendo": 88,
+    "golpes_anillo": 4,
+    "sobrevive_fase": true,
+    "entra": 11856,
+    "planes": {
+     "aceptados": 2,
+     "andados": 2,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "caida: en la reevaluacion deja de ganar (area)": 2
+     },
+     "rupturas": {},
+     "estados": {
+      "alerta": 2,
+      "obedece": 5,
+      "enfriamiento": 29,
+      "sujeta": 70
+     },
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 2,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": {
+     "sujeta": 70,
+     "alertas": 2,
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "tics_suspendida": 0,
+     "retenido": 0,
+     "sale": 0,
+     "instantaneas": {
+      "n": 7,
+      "mediana_ms": 15.98,
+      "max_ms": 19.29
+     },
+     "encargos_oraculo": {
+      "n": 1968,
+      "mediana_ms": 0.08,
+      "max_ms": 9.23
+     },
+     "errores_juez": []
+    }
+   },
+   {
+    "semilla": 21203477,
+    "slot": 11,
+    "tics": 13263,
+    "superviviente": false,
+    "causa": "rival",
+    "viva_en_warn5": true,
+    "pasos_libres": 269,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 42,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 1140,
+    "dentro_pct": 100.0,
+    "ardiendo": 0,
+    "golpes_anillo": 0,
+    "sobrevive_fase": true,
+    "entra": 11856,
+    "planes": {
+     "aceptados": 0,
+     "andados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {},
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 0,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": {
+     "sujeta": 0,
+     "alertas": 0,
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "tics_suspendida": 0,
+     "retenido": 0,
+     "sale": 0,
+     "instantaneas": {
+      "n": 0,
+      "mediana_ms": null,
+      "max_ms": null
+     },
+     "encargos_oraculo": {
+      "n": 1904,
+      "mediana_ms": 0.08,
+      "max_ms": 10.54
+     },
+     "errores_juez": []
+    }
+   },
+   {
+    "semilla": 21308206,
+    "slot": 10,
+    "tics": 14976,
+    "superviviente": true,
+    "causa": null,
+    "viva_en_warn5": true,
+    "pasos_libres": 997,
+    "pasos_perdidos": 8,
+    "pasos_libres_5_7": 215,
+    "pasos_perdidos_5_7": 2,
+    "tics_fase": 1140,
+    "dentro_pct": 26.9,
+    "ardiendo": 233,
+    "golpes_anillo": 10,
+    "sobrevive_fase": true,
+    "entra": 12401,
+    "planes": {
+     "aceptados": 2,
+     "andados": 2,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "caida: en la reevaluacion deja de ganar (area)": 1,
+      "caida: la vida real 34 esta por debajo de la proyectada 51 menos 10": 1
+     },
+     "rupturas": {
+      "e) rival a 2 o menos": 31
+     },
+     "estados": {
+      "alerta": 6,
+      "enfriamiento": 112,
+      "rompe": 31,
+      "obedece": 12,
+      "sujeta": 3
+     },
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 6,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 1,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": {
+     "sujeta": 3,
+     "alertas": 6,
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "tics_suspendida": 0,
+     "retenido": 0,
+     "sale": 0,
+     "instantaneas": {
+      "n": 14,
+      "mediana_ms": 47.28,
+      "max_ms": 67.55
+     },
+     "encargos_oraculo": {
+      "n": 1875,
+      "mediana_ms": 0.11,
+      "max_ms": 31.23
+     },
+     "errores_juez": []
+    }
+   },
+   {
+    "semilla": 21308206,
+    "slot": 11,
+    "tics": 14976,
+    "superviviente": true,
+    "causa": null,
+    "viva_en_warn5": true,
+    "pasos_libres": 459,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 183,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 1140,
+    "dentro_pct": 44.9,
+    "ardiendo": 142,
+    "golpes_anillo": 6,
+    "sobrevive_fase": true,
+    "entra": 11932,
+    "planes": {
+     "aceptados": 3,
+     "andados": 3,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "caida: en la reevaluacion deja de ganar (area)": 1,
+      "caida: la vida real 86 esta por debajo de la proyectada 97 menos 10": 1,
+      "caida: la vida real 47 esta por debajo de la proyectada 64 menos 10": 1
+     },
+     "rupturas": {
+      "e) rival a 2 o menos": 25
+     },
+     "estados": {
+      "alerta": 1,
+      "enfriamiento": 46,
+      "obedece": 6,
+      "rompe": 25,
+      "sujeta": 7
+     },
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 1,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 2,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": {
+     "sujeta": 7,
+     "alertas": 2,
+     "suspensiones": 1,
+     "reanudaciones": 0,
+     "tics_suspendida": 38,
+     "retenido": 0,
+     "sale": 0,
+     "instantaneas": {
+      "n": 20,
+      "mediana_ms": 24.79,
+      "max_ms": 28.94
+     },
+     "encargos_oraculo": {
+      "n": 2025,
+      "mediana_ms": 0.06,
+      "max_ms": 13.48
+     },
+     "errores_juez": []
+    }
+   },
+   {
+    "semilla": 21412935,
+    "slot": 10,
+    "tics": 2854,
+    "superviviente": false,
+    "causa": "rival",
+    "viva_en_warn5": false,
+    "pasos_libres": 139,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 0,
+    "pasos_perdidos_5_7": 0
+   },
+   {
+    "semilla": 21412935,
+    "slot": 11,
+    "tics": 13968,
+    "superviviente": true,
+    "causa": null,
+    "viva_en_warn5": true,
+    "pasos_libres": 579,
+    "pasos_perdidos": 1,
+    "pasos_libres_5_7": 154,
+    "pasos_perdidos_5_7": 1,
+    "tics_fase": 1140,
+    "dentro_pct": 44.5,
+    "ardiendo": 56,
+    "golpes_anillo": 3,
+    "sobrevive_fase": true,
+    "entra": 12489,
+    "planes": {
+     "aceptados": 1,
+     "andados": 1,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "caida: en la reevaluacion deja de ganar (area)": 1
+     },
+     "rupturas": {},
+     "estados": {
+      "obedece": 3,
+      "enfriamiento": 19
+     },
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 0,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": {
+     "sujeta": 0,
+     "alertas": 0,
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "tics_suspendida": 0,
+     "retenido": 0,
+     "sale": 0,
+     "instantaneas": {
+      "n": 11,
+      "mediana_ms": 26.46,
+      "max_ms": 40.78
+     },
+     "encargos_oraculo": {
+      "n": 2091,
+      "mediana_ms": 0.06,
+      "max_ms": 27.84
+     },
+     "errores_juez": []
+    }
+   },
+   {
+    "semilla": 21517664,
+    "slot": 10,
+    "tics": 12371,
+    "superviviente": false,
+    "causa": "no consta",
+    "viva_en_warn5": true,
+    "pasos_libres": 784,
+    "pasos_perdidos": 1,
+    "pasos_libres_5_7": 48,
+    "pasos_perdidos_5_7": 1,
+    "tics_fase": 516,
+    "dentro_pct": 2.1,
+    "ardiendo": 265,
+    "golpes_anillo": 11,
+    "sobrevive_fase": false,
+    "entra": 12316,
+    "planes": {
+     "aceptados": 4,
+     "andados": 4,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "caida: la vida real 77 esta por debajo de la proyectada 94 menos 10": 1,
+      "caida: la vida real 57 esta por debajo de la proyectada 71 menos 10": 1,
+      "caida: la vida real 37 esta por debajo de la proyectada 100 menos 1": 1,
+      "caida: la vida real 8 esta por debajo de la proyectada 33 menos 10": 1
+     },
+     "rupturas": {},
+     "estados": {
+      "enfriamiento": 124,
+      "obedece": 16,
+      "alerta": 1,
+      "suspende": 1
+     },
+     "suspensiones": 1,
+     "reanudaciones": 0,
+     "alertas": 1,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 4,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": {
+     "sujeta": 0,
+     "alertas": 1,
+     "suspensiones": 1,
+     "reanudaciones": 0,
+     "tics_suspendida": 1,
+     "retenido": 0,
+     "sale": 0,
+     "instantaneas": {
+      "n": 9,
+      "mediana_ms": 27.44,
+      "max_ms": 32.01
+     },
+     "encargos_oraculo": {
+      "n": 1247,
+      "mediana_ms": 0.07,
+      "max_ms": 11.17
+     },
+     "errores_juez": []
+    }
+   },
+   {
+    "semilla": 21517664,
+    "slot": 11,
+    "tics": 12312,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "pasos_libres": 842,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 41,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 457,
+    "dentro_pct": 0.0,
+    "ardiendo": 380,
+    "golpes_anillo": 15,
+    "sobrevive_fase": false,
+    "entra": null,
+    "planes": {
+     "aceptados": 4,
+     "andados": 4,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "caida: la vida real 80 esta por debajo de la proyectada 97 menos 10": 1,
+      "caida: en la reevaluacion deja de ganar (area)": 1,
+      "caida: la vida real 40 esta por debajo de la proyectada 98 menos 10": 1,
+      "caida: la vida real 14 esta por debajo de la proyectada 30 menos 10": 1
+     },
+     "rupturas": {},
+     "estados": {
+      "enfriamiento": 126,
+      "obedece": 13
+     },
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 0,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 3,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": {
+     "sujeta": 0,
+     "alertas": 0,
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "tics_suspendida": 0,
+     "retenido": 0,
+     "sale": 0,
+     "instantaneas": {
+      "n": 9,
+      "mediana_ms": 33.16,
+      "max_ms": 51.02
+     },
+     "encargos_oraculo": {
+      "n": 1238,
+      "mediana_ms": 0.07,
+      "max_ms": 9.75
+     },
+     "errores_juez": []
+    }
+   },
+   {
+    "semilla": 21622393,
+    "slot": 10,
+    "tics": 14976,
+    "superviviente": true,
+    "causa": null,
+    "viva_en_warn5": true,
+    "pasos_libres": 658,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 238,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 1140,
+    "dentro_pct": 45.9,
+    "ardiendo": 0,
+    "golpes_anillo": 0,
+    "sobrevive_fase": true,
+    "entra": 12451,
+    "planes": {
+     "aceptados": 0,
+     "andados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {},
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 0,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": {
+     "sujeta": 0,
+     "alertas": 1,
+     "suspensiones": 1,
+     "reanudaciones": 0,
+     "tics_suspendida": 13,
+     "retenido": 0,
+     "sale": 0,
+     "instantaneas": {
+      "n": 21,
+      "mediana_ms": 14.78,
+      "max_ms": 21.9
+     },
+     "encargos_oraculo": {
+      "n": 1987,
+      "mediana_ms": 0.06,
+      "max_ms": 6.83
+     },
+     "errores_juez": []
+    }
+   },
+   {
+    "semilla": 21622393,
+    "slot": 11,
+    "tics": 14976,
+    "superviviente": true,
+    "causa": null,
+    "viva_en_warn5": true,
+    "pasos_libres": 758,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 206,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 1140,
+    "dentro_pct": 29.1,
+    "ardiendo": 55,
+    "golpes_anillo": 2,
+    "sobrevive_fase": true,
+    "entra": 12587,
+    "planes": {
+     "aceptados": 2,
+     "andados": 2,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "caida: en la reevaluacion deja de ganar (area)": 1,
+      "caida: la vida real 86 esta por debajo de la proyectada 97 menos 10": 1
+     },
+     "rupturas": {
+      "e) rival a 2 o menos": 21
+     },
+     "estados": {
+      "alerta": 1,
+      "enfriamiento": 69,
+      "obedece": 7,
+      "rompe": 21
+     },
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 1,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 1,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": {
+     "sujeta": 0,
+     "alertas": 3,
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "tics_suspendida": 0,
+     "retenido": 0,
+     "sale": 0,
+     "instantaneas": {
+      "n": 17,
+      "mediana_ms": 15.11,
+      "max_ms": 21.29
+     },
+     "encargos_oraculo": {
+      "n": 2152,
+      "mediana_ms": 0.05,
+      "max_ms": 6.48
+     },
+     "errores_juez": []
+    }
+   },
+   {
+    "semilla": 21727122,
+    "slot": 10,
+    "tics": 14688,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "pasos_libres": 1706,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 191,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 1140,
+    "dentro_pct": 35.3,
+    "ardiendo": 75,
+    "golpes_anillo": 3,
+    "sobrevive_fase": true,
+    "entra": 12563,
+    "planes": {
+     "aceptados": 3,
+     "andados": 3,
+     "sostenidos_fin_fase": 1,
+     "fines": {
+      "caida: en la reevaluacion deja de ganar (area)": 2
+     },
+     "rupturas": {
+      "e) rival a 2 o menos": 15
+     },
+     "estados": {
+      "enfriamiento": 65,
+      "obedece": 7,
+      "rompe": 15,
+      "sujeta": 288
+     },
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 0,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": {
+     "sujeta": 288,
+     "alertas": 0,
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "tics_suspendida": 0,
+     "retenido": 0,
+     "sale": 0,
+     "instantaneas": {
+      "n": 28,
+      "mediana_ms": 13.52,
+      "max_ms": 22.23
+     },
+     "encargos_oraculo": {
+      "n": 1185,
+      "mediana_ms": 0.05,
+      "max_ms": 19.6
+     },
+     "errores_juez": []
+    }
+   },
+   {
+    "semilla": 21727122,
+    "slot": 11,
+    "tics": 14688,
+    "superviviente": false,
+    "causa": "rival",
+    "viva_en_warn5": true,
+    "pasos_libres": 1136,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 234,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 1140,
+    "dentro_pct": 49.1,
+    "ardiendo": 0,
+    "golpes_anillo": 0,
+    "sobrevive_fase": true,
+    "entra": 12436,
+    "planes": {
+     "aceptados": 0,
+     "andados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {},
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 0,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": {
+     "sujeta": 0,
+     "alertas": 3,
+     "suspensiones": 2,
+     "reanudaciones": 0,
+     "tics_suspendida": 39,
+     "retenido": 0,
+     "sale": 0,
+     "instantaneas": {
+      "n": 11,
+      "mediana_ms": 20.16,
+      "max_ms": 27.17
+     },
+     "encargos_oraculo": {
+      "n": 1278,
+      "mediana_ms": 0.08,
+      "max_ms": 15.22
+     },
+     "errores_juez": []
+    }
+   },
+   {
+    "semilla": 21831851,
+    "slot": 10,
+    "tics": 14610,
+    "superviviente": false,
+    "causa": "rival",
+    "viva_en_warn5": true,
+    "pasos_libres": 445,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 144,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 1140,
+    "dentro_pct": 34.6,
+    "ardiendo": 67,
+    "golpes_anillo": 3,
+    "sobrevive_fase": true,
+    "entra": 11896,
+    "planes": {
+     "aceptados": 2,
+     "andados": 1,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "caida: en la reevaluacion deja de ganar (area)": 1,
+      "caida: en la reevaluacion deja de ganar (vida)": 1
+     },
+     "rupturas": {
+      "e) rival a 2 o menos": 25
+     },
+     "estados": {
+      "rompe": 25,
+      "enfriamiento": 38,
+      "obedece": 5,
+      "alerta": 2,
+      "sujeta": 330
+     },
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 2,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": {
+     "sujeta": 330,
+     "alertas": 3,
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "tics_suspendida": 0,
+     "retenido": 0,
+     "sale": 0,
+     "instantaneas": {
+      "n": 16,
+      "mediana_ms": 17.19,
+      "max_ms": 23.81
+     },
+     "encargos_oraculo": {
+      "n": 1821,
+      "mediana_ms": 0.07,
+      "max_ms": 9.56
+     },
+     "errores_juez": []
+    }
+   },
+   {
+    "semilla": 21831851,
+    "slot": 11,
+    "tics": 14628,
+    "superviviente": false,
+    "causa": "rival",
+    "viva_en_warn5": true,
+    "pasos_libres": 344,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 178,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 1140,
+    "dentro_pct": 41.0,
+    "ardiendo": 66,
+    "golpes_anillo": 4,
+    "sobrevive_fase": true,
+    "entra": 12408,
+    "planes": {
+     "aceptados": 2,
+     "andados": 2,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "caida: en la reevaluacion deja de ganar (area)": 2
+     },
+     "rupturas": {
+      "e) rival a 2 o menos": 20
+     },
+     "estados": {
+      "enfriamiento": 42,
+      "rompe": 20,
+      "sujeta": 42,
+      "obedece": 5,
+      "alerta": 6
+     },
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 6,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": {
+     "sujeta": 42,
+     "alertas": 9,
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "tics_suspendida": 0,
+     "retenido": 0,
+     "sale": 0,
+     "instantaneas": {
+      "n": 16,
+      "mediana_ms": 17.29,
+      "max_ms": 28.78
+     },
+     "encargos_oraculo": {
+      "n": 2351,
+      "mediana_ms": 0.07,
+      "max_ms": 11.37
+     },
+     "errores_juez": []
+    }
+   },
+   {
+    "semilla": 21936580,
+    "slot": 10,
+    "tics": 12984,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "pasos_libres": 295,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 54,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 1129,
+    "dentro_pct": 9.1,
+    "ardiendo": 292,
+    "golpes_anillo": 12,
+    "sobrevive_fase": false,
+    "entra": 11929,
+    "planes": {
+     "aceptados": 3,
+     "andados": 2,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "caida: en la reevaluacion deja de ganar (area)": 3
+     },
+     "rupturas": {},
+     "estados": {
+      "sujeta": 14,
+      "enfriamiento": 44,
+      "obedece": 4
+     },
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 0,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": {
+     "sujeta": 14,
+     "alertas": 0,
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "tics_suspendida": 0,
+     "retenido": 0,
+     "sale": 0,
+     "instantaneas": {
+      "n": 18,
+      "mediana_ms": 16.56,
+      "max_ms": 28.05
+     },
+     "encargos_oraculo": {
+      "n": 2011,
+      "mediana_ms": 0.07,
+      "max_ms": 7.67
+     },
+     "errores_juez": []
+    }
+   },
+   {
+    "semilla": 21936580,
+    "slot": 11,
+    "tics": 12912,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "pasos_libres": 494,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 73,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 1057,
+    "dentro_pct": 25.1,
+    "ardiendo": 321,
+    "golpes_anillo": 13,
+    "sobrevive_fase": false,
+    "entra": 12182,
+    "planes": {
+     "aceptados": 1,
+     "andados": 1,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {
+      "e) rival a 2 o menos": 83
+     },
+     "estados": {
+      "enfriamiento": 176,
+      "obedece": 18,
+      "rompe": 83,
+      "sujeta": 60
+     },
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 0,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": {
+     "sujeta": 646,
+     "alertas": 33,
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "tics_suspendida": 0,
+     "retenido": 0,
+     "sale": 0,
+     "instantaneas": {
+      "n": 70,
+      "mediana_ms": 7.82,
+      "max_ms": 18.52
+     },
+     "encargos_oraculo": {
+      "n": 761,
+      "mediana_ms": 0.04,
+      "max_ms": 6.96
+     },
+     "errores_juez": []
+    }
+   },
+   {
+    "semilla": 22041309,
+    "slot": 10,
+    "tics": 13056,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "pasos_libres": 674,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 66,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 1140,
+    "dentro_pct": 19.5,
+    "ardiendo": 243,
+    "golpes_anillo": 11,
+    "sobrevive_fase": true,
+    "entra": 12141,
+    "planes": {
+     "aceptados": 2,
+     "andados": 2,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "caida: en la reevaluacion deja de ganar (area)": 2
+     },
+     "rupturas": {},
+     "estados": {
+      "enfriamiento": 30,
+      "obedece": 4,
+      "sujeta": 130
+     },
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 0,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": {
+     "sujeta": 130,
+     "alertas": 0,
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "tics_suspendida": 0,
+     "retenido": 0,
+     "sale": 0,
+     "instantaneas": {
+      "n": 18,
+      "mediana_ms": 25.58,
+      "max_ms": 40.14
+     },
+     "encargos_oraculo": {
+      "n": 1271,
+      "mediana_ms": 0.07,
+      "max_ms": 10.93
+     },
+     "errores_juez": []
+    }
+   },
+   {
+    "semilla": 22041309,
+    "slot": 11,
+    "tics": 12336,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "pasos_libres": 995,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 22,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 481,
+    "dentro_pct": 0.0,
+    "ardiendo": 53,
+    "golpes_anillo": 1,
+    "sobrevive_fase": false,
+    "entra": null,
+    "planes": {
+     "aceptados": 0,
+     "andados": 0,
+     "sostenidos_fin_fase": 0,
+     "fines": {},
+     "rupturas": {},
+     "estados": {},
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 0,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": {
+     "sujeta": 0,
+     "alertas": 0,
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "tics_suspendida": 0,
+     "retenido": 0,
+     "sale": 0,
+     "instantaneas": {
+      "n": 5,
+      "mediana_ms": 18.96,
+      "max_ms": 23.36
+     },
+     "encargos_oraculo": {
+      "n": 682,
+      "mediana_ms": 0.05,
+      "max_ms": 8.16
+     },
+     "errores_juez": []
+    }
+   },
+   {
+    "semilla": 22146038,
+    "slot": 10,
+    "tics": 12528,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "pasos_libres": 1090,
+    "pasos_perdidos": 1,
+    "pasos_libres_5_7": 58,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 673,
+    "dentro_pct": 6.1,
+    "ardiendo": 128,
+    "golpes_anillo": 6,
+    "sobrevive_fase": false,
+    "entra": 12297,
+    "planes": {
+     "aceptados": 1,
+     "andados": 1,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "caida: la vida real 22 esta por debajo de la proyectada 35 menos 10": 1
+     },
+     "rupturas": {
+      "e) rival a 2 o menos": 15
+     },
+     "estados": {
+      "enfriamiento": 123,
+      "obedece": 9,
+      "rompe": 15,
+      "sujeta": 6,
+      "suspende": 1,
+      "retenido": 13
+     },
+     "suspensiones": 1,
+     "reanudaciones": 0,
+     "alertas": 0,
+     "retenido": 13,
+     "sale": 0,
+     "caidas_vida_real": 1,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": {
+     "sujeta": 10,
+     "alertas": 0,
+     "suspensiones": 1,
+     "reanudaciones": 0,
+     "tics_suspendida": 22,
+     "retenido": 13,
+     "sale": 0,
+     "instantaneas": {
+      "n": 13,
+      "mediana_ms": 21.61,
+      "max_ms": 40.5
+     },
+     "encargos_oraculo": {
+      "n": 450,
+      "mediana_ms": 0.08,
+      "max_ms": 14.29
+     },
+     "errores_juez": []
+    }
+   },
+   {
+    "semilla": 22146038,
+    "slot": 11,
+    "tics": 14664,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "pasos_libres": 1246,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 209,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 1140,
+    "dentro_pct": 38.7,
+    "ardiendo": 55,
+    "golpes_anillo": 4,
+    "sobrevive_fase": true,
+    "entra": 12555,
+    "planes": {
+     "aceptados": 1,
+     "andados": 1,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "caida: la vida real 54 esta por debajo de la proyectada 71 menos 10": 1
+     },
+     "rupturas": {},
+     "estados": {
+      "enfriamiento": 23,
+      "obedece": 2
+     },
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 0,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 1,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": {
+     "sujeta": 0,
+     "alertas": 5,
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "tics_suspendida": 0,
+     "retenido": 0,
+     "sale": 0,
+     "instantaneas": {
+      "n": 14,
+      "mediana_ms": 16.81,
+      "max_ms": 26.84
+     },
+     "encargos_oraculo": {
+      "n": 820,
+      "mediana_ms": 0.07,
+      "max_ms": 10.54
+     },
+     "errores_juez": []
+    }
+   },
+   {
+    "semilla": 22250767,
+    "slot": 10,
+    "tics": 14520,
+    "superviviente": true,
+    "causa": null,
+    "viva_en_warn5": true,
+    "pasos_libres": 598,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 129,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 1140,
+    "dentro_pct": 61.3,
+    "ardiendo": 46,
+    "golpes_anillo": 1,
+    "sobrevive_fase": true,
+    "entra": 11856,
+    "planes": {
+     "aceptados": 1,
+     "andados": 1,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "caida: en la reevaluacion deja de ganar (area)": 1
+     },
+     "rupturas": {},
+     "estados": {
+      "enfriamiento": 76,
+      "obedece": 9,
+      "sujeta": 116
+     },
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 0,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 0,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": {
+     "sujeta": 116,
+     "alertas": 0,
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "tics_suspendida": 0,
+     "retenido": 0,
+     "sale": 0,
+     "instantaneas": {
+      "n": 12,
+      "mediana_ms": 16.63,
+      "max_ms": 27.03
+     },
+     "encargos_oraculo": {
+      "n": 2609,
+      "mediana_ms": 0.07,
+      "max_ms": 11.57
+     },
+     "errores_juez": []
+    }
+   },
+   {
+    "semilla": 22250767,
+    "slot": 11,
+    "tics": 12840,
+    "superviviente": false,
+    "causa": "anillo",
+    "viva_en_warn5": true,
+    "pasos_libres": 228,
+    "pasos_perdidos": 0,
+    "pasos_libres_5_7": 56,
+    "pasos_perdidos_5_7": 0,
+    "tics_fase": 985,
+    "dentro_pct": 60.8,
+    "ardiendo": 160,
+    "golpes_anillo": 7,
+    "sobrevive_fase": false,
+    "entra": 11856,
+    "planes": {
+     "aceptados": 1,
+     "andados": 1,
+     "sostenidos_fin_fase": 0,
+     "fines": {
+      "caida: la vida real 10 esta por debajo de la proyectada 26 menos 10": 1
+     },
+     "rupturas": {},
+     "estados": {
+      "enfriamiento": 29,
+      "obedece": 3
+     },
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "alertas": 0,
+     "retenido": 0,
+     "sale": 0,
+     "caidas_vida_real": 1,
+     "caidas_cuenta_justa": 0
+    },
+    "resumen": {
+     "sujeta": 0,
+     "alertas": 0,
+     "suspensiones": 0,
+     "reanudaciones": 0,
+     "tics_suspendida": 0,
+     "retenido": 0,
+     "sale": 0,
+     "instantaneas": {
+      "n": 5,
+      "mediana_ms": 23.1,
+      "max_ms": 29.39
+     },
+     "encargos_oraculo": {
+      "n": 2289,
+      "mediana_ms": 0.07,
+      "max_ms": 9.82
+     },
+     "errores_juez": []
+    }
+   }
+  ],
+  "por_semilla": {
+   "20260916": {
+    "semilla": 20260916,
+    "supervivientes": 2,
+    "anillo": 0,
+    "rival": 0,
+    "dentro_pct": [
+     42.9,
+     41.1
+    ],
+    "ardiendo": [
+     28,
+     44
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 3,
+    "aceptan_los_dos": 1,
+    "perdidos": 0,
+    "libres": 2350,
+    "dentro_pct_media": 42.0,
+    "ardiendo_media": 36
+   },
+   "20365645": {
+    "semilla": 20365645,
+    "supervivientes": 0,
+    "anillo": 2,
+    "rival": 0,
+    "dentro_pct": [
+     94.7,
+     67.2
+    ],
+    "ardiendo": [
+     27,
+     299
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 3,
+    "aceptan_los_dos": 1,
+    "perdidos": 8,
+    "libres": 743,
+    "dentro_pct_media": 81.0,
+    "ardiendo_media": 163
+   },
+   "20470374": {
+    "semilla": 20470374,
+    "supervivientes": 0,
+    "anillo": 1,
+    "rival": 1,
+    "dentro_pct": [
+     16.5,
+     34.0
+    ],
+    "ardiendo": [
+     185,
+     88
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 1,
+    "aceptados_fase": 3,
+    "aceptan_los_dos": 1,
+    "perdidos": 5,
+    "libres": 1105,
+    "dentro_pct_media": 25.2,
+    "ardiendo_media": 136.5
+   },
+   "20575103": {
+    "semilla": 20575103,
+    "supervivientes": 1,
+    "anillo": 1,
+    "rival": 0,
+    "dentro_pct": [
+     100.0,
+     100.0
+    ],
+    "ardiendo": [
+     0,
+     0
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 0,
+    "aceptan_los_dos": 0,
+    "perdidos": 0,
+    "libres": 2539,
+    "dentro_pct_media": 100.0,
+    "ardiendo_media": 0
+   },
+   "20679832": {
+    "semilla": 20679832,
+    "supervivientes": 0,
+    "anillo": 0,
+    "rival": 2,
+    "dentro_pct": [
+     40.4,
+     51.8
+    ],
+    "ardiendo": [
+     21,
+     0
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 0,
+    "aceptan_los_dos": 0,
+    "perdidos": 2,
+    "libres": 2372,
+    "dentro_pct_media": 46.1,
+    "ardiendo_media": 10.5
+   },
+   "20784561": {
+    "semilla": 20784561,
+    "supervivientes": 1,
+    "anillo": 0,
+    "rival": 1,
+    "dentro_pct": [
+     30.7,
+     36.7
+    ],
+    "ardiendo": [
+     272,
+     44
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 2,
+    "aceptados_fase": 5,
+    "aceptan_los_dos": 1,
+    "perdidos": 2,
+    "libres": 1381,
+    "dentro_pct_media": 33.7,
+    "ardiendo_media": 158
+   },
+   "20889290": {
+    "semilla": 20889290,
+    "supervivientes": 1,
+    "anillo": 0,
+    "rival": 1,
+    "dentro_pct": [
+     37.4,
+     35.2
+    ],
+    "ardiendo": [
+     121,
+     22
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 1,
+    "aceptan_los_dos": 0,
+    "perdidos": 0,
+    "libres": 1333,
+    "dentro_pct_media": 36.3,
+    "ardiendo_media": 71.5
+   },
+   "20994019": {
+    "semilla": 20994019,
+    "supervivientes": 0,
+    "anillo": 1,
+    "rival": 1,
+    "dentro_pct": [
+     21.0,
+     79.8
+    ],
+    "ardiendo": [
+     444,
+     0
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 1,
+    "aceptados_fase": 3,
+    "aceptan_los_dos": 0,
+    "perdidos": 0,
+    "libres": 1234,
+    "dentro_pct_media": 50.4,
+    "ardiendo_media": 222
+   },
+   "21098748": {
+    "semilla": 21098748,
+    "supervivientes": 2,
+    "anillo": 0,
+    "rival": 0,
+    "dentro_pct": [
+     29.1,
+     27.7
+    ],
+    "ardiendo": [
+     62,
+     121
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 1,
+    "aceptados_fase": 5,
+    "aceptan_los_dos": 1,
+    "perdidos": 0,
+    "libres": 1512,
+    "dentro_pct_media": 28.4,
+    "ardiendo_media": 91.5
+   },
+   "21203477": {
+    "semilla": 21203477,
+    "supervivientes": 0,
+    "anillo": 0,
+    "rival": 2,
+    "dentro_pct": [
+     92.3,
+     100.0
+    ],
+    "ardiendo": [
+     88,
+     0
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 2,
+    "aceptan_los_dos": 0,
+    "perdidos": 0,
+    "libres": 482,
+    "dentro_pct_media": 96.2,
+    "ardiendo_media": 44
+   },
+   "21308206": {
+    "semilla": 21308206,
+    "supervivientes": 2,
+    "anillo": 0,
+    "rival": 0,
+    "dentro_pct": [
+     26.9,
+     44.9
+    ],
+    "ardiendo": [
+     233,
+     142
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 5,
+    "aceptan_los_dos": 1,
+    "perdidos": 8,
+    "libres": 1456,
+    "dentro_pct_media": 35.9,
+    "ardiendo_media": 187.5
+   },
+   "21412935": {
+    "semilla": 21412935,
+    "supervivientes": 1,
+    "anillo": 0,
+    "rival": 1,
+    "dentro_pct": [
+     44.5
+    ],
+    "ardiendo": [
+     56
+    ],
+    "vivas_en_warn": 1,
+    "sostenidos": 0,
+    "aceptados_fase": 1,
+    "aceptan_los_dos": 0,
+    "perdidos": 1,
+    "libres": 718,
+    "dentro_pct_media": 44.5,
+    "ardiendo_media": 56
+   },
+   "21517664": {
+    "semilla": 21517664,
+    "supervivientes": 0,
+    "anillo": 1,
+    "rival": 0,
+    "dentro_pct": [
+     2.1,
+     0.0
+    ],
+    "ardiendo": [
+     265,
+     380
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 8,
+    "aceptan_los_dos": 1,
+    "perdidos": 1,
+    "libres": 1626,
+    "dentro_pct_media": 1.1,
+    "ardiendo_media": 322.5
+   },
+   "21622393": {
+    "semilla": 21622393,
+    "supervivientes": 2,
+    "anillo": 0,
+    "rival": 0,
+    "dentro_pct": [
+     45.9,
+     29.1
+    ],
+    "ardiendo": [
+     0,
+     55
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 2,
+    "aceptan_los_dos": 0,
+    "perdidos": 0,
+    "libres": 1416,
+    "dentro_pct_media": 37.5,
+    "ardiendo_media": 27.5
+   },
+   "21727122": {
+    "semilla": 21727122,
+    "supervivientes": 0,
+    "anillo": 1,
+    "rival": 1,
+    "dentro_pct": [
+     35.3,
+     49.1
+    ],
+    "ardiendo": [
+     75,
+     0
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 1,
+    "aceptados_fase": 3,
+    "aceptan_los_dos": 0,
+    "perdidos": 0,
+    "libres": 2842,
+    "dentro_pct_media": 42.2,
+    "ardiendo_media": 37.5
+   },
+   "21831851": {
+    "semilla": 21831851,
+    "supervivientes": 0,
+    "anillo": 0,
+    "rival": 2,
+    "dentro_pct": [
+     34.6,
+     41.0
+    ],
+    "ardiendo": [
+     67,
+     66
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 4,
+    "aceptan_los_dos": 1,
+    "perdidos": 0,
+    "libres": 789,
+    "dentro_pct_media": 37.8,
+    "ardiendo_media": 66.5
+   },
+   "21936580": {
+    "semilla": 21936580,
+    "supervivientes": 0,
+    "anillo": 2,
+    "rival": 0,
+    "dentro_pct": [
+     9.1,
+     25.1
+    ],
+    "ardiendo": [
+     292,
+     321
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 4,
+    "aceptan_los_dos": 1,
+    "perdidos": 0,
+    "libres": 789,
+    "dentro_pct_media": 17.1,
+    "ardiendo_media": 306.5
+   },
+   "22041309": {
+    "semilla": 22041309,
+    "supervivientes": 0,
+    "anillo": 2,
+    "rival": 0,
+    "dentro_pct": [
+     19.5,
+     0.0
+    ],
+    "ardiendo": [
+     243,
+     53
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 2,
+    "aceptan_los_dos": 0,
+    "perdidos": 0,
+    "libres": 1669,
+    "dentro_pct_media": 9.8,
+    "ardiendo_media": 148
+   },
+   "22146038": {
+    "semilla": 22146038,
+    "supervivientes": 0,
+    "anillo": 2,
+    "rival": 0,
+    "dentro_pct": [
+     6.1,
+     38.7
+    ],
+    "ardiendo": [
+     128,
+     55
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 2,
+    "aceptan_los_dos": 1,
+    "perdidos": 1,
+    "libres": 2336,
+    "dentro_pct_media": 22.4,
+    "ardiendo_media": 91.5
+   },
+   "22250767": {
+    "semilla": 22250767,
+    "supervivientes": 1,
+    "anillo": 1,
+    "rival": 0,
+    "dentro_pct": [
+     61.3,
+     60.8
+    ],
+    "ardiendo": [
+     46,
+     160
+    ],
+    "vivas_en_warn": 2,
+    "sostenidos": 0,
+    "aceptados_fase": 2,
+    "aceptan_los_dos": 1,
+    "perdidos": 0,
+    "libres": 826,
+    "dentro_pct_media": 61.0,
+    "ardiendo_media": 103
+   }
+  }
+ },
+ "emparejado": {
+  "A7v - A4": {
+   "dentro_pct_media": {
+    "n": 18,
+    "media_dif": -0.06,
+    "gana": 9,
+    "pierde": 9,
+    "p": 0.996
+   },
+   "ardiendo_media": {
+    "n": 18,
+    "media_dif": -30.94,
+    "gana": 9,
+    "pierde": 9,
+    "p": 0.425
+   },
+   "sostenidos": {
+    "n": 20,
+    "media_dif": 0,
+    "gana": 0,
+    "pierde": 0,
+    "p": 1.0
+   },
+   "aceptados_fase": {
+    "n": 20,
+    "media_dif": 5.45,
+    "gana": 18,
+    "pierde": 0,
+    "p": 0.0
+   },
+   "supervivientes": {
+    "n": 20,
+    "media_dif": -0.05,
+    "gana": 7,
+    "pierde": 7,
+    "p": 1.0
+   },
+   "anillo": {
+    "n": 20,
+    "media_dif": -0.45,
+    "gana": 4,
+    "pierde": 10,
+    "p": 0.179
+   },
+   "rival": {
+    "n": 20,
+    "media_dif": 0.35,
+    "gana": 10,
+    "pierde": 2,
+    "p": 0.119
+   },
+   "perdidos": {
+    "n": 20,
+    "media_dif": 1.35,
+    "gana": 5,
+    "pierde": 2,
+    "p": 0.297
+   }
+  },
+  "A7h - A4": {
+   "dentro_pct_media": {
+    "n": 18,
+    "media_dif": 7.28,
+    "gana": 11,
+    "pierde": 6,
+    "p": 0.352
+   },
+   "ardiendo_media": {
+    "n": 18,
+    "media_dif": -79.17,
+    "gana": 6,
+    "pierde": 12,
+    "p": 0.046
+   },
+   "sostenidos": {
+    "n": 20,
+    "media_dif": 0.3,
+    "gana": 5,
+    "pierde": 0,
+    "p": 0.062
+   },
+   "aceptados_fase": {
+    "n": 20,
+    "media_dif": 2.9,
+    "gana": 18,
+    "pierde": 0,
+    "p": 0.0
+   },
+   "supervivientes": {
+    "n": 20,
+    "media_dif": 0.1,
+    "gana": 7,
+    "pierde": 6,
+    "p": 0.854
+   },
+   "anillo": {
+    "n": 20,
+    "media_dif": -0.4,
+    "gana": 6,
+    "pierde": 10,
+    "p": 0.234
+   },
+   "rival": {
+    "n": 20,
+    "media_dif": 0.3,
+    "gana": 8,
+    "pierde": 3,
+    "p": 0.271
+   },
+   "perdidos": {
+    "n": 20,
+    "media_dif": 1.15,
+    "gana": 8,
+    "pierde": 2,
+    "p": 0.104
+   }
+  },
+  "A7h - A7v": {
+   "dentro_pct_media": {
+    "n": 20,
+    "media_dif": 9.14,
+    "gana": 13,
+    "pierde": 7,
+    "p": 0.206
+   },
+   "ardiendo_media": {
+    "n": 20,
+    "media_dif": -46.25,
+    "gana": 5,
+    "pierde": 15,
+    "p": 0.097
+   },
+   "sostenidos": {
+    "n": 20,
+    "media_dif": 0.3,
+    "gana": 5,
+    "pierde": 0,
+    "p": 0.062
+   },
+   "aceptados_fase": {
+    "n": 20,
+    "media_dif": -2.55,
+    "gana": 3,
+    "pierde": 13,
+    "p": 0.014
+   },
+   "supervivientes": {
+    "n": 20,
+    "media_dif": 0.15,
+    "gana": 5,
+    "pierde": 4,
+    "p": 0.617
+   },
+   "anillo": {
+    "n": 20,
+    "media_dif": 0.05,
+    "gana": 5,
+    "pierde": 4,
+    "p": 1.0
+   },
+   "rival": {
+    "n": 20,
+    "media_dif": -0.05,
+    "gana": 5,
+    "pierde": 7,
+    "p": 1.0
+   },
+   "perdidos": {
+    "n": 20,
+    "media_dif": -0.2,
+    "gana": 8,
+    "pierde": 5,
+    "p": 0.895
+   }
+  }
+ }
+}

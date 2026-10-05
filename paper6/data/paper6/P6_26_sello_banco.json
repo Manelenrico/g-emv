@@ -1,0 +1,62 @@
+{
+ "origenes": {
+  "haiku": {
+   "escenas_rechazadas": 93,
+   "en_ellas_el_plan_del_oraculo_pasa": 12,
+   "pct": 12.9,
+   "ventaja_de_los_rechazados_mediana": -0.0051,
+   "bucle_2a_pasa_pct": 8.1,
+   "bucle_3a_pasa_pct": 0.0,
+   "pareja_aceptan_las_dos_pct": 20.0,
+   "pareja_acepta_alguna_pct": 70.0
+  },
+  "sonnet": {
+   "escenas_rechazadas": 83,
+   "en_ellas_el_plan_del_oraculo_pasa": 7,
+   "pct": 8.4,
+   "ventaja_de_los_rechazados_mediana": -0.0096,
+   "bucle_2a_pasa_pct": 14.3,
+   "bucle_3a_pasa_pct": 4.2,
+   "pareja_aceptan_las_dos_pct": 17.5,
+   "pareja_acepta_alguna_pct": 67.5
+  },
+  "oraculo": {
+   "acepta_pct": 51.0,
+   "ventaja_aceptados_mediana": 0.3092
+  },
+  "nota": "el oraculo elige UN destino (criterio c o b5) entre sus casillas seguras; aqui se prueban TODAS. En P6-18 (banco) puerta6 prefirio quedarse en 48 de 63 momentos."
+ },
+ "sello": {
+  "(a) escenas rechazadas con al menos un plan que pasa": {
+   "prediccion": "entre el 40 y el 70 % en los dos modelos (el unico plan del oraculo ya pasa en el 12.9 % y el 8.4 % de esas escenas; con todo el espacio, mas)",
+   "falla_si": "menos del 25 % o mas del 90 % en algun modelo"
+  },
+  "(b) la mejor ganancia disponible": {
+   "prediccion": "mediana entre 0,15 y 0,40 (la de los aceptados del oraculo es 0.3092); p90 por encima de 0,40",
+   "falla_si": "mediana por debajo de 0,05"
+  },
+  "(c) las propuestas 2a y 3a del bucle frente al mejor plan": {
+   "prediccion": "no se acercan: distancia mediana al mejor de 3 casillas o mas, y la 3a no mas cerca que la 2a (el motivo en palabras cambio el destino en el 76-93 % pero no la ventaja, P6-25)",
+   "falla_si": "la 3a queda a 1 casilla o menos del mejor en mediana"
+  },
+  "(d) pares con una sola puerta: existe un plan que acepten las dos": {
+   "prediccion": "cada hermano tiene algun plan que pasa en la mitad o mas de esos pares; una zona comun aceptada por los dos (Chebyshev <= 3) en al menos un tercio",
+   "falla_si": "los dos tienen plan en menos de un cuarto de los pares"
+  }
+ },
+ "md5": {
+  "cantera/paper6/banco_P6_26.py": "960adf3dbbc114ab85da55e2ce9d4719",
+  "cantera/paper6/juez_P6_25.py": "74a1445427c77d84dddf5a6e7326d188",
+  "cantera/paper6/escenas_P6_25.py": "dc6a25a00d285e5a452422a31c65cfa2",
+  "cantera/paper6/P6_25_escenas.json": "74cd93fd5db902edf5f8b52c83b52fb4",
+  "cantera/paper6/P6_25_juicios_primera.json": "1710e827efe3a177a617221b5fcc5c7e",
+  "cantera/paper6/P6_25_juicios_pareja.json": "f1c9d4977637a1482c0e7c0ed0a73055",
+  "cantera/paper6/P6_25_planes_pareja.json": "d984e185bcd920ddf201f5722eea4c36",
+  "cantera/paper6/P6_25_planes_bucle2.json": "a19d584ca500d80df1c1b66493635d9c",
+  "cantera/paper6/P6_25_planes_bucle3.json": "f5c93af1522582600c544c0d6355ab6e",
+  "cantera/paper6/policy_pareja23.py": "5947b1d9c3ef99e61624ed09d0afa7ec",
+  "cantera/paper6/oraculo_P6_14.py": "a791ddc0cca9940b9c80920dc66a623d",
+  "cantera/paper6/puerta6_P6_15.py": "7c70ae1752c7ac1aae457d0c5b2d36f3",
+  "motor/model.py": "1e511978c251130e95169ebf8443efa1"
+ }
+}

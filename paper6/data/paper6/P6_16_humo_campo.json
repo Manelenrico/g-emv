@@ -1,0 +1,95 @@
+{
+ "P618_t0_A6_20260916 s10": {
+  "vida": "P618_t0_A6_20260916 s10",
+  "puerta6": true,
+  "tics": 3432,
+  "warn0": 1500,
+  "tiempo_tic": {
+   "n": 2952,
+   "mediana": 0.59,
+   "p95": 2.71,
+   "max": 137.02,
+   "mas_de_un_tic": 8
+  },
+  "ms16": {
+   "n": 2952,
+   "mediana": 0.77,
+   "p95": 5.09,
+   "max": 221.45,
+   "mas_de_un_tic": 9
+  },
+  "juicio_ms": {
+   "n": 2,
+   "mediana": 499.7,
+   "p95": 499.7,
+   "max": 499.7
+  },
+  "hilo": {
+   "encargada al hilo": 2,
+   "vuelta del hilo": 2,
+   "reevaluacion encargada al hilo": 5
+  },
+  "oraculo": {
+   "propuestas": 2
+  },
+  "estados_oraculo": {
+   "listo": 1,
+   "propone": 2
+  },
+  "veredictos": {
+   "ok": 2,
+   "re:ok": 4
+  },
+  "aceptadas": 2,
+  "compromiso6": {
+   "enfriamiento": 91,
+   "rompe": 25
+  },
+  "rupturas": {
+   "e) rival a 2 o menos": 25
+  },
+  "caidas": {
+   "la vida real 77 esta por debajo de la proyectada 97 menos 10": 1
+  },
+  "cumplidas": [],
+  "resumen16": null
+ },
+ "P618_t0_A6_20260916 s11": {
+  "vida": "P618_t0_A6_20260916 s11",
+  "puerta6": true,
+  "tics": 3432,
+  "warn0": 1500,
+  "tiempo_tic": {
+   "n": 2952,
+   "mediana": 0.96,
+   "p95": 4.12,
+   "max": 16.42,
+   "mas_de_un_tic": 0
+  },
+  "ms16": {
+   "n": 2952,
+   "mediana": 1.24,
+   "p95": 7.92,
+   "max": 16.72,
+   "mas_de_un_tic": 0
+  },
+  "juicio_ms": {
+   "n": 0,
+   "mediana": null,
+   "p95": null,
+   "max": null
+  },
+  "hilo": {},
+  "oraculo": {},
+  "estados_oraculo": {
+   "listo": 1
+  },
+  "veredictos": {},
+  "aceptadas": 0,
+  "compromiso6": {},
+  "rupturas": {},
+  "caidas": {},
+  "cumplidas": [],
+  "resumen16": null
+ }
+}

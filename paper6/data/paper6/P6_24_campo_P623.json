@@ -1,0 +1,2957 @@
+{
+ "nota": "[P6-24 · 3-4] LAS MEDIDAS DE LA REPLICA, con UNA medida principal: TICS ARDIENDO EN LAS FASES 5-7",
+ "brazos": {
+  "A4": {
+   "resumen": {
+    "partidas": 20,
+    "vidas": 40,
+    "vivas_en_warn5": 35,
+    "ardiendo_5_7_media": 233,
+    "ardiendo_5_7_mediana": 238,
+    "vidas_0_ardiendo_5_7": 1,
+    "ardiendo_f5_media": 196,
+    "dentro_pct_f5_media": 32.7,
+    "planes_aceptados_f5": 0,
+    "planes_sostenidos_f5": 0,
+    "pasos_libres_5_7": 4209,
+    "pasos_perdidos_5_7": 0,
+    "muertes_anillo": 22,
+    "muertes_rival": 6,
+    "supervivientes": 11,
+    "pct_pasos_perdidos_5_7": 0.0
+   },
+   "vidas": [
+    {
+     "semilla": 20260916,
+     "slot": 10,
+     "tics": 12648,
+     "superviviente": false,
+     "causa": "anillo",
+     "viva_en_warn5": true,
+     "pasos_libres_5_7": 69,
+     "pasos_perdidos_5_7": 0,
+     "tics_5_7": 793,
+     "ardiendo_5_7": 350,
+     "tics_f5": 793,
+     "ardiendo_f5": 350,
+     "dentro_pct_f5": 0.0,
+     "golpes_anillo_5_7": 15,
+     "planes_f5": {
+      "aceptados": 0,
+      "sostenidos_fin_fase": 0
+     }
+    },
+    {
+     "semilla": 20260916,
+     "slot": 11,
+     "tics": 13632,
+     "superviviente": false,
+     "causa": "anillo",
+     "viva_en_warn5": true,
+     "pasos_libres_5_7": 136,
+     "pasos_perdidos_5_7": 0,
+     "tics_5_7": 1777,
+     "ardiendo_5_7": 384,
+     "tics_f5": 1140,
+     "ardiendo_f5": 316,
+     "dentro_pct_f5": 4.8,
+     "golpes_anillo_5_7": 16,
+     "planes_f5": {
+      "aceptados": 0,
+      "sostenidos_fin_fase": 0
+     }
+    },
+    {
+     "semilla": 20365645,
+     "slot": 10,
+     "tics": 10920,
+     "superviviente": false,
+     "causa": "anillo",
+     "viva_en_warn5": false,
+     "pasos_libres_5_7": 0,
+     "pasos_perdidos_5_7": 0
+    },
+    {
+     "semilla": 20365645,
+     "slot": 11,
+     "tics": 11544,
+     "superviviente": false,
+     "causa": "no consta",
+     "viva_en_warn5": false,
+     "pasos_libres_5_7": 0,
+     "pasos_perdidos_5_7": 0
+    },
+    {
+     "semilla": 20470374,
+     "slot": 10,
+     "tics": 13956,
+     "superviviente": true,
+     "causa": null,
+     "viva_en_warn5": true,
+     "pasos_libres_5_7": 99,
+     "pasos_perdidos_5_7": 0,
+     "tics_5_7": 2101,
+     "ardiendo_5_7": 167,
+     "tics_f5": 1140,
+     "ardiendo_f5": 0,
+     "dentro_pct_f5": 82.2,
+     "golpes_anillo_5_7": 6,
+     "planes_f5": {
+      "aceptados": 0,
+      "sostenidos_fin_fase": 0
+     }
+    },
+    {
+     "semilla": 20470374,
+     "slot": 11,
+     "tics": 13944,
+     "superviviente": false,
+     "causa": "rival",
+     "viva_en_warn5": true,
+     "pasos_libres_5_7": 99,
+     "pasos_perdidos_5_7": 0,
+     "tics_5_7": 2089,
+     "ardiendo_5_7": 132,
+     "tics_f5": 1140,
+     "ardiendo_f5": 0,
+     "dentro_pct_f5": 100.0,
+     "golpes_anillo_5_7": 5,
+     "planes_f5": {
+      "aceptados": 0,
+      "sostenidos_fin_fase": 0
+     }
+    },
+    {
+     "semilla": 20575103,
+     "slot": 10,
+     "tics": 12600,
+     "superviviente": false,
+     "causa": "anillo",
+     "viva_en_warn5": true,
+     "pasos_libres_5_7": 37,
+     "pasos_perdidos_5_7": 0,
+     "tics_5_7": 745,
+     "ardiendo_5_7": 331,
+     "tics_f5": 745,
+     "ardiendo_f5": 331,
+     "dentro_pct_f5": 4.8,
+     "golpes_anillo_5_7": 13,
+     "planes_f5": {
+      "aceptados": 0,
+      "sostenidos_fin_fase": 0
+     }
+    },
+    {
+     "semilla": 20575103,
+     "slot": 11,
+     "tics": 12816,
+     "superviviente": false,
+     "causa": "anillo",
+     "viva_en_warn5": true,
+     "pasos_libres_5_7": 87,
+     "pasos_perdidos_5_7": 0,
+     "tics_5_7": 961,
+     "ardiendo_5_7": 225,
+     "tics_f5": 961,
+     "ardiendo_f5": 225,
+     "dentro_pct_f5": 75.4,
+     "golpes_anillo_5_7": 9,
+     "planes_f5": {
+      "aceptados": 0,
+      "sostenidos_fin_fase": 0
+     }
+    },
+    {
+     "semilla": 20679832,
+     "slot": 10,
+     "tics": 12410,
+     "superviviente": false,
+     "causa": "rival",
+     "viva_en_warn5": true,
+     "pasos_libres_5_7": 50,
+     "pasos_perdidos_5_7": 0,
+     "tics_5_7": 555,
+     "ardiendo_5_7": 0,
+     "tics_f5": 555,
+     "ardiendo_f5": 0,
+     "dentro_pct_f5": 100.0,
+     "golpes_anillo_5_7": 0,
+     "planes_f5": {
+      "aceptados": 0,
+      "sostenidos_fin_fase": 0
+     }
+    },
+    {
+     "semilla": 20679832,
+     "slot": 11,
+     "tics": 12888,
+     "superviviente": false,
+     "causa": "anillo",
+     "viva_en_warn5": true,
+     "pasos_libres_5_7": 65,
+     "pasos_perdidos_5_7": 0,
+     "tics_5_7": 1033,
+     "ardiendo_5_7": 276,
+     "tics_f5": 1033,
+     "ardiendo_f5": 276,
+     "dentro_pct_f5": 6.4,
+     "golpes_anillo_5_7": 11,
+     "planes_f5": {
+      "aceptados": 0,
+      "sostenidos_fin_fase": 0
+     }
+    },
+    {
+     "semilla": 20784561,
+     "slot": 10,
+     "tics": 14688,
+     "superviviente": false,
+     "causa": "anillo",
+     "viva_en_warn5": true,
+     "pasos_libres_5_7": 241,
+     "pasos_perdidos_5_7": 0,
+     "tics_5_7": 2833,
+     "ardiendo_5_7": 192,
+     "tics_f5": 1140,
+     "ardiendo_f5": 125,
+     "dentro_pct_f5": 24.5,
+     "golpes_anillo_5_7": 7,
+     "planes_f5": {
+      "aceptados": 0,
+      "sostenidos_fin_fase": 0
+     }
+    },
+    {
+     "semilla": 20784561,
+     "slot": 11,
+     "tics": 12840,
+     "superviviente": false,
+     "causa": "anillo",
+     "viva_en_warn5": true,
+     "pasos_libres_5_7": 89,
+     "pasos_perdidos_5_7": 0,
+     "tics_5_7": 985,
+     "ardiendo_5_7": 205,
+     "tics_f5": 985,
+     "ardiendo_f5": 205,
+     "dentro_pct_f5": 10.3,
+     "golpes_anillo_5_7": 10,
+     "planes_f5": {
+      "aceptados": 0,
+      "sostenidos_fin_fase": 0
+     }
+    },
+    {
+     "semilla": 20889290,
+     "slot": 10,
+     "tics": 13008,
+     "superviviente": false,
+     "causa": "anillo",
+     "viva_en_warn5": true,
+     "pasos_libres_5_7": 58,
+     "pasos_perdidos_5_7": 0,
+     "tics_5_7": 1153,
+     "ardiendo_5_7": 279,
+     "tics_f5": 1140,
+     "ardiendo_f5": 266,
+     "dentro_pct_f5": 15.6,
+     "golpes_anillo_5_7": 12,
+     "planes_f5": {
+      "aceptados": 0,
+      "sostenidos_fin_fase": 0
+     }
+    },
+    {
+     "semilla": 20889290,
+     "slot": 11,
+     "tics": 14696,
+     "superviviente": true,
+     "causa": null,
+     "viva_en_warn5": true,
+     "pasos_libres_5_7": 256,
+     "pasos_perdidos_5_7": 0,
+     "tics_5_7": 2841,
+     "ardiendo_5_7": 238,
+     "tics_f5": 1140,
+     "ardiendo_f5": 238,
+     "dentro_pct_f5": 38.1,
+     "golpes_anillo_5_7": 6,
+     "planes_f5": {
+      "aceptados": 0,
+      "sostenidos_fin_fase": 0
+     }
+    },
+    {
+     "semilla": 20994019,
+     "slot": 10,
+     "tics": 14833,
+     "superviviente": true,
+     "causa": null,
+     "viva_en_warn5": true,
+     "pasos_libres_5_7": 154,
+     "pasos_perdidos_5_7": 0,
+     "tics_5_7": 2978,
+     "ardiendo_5_7": 64,
+     "tics_f5": 1140,
+     "ardiendo_f5": 0,
+     "dentro_pct_f5": 70.1,
+     "golpes_anillo_5_7": 4,
+     "planes_f5": {
+      "aceptados": 0,
+      "sostenidos_fin_fase": 0
+     }
+    },
+    {
+     "semilla": 20994019,
+     "slot": 11,
+     "tics": 14833,
+     "superviviente": true,
+     "causa": null,
+     "viva_en_warn5": true,
+     "pasos_libres_5_7": 153,
+     "pasos_perdidos_5_7": 0,
+     "tics_5_7": 2978,
+     "ardiendo_5_7": 130,
+     "tics_f5": 1140,
+     "ardiendo_f5": 0,
+     "dentro_pct_f5": 64.9,
+     "golpes_anillo_5_7": 4,
+     "planes_f5": {
+      "aceptados": 0,
+      "sostenidos_fin_fase": 0
+     }
+    },
+    {
+     "semilla": 21098748,
+     "slot": 10,
+     "tics": 14143,
+     "superviviente": false,
+     "causa": "anillo",
+     "viva_en_warn5": true,
+     "pasos_libres_5_7": 132,
+     "pasos_perdidos_5_7": 0,
+     "tics_5_7": 2288,
+     "ardiendo_5_7": 239,
+     "tics_f5": 1140,
+     "ardiendo_f5": 196,
+     "dentro_pct_f5": 14.4,
+     "golpes_anillo_5_7": 9,
+     "planes_f5": {
+      "aceptados": 0,
+      "sostenidos_fin_fase": 0
+     }
+    },
+    {
+     "semilla": 21098748,
+     "slot": 11,
+     "tics": 13008,
+     "superviviente": false,
+     "causa": "anillo",
+     "viva_en_warn5": true,
+     "pasos_libres_5_7": 103,
+     "pasos_perdidos_5_7": 0,
+     "tics_5_7": 1153,
+     "ardiendo_5_7": 395,
+     "tics_f5": 1140,
+     "ardiendo_f5": 382,
+     "dentro_pct_f5": 1.9,
+     "golpes_anillo_5_7": 15,
+     "planes_f5": {
+      "aceptados": 0,
+      "sostenidos_fin_fase": 0
+     }
+    },
+    {
+     "semilla": 21203477,
+     "slot": 10,
+     "tics": 14328,
+     "superviviente": false,
+     "causa": "anillo",
+     "viva_en_warn5": true,
+     "pasos_libres_5_7": 207,
+     "pasos_perdidos_5_7": 0,
+     "tics_5_7": 2473,
+     "ardiendo_5_7": 111,
+     "tics_f5": 1140,
+     "ardiendo_f5": 11,
+     "dentro_pct_f5": 93.0,
+     "golpes_anillo_5_7": 4,
+     "planes_f5": {
+      "aceptados": 0,
+      "sostenidos_fin_fase": 0
+     }
+    },
+    {
+     "semilla": 21203477,
+     "slot": 11,
+     "tics": 12024,
+     "superviviente": false,
+     "causa": "anillo",
+     "viva_en_warn5": true,
+     "pasos_libres_5_7": 14,
+     "pasos_perdidos_5_7": 0,
+     "tics_5_7": 169,
+     "ardiendo_5_7": 57,
+     "tics_f5": 169,
+     "ardiendo_f5": 57,
+     "dentro_pct_f5": 6.5,
+     "golpes_anillo_5_7": 3,
+     "planes_f5": {
+      "aceptados": 0,
+      "sostenidos_fin_fase": 0
+     }
+    },
+    {
+     "semilla": 21308206,
+     "slot": 10,
+     "tics": 13056,
+     "superviviente": false,
+     "causa": "anillo",
+     "viva_en_warn5": true,
+     "pasos_libres_5_7": 105,
+     "pasos_perdidos_5_7": 0,
+     "tics_5_7": 1201,
+     "ardiendo_5_7": 355,
+     "tics_f5": 1140,
+     "ardiendo_f5": 294,
+     "dentro_pct_f5": 16.4,
+     "golpes_anillo_5_7": 14,
+     "planes_f5": {
+      "aceptados": 0,
+      "sostenidos_fin_fase": 0
+     }
+    },
+    {
+     "semilla": 21308206,
+     "slot": 11,
+     "tics": 14702,
+     "superviviente": true,
+     "causa": null,
+     "viva_en_warn5": true,
+     "pasos_libres_5_7": 195,
+     "pasos_perdidos_5_7": 0,
+     "tics_5_7": 2847,
+     "ardiendo_5_7": 178,
+     "tics_f5": 1140,
+     "ardiendo_f5": 178,
+     "dentro_pct_f5": 20.9,
+     "golpes_anillo_5_7": 7,
+     "planes_f5": {
+      "aceptados": 0,
+      "sostenidos_fin_fase": 0
+     }
+    },
+    {
+     "semilla": 21412935,
+     "slot": 10,
+     "tics": 14136,
+     "superviviente": true,
+     "causa": null,
+     "viva_en_warn5": true,
+     "pasos_libres_5_7": 121,
+     "pasos_perdidos_5_7": 0,
+     "tics_5_7": 2281,
+     "ardiendo_5_7": 57,
+     "tics_f5": 1140,
+     "ardiendo_f5": 22,
+     "dentro_pct_f5": 46.0,
+     "golpes_anillo_5_7": 3,
+     "planes_f5": {
+      "aceptados": 0,
+      "sostenidos_fin_fase": 0
+     }
+    },
+    {
+     "semilla": 21412935,
+     "slot": 11,
+     "tics": 14136,
+     "superviviente": true,
+     "causa": null,
+     "viva_en_warn5": true,
+     "pasos_libres_5_7": 161,
+     "pasos_perdidos_5_7": 0,
+     "tics_5_7": 2281,
+     "ardiendo_5_7": 117,
+     "tics_f5": 1140,
+     "ardiendo_f5": 0,
+     "dentro_pct_f5": 41.7,
+     "golpes_anillo_5_7": 7,
+     "planes_f5": {
+      "aceptados": 0,
+      "sostenidos_fin_fase": 0
+     }
+    },
+    {
+     "semilla": 21517664,
+     "slot": 10,
+     "tics": 14952,
+     "superviviente": true,
+     "causa": null,
+     "viva_en_warn5": true,
+     "pasos_libres_5_7": 178,
+     "pasos_perdidos_5_7": 0,
+     "tics_5_7": 3097,
+     "ardiendo_5_7": 297,
+     "tics_f5": 1140,
+     "ardiendo_f5": 226,
+     "dentro_pct_f5": 36.9,
+     "golpes_anillo_5_7": 11,
+     "planes_f5": {
+      "aceptados": 0,
+      "sostenidos_fin_fase": 0
+     }
+    },
+    {
+     "semilla": 21517664,
+     "slot": 11,
+     "tics": 14952,
+     "superviviente": true,
+     "causa": null,
+     "viva_en_warn5": true,
+     "pasos_libres_5_7": 255,
+     "pasos_perdidos_5_7": 0,
+     "tics_5_7": 3097,
+     "ardiendo_5_7": 303,
+     "tics_f5": 1140,
+     "ardiendo_f5": 205,
+     "dentro_pct_f5": 42.3,
+     "golpes_anillo_5_7": 10,
+     "planes_f5": {
+      "aceptados": 0,
+      "sostenidos_fin_fase": 0
+     }
+    },
+    {
+     "semilla": 21622393,
+     "slot": 10,
+     "tics": 2290,
+     "superviviente": false,
+     "causa": "rival",
+     "viva_en_warn5": false,
+     "pasos_libres_5_7": 0,
+     "pasos_perdidos_5_7": 0
+    },
+    {
+     "semilla": 21622393,
+     "slot": 11,
+     "tics": 1900,
+     "superviviente": false,
+     "causa": "rival",
+     "viva_en_warn5": false,
+     "pasos_libres_5_7": 0,
+     "pasos_perdidos_5_7": 0
+    },
+    {
+     "semilla": 21727122,
+     "slot": 10,
+     "tics": 12744,
+     "superviviente": false,
+     "causa": "anillo",
+     "viva_en_warn5": true,
+     "pasos_libres_5_7": 79,
+     "pasos_perdidos_5_7": 0,
+     "tics_5_7": 889,
+     "ardiendo_5_7": 365,
+     "tics_f5": 889,
+     "ardiendo_f5": 365,
+     "dentro_pct_f5": 0.0,
+     "golpes_anillo_5_7": 15,
+     "planes_f5": {
+      "aceptados": 0,
+      "sostenidos_fin_fase": 0
+     }
+    },
+    {
+     "semilla": 21727122,
+     "slot": 11,
+     "tics": 12672,
+     "superviviente": false,
+     "causa": "anillo",
+     "viva_en_warn5": true,
+     "pasos_libres_5_7": 75,
+     "pasos_perdidos_5_7": 0,
+     "tics_5_7": 817,
+     "ardiendo_5_7": 361,
+     "tics_f5": 817,
+     "ardiendo_f5": 361,
+     "dentro_pct_f5": 0.0,
+     "golpes_anillo_5_7": 14,
+     "planes_f5": {
+      "aceptados": 0,
+      "sostenidos_fin_fase": 0
+     }
+    },
+    {
+     "semilla": 21831851,
+     "slot": 10,
+     "tics": 12960,
+     "superviviente": false,
+     "causa": "anillo",
+     "viva_en_warn5": true,
+     "pasos_libres_5_7": 84,
+     "pasos_perdidos_5_7": 0,
+     "tics_5_7": 1105,
+     "ardiendo_5_7": 279,
+     "tics_f5": 1105,
+     "ardiendo_f5": 279,
+     "dentro_pct_f5": 35.9,
+     "golpes_anillo_5_7": 13,
+     "planes_f5": {
+      "aceptados": 0,
+      "sostenidos_fin_fase": 0
+     }
+    },
+    {
+     "semilla": 21831851,
+     "slot": 11,
+     "tics": 12840,
+     "superviviente": false,
+     "causa": "anillo",
+     "viva_en_warn5": true,
+     "pasos_libres_5_7": 78,
+     "pasos_perdidos_5_7": 0,
+     "tics_5_7": 985,
+     "ardiendo_5_7": 238,
+     "tics_f5": 985,
+     "ardiendo_f5": 238,
+     "dentro_pct_f5": 22.3,
+     "golpes_anillo_5_7": 9,
+     "planes_f5": {
+      "aceptados": 0,
+      "sostenidos_fin_fase": 0
+     }
+    },
+    {
+     "semilla": 21936580,
+     "slot": 10,
+     "tics": 12888,
+     "superviviente": false,
+     "causa": "anillo",
+     "viva_en_warn5": true,
+     "pasos_libres_5_7": 37,
+     "pasos_perdidos_5_7": 0,
+     "tics_5_7": 1033,
+     "ardiendo_5_7": 393,
+     "tics_f5": 1033,
+     "ardiendo_f5": 393,
+     "dentro_pct_f5": 0.0,
+     "golpes_anillo_5_7": 15,
+     "planes_f5": {
+      "aceptados": 0,
+      "sostenidos_fin_fase": 0
+     }
+    },
+    {
+     "semilla": 21936580,
+     "slot": 11,
+     "tics": 13968,
+     "superviviente": false,
+     "causa": "anillo",
+     "viva_en_warn5": true,
+     "pasos_libres_5_7": 192,
+     "pasos_perdidos_5_7": 0,
+     "tics_5_7": 2113,
+     "ardiendo_5_7": 248,
+     "tics_f5": 1140,
+     "ardiendo_f5": 154,
+     "dentro_pct_f5": 53.5,
+     "golpes_anillo_5_7": 6,
+     "planes_f5": {
+      "aceptados": 0,
+      "sostenidos_fin_fase": 0
+     }
+    },
+    {
+     "semilla": 22041309,
+     "slot": 10,
+     "tics": 14679,
+     "superviviente": true,
+     "causa": null,
+     "viva_en_warn5": true,
+     "pasos_libres_5_7": 202,
+     "pasos_perdidos_5_7": 0,
+     "tics_5_7": 2824,
+     "ardiendo_5_7": 206,
+     "tics_f5": 1140,
+     "ardiendo_f5": 192,
+     "dentro_pct_f5": 19.6,
+     "golpes_anillo_5_7": 3,
+     "planes_f5": {
+      "aceptados": 0,
+      "sostenidos_fin_fase": 0
+     }
+    },
+    {
+     "semilla": 22041309,
+     "slot": 11,
+     "tics": 12720,
+     "superviviente": false,
+     "causa": "anillo",
+     "viva_en_warn5": true,
+     "pasos_libres_5_7": 78,
+     "pasos_perdidos_5_7": 0,
+     "tics_5_7": 865,
+     "ardiendo_5_7": 430,
+     "tics_f5": 865,
+     "ardiendo_f5": 430,
+     "dentro_pct_f5": 0.0,
+     "golpes_anillo_5_7": 19,
+     "planes_f5": {
+      "aceptados": 0,
+      "sostenidos_fin_fase": 0
+     }
+    },
+    {
+     "semilla": 22146038,
+     "slot": 10,
+     "tics": 11615,
+     "superviviente": false,
+     "causa": "rival",
+     "viva_en_warn5": false,
+     "pasos_libres_5_7": 0,
+     "pasos_perdidos_5_7": 0
+    },
+    {
+     "semilla": 22146038,
+     "slot": 11,
+     "tics": 13061,
+     "superviviente": true,
+     "causa": null,
+     "viva_en_warn5": true,
+     "pasos_libres_5_7": 110,
+     "pasos_perdidos_5_7": 0,
+     "tics_5_7": 1206,
+     "ardiendo_5_7": 176,
+     "tics_f5": 1140,
+     "ardiendo_f5": 168,
+     "dentro_pct_f5": 52.1,
+     "golpes_anillo_5_7": 8,
+     "planes_f5": {
+      "aceptados": 0,
+      "sostenidos_fin_fase": 0
+     }
+    },
+    {
+     "semilla": 22250767,
+     "slot": 10,
+     "tics": 14628,
+     "superviviente": false,
+     "causa": "rival",
+     "viva_en_warn5": true,
+     "pasos_libres_5_7": 146,
+     "pasos_perdidos_5_7": 0,
+     "tics_5_7": 2773,
+     "ardiendo_5_7": 11,
+     "tics_f5": 1140,
+     "ardiendo_f5": 11,
+     "dentro_pct_f5": 45.3,
+     "golpes_anillo_5_7": 1,
+     "planes_f5": {
+      "aceptados": 0,
+      "sostenidos_fin_fase": 0
+     }
+    },
+    {
+     "semilla": 22250767,
+     "slot": 11,
+     "tics": 12912,
+     "superviviente": false,
+     "causa": "anillo",
+     "viva_en_warn5": true,
+     "pasos_libres_5_7": 64,
+     "pasos_perdidos_5_7": 0,
+     "tics_5_7": 1057,
+     "ardiendo_5_7": 366,
+     "tics_f5": 1057,
+     "ardiendo_f5": 366,
+     "dentro_pct_f5": 0.0,
+     "golpes_anillo_5_7": 14,
+     "planes_f5": {
+      "aceptados": 0,
+      "sostenidos_fin_fase": 0
+     }
+    }
+   ],
+   "por_semilla": {
+    "20260916": {
+     "semilla": 20260916,
+     "carpeta": "P611_t1_A4_20260916",
+     "vivas_en_warn": 2,
+     "ardiendo_5_7": [
+      350,
+      384
+     ],
+     "ardiendo_f5": [
+      350,
+      316
+     ],
+     "dentro_pct_f5": [
+      0.0,
+      4.8
+     ],
+     "sostenidos": 0,
+     "aceptados_fase": 0,
+     "supervivientes": 0,
+     "anillo": 2,
+     "rival": 0,
+     "perdidos_5_7": 0,
+     "libres_5_7": 205,
+     "ardiendo_5_7_media": 367,
+     "ardiendo_f5_media": 333,
+     "dentro_pct_f5_media": 2.4
+    },
+    "20365645": {
+     "semilla": 20365645,
+     "carpeta": "P611_t1_A4_20365645",
+     "vivas_en_warn": 0,
+     "ardiendo_5_7": [],
+     "ardiendo_f5": [],
+     "dentro_pct_f5": [],
+     "sostenidos": 0,
+     "aceptados_fase": 0,
+     "supervivientes": 0,
+     "anillo": 1,
+     "rival": 0,
+     "perdidos_5_7": 0,
+     "libres_5_7": 0,
+     "ardiendo_5_7_media": null,
+     "ardiendo_f5_media": null,
+     "dentro_pct_f5_media": null
+    },
+    "20470374": {
+     "semilla": 20470374,
+     "carpeta": "P611_t1_A4_20470374",
+     "vivas_en_warn": 2,
+     "ardiendo_5_7": [
+      167,
+      132
+     ],
+     "ardiendo_f5": [
+      0,
+      0
+     ],
+     "dentro_pct_f5": [
+      82.2,
+      100.0
+     ],
+     "sostenidos": 0,
+     "aceptados_fase": 0,
+     "supervivientes": 1,
+     "anillo": 0,
+     "rival": 1,
+     "perdidos_5_7": 0,
+     "libres_5_7": 198,
+     "ardiendo_5_7_media": 149.5,
+     "ardiendo_f5_media": 0,
+     "dentro_pct_f5_media": 91.1
+    },
+    "20575103": {
+     "semilla": 20575103,
+     "carpeta": "P611_t1_A4_20575103",
+     "vivas_en_warn": 2,
+     "ardiendo_5_7": [
+      331,
+      225
+     ],
+     "ardiendo_f5": [
+      331,
+      225
+     ],
+     "dentro_pct_f5": [
+      4.8,
+      75.4
+     ],
+     "sostenidos": 0,
+     "aceptados_fase": 0,
+     "supervivientes": 0,
+     "anillo": 2,
+     "rival": 0,
+     "perdidos_5_7": 0,
+     "libres_5_7": 124,
+     "ardiendo_5_7_media": 278,
+     "ardiendo_f5_media": 278,
+     "dentro_pct_f5_media": 40.1
+    },
+    "20679832": {
+     "semilla": 20679832,
+     "carpeta": "P611_t1_A4_20679832",
+     "vivas_en_warn": 2,
+     "ardiendo_5_7": [
+      0,
+      276
+     ],
+     "ardiendo_f5": [
+      0,
+      276
+     ],
+     "dentro_pct_f5": [
+      100.0,
+      6.4
+     ],
+     "sostenidos": 0,
+     "aceptados_fase": 0,
+     "supervivientes": 0,
+     "anillo": 1,
+     "rival": 1,
+     "perdidos_5_7": 0,
+     "libres_5_7": 115,
+     "ardiendo_5_7_media": 138,
+     "ardiendo_f5_media": 138,
+     "dentro_pct_f5_media": 53.2
+    },
+    "20784561": {
+     "semilla": 20784561,
+     "carpeta": "P611_t1_A4_20784561",
+     "vivas_en_warn": 2,
+     "ardiendo_5_7": [
+      192,
+      205
+     ],
+     "ardiendo_f5": [
+      125,
+      205
+     ],
+     "dentro_pct_f5": [
+      24.5,
+      10.3
+     ],
+     "sostenidos": 0,
+     "aceptados_fase": 0,
+     "supervivientes": 0,
+     "anillo": 2,
+     "rival": 0,
+     "perdidos_5_7": 0,
+     "libres_5_7": 330,
+     "ardiendo_5_7_media": 198.5,
+     "ardiendo_f5_media": 165,
+     "dentro_pct_f5_media": 17.4
+    },
+    "20889290": {
+     "semilla": 20889290,
+     "carpeta": "P611_t1_A4_20889290",
+     "vivas_en_warn": 2,
+     "ardiendo_5_7": [
+      279,
+      238
+     ],
+     "ardiendo_f5": [
+      266,
+      238
+     ],
+     "dentro_pct_f5": [
+      15.6,
+      38.1
+     ],
+     "sostenidos": 0,
+     "aceptados_fase": 0,
+     "supervivientes": 1,
+     "anillo": 1,
+     "rival": 0,
+     "perdidos_5_7": 0,
+     "libres_5_7": 314,
+     "ardiendo_5_7_media": 258.5,
+     "ardiendo_f5_media": 252,
+     "dentro_pct_f5_media": 26.85
+    },
+    "20994019": {
+     "semilla": 20994019,
+     "carpeta": "P611_t1_A4_20994019",
+     "vivas_en_warn": 2,
+     "ardiendo_5_7": [
+      64,
+      130
+     ],
+     "ardiendo_f5": [
+      0,
+      0
+     ],
+     "dentro_pct_f5": [
+      70.1,
+      64.9
+     ],
+     "sostenidos": 0,
+     "aceptados_fase": 0,
+     "supervivientes": 2,
+     "anillo": 0,
+     "rival": 0,
+     "perdidos_5_7": 0,
+     "libres_5_7": 307,
+     "ardiendo_5_7_media": 97,
+     "ardiendo_f5_media": 0,
+     "dentro_pct_f5_media": 67.5
+    },
+    "21098748": {
+     "semilla": 21098748,
+     "carpeta": "P611_t1_A4_21098748",
+     "vivas_en_warn": 2,
+     "ardiendo_5_7": [
+      239,
+      395
+     ],
+     "ardiendo_f5": [
+      196,
+      382
+     ],
+     "dentro_pct_f5": [
+      14.4,
+      1.9
+     ],
+     "sostenidos": 0,
+     "aceptados_fase": 0,
+     "supervivientes": 0,
+     "anillo": 2,
+     "rival": 0,
+     "perdidos_5_7": 0,
+     "libres_5_7": 235,
+     "ardiendo_5_7_media": 317,
+     "ardiendo_f5_media": 289,
+     "dentro_pct_f5_media": 8.15
+    },
+    "21203477": {
+     "semilla": 21203477,
+     "carpeta": "P611_t1_A4_21203477",
+     "vivas_en_warn": 2,
+     "ardiendo_5_7": [
+      111,
+      57
+     ],
+     "ardiendo_f5": [
+      11,
+      57
+     ],
+     "dentro_pct_f5": [
+      93.0,
+      6.5
+     ],
+     "sostenidos": 0,
+     "aceptados_fase": 0,
+     "supervivientes": 0,
+     "anillo": 2,
+     "rival": 0,
+     "perdidos_5_7": 0,
+     "libres_5_7": 221,
+     "ardiendo_5_7_media": 84,
+     "ardiendo_f5_media": 34,
+     "dentro_pct_f5_media": 49.75
+    },
+    "21308206": {
+     "semilla": 21308206,
+     "carpeta": "P611_t2_A4_21308206",
+     "vivas_en_warn": 2,
+     "ardiendo_5_7": [
+      355,
+      178
+     ],
+     "ardiendo_f5": [
+      294,
+      178
+     ],
+     "dentro_pct_f5": [
+      16.4,
+      20.9
+     ],
+     "sostenidos": 0,
+     "aceptados_fase": 0,
+     "supervivientes": 1,
+     "anillo": 1,
+     "rival": 0,
+     "perdidos_5_7": 0,
+     "libres_5_7": 300,
+     "ardiendo_5_7_media": 266.5,
+     "ardiendo_f5_media": 236,
+     "dentro_pct_f5_media": 18.65
+    },
+    "21412935": {
+     "semilla": 21412935,
+     "carpeta": "P611_t2_A4_21412935",
+     "vivas_en_warn": 2,
+     "ardiendo_5_7": [
+      57,
+      117
+     ],
+     "ardiendo_f5": [
+      22,
+      0
+     ],
+     "dentro_pct_f5": [
+      46.0,
+      41.7
+     ],
+     "sostenidos": 0,
+     "aceptados_fase": 0,
+     "supervivientes": 2,
+     "anillo": 0,
+     "rival": 0,
+     "perdidos_5_7": 0,
+     "libres_5_7": 282,
+     "ardiendo_5_7_media": 87,
+     "ardiendo_f5_media": 11,
+     "dentro_pct_f5_media": 43.85
+    },
+    "21517664": {
+     "semilla": 21517664,
+     "carpeta": "P611_t2_A4_21517664",
+     "vivas_en_warn": 2,
+     "ardiendo_5_7": [
+      297,
+      303
+     ],
+     "ardiendo_f5": [
+      226,
+      205
+     ],
+     "dentro_pct_f5": [
+      36.9,
+      42.3
+     ],
+     "sostenidos": 0,
+     "aceptados_fase": 0,
+     "supervivientes": 2,
+     "anillo": 0,
+     "rival": 0,
+     "perdidos_5_7": 0,
+     "libres_5_7": 433,
+     "ardiendo_5_7_media": 300,
+     "ardiendo_f5_media": 215.5,
+     "dentro_pct_f5_media": 39.6
+    },
+    "21622393": {
+     "semilla": 21622393,
+     "carpeta": "P611_t2_A4_21622393",
+     "vivas_en_warn": 0,
+     "ardiendo_5_7": [],
+     "ardiendo_f5": [],
+     "dentro_pct_f5": [],
+     "sostenidos": 0,
+     "aceptados_fase": 0,
+     "supervivientes": 0,
+     "anillo": 0,
+     "rival": 2,
+     "perdidos_5_7": 0,
+     "libres_5_7": 0,
+     "ardiendo_5_7_media": null,
+     "ardiendo_f5_media": null,
+     "dentro_pct_f5_media": null
+    },
+    "21727122": {
+     "semilla": 21727122,
+     "carpeta": "P611_t2_A4_21727122",
+     "vivas_en_warn": 2,
+     "ardiendo_5_7": [
+      365,
+      361
+     ],
+     "ardiendo_f5": [
+      365,
+      361
+     ],
+     "dentro_pct_f5": [
+      0.0,
+      0.0
+     ],
+     "sostenidos": 0,
+     "aceptados_fase": 0,
+     "supervivientes": 0,
+     "anillo": 2,
+     "rival": 0,
+     "perdidos_5_7": 0,
+     "libres_5_7": 154,
+     "ardiendo_5_7_media": 363,
+     "ardiendo_f5_media": 363,
+     "dentro_pct_f5_media": 0.0
+    },
+    "21831851": {
+     "semilla": 21831851,
+     "carpeta": "P611_t2_A4_21831851",
+     "vivas_en_warn": 2,
+     "ardiendo_5_7": [
+      279,
+      238
+     ],
+     "ardiendo_f5": [
+      279,
+      238
+     ],
+     "dentro_pct_f5": [
+      35.9,
+      22.3
+     ],
+     "sostenidos": 0,
+     "aceptados_fase": 0,
+     "supervivientes": 0,
+     "anillo": 2,
+     "rival": 0,
+     "perdidos_5_7": 0,
+     "libres_5_7": 162,
+     "ardiendo_5_7_media": 258.5,
+     "ardiendo_f5_media": 258.5,
+     "dentro_pct_f5_media": 29.1
+    },
+    "21936580": {
+     "semilla": 21936580,
+     "carpeta": "P611_t2_A4_21936580",
+     "vivas_en_warn": 2,
+     "ardiendo_5_7": [
+      393,
+      248
+     ],
+     "ardiendo_f5": [
+      393,
+      154
+     ],
+     "dentro_pct_f5": [
+      0.0,
+      53.5
+     ],
+     "sostenidos": 0,
+     "aceptados_fase": 0,
+     "supervivientes": 0,
+     "anillo": 2,
+     "rival": 0,
+     "perdidos_5_7": 0,
+     "libres_5_7": 229,
+     "ardiendo_5_7_media": 320.5,
+     "ardiendo_f5_media": 273.5,
+     "dentro_pct_f5_media": 26.75
+    },
+    "22041309": {
+     "semilla": 22041309,
+     "carpeta": "P611_t2_A4_22041309",
+     "vivas_en_warn": 2,
+     "ardiendo_5_7": [
+      206,
+      430
+     ],
+     "ardiendo_f5": [
+      192,
+      430
+     ],
+     "dentro_pct_f5": [
+      19.6,
+      0.0
+     ],
+     "sostenidos": 0,
+     "aceptados_fase": 0,
+     "supervivientes": 1,
+     "anillo": 1,
+     "rival": 0,
+     "perdidos_5_7": 0,
+     "libres_5_7": 280,
+     "ardiendo_5_7_media": 318,
+     "ardiendo_f5_media": 311,
+     "dentro_pct_f5_media": 9.8
+    },
+    "22146038": {
+     "semilla": 22146038,
+     "carpeta": "P611_t2_A4_22146038",
+     "vivas_en_warn": 1,
+     "ardiendo_5_7": [
+      176
+     ],
+     "ardiendo_f5": [
+      168
+     ],
+     "dentro_pct_f5": [
+      52.1
+     ],
+     "sostenidos": 0,
+     "aceptados_fase": 0,
+     "supervivientes": 1,
+     "anillo": 0,
+     "rival": 1,
+     "perdidos_5_7": 0,
+     "libres_5_7": 110,
+     "ardiendo_5_7_media": 176,
+     "ardiendo_f5_media": 168,
+     "dentro_pct_f5_media": 52.1
+    },
+    "22250767": {
+     "semilla": 22250767,
+     "carpeta": "P611_t2_A4_22250767",
+     "vivas_en_warn": 2,
+     "ardiendo_5_7": [
+      11,
+      366
+     ],
+     "ardiendo_f5": [
+      11,
+      366
+     ],
+     "dentro_pct_f5": [
+      45.3,
+      0.0
+     ],
+     "sostenidos": 0,
+     "aceptados_fase": 0,
+     "supervivientes": 0,
+     "anillo": 1,
+     "rival": 1,
+     "perdidos_5_7": 0,
+     "libres_5_7": 210,
+     "ardiendo_5_7_media": 188.5,
+     "ardiendo_f5_media": 188.5,
+     "dentro_pct_f5_media": 22.65
+    }
+   }
+  },
+  "A7h": {
+   "resumen": {
+    "partidas": 20,
+    "vidas": 40,
+    "vivas_en_warn5": 39,
+    "ardiendo_5_7_media": 179.7,
+    "ardiendo_5_7_mediana": 177,
+    "vidas_0_ardiendo_5_7": 3,
+    "ardiendo_f5_media": 115.5,
+    "dentro_pct_f5_media": 42.4,
+    "planes_aceptados_f5": 58,
+    "planes_sostenidos_f5": 6,
+    "pasos_libres_5_7": 5530,
+    "pasos_perdidos_5_7": 20,
+    "muertes_anillo": 14,
+    "muertes_rival": 12,
+    "supervivientes": 13,
+    "pct_pasos_perdidos_5_7": 0.36
+   },
+   "vidas": [
+    {
+     "semilla": 20260916,
+     "slot": 10,
+     "tics": 15000,
+     "superviviente": true,
+     "causa": null,
+     "viva_en_warn5": true,
+     "pasos_libres_5_7": 253,
+     "pasos_perdidos_5_7": 0,
+     "tics_5_7": 3145,
+     "ardiendo_5_7": 33,
+     "tics_f5": 1140,
+     "ardiendo_f5": 28,
+     "dentro_pct_f5": 42.9,
+     "golpes_anillo_5_7": 4,
+     "planes_f5": {
+      "aceptados": 1,
+      "sostenidos_fin_fase": 0
+     }
+    },
+    {
+     "semilla": 20260916,
+     "slot": 11,
+     "tics": 15000,
+     "superviviente": true,
+     "causa": null,
+     "viva_en_warn5": true,
+     "pasos_libres_5_7": 199,
+     "pasos_perdidos_5_7": 0,
+     "tics_5_7": 3145,
+     "ardiendo_5_7": 55,
+     "tics_f5": 1140,
+     "ardiendo_f5": 44,
+     "dentro_pct_f5": 41.1,
+     "golpes_anillo_5_7": 6,
+     "planes_f5": {
+      "aceptados": 2,
+      "sostenidos_fin_fase": 0
+     }
+    },
+    {
+     "semilla": 20365645,
+     "slot": 10,
+     "tics": 14112,
+     "superviviente": false,
+     "causa": "anillo",
+     "viva_en_warn5": true,
+     "pasos_libres_5_7": 181,
+     "pasos_perdidos_5_7": 0,
+     "tics_5_7": 2257,
+     "ardiendo_5_7": 307,
+     "tics_f5": 1140,
+     "ardiendo_f5": 27,
+     "dentro_pct_f5": 94.7,
+     "golpes_anillo_5_7": 12,
+     "planes_f5": {
+      "aceptados": 1,
+      "sostenidos_fin_fase": 0
+     }
+    },
+    {
+     "semilla": 20365645,
+     "slot": 11,
+     "tics": 12912,
+     "superviviente": false,
+     "causa": "anillo",
+     "viva_en_warn5": true,
+     "pasos_libres_5_7": 85,
+     "pasos_perdidos_5_7": 7,
+     "tics_5_7": 1057,
+     "ardiendo_5_7": 299,
+     "tics_f5": 1057,
+     "ardiendo_f5": 299,
+     "dentro_pct_f5": 67.2,
+     "golpes_anillo_5_7": 12,
+     "planes_f5": {
+      "aceptados": 2,
+      "sostenidos_fin_fase": 0
+     }
+    },
+    {
+     "semilla": 20470374,
+     "slot": 10,
+     "tics": 14243,
+     "superviviente": false,
+     "causa": "rival",
+     "viva_en_warn5": true,
+     "pasos_libres_5_7": 201,
+     "pasos_perdidos_5_7": 5,
+     "tics_5_7": 2388,
+     "ardiendo_5_7": 420,
+     "tics_f5": 1140,
+     "ardiendo_f5": 185,
+     "dentro_pct_f5": 16.5,
+     "golpes_anillo_5_7": 16,
+     "planes_f5": {
+      "aceptados": 1,
+      "sostenidos_fin_fase": 0
+     }
+    },
+    {
+     "semilla": 20470374,
+     "slot": 11,
+     "tics": 14400,
+     "superviviente": false,
+     "causa": "anillo",
+     "viva_en_warn5": true,
+     "pasos_libres_5_7": 149,
+     "pasos_perdidos_5_7": 0,
+     "tics_5_7": 2545,
+     "ardiendo_5_7": 195,
+     "tics_f5": 1140,
+     "ardiendo_f5": 88,
+     "dentro_pct_f5": 34.0,
+     "golpes_anillo_5_7": 7,
+     "planes_f5": {
+      "aceptados": 2,
+      "sostenidos_fin_fase": 1
+     }
+    },
+    {
+     "semilla": 20575103,
+     "slot": 10,
+     "tics": 14976,
+     "superviviente": false,
+     "causa": "anillo",
+     "viva_en_warn5": true,
+     "pasos_libres_5_7": 202,
+     "pasos_perdidos_5_7": 0,
+     "tics_5_7": 3121,
+     "ardiendo_5_7": 44,
+     "tics_f5": 1140,
+     "ardiendo_f5": 0,
+     "dentro_pct_f5": 100.0,
+     "golpes_anillo_5_7": 4,
+     "planes_f5": {
+      "aceptados": 0,
+      "sostenidos_fin_fase": 0
+     }
+    },
+    {
+     "semilla": 20575103,
+     "slot": 11,
+     "tics": 15024,
+     "superviviente": true,
+     "causa": null,
+     "viva_en_warn5": true,
+     "pasos_libres_5_7": 280,
+     "pasos_perdidos_5_7": 0,
+     "tics_5_7": 3169,
+     "ardiendo_5_7": 132,
+     "tics_f5": 1140,
+     "ardiendo_f5": 0,
+     "dentro_pct_f5": 100.0,
+     "golpes_anillo_5_7": 10,
+     "planes_f5": {
+      "aceptados": 0,
+      "sostenidos_fin_fase": 0
+     }
+    },
+    {
+     "semilla": 20679832,
+     "slot": 10,
+     "tics": 14091,
+     "superviviente": false,
+     "causa": "rival",
+     "viva_en_warn5": true,
+     "pasos_libres_5_7": 151,
+     "pasos_perdidos_5_7": 0,
+     "tics_5_7": 2236,
+     "ardiendo_5_7": 190,
+     "tics_f5": 1140,
+     "ardiendo_f5": 21,
+     "dentro_pct_f5": 40.4,
+     "golpes_anillo_5_7": 7,
+     "planes_f5": {
+      "aceptados": 0,
+      "sostenidos_fin_fase": 0
+     }
+    },
+    {
+     "semilla": 20679832,
+     "slot": 11,
+     "tics": 14611,
+     "superviviente": false,
+     "causa": "rival",
+     "viva_en_warn5": true,
+     "pasos_libres_5_7": 186,
+     "pasos_perdidos_5_7": 2,
+     "tics_5_7": 2756,
+     "ardiendo_5_7": 0,
+     "tics_f5": 1140,
+     "ardiendo_f5": 0,
+     "dentro_pct_f5": 51.8,
+     "golpes_anillo_5_7": 0,
+     "planes_f5": {
+      "aceptados": 0,
+      "sostenidos_fin_fase": 0
+     }
+    },
+    {
+     "semilla": 20784561,
+     "slot": 10,
+     "tics": 14760,
+     "superviviente": false,
+     "causa": "rival",
+     "viva_en_warn5": true,
+     "pasos_libres_5_7": 185,
+     "pasos_perdidos_5_7": 1,
+     "tics_5_7": 2905,
+     "ardiendo_5_7": 272,
+     "tics_f5": 1140,
+     "ardiendo_f5": 272,
+     "dentro_pct_f5": 30.7,
+     "golpes_anillo_5_7": 12,
+     "planes_f5": {
+      "aceptados": 3,
+      "sostenidos_fin_fase": 1
+     }
+    },
+    {
+     "semilla": 20784561,
+     "slot": 11,
+     "tics": 14952,
+     "superviviente": true,
+     "causa": null,
+     "viva_en_warn5": true,
+     "pasos_libres_5_7": 217,
+     "pasos_perdidos_5_7": 1,
+     "tics_5_7": 3097,
+     "ardiendo_5_7": 99,
+     "tics_f5": 1140,
+     "ardiendo_f5": 44,
+     "dentro_pct_f5": 36.7,
+     "golpes_anillo_5_7": 4,
+     "planes_f5": {
+      "aceptados": 2,
+      "sostenidos_fin_fase": 1
+     }
+    },
+    {
+     "semilla": 20889290,
+     "slot": 10,
+     "tics": 14688,
+     "superviviente": true,
+     "causa": null,
+     "viva_en_warn5": true,
+     "pasos_libres_5_7": 90,
+     "pasos_perdidos_5_7": 0,
+     "tics_5_7": 2833,
+     "ardiendo_5_7": 271,
+     "tics_f5": 1140,
+     "ardiendo_f5": 121,
+     "dentro_pct_f5": 37.4,
+     "golpes_anillo_5_7": 9,
+     "planes_f5": {
+      "aceptados": 0,
+      "sostenidos_fin_fase": 0
+     }
+    },
+    {
+     "semilla": 20889290,
+     "slot": 11,
+     "tics": 12488,
+     "superviviente": false,
+     "causa": "rival",
+     "viva_en_warn5": true,
+     "pasos_libres_5_7": 55,
+     "pasos_perdidos_5_7": 0,
+     "tics_5_7": 633,
+     "ardiendo_5_7": 22,
+     "tics_f5": 633,
+     "ardiendo_f5": 22,
+     "dentro_pct_f5": 35.2,
+     "golpes_anillo_5_7": 1,
+     "planes_f5": {
+      "aceptados": 1,
+      "sostenidos_fin_fase": 0
+     }
+    },
+    {
+     "semilla": 20994019,
+     "slot": 10,
+     "tics": 13128,
+     "superviviente": false,
+     "causa": "anillo",
+     "viva_en_warn5": true,
+     "pasos_libres_5_7": 84,
+     "pasos_perdidos_5_7": 0,
+     "tics_5_7": 1273,
+     "ardiendo_5_7": 544,
+     "tics_f5": 1140,
+     "ardiendo_f5": 444,
+     "dentro_pct_f5": 21.0,
+     "golpes_anillo_5_7": 22,
+     "planes_f5": {
+      "aceptados": 3,
+      "sostenidos_fin_fase": 1
+     }
+    },
+    {
+     "semilla": 20994019,
+     "slot": 11,
+     "tics": 12127,
+     "superviviente": false,
+     "causa": "rival",
+     "viva_en_warn5": true,
+     "pasos_libres_5_7": 22,
+     "pasos_perdidos_5_7": 0,
+     "tics_5_7": 272,
+     "ardiendo_5_7": 0,
+     "tics_f5": 272,
+     "ardiendo_f5": 0,
+     "dentro_pct_f5": 79.8,
+     "golpes_anillo_5_7": 0,
+     "planes_f5": {
+      "aceptados": 0,
+      "sostenidos_fin_fase": 0
+     }
+    },
+    {
+     "semilla": 21098748,
+     "slot": 10,
+     "tics": 15048,
+     "superviviente": true,
+     "causa": null,
+     "viva_en_warn5": true,
+     "pasos_libres_5_7": 143,
+     "pasos_perdidos_5_7": 0,
+     "tics_5_7": 3193,
+     "ardiendo_5_7": 143,
+     "tics_f5": 1140,
+     "ardiendo_f5": 62,
+     "dentro_pct_f5": 29.1,
+     "golpes_anillo_5_7": 11,
+     "planes_f5": {
+      "aceptados": 2,
+      "sostenidos_fin_fase": 0
+     }
+    },
+    {
+     "semilla": 21098748,
+     "slot": 11,
+     "tics": 15048,
+     "superviviente": true,
+     "causa": null,
+     "viva_en_warn5": true,
+     "pasos_libres_5_7": 228,
+     "pasos_perdidos_5_7": 0,
+     "tics_5_7": 3193,
+     "ardiendo_5_7": 232,
+     "tics_f5": 1140,
+     "ardiendo_f5": 121,
+     "dentro_pct_f5": 27.7,
+     "golpes_anillo_5_7": 13,
+     "planes_f5": {
+      "aceptados": 3,
+      "sostenidos_fin_fase": 1
+     }
+    },
+    {
+     "semilla": 21203477,
+     "slot": 10,
+     "tics": 13087,
+     "superviviente": false,
+     "causa": "rival",
+     "viva_en_warn5": true,
+     "pasos_libres_5_7": 78,
+     "pasos_perdidos_5_7": 0,
+     "tics_5_7": 1232,
+     "ardiendo_5_7": 88,
+     "tics_f5": 1140,
+     "ardiendo_f5": 88,
+     "dentro_pct_f5": 92.3,
+     "golpes_anillo_5_7": 4,
+     "planes_f5": {
+      "aceptados": 2,
+      "sostenidos_fin_fase": 0
+     }
+    },
+    {
+     "semilla": 21203477,
+     "slot": 11,
+     "tics": 13263,
+     "superviviente": false,
+     "causa": "rival",
+     "viva_en_warn5": true,
+     "pasos_libres_5_7": 42,
+     "pasos_perdidos_5_7": 0,
+     "tics_5_7": 1408,
+     "ardiendo_5_7": 0,
+     "tics_f5": 1140,
+     "ardiendo_f5": 0,
+     "dentro_pct_f5": 100.0,
+     "golpes_anillo_5_7": 0,
+     "planes_f5": {
+      "aceptados": 0,
+      "sostenidos_fin_fase": 0
+     }
+    },
+    {
+     "semilla": 21308206,
+     "slot": 10,
+     "tics": 14976,
+     "superviviente": true,
+     "causa": null,
+     "viva_en_warn5": true,
+     "pasos_libres_5_7": 215,
+     "pasos_perdidos_5_7": 2,
+     "tics_5_7": 3121,
+     "ardiendo_5_7": 310,
+     "tics_f5": 1140,
+     "ardiendo_f5": 233,
+     "dentro_pct_f5": 26.9,
+     "golpes_anillo_5_7": 17,
+     "planes_f5": {
+      "aceptados": 2,
+      "sostenidos_fin_fase": 0
+     }
+    },
+    {
+     "semilla": 21308206,
+     "slot": 11,
+     "tics": 14976,
+     "superviviente": true,
+     "causa": null,
+     "viva_en_warn5": true,
+     "pasos_libres_5_7": 183,
+     "pasos_perdidos_5_7": 0,
+     "tics_5_7": 3121,
+     "ardiendo_5_7": 192,
+     "tics_f5": 1140,
+     "ardiendo_f5": 142,
+     "dentro_pct_f5": 44.9,
+     "golpes_anillo_5_7": 11,
+     "planes_f5": {
+      "aceptados": 3,
+      "sostenidos_fin_fase": 0
+     }
+    },
+    {
+     "semilla": 21412935,
+     "slot": 10,
+     "tics": 2854,
+     "superviviente": false,
+     "causa": "rival",
+     "viva_en_warn5": false,
+     "pasos_libres_5_7": 0,
+     "pasos_perdidos_5_7": 0
+    },
+    {
+     "semilla": 21412935,
+     "slot": 11,
+     "tics": 13968,
+     "superviviente": true,
+     "causa": null,
+     "viva_en_warn5": true,
+     "pasos_libres_5_7": 154,
+     "pasos_perdidos_5_7": 1,
+     "tics_5_7": 2113,
+     "ardiendo_5_7": 177,
+     "tics_f5": 1140,
+     "ardiendo_f5": 56,
+     "dentro_pct_f5": 44.5,
+     "golpes_anillo_5_7": 9,
+     "planes_f5": {
+      "aceptados": 1,
+      "sostenidos_fin_fase": 0
+     }
+    },
+    {
+     "semilla": 21517664,
+     "slot": 10,
+     "tics": 12371,
+     "superviviente": false,
+     "causa": "no consta",
+     "viva_en_warn5": true,
+     "pasos_libres_5_7": 48,
+     "pasos_perdidos_5_7": 1,
+     "tics_5_7": 516,
+     "ardiendo_5_7": 265,
+     "tics_f5": 516,
+     "ardiendo_f5": 265,
+     "dentro_pct_f5": 2.1,
+     "golpes_anillo_5_7": 11,
+     "planes_f5": {
+      "aceptados": 4,
+      "sostenidos_fin_fase": 0
+     }
+    },
+    {
+     "semilla": 21517664,
+     "slot": 11,
+     "tics": 12312,
+     "superviviente": false,
+     "causa": "anillo",
+     "viva_en_warn5": true,
+     "pasos_libres_5_7": 41,
+     "pasos_perdidos_5_7": 0,
+     "tics_5_7": 457,
+     "ardiendo_5_7": 380,
+     "tics_f5": 457,
+     "ardiendo_f5": 380,
+     "dentro_pct_f5": 0.0,
+     "golpes_anillo_5_7": 15,
+     "planes_f5": {
+      "aceptados": 4,
+      "sostenidos_fin_fase": 0
+     }
+    },
+    {
+     "semilla": 21622393,
+     "slot": 10,
+     "tics": 14976,
+     "superviviente": true,
+     "causa": null,
+     "viva_en_warn5": true,
+     "pasos_libres_5_7": 238,
+     "pasos_perdidos_5_7": 0,
+     "tics_5_7": 3121,
+     "ardiendo_5_7": 37,
+     "tics_f5": 1140,
+     "ardiendo_f5": 0,
+     "dentro_pct_f5": 45.9,
+     "golpes_anillo_5_7": 5,
+     "planes_f5": {
+      "aceptados": 0,
+      "sostenidos_fin_fase": 0
+     }
+    },
+    {
+     "semilla": 21622393,
+     "slot": 11,
+     "tics": 14976,
+     "superviviente": true,
+     "causa": null,
+     "viva_en_warn5": true,
+     "pasos_libres_5_7": 206,
+     "pasos_perdidos_5_7": 0,
+     "tics_5_7": 3121,
+     "ardiendo_5_7": 132,
+     "tics_f5": 1140,
+     "ardiendo_f5": 55,
+     "dentro_pct_f5": 29.1,
+     "golpes_anillo_5_7": 9,
+     "planes_f5": {
+      "aceptados": 2,
+      "sostenidos_fin_fase": 0
+     }
+    },
+    {
+     "semilla": 21727122,
+     "slot": 10,
+     "tics": 14688,
+     "superviviente": false,
+     "causa": "anillo",
+     "viva_en_warn5": true,
+     "pasos_libres_5_7": 191,
+     "pasos_perdidos_5_7": 0,
+     "tics_5_7": 2833,
+     "ardiendo_5_7": 197,
+     "tics_f5": 1140,
+     "ardiendo_f5": 75,
+     "dentro_pct_f5": 35.3,
+     "golpes_anillo_5_7": 6,
+     "planes_f5": {
+      "aceptados": 3,
+      "sostenidos_fin_fase": 1
+     }
+    },
+    {
+     "semilla": 21727122,
+     "slot": 11,
+     "tics": 14688,
+     "superviviente": false,
+     "causa": "rival",
+     "viva_en_warn5": true,
+     "pasos_libres_5_7": 234,
+     "pasos_perdidos_5_7": 0,
+     "tics_5_7": 2833,
+     "ardiendo_5_7": 79,
+     "tics_f5": 1140,
+     "ardiendo_f5": 0,
+     "dentro_pct_f5": 49.1,
+     "golpes_anillo_5_7": 3,
+     "planes_f5": {
+      "aceptados": 0,
+      "sostenidos_fin_fase": 0
+     }
+    },
+    {
+     "semilla": 21831851,
+     "slot": 10,
+     "tics": 14610,
+     "superviviente": false,
+     "causa": "rival",
+     "viva_en_warn5": true,
+     "pasos_libres_5_7": 144,
+     "pasos_perdidos_5_7": 0,
+     "tics_5_7": 2755,
+     "ardiendo_5_7": 69,
+     "tics_f5": 1140,
+     "ardiendo_f5": 67,
+     "dentro_pct_f5": 34.6,
+     "golpes_anillo_5_7": 4,
+     "planes_f5": {
+      "aceptados": 2,
+      "sostenidos_fin_fase": 0
+     }
+    },
+    {
+     "semilla": 21831851,
+     "slot": 11,
+     "tics": 14628,
+     "superviviente": false,
+     "causa": "rival",
+     "viva_en_warn5": true,
+     "pasos_libres_5_7": 178,
+     "pasos_perdidos_5_7": 0,
+     "tics_5_7": 2773,
+     "ardiendo_5_7": 220,
+     "tics_f5": 1140,
+     "ardiendo_f5": 66,
+     "dentro_pct_f5": 41.0,
+     "golpes_anillo_5_7": 10,
+     "planes_f5": {
+      "aceptados": 2,
+      "sostenidos_fin_fase": 0
+     }
+    },
+    {
+     "semilla": 21936580,
+     "slot": 10,
+     "tics": 12984,
+     "superviviente": false,
+     "causa": "anillo",
+     "viva_en_warn5": true,
+     "pasos_libres_5_7": 54,
+     "pasos_perdidos_5_7": 0,
+     "tics_5_7": 1129,
+     "ardiendo_5_7": 292,
+     "tics_f5": 1129,
+     "ardiendo_f5": 292,
+     "dentro_pct_f5": 9.1,
+     "golpes_anillo_5_7": 12,
+     "planes_f5": {
+      "aceptados": 3,
+      "sostenidos_fin_fase": 0
+     }
+    },
+    {
+     "semilla": 21936580,
+     "slot": 11,
+     "tics": 12912,
+     "superviviente": false,
+     "causa": "anillo",
+     "viva_en_warn5": true,
+     "pasos_libres_5_7": 73,
+     "pasos_perdidos_5_7": 0,
+     "tics_5_7": 1057,
+     "ardiendo_5_7": 321,
+     "tics_f5": 1057,
+     "ardiendo_f5": 321,
+     "dentro_pct_f5": 25.1,
+     "golpes_anillo_5_7": 13,
+     "planes_f5": {
+      "aceptados": 1,
+      "sostenidos_fin_fase": 0
+     }
+    },
+    {
+     "semilla": 22041309,
+     "slot": 10,
+     "tics": 13056,
+     "superviviente": false,
+     "causa": "anillo",
+     "viva_en_warn5": true,
+     "pasos_libres_5_7": 66,
+     "pasos_perdidos_5_7": 0,
+     "tics_5_7": 1201,
+     "ardiendo_5_7": 304,
+     "tics_f5": 1140,
+     "ardiendo_f5": 243,
+     "dentro_pct_f5": 19.5,
+     "golpes_anillo_5_7": 13,
+     "planes_f5": {
+      "aceptados": 2,
+      "sostenidos_fin_fase": 0
+     }
+    },
+    {
+     "semilla": 22041309,
+     "slot": 11,
+     "tics": 12336,
+     "superviviente": false,
+     "causa": "anillo",
+     "viva_en_warn5": true,
+     "pasos_libres_5_7": 22,
+     "pasos_perdidos_5_7": 0,
+     "tics_5_7": 481,
+     "ardiendo_5_7": 53,
+     "tics_f5": 481,
+     "ardiendo_f5": 53,
+     "dentro_pct_f5": 0.0,
+     "golpes_anillo_5_7": 1,
+     "planes_f5": {
+      "aceptados": 0,
+      "sostenidos_fin_fase": 0
+     }
+    },
+    {
+     "semilla": 22146038,
+     "slot": 10,
+     "tics": 12528,
+     "superviviente": false,
+     "causa": "anillo",
+     "viva_en_warn5": true,
+     "pasos_libres_5_7": 58,
+     "pasos_perdidos_5_7": 0,
+     "tics_5_7": 673,
+     "ardiendo_5_7": 128,
+     "tics_f5": 673,
+     "ardiendo_f5": 128,
+     "dentro_pct_f5": 6.1,
+     "golpes_anillo_5_7": 6,
+     "planes_f5": {
+      "aceptados": 1,
+      "sostenidos_fin_fase": 0
+     }
+    },
+    {
+     "semilla": 22146038,
+     "slot": 11,
+     "tics": 14664,
+     "superviviente": false,
+     "causa": "anillo",
+     "viva_en_warn5": true,
+     "pasos_libres_5_7": 209,
+     "pasos_perdidos_5_7": 0,
+     "tics_5_7": 2809,
+     "ardiendo_5_7": 263,
+     "tics_f5": 1140,
+     "ardiendo_f5": 55,
+     "dentro_pct_f5": 38.7,
+     "golpes_anillo_5_7": 10,
+     "planes_f5": {
+      "aceptados": 1,
+      "sostenidos_fin_fase": 0
+     }
+    },
+    {
+     "semilla": 22250767,
+     "slot": 10,
+     "tics": 14520,
+     "superviviente": true,
+     "causa": null,
+     "viva_en_warn5": true,
+     "pasos_libres_5_7": 129,
+     "pasos_perdidos_5_7": 0,
+     "tics_5_7": 2665,
+     "ardiendo_5_7": 84,
+     "tics_f5": 1140,
+     "ardiendo_f5": 46,
+     "dentro_pct_f5": 61.3,
+     "golpes_anillo_5_7": 3,
+     "planes_f5": {
+      "aceptados": 1,
+      "sostenidos_fin_fase": 0
+     }
+    },
+    {
+     "semilla": 22250767,
+     "slot": 11,
+     "tics": 12840,
+     "superviviente": false,
+     "causa": "anillo",
+     "viva_en_warn5": true,
+     "pasos_libres_5_7": 56,
+     "pasos_perdidos_5_7": 0,
+     "tics_5_7": 985,
+     "ardiendo_5_7": 160,
+     "tics_f5": 985,
+     "ardiendo_f5": 160,
+     "dentro_pct_f5": 60.8,
+     "golpes_anillo_5_7": 7,
+     "planes_f5": {
+      "aceptados": 1,
+      "sostenidos_fin_fase": 0
+     }
+    }
+   ],
+   "por_semilla": {
+    "20260916": {
+     "semilla": 20260916,
+     "carpeta": "P623_t2_A7h_20260916",
+     "vivas_en_warn": 2,
+     "ardiendo_5_7": [
+      33,
+      55
+     ],
+     "ardiendo_f5": [
+      28,
+      44
+     ],
+     "dentro_pct_f5": [
+      42.9,
+      41.1
+     ],
+     "sostenidos": 0,
+     "aceptados_fase": 3,
+     "supervivientes": 2,
+     "anillo": 0,
+     "rival": 0,
+     "perdidos_5_7": 0,
+     "libres_5_7": 452,
+     "ardiendo_5_7_media": 44,
+     "ardiendo_f5_media": 36,
+     "dentro_pct_f5_media": 42.0
+    },
+    "20365645": {
+     "semilla": 20365645,
+     "carpeta": "P623_t2_A7h_20365645",
+     "vivas_en_warn": 2,
+     "ardiendo_5_7": [
+      307,
+      299
+     ],
+     "ardiendo_f5": [
+      27,
+      299
+     ],
+     "dentro_pct_f5": [
+      94.7,
+      67.2
+     ],
+     "sostenidos": 0,
+     "aceptados_fase": 3,
+     "supervivientes": 0,
+     "anillo": 2,
+     "rival": 0,
+     "perdidos_5_7": 7,
+     "libres_5_7": 266,
+     "ardiendo_5_7_media": 303,
+     "ardiendo_f5_media": 163,
+     "dentro_pct_f5_media": 80.95
+    },
+    "20470374": {
+     "semilla": 20470374,
+     "carpeta": "P623_t2_A7h_20470374",
+     "vivas_en_warn": 2,
+     "ardiendo_5_7": [
+      420,
+      195
+     ],
+     "ardiendo_f5": [
+      185,
+      88
+     ],
+     "dentro_pct_f5": [
+      16.5,
+      34.0
+     ],
+     "sostenidos": 1,
+     "aceptados_fase": 3,
+     "supervivientes": 0,
+     "anillo": 1,
+     "rival": 1,
+     "perdidos_5_7": 5,
+     "libres_5_7": 350,
+     "ardiendo_5_7_media": 307.5,
+     "ardiendo_f5_media": 136.5,
+     "dentro_pct_f5_media": 25.25
+    },
+    "20575103": {
+     "semilla": 20575103,
+     "carpeta": "P623_t2_A7h_20575103",
+     "vivas_en_warn": 2,
+     "ardiendo_5_7": [
+      44,
+      132
+     ],
+     "ardiendo_f5": [
+      0,
+      0
+     ],
+     "dentro_pct_f5": [
+      100.0,
+      100.0
+     ],
+     "sostenidos": 0,
+     "aceptados_fase": 0,
+     "supervivientes": 1,
+     "anillo": 1,
+     "rival": 0,
+     "perdidos_5_7": 0,
+     "libres_5_7": 482,
+     "ardiendo_5_7_media": 88,
+     "ardiendo_f5_media": 0,
+     "dentro_pct_f5_media": 100.0
+    },
+    "20679832": {
+     "semilla": 20679832,
+     "carpeta": "P623_t2_A7h_20679832",
+     "vivas_en_warn": 2,
+     "ardiendo_5_7": [
+      190,
+      0
+     ],
+     "ardiendo_f5": [
+      21,
+      0
+     ],
+     "dentro_pct_f5": [
+      40.4,
+      51.8
+     ],
+     "sostenidos": 0,
+     "aceptados_fase": 0,
+     "supervivientes": 0,
+     "anillo": 0,
+     "rival": 2,
+     "perdidos_5_7": 2,
+     "libres_5_7": 337,
+     "ardiendo_5_7_media": 95,
+     "ardiendo_f5_media": 10.5,
+     "dentro_pct_f5_media": 46.1
+    },
+    "20784561": {
+     "semilla": 20784561,
+     "carpeta": "P623_t2_A7h_20784561",
+     "vivas_en_warn": 2,
+     "ardiendo_5_7": [
+      272,
+      99
+     ],
+     "ardiendo_f5": [
+      272,
+      44
+     ],
+     "dentro_pct_f5": [
+      30.7,
+      36.7
+     ],
+     "sostenidos": 2,
+     "aceptados_fase": 5,
+     "supervivientes": 1,
+     "anillo": 0,
+     "rival": 1,
+     "perdidos_5_7": 2,
+     "libres_5_7": 402,
+     "ardiendo_5_7_media": 185.5,
+     "ardiendo_f5_media": 158,
+     "dentro_pct_f5_media": 33.7
+    },
+    "20889290": {
+     "semilla": 20889290,
+     "carpeta": "P623_t2_A7h_20889290",
+     "vivas_en_warn": 2,
+     "ardiendo_5_7": [
+      271,
+      22
+     ],
+     "ardiendo_f5": [
+      121,
+      22
+     ],
+     "dentro_pct_f5": [
+      37.4,
+      35.2
+     ],
+     "sostenidos": 0,
+     "aceptados_fase": 1,
+     "supervivientes": 1,
+     "anillo": 0,
+     "rival": 1,
+     "perdidos_5_7": 0,
+     "libres_5_7": 145,
+     "ardiendo_5_7_media": 146.5,
+     "ardiendo_f5_media": 71.5,
+     "dentro_pct_f5_media": 36.3
+    },
+    "20994019": {
+     "semilla": 20994019,
+     "carpeta": "P623_t2_A7h_20994019",
+     "vivas_en_warn": 2,
+     "ardiendo_5_7": [
+      544,
+      0
+     ],
+     "ardiendo_f5": [
+      444,
+      0
+     ],
+     "dentro_pct_f5": [
+      21.0,
+      79.8
+     ],
+     "sostenidos": 1,
+     "aceptados_fase": 3,
+     "supervivientes": 0,
+     "anillo": 1,
+     "rival": 1,
+     "perdidos_5_7": 0,
+     "libres_5_7": 106,
+     "ardiendo_5_7_media": 272,
+     "ardiendo_f5_media": 222,
+     "dentro_pct_f5_media": 50.4
+    },
+    "21098748": {
+     "semilla": 21098748,
+     "carpeta": "P623_t2_A7h_21098748",
+     "vivas_en_warn": 2,
+     "ardiendo_5_7": [
+      143,
+      232
+     ],
+     "ardiendo_f5": [
+      62,
+      121
+     ],
+     "dentro_pct_f5": [
+      29.1,
+      27.7
+     ],
+     "sostenidos": 1,
+     "aceptados_fase": 5,
+     "supervivientes": 2,
+     "anillo": 0,
+     "rival": 0,
+     "perdidos_5_7": 0,
+     "libres_5_7": 371,
+     "ardiendo_5_7_media": 187.5,
+     "ardiendo_f5_media": 91.5,
+     "dentro_pct_f5_media": 28.4
+    },
+    "21203477": {
+     "semilla": 21203477,
+     "carpeta": "P623_t2_A7h_21203477",
+     "vivas_en_warn": 2,
+     "ardiendo_5_7": [
+      88,
+      0
+     ],
+     "ardiendo_f5": [
+      88,
+      0
+     ],
+     "dentro_pct_f5": [
+      92.3,
+      100.0
+     ],
+     "sostenidos": 0,
+     "aceptados_fase": 2,
+     "supervivientes": 0,
+     "anillo": 0,
+     "rival": 2,
+     "perdidos_5_7": 0,
+     "libres_5_7": 120,
+     "ardiendo_5_7_media": 44,
+     "ardiendo_f5_media": 44,
+     "dentro_pct_f5_media": 96.15
+    },
+    "21308206": {
+     "semilla": 21308206,
+     "carpeta": "P623_t2_A7h_21308206",
+     "vivas_en_warn": 2,
+     "ardiendo_5_7": [
+      310,
+      192
+     ],
+     "ardiendo_f5": [
+      233,
+      142
+     ],
+     "dentro_pct_f5": [
+      26.9,
+      44.9
+     ],
+     "sostenidos": 0,
+     "aceptados_fase": 5,
+     "supervivientes": 2,
+     "anillo": 0,
+     "rival": 0,
+     "perdidos_5_7": 2,
+     "libres_5_7": 398,
+     "ardiendo_5_7_media": 251,
+     "ardiendo_f5_media": 187.5,
+     "dentro_pct_f5_media": 35.9
+    },
+    "21412935": {
+     "semilla": 21412935,
+     "carpeta": "P623_t2_A7h_21412935",
+     "vivas_en_warn": 1,
+     "ardiendo_5_7": [
+      177
+     ],
+     "ardiendo_f5": [
+      56
+     ],
+     "dentro_pct_f5": [
+      44.5
+     ],
+     "sostenidos": 0,
+     "aceptados_fase": 1,
+     "supervivientes": 1,
+     "anillo": 0,
+     "rival": 1,
+     "perdidos_5_7": 1,
+     "libres_5_7": 154,
+     "ardiendo_5_7_media": 177,
+     "ardiendo_f5_media": 56,
+     "dentro_pct_f5_media": 44.5
+    },
+    "21517664": {
+     "semilla": 21517664,
+     "carpeta": "P623_t2_A7h_21517664",
+     "vivas_en_warn": 2,
+     "ardiendo_5_7": [
+      265,
+      380
+     ],
+     "ardiendo_f5": [
+      265,
+      380
+     ],
+     "dentro_pct_f5": [
+      2.1,
+      0.0
+     ],
+     "sostenidos": 0,
+     "aceptados_fase": 8,
+     "supervivientes": 0,
+     "anillo": 1,
+     "rival": 0,
+     "perdidos_5_7": 1,
+     "libres_5_7": 89,
+     "ardiendo_5_7_media": 322.5,
+     "ardiendo_f5_media": 322.5,
+     "dentro_pct_f5_media": 1.05
+    },
+    "21622393": {
+     "semilla": 21622393,
+     "carpeta": "P623_t2_A7h_21622393",
+     "vivas_en_warn": 2,
+     "ardiendo_5_7": [
+      37,
+      132
+     ],
+     "ardiendo_f5": [
+      0,
+      55
+     ],
+     "dentro_pct_f5": [
+      45.9,
+      29.1
+     ],
+     "sostenidos": 0,
+     "aceptados_fase": 2,
+     "supervivientes": 2,
+     "anillo": 0,
+     "rival": 0,
+     "perdidos_5_7": 0,
+     "libres_5_7": 444,
+     "ardiendo_5_7_media": 84.5,
+     "ardiendo_f5_media": 27.5,
+     "dentro_pct_f5_media": 37.5
+    },
+    "21727122": {
+     "semilla": 21727122,
+     "carpeta": "P623_t2_A7h_21727122",
+     "vivas_en_warn": 2,
+     "ardiendo_5_7": [
+      197,
+      79
+     ],
+     "ardiendo_f5": [
+      75,
+      0
+     ],
+     "dentro_pct_f5": [
+      35.3,
+      49.1
+     ],
+     "sostenidos": 1,
+     "aceptados_fase": 3,
+     "supervivientes": 0,
+     "anillo": 1,
+     "rival": 1,
+     "perdidos_5_7": 0,
+     "libres_5_7": 425,
+     "ardiendo_5_7_media": 138,
+     "ardiendo_f5_media": 37.5,
+     "dentro_pct_f5_media": 42.2
+    },
+    "21831851": {
+     "semilla": 21831851,
+     "carpeta": "P623_t2_A7h_21831851",
+     "vivas_en_warn": 2,
+     "ardiendo_5_7": [
+      69,
+      220
+     ],
+     "ardiendo_f5": [
+      67,
+      66
+     ],
+     "dentro_pct_f5": [
+      34.6,
+      41.0
+     ],
+     "sostenidos": 0,
+     "aceptados_fase": 4,
+     "supervivientes": 0,
+     "anillo": 0,
+     "rival": 2,
+     "perdidos_5_7": 0,
+     "libres_5_7": 322,
+     "ardiendo_5_7_media": 144.5,
+     "ardiendo_f5_media": 66.5,
+     "dentro_pct_f5_media": 37.8
+    },
+    "21936580": {
+     "semilla": 21936580,
+     "carpeta": "P623_t2_A7h_21936580",
+     "vivas_en_warn": 2,
+     "ardiendo_5_7": [
+      292,
+      321
+     ],
+     "ardiendo_f5": [
+      292,
+      321
+     ],
+     "dentro_pct_f5": [
+      9.1,
+      25.1
+     ],
+     "sostenidos": 0,
+     "aceptados_fase": 4,
+     "supervivientes": 0,
+     "anillo": 2,
+     "rival": 0,
+     "perdidos_5_7": 0,
+     "libres_5_7": 127,
+     "ardiendo_5_7_media": 306.5,
+     "ardiendo_f5_media": 306.5,
+     "dentro_pct_f5_media": 17.1
+    },
+    "22041309": {
+     "semilla": 22041309,
+     "carpeta": "P623_t2_A7h_22041309",
+     "vivas_en_warn": 2,
+     "ardiendo_5_7": [
+      304,
+      53
+     ],
+     "ardiendo_f5": [
+      243,
+      53
+     ],
+     "dentro_pct_f5": [
+      19.5,
+      0.0
+     ],
+     "sostenidos": 0,
+     "aceptados_fase": 2,
+     "supervivientes": 0,
+     "anillo": 2,
+     "rival": 0,
+     "perdidos_5_7": 0,
+     "libres_5_7": 88,
+     "ardiendo_5_7_media": 178.5,
+     "ardiendo_f5_media": 148,
+     "dentro_pct_f5_media": 9.75
+    },
+    "22146038": {
+     "semilla": 22146038,
+     "carpeta": "P623_t2_A7h_22146038",
+     "vivas_en_warn": 2,
+     "ardiendo_5_7": [
+      128,
+      263
+     ],
+     "ardiendo_f5": [
+      128,
+      55
+     ],
+     "dentro_pct_f5": [
+      6.1,
+      38.7
+     ],
+     "sostenidos": 0,
+     "aceptados_fase": 2,
+     "supervivientes": 0,
+     "anillo": 2,
+     "rival": 0,
+     "perdidos_5_7": 0,
+     "libres_5_7": 267,
+     "ardiendo_5_7_media": 195.5,
+     "ardiendo_f5_media": 91.5,
+     "dentro_pct_f5_media": 22.4
+    },
+    "22250767": {
+     "semilla": 22250767,
+     "carpeta": "P623_t2_A7h_22250767",
+     "vivas_en_warn": 2,
+     "ardiendo_5_7": [
+      84,
+      160
+     ],
+     "ardiendo_f5": [
+      46,
+      160
+     ],
+     "dentro_pct_f5": [
+      61.3,
+      60.8
+     ],
+     "sostenidos": 0,
+     "aceptados_fase": 2,
+     "supervivientes": 1,
+     "anillo": 1,
+     "rival": 0,
+     "perdidos_5_7": 0,
+     "libres_5_7": 185,
+     "ardiendo_5_7_media": 122,
+     "ardiendo_f5_media": 103,
+     "dentro_pct_f5_media": 61.05
+    }
+   }
+  }
+ },
+ "principal": {
+  "que": "tics ardiendo en las fases 5-7, por vida viva en el aviso 5, media por semilla, A7h - A4",
+  "A7h - A4": {
+   "n": 18,
+   "media_dif": -53.33,
+   "mediana_dif": -41.5,
+   "gana": 5,
+   "pierde": 13,
+   "p_bilateral": 0.0929,
+   "ic95_bootstrap": [
+    -109.61,
+    2.45
+   ],
+   "diferencias": [
+    -323,
+    158.0,
+    -190,
+    -43,
+    -13.0,
+    -112.0,
+    175,
+    -129.5,
+    -40,
+    -15.5,
+    90,
+    22.5,
+    -225,
+    -114.0,
+    -14.0,
+    -139.5,
+    19.5,
+    -66.5
+   ],
+   "p_unilateral (A7h arde menos)": 0.0465
+  }
+ },
+ "secundarias": {
+  "A7h - A4": {
+   "ardiendo_f5_media": {
+    "n": 18,
+    "media_dif": -79.17,
+    "mediana_dif": -81.0,
+    "gana": 6,
+    "pierde": 12,
+    "p_bilateral": 0.0461,
+    "ic95_bootstrap": [
+     -147.7,
+     -8.91
+    ],
+    "diferencias": [
+     -297,
+     136.5,
+     -278,
+     -127.5,
+     -7,
+     -180.5,
+     222,
+     -197.5,
+     10,
+     -48.5,
+     45,
+     107.0,
+     -325.5,
+     -192.0,
+     33.0,
+     -163,
+     -76.5,
+     -85.5
+    ]
+   },
+   "dentro_pct_f5_media": {
+    "n": 18,
+    "media_dif": 7.28,
+    "mediana_dif": 9.07,
+    "gana": 11,
+    "pierde": 7,
+    "p_bilateral": 0.3514,
+    "ic95_bootstrap": [
+     -7.34,
+     21.46
+    ],
+    "diferencias": [
+     39.6,
+     -65.85,
+     59.9,
+     -7.1,
+     16.3,
+     9.45,
+     -17.1,
+     20.25,
+     46.4,
+     17.25,
+     0.65,
+     -38.55,
+     42.2,
+     8.7,
+     -9.65,
+     -0.05,
+     -29.7,
+     38.4
+    ]
+   },
+   "sostenidos": {
+    "n": 20,
+    "media_dif": 0.3,
+    "mediana_dif": 0.0,
+    "gana": 5,
+    "pierde": 0,
+    "p_bilateral": 0.0625,
+    "ic95_bootstrap": [
+     0.1,
+     0.55
+    ],
+    "diferencias": [
+     0,
+     0,
+     1,
+     0,
+     0,
+     2,
+     0,
+     1,
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     1,
+     0,
+     0,
+     0,
+     0,
+     0
+    ]
+   },
+   "aceptados_fase": {
+    "n": 20,
+    "media_dif": 2.9,
+    "mediana_dif": 3.0,
+    "gana": 18,
+    "pierde": 0,
+    "p_bilateral": 0.0,
+    "ic95_bootstrap": [
+     2.1,
+     3.75
+    ],
+    "diferencias": [
+     3,
+     3,
+     3,
+     0,
+     0,
+     5,
+     1,
+     3,
+     5,
+     2,
+     5,
+     1,
+     8,
+     2,
+     3,
+     4,
+     4,
+     2,
+     2,
+     2
+    ]
+   },
+   "perdidos_5_7": {
+    "n": 20,
+    "media_dif": 1,
+    "mediana_dif": 0.0,
+    "gana": 7,
+    "pierde": 0,
+    "p_bilateral": 0.0156,
+    "ic95_bootstrap": [
+     0.3,
+     1.9
+    ],
+    "diferencias": [
+     0,
+     7,
+     5,
+     0,
+     2,
+     2,
+     0,
+     0,
+     0,
+     0,
+     2,
+     1,
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ]
+   },
+   "anillo": {
+    "n": 20,
+    "media_dif": -0.4,
+    "mediana_dif": -0.5,
+    "gana": 6,
+    "pierde": 10,
+    "p_bilateral": 0.2336,
+    "ic95_bootstrap": [
+     -0.95,
+     0.15
+    ],
+    "diferencias": [
+     -2,
+     1,
+     1,
+     -1,
+     -1,
+     -2,
+     -1,
+     1,
+     -2,
+     -2,
+     -1,
+     0,
+     1,
+     0,
+     -1,
+     -2,
+     0,
+     1,
+     2,
+     0
+    ]
+   },
+   "rival": {
+    "n": 20,
+    "media_dif": 0.3,
+    "mediana_dif": 0.0,
+    "gana": 8,
+    "pierde": 3,
+    "p_bilateral": 0.2705,
+    "ic95_bootstrap": [
+     -0.15,
+     0.7
+    ],
+    "diferencias": [
+     0,
+     0,
+     0,
+     0,
+     1,
+     1,
+     1,
+     1,
+     0,
+     2,
+     0,
+     1,
+     0,
+     -2,
+     1,
+     2,
+     0,
+     0,
+     -1,
+     -1
+    ]
+   },
+   "supervivientes": {
+    "n": 20,
+    "media_dif": 0.1,
+    "mediana_dif": 0.0,
+    "gana": 7,
+    "pierde": 6,
+    "p_bilateral": 0.8535,
+    "ic95_bootstrap": [
+     -0.4,
+     0.6
+    ],
+    "diferencias": [
+     2,
+     0,
+     -1,
+     1,
+     0,
+     1,
+     0,
+     -2,
+     2,
+     0,
+     1,
+     -1,
+     -2,
+     2,
+     0,
+     0,
+     0,
+     -1,
+     -1,
+     1
+    ]
+   }
+  }
+ }
+}

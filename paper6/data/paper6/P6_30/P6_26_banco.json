@@ -1,0 +1,375 @@
+{
+ "nota": "[P6-26 · 1] BANCO SIN LENGUAJE, COSTE CERO: ¿existe un plan que pase? En las escenas de P6-25 donde",
+ "version": "banco_P6_26 (P6-26): todos los destinos seguros del oraculo, plan ir-y-quedarse, puerta6 real sobre la instantanea de P6-25",
+ "segundos": 1044.3,
+ "instantaneas_barridas": 150,
+ "errores": [],
+ "planes_por_instantanea": {
+  "mediana": 50,
+  "max": 61
+ },
+ "por_modelo": {
+  "haiku": {
+   "escenas_rechazadas": 93,
+   "con_algun_plan_que_pasa": {
+    "k": 21,
+    "n": 93,
+    "pct": 22.6
+   },
+   "planes_que_pasan_por_escena": {
+    "mediana": 0,
+    "sobre_probados_mediana_pct": 0.0
+   },
+   "mejor_ganancia": {
+    "mediana": 0.1713,
+    "p90": 0.3091,
+    "min": 0.068,
+    "max": 0.3397
+   },
+   "distancia_al_mejor (casillas, Chebyshev)": {
+    "primera": {
+     "mediana": 3,
+     "n": 21
+    },
+    "segunda": {
+     "mediana": 3,
+     "n": 7
+    },
+    "tercera": {
+     "mediana": 4,
+     "n": 4
+    }
+   },
+   "distancia_al_plan_que_pasa_mas_cercano": {
+    "segunda": {
+     "mediana": 1,
+     "n": 7,
+     "a_0_casillas": 3
+    },
+    "tercera": {
+     "mediana": 2,
+     "n": 4,
+     "a_0_casillas": 0
+    }
+   }
+  },
+  "sonnet": {
+   "escenas_rechazadas": 83,
+   "con_algun_plan_que_pasa": {
+    "k": 13,
+    "n": 83,
+    "pct": 15.7
+   },
+   "planes_que_pasan_por_escena": {
+    "mediana": 0,
+    "sobre_probados_mediana_pct": 0.0
+   },
+   "mejor_ganancia": {
+    "mediana": 0.2532,
+    "p90": 1.1189,
+    "min": 0.068,
+    "max": 1.4482
+   },
+   "distancia_al_mejor (casillas, Chebyshev)": {
+    "primera": {
+     "mediana": 3,
+     "n": 13
+    },
+    "segunda": {
+     "mediana": 6,
+     "n": 3
+    },
+    "tercera": {
+     "mediana": 6,
+     "n": 2
+    }
+   },
+   "distancia_al_plan_que_pasa_mas_cercano": {
+    "segunda": {
+     "mediana": 4,
+     "n": 3,
+     "a_0_casillas": 0
+    },
+    "tercera": {
+     "mediana": 4,
+     "n": 2,
+     "a_0_casillas": 1
+    }
+   }
+  }
+ },
+ "pareja": {
+  "haiku": {
+   "pares_con_una_sola_puerta": 20,
+   "barridos": 20,
+   "los_dos_tienen_plan_que_pasa": {
+    "k": 4,
+    "n": 20,
+    "pct": 20.0
+   },
+   "zona_comun_aceptada_por_los_dos (Chebyshev <= 3)": {
+    "k": 4,
+    "n": 20,
+    "pct": 20.0
+   },
+   "detalle": [
+    {
+     "par": "P623_t2_A7h_20260916_10_12332",
+     "acepta_A": 12,
+     "acepta_B": 0,
+     "zona_comun": false
+    },
+    {
+     "par": "P623_t2_A7h_20365645_11_12846",
+     "acepta_A": 46,
+     "acepta_B": 49,
+     "zona_comun": true
+    },
+    {
+     "par": "P623_t2_A7h_20470374_10_13579",
+     "acepta_A": 29,
+     "acepta_B": 0,
+     "zona_comun": false
+    },
+    {
+     "par": "P623_t2_A7h_20575103_11_13738",
+     "acepta_A": 0,
+     "acepta_B": 29,
+     "zona_comun": false
+    },
+    {
+     "par": "P623_t2_A7h_20575103_11_13854",
+     "acepta_A": 0,
+     "acepta_B": 29,
+     "zona_comun": false
+    },
+    {
+     "par": "P623_t2_A7h_20575103_11_14938",
+     "acepta_A": 0,
+     "acepta_B": 1,
+     "zona_comun": false
+    },
+    {
+     "par": "P623_t2_A7h_20784561_10_12296",
+     "acepta_A": 60,
+     "acepta_B": 60,
+     "zona_comun": true
+    },
+    {
+     "par": "P623_t2_A7h_21098748_10_13845",
+     "acepta_A": 0,
+     "acepta_B": 29,
+     "zona_comun": false
+    },
+    {
+     "par": "P623_t2_A7h_21098748_11_13095",
+     "acepta_A": 0,
+     "acepta_B": 29,
+     "zona_comun": false
+    },
+    {
+     "par": "P623_t2_A7h_22146038_11_12477",
+     "acepta_A": 0,
+     "acepta_B": 54,
+     "zona_comun": false
+    },
+    {
+     "par": "P624_t2_A7h_24554805_11_14935",
+     "acepta_A": 0,
+     "acepta_B": 1,
+     "zona_comun": false
+    },
+    {
+     "par": "P624_t2_A7h_25392637_10_12685",
+     "acepta_A": 61,
+     "acepta_B": 5,
+     "zona_comun": true
+    },
+    {
+     "par": "P624_t2_A7h_25706824_11_12531",
+     "acepta_A": 25,
+     "acepta_B": 58,
+     "zona_comun": true
+    },
+    {
+     "par": "P624_t2_A7h_25706824_11_12804",
+     "acepta_A": 0,
+     "acepta_B": 61,
+     "zona_comun": false
+    },
+    {
+     "par": "P624_t2_A7h_25811553_11_13818",
+     "acepta_A": 15,
+     "acepta_B": 0,
+     "zona_comun": false
+    },
+    {
+     "par": "P624_t2_A7h_25916282_10_12189",
+     "acepta_A": 61,
+     "acepta_B": 0,
+     "zona_comun": false
+    },
+    {
+     "par": "P624_t2_A7h_26021011_11_12369",
+     "acepta_A": 0,
+     "acepta_B": 61,
+     "zona_comun": false
+    },
+    {
+     "par": "P624_t2_A7h_26125740_10_12522",
+     "acepta_A": 0,
+     "acepta_B": 61,
+     "zona_comun": false
+    },
+    {
+     "par": "P624_t2_A7h_26125740_11_12192",
+     "acepta_A": 0,
+     "acepta_B": 61,
+     "zona_comun": false
+    },
+    {
+     "par": "P624_t2_A7h_26125740_11_12357",
+     "acepta_A": 0,
+     "acepta_B": 61,
+     "zona_comun": false
+    }
+   ]
+  },
+  "sonnet": {
+   "pares_con_una_sola_puerta": 20,
+   "barridos": 20,
+   "los_dos_tienen_plan_que_pasa": {
+    "k": 5,
+    "n": 20,
+    "pct": 25.0
+   },
+   "zona_comun_aceptada_por_los_dos (Chebyshev <= 3)": {
+    "k": 5,
+    "n": 20,
+    "pct": 25.0
+   },
+   "detalle": [
+    {
+     "par": "P623_t2_A7h_20260916_10_12332",
+     "acepta_A": 12,
+     "acepta_B": 0,
+     "zona_comun": false
+    },
+    {
+     "par": "P623_t2_A7h_20470374_10_13579",
+     "acepta_A": 29,
+     "acepta_B": 0,
+     "zona_comun": false
+    },
+    {
+     "par": "P623_t2_A7h_20575103_11_13738",
+     "acepta_A": 0,
+     "acepta_B": 29,
+     "zona_comun": false
+    },
+    {
+     "par": "P623_t2_A7h_20575103_11_13854",
+     "acepta_A": 0,
+     "acepta_B": 29,
+     "zona_comun": false
+    },
+    {
+     "par": "P623_t2_A7h_21098748_10_13845",
+     "acepta_A": 0,
+     "acepta_B": 29,
+     "zona_comun": false
+    },
+    {
+     "par": "P623_t2_A7h_21098748_11_13095",
+     "acepta_A": 0,
+     "acepta_B": 29,
+     "zona_comun": false
+    },
+    {
+     "par": "P623_t2_A7h_21308206_11_14665",
+     "acepta_A": 0,
+     "acepta_B": 1,
+     "zona_comun": false
+    },
+    {
+     "par": "P623_t2_A7h_21517664_11_11899",
+     "acepta_A": 61,
+     "acepta_B": 61,
+     "zona_comun": true
+    },
+    {
+     "par": "P623_t2_A7h_21727122_10_12441",
+     "acepta_A": 0,
+     "acepta_B": 4,
+     "zona_comun": false
+    },
+    {
+     "par": "P624_t2_A7h_24764263_11_12271",
+     "acepta_A": 0,
+     "acepta_B": 61,
+     "zona_comun": false
+    },
+    {
+     "par": "P624_t2_A7h_25392637_10_12685",
+     "acepta_A": 61,
+     "acepta_B": 5,
+     "zona_comun": true
+    },
+    {
+     "par": "P624_t2_A7h_25706824_11_12531",
+     "acepta_A": 25,
+     "acepta_B": 58,
+     "zona_comun": true
+    },
+    {
+     "par": "P624_t2_A7h_25706824_11_12804",
+     "acepta_A": 0,
+     "acepta_B": 61,
+     "zona_comun": false
+    },
+    {
+     "par": "P624_t2_A7h_25811553_11_13818",
+     "acepta_A": 15,
+     "acepta_B": 0,
+     "zona_comun": false
+    },
+    {
+     "par": "P624_t2_A7h_25916282_10_12189",
+     "acepta_A": 61,
+     "acepta_B": 0,
+     "zona_comun": false
+    },
+    {
+     "par": "P624_t2_A7h_25916282_10_13079",
+     "acepta_A": 29,
+     "acepta_B": 29,
+     "zona_comun": true
+    },
+    {
+     "par": "P624_t2_A7h_26021011_11_12369",
+     "acepta_A": 0,
+     "acepta_B": 61,
+     "zona_comun": false
+    },
+    {
+     "par": "P624_t2_A7h_26125740_10_12599",
+     "acepta_A": 61,
+     "acepta_B": 61,
+     "zona_comun": true
+    },
+    {
+     "par": "P624_t2_A7h_26125740_11_12192",
+     "acepta_A": 0,
+     "acepta_B": 61,
+     "zona_comun": false
+    },
+    {
+     "par": "P624_t2_A7h_26125740_11_12357",
+     "acepta_A": 0,
+     "acepta_B": 61,
+     "zona_comun": false
+    }
+   ]
+  }
+ }
+}

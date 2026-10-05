@@ -1,0 +1,682 @@
+{
+ "nota": "[P6-29] CUANTO SE DEJA DOBLAR EL CUERPO: la deformacion que cuesta seguir un plan. Coste cero: solo diarios.",
+ "version": "mide_P6_29 (P6-29): diario (radiografia + vida de los planes) + replica en seco del cuerpo A4 con el candidato del plan anadido",
+ "vidas_con_error": [],
+ "brazos": {
+  "A7h": {
+   "vidas": 80,
+   "partidas": 40,
+   "fidelidad_replica": {
+    "igual": 1068541,
+    "difiere": 599,
+    "sin_replica": 0,
+    "pct_igual": 99.94
+   },
+   "fidelidad_en_instantes_con_plan": {
+    "n": 9440,
+    "replica_igual_a_propio": 9357,
+    "pct": 99.12
+   },
+   "fm_gana_en_replica": 13101,
+   "fm_errores": 0,
+   "planes": {
+    "aceptados": 253,
+    "por_razon": {
+     "soltado: reevaluacion": 132,
+     "fin de partida con plan vivo": 4,
+     "soltado: vida": 76,
+     "cumplido: andado": 36,
+     "muerte con plan vivo": 5
+    },
+    "tics_vivo": {
+     "n": 253,
+     "media": 105.8,
+     "mediana": 47,
+     "p10": 23.0,
+     "p90": 295.2,
+     "max": 443,
+     "min": 1
+    },
+    "instantes_por_plan": {
+     "n": 253,
+     "media": 44.5,
+     "mediana": 8,
+     "p10": 2.0,
+     "p90": 159.4,
+     "max": 394,
+     "min": 0
+    }
+   },
+   "1_difieren": {
+    "instantes": 11247,
+    "difieren": 9440,
+    "pct": 83.93,
+    "obedece": 797,
+    "sujeta": 8643,
+    "pct_por_plan": {
+     "n": 251,
+     "media": 63.7,
+     "mediana": 75.0,
+     "p10": 0.0,
+     "p90": 100.0,
+     "max": 100.0,
+     "min": 0.0
+    },
+    "sin_d": 0,
+    "negativos": 37
+   },
+   "2_deformacion": {
+    "por_instante_que_difiere": {
+     "n": 9440,
+     "media": 0.16756,
+     "mediana": 0.15281,
+     "p10": 0.0253,
+     "p90": 0.28579,
+     "max": 1.71224,
+     "min": -0.48593
+    },
+    "por_instante_obedece": {
+     "n": 797,
+     "media": 0.09376,
+     "mediana": 0.06502,
+     "p10": 0.0,
+     "p90": 0.24927,
+     "max": 1.71224,
+     "min": -0.48593
+    },
+    "por_instante_sujeta": {
+     "n": 8643,
+     "media": 0.17437,
+     "mediana": 0.15409,
+     "p10": 0.03385,
+     "p90": 0.29109,
+     "max": 1.31086,
+     "min": 0.0
+    },
+    "por_instante_diario": {
+     "n": 9379,
+     "media": 0.18467,
+     "mediana": 0.16237,
+     "p10": 0.03502,
+     "p90": 0.33173,
+     "max": 1.31086,
+     "min": 0.0
+    },
+    "acumulada_por_plan": {
+     "n": 253,
+     "media": 6.2522,
+     "mediana": 0.2789,
+     "p10": 0.0,
+     "p90": 17.0104,
+     "max": 102.0382,
+     "min": -4.0707
+    },
+    "acumulada_por_plan_diario": {
+     "n": 253,
+     "media": 6.846,
+     "mediana": 0.5991,
+     "p10": 0.0,
+     "p90": 19.1197,
+     "max": 102.0382,
+     "min": 0.0
+    },
+    "acumulada_todos_los_tics": {
+     "n": 253,
+     "media": 6.2522,
+     "mediana": 0.2789,
+     "p10": 0.0,
+     "p90": 17.0104,
+     "max": 102.0382,
+     "min": -4.0707
+    },
+    "por_100_tics_vivo": {
+     "n": 253,
+     "media": 3.326,
+     "mediana": 0.5726,
+     "p10": 0.0,
+     "p90": 9.9412,
+     "max": 51.796,
+     "min": -4.7157
+    }
+   },
+   "3_soltados_contra_cumplidos": {
+    "soltados": {
+     "n": 208,
+     "acumulada": {
+      "n": 208,
+      "media": 2.4231,
+      "mediana": 0.1822,
+      "p10": 0.0,
+      "p90": 4.0742,
+      "max": 70.8521,
+      "min": -4.0707
+     },
+     "por_100_tics": {
+      "n": 208,
+      "media": 2.1103,
+      "mediana": 0.4024,
+      "p10": 0.0,
+      "p90": 5.7672,
+      "max": 45.1287,
+      "min": -4.7157
+     },
+     "tics_vivo": {
+      "n": 208,
+      "media": 74.9,
+      "mediana": 42.5,
+      "p10": 22.7,
+      "p90": 198.9,
+      "max": 393,
+      "min": 1
+     },
+     "por_razon": {
+      "soltado: reevaluacion": 132,
+      "soltado: vida": 76
+     }
+    },
+    "cumplidos": {
+     "n": 36,
+     "acumulada": {
+      "n": 36,
+      "media": 29.897,
+      "mediana": 19.9723,
+      "p10": 2.0566,
+      "p90": 67.6128,
+      "max": 102.0382,
+      "min": 0.0
+     },
+     "por_100_tics": {
+      "n": 36,
+      "media": 11.1348,
+      "mediana": 8.6763,
+      "p10": 2.4784,
+      "p90": 21.1703,
+      "max": 51.796,
+      "min": 0.0
+     },
+     "tics_vivo": {
+      "n": 36,
+      "media": 283.3,
+      "mediana": 322.0,
+      "p10": 97.0,
+      "p90": 422.5,
+      "max": 443,
+      "min": 20
+     },
+     "por_razon": {
+      "cumplido: andado": 36
+     }
+    },
+    "muerte_o_fin_con_plan_vivo": {
+     "n": 9,
+     "acumulada": {
+      "n": 9,
+      "media": 0.168,
+      "mediana": 0.0,
+      "p10": 0.0,
+      "p90": 0.5288,
+      "max": 0.9501,
+      "min": 0.0
+     }
+    },
+    "umbral": {
+     "p90_soltados_menor_que_p10_cumplidos": false,
+     "p90_cumplidos_menor_que_p10_soltados": false,
+     "soltados_por_encima_de_la_mediana_de_cumplidos": 6,
+     "cumplidos_por_encima_de_la_mediana_de_soltados": 35,
+     "mayor_soltado": 70.85209,
+     "mayor_cumplido": 102.03821
+    }
+   },
+   "4_compensa": {
+    "cumplidos_con_A4_emparejado": 30,
+    "cumplidos_sin_pareja_A4": 6,
+    "ahorro_tics_ardiendo": {
+     "n": 30,
+     "media": 41.9,
+     "mediana": 0.0,
+     "p10": -17.1,
+     "p90": 146.7,
+     "max": 236,
+     "min": -28
+    },
+    "arde_propio": {
+     "n": 30,
+     "media": 10.9,
+     "mediana": 8.0,
+     "p10": 0.0,
+     "p90": 28.0,
+     "max": 35,
+     "min": 0
+    },
+    "arde_A4_misma_ventana": {
+     "n": 30,
+     "media": 52.8,
+     "mediana": 2.5,
+     "p10": 0.0,
+     "p90": 179.0,
+     "max": 236,
+     "min": 0
+    },
+    "ahorro_positivo": 13,
+    "ahorro_negativo": 11,
+    "spearman_defo_ahorro": -0.0659,
+    "ahorro_por_unidad_de_deformacion": {
+     "n": 30,
+     "media": 3.3,
+     "mediana": 0.0,
+     "p10": -1.1,
+     "p90": 11.9,
+     "max": 20.8,
+     "min": -1.6
+    },
+    "todos_los_planes_con_A4": {
+     "n": 188,
+     "ahorro": {
+      "n": 188,
+      "media": 4.5,
+      "mediana": -1.0,
+      "p10": -32.3,
+      "p90": 49.6,
+      "max": 236,
+      "min": -50
+     },
+     "spearman": 0.1447
+    }
+   },
+   "5_huella": {
+    "tras": {
+     "tics": 42156,
+     "iguales": 42045,
+     "pct": 99.74
+    },
+    "tras_listos": {
+     "tics": 11571,
+     "iguales": 11465,
+     "pct": 99.08
+    },
+    "antes": {
+     "tics": 48800,
+     "iguales": 48641,
+     "pct": 99.67
+    },
+    "A4_tras": {
+     "tics": 30768,
+     "iguales": 30411,
+     "pct": 98.84
+    },
+    "A4_tras_listos": {
+     "tics": 7939,
+     "iguales": 7903,
+     "pct": 99.55
+    },
+    "A4_antes": {
+     "tics": 36995,
+     "iguales": 36533,
+     "pct": 98.75
+    },
+    "ventanas": 244,
+    "ventanas_con_A4": 244
+   }
+  },
+  "A8": {
+   "vidas": 78,
+   "partidas": 40,
+   "fidelidad_replica": {
+    "igual": 969279,
+    "difiere": 561,
+    "sin_replica": 0,
+    "pct_igual": 99.94
+   },
+   "fidelidad_en_instantes_con_plan": {
+    "n": 1000,
+    "replica_igual_a_propio": 985,
+    "pct": 98.5
+   },
+   "fm_gana_en_replica": 2804,
+   "fm_errores": 0,
+   "planes": {
+    "aceptados": 98,
+    "por_razon": {
+     "soltado: vida": 19,
+     "soltado: reevaluacion": 51,
+     "fin de partida con plan vivo": 1,
+     "cumplido: andado": 19,
+     "sustituido por el siguiente": 8
+    },
+    "tics_vivo": {
+     "n": 98,
+     "media": 52.9,
+     "mediana": 40.0,
+     "p10": 15.0,
+     "p90": 111.9,
+     "max": 200,
+     "min": 3
+    },
+    "instantes_por_plan": {
+     "n": 98,
+     "media": 12.4,
+     "mediana": 5.5,
+     "p10": 1.0,
+     "p90": 35.1,
+     "max": 164,
+     "min": 0
+    }
+   },
+   "1_difieren": {
+    "instantes": 1214,
+    "difieren": 1000,
+    "pct": 82.37,
+    "obedece": 460,
+    "sujeta": 540,
+    "pct_por_plan": {
+     "n": 97,
+     "media": 63.1,
+     "mediana": 66.7,
+     "p10": 0.0,
+     "p90": 100.0,
+     "max": 100.0,
+     "min": 0.0
+    },
+    "sin_d": 1,
+    "negativos": 8
+   },
+   "2_deformacion": {
+    "por_instante_que_difiere": {
+     "n": 999,
+     "media": 0.11915,
+     "mediana": 0.10101,
+     "p10": 0.00531,
+     "p90": 0.26441,
+     "max": 1.68531,
+     "min": -0.3004
+    },
+    "por_instante_obedece": {
+     "n": 459,
+     "media": 0.09599,
+     "mediana": 0.08896,
+     "p10": 0.0,
+     "p90": 0.18264,
+     "max": 1.68531,
+     "min": -0.3004
+    },
+    "por_instante_sujeta": {
+     "n": 540,
+     "media": 0.13883,
+     "mediana": 0.13838,
+     "p10": 0.00532,
+     "p90": 0.28526,
+     "max": 0.71799,
+     "min": 0.00531
+    },
+    "por_instante_diario": {
+     "n": 778,
+     "media": 0.17014,
+     "mediana": 0.17476,
+     "p10": 0.00532,
+     "p90": 0.39867,
+     "max": 0.71799,
+     "min": 0.0
+    },
+    "acumulada_por_plan": {
+     "n": 98,
+     "media": 1.2146,
+     "mediana": 0.2667,
+     "p10": 0.0,
+     "p90": 3.9316,
+     "max": 12.6325,
+     "min": -0.3896
+    },
+    "acumulada_por_plan_diario": {
+     "n": 98,
+     "media": 1.3507,
+     "mediana": 0.363,
+     "p10": 0.0,
+     "p90": 4.7378,
+     "max": 12.3675,
+     "min": 0.0
+    },
+    "acumulada_todos_los_tics": {
+     "n": 98,
+     "media": 1.2146,
+     "mediana": 0.2667,
+     "p10": 0.0,
+     "p90": 3.9316,
+     "max": 12.6325,
+     "min": -0.3896
+    },
+    "por_100_tics_vivo": {
+     "n": 98,
+     "media": 1.9785,
+     "mediana": 0.6554,
+     "p10": 0.0,
+     "p90": 5.4683,
+     "max": 21.3125,
+     "min": -0.9276
+    }
+   },
+   "3_soltados_contra_cumplidos": {
+    "soltados": {
+     "n": 70,
+     "acumulada": {
+      "n": 70,
+      "media": 1.108,
+      "mediana": 0.2931,
+      "p10": 0.0,
+      "p90": 3.323,
+      "max": 12.6325,
+      "min": -0.3645
+     },
+     "por_100_tics": {
+      "n": 70,
+      "media": 2.1138,
+      "mediana": 0.6809,
+      "p10": 0.0,
+      "p90": 5.4215,
+      "max": 21.3125,
+      "min": -0.5441
+     },
+     "tics_vivo": {
+      "n": 70,
+      "media": 50.0,
+      "mediana": 39.0,
+      "p10": 15.9,
+      "p90": 105.2,
+      "max": 200,
+      "min": 3
+     },
+     "por_razon": {
+      "soltado: vida": 19,
+      "soltado: reevaluacion": 51
+     }
+    },
+    "cumplidos": {
+     "n": 19,
+     "acumulada": {
+      "n": 19,
+      "media": 2.1141,
+      "mediana": 0.3305,
+      "p10": -0.0314,
+      "p90": 7.045,
+      "max": 10.7955,
+      "min": -0.3896
+     },
+     "por_100_tics": {
+      "n": 19,
+      "media": 1.9851,
+      "mediana": 0.5331,
+      "p10": -0.0361,
+      "p90": 6.0366,
+      "max": 9.0291,
+      "min": -0.9276
+     },
+     "tics_vivo": {
+      "n": 19,
+      "media": 76.5,
+      "mediana": 71,
+      "p10": 31.6,
+      "p90": 131.6,
+      "max": 182,
+      "min": 17
+     },
+     "por_razon": {
+      "cumplido: andado": 19
+     }
+    },
+    "muerte_o_fin_con_plan_vivo": {
+     "n": 1,
+     "acumulada": {
+      "n": 1,
+      "media": 0.0,
+      "mediana": 0.0,
+      "p10": 0.0,
+      "p90": 0.0,
+      "max": 0.0,
+      "min": 0.0
+     }
+    },
+    "umbral": {
+     "p90_soltados_menor_que_p10_cumplidos": false,
+     "p90_cumplidos_menor_que_p10_soltados": false,
+     "soltados_por_encima_de_la_mediana_de_cumplidos": 31,
+     "cumplidos_por_encima_de_la_mediana_de_soltados": 10,
+     "mayor_soltado": 12.63253,
+     "mayor_cumplido": 10.79551
+    }
+   },
+   "4_compensa": {
+    "cumplidos_con_A4_emparejado": 15,
+    "cumplidos_sin_pareja_A4": 4,
+    "ahorro_tics_ardiendo": {
+     "n": 15,
+     "media": 15.2,
+     "mediana": 0,
+     "p10": -22.2,
+     "p90": 58.0,
+     "max": 146,
+     "min": -32
+    },
+    "arde_propio": {
+     "n": 15,
+     "media": 8.7,
+     "mediana": 8,
+     "p10": 0.0,
+     "p90": 22.6,
+     "max": 32,
+     "min": 0
+    },
+    "arde_A4_misma_ventana": {
+     "n": 15,
+     "media": 23.9,
+     "mediana": 0,
+     "p10": 0.0,
+     "p90": 68.0,
+     "max": 154,
+     "min": 0
+    },
+    "ahorro_positivo": 5,
+    "ahorro_negativo": 5,
+    "spearman_defo_ahorro": 0.1818,
+    "ahorro_por_unidad_de_deformacion": {
+     "n": 12,
+     "media": 25.4,
+     "mediana": 0.0,
+     "p10": -7.6,
+     "p90": 134.9,
+     "max": 153.0,
+     "min": -14.0
+    },
+    "todos_los_planes_con_A4": {
+     "n": 75,
+     "ahorro": {
+      "n": 75,
+      "media": 4.3,
+      "mediana": 0,
+      "p10": -20.0,
+      "p90": 30.4,
+      "max": 146,
+      "min": -34
+     },
+     "spearman": 0.1344
+    }
+   },
+   "5_huella": {
+    "tras": {
+     "tics": 17031,
+     "iguales": 16980,
+     "pct": 99.7
+    },
+    "tras_listos": {
+     "tics": 2662,
+     "iguales": 2630,
+     "pct": 98.8
+    },
+    "antes": {
+     "tics": 19400,
+     "iguales": 19381,
+     "pct": 99.9
+    },
+    "A4_tras": {
+     "tics": 12004,
+     "iguales": 11977,
+     "pct": 99.78
+    },
+    "A4_tras_listos": {
+     "tics": 3275,
+     "iguales": 3265,
+     "pct": 99.69
+    },
+    "A4_antes": {
+     "tics": 15309,
+     "iguales": 15199,
+     "pct": 99.28
+    },
+    "ventanas": 97,
+    "ventanas_con_A4": 97
+   }
+  },
+  "A4": {
+   "vidas": 80,
+   "fidelidad_replica": {
+    "igual": 1005891,
+    "difiere": 1385,
+    "sin_replica": 0,
+    "pct_igual": 99.86
+   }
+  }
+ },
+ "6_oraculo_contra_razonador": {
+  "1_pct_difieren": [
+   83.93,
+   82.37
+  ],
+  "2_por_instante_mediana": [
+   0.15281,
+   0.10101
+  ],
+  "2_acumulada_mediana": [
+   0.2789,
+   0.2667
+  ],
+  "2_acumulada_p90": [
+   17.0104,
+   3.9316
+  ],
+  "3_soltados_mediana": [
+   0.1822,
+   0.2931
+  ],
+  "3_cumplidos_mediana": [
+   19.9723,
+   0.3305
+  ],
+  "4_ahorro_mediana_cumplidos": [
+   0.0,
+   0
+  ],
+  "planes": [
+   253,
+   98
+  ]
+ }
+}

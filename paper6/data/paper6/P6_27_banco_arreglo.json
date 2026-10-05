@@ -1,0 +1,198 @@
+{
+ "nota": "P6-27 · 1. Banco del arreglo: las 4 vidas del humo de P6-26 repetidas con policy_pareja27 y las mismas respuestas del modelo (replay); comparacion tic a tic con el campo.",
+ "vidas": [
+  {
+   "vida": "P626_t1_A8_20260916 gent_10",
+   "tics": 13560,
+   "segundos": 666.6,
+   "preguntas_campo": [
+    12606,
+    12732,
+    12975,
+    13980
+   ],
+   "preguntas_replay": [
+    12606,
+    12721,
+    12754,
+    12787,
+    12820,
+    12853,
+    12887,
+    12953,
+    14025
+   ],
+   "disparos_iguales": false,
+   "textos_iguales": 1,
+   "textos_comparados": 1,
+   "veredictos_campo": [
+    [
+     12726,
+     "area"
+    ],
+    [
+     12912,
+     "area"
+    ],
+    [
+     12938,
+     "area"
+    ],
+    [
+     13184,
+     "area"
+    ]
+   ],
+   "veredictos_replay": [
+    [
+     12694,
+     "area"
+    ]
+   ],
+   "veredictos_iguales": false,
+   "encargos_ligeros": 13560,
+   "ms_max": 4.486,
+   "bytes_max": 5919,
+   "errores": [
+    "replay: sin respuesta grabada para este tic",
+    "replay: sin respuesta grabada para este tic",
+    "replay: sin respuesta grabada para este tic"
+   ],
+   "textos_distintos": []
+  },
+  {
+   "vida": "P626_t1_A8_20260916 gent_11",
+   "tics": 12528,
+   "segundos": 581.0,
+   "preguntas_campo": [
+    12419,
+    12667,
+    12887
+   ],
+   "preguntas_replay": [
+    12419,
+    12557,
+    12667,
+    12887,
+    12921,
+    12954,
+    12987
+   ],
+   "disparos_iguales": false,
+   "textos_iguales": 3,
+   "textos_comparados": 3,
+   "veredictos_campo": [
+    [
+     12573,
+     "area"
+    ],
+    [
+     12772,
+     "ok"
+    ]
+   ],
+   "veredictos_replay": [
+    [
+     12544,
+     "area"
+    ],
+    [
+     12754,
+     "ok"
+    ]
+   ],
+   "veredictos_iguales": true,
+   "encargos_ligeros": 12528,
+   "ms_max": 0.706,
+   "bytes_max": 5867,
+   "errores": [
+    "replay: sin respuesta grabada para este tic",
+    "replay: sin respuesta grabada para este tic",
+    "replay: sin respuesta grabada para este tic"
+   ],
+   "textos_distintos": []
+  },
+  {
+   "vida": "P626_t1_A8_20365645 gent_10",
+   "tics": 11096,
+   "segundos": 525.0,
+   "preguntas_campo": [],
+   "preguntas_replay": [],
+   "disparos_iguales": true,
+   "textos_iguales": 0,
+   "textos_comparados": 0,
+   "veredictos_campo": [],
+   "veredictos_replay": [],
+   "veredictos_iguales": true,
+   "encargos_ligeros": 11096,
+   "ms_max": 0.615,
+   "bytes_max": 5841,
+   "errores": [],
+   "textos_distintos": []
+  },
+  {
+   "vida": "P626_t1_A8_20365645 gent_11",
+   "tics": 11784,
+   "segundos": 545.0,
+   "preguntas_campo": [
+    11733,
+    11975,
+    12129,
+    12239
+   ],
+   "preguntas_replay": [
+    11733,
+    11997,
+    12030,
+    12063,
+    12129,
+    12239
+   ],
+   "disparos_iguales": false,
+   "textos_iguales": 3,
+   "textos_comparados": 3,
+   "veredictos_campo": [
+    [
+     11887,
+     "area"
+    ],
+    [
+     11902,
+     "area"
+    ],
+    [
+     12077,
+     "ok"
+    ],
+    [
+     12224,
+     "vida"
+    ]
+   ],
+   "veredictos_replay": [
+    [
+     11870,
+     "area"
+    ],
+    [
+     11876,
+     "area"
+    ],
+    [
+     12210,
+     "vida"
+    ]
+   ],
+   "veredictos_iguales": false,
+   "encargos_ligeros": 11784,
+   "ms_max": 0.913,
+   "bytes_max": 5775,
+   "errores": [
+    "replay: sin respuesta grabada para este tic",
+    "replay: sin respuesta grabada para este tic",
+    "replay: sin respuesta grabada para este tic"
+   ],
+   "textos_distintos": []
+  }
+ ]
+}

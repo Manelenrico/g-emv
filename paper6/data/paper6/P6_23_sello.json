@@ -1,0 +1,83 @@
+{
+ "sello": {
+  "S1": {
+   "que": "pasos perdidos (P6-21) en las fases 5-7, A7v y A7h",
+   "prediccion": "0 en los dos brazos",
+   "falla_si": "> 0,5 % de los pasos listos a casilla libre en alguno",
+   "origen": "A4 0 de 4.215 (P6-21); A6 40,5 %; A6p con el oraculo en el hilo principal 3,3 % (P6-22 §5); A7 en el bucle real y en el humo de red 0 (P6-23)"
+  },
+  "S2": {
+   "que": "rupturas «a) veto vital: armado a tiro» y «e) armado a menos de 6 y acercandose»",
+   "prediccion": "0 en los dos brazos (V2: ver un arma no rompe); alertas >= 1 en la mitad de las vidas vivas en el aviso 5",
+   "falla_si": "alguna ruptura a) o e-armado, o alertas en menos de un cuarto de esas vidas",
+   "origen": "A6: a) 672, e-armado 54 (P6-18); P6-20: 726 tics de «ver el arma» en 74 planes"
+  },
+  "S3": {
+   "que": "planes de la fase 5 sostenidos hasta el final de la fase, A7h",
+   "prediccion": ">= 20 % de los aceptados",
+   "falla_si": "< 10 %",
+   "origen": "A6 2/74 = 2.7 %; P6-20: con V2 y cuenta justa habrian seguido 16-17 de 72 (22-24 %)"
+  },
+  "S4": {
+   "que": "% de tics dentro del circulo en la fase 5, A7h (media por vida viva en el aviso 5)",
+   "prediccion": "> 35.4 (A6)",
+   "falla_si": "< 32.7 (A4)",
+   "origen": "A4 32.7, A5h 27,4, A6 35.4 (P6-18)"
+  },
+  "S5": {
+   "que": "tics ardiendo en la fase 5, A7h (media por vida)",
+   "prediccion": "< 159.3 (A6)",
+   "falla_si": "> 196 (A4)",
+   "origen": "A4 196, A6 159.3 (P6-18)"
+  },
+  "S6": {
+   "que": "suspensiones (primer golpe con el plan vivo y sujeto) en las 40 vidas de A7h",
+   "prediccion": "<= 10 (y reanudaciones <= suspensiones)",
+   "falla_si": "> 30",
+   "origen": "P6-20: 1 primer golpe estando sujeto en 40 vidas de A6, con V0 soltando al cuerpo; con V2 el cuerpo se queda: cota esperada 4,8-10,1 puntos de dano"
+  },
+  "S7": {
+   "que": "caidas por «vida real bajo la proyectada» en los planes de la fase 5, A7h",
+   "prediccion": "<= 30",
+   "falla_si": ">= 47 (A6)",
+   "origen": "A6 47 de 74; P6-20: 24 sin desviacion alguna (fuego siguiendo el plan) que la cuenta justa no rescata, 16-17 que si"
+  },
+  "S8": {
+   "que": "planes aceptados en la fase 5: A7h (puerta6) frente a A7v (comparador del cinco)",
+   "prediccion": "A7h >= 3 x A7v",
+   "falla_si": "A7h < 1,5 x A7v",
+   "origen": "P6-16: A5h 129 aceptados, A5v 3; P6-18 banco: puerta6 prefiere quedarse en 48 de 63, la del cinco en 0"
+  },
+  "S9": {
+   "que": "secundarias, de poca potencia (declarado; solo direccion, sin fallo): muertes por anillo y supervivientes, A7h contra A4",
+   "prediccion": "anillo <= 22; supervivientes >= 11",
+   "falla_si": "(no se sella: +-10 vidas es lo detectable con 20 semillas, P6-17)",
+   "origen": "A4 anillo 22, rival 6, supervivientes 11; A6 21, 7, 12"
+  },
+  "S10": {
+   "que": "gasto",
+   "prediccion": "<= 5 USD (humo + 40 partidas)",
+   "falla_si": "> 5 USD",
+   "origen": "P6-18: 20 partidas 1,31 USD; P6-22 humo 0,026"
+  }
+ },
+ "md5": {
+  "cantera/paper6/policy_pareja23.py": "5947b1d9c3ef99e61624ed09d0afa7ec",
+  "cantera/paper6/compromiso6c_P6_23.py": "38d8529db6362b8f792ff958f5b29855",
+  "cantera/paper6/puerta_proceso_P6_23.py": "848fa2dabf55a2ba8778c757aa9c81c3",
+  "cantera/paper6/humo_red_P6_23.py": "8774b6c7aa845d6151a85c5301e0aeb8",
+  "cantera/paper6/Dockerfile.pareja23": "30264d3d8463594bd19c575407d5fce0",
+  "cantera/paper6/lanza_P6_23.py": "772e5410bcad039ea2fba0acfebe826a",
+  "cantera/paper6/mide_campo_P6_23.py": "d37a7567192cfdc181657ae60802df70",
+  "cantera/paper6/policy_pareja16.py": "10bc8a84a7931f2354478376af69ce6b",
+  "cantera/paper6/oraculo_P6_14.py": "a791ddc0cca9940b9c80920dc66a623d",
+  "cantera/paper6/puerta6_P6_15.py": "7c70ae1752c7ac1aae457d0c5b2d36f3",
+  "cantera/paper6/puerta6g_P6_19.py": "6e3c08e634c43b30236a0fa0b4990614",
+  "cantera/paper6/P6_19_tasas.json": "7926543a50be0ecf47efe7665621e44f",
+  "cantera/paper6/compromiso6_P6_16.py": "a5e959b5ad9375636e8f7245441ba411",
+  "cantera/paper6/policy_pareja11.py": "e7136f856e6c09dd033bb4658cd135ea",
+  "motor/model.py": "1e511978c251130e95169ebf8443efa1",
+  "paintball/alma/decisor_zs.py": "8fa03547e3228ef9df4aa94c444f9252",
+  "paintball/alma/appraisal_zs_v42_exp.py": "98c13d60167c80cc8334c965be75c640"
+ }
+}

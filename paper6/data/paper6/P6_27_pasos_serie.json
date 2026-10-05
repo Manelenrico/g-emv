@@ -1,0 +1,1645 @@
+{
+ "nota": "P6-22. INSTRUMENTO DE MEDIDA (la medida de P6-21). Por brazo y fase.",
+ "brazos": {
+  "A8": {
+   "partidas": 20,
+   "vidas": 39,
+   "por_fase": {
+    "antes del aviso 1": {
+     "tics": 265785,
+     "pasos a casilla libre": 14303,
+     "dado en el tic": 14274,
+     "perdido": 0,
+     "pct_perdido": 0.0,
+     "fantasma": 0,
+     "pct_fantasma_por_tic": 0.0,
+     "retraso_minimo_fantasma": {
+      "n": 0
+     },
+     "retraso_pasos_dados": {
+      "n": 14436,
+      "mediana": 0,
+      "p90": 0,
+      "max": 0,
+      "0": 14436,
+      "1-2": 0,
+      ">=3": 0,
+      ">=10": 0
+     }
+    },
+    "fases 1-4": {
+     "tics": 176835,
+     "pasos a casilla libre": 9789,
+     "dado en el tic": 9683,
+     "perdido": 4,
+     "pct_perdido": 0.04,
+     "fantasma": 0,
+     "pct_fantasma_por_tic": 0.0,
+     "retraso_minimo_fantasma": {
+      "n": 0
+     },
+     "retraso_pasos_dados": {
+      "n": 9848,
+      "mediana": 0,
+      "p90": 0,
+      "max": 1,
+      "0": 9847,
+      "1-2": 1,
+      ">=3": 0,
+      ">=10": 0
+     }
+    },
+    "fases 5-7": {
+     "tics": 62808,
+     "pasos a casilla libre": 4446,
+     "dado en el tic": 4430,
+     "perdido": 5,
+     "pct_perdido": 0.11,
+     "fantasma": 0,
+     "pct_fantasma_por_tic": 0.0,
+     "retraso_minimo_fantasma": {
+      "n": 0
+     },
+     "retraso_pasos_dados": {
+      "n": 4464,
+      "mediana": 0,
+      "p90": 0,
+      "max": 0,
+      "0": 4464,
+      "1-2": 0,
+      ">=3": 0,
+      ">=10": 0
+     }
+    }
+   },
+   "vidas_con_perdidos_fases_5-7": 4,
+   "vidas_lista": [
+    {
+     "carpeta": "P627_t1_A8_20260916",
+     "slot": 10,
+     "tics": 14448,
+     "antes del aviso 1": {
+      "perdido": 0,
+      "libre": 158,
+      "fantasma": 0
+     },
+     "fases 1-4": {
+      "perdido": 0,
+      "libre": 208,
+      "fantasma": 0
+     },
+     "fases 5-7": {
+      "perdido": 1,
+      "libre": 153,
+      "fantasma": 0
+     }
+    },
+    {
+     "carpeta": "P627_t1_A8_20260916",
+     "slot": 11,
+     "tics": 14448,
+     "antes del aviso 1": {
+      "perdido": 0,
+      "libre": 188,
+      "fantasma": 0
+     },
+     "fases 1-4": {
+      "perdido": 0,
+      "libre": 83,
+      "fantasma": 0
+     },
+     "fases 5-7": {
+      "perdido": 0,
+      "libre": 209,
+      "fantasma": 0
+     }
+    },
+    {
+     "carpeta": "P627_t1_A8_20365645",
+     "slot": 10,
+     "tics": 11616,
+     "antes del aviso 1": {
+      "perdido": 0,
+      "libre": 82,
+      "fantasma": 0
+     },
+     "fases 1-4": {
+      "perdido": 1,
+      "libre": 215,
+      "fantasma": 0
+     },
+     "fases 5-7": {
+      "perdido": 0,
+      "libre": 22,
+      "fantasma": 0
+     }
+    },
+    {
+     "carpeta": "P627_t1_A8_20365645",
+     "slot": 11,
+     "tics": 11544,
+     "antes del aviso 1": {
+      "perdido": 0,
+      "libre": 79,
+      "fantasma": 0
+     },
+     "fases 1-4": {
+      "perdido": 0,
+      "libre": 212,
+      "fantasma": 0
+     },
+     "fases 5-7": {
+      "perdido": 0,
+      "libre": 14,
+      "fantasma": 0
+     }
+    },
+    {
+     "carpeta": "P627_t1_A8_20470374",
+     "slot": 10,
+     "tics": 12024,
+     "antes del aviso 1": {
+      "perdido": 0,
+      "libre": 618,
+      "fantasma": 0
+     },
+     "fases 1-4": {
+      "perdido": 0,
+      "libre": 344,
+      "fantasma": 0
+     },
+     "fases 5-7": {
+      "perdido": 0,
+      "libre": 59,
+      "fantasma": 0
+     }
+    },
+    {
+     "carpeta": "P627_t1_A8_20470374",
+     "slot": 11,
+     "tics": 13032,
+     "antes del aviso 1": {
+      "perdido": 0,
+      "libre": 172,
+      "fantasma": 0
+     },
+     "fases 1-4": {
+      "perdido": 0,
+      "libre": 180,
+      "fantasma": 0
+     },
+     "fases 5-7": {
+      "perdido": 1,
+      "libre": 152,
+      "fantasma": 0
+     }
+    },
+    {
+     "carpeta": "P627_t1_A8_20575103",
+     "slot": 10,
+     "tics": 11328,
+     "antes del aviso 1": {
+      "perdido": 0,
+      "libre": 188,
+      "fantasma": 0
+     },
+     "fases 1-4": {
+      "perdido": 0,
+      "libre": 327,
+      "fantasma": 0
+     }
+    },
+    {
+     "carpeta": "P627_t1_A8_20575103",
+     "slot": 11,
+     "tics": 12312,
+     "antes del aviso 1": {
+      "perdido": 0,
+      "libre": 369,
+      "fantasma": 0
+     },
+     "fases 1-4": {
+      "perdido": 0,
+      "libre": 295,
+      "fantasma": 0
+     },
+     "fases 5-7": {
+      "perdido": 0,
+      "libre": 84,
+      "fantasma": 0
+     }
+    },
+    {
+     "carpeta": "P627_t1_A8_20679832",
+     "slot": 10,
+     "tics": 14304,
+     "antes del aviso 1": {
+      "perdido": 0,
+      "libre": 620,
+      "fantasma": 0
+     },
+     "fases 1-4": {
+      "perdido": 0,
+      "libre": 397,
+      "fantasma": 0
+     },
+     "fases 5-7": {
+      "perdido": 0,
+      "libre": 222,
+      "fantasma": 0
+     }
+    },
+    {
+     "carpeta": "P627_t1_A8_20679832",
+     "slot": 11,
+     "tics": 13512,
+     "antes del aviso 1": {
+      "perdido": 0,
+      "libre": 596,
+      "fantasma": 0
+     },
+     "fases 1-4": {
+      "perdido": 0,
+      "libre": 391,
+      "fantasma": 0
+     },
+     "fases 5-7": {
+      "perdido": 0,
+      "libre": 136,
+      "fantasma": 0
+     }
+    },
+    {
+     "carpeta": "P627_t1_A8_20784561",
+     "slot": 10,
+     "tics": 12096,
+     "antes del aviso 1": {
+      "perdido": 0,
+      "libre": 495,
+      "fantasma": 0
+     },
+     "fases 1-4": {
+      "perdido": 0,
+      "libre": 279,
+      "fantasma": 0
+     },
+     "fases 5-7": {
+      "perdido": 0,
+      "libre": 56,
+      "fantasma": 0
+     }
+    },
+    {
+     "carpeta": "P627_t1_A8_20784561",
+     "slot": 11,
+     "tics": 12216,
+     "antes del aviso 1": {
+      "perdido": 0,
+      "libre": 491,
+      "fantasma": 0
+     },
+     "fases 1-4": {
+      "perdido": 0,
+      "libre": 348,
+      "fantasma": 0
+     },
+     "fases 5-7": {
+      "perdido": 0,
+      "libre": 73,
+      "fantasma": 0
+     }
+    },
+    {
+     "carpeta": "P627_t1_A8_20889290",
+     "slot": 10,
+     "tics": 12648,
+     "antes del aviso 1": {
+      "perdido": 0,
+      "libre": 380,
+      "fantasma": 0
+     },
+     "fases 1-4": {
+      "perdido": 0,
+      "libre": 398,
+      "fantasma": 0
+     },
+     "fases 5-7": {
+      "perdido": 0,
+      "libre": 73,
+      "fantasma": 0
+     }
+    },
+    {
+     "carpeta": "P627_t1_A8_20889290",
+     "slot": 11,
+     "tics": 12312,
+     "antes del aviso 1": {
+      "perdido": 0,
+      "libre": 452,
+      "fantasma": 0
+     },
+     "fases 1-4": {
+      "perdido": 0,
+      "libre": 397,
+      "fantasma": 0
+     },
+     "fases 5-7": {
+      "perdido": 0,
+      "libre": 37,
+      "fantasma": 0
+     }
+    },
+    {
+     "carpeta": "P627_t1_A8_20994019",
+     "slot": 10,
+     "tics": 11280,
+     "antes del aviso 1": {
+      "perdido": 0,
+      "libre": 33,
+      "fantasma": 0
+     },
+     "fases 1-4": {
+      "perdido": 0,
+      "libre": 168,
+      "fantasma": 0
+     }
+    },
+    {
+     "carpeta": "P627_t1_A8_20994019",
+     "slot": 11,
+     "tics": 11376,
+     "antes del aviso 1": {
+      "perdido": 0,
+      "libre": 37,
+      "fantasma": 0
+     },
+     "fases 1-4": {
+      "perdido": 0,
+      "libre": 234,
+      "fantasma": 0
+     },
+     "fases 5-7": {
+      "perdido": 0,
+      "libre": 0,
+      "fantasma": 0
+     }
+    },
+    {
+     "carpeta": "P627_t1_A8_21098748",
+     "slot": 10,
+     "tics": 12456,
+     "antes del aviso 1": {
+      "perdido": 0,
+      "libre": 562,
+      "fantasma": 0
+     },
+     "fases 1-4": {
+      "perdido": 0,
+      "libre": 199,
+      "fantasma": 0
+     },
+     "fases 5-7": {
+      "perdido": 0,
+      "libre": 88,
+      "fantasma": 0
+     }
+    },
+    {
+     "carpeta": "P627_t1_A8_21098748",
+     "slot": 11,
+     "tics": 12264,
+     "antes del aviso 1": {
+      "perdido": 0,
+      "libre": 613,
+      "fantasma": 0
+     },
+     "fases 1-4": {
+      "perdido": 0,
+      "libre": 313,
+      "fantasma": 0
+     },
+     "fases 5-7": {
+      "perdido": 0,
+      "libre": 80,
+      "fantasma": 0
+     }
+    },
+    {
+     "carpeta": "P627_t1_A8_21203477",
+     "slot": 10,
+     "tics": 14184,
+     "antes del aviso 1": {
+      "perdido": 0,
+      "libre": 400,
+      "fantasma": 0
+     },
+     "fases 1-4": {
+      "perdido": 0,
+      "libre": 310,
+      "fantasma": 0
+     },
+     "fases 5-7": {
+      "perdido": 0,
+      "libre": 231,
+      "fantasma": 0
+     }
+    },
+    {
+     "carpeta": "P627_t1_A8_21203477",
+     "slot": 11,
+     "tics": 10512,
+     "antes del aviso 1": {
+      "perdido": 0,
+      "libre": 395,
+      "fantasma": 0
+     },
+     "fases 1-4": {
+      "perdido": 1,
+      "libre": 249,
+      "fantasma": 0
+     }
+    },
+    {
+     "carpeta": "P627_t1_A8_21308206",
+     "slot": 10,
+     "tics": 13536,
+     "antes del aviso 1": {
+      "perdido": 0,
+      "libre": 290,
+      "fantasma": 0
+     },
+     "fases 1-4": {
+      "perdido": 0,
+      "libre": 124,
+      "fantasma": 0
+     },
+     "fases 5-7": {
+      "perdido": 0,
+      "libre": 153,
+      "fantasma": 0
+     }
+    },
+    {
+     "carpeta": "P627_t1_A8_21308206",
+     "slot": 11,
+     "tics": 13368,
+     "antes del aviso 1": {
+      "perdido": 0,
+      "libre": 360,
+      "fantasma": 0
+     },
+     "fases 1-4": {
+      "perdido": 0,
+      "libre": 192,
+      "fantasma": 0
+     },
+     "fases 5-7": {
+      "perdido": 0,
+      "libre": 120,
+      "fantasma": 0
+     }
+    },
+    {
+     "carpeta": "P627_t1_A8_21412935",
+     "slot": 10,
+     "tics": 14161,
+     "antes del aviso 1": {
+      "perdido": 0,
+      "libre": 127,
+      "fantasma": 0
+     },
+     "fases 1-4": {
+      "perdido": 0,
+      "libre": 159,
+      "fantasma": 0
+     },
+     "fases 5-7": {
+      "perdido": 0,
+      "libre": 203,
+      "fantasma": 0
+     }
+    },
+    {
+     "carpeta": "P627_t1_A8_21412935",
+     "slot": 11,
+     "tics": 14210,
+     "antes del aviso 1": {
+      "perdido": 0,
+      "libre": 620,
+      "fantasma": 0
+     },
+     "fases 1-4": {
+      "perdido": 2,
+      "libre": 288,
+      "fantasma": 0
+     },
+     "fases 5-7": {
+      "perdido": 1,
+      "libre": 233,
+      "fantasma": 0
+     }
+    },
+    {
+     "carpeta": "P627_t1_A8_21517664",
+     "slot": 10,
+     "tics": 12408,
+     "antes del aviso 1": {
+      "perdido": 0,
+      "libre": 531,
+      "fantasma": 0
+     },
+     "fases 1-4": {
+      "perdido": 0,
+      "libre": 336,
+      "fantasma": 0
+     },
+     "fases 5-7": {
+      "perdido": 0,
+      "libre": 93,
+      "fantasma": 0
+     }
+    },
+    {
+     "carpeta": "P627_t1_A8_21622393",
+     "slot": 10,
+     "tics": 12500,
+     "antes del aviso 1": {
+      "perdido": 0,
+      "libre": 554,
+      "fantasma": 0
+     },
+     "fases 1-4": {
+      "perdido": 0,
+      "libre": 357,
+      "fantasma": 0
+     },
+     "fases 5-7": {
+      "perdido": 0,
+      "libre": 102,
+      "fantasma": 0
+     }
+    },
+    {
+     "carpeta": "P627_t1_A8_21622393",
+     "slot": 11,
+     "tics": 13536,
+     "antes del aviso 1": {
+      "perdido": 0,
+      "libre": 582,
+      "fantasma": 0
+     },
+     "fases 1-4": {
+      "perdido": 0,
+      "libre": 235,
+      "fantasma": 0
+     },
+     "fases 5-7": {
+      "perdido": 0,
+      "libre": 148,
+      "fantasma": 0
+     }
+    },
+    {
+     "carpeta": "P627_t1_A8_21727122",
+     "slot": 10,
+     "tics": 12432,
+     "antes del aviso 1": {
+      "perdido": 0,
+      "libre": 137,
+      "fantasma": 0
+     },
+     "fases 1-4": {
+      "perdido": 0,
+      "libre": 55,
+      "fantasma": 0
+     },
+     "fases 5-7": {
+      "perdido": 0,
+      "libre": 54,
+      "fantasma": 0
+     }
+    },
+    {
+     "carpeta": "P627_t1_A8_21727122",
+     "slot": 11,
+     "tics": 12072,
+     "antes del aviso 1": {
+      "perdido": 0,
+      "libre": 613,
+      "fantasma": 0
+     },
+     "fases 1-4": {
+      "perdido": 0,
+      "libre": 299,
+      "fantasma": 0
+     },
+     "fases 5-7": {
+      "perdido": 0,
+      "libre": 52,
+      "fantasma": 0
+     }
+    },
+    {
+     "carpeta": "P627_t1_A8_21831851",
+     "slot": 10,
+     "tics": 13272,
+     "antes del aviso 1": {
+      "perdido": 0,
+      "libre": 339,
+      "fantasma": 0
+     },
+     "fases 1-4": {
+      "perdido": 0,
+      "libre": 242,
+      "fantasma": 0
+     },
+     "fases 5-7": {
+      "perdido": 0,
+      "libre": 171,
+      "fantasma": 0
+     }
+    },
+    {
+     "carpeta": "P627_t1_A8_21831851",
+     "slot": 11,
+     "tics": 12480,
+     "antes del aviso 1": {
+      "perdido": 0,
+      "libre": 71,
+      "fantasma": 0
+     },
+     "fases 1-4": {
+      "perdido": 0,
+      "libre": 68,
+      "fantasma": 0
+     },
+     "fases 5-7": {
+      "perdido": 0,
+      "libre": 45,
+      "fantasma": 0
+     }
+    },
+    {
+     "carpeta": "P627_t1_A8_21936580",
+     "slot": 10,
+     "tics": 12744,
+     "antes del aviso 1": {
+      "perdido": 0,
+      "libre": 104,
+      "fantasma": 0
+     },
+     "fases 1-4": {
+      "perdido": 0,
+      "libre": 14,
+      "fantasma": 0
+     },
+     "fases 5-7": {
+      "perdido": 0,
+      "libre": 60,
+      "fantasma": 0
+     }
+    },
+    {
+     "carpeta": "P627_t1_A8_21936580",
+     "slot": 11,
+     "tics": 14184,
+     "antes del aviso 1": {
+      "perdido": 0,
+      "libre": 111,
+      "fantasma": 0
+     },
+     "fases 1-4": {
+      "perdido": 0,
+      "libre": 43,
+      "fantasma": 0
+     },
+     "fases 5-7": {
+      "perdido": 0,
+      "libre": 179,
+      "fantasma": 0
+     }
+    },
+    {
+     "carpeta": "P627_t1_A8_22041309",
+     "slot": 10,
+     "tics": 14101,
+     "antes del aviso 1": {
+      "perdido": 0,
+      "libre": 119,
+      "fantasma": 0
+     },
+     "fases 1-4": {
+      "perdido": 0,
+      "libre": 91,
+      "fantasma": 0
+     },
+     "fases 5-7": {
+      "perdido": 0,
+      "libre": 192,
+      "fantasma": 0
+     }
+    },
+    {
+     "carpeta": "P627_t1_A8_22041309",
+     "slot": 11,
+     "tics": 12864,
+     "antes del aviso 1": {
+      "perdido": 0,
+      "libre": 567,
+      "fantasma": 0
+     },
+     "fases 1-4": {
+      "perdido": 0,
+      "libre": 411,
+      "fantasma": 0
+     },
+     "fases 5-7": {
+      "perdido": 0,
+      "libre": 127,
+      "fantasma": 0
+     }
+    },
+    {
+     "carpeta": "P627_t1_A8_22146038",
+     "slot": 10,
+     "tics": 14256,
+     "antes del aviso 1": {
+      "perdido": 0,
+      "libre": 621,
+      "fantasma": 0
+     },
+     "fases 1-4": {
+      "perdido": 0,
+      "libre": 410,
+      "fantasma": 0
+     },
+     "fases 5-7": {
+      "perdido": 2,
+      "libre": 221,
+      "fantasma": 0
+     }
+    },
+    {
+     "carpeta": "P627_t1_A8_22146038",
+     "slot": 11,
+     "tics": 14352,
+     "antes del aviso 1": {
+      "perdido": 0,
+      "libre": 618,
+      "fantasma": 0
+     },
+     "fases 1-4": {
+      "perdido": 0,
+      "libre": 474,
+      "fantasma": 0
+     },
+     "fases 5-7": {
+      "perdido": 0,
+      "libre": 257,
+      "fantasma": 0
+     }
+    },
+    {
+     "carpeta": "P627_t1_A8_22250767",
+     "slot": 10,
+     "tics": 14520,
+     "antes del aviso 1": {
+      "perdido": 0,
+      "libre": 392,
+      "fantasma": 0
+     },
+     "fases 1-4": {
+      "perdido": 0,
+      "libre": 29,
+      "fantasma": 0
+     },
+     "fases 5-7": {
+      "perdido": 0,
+      "libre": 97,
+      "fantasma": 0
+     }
+    },
+    {
+     "carpeta": "P627_t1_A8_22250767",
+     "slot": 11,
+     "tics": 14520,
+     "antes del aviso 1": {
+      "perdido": 0,
+      "libre": 619,
+      "fantasma": 0
+     },
+     "fases 1-4": {
+      "perdido": 0,
+      "libre": 415,
+      "fantasma": 0
+     },
+     "fases 5-7": {
+      "perdido": 0,
+      "libre": 250,
+      "fantasma": 0
+     }
+    }
+   ]
+  },
+  "A8b": {
+   "partidas": 20,
+   "vidas": 39,
+   "por_fase": {
+    "antes del aviso 1": {
+     "tics": 244745,
+     "pasos a casilla libre": 17907,
+     "dado en el tic": 17834,
+     "perdido": 0,
+     "pct_perdido": 0.0,
+     "fantasma": 0,
+     "pct_fantasma_por_tic": 0.0,
+     "retraso_minimo_fantasma": {
+      "n": 0
+     },
+     "retraso_pasos_dados": {
+      "n": 18092,
+      "mediana": 0,
+      "p90": 0,
+      "max": 0,
+      "0": 18092,
+      "1-2": 0,
+      ">=3": 0,
+      ">=10": 0
+     }
+    },
+    "fases 1-4": {
+     "tics": 154711,
+     "pasos a casilla libre": 10453,
+     "dado en el tic": 10281,
+     "perdido": 0,
+     "pct_perdido": 0.0,
+     "fantasma": 0,
+     "pct_fantasma_por_tic": 0.0,
+     "retraso_minimo_fantasma": {
+      "n": 0
+     },
+     "retraso_pasos_dados": {
+      "n": 10480,
+      "mediana": 0,
+      "p90": 0,
+      "max": 0,
+      "0": 10480,
+      "1-2": 0,
+      ">=3": 0,
+      ">=10": 0
+     }
+    },
+    "fases 5-7": {
+     "tics": 64956,
+     "pasos a casilla libre": 4613,
+     "dado en el tic": 4589,
+     "perdido": 1,
+     "pct_perdido": 0.02,
+     "fantasma": 0,
+     "pct_fantasma_por_tic": 0.0,
+     "retraso_minimo_fantasma": {
+      "n": 0
+     },
+     "retraso_pasos_dados": {
+      "n": 4633,
+      "mediana": 0,
+      "p90": 0,
+      "max": 0,
+      "0": 4633,
+      "1-2": 0,
+      ">=3": 0,
+      ">=10": 0
+     }
+    }
+   },
+   "vidas_con_perdidos_fases_5-7": 1,
+   "vidas_lista": [
+    {
+     "carpeta": "P627_t2_A8_24450076",
+     "slot": 11,
+     "tics": 14112,
+     "antes del aviso 1": {
+      "perdido": 0,
+      "libre": 617,
+      "fantasma": 0
+     },
+     "fases 1-4": {
+      "perdido": 0,
+      "libre": 415,
+      "fantasma": 0
+     },
+     "fases 5-7": {
+      "perdido": 0,
+      "libre": 134,
+      "fantasma": 0
+     }
+    },
+    {
+     "carpeta": "P627_t2_A8_24554805",
+     "slot": 10,
+     "tics": 13296,
+     "antes del aviso 1": {
+      "perdido": 0,
+      "libre": 567,
+      "fantasma": 0
+     },
+     "fases 1-4": {
+      "perdido": 0,
+      "libre": 393,
+      "fantasma": 0
+     },
+     "fases 5-7": {
+      "perdido": 0,
+      "libre": 166,
+      "fantasma": 0
+     }
+    },
+    {
+     "carpeta": "P627_t2_A8_24554805",
+     "slot": 11,
+     "tics": 13296,
+     "antes del aviso 1": {
+      "perdido": 0,
+      "libre": 584,
+      "fantasma": 0
+     },
+     "fases 1-4": {
+      "perdido": 0,
+      "libre": 245,
+      "fantasma": 0
+     },
+     "fases 5-7": {
+      "perdido": 0,
+      "libre": 165,
+      "fantasma": 0
+     }
+    },
+    {
+     "carpeta": "P627_t2_A8_24659534",
+     "slot": 10,
+     "tics": 567,
+     "antes del aviso 1": {
+      "perdido": 0,
+      "libre": 51,
+      "fantasma": 0
+     }
+    },
+    {
+     "carpeta": "P627_t2_A8_24659534",
+     "slot": 11,
+     "tics": 1023,
+     "antes del aviso 1": {
+      "perdido": 0,
+      "libre": 79,
+      "fantasma": 0
+     }
+    },
+    {
+     "carpeta": "P627_t2_A8_24764263",
+     "slot": 10,
+     "tics": 14472,
+     "antes del aviso 1": {
+      "perdido": 0,
+      "libre": 539,
+      "fantasma": 0
+     },
+     "fases 1-4": {
+      "perdido": 0,
+      "libre": 276,
+      "fantasma": 0
+     },
+     "fases 5-7": {
+      "perdido": 0,
+      "libre": 113,
+      "fantasma": 0
+     }
+    },
+    {
+     "carpeta": "P627_t2_A8_24764263",
+     "slot": 11,
+     "tics": 10512,
+     "antes del aviso 1": {
+      "perdido": 0,
+      "libre": 610,
+      "fantasma": 0
+     },
+     "fases 1-4": {
+      "perdido": 0,
+      "libre": 296,
+      "fantasma": 0
+     }
+    },
+    {
+     "carpeta": "P627_t2_A8_24868992",
+     "slot": 10,
+     "tics": 11952,
+     "antes del aviso 1": {
+      "perdido": 0,
+      "libre": 283,
+      "fantasma": 0
+     },
+     "fases 1-4": {
+      "perdido": 0,
+      "libre": 323,
+      "fantasma": 0
+     },
+     "fases 5-7": {
+      "perdido": 0,
+      "libre": 43,
+      "fantasma": 0
+     }
+    },
+    {
+     "carpeta": "P627_t2_A8_24868992",
+     "slot": 11,
+     "tics": 12672,
+     "antes del aviso 1": {
+      "perdido": 0,
+      "libre": 272,
+      "fantasma": 0
+     },
+     "fases 1-4": {
+      "perdido": 0,
+      "libre": 193,
+      "fantasma": 0
+     },
+     "fases 5-7": {
+      "perdido": 0,
+      "libre": 96,
+      "fantasma": 0
+     }
+    },
+    {
+     "carpeta": "P627_t2_A8_24973721",
+     "slot": 10,
+     "tics": 14088,
+     "antes del aviso 1": {
+      "perdido": 0,
+      "libre": 605,
+      "fantasma": 0
+     },
+     "fases 1-4": {
+      "perdido": 0,
+      "libre": 390,
+      "fantasma": 0
+     },
+     "fases 5-7": {
+      "perdido": 0,
+      "libre": 241,
+      "fantasma": 0
+     }
+    },
+    {
+     "carpeta": "P627_t2_A8_24973721",
+     "slot": 11,
+     "tics": 10808,
+     "antes del aviso 1": {
+      "perdido": 0,
+      "libre": 612,
+      "fantasma": 0
+     },
+     "fases 1-4": {
+      "perdido": 0,
+      "libre": 335,
+      "fantasma": 0
+     }
+    },
+    {
+     "carpeta": "P627_t2_A8_25078450",
+     "slot": 10,
+     "tics": 12384,
+     "antes del aviso 1": {
+      "perdido": 0,
+      "libre": 392,
+      "fantasma": 0
+     },
+     "fases 1-4": {
+      "perdido": 0,
+      "libre": 298,
+      "fantasma": 0
+     },
+     "fases 5-7": {
+      "perdido": 0,
+      "libre": 85,
+      "fantasma": 0
+     }
+    },
+    {
+     "carpeta": "P627_t2_A8_25078450",
+     "slot": 11,
+     "tics": 12096,
+     "antes del aviso 1": {
+      "perdido": 0,
+      "libre": 620,
+      "fantasma": 0
+     },
+     "fases 1-4": {
+      "perdido": 0,
+      "libre": 373,
+      "fantasma": 0
+     },
+     "fases 5-7": {
+      "perdido": 0,
+      "libre": 62,
+      "fantasma": 0
+     }
+    },
+    {
+     "carpeta": "P627_t2_A8_25183179",
+     "slot": 10,
+     "tics": 11952,
+     "antes del aviso 1": {
+      "perdido": 0,
+      "libre": 620,
+      "fantasma": 0
+     },
+     "fases 1-4": {
+      "perdido": 0,
+      "libre": 409,
+      "fantasma": 0
+     },
+     "fases 5-7": {
+      "perdido": 0,
+      "libre": 51,
+      "fantasma": 0
+     }
+    },
+    {
+     "carpeta": "P627_t2_A8_25183179",
+     "slot": 11,
+     "tics": 12264,
+     "antes del aviso 1": {
+      "perdido": 0,
+      "libre": 423,
+      "fantasma": 0
+     },
+     "fases 1-4": {
+      "perdido": 0,
+      "libre": 214,
+      "fantasma": 0
+     },
+     "fases 5-7": {
+      "perdido": 0,
+      "libre": 75,
+      "fantasma": 0
+     }
+    },
+    {
+     "carpeta": "P627_t2_A8_25287908",
+     "slot": 10,
+     "tics": 2482,
+     "antes del aviso 1": {
+      "perdido": 0,
+      "libre": 216,
+      "fantasma": 0
+     }
+    },
+    {
+     "carpeta": "P627_t2_A8_25287908",
+     "slot": 11,
+     "tics": 2148,
+     "antes del aviso 1": {
+      "perdido": 0,
+      "libre": 184,
+      "fantasma": 0
+     }
+    },
+    {
+     "carpeta": "P627_t2_A8_25392637",
+     "slot": 10,
+     "tics": 14544,
+     "antes del aviso 1": {
+      "perdido": 0,
+      "libre": 296,
+      "fantasma": 0
+     },
+     "fases 1-4": {
+      "perdido": 0,
+      "libre": 216,
+      "fantasma": 0
+     },
+     "fases 5-7": {
+      "perdido": 0,
+      "libre": 228,
+      "fantasma": 0
+     }
+    },
+    {
+     "carpeta": "P627_t2_A8_25392637",
+     "slot": 11,
+     "tics": 14544,
+     "antes del aviso 1": {
+      "perdido": 0,
+      "libre": 346,
+      "fantasma": 0
+     },
+     "fases 1-4": {
+      "perdido": 0,
+      "libre": 196,
+      "fantasma": 0
+     },
+     "fases 5-7": {
+      "perdido": 0,
+      "libre": 262,
+      "fantasma": 0
+     }
+    },
+    {
+     "carpeta": "P627_t2_A8_25497366",
+     "slot": 10,
+     "tics": 11803,
+     "antes del aviso 1": {
+      "perdido": 0,
+      "libre": 581,
+      "fantasma": 0
+     },
+     "fases 1-4": {
+      "perdido": 0,
+      "libre": 393,
+      "fantasma": 0
+     },
+     "fases 5-7": {
+      "perdido": 0,
+      "libre": 37,
+      "fantasma": 0
+     }
+    },
+    {
+     "carpeta": "P627_t2_A8_25497366",
+     "slot": 11,
+     "tics": 11985,
+     "antes del aviso 1": {
+      "perdido": 0,
+      "libre": 617,
+      "fantasma": 0
+     },
+     "fases 1-4": {
+      "perdido": 0,
+      "libre": 413,
+      "fantasma": 0
+     },
+     "fases 5-7": {
+      "perdido": 0,
+      "libre": 50,
+      "fantasma": 0
+     }
+    },
+    {
+     "carpeta": "P627_t2_A8_25602095",
+     "slot": 10,
+     "tics": 14496,
+     "antes del aviso 1": {
+      "perdido": 0,
+      "libre": 189,
+      "fantasma": 0
+     },
+     "fases 1-4": {
+      "perdido": 0,
+      "libre": 132,
+      "fantasma": 0
+     },
+     "fases 5-7": {
+      "perdido": 0,
+      "libre": 278,
+      "fantasma": 0
+     }
+    },
+    {
+     "carpeta": "P627_t2_A8_25602095",
+     "slot": 11,
+     "tics": 14496,
+     "antes del aviso 1": {
+      "perdido": 0,
+      "libre": 150,
+      "fantasma": 0
+     },
+     "fases 1-4": {
+      "perdido": 0,
+      "libre": 75,
+      "fantasma": 0
+     },
+     "fases 5-7": {
+      "perdido": 0,
+      "libre": 209,
+      "fantasma": 0
+     }
+    },
+    {
+     "carpeta": "P627_t2_A8_25706824",
+     "slot": 10,
+     "tics": 13464,
+     "antes del aviso 1": {
+      "perdido": 0,
+      "libre": 589,
+      "fantasma": 0
+     },
+     "fases 1-4": {
+      "perdido": 0,
+      "libre": 386,
+      "fantasma": 0
+     },
+     "fases 5-7": {
+      "perdido": 0,
+      "libre": 166,
+      "fantasma": 0
+     }
+    },
+    {
+     "carpeta": "P627_t2_A8_25706824",
+     "slot": 11,
+     "tics": 13944,
+     "antes del aviso 1": {
+      "perdido": 0,
+      "libre": 599,
+      "fantasma": 0
+     },
+     "fases 1-4": {
+      "perdido": 0,
+      "libre": 266,
+      "fantasma": 0
+     },
+     "fases 5-7": {
+      "perdido": 0,
+      "libre": 211,
+      "fantasma": 0
+     }
+    },
+    {
+     "carpeta": "P627_t2_A8_25811553",
+     "slot": 10,
+     "tics": 14472,
+     "antes del aviso 1": {
+      "perdido": 0,
+      "libre": 618,
+      "fantasma": 0
+     },
+     "fases 1-4": {
+      "perdido": 0,
+      "libre": 409,
+      "fantasma": 0
+     },
+     "fases 5-7": {
+      "perdido": 0,
+      "libre": 254,
+      "fantasma": 0
+     }
+    },
+    {
+     "carpeta": "P627_t2_A8_25811553",
+     "slot": 11,
+     "tics": 13560,
+     "antes del aviso 1": {
+      "perdido": 0,
+      "libre": 60,
+      "fantasma": 0
+     },
+     "fases 1-4": {
+      "perdido": 0,
+      "libre": 109,
+      "fantasma": 0
+     },
+     "fases 5-7": {
+      "perdido": 0,
+      "libre": 169,
+      "fantasma": 0
+     }
+    },
+    {
+     "carpeta": "P627_t2_A8_25916282",
+     "slot": 10,
+     "tics": 12048,
+     "antes del aviso 1": {
+      "perdido": 0,
+      "libre": 620,
+      "fantasma": 0
+     },
+     "fases 1-4": {
+      "perdido": 0,
+      "libre": 412,
+      "fantasma": 0
+     },
+     "fases 5-7": {
+      "perdido": 0,
+      "libre": 51,
+      "fantasma": 0
+     }
+    },
+    {
+     "carpeta": "P627_t2_A8_25916282",
+     "slot": 11,
+     "tics": 14340,
+     "antes del aviso 1": {
+      "perdido": 0,
+      "libre": 620,
+      "fantasma": 0
+     },
+     "fases 1-4": {
+      "perdido": 0,
+      "libre": 414,
+      "fantasma": 0
+     },
+     "fases 5-7": {
+      "perdido": 0,
+      "libre": 207,
+      "fantasma": 0
+     }
+    },
+    {
+     "carpeta": "P627_t2_A8_26021011",
+     "slot": 10,
+     "tics": 7916,
+     "antes del aviso 1": {
+      "perdido": 0,
+      "libre": 621,
+      "fantasma": 0
+     },
+     "fases 1-4": {
+      "perdido": 0,
+      "libre": 100,
+      "fantasma": 0
+     }
+    },
+    {
+     "carpeta": "P627_t2_A8_26021011",
+     "slot": 11,
+     "tics": 12408,
+     "antes del aviso 1": {
+      "perdido": 0,
+      "libre": 207,
+      "fantasma": 0
+     },
+     "fases 1-4": {
+      "perdido": 0,
+      "libre": 363,
+      "fantasma": 0
+     },
+     "fases 5-7": {
+      "perdido": 0,
+      "libre": 94,
+      "fantasma": 0
+     }
+    },
+    {
+     "carpeta": "P627_t2_A8_26125740",
+     "slot": 10,
+     "tics": 14304,
+     "antes del aviso 1": {
+      "perdido": 0,
+      "libre": 580,
+      "fantasma": 0
+     },
+     "fases 1-4": {
+      "perdido": 0,
+      "libre": 207,
+      "fantasma": 0
+     },
+     "fases 5-7": {
+      "perdido": 1,
+      "libre": 164,
+      "fantasma": 0
+     }
+    },
+    {
+     "carpeta": "P627_t2_A8_26125740",
+     "slot": 11,
+     "tics": 12360,
+     "antes del aviso 1": {
+      "perdido": 0,
+      "libre": 582,
+      "fantasma": 0
+     },
+     "fases 1-4": {
+      "perdido": 0,
+      "libre": 340,
+      "fantasma": 0
+     },
+     "fases 5-7": {
+      "perdido": 0,
+      "libre": 82,
+      "fantasma": 0
+     }
+    },
+    {
+     "carpeta": "P627_t2_A8_26230469",
+     "slot": 10,
+     "tics": 12613,
+     "antes del aviso 1": {
+      "perdido": 0,
+      "libre": 576,
+      "fantasma": 0
+     },
+     "fases 1-4": {
+      "perdido": 0,
+      "libre": 375,
+      "fantasma": 0
+     },
+     "fases 5-7": {
+      "perdido": 0,
+      "libre": 83,
+      "fantasma": 0
+     }
+    },
+    {
+     "carpeta": "P627_t2_A8_26230469",
+     "slot": 11,
+     "tics": 13295,
+     "antes del aviso 1": {
+      "perdido": 0,
+      "libre": 558,
+      "fantasma": 0
+     },
+     "fases 1-4": {
+      "perdido": 0,
+      "libre": 304,
+      "fantasma": 0
+     },
+     "fases 5-7": {
+      "perdido": 0,
+      "libre": 80,
+      "fantasma": 0
+     }
+    },
+    {
+     "carpeta": "P627_t2_A8_26335198",
+     "slot": 10,
+     "tics": 14520,
+     "antes del aviso 1": {
+      "perdido": 0,
+      "libre": 583,
+      "fantasma": 0
+     },
+     "fases 1-4": {
+      "perdido": 0,
+      "libre": 305,
+      "fantasma": 0
+     },
+     "fases 5-7": {
+      "perdido": 0,
+      "libre": 182,
+      "fantasma": 0
+     }
+    },
+    {
+     "carpeta": "P627_t2_A8_26335198",
+     "slot": 11,
+     "tics": 14520,
+     "antes del aviso 1": {
+      "perdido": 0,
+      "libre": 620,
+      "fantasma": 0
+     },
+     "fases 1-4": {
+      "perdido": 0,
+      "libre": 312,
+      "fantasma": 0
+     },
+     "fases 5-7": {
+      "perdido": 0,
+      "libre": 191,
+      "fantasma": 0
+     }
+    },
+    {
+     "carpeta": "P627_t2_A8_26439927",
+     "slot": 10,
+     "tics": 14304,
+     "antes del aviso 1": {
+      "perdido": 0,
+      "libre": 604,
+      "fantasma": 0
+     },
+     "fases 1-4": {
+      "perdido": 0,
+      "libre": 369,
+      "fantasma": 0
+     },
+     "fases 5-7": {
+      "perdido": 0,
+      "libre": 151,
+      "fantasma": 0
+     }
+    },
+    {
+     "carpeta": "P627_t2_A8_26439927",
+     "slot": 11,
+     "tics": 14352,
+     "antes del aviso 1": {
+      "perdido": 0,
+      "libre": 417,
+      "fantasma": 0
+     },
+     "fases 1-4": {
+      "perdido": 0,
+      "libre": 197,
+      "fantasma": 0
+     },
+     "fases 5-7": {
+      "perdido": 0,
+      "libre": 233,
+      "fantasma": 0
+     }
+    }
+   ]
+  }
+ }
+}

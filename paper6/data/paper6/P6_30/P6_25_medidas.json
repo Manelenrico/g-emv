@@ -1,0 +1,740 @@
+{
+ "nota": "[P6-25 · 2-5] LAS MEDIDAS: junta escenas, planes, juicios y gasto, y calcula lo que pide el encargo.",
+ "escenas": {
+  "n": 200,
+  "pareja": 40,
+  "vidas": 66,
+  "repro": {
+   "igual": 892692,
+   "difiere": 7883
+  },
+  "largo_texto": {
+   "mediana": 3119.0,
+   "max": 4183
+  }
+ },
+ "2_primer_plan": {
+  "oraculo": {
+   "planes": 200,
+   "acepta": {
+    "k": 102,
+    "n": 200,
+    "pct": 51.0,
+    "ic95": [
+     44.1,
+     57.8
+    ]
+   },
+   "veredictos": {
+    "area": 84,
+    "ok": 102,
+    "vida": 14
+   },
+   "ventaja_aceptados_mediana": 0.3092,
+   "ventaja_todos_mediana": 0.096,
+   "dentro_futuro": {
+    "k": 200,
+    "n": 200,
+    "pct": 100.0,
+    "ic95": [
+     98.1,
+     100.0
+    ]
+   },
+   "a_salvo": {
+    "k": 200,
+    "n": 200,
+    "pct": 100.0,
+    "ic95": [
+     98.1,
+     100.0
+    ]
+   },
+   "ms_juicio_mediana": 800.55,
+   "campo_vs_banco": {
+    "area->area": 71,
+    "ok->ok": 83,
+    "vida->ok": 4,
+    "vida->vida": 5,
+    "ok->area": 11,
+    "area->ok": 14,
+    "None->ok": 1,
+    "None->vida": 9,
+    "vida->area": 2
+   },
+   "campo_igual": {
+    "k": 159,
+    "n": 190,
+    "pct": 83.7,
+    "ic95": [
+     77.8,
+     88.3
+    ]
+   }
+  },
+  "haiku": {
+   "llamadas": 200,
+   "errores_api": 0,
+   "no_parsea": 0,
+   "callar": 6,
+   "intraducibles": {
+    "k": 3,
+    "n": 200,
+    "pct": 1.5,
+    "ic95": [
+     0.5,
+     4.3
+    ]
+   },
+   "con_plan": 191,
+   "formas_dichas_media": 1.07,
+   "tramos_media": 2.62,
+   "acepta_sobre_escenas": {
+    "k": 98,
+    "n": 200,
+    "pct": 49.0,
+    "ic95": [
+     42.2,
+     55.9
+    ]
+   },
+   "acepta_sobre_planes": {
+    "k": 98,
+    "n": 191,
+    "pct": 51.3,
+    "ic95": [
+     44.3,
+     58.3
+    ]
+   },
+   "veredictos": {
+    "ok": 98,
+    "area": 80,
+    "vida": 13,
+    "null": 9
+   },
+   "ventaja_aceptados_mediana": 0.2548,
+   "ventaja_todos_mediana": 0.0756,
+   "dentro_futuro": {
+    "k": 187,
+    "n": 191,
+    "pct": 97.9,
+    "ic95": [
+     94.7,
+     99.2
+    ]
+   },
+   "a_salvo": {
+    "k": 184,
+    "n": 191,
+    "pct": 96.3,
+    "ic95": [
+     92.6,
+     98.2
+    ]
+   },
+   "ms_mediana": 3660.35,
+   "ms_p90": 5306.1,
+   "usd_por_llamada": 0.00412,
+   "usd_por_llamada_api": 0.004122,
+   "vs_oraculo_2x2": {
+    "los_dos_ok": 86,
+    "solo_oraculo": 16,
+    "solo_razonador": 12,
+    "ninguno": 86,
+    "mcnemar_p": 0.5716
+   },
+   "contra_mas_frecuente": {
+    "S-8-EXPOSICION": 24,
+    "F-REENCUENTRO": 19,
+    "F-4-ALCANCE": 16,
+    "F-DANO": 7,
+    "R-LLAMADA": 5,
+    "S-MUERTE-PAREJA": 3
+   },
+   "por_dicho": {
+    "F-ANTICIPACION": 255,
+    "F-DANO": 192,
+    "S-SOLEDAD": 24,
+    "R-ACOPIO": 12,
+    "R-CARENCIA": 11,
+    "F-HERMANO-GOLPE": 4,
+    "F-4-ALCANCE": 1,
+    "F-HERMANO-AMENAZA": 1
+   }
+  },
+  "sonnet": {
+   "llamadas": 200,
+   "errores_api": 0,
+   "no_parsea": 0,
+   "callar": 2,
+   "intraducibles": {
+    "k": 15,
+    "n": 200,
+    "pct": 7.5,
+    "ic95": [
+     4.6,
+     12.0
+    ]
+   },
+   "con_plan": 183,
+   "formas_dichas_media": 1.31,
+   "tramos_media": 3.66,
+   "acepta_sobre_escenas": {
+    "k": 100,
+    "n": 200,
+    "pct": 50.0,
+    "ic95": [
+     43.1,
+     56.9
+    ]
+   },
+   "acepta_sobre_planes": {
+    "k": 100,
+    "n": 183,
+    "pct": 54.6,
+    "ic95": [
+     47.4,
+     61.7
+    ]
+   },
+   "veredictos": {
+    "ok": 100,
+    "area": 68,
+    "null": 17,
+    "vida": 15
+   },
+   "ventaja_aceptados_mediana": 0.2947,
+   "ventaja_todos_mediana": 0.1254,
+   "dentro_futuro": {
+    "k": 156,
+    "n": 183,
+    "pct": 85.2,
+    "ic95": [
+     79.4,
+     89.7
+    ]
+   },
+   "a_salvo": {
+    "k": 154,
+    "n": 183,
+    "pct": 84.2,
+    "ic95": [
+     78.2,
+     88.7
+    ]
+   },
+   "ms_mediana": 8133.5,
+   "ms_p90": 11737.4,
+   "usd_por_llamada": 0.01479,
+   "usd_por_llamada_api": 0.01479,
+   "vs_oraculo_2x2": {
+    "los_dos_ok": 88,
+    "solo_oraculo": 14,
+    "solo_razonador": 12,
+    "ninguno": 86,
+    "mcnemar_p": 0.845
+   },
+   "contra_mas_frecuente": {
+    "S-8-EXPOSICION": 17,
+    "F-4-ALCANCE": 16,
+    "F-REENCUENTRO": 11,
+    "F-DANO": 9,
+    "R-LLAMADA": 3,
+    "S-DANO-PAREJA": 3
+   },
+   "por_dicho": {
+    "F-ANTICIPACION": 498,
+    "F-DANO": 107,
+    "S-SOLEDAD": 28,
+    "R-ACOPIO": 20,
+    "F-4-ALCANCE": 7,
+    "R-LLAMADA": 5,
+    "R-CARENCIA": 2,
+    "F-HERMANO-GOLPE": 2
+   }
+  }
+ },
+ "3_retraso": {
+  "haiku": {
+   "retrasos_usados": {
+    "144": 46,
+    "96": 110,
+    "192": 6
+   },
+   "juzgados_en_t_mas_D": 162,
+   "sin_instantanea": {
+    "muerto o partida acabada": 31,
+    "sin plan (intraducible, callo o error)": 7
+   },
+   "ok_en_t_y_en_t_mas_D": {
+    "k": 43,
+    "n": 83,
+    "pct": 51.8,
+    "ic95": [
+     41.2,
+     62.2
+    ]
+   },
+   "ok_en_t_mas_D_sobre_todos": {
+    "k": 67,
+    "n": 162,
+    "pct": 41.4,
+    "ic95": [
+     34.1,
+     49.1
+    ]
+   },
+   "ok_en_t_sobre_los_mismos": {
+    "k": 83,
+    "n": 162,
+    "pct": 51.2,
+    "ic95": [
+     43.6,
+     58.8
+    ]
+   },
+   "rechazado_en_t_ok_en_t_mas_D": {
+    "k": 24,
+    "n": 79,
+    "pct": 30.4,
+    "ic95": [
+     21.3,
+     41.2
+    ]
+   },
+   "ventaja_en_t_mas_D_de_los_ok_en_t_mediana": 0.0966
+  },
+  "sonnet": {
+   "retrasos_usados": {
+    "288": 29,
+    "240": 38,
+    "192": 55,
+    "336": 7,
+    "144": 1
+   },
+   "juzgados_en_t_mas_D": 130,
+   "sin_instantanea": {
+    "muerto o partida acabada": 61,
+    "sin plan (intraducible, callo o error)": 8,
+    "retraso mayor que la rejilla": 1
+   },
+   "ok_en_t_y_en_t_mas_D": {
+    "k": 32,
+    "n": 78,
+    "pct": 41.0,
+    "ic95": [
+     30.8,
+     52.1
+    ]
+   },
+   "ok_en_t_mas_D_sobre_todos": {
+    "k": 47,
+    "n": 130,
+    "pct": 36.2,
+    "ic95": [
+     28.4,
+     44.7
+    ]
+   },
+   "ok_en_t_sobre_los_mismos": {
+    "k": 78,
+    "n": 130,
+    "pct": 60.0,
+    "ic95": [
+     51.4,
+     68.0
+    ]
+   },
+   "rechazado_en_t_ok_en_t_mas_D": {
+    "k": 15,
+    "n": 52,
+    "pct": 28.8,
+    "ic95": [
+     18.3,
+     42.3
+    ]
+   },
+   "ventaja_en_t_mas_D_de_los_ok_en_t_mediana": 0.0302
+  }
+ },
+ "4_bucle": {
+  "haiku": {
+   "escenas_del_bucle": 80,
+   "primera": {
+    "k": 37,
+    "n": 75,
+    "pct": 49.3,
+    "ic95": [
+     38.3,
+     60.4
+    ]
+   },
+   "segunda (a los rechazados de la primera)": {
+    "k": 3,
+    "n": 37,
+    "pct": 8.1,
+    "ic95": [
+     2.8,
+     21.3
+    ]
+   },
+   "tercera (a los rechazados de la segunda)": {
+    "k": 0,
+    "n": 34,
+    "pct": 0.0,
+    "ic95": [
+     0.0,
+     10.2
+    ]
+   },
+   "escenas_con_algun_plan_aceptado_acumulado": {
+    "1": {
+     "k": 37,
+     "n": 80,
+     "pct": 46.2,
+     "ic95": [
+      35.7,
+      57.1
+     ]
+    },
+    "1-2": {
+     "k": 40,
+     "n": 80,
+     "pct": 50.0,
+     "ic95": [
+      39.3,
+      60.7
+     ]
+    },
+    "1-3": {
+     "k": 40,
+     "n": 80,
+     "pct": 50.0,
+     "ic95": [
+      39.3,
+      60.7
+     ]
+    }
+   },
+   "sin_plan_2a": 1,
+   "sin_plan_3a": 0,
+   "cambia_destino_2a": {
+    "k": 28,
+    "n": 37,
+    "pct": 75.7,
+    "ic95": [
+     59.9,
+     86.6
+    ]
+   },
+   "ventaja_2a_mediana": -0.038,
+   "ventaja_1a_mediana_mismas": -0.0298
+  },
+  "sonnet": {
+   "escenas_del_bucle": 80,
+   "primera": {
+    "k": 41,
+    "n": 75,
+    "pct": 54.7,
+    "ic95": [
+     43.4,
+     65.4
+    ]
+   },
+   "segunda (a los rechazados de la primera)": {
+    "k": 4,
+    "n": 28,
+    "pct": 14.3,
+    "ic95": [
+     5.7,
+     31.5
+    ]
+   },
+   "tercera (a los rechazados de la segunda)": {
+    "k": 1,
+    "n": 24,
+    "pct": 4.2,
+    "ic95": [
+     0.7,
+     20.2
+    ]
+   },
+   "escenas_con_algun_plan_aceptado_acumulado": {
+    "1": {
+     "k": 41,
+     "n": 80,
+     "pct": 51.2,
+     "ic95": [
+      40.5,
+      61.9
+     ]
+    },
+    "1-2": {
+     "k": 45,
+     "n": 80,
+     "pct": 56.2,
+     "ic95": [
+      45.3,
+      66.6
+     ]
+    },
+    "1-3": {
+     "k": 46,
+     "n": 80,
+     "pct": 57.5,
+     "ic95": [
+      46.6,
+      67.7
+     ]
+    }
+   },
+   "sin_plan_2a": 6,
+   "sin_plan_3a": 0,
+   "cambia_destino_2a": {
+    "k": 26,
+    "n": 28,
+    "pct": 92.9,
+    "ic95": [
+     77.4,
+     98.0
+    ]
+   },
+   "ventaja_2a_mediana": -0.0137,
+   "ventaja_1a_mediana_mismas": -0.0119
+  }
+ },
+ "5_pareja": {
+  "haiku": {
+   "pares": 40,
+   "con_zona_los_dos": 40,
+   "coinciden_zona (Chebyshev <= 3)": {
+    "k": 33,
+    "n": 40,
+    "pct": 82.5,
+    "ic95": [
+     68.0,
+     91.3
+    ]
+   },
+   "distancia_zonas_mediana": 1.0,
+   "las_dos_zonas_dentro_del_circulo_futuro": {
+    "k": 39,
+    "n": 40,
+    "pct": 97.5,
+    "ic95": [
+     87.1,
+     99.6
+    ]
+   },
+   "aceptan_las_dos_puertas": {
+    "k": 8,
+    "n": 40,
+    "pct": 20.0,
+    "ic95": [
+     10.5,
+     34.8
+    ]
+   },
+   "acepta_alguna": {
+    "k": 28,
+    "n": 40,
+    "pct": 70.0,
+    "ic95": [
+     54.6,
+     81.9
+    ]
+   },
+   "acepta_por_hermano": {
+    "k": 36,
+    "n": 79,
+    "pct": 45.6,
+    "ic95": [
+     35.0,
+     56.5
+    ]
+   },
+   "mensajes": {
+    "n": 80,
+    "largo_mediana": 83.0,
+    "largo_max": 119,
+    "caben_en_120": {
+     "k": 80,
+     "n": 80,
+     "pct": 100.0,
+     "ic95": [
+      95.4,
+      100.0
+     ]
+    },
+    "ascii": {
+     "k": 77,
+     "n": 80,
+     "pct": 96.2,
+     "ic95": [
+      89.5,
+      98.7
+     ]
+    },
+    "caben_junto_al_E2_en_120": {
+     "k": 3,
+     "n": 80,
+     "pct": 3.8,
+     "ic95": [
+      1.3,
+      10.5
+     ]
+    }
+   }
+  },
+  "sonnet": {
+   "pares": 40,
+   "con_zona_los_dos": 40,
+   "coinciden_zona (Chebyshev <= 3)": {
+    "k": 40,
+    "n": 40,
+    "pct": 100.0,
+    "ic95": [
+     91.2,
+     100.0
+    ]
+   },
+   "distancia_zonas_mediana": 1.0,
+   "las_dos_zonas_dentro_del_circulo_futuro": {
+    "k": 38,
+    "n": 40,
+    "pct": 95.0,
+    "ic95": [
+     83.5,
+     98.6
+    ]
+   },
+   "aceptan_las_dos_puertas": {
+    "k": 7,
+    "n": 40,
+    "pct": 17.5,
+    "ic95": [
+     8.7,
+     32.0
+    ]
+   },
+   "acepta_alguna": {
+    "k": 27,
+    "n": 40,
+    "pct": 67.5,
+    "ic95": [
+     52.0,
+     79.9
+    ]
+   },
+   "acepta_por_hermano": {
+    "k": 34,
+    "n": 71,
+    "pct": 47.9,
+    "ic95": [
+     36.7,
+     59.3
+    ]
+   },
+   "mensajes": {
+    "n": 80,
+    "largo_mediana": 77.0,
+    "largo_max": 112,
+    "caben_en_120": {
+     "k": 80,
+     "n": 80,
+     "pct": 100.0,
+     "ic95": [
+      95.4,
+      100.0
+     ]
+    },
+    "ascii": {
+     "k": 80,
+     "n": 80,
+     "pct": 100.0,
+     "ic95": [
+      95.4,
+      100.0
+     ]
+    },
+    "caben_junto_al_E2_en_120": {
+     "k": 7,
+     "n": 80,
+     "pct": 8.8,
+     "ic95": [
+      4.3,
+      17.0
+     ]
+    }
+   }
+  }
+ },
+ "gasto": {
+  "total_usd": 6.595724,
+  "llamadas": {
+   "bucle2/haiku": 38,
+   "bucle2/sonnet": 34,
+   "bucle3/haiku": 34,
+   "bucle3/sonnet": 24,
+   "humo/haiku": 1,
+   "humo/sonnet": 1,
+   "pareja/haiku": 80,
+   "pareja/sonnet": 80,
+   "primera/haiku": 200,
+   "primera/sonnet": 200
+  },
+  "por_modo": {
+   "bucle2/haiku": {
+    "llamadas": 38,
+    "usd": 0.191075,
+    "usd_por_llamada": 0.005028
+   },
+   "bucle2/sonnet": {
+    "llamadas": 34,
+    "usd": 0.512052,
+    "usd_por_llamada": 0.01506
+   },
+   "bucle3/haiku": {
+    "llamadas": 34,
+    "usd": 0.16603,
+    "usd_por_llamada": 0.004883
+   },
+   "bucle3/sonnet": {
+    "llamadas": 24,
+    "usd": 0.353034,
+    "usd_por_llamada": 0.01471
+   },
+   "humo/haiku": {
+    "llamadas": 1,
+    "usd": 0.017002,
+    "usd_por_llamada": 0.017002
+   },
+   "humo/sonnet": {
+    "llamadas": 1,
+    "usd": 0.056407,
+    "usd_por_llamada": 0.056407
+   },
+   "pareja/haiku": {
+    "llamadas": 80,
+    "usd": 0.361698,
+    "usd_por_llamada": 0.004521
+   },
+   "pareja/sonnet": {
+    "llamadas": 80,
+    "usd": 1.156269,
+    "usd_por_llamada": 0.014453
+   },
+   "primera/haiku": {
+    "llamadas": 200,
+    "usd": 0.824366,
+    "usd_por_llamada": 0.004122
+   },
+   "primera/sonnet": {
+    "llamadas": 200,
+    "usd": 2.957928,
+    "usd_por_llamada": 0.01479
+   }
+  }
+ }
+}

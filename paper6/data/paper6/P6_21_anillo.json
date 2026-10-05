@@ -1,0 +1,750 @@
+{
+ "nota": "P6-21 §1. INSTRUMENTO DE MEDIDA. Solo lectura de los 200 diarios.",
+ "vidas": 200,
+ "golpes": 1980,
+ "estancias_seguras_>=25": 3031,
+ "cadencia_entre_golpes": {
+  "24": 1454,
+  "48": 93,
+  "72": 58,
+  "96": 32,
+  "120": 22,
+  "144": 16
+ },
+ "dano_por_golpe": {
+  "6.56": 1362,
+  "4.92": 263,
+  "13.12": 156,
+  "3.28": 112,
+  "19.68": 86,
+  "1.64": 1
+ },
+ "obs_menos_cal (radio observado - interpolado, redondeado a 0,01)": {
+  "0.0": 614844,
+  "0.19": 7929,
+  "0.44": 7886,
+  "0.56": 7869,
+  "0.81": 7833,
+  "0.01": 6970,
+  "0.04": 6968,
+  "0.07": 6966,
+  "0.13": 6962,
+  "0.16": 6954,
+  "0.21": 6948,
+  "0.24": 6944
+ },
+ "reglas (mejores 12)": {
+  "esquina->(24,24) | obs(t-1) | quema si d >= r": {
+   "golpes_no_explicados": 0,
+   "estancias_seguras_que_quemaria": 20,
+   "fallos": 20
+  },
+  "esquina->(24,24) | obs(t) | quema si d > r": {
+   "golpes_no_explicados": 22,
+   "estancias_seguras_que_quemaria": 0,
+   "fallos": 22
+  },
+  "esquina->(24,24) | obs(t-1) | quema si d > r": {
+   "golpes_no_explicados": 22,
+   "estancias_seguras_que_quemaria": 0,
+   "fallos": 22
+  },
+  "esquina->(24,24) | obs(t) | quema si d >= r": {
+   "golpes_no_explicados": 0,
+   "estancias_seguras_que_quemaria": 27,
+   "fallos": 27
+  },
+  "esquina->(24,24) | cal(t-1) | quema si d >= r": {
+   "golpes_no_explicados": 0,
+   "estancias_seguras_que_quemaria": 35,
+   "fallos": 35
+  },
+  "esquina->(24,24) | cal(t-1) | quema si d > r": {
+   "golpes_no_explicados": 22,
+   "estancias_seguras_que_quemaria": 20,
+   "fallos": 42
+  },
+  "esquina->(24,24) | cal(t) | quema si d > r": {
+   "golpes_no_explicados": 22,
+   "estancias_seguras_que_quemaria": 21,
+   "fallos": 43
+  },
+  "esquina->(24,24) | cal(t) | quema si d >= r": {
+   "golpes_no_explicados": 0,
+   "estancias_seguras_que_quemaria": 43,
+   "fallos": 43
+  },
+  "esquina->(24,24) | cal(t+1) | quema si d > r": {
+   "golpes_no_explicados": 22,
+   "estancias_seguras_que_quemaria": 23,
+   "fallos": 45
+  },
+  "esquina->(24,24) | cal(t+1) | quema si d >= r": {
+   "golpes_no_explicados": 0,
+   "estancias_seguras_que_quemaria": 45,
+   "fallos": 45
+  },
+  "Manhattan | obs(t-1) | quema si d > r": {
+   "golpes_no_explicados": 22,
+   "estancias_seguras_que_quemaria": 95,
+   "fallos": 117
+  },
+  "Manhattan | obs(t) | quema si d > r": {
+   "golpes_no_explicados": 22,
+   "estancias_seguras_que_quemaria": 122,
+   "fallos": 144
+  }
+ },
+ "todas": {
+  "esquina->(24,24) | obs(t) | quema si d > r": {
+   "golpes_no_explicados": 22,
+   "estancias_seguras_que_quemaria": 0,
+   "fallos": 22
+  },
+  "esquina->(24,24) | obs(t) | quema si d >= r": {
+   "golpes_no_explicados": 0,
+   "estancias_seguras_que_quemaria": 27,
+   "fallos": 27
+  },
+  "esquina->(24,24) | obs(t-1) | quema si d > r": {
+   "golpes_no_explicados": 22,
+   "estancias_seguras_que_quemaria": 0,
+   "fallos": 22
+  },
+  "esquina->(24,24) | obs(t-1) | quema si d >= r": {
+   "golpes_no_explicados": 0,
+   "estancias_seguras_que_quemaria": 20,
+   "fallos": 20
+  },
+  "esquina->(24,24) | cal(t) | quema si d > r": {
+   "golpes_no_explicados": 22,
+   "estancias_seguras_que_quemaria": 21,
+   "fallos": 43
+  },
+  "esquina->(24,24) | cal(t) | quema si d >= r": {
+   "golpes_no_explicados": 0,
+   "estancias_seguras_que_quemaria": 43,
+   "fallos": 43
+  },
+  "esquina->(24,24) | cal(t-1) | quema si d > r": {
+   "golpes_no_explicados": 22,
+   "estancias_seguras_que_quemaria": 20,
+   "fallos": 42
+  },
+  "esquina->(24,24) | cal(t-1) | quema si d >= r": {
+   "golpes_no_explicados": 0,
+   "estancias_seguras_que_quemaria": 35,
+   "fallos": 35
+  },
+  "esquina->(24,24) | cal(t+1) | quema si d > r": {
+   "golpes_no_explicados": 22,
+   "estancias_seguras_que_quemaria": 23,
+   "fallos": 45
+  },
+  "esquina->(24,24) | cal(t+1) | quema si d >= r": {
+   "golpes_no_explicados": 0,
+   "estancias_seguras_que_quemaria": 45,
+   "fallos": 45
+  },
+  "esquina->(24,24) | next | quema si d > r": {
+   "golpes_no_explicados": 22,
+   "estancias_seguras_que_quemaria": 501,
+   "fallos": 523
+  },
+  "esquina->(24,24) | next | quema si d >= r": {
+   "golpes_no_explicados": 0,
+   "estancias_seguras_que_quemaria": 602,
+   "fallos": 602
+  },
+  "esquina->(24,24) | r0 fase | quema si d > r": {
+   "golpes_no_explicados": 1503,
+   "estancias_seguras_que_quemaria": 0,
+   "fallos": 1503
+  },
+  "esquina->(24,24) | r0 fase | quema si d >= r": {
+   "golpes_no_explicados": 1484,
+   "estancias_seguras_que_quemaria": 1,
+   "fallos": 1485
+  },
+  "esquina->(24,24) | r1 fase | quema si d > r": {
+   "golpes_no_explicados": 22,
+   "estancias_seguras_que_quemaria": 326,
+   "fallos": 348
+  },
+  "esquina->(24,24) | r1 fase | quema si d >= r": {
+   "golpes_no_explicados": 0,
+   "estancias_seguras_que_quemaria": 445,
+   "fallos": 445
+  },
+  "centro casilla->(24,24) | obs(t) | quema si d > r": {
+   "golpes_no_explicados": 355,
+   "estancias_seguras_que_quemaria": 47,
+   "fallos": 402
+  },
+  "centro casilla->(24,24) | obs(t) | quema si d >= r": {
+   "golpes_no_explicados": 355,
+   "estancias_seguras_que_quemaria": 47,
+   "fallos": 402
+  },
+  "centro casilla->(24,24) | obs(t-1) | quema si d > r": {
+   "golpes_no_explicados": 355,
+   "estancias_seguras_que_quemaria": 33,
+   "fallos": 388
+  },
+  "centro casilla->(24,24) | obs(t-1) | quema si d >= r": {
+   "golpes_no_explicados": 355,
+   "estancias_seguras_que_quemaria": 33,
+   "fallos": 388
+  },
+  "centro casilla->(24,24) | cal(t) | quema si d > r": {
+   "golpes_no_explicados": 303,
+   "estancias_seguras_que_quemaria": 66,
+   "fallos": 369
+  },
+  "centro casilla->(24,24) | cal(t) | quema si d >= r": {
+   "golpes_no_explicados": 303,
+   "estancias_seguras_que_quemaria": 66,
+   "fallos": 369
+  },
+  "centro casilla->(24,24) | cal(t-1) | quema si d > r": {
+   "golpes_no_explicados": 303,
+   "estancias_seguras_que_quemaria": 66,
+   "fallos": 369
+  },
+  "centro casilla->(24,24) | cal(t-1) | quema si d >= r": {
+   "golpes_no_explicados": 303,
+   "estancias_seguras_que_quemaria": 66,
+   "fallos": 369
+  },
+  "centro casilla->(24,24) | cal(t+1) | quema si d > r": {
+   "golpes_no_explicados": 303,
+   "estancias_seguras_que_quemaria": 67,
+   "fallos": 370
+  },
+  "centro casilla->(24,24) | cal(t+1) | quema si d >= r": {
+   "golpes_no_explicados": 303,
+   "estancias_seguras_que_quemaria": 67,
+   "fallos": 370
+  },
+  "centro casilla->(24,24) | next | quema si d > r": {
+   "golpes_no_explicados": 0,
+   "estancias_seguras_que_quemaria": 551,
+   "fallos": 551
+  },
+  "centro casilla->(24,24) | next | quema si d >= r": {
+   "golpes_no_explicados": 0,
+   "estancias_seguras_que_quemaria": 551,
+   "fallos": 551
+  },
+  "centro casilla->(24,24) | r0 fase | quema si d > r": {
+   "golpes_no_explicados": 1579,
+   "estancias_seguras_que_quemaria": 1,
+   "fallos": 1580
+  },
+  "centro casilla->(24,24) | r0 fase | quema si d >= r": {
+   "golpes_no_explicados": 1579,
+   "estancias_seguras_que_quemaria": 1,
+   "fallos": 1580
+  },
+  "centro casilla->(24,24) | r1 fase | quema si d > r": {
+   "golpes_no_explicados": 244,
+   "estancias_seguras_que_quemaria": 399,
+   "fallos": 643
+  },
+  "centro casilla->(24,24) | r1 fase | quema si d >= r": {
+   "golpes_no_explicados": 244,
+   "estancias_seguras_que_quemaria": 399,
+   "fallos": 643
+  },
+  "Chebyshev | obs(t) | quema si d > r": {
+   "golpes_no_explicados": 1278,
+   "estancias_seguras_que_quemaria": 0,
+   "fallos": 1278
+  },
+  "Chebyshev | obs(t) | quema si d >= r": {
+   "golpes_no_explicados": 144,
+   "estancias_seguras_que_quemaria": 27,
+   "fallos": 171
+  },
+  "Chebyshev | obs(t-1) | quema si d > r": {
+   "golpes_no_explicados": 1278,
+   "estancias_seguras_que_quemaria": 0,
+   "fallos": 1278
+  },
+  "Chebyshev | obs(t-1) | quema si d >= r": {
+   "golpes_no_explicados": 144,
+   "estancias_seguras_que_quemaria": 20,
+   "fallos": 164
+  },
+  "Chebyshev | cal(t) | quema si d > r": {
+   "golpes_no_explicados": 1068,
+   "estancias_seguras_que_quemaria": 5,
+   "fallos": 1073
+  },
+  "Chebyshev | cal(t) | quema si d >= r": {
+   "golpes_no_explicados": 144,
+   "estancias_seguras_que_quemaria": 27,
+   "fallos": 171
+  },
+  "Chebyshev | cal(t-1) | quema si d > r": {
+   "golpes_no_explicados": 1088,
+   "estancias_seguras_que_quemaria": 5,
+   "fallos": 1093
+  },
+  "Chebyshev | cal(t-1) | quema si d >= r": {
+   "golpes_no_explicados": 144,
+   "estancias_seguras_que_quemaria": 20,
+   "fallos": 164
+  },
+  "Chebyshev | cal(t+1) | quema si d > r": {
+   "golpes_no_explicados": 1068,
+   "estancias_seguras_que_quemaria": 5,
+   "fallos": 1073
+  },
+  "Chebyshev | cal(t+1) | quema si d >= r": {
+   "golpes_no_explicados": 144,
+   "estancias_seguras_que_quemaria": 27,
+   "fallos": 171
+  },
+  "Chebyshev | next | quema si d > r": {
+   "golpes_no_explicados": 72,
+   "estancias_seguras_que_quemaria": 146,
+   "fallos": 218
+  },
+  "Chebyshev | next | quema si d >= r": {
+   "golpes_no_explicados": 7,
+   "estancias_seguras_que_quemaria": 602,
+   "fallos": 609
+  },
+  "Chebyshev | r0 fase | quema si d > r": {
+   "golpes_no_explicados": 1766,
+   "estancias_seguras_que_quemaria": 0,
+   "fallos": 1766
+  },
+  "Chebyshev | r0 fase | quema si d >= r": {
+   "golpes_no_explicados": 1558,
+   "estancias_seguras_que_quemaria": 1,
+   "fallos": 1559
+  },
+  "Chebyshev | r1 fase | quema si d > r": {
+   "golpes_no_explicados": 965,
+   "estancias_seguras_que_quemaria": 64,
+   "fallos": 1029
+  },
+  "Chebyshev | r1 fase | quema si d >= r": {
+   "golpes_no_explicados": 61,
+   "estancias_seguras_que_quemaria": 445,
+   "fallos": 506
+  },
+  "Manhattan | obs(t) | quema si d > r": {
+   "golpes_no_explicados": 22,
+   "estancias_seguras_que_quemaria": 122,
+   "fallos": 144
+  },
+  "Manhattan | obs(t) | quema si d >= r": {
+   "golpes_no_explicados": 0,
+   "estancias_seguras_que_quemaria": 407,
+   "fallos": 407
+  },
+  "Manhattan | obs(t-1) | quema si d > r": {
+   "golpes_no_explicados": 22,
+   "estancias_seguras_que_quemaria": 95,
+   "fallos": 117
+  },
+  "Manhattan | obs(t-1) | quema si d >= r": {
+   "golpes_no_explicados": 0,
+   "estancias_seguras_que_quemaria": 364,
+   "fallos": 364
+  },
+  "Manhattan | cal(t) | quema si d > r": {
+   "golpes_no_explicados": 22,
+   "estancias_seguras_que_quemaria": 200,
+   "fallos": 222
+  },
+  "Manhattan | cal(t) | quema si d >= r": {
+   "golpes_no_explicados": 0,
+   "estancias_seguras_que_quemaria": 407,
+   "fallos": 407
+  },
+  "Manhattan | cal(t-1) | quema si d > r": {
+   "golpes_no_explicados": 22,
+   "estancias_seguras_que_quemaria": 200,
+   "fallos": 222
+  },
+  "Manhattan | cal(t-1) | quema si d >= r": {
+   "golpes_no_explicados": 0,
+   "estancias_seguras_que_quemaria": 364,
+   "fallos": 364
+  },
+  "Manhattan | cal(t+1) | quema si d > r": {
+   "golpes_no_explicados": 22,
+   "estancias_seguras_que_quemaria": 237,
+   "fallos": 259
+  },
+  "Manhattan | cal(t+1) | quema si d >= r": {
+   "golpes_no_explicados": 0,
+   "estancias_seguras_que_quemaria": 407,
+   "fallos": 407
+  },
+  "Manhattan | next | quema si d > r": {
+   "golpes_no_explicados": 22,
+   "estancias_seguras_que_quemaria": 616,
+   "fallos": 638
+  },
+  "Manhattan | next | quema si d >= r": {
+   "golpes_no_explicados": 0,
+   "estancias_seguras_que_quemaria": 772,
+   "fallos": 772
+  },
+  "Manhattan | r0 fase | quema si d > r": {
+   "golpes_no_explicados": 1036,
+   "estancias_seguras_que_quemaria": 11,
+   "fallos": 1047
+  },
+  "Manhattan | r0 fase | quema si d >= r": {
+   "golpes_no_explicados": 611,
+   "estancias_seguras_que_quemaria": 150,
+   "fallos": 761
+  },
+  "Manhattan | r1 fase | quema si d > r": {
+   "golpes_no_explicados": 22,
+   "estancias_seguras_que_quemaria": 453,
+   "fallos": 475
+  },
+  "Manhattan | r1 fase | quema si d >= r": {
+   "golpes_no_explicados": 0,
+   "estancias_seguras_que_quemaria": 679,
+   "fallos": 679
+  }
+ },
+ "mejor": {
+  "regla": "esquina->(24,24) | obs(t-1) | quema si d >= r",
+  "golpes_no_explicados": [],
+  "estancias_que_quemaria": [
+   {
+    "brazo": "A3",
+    "sem": 21412935,
+    "slot": 11,
+    "t": 12656,
+    "pos": [
+     19,
+     24
+    ],
+    "n": 70,
+    "fase": 5,
+    "d": 5.0,
+    "r": 5
+   },
+   {
+    "brazo": "A4",
+    "sem": 20470374,
+    "slot": 11,
+    "t": 13783,
+    "pos": [
+     24,
+     27
+    ],
+    "n": 26,
+    "fase": 6,
+    "d": 3.0,
+    "r": 3
+   },
+   {
+    "brazo": "A4",
+    "sem": 21098748,
+    "slot": 10,
+    "t": 12644,
+    "pos": [
+     24,
+     29
+    ],
+    "n": 142,
+    "fase": 5,
+    "d": 5.0,
+    "r": 5
+   },
+   {
+    "brazo": "A5v",
+    "sem": 20470374,
+    "slot": 11,
+    "t": 12687,
+    "pos": [
+     29,
+     24
+    ],
+    "n": 81,
+    "fase": 5,
+    "d": 5.0,
+    "r": 5
+   },
+   {
+    "brazo": "A5v",
+    "sem": 21412935,
+    "slot": 10,
+    "t": 12657,
+    "pos": [
+     19,
+     24
+    ],
+    "n": 32,
+    "fase": 5,
+    "d": 5.0,
+    "r": 5
+   },
+   {
+    "brazo": "A5v",
+    "sem": 21412935,
+    "slot": 10,
+    "t": 12706,
+    "pos": [
+     19,
+     24
+    ],
+    "n": 31,
+    "fase": 5,
+    "d": 5.0,
+    "r": 5
+   },
+   {
+    "brazo": "A5v",
+    "sem": 22041309,
+    "slot": 10,
+    "t": 12971,
+    "pos": [
+     24,
+     19
+    ],
+    "n": 25,
+    "fase": 5,
+    "d": 5.0,
+    "r": 5
+   },
+   {
+    "brazo": "A5h",
+    "sem": 20470374,
+    "slot": 10,
+    "t": 12650,
+    "pos": [
+     24,
+     29
+    ],
+    "n": 149,
+    "fase": 5,
+    "d": 5.0,
+    "r": 5
+   },
+   {
+    "brazo": "A6",
+    "sem": 20679832,
+    "slot": 10,
+    "t": 12581,
+    "pos": [
+     30,
+     24
+    ],
+    "n": 32,
+    "fase": 5,
+    "d": 6.0,
+    "r": 6
+   },
+   {
+    "brazo": "A6",
+    "sem": 21203477,
+    "slot": 10,
+    "t": 14340,
+    "pos": [
+     24,
+     27
+    ],
+    "n": 27,
+    "fase": 7,
+    "d": 3.0,
+    "r": 3
+   },
+   {
+    "brazo": "A6",
+    "sem": 21308206,
+    "slot": 11,
+    "t": 12664,
+    "pos": [
+     24,
+     29
+    ],
+    "n": 33,
+    "fase": 5,
+    "d": 5.0,
+    "r": 5
+   },
+   {
+    "brazo": "A6",
+    "sem": 21308206,
+    "slot": 11,
+    "t": 12712,
+    "pos": [
+     24,
+     29
+    ],
+    "n": 33,
+    "fase": 5,
+    "d": 5.0,
+    "r": 5
+   },
+   {
+    "brazo": "A6",
+    "sem": 21622393,
+    "slot": 10,
+    "t": 12895,
+    "pos": [
+     24,
+     29
+    ],
+    "n": 40,
+    "fase": 5,
+    "d": 5.0,
+    "r": 5
+   },
+   {
+    "brazo": "A6",
+    "sem": 21831851,
+    "slot": 10,
+    "t": 13654,
+    "pos": [
+     24,
+     28
+    ],
+    "n": 33,
+    "fase": 6,
+    "d": 4.0,
+    "r": 4
+   },
+   {
+    "brazo": "A6",
+    "sem": 21831851,
+    "slot": 10,
+    "t": 13698,
+    "pos": [
+     24,
+     28
+    ],
+    "n": 30,
+    "fase": 6,
+    "d": 4.0,
+    "r": 4
+   },
+   {
+    "brazo": "A6",
+    "sem": 21831851,
+    "slot": 10,
+    "t": 13739,
+    "pos": [
+     24,
+     28
+    ],
+    "n": 27,
+    "fase": 6,
+    "d": 4.0,
+    "r": 4
+   },
+   {
+    "brazo": "A6",
+    "sem": 21831851,
+    "slot": 10,
+    "t": 13823,
+    "pos": [
+     24,
+     27
+    ],
+    "n": 37,
+    "fase": 6,
+    "d": 3.0,
+    "r": 3
+   },
+   {
+    "brazo": "A6",
+    "sem": 21936580,
+    "slot": 10,
+    "t": 12755,
+    "pos": [
+     19,
+     24
+    ],
+    "n": 25,
+    "fase": 5,
+    "d": 5.0,
+    "r": 5
+   },
+   {
+    "brazo": "A6",
+    "sem": 22250767,
+    "slot": 10,
+    "t": 12749,
+    "pos": [
+     19,
+     24
+    ],
+    "n": 66,
+    "fase": 5,
+    "d": 5.0,
+    "r": 5
+   },
+   {
+    "brazo": "A6",
+    "sem": 22250767,
+    "slot": 11,
+    "t": 14633,
+    "pos": [
+     22,
+     24
+    ],
+    "n": 43,
+    "fase": 7,
+    "d": 2.0,
+    "r": 2
+   }
+  ]
+ },
+ "golpes_por_d_menos_obs": {
+  "0.83": 208,
+  "0.39": 197,
+  "0.1": 190,
+  "1.4": 99,
+  "1.0": 82,
+  "0.16": 58,
+  "1.08": 58,
+  "0.4": 48,
+  "2.0": 45,
+  "1.32": 43,
+  "0.32": 41,
+  "1.71": 40,
+  "2.62": 39,
+  "0.7": 34,
+  "0.25": 33,
+  "0.06": 28,
+  "1.65": 25,
+  "0.61": 23,
+  "0.0": 22,
+  "3.0": 22
+ },
+ "estancias_por_d_menos_obs": {
+  "-10.76": 183,
+  "-2.17": 143,
+  "-6.76": 101,
+  "-14.76": 100,
+  "-11.39": 93,
+  "-8.76": 74,
+  "-7.76": 63,
+  "-2.61": 62,
+  "-1.0": 59,
+  "-7.39": 55,
+  "-12.76": 54,
+  "-9.76": 53,
+  "-19.76": 52,
+  "-11.76": 49,
+  "-15.39": 48,
+  "-12.17": 46,
+  "-16.76": 45,
+  "-15.76": 45,
+  "-1.61": 45,
+  "-13.76": 44
+ }
+}

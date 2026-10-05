@@ -1,0 +1,101 @@
+{
+ "origenes": {
+  "puente_40": {
+   "A4": {
+    "partidas": 40,
+    "vidas": 80,
+    "vivas_en_warn5": 74,
+    "planes_aceptados_f5": 0,
+    "planes_sostenidos_f5": 0,
+    "ardiendo_5_7_media": 232.3
+   },
+   "A7h": {
+    "partidas": 40,
+    "vidas": 80,
+    "vivas_en_warn5": 77,
+    "planes_aceptados_f5": 128,
+    "planes_sostenidos_f5": 25,
+    "ardiendo_5_7_media": 174.7
+   }
+  },
+  "serie_A8": {
+   "vidas": 78,
+   "aceptadas": 98,
+   "cumplidas_fin_fase": 0,
+   "propone": 239,
+   "pasan_llegada": 89
+  },
+  "replica_P6_25": {
+   "vidas": 66,
+   "igual": 892484,
+   "difiere": 8091,
+   "pct_igual": 99.1,
+   "segundos_mediana": 11.4
+  },
+  "diarios": "A7h: P623_t2 + P624_t2 (40 partidas, 80 vidas); A8: P627_t1 + P627_t2 (40, 80); A4: P611_t1/t2 + P624_t1 (40, 80)",
+  "lo_que_ya_se_sabe_del_compromiso": "P6-23: compromiso6c anda (obedece), sujeta el paso que sale del circulo (a salvo) y retiene en suspension; en el diario, `elegido` y `elegido_cuerpo` van en la radiografia de cada tic. Los `sujeta` dominan en planes largos (una vida de P6-24: 1.064 sujeta, 27 obedece en 5 planes); los rechazos de la puerta van por exposicion y rivales (P6-28)."
+ },
+ "sello": {
+  "fidelidad de la replica (puerta de entrada, no prediccion de fondo)": {
+   "prediccion": "la replica en seco del cuerpo A4 elige lo mismo que `elegido_cuerpo` en >= 97 % de los tics decididos (P6-25: 99,1 %)",
+   "si_falla": "por debajo de 95 % las medidas que usan la d de la replica se marcan como no fiables y se dan tambien las del diario"
+  },
+  "1 · fraccion de instantes con plan vivo y piernas listas en que lo ejecutado difiere de lo propio": {
+   "prediccion": "A7h entre 30 y 70 %; A8 entre 20 y 60 %. El grueso son `sujeta` (el cuerpo quiere salir del circulo y el compromiso lo retiene), no `obedece`",
+   "acierta_si": "las dos fracciones dentro de su rango y sujeta > obedece en los dos brazos",
+   "falla_si": "alguna fraccion fuera del rango"
+  },
+  "2 · deformacion por instante y acumulada por plan": {
+   "prediccion": "por instante (en los que difieren): mediana entre 0,01 y 0,08 unidades de d (las d de los candidatos distan poco: `spread` ~0,1-0,2); acumulada por plan: mediana entre 0,2 y 3, p90 por debajo de 15",
+   "acierta_si": "las tres cifras en su rango en los dos brazos",
+   "falla_si": "mediana por instante > 0,15 o acumulada mediana > 5"
+  },
+  "3 · soltados contra cumplidos": {
+   "prediccion": "los soltados acumulan MENOS deformacion que los cumplidos (mediana), porque caen pronto (reevaluacion cada 25 tics, vida) y los cumplidos viven hasta el fin de fase; NO hay umbral visible: los rangos p10-p90 se solapan y hay soltados por encima de la mediana de los cumplidos",
+   "acierta_si": "mediana soltados < mediana cumplidos y ningun p90 queda por debajo del p10 del otro grupo",
+   "falla_si": "los rangos p10-p90 no se solapan (umbral visible)"
+  },
+  "4 · si compensa, en los cumplidos": {
+   "prediccion": "el ahorro de tics ardiendo frente a A4 en la misma ventana es positivo de mediana (P6-24: -62 tics por vida en fases 5-7), y NO crece con la deformacion acumulada: Spearman |rho| < 0,3",
+   "acierta_si": "mediana del ahorro > 0 y |rho| < 0,3",
+   "no_alcanzada_si": "mediana > 0 con |rho| >= 0,3",
+   "falla_si": "mediana del ahorro <= 0"
+  },
+  "5 · huella (prediccion de la mesa: vuelve enseguida a ser el de siempre, porque no aprende)": {
+   "prediccion": "en los 200 tics tras soltar o cumplir, el acuerdo entre lo elegido en el diario y lo que la replica elige sola es el mismo que el de A4 en las mismas ventanas y que el de la ventana previa al plan: diferencia menor de 3 puntos",
+   "acierta_si": "|acuerdo tras - acuerdo A4| < 3 puntos y |acuerdo tras - acuerdo antes| < 3 puntos, en los dos brazos",
+   "falla_si": "alguna diferencia >= 5 puntos"
+  },
+  "6 · oraculo contra razonador": {
+   "prediccion": "misma puerta, mismo cuerpo, mismo compromiso: la deformacion por instante es la misma (medianas dentro de un 30 % una de otra); A8 acumula menos por plan (sus planes viven menos: 8 sostenidos contra 25) y su fraccion (1) es menor o igual",
+   "acierta_si": "medianas por instante dentro de 30 % y acumulada mediana A8 <= A7h",
+   "falla_si": "por instante difieren mas de 30 % o A8 acumula mas por plan"
+  },
+  "gasto": {
+   "prediccion": "0 en las dos bolsas (solo diarios existentes)",
+   "falla_si": "cualquier partida o llamada"
+  }
+ },
+ "md5": {
+  "motor/model.py": "1e511978c251130e95169ebf8443efa1",
+  "paintball/alma/decisor_zs.py": "8fa03547e3228ef9df4aa94c444f9252",
+  "paintball/alma/appraisal_zs_v42_exp.py": "98c13d60167c80cc8334c965be75c640",
+  "paintball/alma/policy_cortex.py": "6997b00c266f23d6037cc1a018f60a76",
+  "paintball/alma/policy_forma.py": "896e97a0cca1efcb736596e0b8b15cea",
+  "paintball/alma/forma_viva.py": "b2c87c93f0ed47e48fd8991a5a797a42",
+  "cantera/paper4/serie_util.py": "c65b52969d5334b6dc0ed36cb10f943f",
+  "cantera/paper6/policy_pareja.py": "796fc64229d047410fb351dfa61f871b",
+  "cantera/paper6/arreglos_P6_6.py": "4d10ea09333553ebf7d6ce0afdb73832",
+  "cantera/paper6/arreglos_P6_8b.py": "5028b54d4afd8c7c82bc8e5e3a94a01e",
+  "cantera/paper6/filas10_P6_10.py": "af4617ad93a27838376df17d0c78b65c",
+  "cantera/paper6/amenaza11_P6_11.py": "9d493b05495f55316f29cbffa5561cdb",
+  "cantera/paper6/policy_pareja11.py": "e7136f856e6c09dd033bb4658cd135ea",
+  "cantera/paper6/compromiso6_P6_16.py": "a5e959b5ad9375636e8f7245441ba411",
+  "cantera/paper6/compromiso6c_P6_23.py": "38d8529db6362b8f792ff958f5b29855",
+  "cantera/paper6/policy_pareja23.py": "5947b1d9c3ef99e61624ed09d0afa7ec",
+  "cantera/paper6/policy_pareja27.py": "784a537a3c8e991fd853ae5b512167e6",
+  "cantera/paper6/mide_P6_29.py": "2eec4046ff2153bb54ec9f893abcbbbf",
+  "cantera/paper6/gif_P6_29.py": "7aa9955ec1d177bc59006a025230d3f3",
+  "cantera/paper6/gif_P6_23.py": "aff43fd7351265b1a05327e725f9423b"
+ }
+}

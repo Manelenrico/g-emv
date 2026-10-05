@@ -1,0 +1,814 @@
+{
+ "nota": "P6-20 ampliacion B. SOLO CONTAR. Umbrales de P6-19 (dano tipico por golpe): espada 13.21, lanza 9.83; pasos 3; hueco 24; ventana 96.",
+ "vidas": 200,
+ "tics": {
+  "vivos": 2523223,
+  "debil": 17320,
+  "armado_a_tiro_acercandose": 28903,
+  "debil_y_armado_a_tiro": 372,
+  "debil_y_acorralado": 26,
+  "debil_armado_con_escapatoria": 346
+ },
+ "total": {
+  "casos": 19,
+  "vidas": 16,
+  "tics_mediana": 1,
+  "lanza_lo_mata": 16,
+  "acaban_en_golpe (de esos rivales, en el caso o 96 tics)": 0,
+  "acaban_en_muerte_96": 17,
+  "causa_muerte": {
+   "anillo": 14,
+   "rival": 1,
+   "no consta": 2
+  },
+  "llevabamos_arma": 17,
+  "arma_propia": {
+   "blowgun": 3,
+   "spear": 3,
+   "none": 2,
+   "sword": 9,
+   "knives": 1,
+   "bow": 1
+  },
+  "arma_del_rival": {
+   "knives": 1,
+   "bow": 13,
+   "blowgun": 11,
+   "sword": 1
+  },
+  "ya_en_el_fuego": 17,
+  "hizo (tics por familia)": {
+   "quieto": 23,
+   "pega": 1,
+   "se mueve": 2
+  },
+  "hizo_con_arma (tics)": {
+   "quieto": 22,
+   "pega": 1,
+   "se mueve": 1
+  },
+  "pega_alguna_vez_con_arma": 1,
+  "con_arma: acaban en golpe / muerte": [
+   0,
+   15
+  ],
+  "sin_arma: acaban en golpe / muerte": [
+   0,
+   2
+  ]
+ },
+ "por_brazo": {
+  "A3": {
+   "casos": 5,
+   "vidas": 5,
+   "tics_mediana": 1,
+   "lanza_lo_mata": 5,
+   "acaban_en_golpe (de esos rivales, en el caso o 96 tics)": 0,
+   "acaban_en_muerte_96": 4,
+   "causa_muerte": {
+    "anillo": 3,
+    "rival": 1
+   },
+   "llevabamos_arma": 4,
+   "arma_propia": {
+    "blowgun": 1,
+    "spear": 2,
+    "none": 1,
+    "sword": 1
+   },
+   "arma_del_rival": {
+    "knives": 1,
+    "bow": 5
+   },
+   "ya_en_el_fuego": 4,
+   "hizo (tics por familia)": {
+    "quieto": 6
+   },
+   "hizo_con_arma (tics)": {
+    "quieto": 5
+   },
+   "pega_alguna_vez_con_arma": 0,
+   "con_arma: acaban en golpe / muerte": [
+    0,
+    3
+   ],
+   "sin_arma: acaban en golpe / muerte": [
+    0,
+    1
+   ]
+  },
+  "A4": {
+   "casos": 3,
+   "vidas": 3,
+   "tics_mediana": 3,
+   "lanza_lo_mata": 3,
+   "acaban_en_golpe (de esos rivales, en el caso o 96 tics)": 0,
+   "acaban_en_muerte_96": 2,
+   "causa_muerte": {
+    "anillo": 2
+   },
+   "llevabamos_arma": 3,
+   "arma_propia": {
+    "sword": 3
+   },
+   "arma_del_rival": {
+    "blowgun": 7,
+    "sword": 1
+   },
+   "ya_en_el_fuego": 3,
+   "hizo (tics por familia)": {
+    "quieto": 7,
+    "pega": 1
+   },
+   "hizo_con_arma (tics)": {
+    "quieto": 7,
+    "pega": 1
+   },
+   "pega_alguna_vez_con_arma": 1,
+   "con_arma: acaban en golpe / muerte": [
+    0,
+    2
+   ],
+   "sin_arma: acaban en golpe / muerte": [
+    0,
+    0
+   ]
+  },
+  "A5v": {
+   "casos": 7,
+   "vidas": 4,
+   "tics_mediana": 1,
+   "lanza_lo_mata": 5,
+   "acaban_en_golpe (de esos rivales, en el caso o 96 tics)": 0,
+   "acaban_en_muerte_96": 7,
+   "causa_muerte": {
+    "anillo": 5,
+    "no consta": 2
+   },
+   "llevabamos_arma": 7,
+   "arma_propia": {
+    "sword": 4,
+    "blowgun": 2,
+    "knives": 1
+   },
+   "arma_del_rival": {
+    "bow": 7,
+    "blowgun": 1
+   },
+   "ya_en_el_fuego": 6,
+   "hizo (tics por familia)": {
+    "quieto": 8
+   },
+   "hizo_con_arma (tics)": {
+    "quieto": 8
+   },
+   "pega_alguna_vez_con_arma": 0,
+   "con_arma: acaban en golpe / muerte": [
+    0,
+    7
+   ],
+   "sin_arma: acaban en golpe / muerte": [
+    0,
+    0
+   ]
+  },
+  "A5h": {
+   "casos": 4,
+   "vidas": 4,
+   "tics_mediana": 1,
+   "lanza_lo_mata": 3,
+   "acaban_en_golpe (de esos rivales, en el caso o 96 tics)": 0,
+   "acaban_en_muerte_96": 4,
+   "causa_muerte": {
+    "anillo": 4
+   },
+   "llevabamos_arma": 3,
+   "arma_propia": {
+    "spear": 1,
+    "none": 1,
+    "bow": 1,
+    "sword": 1
+   },
+   "arma_del_rival": {
+    "blowgun": 3,
+    "bow": 1
+   },
+   "ya_en_el_fuego": 4,
+   "hizo (tics por familia)": {
+    "quieto": 2,
+    "se mueve": 2
+   },
+   "hizo_con_arma (tics)": {
+    "quieto": 2,
+    "se mueve": 1
+   },
+   "pega_alguna_vez_con_arma": 0,
+   "con_arma: acaban en golpe / muerte": [
+    0,
+    3
+   ],
+   "sin_arma: acaban en golpe / muerte": [
+    0,
+    1
+   ]
+  },
+  "A6": {
+   "casos": 0,
+   "vidas": 0,
+   "tics_mediana": null,
+   "lanza_lo_mata": 0,
+   "acaban_en_golpe (de esos rivales, en el caso o 96 tics)": 0,
+   "acaban_en_muerte_96": 0,
+   "causa_muerte": {},
+   "llevabamos_arma": 0,
+   "arma_propia": {},
+   "arma_del_rival": {},
+   "ya_en_el_fuego": 0,
+   "hizo (tics por familia)": {},
+   "hizo_con_arma (tics)": {},
+   "pega_alguna_vez_con_arma": 0,
+   "con_arma: acaban en golpe / muerte": [
+    0,
+    0
+   ],
+   "sin_arma: acaban en golpe / muerte": [
+    0,
+    0
+   ]
+  }
+ },
+ "casos": [
+  {
+   "brazo": "A3",
+   "semilla": 20365645,
+   "slot": 10,
+   "t0": 11251,
+   "t_fin": 11251,
+   "tics": 1,
+   "hp0": 9.0,
+   "hp_min": 9.0,
+   "lanza_mata": true,
+   "rivales": [
+    9
+   ],
+   "armas": {
+    "knives": 1
+   },
+   "d_min": 5,
+   "llevaba_arma": true,
+   "arma_propia": "blowgun",
+   "hizo": {
+    "quieto": 1
+   },
+   "golpe_en_caso": 0.0,
+   "golpe_96": 0,
+   "muere_96": true,
+   "causa_muerte": "anillo",
+   "en_fuego": true,
+   "cerrado": true,
+   "golpe_de_esos_rivales_96": 0
+  },
+  {
+   "brazo": "A3",
+   "semilla": 21517664,
+   "slot": 10,
+   "t0": 13809,
+   "t_fin": 13809,
+   "tics": 1,
+   "hp0": 8.0,
+   "hp_min": 8.0,
+   "lanza_mata": true,
+   "rivales": [
+    14
+   ],
+   "armas": {
+    "bow": 1
+   },
+   "d_min": 3,
+   "llevaba_arma": true,
+   "arma_propia": "spear",
+   "hizo": {
+    "quieto": 1
+   },
+   "golpe_en_caso": 0.0,
+   "golpe_96": 0,
+   "muere_96": false,
+   "causa_muerte": null,
+   "en_fuego": true,
+   "cerrado": true,
+   "golpe_de_esos_rivales_96": 0
+  },
+  {
+   "brazo": "A3",
+   "semilla": 21831851,
+   "slot": 10,
+   "t0": 14721,
+   "t_fin": 14721,
+   "tics": 1,
+   "hp0": 2.0,
+   "hp_min": 2.0,
+   "lanza_mata": true,
+   "rivales": [
+    14
+   ],
+   "armas": {
+    "bow": 1
+   },
+   "d_min": 1,
+   "llevaba_arma": true,
+   "arma_propia": "spear",
+   "hizo": {
+    "quieto": 1
+   },
+   "golpe_en_caso": 0.0,
+   "golpe_96": 0,
+   "muere_96": true,
+   "causa_muerte": "rival",
+   "en_fuego": false,
+   "cerrado": true,
+   "golpe_de_esos_rivales_96": 0
+  },
+  {
+   "brazo": "A3",
+   "semilla": 22250767,
+   "slot": 10,
+   "t0": 12630,
+   "t_fin": 12630,
+   "tics": 1,
+   "hp0": 6.0,
+   "hp_min": 6.0,
+   "lanza_mata": true,
+   "rivales": [
+    5
+   ],
+   "armas": {
+    "bow": 1
+   },
+   "d_min": 7,
+   "llevaba_arma": false,
+   "arma_propia": "none",
+   "hizo": {
+    "quieto": 1
+   },
+   "golpe_en_caso": 0.0,
+   "golpe_96": 0,
+   "muere_96": true,
+   "causa_muerte": "anillo",
+   "en_fuego": true,
+   "cerrado": true,
+   "golpe_de_esos_rivales_96": 0
+  },
+  {
+   "brazo": "A3",
+   "semilla": 22250767,
+   "slot": 11,
+   "t0": 12881,
+   "t_fin": 12903,
+   "tics": 2,
+   "hp0": 12.0,
+   "hp_min": 5.0,
+   "lanza_mata": true,
+   "rivales": [
+    5
+   ],
+   "armas": {
+    "bow": 2
+   },
+   "d_min": 4,
+   "llevaba_arma": true,
+   "arma_propia": "sword",
+   "hizo": {
+    "quieto": 2
+   },
+   "golpe_en_caso": 0.0,
+   "golpe_96": 0,
+   "muere_96": true,
+   "causa_muerte": "anillo",
+   "en_fuego": true,
+   "cerrado": true,
+   "golpe_de_esos_rivales_96": 0
+  },
+  {
+   "brazo": "A4",
+   "semilla": 20260916,
+   "slot": 10,
+   "t0": 12625,
+   "t_fin": 12641,
+   "tics": 3,
+   "hp0": 1.0,
+   "hp_min": 1.0,
+   "lanza_mata": true,
+   "rivales": [
+    14
+   ],
+   "armas": {
+    "blowgun": 3
+   },
+   "d_min": 5,
+   "llevaba_arma": true,
+   "arma_propia": "sword",
+   "hizo": {
+    "quieto": 3
+   },
+   "golpe_en_caso": 0.0,
+   "golpe_96": 0,
+   "muere_96": true,
+   "causa_muerte": "anillo",
+   "en_fuego": true,
+   "cerrado": true,
+   "golpe_de_esos_rivales_96": 0
+  },
+  {
+   "brazo": "A4",
+   "semilla": 20994019,
+   "slot": 10,
+   "t0": 14833,
+   "t_fin": 14833,
+   "tics": 1,
+   "hp0": 0.0,
+   "hp_min": 0.0,
+   "lanza_mata": true,
+   "rivales": [
+    14
+   ],
+   "armas": {
+    "sword": 1
+   },
+   "d_min": 1,
+   "llevaba_arma": true,
+   "arma_propia": "sword",
+   "hizo": {
+    "pega": 1
+   },
+   "golpe_en_caso": 0.0,
+   "golpe_96": 0,
+   "muere_96": false,
+   "causa_muerte": null,
+   "en_fuego": true,
+   "cerrado": true,
+   "golpe_de_esos_rivales_96": 0
+  },
+  {
+   "brazo": "A4",
+   "semilla": 21203477,
+   "slot": 10,
+   "t0": 14306,
+   "t_fin": 14328,
+   "tics": 4,
+   "hp0": 9.0,
+   "hp_min": 9.0,
+   "lanza_mata": true,
+   "rivales": [
+    5
+   ],
+   "armas": {
+    "blowgun": 4
+   },
+   "d_min": 3,
+   "llevaba_arma": true,
+   "arma_propia": "sword",
+   "hizo": {
+    "quieto": 4
+   },
+   "golpe_en_caso": 0.0,
+   "golpe_96": 0,
+   "muere_96": true,
+   "causa_muerte": "anillo",
+   "en_fuego": true,
+   "cerrado": true,
+   "golpe_de_esos_rivales_96": 0
+  },
+  {
+   "brazo": "A5v",
+   "semilla": 20365645,
+   "slot": 11,
+   "t0": 11198,
+   "t_fin": 11198,
+   "tics": 1,
+   "hp0": 10.0,
+   "hp_min": 10.0,
+   "lanza_mata": false,
+   "rivales": [
+    7
+   ],
+   "armas": {
+    "bow": 1
+   },
+   "d_min": 7,
+   "llevaba_arma": true,
+   "arma_propia": "sword",
+   "hizo": {
+    "quieto": 1
+   },
+   "golpe_en_caso": 0.0,
+   "golpe_96": 0,
+   "muere_96": true,
+   "causa_muerte": "anillo",
+   "en_fuego": true,
+   "cerrado": true,
+   "golpe_de_esos_rivales_96": 0
+  },
+  {
+   "brazo": "A5v",
+   "semilla": 20365645,
+   "slot": 11,
+   "t0": 11223,
+   "t_fin": 11223,
+   "tics": 1,
+   "hp0": 5.0,
+   "hp_min": 5.0,
+   "lanza_mata": true,
+   "rivales": [
+    7
+   ],
+   "armas": {
+    "bow": 1
+   },
+   "d_min": 7,
+   "llevaba_arma": true,
+   "arma_propia": "sword",
+   "hizo": {
+    "quieto": 1
+   },
+   "golpe_en_caso": 0.0,
+   "golpe_96": 0,
+   "muere_96": true,
+   "causa_muerte": "anillo",
+   "en_fuego": true,
+   "cerrado": true,
+   "golpe_de_esos_rivales_96": 0
+  },
+  {
+   "brazo": "A5v",
+   "semilla": 20365645,
+   "slot": 11,
+   "t0": 11248,
+   "t_fin": 11248,
+   "tics": 1,
+   "hp0": 0.0,
+   "hp_min": 0.0,
+   "lanza_mata": true,
+   "rivales": [
+    7
+   ],
+   "armas": {
+    "bow": 1
+   },
+   "d_min": 7,
+   "llevaba_arma": true,
+   "arma_propia": "sword",
+   "hizo": {
+    "quieto": 1
+   },
+   "golpe_en_caso": 0.0,
+   "golpe_96": 0,
+   "muere_96": true,
+   "causa_muerte": "anillo",
+   "en_fuego": true,
+   "cerrado": true,
+   "golpe_de_esos_rivales_96": 0
+  },
+  {
+   "brazo": "A5v",
+   "semilla": 21308206,
+   "slot": 10,
+   "t0": 13945,
+   "t_fin": 13945,
+   "tics": 1,
+   "hp0": 6.0,
+   "hp_min": 6.0,
+   "lanza_mata": true,
+   "rivales": [
+    14
+   ],
+   "armas": {
+    "bow": 1
+   },
+   "d_min": 3,
+   "llevaba_arma": true,
+   "arma_propia": "blowgun",
+   "hizo": {
+    "quieto": 1
+   },
+   "golpe_en_caso": 0.0,
+   "golpe_96": 0,
+   "muere_96": true,
+   "causa_muerte": "no consta",
+   "en_fuego": true,
+   "cerrado": true,
+   "golpe_de_esos_rivales_96": 0
+  },
+  {
+   "brazo": "A5v",
+   "semilla": 21308206,
+   "slot": 10,
+   "t0": 13981,
+   "t_fin": 13981,
+   "tics": 1,
+   "hp0": 6.0,
+   "hp_min": 6.0,
+   "lanza_mata": true,
+   "rivales": [
+    14
+   ],
+   "armas": {
+    "bow": 1
+   },
+   "d_min": 3,
+   "llevaba_arma": true,
+   "arma_propia": "blowgun",
+   "hizo": {
+    "quieto": 1
+   },
+   "golpe_en_caso": 0.0,
+   "golpe_96": 0,
+   "muere_96": true,
+   "causa_muerte": "no consta",
+   "en_fuego": true,
+   "cerrado": true,
+   "golpe_de_esos_rivales_96": 0
+  },
+  {
+   "brazo": "A5v",
+   "semilla": 21517664,
+   "slot": 11,
+   "t0": 12855,
+   "t_fin": 12863,
+   "tics": 2,
+   "hp0": 11.0,
+   "hp_min": 11.0,
+   "lanza_mata": false,
+   "rivales": [
+    5,
+    14
+   ],
+   "armas": {
+    "bow": 1,
+    "blowgun": 1
+   },
+   "d_min": 4,
+   "llevaba_arma": true,
+   "arma_propia": "sword",
+   "hizo": {
+    "quieto": 2
+   },
+   "golpe_en_caso": 0.0,
+   "golpe_96": 0,
+   "muere_96": true,
+   "causa_muerte": "anillo",
+   "en_fuego": false,
+   "cerrado": true,
+   "golpe_de_esos_rivales_96": 0
+  },
+  {
+   "brazo": "A5v",
+   "semilla": 22041309,
+   "slot": 11,
+   "t0": 12726,
+   "t_fin": 12726,
+   "tics": 1,
+   "hp0": 9.0,
+   "hp_min": 9.0,
+   "lanza_mata": true,
+   "rivales": [
+    14
+   ],
+   "armas": {
+    "bow": 1
+   },
+   "d_min": 8,
+   "llevaba_arma": true,
+   "arma_propia": "knives",
+   "hizo": {
+    "quieto": 1
+   },
+   "golpe_en_caso": 0.0,
+   "golpe_96": 0,
+   "muere_96": true,
+   "causa_muerte": "anillo",
+   "en_fuego": true,
+   "cerrado": true,
+   "golpe_de_esos_rivales_96": 0
+  },
+  {
+   "brazo": "A5h",
+   "semilla": 20575103,
+   "slot": 11,
+   "t0": 12811,
+   "t_fin": 12811,
+   "tics": 1,
+   "hp0": 13.0,
+   "hp_min": 13.0,
+   "lanza_mata": false,
+   "rivales": [
+    4
+   ],
+   "armas": {
+    "blowgun": 1
+   },
+   "d_min": 4,
+   "llevaba_arma": true,
+   "arma_propia": "spear",
+   "hizo": {
+    "quieto": 1
+   },
+   "golpe_en_caso": 0.0,
+   "golpe_96": 0,
+   "muere_96": true,
+   "causa_muerte": "anillo",
+   "en_fuego": true,
+   "cerrado": true,
+   "golpe_de_esos_rivales_96": 0
+  },
+  {
+   "brazo": "A5h",
+   "semilla": 20784561,
+   "slot": 10,
+   "t0": 14024,
+   "t_fin": 14024,
+   "tics": 1,
+   "hp0": 2.0,
+   "hp_min": 2.0,
+   "lanza_mata": true,
+   "rivales": [
+    3
+   ],
+   "armas": {
+    "blowgun": 1
+   },
+   "d_min": 6,
+   "llevaba_arma": false,
+   "arma_propia": "none",
+   "hizo": {
+    "se mueve": 1
+   },
+   "golpe_en_caso": 0.0,
+   "golpe_96": 0,
+   "muere_96": true,
+   "causa_muerte": "anillo",
+   "en_fuego": true,
+   "cerrado": true,
+   "golpe_de_esos_rivales_96": 0
+  },
+  {
+   "brazo": "A5h",
+   "semilla": 21308206,
+   "slot": 10,
+   "t0": 12983,
+   "t_fin": 12983,
+   "tics": 1,
+   "hp0": 4.0,
+   "hp_min": 4.0,
+   "lanza_mata": true,
+   "rivales": [
+    2
+   ],
+   "armas": {
+    "blowgun": 1
+   },
+   "d_min": 6,
+   "llevaba_arma": true,
+   "arma_propia": "bow",
+   "hizo": {
+    "se mueve": 1
+   },
+   "golpe_en_caso": 0.0,
+   "golpe_96": 0,
+   "muere_96": true,
+   "causa_muerte": "anillo",
+   "en_fuego": true,
+   "cerrado": true,
+   "golpe_de_esos_rivales_96": 0
+  },
+  {
+   "brazo": "A5h",
+   "semilla": 21727122,
+   "slot": 11,
+   "t0": 12529,
+   "t_fin": 12529,
+   "tics": 1,
+   "hp0": 8.0,
+   "hp_min": 8.0,
+   "lanza_mata": true,
+   "rivales": [
+    14
+   ],
+   "armas": {
+    "bow": 1
+   },
+   "d_min": 8,
+   "llevaba_arma": true,
+   "arma_propia": "sword",
+   "hizo": {
+    "quieto": 1
+   },
+   "golpe_en_caso": 0.0,
+   "golpe_96": 0,
+   "muere_96": true,
+   "causa_muerte": "anillo",
+   "en_fuego": true,
+   "cerrado": true,
+   "golpe_de_esos_rivales_96": 0
+  }
+ ]
+}

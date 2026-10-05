@@ -1,0 +1,277 @@
+{
+ "entorno": {
+  "GEMV_MIEDO": "0",
+  "GEMV_VIDA_AJENA": "0",
+  "GEMV_VIDA_AJENA_M": "0.25",
+  "GEMV_MEMORIA": "<repo>/paintball/alma/memoria_aprendida_p95.json",
+  "GEMV_CORTEX": "0",
+  "GEMV_CORTEX_CUERPO": "1",
+  "GEMV_CORTEX_MANUAL": "M2",
+  "GEMV_CORTEX_CADA": "50",
+  "GEMV_FORMA": "0",
+  "GEMV_HILO_FORMA": "0",
+  "GEMV_CONSEJERO_FORMA": "0",
+  "GEMV_FORMAS_AZAR": "0",
+  "GEMV_FORMA_CADA": "250",
+  "GEMV_FORMA_SPEND_CADA": "10",
+  "GEMV_CORTEX_TIMEOUT": "25",
+  "GEMV_CURIOSIDAD": "",
+  "GEMV_CURIOSIDAD_K": "0.2",
+  "GEMV_CURIOSIDAD_BALANZA": "1",
+  "GEMV_CURIOSIDAD_FORMA": "0",
+  "GEMV_CURIOSIDAD_CONSIGNA": "0.5",
+  "GEMV_CURIOSIDAD_REFRACTARIO": "50",
+  "GEMV_OJOS": "1",
+  "GEMV_COMPANIA_TECHO": "0.32"
+ },
+ "vida_trazada": "paintball/runs/P611_t1_A4_20260916/ereq_2c2e5ffe-bfc8-49fc-ab3d-c307f5e9f810-policy_agent_10.art.log",
+ "tics_replayados": 600,
+ "archivos": [
+  {
+   "ruta": "cantera/paper4/decide_otra_vez.py",
+   "md5": "d37e3d22a4195d1826106a3c40b58e1d",
+   "clase": "medida (no viaja en la imagen)",
+   "como": "importado por la medida"
+  },
+  {
+   "ruta": "cantera/paper4/memoria_aprendida_p95.json",
+   "md5": "6535717a27e3188852af8a76d2c3ef60",
+   "clase": "otro",
+   "como": "abierto en el replay"
+  },
+  {
+   "ruta": "cantera/paper4/regla_en_seco.py",
+   "md5": "78f94b659ebd24d68bd86b88f4a774ea",
+   "clase": "medida (no viaja en la imagen)",
+   "como": "importado por la medida"
+  },
+  {
+   "ruta": "cantera/paper4/serie_util.py",
+   "md5": "c65b52969d5334b6dc0ed36cb10f943f",
+   "clase": "medida (no viaja en la imagen)",
+   "como": "importado por la medida"
+  },
+  {
+   "ruta": "cantera/paper5/alcance_g.py",
+   "md5": "bf62b03587506064311c122fd0e09102",
+   "clase": "paper 5 (CONGELADO.md)",
+   "como": "importado por la politica"
+  },
+  {
+   "ruta": "cantera/paper5/curiosidad.py",
+   "md5": "f803f47c8ed0a8eaf3855d7e1dc7d457",
+   "clase": "paper 5 (CONGELADO.md)",
+   "como": "importado por la politica"
+  },
+  {
+   "ruta": "cantera/paper5/curiosidad_forma.py",
+   "md5": "141ecb2eb17f76654caf4bbf3c29c642",
+   "clase": "paper 5 (CONGELADO.md)",
+   "como": "importado por la politica"
+  },
+  {
+   "ruta": "cantera/paper5/forma.py",
+   "md5": "b801876afda071403c5af54a28feff85",
+   "clase": "paper 5 (CONGELADO.md)",
+   "como": "importado por la politica"
+  },
+  {
+   "ruta": "cantera/paper5/proyeccion.py",
+   "md5": "bbc42daeaa769c783844997067ef148d",
+   "clase": "paper 5 (CONGELADO.md)",
+   "como": "importado por la politica"
+  },
+  {
+   "ruta": "cantera/paper5/traductor_forma.py",
+   "md5": "b310bb72884ef5f4e3510ab803cd2776",
+   "clase": "paper 5 (CONGELADO.md)",
+   "como": "importado por la politica"
+  },
+  {
+   "ruta": "cantera/paper6/amenaza11_P6_11.py",
+   "md5": "9d493b05495f55316f29cbffa5561cdb",
+   "clase": "paper 6",
+   "como": "importado por la politica"
+  },
+  {
+   "ruta": "cantera/paper6/arreglos_P6_6.py",
+   "md5": "4d10ea09333553ebf7d6ce0afdb73832",
+   "clase": "paper 6",
+   "como": "importado por la politica"
+  },
+  {
+   "ruta": "cantera/paper6/arreglos_P6_8b.py",
+   "md5": "5028b54d4afd8c7c82bc8e5e3a94a01e",
+   "clase": "paper 6",
+   "como": "importado por la politica"
+  },
+  {
+   "ruta": "cantera/paper6/banco_P6_11.py",
+   "md5": "e6dcd998f0746da1459215ee155b6d4d",
+   "clase": "medida (no viaja en la imagen)",
+   "como": "importado por la medida"
+  },
+  {
+   "ruta": "cantera/paper6/filas10_P6_10.py",
+   "md5": "af4617ad93a27838376df17d0c78b65c",
+   "clase": "paper 6",
+   "como": "importado por la politica"
+  },
+  {
+   "ruta": "cantera/paper6/inventario_P6_12.py",
+   "md5": "1a8140552f88d88c8638c7028cb84ccf",
+   "clase": "medida (no viaja en la imagen)",
+   "como": "importado por la politica"
+  },
+  {
+   "ruta": "cantera/paper6/oido5_P6_5.py",
+   "md5": "4f7aa3b3ddc4fc32e4b47c1356974415",
+   "clase": "paper 6",
+   "como": "importado por la politica"
+  },
+  {
+   "ruta": "cantera/paper6/oyente2.py",
+   "md5": "4e8b657f9168b0ffda5e411601b1aa14",
+   "clase": "paper 6",
+   "como": "importado por la politica"
+  },
+  {
+   "ruta": "cantera/paper6/parte2.py",
+   "md5": "67ba0003234939c349af12be5764a3b0",
+   "clase": "paper 6",
+   "como": "importado por la politica"
+  },
+  {
+   "ruta": "cantera/paper6/policy_pareja.py",
+   "md5": "796fc64229d047410fb351dfa61f871b",
+   "clase": "paper 6",
+   "como": "importado por la politica"
+  },
+  {
+   "ruta": "cantera/paper6/policy_pareja11.py",
+   "md5": "e7136f856e6c09dd033bb4658cd135ea",
+   "clase": "paper 6",
+   "como": "importado por la politica"
+  },
+  {
+   "ruta": "motor/model.py",
+   "md5": "1e511978c251130e95169ebf8443efa1",
+   "clase": "motor",
+   "como": "importado por la politica"
+  },
+  {
+   "ruta": "paintball/alma/appraisal_zs.py",
+   "md5": "87745903992bdf0b4f5a18d13f9d4f5a",
+   "clase": "alma (paper 4/5)",
+   "como": "importado por la politica"
+  },
+  {
+   "ruta": "paintball/alma/appraisal_zs_v38_exp.py",
+   "md5": "ecd00602c1befdc2fbd32f7aa7d52b7f",
+   "clase": "medida (no viaja en la imagen)",
+   "como": "importado por la medida"
+  },
+  {
+   "ruta": "paintball/alma/appraisal_zs_v40_exp.py",
+   "md5": "e729a0293673abe200620419ccb8683a",
+   "clase": "medida (no viaja en la imagen)",
+   "como": "importado por la medida"
+  },
+  {
+   "ruta": "paintball/alma/appraisal_zs_v42_exp.py",
+   "md5": "98c13d60167c80cc8334c965be75c640",
+   "clase": "alma (paper 4/5)",
+   "como": "importado por la politica"
+  },
+  {
+   "ruta": "paintball/alma/confianza_viva.py",
+   "md5": "6e1e444435914f0b9df287ea37555bbc",
+   "clase": "alma (paper 4/5)",
+   "como": "importado por la politica"
+  },
+  {
+   "ruta": "paintball/alma/cortex_t5.py",
+   "md5": "defb11d3a4661ff57745214ccd1ab14f",
+   "clase": "alma (paper 4/5)",
+   "como": "importado por la politica"
+  },
+  {
+   "ruta": "paintball/alma/decisor_zs.py",
+   "md5": "8fa03547e3228ef9df4aa94c444f9252",
+   "clase": "alma (paper 4/5)",
+   "como": "importado por la politica"
+  },
+  {
+   "ruta": "paintball/alma/forma_viva.py",
+   "md5": "b2c87c93f0ed47e48fd8991a5a797a42",
+   "clase": "alma (paper 4/5)",
+   "como": "importado por la politica"
+  },
+  {
+   "ruta": "paintball/alma/formas_azar.py",
+   "md5": "eefb5534e9533c8b742f7feb96239588",
+   "clase": "alma (paper 4/5)",
+   "como": "importado por la politica"
+  },
+  {
+   "ruta": "paintball/alma/hilo_forma.py",
+   "md5": "aeea06ae4eb5b704e94fe845a5a5e5aa",
+   "clase": "alma (paper 4/5)",
+   "como": "importado por la politica"
+  },
+  {
+   "ruta": "paintball/alma/mundo.py",
+   "md5": "e2c2cf7618b61e1280f2e3ea989f1872",
+   "clase": "alma (paper 4/5)",
+   "como": "importado por la politica"
+  },
+  {
+   "ruta": "paintball/alma/parte.py",
+   "md5": "80dabc2e78c7c36f0708a2d95e22262a",
+   "clase": "alma (paper 4/5)",
+   "como": "importado por la politica"
+  },
+  {
+   "ruta": "paintball/alma/policy_cortex.py",
+   "md5": "6997b00c266f23d6037cc1a018f60a76",
+   "clase": "alma (paper 4/5)",
+   "como": "importado por la politica"
+  },
+  {
+   "ruta": "paintball/alma/policy_forma.py",
+   "md5": "896e97a0cca1efcb736596e0b8b15cea",
+   "clase": "alma (paper 4/5)",
+   "como": "importado por la politica"
+  },
+  {
+   "ruta": "paintball/alma/relator_t5.py",
+   "md5": "929c49f6ced9af1cbd37eadec08c54f0",
+   "clase": "alma (paper 4/5)",
+   "como": "importado por la politica"
+  },
+  {
+   "ruta": "paintball/alma/smoke_alma.py",
+   "md5": "455b75295619d76dffc43fb4332f7156",
+   "clase": "medida (no viaja en la imagen)",
+   "como": "importado por la medida"
+  },
+  {
+   "ruta": "paintball/pareja.py",
+   "md5": "56dfaae4b53762d1c771b9d88615a6b9",
+   "clase": "medida (no viaja en la imagen)",
+   "como": "importado por la medida"
+  },
+  {
+   "ruta": "planificador/__init__.py",
+   "md5": "d41d8cd98f00b204e9800998ecf8427e",
+   "clase": "planificador",
+   "como": "importado por la politica"
+  },
+  {
+   "ruta": "planificador/planificador_v1.py",
+   "md5": "d0a3151d718e6b60d499e258c9dea9b1",
+   "clase": "planificador",
+   "como": "importado por la politica"
+  }
+ ]
+}

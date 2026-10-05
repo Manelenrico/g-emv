@@ -1,0 +1,45 @@
+{
+ "nota": "P6-28 banco · medidas",
+ "consultas": 251,
+ "pasan_a_la_llegada": {
+  "con_adelanto": {
+   "k": 84,
+   "n": 251,
+   "pct": 33.5
+  },
+  "sin_adelanto (plan original de A8, misma instantanea)": {
+   "k": 92,
+   "n": 251,
+   "pct": 36.7
+  },
+  "diferencia_puntos": -3.2,
+  "los_dos": 67,
+  "solo_adelanto": 17,
+  "solo_original": 25,
+  "mcnemar_p": 0.28,
+  "campo_original_ok_a_la_llegada": 91,
+  "original_rejuzgado_igual_que_campo": {
+   "k": 246,
+   "n": 251
+  }
+ },
+ "error_prevision_casillas": {
+  "n": 251,
+  "mediana": 2,
+  "p90": 7,
+  "max": 12,
+  "a_0": 25,
+  "a_le_2": 135
+ },
+ "adelanto": {
+  "intraducibles": 0,
+  "callan": 4,
+  "sin_plan": 17,
+  "ms_mediana": 3539.2,
+  "ms_prevision_mediana": 259.28
+ },
+ "gasto_consola_usd": 1.096043,
+ "llamadas": {
+  "adelanto/haiku": 251
+ }
+}

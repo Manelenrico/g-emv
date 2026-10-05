@@ -1,0 +1,514 @@
+{
+ "nota": "P6-21 §3. INSTRUMENTO DE MEDIDA. Tics desde el aviso 5 de A4, A5h, A6; reglas citadas en el informe.",
+ "por_brazo": {
+  "A4": {
+   "tics": 60376,
+   "juego quema": 8229,
+   "golpes": 318,
+   "cuerpo: seguro y el juego quema": 37,
+   "cuerpo: arde y el juego no quema": 1692,
+   "oraculo: seguro y el juego quema": 37,
+   "oraculo: arde y el juego no quema": 24823,
+   "cuerpo: seguro y el juego quema · radio 0": 37,
+   "cuerpo: seguro y el juego quema · golpes recibidos": 1,
+   "cuerpo: arde y el juego no quema · en encogimiento": 1692,
+   "quieto": 56144,
+   "quieto en casilla que creia segura mientras quemaba": 37,
+   "quieto ... golpes recibidos": 1,
+   "quieto ... radio 0": 37,
+   "quieto ... elegido noop": 37
+  },
+  "A5h": {
+   "tics": 48971,
+   "juego quema": 7497,
+   "golpes": 302,
+   "cuerpo: seguro y el juego quema": 133,
+   "cuerpo: arde y el juego no quema": 1748,
+   "oraculo: seguro y el juego quema": 133,
+   "oraculo: arde y el juego no quema": 22225,
+   "cuerpo: seguro y el juego quema · radio 0": 133,
+   "cuerpo: seguro y el juego quema · golpes recibidos": 5,
+   "cuerpo: arde y el juego no quema · en encogimiento": 1748,
+   "quieto": 45727,
+   "quieto en casilla que creia segura mientras quemaba": 133,
+   "quieto ... golpes recibidos": 5,
+   "quieto ... radio 0": 133,
+   "quieto ... elegido noop": 131,
+   "quieto ... elegido otro": 2
+  },
+  "A6": {
+   "tics": 70728,
+   "juego quema": 7567,
+   "golpes": 298,
+   "cuerpo: seguro y el juego quema": 353,
+   "cuerpo: arde y el juego no quema": 2713,
+   "oraculo: seguro y el juego quema": 353,
+   "oraculo: arde y el juego no quema": 28419,
+   "cuerpo: seguro y el juego quema · radio 0": 353,
+   "cuerpo: seguro y el juego quema · golpes recibidos": 12,
+   "cuerpo: arde y el juego no quema · en encogimiento": 2713,
+   "quieto": 66148,
+   "quieto en casilla que creia segura mientras quemaba": 353,
+   "quieto ... golpes recibidos": 12,
+   "quieto ... radio 0": 353,
+   "quieto ... elegido noop": 346,
+   "quieto ... elegido otro": 7
+  }
+ },
+ "muertes_anillo_A4": {
+  "n": 22,
+  "cuerpo_creia_segura": 1,
+  "oraculo_a_salvo": 0,
+  "radio_0": 0,
+  "en_el_centro": 0,
+  "por_fase": {
+   "5": 13,
+   "6": 5,
+   "4": 1,
+   "7": 3
+  },
+  "tics_en_la_casilla_mediana": 4,
+  "lista": [
+   {
+    "sem": 20260916,
+    "slot": 10,
+    "t": 12648,
+    "pos": [
+     15,
+     24
+    ],
+    "d": 9.0,
+    "R": 5,
+    "cal": 5.0,
+    "r1": 5,
+    "fase": 5,
+    "juego quema": true,
+    "cuerpo cree segura": false,
+    "oraculo a salvo": false,
+    "tics en la casilla": 8,
+    "hp": 1.0,
+    "elegido": "noop"
+   },
+   {
+    "sem": 20260916,
+    "slot": 11,
+    "t": 13632,
+    "pos": [
+     21,
+     21
+    ],
+    "d": 4.24,
+    "R": 4,
+    "cal": 3.53,
+    "r1": 3,
+    "fase": 6,
+    "juego quema": true,
+    "cuerpo cree segura": false,
+    "oraculo a salvo": false,
+    "tics en la casilla": 6,
+    "hp": 10.0,
+    "elegido": "noop"
+   },
+   {
+    "sem": 20365645,
+    "slot": 10,
+    "t": 10920,
+    "pos": [
+     28,
+     13
+    ],
+    "d": 11.7,
+    "R": 11,
+    "cal": 11.0,
+    "r1": 8,
+    "fase": 4,
+    "juego quema": true,
+    "cuerpo cree segura": false,
+    "oraculo a salvo": false,
+    "tics en la casilla": 8,
+    "hp": 4.0,
+    "elegido": "noop"
+   },
+   {
+    "sem": 20575103,
+    "slot": 10,
+    "t": 12600,
+    "pos": [
+     19,
+     18
+    ],
+    "d": 7.81,
+    "R": 6,
+    "cal": 5.2,
+    "r1": 5,
+    "fase": 5,
+    "juego quema": true,
+    "cuerpo cree segura": false,
+    "oraculo a salvo": false,
+    "tics en la casilla": 10,
+    "hp": 3.0,
+    "elegido": "noop"
+   },
+   {
+    "sem": 20575103,
+    "slot": 11,
+    "t": 12816,
+    "pos": [
+     20,
+     14
+    ],
+    "d": 10.77,
+    "R": 5,
+    "cal": 5.0,
+    "r1": 5,
+    "fase": 5,
+    "juego quema": true,
+    "cuerpo cree segura": false,
+    "oraculo a salvo": false,
+    "tics en la casilla": 5,
+    "hp": 4.0,
+    "elegido": "noop"
+   },
+   {
+    "sem": 20679832,
+    "slot": 11,
+    "t": 12888,
+    "pos": [
+     21,
+     18
+    ],
+    "d": 6.71,
+    "R": 5,
+    "cal": 5.0,
+    "r1": 5,
+    "fase": 5,
+    "juego quema": true,
+    "cuerpo cree segura": false,
+    "oraculo a salvo": false,
+    "tics en la casilla": 1,
+    "hp": 6.0,
+    "elegido": "noop"
+   },
+   {
+    "sem": 20784561,
+    "slot": 10,
+    "t": 14688,
+    "pos": [
+     24,
+     27
+    ],
+    "d": 3.0,
+    "R": 2,
+    "cal": 1.27,
+    "r1": 0,
+    "fase": 7,
+    "juego quema": true,
+    "cuerpo cree segura": false,
+    "oraculo a salvo": false,
+    "tics en la casilla": 3,
+    "hp": 4.0,
+    "elegido": "noop"
+   },
+   {
+    "sem": 20784561,
+    "slot": 11,
+    "t": 12840,
+    "pos": [
+     19,
+     28
+    ],
+    "d": 6.4,
+    "R": 5,
+    "cal": 5.0,
+    "r1": 5,
+    "fase": 5,
+    "juego quema": true,
+    "cuerpo cree segura": false,
+    "oraculo a salvo": false,
+    "tics en la casilla": 4,
+    "hp": 1.0,
+    "elegido": "noop"
+   },
+   {
+    "sem": 20889290,
+    "slot": 10,
+    "t": 13008,
+    "pos": [
+     25,
+     19
+    ],
+    "d": 5.1,
+    "R": 5,
+    "cal": 5.0,
+    "r1": 3,
+    "fase": 6,
+    "juego quema": true,
+    "cuerpo cree segura": false,
+    "oraculo a salvo": false,
+    "tics en la casilla": 1,
+    "hp": 10.0,
+    "elegido": "noop"
+   },
+   {
+    "sem": 21098748,
+    "slot": 10,
+    "t": 14143,
+    "pos": [
+     22,
+     24
+    ],
+    "d": 2.0,
+    "R": 3,
+    "cal": 3.0,
+    "r1": 0,
+    "fase": 7,
+    "juego quema": false,
+    "cuerpo cree segura": true,
+    "oraculo a salvo": false,
+    "tics en la casilla": 2,
+    "hp": 1.0,
+    "elegido": "noop"
+   },
+   {
+    "sem": 21098748,
+    "slot": 11,
+    "t": 13008,
+    "pos": [
+     29,
+     25
+    ],
+    "d": 5.1,
+    "R": 5,
+    "cal": 5.0,
+    "r1": 3,
+    "fase": 6,
+    "juego quema": true,
+    "cuerpo cree segura": false,
+    "oraculo a salvo": false,
+    "tics en la casilla": 9,
+    "hp": 1.0,
+    "elegido": "noop"
+   },
+   {
+    "sem": 21203477,
+    "slot": 10,
+    "t": 14328,
+    "pos": [
+     20,
+     24
+    ],
+    "d": 4.0,
+    "R": 3,
+    "cal": 3.0,
+    "r1": 0,
+    "fase": 7,
+    "juego quema": true,
+    "cuerpo cree segura": false,
+    "oraculo a salvo": false,
+    "tics en la casilla": 1,
+    "hp": 9.0,
+    "elegido": "noop"
+   },
+   {
+    "sem": 21203477,
+    "slot": 11,
+    "t": 12024,
+    "pos": [
+     28,
+     15
+    ],
+    "d": 9.85,
+    "R": 8,
+    "cal": 8.0,
+    "r1": 5,
+    "fase": 5,
+    "juego quema": true,
+    "cuerpo cree segura": false,
+    "oraculo a salvo": false,
+    "tics en la casilla": 2,
+    "hp": 2.0,
+    "elegido": "noop"
+   },
+   {
+    "sem": 21308206,
+    "slot": 10,
+    "t": 13056,
+    "pos": [
+     25,
+     29
+    ],
+    "d": 5.1,
+    "R": 5,
+    "cal": 5.0,
+    "r1": 3,
+    "fase": 6,
+    "juego quema": true,
+    "cuerpo cree segura": false,
+    "oraculo a salvo": false,
+    "tics en la casilla": 7,
+    "hp": 10.0,
+    "elegido": "noop"
+   },
+   {
+    "sem": 21727122,
+    "slot": 10,
+    "t": 12744,
+    "pos": [
+     18,
+     26
+    ],
+    "d": 6.32,
+    "R": 5,
+    "cal": 5.0,
+    "r1": 5,
+    "fase": 5,
+    "juego quema": true,
+    "cuerpo cree segura": false,
+    "oraculo a salvo": false,
+    "tics en la casilla": 1,
+    "hp": 1.0,
+    "elegido": "noop"
+   },
+   {
+    "sem": 21727122,
+    "slot": 11,
+    "t": 12672,
+    "pos": [
+     15,
+     26
+    ],
+    "d": 9.22,
+    "R": 5,
+    "cal": 5.0,
+    "r1": 5,
+    "fase": 5,
+    "juego quema": true,
+    "cuerpo cree segura": false,
+    "oraculo a salvo": false,
+    "tics en la casilla": 6,
+    "hp": 3.0,
+    "elegido": "noop"
+   },
+   {
+    "sem": 21831851,
+    "slot": 10,
+    "t": 12960,
+    "pos": [
+     29,
+     22
+    ],
+    "d": 5.39,
+    "R": 5,
+    "cal": 5.0,
+    "r1": 5,
+    "fase": 5,
+    "juego quema": true,
+    "cuerpo cree segura": false,
+    "oraculo a salvo": false,
+    "tics en la casilla": 4,
+    "hp": 0.0,
+    "elegido": "noop"
+   },
+   {
+    "sem": 21831851,
+    "slot": 11,
+    "t": 12840,
+    "pos": [
+     29,
+     22
+    ],
+    "d": 5.39,
+    "R": 5,
+    "cal": 5.0,
+    "r1": 5,
+    "fase": 5,
+    "juego quema": true,
+    "cuerpo cree segura": false,
+    "oraculo a salvo": false,
+    "tics en la casilla": 1,
+    "hp": 0.0,
+    "elegido": "noop"
+   },
+   {
+    "sem": 21936580,
+    "slot": 10,
+    "t": 12888,
+    "pos": [
+     19,
+     21
+    ],
+    "d": 5.83,
+    "R": 5,
+    "cal": 5.0,
+    "r1": 5,
+    "fase": 5,
+    "juego quema": true,
+    "cuerpo cree segura": false,
+    "oraculo a salvo": false,
+    "tics en la casilla": 3,
+    "hp": 1.0,
+    "elegido": "noop"
+   },
+   {
+    "sem": 21936580,
+    "slot": 11,
+    "t": 13968,
+    "pos": [
+     23,
+     21
+    ],
+    "d": 3.16,
+    "R": 3,
+    "cal": 3.0,
+    "r1": 3,
+    "fase": 6,
+    "juego quema": true,
+    "cuerpo cree segura": false,
+    "oraculo a salvo": false,
+    "tics en la casilla": 5,
+    "hp": 9.0,
+    "elegido": "noop"
+   },
+   {
+    "sem": 22041309,
+    "slot": 11,
+    "t": 12720,
+    "pos": [
+     16,
+     26
+    ],
+    "d": 8.25,
+    "R": 5,
+    "cal": 5.0,
+    "r1": 5,
+    "fase": 5,
+    "juego quema": true,
+    "cuerpo cree segura": false,
+    "oraculo a salvo": false,
+    "tics en la casilla": 1,
+    "hp": 1.0,
+    "elegido": "noop"
+   },
+   {
+    "sem": 22250767,
+    "slot": 11,
+    "t": 12912,
+    "pos": [
+     21,
+     29
+    ],
+    "d": 5.83,
+    "R": 5,
+    "cal": 5.0,
+    "r1": 5,
+    "fase": 5,
+    "juego quema": true,
+    "cuerpo cree segura": false,
+    "oraculo a salvo": false,
+    "tics en la casilla": 199,
+    "hp": 0.0,
+    "elegido": "noop"
+   }
+  ]
+ }
+}

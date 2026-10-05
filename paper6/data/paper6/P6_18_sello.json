@@ -1,0 +1,153 @@
+{
+ "base": {
+  "A4": {
+   "vidas_vivas_en_warn5": 35,
+   "tics_ardiendo_fase5_media": 196,
+   "tics_ardiendo_fase5_mediana": 205,
+   "vidas_con_0_tics_ardiendo": 6,
+   "sobreviven_fase5": 21,
+   "nunca_entra": 6,
+   "muertes_anillo": 22,
+   "muertes_rival": 6,
+   "supervivientes": 11
+  },
+  "A5h": {
+   "vidas_vivas_en_warn5": 34,
+   "tics_ardiendo_fase5_media": 190.6,
+   "tics_ardiendo_fase5_mediana": 223.0,
+   "vidas_con_0_tics_ardiendo": 4,
+   "sobreviven_fase5": 17,
+   "nunca_entra": 6,
+   "muertes_anillo": 19,
+   "muertes_rival": 12,
+   "supervivientes": 5
+  }
+ },
+ "banco": {
+  "prefiere": {
+   "veredictos": {
+    "ok": 48,
+    "vida": 2,
+    "area": 13
+   },
+   "prefiere_quedarse": 48,
+   "pct": 76.2,
+   "ventaja": {
+    "n": 63,
+    "p10": 0.0,
+    "mediana": 0.2253,
+    "p90": 0.3915
+   },
+   "ventaja_ok": {
+    "n": 48,
+    "p10": 0.1142,
+    "mediana": 0.2559,
+    "p90": 0.4713
+   },
+   "filas_en_contra": {
+    "F-REENCUENTRO": {
+     "n": 7,
+     "media": 0.10504,
+     "total": 0.7353
+    },
+    "S-HERIDO": {
+     "n": 8,
+     "media": 0.01477,
+     "total": 0.1181
+    }
+   },
+   "filas_a_favor": {
+    "F-DANO": {
+     "n": 57,
+     "media": -0.12149,
+     "total": -6.925
+    },
+    "F-ANTICIPACION": {
+     "n": 56,
+     "media": -0.08868,
+     "total": -4.966
+    },
+    "R-CARENCIA": {
+     "n": 56,
+     "media": -0.02199,
+     "total": -1.2312
+    },
+    "R-LLAMADA": {
+     "n": 57,
+     "media": -0.01388,
+     "total": -0.7914
+    },
+    "F-4-ALCANCE": {
+     "n": 56,
+     "media": -0.01147,
+     "total": -0.6422
+    },
+    "R-ACOPIO": {
+     "n": 55,
+     "media": -0.00882,
+     "total": -0.485
+    },
+    "S-8-EXPOSICION": {
+     "n": 54,
+     "media": -0.00378,
+     "total": -0.2043
+    },
+    "S-MUERTE-PAREJA": {
+     "n": 21,
+     "media": -0.0089,
+     "total": -0.1868
+    },
+    "S-DANO-PAREJA": {
+     "n": 33,
+     "media": -0.00542,
+     "total": -0.1788
+    },
+    "S-SOLEDAD": {
+     "n": 19,
+     "media": -0.00243,
+     "total": -0.0463
+    },
+    "S-7-AGRESOR": {
+     "n": 7,
+     "media": -0.00323,
+     "total": -0.0226
+    },
+    "F-HERMANO-AMENAZA": {
+     "n": 12,
+     "media": -0.00096,
+     "total": -0.0115
+    },
+    "F-HERMANO-GOLPE": {
+     "n": 2,
+     "media": -0.00254,
+     "total": -0.0051
+    },
+    "R-HERMANO-FALTA": {
+     "n": 4,
+     "media": -0.00051,
+     "total": -0.0021
+    },
+    "S-PROVISION": {
+     "n": 3,
+     "media": -0.00022,
+     "total": -0.0007
+    }
+   }
+  },
+  "veto": {
+   "ventanas": 63,
+   "veto_a_en_los_12_primeros_tics": 17,
+   "ventanas_con_algun_veto_a": 33,
+   "fraccion_tics_con_a_mediana": 0.04516129032258064,
+   "fraccion_tics_con_d_mediana": 0.06629834254143646,
+   "rupturas_total": {
+    "a)": 4265,
+    "d)": 1539,
+    "e)": 1058,
+    "c)": 20
+   },
+   "tics_total": 17383
+  }
+ },
+ "md5_sello": "0c97d77c7d03893dbaf224a4cc0e1d8a"
+}

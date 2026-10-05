@@ -1,0 +1,1511 @@
+{
+ "fases": [
+  [
+   7296,
+   7536,
+   8076,
+   24,
+   19,
+   1
+  ],
+  [
+   8436,
+   8676,
+   9216,
+   19,
+   15,
+   2
+  ],
+  [
+   9576,
+   9816,
+   10356,
+   15,
+   11,
+   4
+  ],
+  [
+   10716,
+   10956,
+   11496,
+   11,
+   8,
+   6
+  ],
+  [
+   11856,
+   12096,
+   12636,
+   8,
+   5,
+   8
+  ],
+  [
+   12996,
+   13236,
+   13776,
+   5,
+   3,
+   16
+  ],
+  [
+   14136,
+   14376,
+   14916,
+   3,
+   0,
+   24
+  ]
+ ],
+ "timeline": {
+  "vidas vivas en warn f0": 38,
+  "parejas enteras en warn f0": 19,
+  "vidas vivas en warn f1": 38,
+  "parejas enteras en warn f1": 19,
+  "vidas vivas en warn f2": 38,
+  "parejas enteras en warn f2": 19,
+  "vidas vivas en warn f3": 38,
+  "parejas enteras en warn f3": 19,
+  "vidas vivas en warn f4": 35,
+  "parejas enteras en warn f4": 17,
+  "muertes por anillo en la fase f4": 13,
+  "vidas vivas en warn f5": 21,
+  "parejas enteras en warn f5": 7,
+  "muertes por anillo en la fase f5": 5,
+  "vidas vivas en warn f6": 13,
+  "parejas enteras en warn f6": 3,
+  "los dos vivos en 8076 (cierre de la fase 1)": 19,
+  "los dos vivos en 14136 (aviso de la fase final)": 3,
+  "muertes por anillo en la fase f3": 1,
+  "muertes por anillo en la fase f6": 3
+ },
+ "muertes": [
+  {
+   "carp": "P611_t1_A4_20260916",
+   "slot": 10,
+   "aviso": 11856,
+   "primer_golpe": 12289,
+   "muerte": 12648,
+   "fase": 5,
+   "r1": 5,
+   "dps": 8,
+   "tics_aviso_a_muerte": 792,
+   "tics_golpe_a_muerte": 359,
+   "hp_en_aviso": 100,
+   "pasos_aviso": 2,
+   "instantes_aviso": 22,
+   "pos_aviso": [
+    19,
+    26
+   ],
+   "dist_centro_aviso": 5.4,
+   "pasos_golpe": 2,
+   "instantes_golpe": 22,
+   "pos_golpe": [
+    17,
+    23
+   ],
+   "dist_centro_golpe": 7.1,
+   "habia_camino": true,
+   "llegaba_saliendo_en_el_aviso": true,
+   "llegaba_saliendo_en_el_golpe": true,
+   "hermano_vivo_en_aviso": true,
+   "hermano_vivo_en_muerte": true,
+   "dist_hermano_aviso": 3,
+   "dist_hermano_muerte": 6,
+   "hermano_muere_por_anillo": true,
+   "elige_con_piernas": {
+    "move": 4,
+    "ir_objeto": 17,
+    "ir_centro": 7,
+    "ir_pareja": 3,
+    "usar": 1,
+    "ir_botin": 1
+   },
+   "tics_con_piernas": 33,
+   "detalle_n": 2,
+   "detalle_gana": {
+    "ir_objeto": 1,
+    "ir_pareja": 1
+   },
+   "detalle_sin_ir_centro": 0,
+   "filas_contra_ir_centro": {
+    "S-8-EXPOSICION": -0.2111,
+    "R-LLAMADA": -0.0876,
+    "R-CARENCIA": -0.0833,
+    "F-4-ALCANCE": -0.0248,
+    "F-ANTICIPACION": 0.1667
+   },
+   "peso_miedo": 0.2359,
+   "peso_hermano": 0,
+   "clase": "ii · lo retuvo el miedo a rivales"
+  },
+  {
+   "carp": "P611_t1_A4_20260916",
+   "slot": 11,
+   "aviso": 12996,
+   "primer_golpe": 13561,
+   "muerte": 13632,
+   "fase": 6,
+   "r1": 3,
+   "dps": 16,
+   "tics_aviso_a_muerte": 636,
+   "tics_golpe_a_muerte": 71,
+   "hp_en_aviso": 0,
+   "pasos_aviso": 2,
+   "instantes_aviso": 22,
+   "pos_aviso": [
+    19,
+    22
+   ],
+   "dist_centro_aviso": 5.4,
+   "pasos_golpe": 1,
+   "instantes_golpe": 11,
+   "pos_golpe": [
+    21,
+    21
+   ],
+   "dist_centro_golpe": 4.2,
+   "habia_camino": true,
+   "llegaba_saliendo_en_el_aviso": true,
+   "llegaba_saliendo_en_el_golpe": true,
+   "hermano_vivo_en_aviso": false,
+   "hermano_vivo_en_muerte": false,
+   "dist_hermano_aviso": null,
+   "dist_hermano_muerte": null,
+   "hermano_muere_por_anillo": true,
+   "elige_con_piernas": {
+    "paso": 3,
+    "ir_objeto": 3
+   },
+   "tics_con_piernas": 6,
+   "detalle_n": 0,
+   "detalle_gana": {},
+   "detalle_sin_ir_centro": 0,
+   "filas_contra_ir_centro": {},
+   "peso_miedo": 0,
+   "peso_hermano": 0,
+   "clase": "i · llegaba a salvo si salia antes"
+  },
+  {
+   "carp": "P611_t1_A4_20365645",
+   "slot": 10,
+   "aviso": 9576,
+   "primer_golpe": 10273,
+   "muerte": 10920,
+   "fase": 3,
+   "r1": 11,
+   "dps": 4,
+   "tics_aviso_a_muerte": 1344,
+   "tics_golpe_a_muerte": 647,
+   "hp_en_aviso": 100,
+   "pasos_aviso": 0,
+   "instantes_aviso": 0,
+   "pos_aviso": [
+    26,
+    15
+   ],
+   "dist_centro_aviso": 9.2,
+   "pasos_golpe": 2,
+   "instantes_golpe": 22,
+   "pos_golpe": [
+    30,
+    12
+   ],
+   "dist_centro_golpe": 13.4,
+   "habia_camino": true,
+   "llegaba_saliendo_en_el_aviso": true,
+   "llegaba_saliendo_en_el_golpe": true,
+   "hermano_vivo_en_aviso": true,
+   "hermano_vivo_en_muerte": true,
+   "dist_hermano_aviso": 2,
+   "dist_hermano_muerte": 1,
+   "hermano_muere_por_anillo": false,
+   "elige_con_piernas": {
+    "ir_objeto": 36,
+    "move": 8,
+    "paso": 2,
+    "ir_botin": 11,
+    "ir_centro": 2
+   },
+   "tics_con_piernas": 59,
+   "detalle_n": 3,
+   "detalle_gana": {
+    "ir_objeto": 3
+   },
+   "detalle_sin_ir_centro": 0,
+   "filas_contra_ir_centro": {
+    "R-CARENCIA": -0.2,
+    "S-8-EXPOSICION": -0.1151,
+    "S-COMPANIA": -0.1117,
+    "R-LLAMADA": -0.08,
+    "F-4-ALCANCE": -0.0255,
+    "F-ANTICIPACION": 0.0972
+   },
+   "peso_miedo": 0.1405,
+   "peso_hermano": 0.1117,
+   "clase": "ii · lo retuvo el miedo a rivales"
+  },
+  {
+   "carp": "P611_t1_A4_20575103",
+   "slot": 10,
+   "aviso": 11856,
+   "primer_golpe": 12289,
+   "muerte": 12600,
+   "fase": 5,
+   "r1": 5,
+   "dps": 8,
+   "tics_aviso_a_muerte": 744,
+   "tics_golpe_a_muerte": 311,
+   "hp_en_aviso": 89,
+   "pasos_aviso": 0,
+   "instantes_aviso": 0,
+   "pos_aviso": [
+    25,
+    23
+   ],
+   "dist_centro_aviso": 1.4,
+   "pasos_golpe": 5,
+   "instantes_golpe": 55,
+   "pos_golpe": [
+    18,
+    16
+   ],
+   "dist_centro_golpe": 10.0,
+   "habia_camino": true,
+   "llegaba_saliendo_en_el_aviso": true,
+   "llegaba_saliendo_en_el_golpe": true,
+   "hermano_vivo_en_aviso": true,
+   "hermano_vivo_en_muerte": true,
+   "dist_hermano_aviso": 2,
+   "dist_hermano_muerte": 3,
+   "hermano_muere_por_anillo": true,
+   "elige_con_piernas": {
+    "ir_objeto": 12,
+    "move": 10,
+    "paso": 6,
+    "noop": 2
+   },
+   "tics_con_piernas": 30,
+   "detalle_n": 2,
+   "detalle_gana": {
+    "noop": 1,
+    "move": 1
+   },
+   "detalle_sin_ir_centro": 0,
+   "filas_contra_ir_centro": {
+    "S-8-EXPOSICION": -0.3,
+    "S-7-AGRESOR": -0.257,
+    "R-LLAMADA": -0.0829,
+    "F-4-ALCANCE": -0.0159,
+    "S-COMPANIA": 0.0222,
+    "F-ANTICIPACION": 0.1656
+   },
+   "peso_miedo": 0.5729,
+   "peso_hermano": 0,
+   "clase": "ii · lo retuvo el miedo a rivales"
+  },
+  {
+   "carp": "P611_t1_A4_20575103",
+   "slot": 11,
+   "aviso": 11856,
+   "primer_golpe": 12601,
+   "muerte": 12816,
+   "fase": 5,
+   "r1": 5,
+   "dps": 8,
+   "tics_aviso_a_muerte": 960,
+   "tics_golpe_a_muerte": 215,
+   "hp_en_aviso": 81,
+   "pasos_aviso": 0,
+   "instantes_aviso": 0,
+   "pos_aviso": [
+    27,
+    23
+   ],
+   "dist_centro_aviso": 3.2,
+   "pasos_golpe": 2,
+   "instantes_golpe": 22,
+   "pos_golpe": [
+    22,
+    18
+   ],
+   "dist_centro_golpe": 6.3,
+   "habia_camino": true,
+   "llegaba_saliendo_en_el_aviso": true,
+   "llegaba_saliendo_en_el_golpe": true,
+   "hermano_vivo_en_aviso": true,
+   "hermano_vivo_en_muerte": false,
+   "dist_hermano_aviso": 2,
+   "dist_hermano_muerte": null,
+   "hermano_muere_por_anillo": true,
+   "elige_con_piernas": {
+    "ir_objeto": 4,
+    "ir_botin": 8,
+    "move": 8
+   },
+   "tics_con_piernas": 20,
+   "detalle_n": 1,
+   "detalle_gana": {
+    "ir_objeto": 1
+   },
+   "detalle_sin_ir_centro": 0,
+   "filas_contra_ir_centro": {
+    "R-CARENCIA": -0.3333,
+    "S-8-EXPOSICION": -0.2152,
+    "R-ACOPIO": -0.18,
+    "R-LLAMADA": -0.0912,
+    "F-4-ALCANCE": -0.0448,
+    "F-ANTICIPACION": 0.1667
+   },
+   "peso_miedo": 0.26,
+   "peso_hermano": 0,
+   "clase": "ii · lo retuvo el miedo a rivales"
+  },
+  {
+   "carp": "P611_t1_A4_20679832",
+   "slot": 11,
+   "aviso": 11856,
+   "primer_golpe": 12673,
+   "muerte": 12888,
+   "fase": 5,
+   "r1": 5,
+   "dps": 8,
+   "tics_aviso_a_muerte": 1032,
+   "tics_golpe_a_muerte": 215,
+   "hp_en_aviso": 78,
+   "pasos_aviso": 3,
+   "instantes_aviso": 33,
+   "pos_aviso": [
+    29,
+    20
+   ],
+   "dist_centro_aviso": 6.4,
+   "pasos_golpe": 2,
+   "instantes_golpe": 22,
+   "pos_golpe": [
+    21,
+    18
+   ],
+   "dist_centro_golpe": 6.7,
+   "habia_camino": true,
+   "llegaba_saliendo_en_el_aviso": true,
+   "llegaba_saliendo_en_el_golpe": true,
+   "hermano_vivo_en_aviso": true,
+   "hermano_vivo_en_muerte": false,
+   "dist_hermano_aviso": 3,
+   "dist_hermano_muerte": null,
+   "hermano_muere_por_anillo": false,
+   "elige_con_piernas": {
+    "ir_botin": 10,
+    "move": 10
+   },
+   "tics_con_piernas": 20,
+   "detalle_n": 1,
+   "detalle_gana": {
+    "ir_botin": 1
+   },
+   "detalle_sin_ir_centro": 0,
+   "filas_contra_ir_centro": {},
+   "peso_miedo": 0,
+   "peso_hermano": 0,
+   "clase": "i · llegaba a salvo si salia antes"
+  },
+  {
+   "carp": "P611_t1_A4_20784561",
+   "slot": 10,
+   "aviso": 14136,
+   "primer_golpe": 14665,
+   "muerte": 14688,
+   "fase": 7,
+   "r1": 0,
+   "dps": 24,
+   "tics_aviso_a_muerte": 552,
+   "tics_golpe_a_muerte": 23,
+   "hp_en_aviso": 23,
+   "pasos_aviso": 3,
+   "instantes_aviso": 33,
+   "pos_aviso": [
+    24,
+    27
+   ],
+   "dist_centro_aviso": 3.0,
+   "pasos_golpe": 3,
+   "instantes_golpe": 33,
+   "pos_golpe": [
+    24,
+    27
+   ],
+   "dist_centro_golpe": 3.0,
+   "habia_camino": true,
+   "llegaba_saliendo_en_el_aviso": true,
+   "llegaba_saliendo_en_el_golpe": false,
+   "hermano_vivo_en_aviso": false,
+   "hermano_vivo_en_muerte": false,
+   "dist_hermano_aviso": null,
+   "dist_hermano_muerte": null,
+   "hermano_muere_por_anillo": true,
+   "elige_con_piernas": {
+    "ir_centro": 1,
+    "ir_objeto": 1
+   },
+   "tics_con_piernas": 2,
+   "detalle_n": 0,
+   "detalle_gana": {},
+   "detalle_sin_ir_centro": 0,
+   "filas_contra_ir_centro": {},
+   "peso_miedo": 0,
+   "peso_hermano": 0,
+   "clase": "i · llegaba a salvo si salia antes"
+  },
+  {
+   "carp": "P611_t1_A4_20784561",
+   "slot": 11,
+   "aviso": 11856,
+   "primer_golpe": 12649,
+   "muerte": 12840,
+   "fase": 5,
+   "r1": 5,
+   "dps": 8,
+   "tics_aviso_a_muerte": 984,
+   "tics_golpe_a_muerte": 191,
+   "hp_en_aviso": 67,
+   "pasos_aviso": 2,
+   "instantes_aviso": 22,
+   "pos_aviso": [
+    21,
+    29
+   ],
+   "dist_centro_aviso": 5.8,
+   "pasos_golpe": 1,
+   "instantes_golpe": 11,
+   "pos_golpe": [
+    19,
+    23
+   ],
+   "dist_centro_golpe": 5.1,
+   "habia_camino": true,
+   "llegaba_saliendo_en_el_aviso": true,
+   "llegaba_saliendo_en_el_golpe": true,
+   "hermano_vivo_en_aviso": true,
+   "hermano_vivo_en_muerte": true,
+   "dist_hermano_aviso": 4,
+   "dist_hermano_muerte": 4,
+   "hermano_muere_por_anillo": true,
+   "elige_con_piernas": {
+    "ir_objeto": 7,
+    "move": 4,
+    "ir_pareja": 3,
+    "paso": 4
+   },
+   "tics_con_piernas": 18,
+   "detalle_n": 1,
+   "detalle_gana": {
+    "ir_objeto": 1
+   },
+   "detalle_sin_ir_centro": 0,
+   "filas_contra_ir_centro": {
+    "R-CARENCIA": -0.3333,
+    "R-ACOPIO": -0.08
+   },
+   "peso_miedo": 0,
+   "peso_hermano": 0,
+   "clase": "i · llegaba a salvo si salia antes"
+  },
+  {
+   "carp": "P611_t1_A4_20889290",
+   "slot": 10,
+   "aviso": 11856,
+   "primer_golpe": 12745,
+   "muerte": 13008,
+   "fase": 5,
+   "r1": 5,
+   "dps": 8,
+   "tics_aviso_a_muerte": 1152,
+   "tics_golpe_a_muerte": 263,
+   "hp_en_aviso": 89,
+   "pasos_aviso": 3,
+   "instantes_aviso": 33,
+   "pos_aviso": [
+    27,
+    19
+   ],
+   "dist_centro_aviso": 5.8,
+   "pasos_golpe": 1,
+   "instantes_golpe": 11,
+   "pos_golpe": [
+    25,
+    19
+   ],
+   "dist_centro_golpe": 5.1,
+   "habia_camino": true,
+   "llegaba_saliendo_en_el_aviso": true,
+   "llegaba_saliendo_en_el_golpe": true,
+   "hermano_vivo_en_aviso": true,
+   "hermano_vivo_en_muerte": true,
+   "dist_hermano_aviso": 3,
+   "dist_hermano_muerte": 1,
+   "hermano_muere_por_anillo": false,
+   "elige_con_piernas": {
+    "paso": 9,
+    "noop": 139,
+    "ir_centro": 2,
+    "ir_botin": 1
+   },
+   "tics_con_piernas": 151,
+   "detalle_n": 5,
+   "detalle_gana": {
+    "noop": 5
+   },
+   "detalle_sin_ir_centro": 0,
+   "filas_contra_ir_centro": {
+    "S-8-EXPOSICION": -0.3,
+    "R-LLAMADA": -0.0551,
+    "F-4-ALCANCE": -0.0187,
+    "F-ANTICIPACION": 0.1667
+   },
+   "peso_miedo": 0.3187,
+   "peso_hermano": 0,
+   "clase": "ii · lo retuvo el miedo a rivales"
+  },
+  {
+   "carp": "P611_t1_A4_21098748",
+   "slot": 10,
+   "aviso": 14136,
+   "primer_golpe": 14137,
+   "muerte": 14143,
+   "fase": 7,
+   "r1": 0,
+   "dps": 24,
+   "tics_aviso_a_muerte": 7,
+   "tics_golpe_a_muerte": 6,
+   "hp_en_aviso": 20,
+   "pasos_aviso": 3,
+   "instantes_aviso": 33,
+   "pos_aviso": [
+    21,
+    23
+   ],
+   "dist_centro_aviso": 3.2,
+   "pasos_golpe": 3,
+   "instantes_golpe": 33,
+   "pos_golpe": [
+    21,
+    23
+   ],
+   "dist_centro_golpe": 3.2,
+   "habia_camino": true,
+   "llegaba_saliendo_en_el_aviso": false,
+   "llegaba_saliendo_en_el_golpe": false,
+   "hermano_vivo_en_aviso": false,
+   "hermano_vivo_en_muerte": false,
+   "dist_hermano_aviso": null,
+   "dist_hermano_muerte": null,
+   "hermano_muere_por_anillo": true,
+   "elige_con_piernas": {
+    "ir_centro": 1
+   },
+   "tics_con_piernas": 1,
+   "detalle_n": 0,
+   "detalle_gana": {},
+   "detalle_sin_ir_centro": 0,
+   "filas_contra_ir_centro": {},
+   "peso_miedo": 0,
+   "peso_hermano": 0,
+   "clase": "v · otra"
+  },
+  {
+   "carp": "P611_t1_A4_21098748",
+   "slot": 11,
+   "aviso": 11856,
+   "primer_golpe": 12649,
+   "muerte": 13008,
+   "fase": 5,
+   "r1": 5,
+   "dps": 8,
+   "tics_aviso_a_muerte": 1152,
+   "tics_golpe_a_muerte": 359,
+   "hp_en_aviso": 100,
+   "pasos_aviso": 2,
+   "instantes_aviso": 22,
+   "pos_aviso": [
+    29,
+    26
+   ],
+   "dist_centro_aviso": 5.4,
+   "pasos_golpe": 2,
+   "instantes_golpe": 22,
+   "pos_golpe": [
+    30,
+    26
+   ],
+   "dist_centro_golpe": 6.3,
+   "habia_camino": true,
+   "llegaba_saliendo_en_el_aviso": true,
+   "llegaba_saliendo_en_el_golpe": true,
+   "hermano_vivo_en_aviso": true,
+   "hermano_vivo_en_muerte": true,
+   "dist_hermano_aviso": 3,
+   "dist_hermano_muerte": 1,
+   "hermano_muere_por_anillo": true,
+   "elige_con_piernas": {
+    "ir_centro": 2,
+    "ir_objeto": 10,
+    "move": 6,
+    "ir_botin": 10,
+    "usar": 1,
+    "paso": 3,
+    "ir_pareja": 1
+   },
+   "tics_con_piernas": 33,
+   "detalle_n": 0,
+   "detalle_gana": {},
+   "detalle_sin_ir_centro": 0,
+   "filas_contra_ir_centro": {},
+   "peso_miedo": 0,
+   "peso_hermano": 0,
+   "clase": "i · llegaba a salvo si salia antes"
+  },
+  {
+   "carp": "P611_t1_A4_21203477",
+   "slot": 10,
+   "aviso": 14136,
+   "primer_golpe": 14257,
+   "muerte": 14328,
+   "fase": 7,
+   "r1": 0,
+   "dps": 24,
+   "tics_aviso_a_muerte": 192,
+   "tics_golpe_a_muerte": 71,
+   "hp_en_aviso": 68,
+   "pasos_aviso": 1,
+   "instantes_aviso": 11,
+   "pos_aviso": [
+    23,
+    23
+   ],
+   "dist_centro_aviso": 1.4,
+   "pasos_golpe": 3,
+   "instantes_golpe": 33,
+   "pos_golpe": [
+    23,
+    21
+   ],
+   "dist_centro_golpe": 3.2,
+   "habia_camino": true,
+   "llegaba_saliendo_en_el_aviso": true,
+   "llegaba_saliendo_en_el_golpe": true,
+   "hermano_vivo_en_aviso": false,
+   "hermano_vivo_en_muerte": false,
+   "dist_hermano_aviso": null,
+   "dist_hermano_muerte": null,
+   "hermano_muere_por_anillo": true,
+   "elige_con_piernas": {
+    "move": 5,
+    "ir_objeto": 2
+   },
+   "tics_con_piernas": 7,
+   "detalle_n": 0,
+   "detalle_gana": {},
+   "detalle_sin_ir_centro": 0,
+   "filas_contra_ir_centro": {},
+   "peso_miedo": 0,
+   "peso_hermano": 0,
+   "clase": "i · llegaba a salvo si salia antes"
+  },
+  {
+   "carp": "P611_t1_A4_21203477",
+   "slot": 11,
+   "aviso": 11856,
+   "primer_golpe": 12001,
+   "muerte": 12024,
+   "fase": 5,
+   "r1": 5,
+   "dps": 8,
+   "tics_aviso_a_muerte": 168,
+   "tics_golpe_a_muerte": 23,
+   "hp_en_aviso": 32,
+   "pasos_aviso": 5,
+   "instantes_aviso": 55,
+   "pos_aviso": [
+    28,
+    14
+   ],
+   "dist_centro_aviso": 10.8,
+   "pasos_golpe": 4,
+   "instantes_golpe": 44,
+   "pos_golpe": [
+    28,
+    17
+   ],
+   "dist_centro_golpe": 8.1,
+   "habia_camino": true,
+   "llegaba_saliendo_en_el_aviso": true,
+   "llegaba_saliendo_en_el_golpe": false,
+   "hermano_vivo_en_aviso": true,
+   "hermano_vivo_en_muerte": true,
+   "dist_hermano_aviso": 8,
+   "dist_hermano_muerte": 8,
+   "hermano_muere_por_anillo": true,
+   "elige_con_piernas": {
+    "ir_objeto": 2
+   },
+   "tics_con_piernas": 2,
+   "detalle_n": 0,
+   "detalle_gana": {},
+   "detalle_sin_ir_centro": 0,
+   "filas_contra_ir_centro": {},
+   "peso_miedo": 0,
+   "peso_hermano": 0,
+   "clase": "i · llegaba a salvo si salia antes"
+  },
+  {
+   "carp": "P611_t2_A4_21308206",
+   "slot": 10,
+   "aviso": 11856,
+   "primer_golpe": 12721,
+   "muerte": 13056,
+   "fase": 5,
+   "r1": 5,
+   "dps": 8,
+   "tics_aviso_a_muerte": 1200,
+   "tics_golpe_a_muerte": 335,
+   "hp_en_aviso": 100,
+   "pasos_aviso": 2,
+   "instantes_aviso": 22,
+   "pos_aviso": [
+    19,
+    26
+   ],
+   "dist_centro_aviso": 5.4,
+   "pasos_golpe": 1,
+   "instantes_golpe": 11,
+   "pos_golpe": [
+    25,
+    29
+   ],
+   "dist_centro_golpe": 5.1,
+   "habia_camino": true,
+   "llegaba_saliendo_en_el_aviso": true,
+   "llegaba_saliendo_en_el_golpe": true,
+   "hermano_vivo_en_aviso": true,
+   "hermano_vivo_en_muerte": true,
+   "dist_hermano_aviso": 3,
+   "dist_hermano_muerte": 3,
+   "hermano_muere_por_anillo": false,
+   "elige_con_piernas": {
+    "paso": 14,
+    "ir_botin": 3,
+    "ir_objeto": 4,
+    "move": 3,
+    "noop": 39,
+    "ir_pareja": 3
+   },
+   "tics_con_piernas": 66,
+   "detalle_n": 2,
+   "detalle_gana": {
+    "ir_botin": 1,
+    "noop": 1
+   },
+   "detalle_sin_ir_centro": 0,
+   "filas_contra_ir_centro": {
+    "S-8-EXPOSICION": -0.3,
+    "F-REENCUENTRO": -0.22,
+    "S-7-AGRESOR": -0.1844,
+    "R-LLAMADA": -0.0531,
+    "F-4-ALCANCE": -0.0363,
+    "F-ANTICIPACION": 0.1667
+   },
+   "peso_miedo": 0.7408,
+   "peso_hermano": 0,
+   "clase": "ii · lo retuvo el miedo a rivales"
+  },
+  {
+   "carp": "P611_t2_A4_21727122",
+   "slot": 10,
+   "aviso": 11856,
+   "primer_golpe": 12385,
+   "muerte": 12744,
+   "fase": 5,
+   "r1": 5,
+   "dps": 8,
+   "tics_aviso_a_muerte": 888,
+   "tics_golpe_a_muerte": 359,
+   "hp_en_aviso": 100,
+   "pasos_aviso": 3,
+   "instantes_aviso": 33,
+   "pos_aviso": [
+    19,
+    27
+   ],
+   "dist_centro_aviso": 5.8,
+   "pasos_golpe": 2,
+   "instantes_golpe": 22,
+   "pos_golpe": [
+    17,
+    26
+   ],
+   "dist_centro_golpe": 7.3,
+   "habia_camino": true,
+   "llegaba_saliendo_en_el_aviso": true,
+   "llegaba_saliendo_en_el_golpe": true,
+   "hermano_vivo_en_aviso": true,
+   "hermano_vivo_en_muerte": false,
+   "dist_hermano_aviso": 2,
+   "dist_hermano_muerte": null,
+   "hermano_muere_por_anillo": true,
+   "elige_con_piernas": {
+    "ir_objeto": 17,
+    "ir_botin": 5,
+    "move": 6,
+    "soltar": 1,
+    "ir_pareja": 5
+   },
+   "tics_con_piernas": 34,
+   "detalle_n": 2,
+   "detalle_gana": {
+    "ir_objeto": 1,
+    "ir_pareja": 1
+   },
+   "detalle_sin_ir_centro": 0,
+   "filas_contra_ir_centro": {
+    "S-HERIDO": -0.6169,
+    "S-8-EXPOSICION": -0.2102,
+    "R-CARENCIA": -0.0833,
+    "R-LLAMADA": -0.0609,
+    "S-COMPANIA": -0.0455,
+    "F-4-ALCANCE": -0.0327,
+    "F-ANTICIPACION": 0.0833
+   },
+   "peso_miedo": 0.2429,
+   "peso_hermano": 0.6624,
+   "clase": "iii · lo retuvo el hermano"
+  },
+  {
+   "carp": "P611_t2_A4_21727122",
+   "slot": 11,
+   "aviso": 11856,
+   "primer_golpe": 12313,
+   "muerte": 12672,
+   "fase": 5,
+   "r1": 5,
+   "dps": 8,
+   "tics_aviso_a_muerte": 816,
+   "tics_golpe_a_muerte": 359,
+   "hp_en_aviso": 95,
+   "pasos_aviso": 3,
+   "instantes_aviso": 33,
+   "pos_aviso": [
+    20,
+    29
+   ],
+   "dist_centro_aviso": 6.4,
+   "pasos_golpe": 3,
+   "instantes_golpe": 33,
+   "pos_golpe": [
+    16,
+    26
+   ],
+   "dist_centro_golpe": 8.2,
+   "habia_camino": true,
+   "llegaba_saliendo_en_el_aviso": true,
+   "llegaba_saliendo_en_el_golpe": true,
+   "hermano_vivo_en_aviso": true,
+   "hermano_vivo_en_muerte": true,
+   "dist_hermano_aviso": 2,
+   "dist_hermano_muerte": 2,
+   "hermano_muere_por_anillo": true,
+   "elige_con_piernas": {
+    "ir_objeto": 15,
+    "move": 17,
+    "ir_botin": 1,
+    "ir_pareja": 2
+   },
+   "tics_con_piernas": 35,
+   "detalle_n": 1,
+   "detalle_gana": {
+    "move": 1
+   },
+   "detalle_sin_ir_centro": 0,
+   "filas_contra_ir_centro": {
+    "S-8-EXPOSICION": -0.2152,
+    "R-LLAMADA": -0.0323,
+    "F-4-ALCANCE": -0.0242,
+    "S-COMPANIA": -0.0227,
+    "F-ANTICIPACION": 0.1667
+   },
+   "peso_miedo": 0.2394,
+   "peso_hermano": 0.0227,
+   "clase": "ii · lo retuvo el miedo a rivales"
+  },
+  {
+   "carp": "P611_t2_A4_21831851",
+   "slot": 10,
+   "aviso": 11856,
+   "primer_golpe": 12673,
+   "muerte": 12960,
+   "fase": 5,
+   "r1": 5,
+   "dps": 8,
+   "tics_aviso_a_muerte": 1104,
+   "tics_golpe_a_muerte": 287,
+   "hp_en_aviso": 91,
+   "pasos_aviso": 0,
+   "instantes_aviso": 0,
+   "pos_aviso": [
+    22,
+    25
+   ],
+   "dist_centro_aviso": 2.2,
+   "pasos_golpe": 1,
+   "instantes_golpe": 11,
+   "pos_golpe": [
+    29,
+    22
+   ],
+   "dist_centro_golpe": 5.4,
+   "habia_camino": true,
+   "llegaba_saliendo_en_el_aviso": true,
+   "llegaba_saliendo_en_el_golpe": true,
+   "hermano_vivo_en_aviso": true,
+   "hermano_vivo_en_muerte": false,
+   "dist_hermano_aviso": 4,
+   "dist_hermano_muerte": null,
+   "hermano_muere_por_anillo": true,
+   "elige_con_piernas": {
+    "ir_objeto": 2,
+    "ir_pareja": 4,
+    "ir_botin": 8,
+    "paso": 7,
+    "move": 5
+   },
+   "tics_con_piernas": 26,
+   "detalle_n": 1,
+   "detalle_gana": {
+    "ir_botin": 1
+   },
+   "detalle_sin_ir_centro": 0,
+   "filas_contra_ir_centro": {
+    "S-8-EXPOSICION": -0.1149,
+    "F-4-ALCANCE": -0.0239
+   },
+   "peso_miedo": 0.1389,
+   "peso_hermano": 0,
+   "clase": "ii · lo retuvo el miedo a rivales"
+  },
+  {
+   "carp": "P611_t2_A4_21831851",
+   "slot": 11,
+   "aviso": 11856,
+   "primer_golpe": 12625,
+   "muerte": 12840,
+   "fase": 5,
+   "r1": 5,
+   "dps": 8,
+   "tics_aviso_a_muerte": 984,
+   "tics_golpe_a_muerte": 215,
+   "hp_en_aviso": 84,
+   "pasos_aviso": 0,
+   "instantes_aviso": 0,
+   "pos_aviso": [
+    26,
+    22
+   ],
+   "dist_centro_aviso": 2.8,
+   "pasos_golpe": 3,
+   "instantes_golpe": 33,
+   "pos_golpe": [
+    29,
+    20
+   ],
+   "dist_centro_golpe": 6.4,
+   "habia_camino": true,
+   "llegaba_saliendo_en_el_aviso": true,
+   "llegaba_saliendo_en_el_golpe": true,
+   "hermano_vivo_en_aviso": true,
+   "hermano_vivo_en_muerte": true,
+   "dist_hermano_aviso": 4,
+   "dist_hermano_muerte": 1,
+   "hermano_muere_por_anillo": true,
+   "elige_con_piernas": {
+    "paso": 10,
+    "ir_botin": 6,
+    "ir_pareja": 4
+   },
+   "tics_con_piernas": 20,
+   "detalle_n": 1,
+   "detalle_gana": {
+    "paso": 1
+   },
+   "detalle_sin_ir_centro": 0,
+   "filas_contra_ir_centro": {
+    "S-8-EXPOSICION": -0.3,
+    "R-LLAMADA": -0.061,
+    "F-4-ALCANCE": -0.0326,
+    "F-ANTICIPACION": 0.1667
+   },
+   "peso_miedo": 0.3326,
+   "peso_hermano": 0,
+   "clase": "ii · lo retuvo el miedo a rivales"
+  },
+  {
+   "carp": "P611_t2_A4_21936580",
+   "slot": 10,
+   "aviso": 11856,
+   "primer_golpe": 12505,
+   "muerte": 12888,
+   "fase": 5,
+   "r1": 5,
+   "dps": 8,
+   "tics_aviso_a_muerte": 1032,
+   "tics_golpe_a_muerte": 383,
+   "hp_en_aviso": 100,
+   "pasos_aviso": 2,
+   "instantes_aviso": 22,
+   "pos_aviso": [
+    21,
+    19
+   ],
+   "dist_centro_aviso": 5.8,
+   "pasos_golpe": 3,
+   "instantes_golpe": 33,
+   "pos_golpe": [
+    19,
+    20
+   ],
+   "dist_centro_golpe": 6.4,
+   "habia_camino": true,
+   "llegaba_saliendo_en_el_aviso": true,
+   "llegaba_saliendo_en_el_golpe": true,
+   "hermano_vivo_en_aviso": true,
+   "hermano_vivo_en_muerte": true,
+   "dist_hermano_aviso": 1,
+   "dist_hermano_muerte": 4,
+   "hermano_muere_por_anillo": true,
+   "elige_con_piernas": {
+    "paso": 28,
+    "move": 1,
+    "noop": 48,
+    "usar": 1,
+    "ir_botin": 2
+   },
+   "tics_con_piernas": 80,
+   "detalle_n": 4,
+   "detalle_gana": {
+    "paso": 1,
+    "noop": 3
+   },
+   "detalle_sin_ir_centro": 0,
+   "filas_contra_ir_centro": {
+    "S-8-EXPOSICION": -0.3,
+    "R-LLAMADA": -0.0581,
+    "F-4-ALCANCE": -0.0222,
+    "S-PROVISION": -0.0138,
+    "F-ANTICIPACION": 0.1667
+   },
+   "peso_miedo": 0.3222,
+   "peso_hermano": 0.0138,
+   "clase": "ii · lo retuvo el miedo a rivales"
+  },
+  {
+   "carp": "P611_t2_A4_21936580",
+   "slot": 11,
+   "aviso": 12996,
+   "primer_golpe": 13921,
+   "muerte": 13968,
+   "fase": 6,
+   "r1": 3,
+   "dps": 16,
+   "tics_aviso_a_muerte": 972,
+   "tics_golpe_a_muerte": 47,
+   "hp_en_aviso": 35,
+   "pasos_aviso": 1,
+   "instantes_aviso": 11,
+   "pos_aviso": [
+    23,
+    20
+   ],
+   "dist_centro_aviso": 4.1,
+   "pasos_golpe": 1,
+   "instantes_golpe": 11,
+   "pos_golpe": [
+    23,
+    21
+   ],
+   "dist_centro_golpe": 3.2,
+   "habia_camino": true,
+   "llegaba_saliendo_en_el_aviso": true,
+   "llegaba_saliendo_en_el_golpe": true,
+   "hermano_vivo_en_aviso": false,
+   "hermano_vivo_en_muerte": false,
+   "dist_hermano_aviso": null,
+   "dist_hermano_muerte": null,
+   "hermano_muere_por_anillo": true,
+   "elige_con_piernas": {
+    "paso": 2,
+    "ir_objeto": 2
+   },
+   "tics_con_piernas": 4,
+   "detalle_n": 0,
+   "detalle_gana": {},
+   "detalle_sin_ir_centro": 0,
+   "filas_contra_ir_centro": {},
+   "peso_miedo": 0,
+   "peso_hermano": 0,
+   "clase": "i · llegaba a salvo si salia antes"
+  },
+  {
+   "carp": "P611_t2_A4_22041309",
+   "slot": 11,
+   "aviso": 11856,
+   "primer_golpe": 12361,
+   "muerte": 12720,
+   "fase": 5,
+   "r1": 5,
+   "dps": 8,
+   "tics_aviso_a_muerte": 864,
+   "tics_golpe_a_muerte": 359,
+   "hp_en_aviso": 90,
+   "pasos_aviso": 2,
+   "instantes_aviso": 22,
+   "pos_aviso": [
+    18,
+    26
+   ],
+   "dist_centro_aviso": 6.3,
+   "pasos_golpe": 2,
+   "instantes_golpe": 22,
+   "pos_golpe": [
+    17,
+    26
+   ],
+   "dist_centro_golpe": 7.3,
+   "habia_camino": true,
+   "llegaba_saliendo_en_el_aviso": true,
+   "llegaba_saliendo_en_el_golpe": true,
+   "hermano_vivo_en_aviso": true,
+   "hermano_vivo_en_muerte": true,
+   "dist_hermano_aviso": 4,
+   "dist_hermano_muerte": 5,
+   "hermano_muere_por_anillo": false,
+   "elige_con_piernas": {
+    "ir_objeto": 17,
+    "ir_pareja": 6,
+    "move": 3,
+    "ir_botin": 7
+   },
+   "tics_con_piernas": 33,
+   "detalle_n": 1,
+   "detalle_gana": {
+    "ir_objeto": 1
+   },
+   "detalle_sin_ir_centro": 0,
+   "filas_contra_ir_centro": {
+    "S-8-EXPOSICION": -0.2051,
+    "R-CARENCIA": -0.1667,
+    "R-LLAMADA": -0.12,
+    "F-4-ALCANCE": -0.034,
+    "F-ANTICIPACION": 0.1667
+   },
+   "peso_miedo": 0.2391,
+   "peso_hermano": 0,
+   "clase": "ii · lo retuvo el miedo a rivales"
+  },
+  {
+   "carp": "P611_t2_A4_22250767",
+   "slot": 11,
+   "aviso": 11856,
+   "primer_golpe": 12649,
+   "muerte": 12912,
+   "fase": 5,
+   "r1": 5,
+   "dps": 8,
+   "tics_aviso_a_muerte": 1056,
+   "tics_golpe_a_muerte": 263,
+   "hp_en_aviso": 92,
+   "pasos_aviso": 2,
+   "instantes_aviso": 22,
+   "pos_aviso": [
+    21,
+    29
+   ],
+   "dist_centro_aviso": 5.8,
+   "pasos_golpe": 2,
+   "instantes_golpe": 22,
+   "pos_golpe": [
+    21,
+    29
+   ],
+   "dist_centro_golpe": 5.8,
+   "habia_camino": true,
+   "llegaba_saliendo_en_el_aviso": true,
+   "llegaba_saliendo_en_el_golpe": true,
+   "hermano_vivo_en_aviso": true,
+   "hermano_vivo_en_muerte": true,
+   "dist_hermano_aviso": 4,
+   "dist_hermano_muerte": 4,
+   "hermano_muere_por_anillo": false,
+   "elige_con_piernas": {
+    "noop": 198,
+    "paso": 6
+   },
+   "tics_con_piernas": 204,
+   "detalle_n": 8,
+   "detalle_gana": {
+    "noop": 8
+   },
+   "detalle_sin_ir_centro": 0,
+   "filas_contra_ir_centro": {
+    "S-8-EXPOSICION": -0.3,
+    "R-LLAMADA": -0.0551,
+    "F-4-ALCANCE": -0.0212,
+    "F-ANTICIPACION": 0.1667
+   },
+   "peso_miedo": 0.3212,
+   "peso_hermano": 0,
+   "clase": "ii · lo retuvo el miedo a rivales"
+  }
+ ],
+ "ultimo_tic": {
+  "P611_t1_A4_20260916:10": [
+   12648,
+   true,
+   "eliminated",
+   7
+  ],
+  "P611_t1_A4_20260916:11": [
+   13632,
+   true,
+   "eliminated",
+   4
+  ],
+  "P611_t1_A4_20365645:10": [
+   10920,
+   true,
+   "eliminated",
+   10
+  ],
+  "P611_t1_A4_20365645:11": [
+   11544,
+   true,
+   "eliminated",
+   8
+  ],
+  "P611_t1_A4_20470374:10": [
+   13956,
+   false,
+   "match_over",
+   2
+  ],
+  "P611_t1_A4_20470374:11": [
+   13944,
+   true,
+   "eliminated",
+   3
+  ],
+  "P611_t1_A4_20575103:10": [
+   12600,
+   true,
+   "eliminated",
+   6
+  ],
+  "P611_t1_A4_20575103:11": [
+   12816,
+   true,
+   "eliminated",
+   5
+  ],
+  "P611_t1_A4_20679832:10": [
+   12410,
+   true,
+   "eliminated",
+   6
+  ],
+  "P611_t1_A4_20679832:11": [
+   12888,
+   true,
+   "eliminated",
+   5
+  ],
+  "P611_t1_A4_20784561:10": [
+   14688,
+   true,
+   "eliminated",
+   3
+  ],
+  "P611_t1_A4_20784561:11": [
+   12840,
+   true,
+   "eliminated",
+   6
+  ],
+  "P611_t1_A4_20889290:10": [
+   13008,
+   true,
+   "eliminated",
+   4
+  ],
+  "P611_t1_A4_20889290:11": [
+   14696,
+   false,
+   "winner",
+   1
+  ],
+  "P611_t1_A4_20994019:10": [
+   14833,
+   false,
+   "match_over",
+   3
+  ],
+  "P611_t1_A4_20994019:11": [
+   14833,
+   false,
+   "winner",
+   1
+  ],
+  "P611_t1_A4_21098748:10": [
+   14143,
+   true,
+   "eliminated",
+   6
+  ],
+  "P611_t1_A4_21098748:11": [
+   13008,
+   true,
+   "eliminated",
+   8
+  ],
+  "P611_t1_A4_21203477:10": [
+   14328,
+   true,
+   "eliminated",
+   4
+  ],
+  "P611_t1_A4_21203477:11": [
+   12024,
+   true,
+   "eliminated",
+   6
+  ],
+  "P611_t2_A4_21308206:10": [
+   13056,
+   true,
+   "eliminated",
+   4
+  ],
+  "P611_t2_A4_21308206:11": [
+   14702,
+   false,
+   "winner",
+   1
+  ],
+  "P611_t2_A4_21412935:10": [
+   14136,
+   false,
+   "winner",
+   1
+  ],
+  "P611_t2_A4_21412935:11": [
+   14136,
+   false,
+   "match_over",
+   2
+  ],
+  "P611_t2_A4_21517664:10": [
+   14952,
+   false,
+   "match_over",
+   2
+  ],
+  "P611_t2_A4_21517664:11": [
+   14952,
+   false,
+   "winner",
+   1
+  ],
+  "P611_t2_A4_21622393:10": [
+   2290,
+   true,
+   "eliminated",
+   15
+  ],
+  "P611_t2_A4_21622393:11": [
+   1900,
+   true,
+   "eliminated",
+   16
+  ],
+  "P611_t2_A4_21727122:10": [
+   12744,
+   true,
+   "eliminated",
+   5
+  ],
+  "P611_t2_A4_21727122:11": [
+   12672,
+   true,
+   "eliminated",
+   8
+  ],
+  "P611_t2_A4_21831851:10": [
+   12960,
+   true,
+   "eliminated",
+   5
+  ],
+  "P611_t2_A4_21831851:11": [
+   12840,
+   true,
+   "eliminated",
+   6
+  ],
+  "P611_t2_A4_21936580:10": [
+   12888,
+   true,
+   "eliminated",
+   8
+  ],
+  "P611_t2_A4_21936580:11": [
+   13968,
+   true,
+   "eliminated",
+   4
+  ],
+  "P611_t2_A4_22041309:10": [
+   14679,
+   false,
+   "winner",
+   1
+  ],
+  "P611_t2_A4_22041309:11": [
+   12720,
+   true,
+   "eliminated",
+   6
+  ],
+  "P611_t2_A4_22146038:10": [
+   11615,
+   true,
+   "eliminated",
+   14
+  ],
+  "P611_t2_A4_22146038:11": [
+   13061,
+   false,
+   "match_over",
+   2
+  ],
+  "P611_t2_A4_22250767:10": [
+   14628,
+   true,
+   "eliminated",
+   4
+  ],
+  "P611_t2_A4_22250767:11": [
+   12912,
+   true,
+   "eliminated",
+   5
+  ]
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "origenes": {
+  "DELTA_tics": 94,
+  "retraso_p95": 140,
+  "n_retrasos": 239,
+  "P6_27": {
+   "consultas_con_plan": 239,
+   "llamadas": 256,
+   "pasan_pregunta": 109,
+   "pasan_llegada": 89,
+   "intraducibles": 16,
+   "pasan_llegada_pct_sobre_planes": 37.2,
+   "de_los_que_pasaban_al_pedir_pasan_llegada": "50 de 109"
+  },
+  "banco": {
+   "consultas": 256,
+   "con_instantaneas": 256,
+   "campo_ok_a_la_llegada": 91
+  }
+ },
+ "sello": {
+  "DELTA": "94 tics (retraso mediano de llegada en la serie de P6-27, 239 respuestas)",
+  "criterio_para_seguir (del encargo)": "con adelanto pasan a la llegada al menos 10 puntos porcentuales mas que sin adelanto, en las mismas consultas (las 256; las que no dan plan cuentan como no pasan en los dos brazos); si no, PARA",
+  "prediccion": {
+   "pasan_a_la_llegada": "sin adelanto (plan original de A8 rejuzgado sobre la instantanea reconstruida) alrededor del 34.8 % de las 256 (en el campo 89 de 256); con adelanto entre 10 y 25 puntos mas (la mesa: «el banco mejora con claridad»)",
+   "error_de_la_prevision": "mediana 3 casillas o menos, p90 8 o menos (el cuerpo imaginado camina como el real salvo cuando los rivales se mueven)",
+   "intraducibles": "como en el campo, alrededor del 6.2 %",
+   "gasto_consola": "entre 1,0 y 1,5 USD (256 llamadas a Haiku 4.5, escena algo mas larga por la frase)"
+  },
+  "falla_si": "adelanto - original < 10 puntos (criterio); o error mediano de la prevision > 6 casillas; o gasto > 3 USD"
+ },
+ "md5": {
+  "cantera/paper6/banco_P6_28.py": "0bab0b6f273b024ca30b48716b808f8a",
+  "cantera/paper6/prevision_P6_28.py": "59ac3e44dea083f0f8615c9ed9e27f5e",
+  "cantera/paper6/texto_escena_P6_26.py": "7f0d6743e53eb684ce095e9a02cd68e1",
+  "cantera/paper6/instruccion_P6_25.md": "f70183f40964b2c7487207a9b63bf85d",
+  "cantera/paper6/puerta_proceso_P6_26.py": "f238453756cd48406f47838237dd628a",
+  "cantera/paper6/juez_P6_25.py": "74a1445427c77d84dddf5a6e7326d188",
+  "cantera/paper6/escenas_P6_25.py": "09f05984d46dda53e6b6d1780cdd9592",
+  "cantera/paper6/puerta6_P6_15.py": "7c70ae1752c7ac1aae457d0c5b2d36f3",
+  "cantera/paper6/policy_pareja23.py": "5947b1d9c3ef99e61624ed09d0afa7ec",
+  "cantera/paper5/forma.py": "b801876afda071403c5af54a28feff85",
+  "cantera/paper5/proyeccion.py": "bbc42daeaa769c783844997067ef148d",
+  "cantera/paper5/traductor_forma.py": "b310bb72884ef5f4e3510ab803cd2776",
+  "cantera/paper5/instruccion_forma.md": "02653e4edf04f3bdd9a0ac3deda9aa01",
+  "cantera/paper5/tabla_ensenada.md": "9d53807699c4ee2be31d8dd173196de0",
+  "cantera/paper6/P6_28_banco_consultas.json": "d2b50686a33abab13ac20bd2da5dd7dc",
+  "motor/model.py": "1e511978c251130e95169ebf8443efa1"
+ }
+}

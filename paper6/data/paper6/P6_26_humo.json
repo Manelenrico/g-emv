@@ -1,0 +1,589 @@
+{
+ "nota": "[P6-26 · 2] LAS MEDIDAS DEL HUMO DE CAMPO DE A8, por vida y por partida, de los diarios (`razonador26`,",
+ "brazos": {
+  "A8": {
+   "total": {
+    "vidas": 4,
+    "partidas": 2,
+    "llamadas": 8,
+    "usd": 0.046711,
+    "usd_por_llamada": 0.00584,
+    "llamadas_por_vida": 2,
+    "retraso_tics": {
+     "n": 8,
+     "mediana": 113,
+     "p95": 146
+    },
+    "propone": 8,
+    "intraducibles": 0,
+    "calla": 0,
+    "errores": [],
+    "pasan_pregunta": 3,
+    "pasan_llegada": 2,
+    "llegan_donde_la_puerta_ya_rechaza": 2,
+    "aceptadas": 2,
+    "e2_sustituidos": 2,
+    "planes_del_hermano_recibidos": 1,
+    "malestar_registros": 2
+   },
+   "por_partida": {
+    "P626_t1_A8_20260916": {
+     "llamadas": 5,
+     "usd": 0.021778,
+     "propone": 5,
+     "intraducibles": 0,
+     "aceptadas": 1,
+     "ya_rechaza": 2,
+     "e2_sustituidos": 1,
+     "planes_hermano": 1,
+     "retrasos": []
+    },
+    "P626_t1_A8_20365645": {
+     "llamadas": 3,
+     "usd": 0.024933,
+     "propone": 3,
+     "intraducibles": 0,
+     "aceptadas": 1,
+     "ya_rechaza": 0,
+     "e2_sustituidos": 1,
+     "planes_hermano": 0,
+     "retrasos": []
+    }
+   },
+   "vidas": [
+    {
+     "tics": 13560,
+     "final": {
+      "reason": "eliminated",
+      "placement": 5
+     },
+     "resumen26": {
+      "llamadas": 3,
+      "usd_visto": 0.01374,
+      "no_dispara": 220,
+      "propuestas": 3,
+      "intraducibles": 0,
+      "calla": 0,
+      "errores": 0,
+      "retraso_tics": {
+       "n": 3,
+       "mediana": 132,
+       "p95": 146,
+       "max": 146
+      },
+      "aceptadas": 0,
+      "pregunta_ok": 2,
+      "llegan_donde_la_puerta_ya_rechaza": 0,
+      "e2_sustituidos": 0,
+      "planes_del_hermano_recibidos": 1,
+      "malestar_registros": 0,
+      "errores_juez": [],
+      "lat_tic_max": 59.49,
+      "lat_tic_mas_de_un_tic": 9
+     },
+     "entorno_razonador": {
+      "version": "puerta_proceso26 (P6-26): el de P6-23 + encargo razonador (texto en el proceso, llamada en un hilo del proceso, juicio de llegada en el principal y de pregunta en el proceso)",
+      "sidecar": true,
+      "modelo": "us.anthropic.claude-haiku-4-5-20251001-v1:0",
+      "local": null,
+      "tope_usd_por_vida": 0.6,
+      "tope_llamadas": 200,
+      "timeout_s": 25.0,
+      "max_tokens": 1500,
+      "sistema_md5": "ccf56dac63afc86398e82f8ee7827ba8",
+      "proceso": {
+       "version": "puerta_proceso23 (P6-23): juicio de la puerta Y tic de propuesta del oraculo en un proceso aparte; instantanea por pickle",
+       "proceso": "spawn",
+       "copia": "pickle HIGHEST_PROTOCOL",
+       "oraculo_en_proceso": true
+      }
+     },
+     "encargos": 224,
+     "no_dispara": 220,
+     "llamadas": 3,
+     "usd": 0.01374,
+     "propone": 3,
+     "intraducibles": 0,
+     "calla": 0,
+     "errores": [],
+     "retraso_tics": {
+      "n": 3,
+      "mediana": 132,
+      "p95": 146,
+      "max": 146
+     },
+     "ms_llamada_mediana": 4943.1,
+     "escena_largo_mediana": 3276,
+     "pasan_pregunta": 2,
+     "pasan_llegada": 0,
+     "llegan_donde_la_puerta_ya_rechaza": 2,
+     "pares_pregunta_llegada": [
+      {
+       "tick_pregunta": 12606,
+       "tick_llegada": 12687,
+       "retraso": 81,
+       "pregunta": "area",
+       "llegada": "area",
+       "tick_veredicto": 12726
+      },
+      {
+       "tick_pregunta": 12732,
+       "tick_llegada": 12864,
+       "retraso": 132,
+       "pregunta": "ok",
+       "llegada": "area",
+       "tick_veredicto": 12912
+      },
+      {
+       "tick_pregunta": 12975,
+       "tick_llegada": 13121,
+       "retraso": 146,
+       "pregunta": "ok",
+       "llegada": "area",
+       "tick_veredicto": 13184
+      }
+     ],
+     "aceptadas": 0,
+     "evaluadas": {
+      "area": 4
+     },
+     "e2_dichos": 543,
+     "e2_sustituidos": 0,
+     "planes_del_hermano_recibidos": 1,
+     "mensajes_plan": [],
+     "malestar": [],
+     "carp": "P626_t1_A8_20260916",
+     "slot": 10
+    },
+    {
+     "tics": 12528,
+     "final": {
+      "reason": "eliminated",
+      "placement": 7
+     },
+     "resumen26": {
+      "llamadas": 2,
+      "usd_visto": 0.008038,
+      "no_dispara": 199,
+      "propuestas": 2,
+      "intraducibles": 0,
+      "calla": 0,
+      "errores": 0,
+      "retraso_tics": {
+       "n": 2,
+       "mediana": 113,
+       "p95": 113,
+       "max": 113
+      },
+      "aceptadas": 1,
+      "pregunta_ok": 0,
+      "llegan_donde_la_puerta_ya_rechaza": 0,
+      "e2_sustituidos": 1,
+      "planes_del_hermano_recibidos": 0,
+      "malestar_registros": 1,
+      "errores_juez": [],
+      "lat_tic_max": 24.66,
+      "lat_tic_mas_de_un_tic": 0
+     },
+     "entorno_razonador": {
+      "version": "puerta_proceso26 (P6-26): el de P6-23 + encargo razonador (texto en el proceso, llamada en un hilo del proceso, juicio de llegada en el principal y de pregunta en el proceso)",
+      "sidecar": true,
+      "modelo": "us.anthropic.claude-haiku-4-5-20251001-v1:0",
+      "local": null,
+      "tope_usd_por_vida": 0.6,
+      "tope_llamadas": 200,
+      "timeout_s": 25.0,
+      "max_tokens": 1500,
+      "sistema_md5": "ccf56dac63afc86398e82f8ee7827ba8",
+      "proceso": {
+       "version": "puerta_proceso23 (P6-23): juicio de la puerta Y tic de propuesta del oraculo en un proceso aparte; instantanea por pickle",
+       "proceso": "spawn",
+       "copia": "pickle HIGHEST_PROTOCOL",
+       "oraculo_en_proceso": true
+      }
+     },
+     "encargos": 202,
+     "no_dispara": 199,
+     "llamadas": 2,
+     "usd": 0.008038,
+     "propone": 2,
+     "intraducibles": 0,
+     "calla": 0,
+     "errores": [],
+     "retraso_tics": {
+      "n": 2,
+      "mediana": 113,
+      "p95": 113,
+      "max": 113
+     },
+     "ms_llamada_mediana": 4267.8,
+     "escena_largo_mediana": 2929,
+     "pasan_pregunta": 0,
+     "pasan_llegada": 1,
+     "llegan_donde_la_puerta_ya_rechaza": 0,
+     "pares_pregunta_llegada": [
+      {
+       "tick_pregunta": 12419,
+       "tick_llegada": 12532,
+       "retraso": 113,
+       "pregunta": "area",
+       "llegada": "area",
+       "tick_veredicto": 12573
+      },
+      {
+       "tick_pregunta": 12667,
+       "tick_llegada": 12747,
+       "retraso": 80,
+       "pregunta": "area",
+       "llegada": "ok",
+       "tick_veredicto": 12772
+      }
+     ],
+     "aceptadas": 1,
+     "evaluadas": {
+      "area": 1,
+      "ok": 1
+     },
+     "e2_dichos": 501,
+     "e2_sustituidos": 1,
+     "planes_del_hermano_recibidos": 0,
+     "mensajes_plan": [
+      "P6 P11 t12772 D24,24 H50 F12996"
+     ],
+     "malestar": [
+      {
+       "id": 2,
+       "estado": "cumplida",
+       "motivo": null,
+       "tramos": [
+        {
+         "i": 1,
+         "propuesto": {
+          "dicho": {
+           "vida": "+",
+           "manos": "0",
+           "vinculo": "0"
+          },
+          "por": "F-ANTICIPACION",
+          "porque": "entro en la zona segura antes de que el anillo me queme"
+         },
+         "imaginado": {
+          "signos": {
+           "vida": "+",
+           "manos": "+",
+           "vinculo": "+"
+          },
+          "nec": [
+           1.2434913580246914,
+           0.8130197530864197,
+           0.5636864197530864
+          ]
+         },
+         "pasado": {
+          "signos": {
+           "vida": "-",
+           "manos": "-",
+           "vinculo": "-"
+          },
+          "nec": [
+           1.3318000000000003,
+           0.8749333333333333,
+           0.7026
+          ]
+         }
+        },
+        {
+         "i": 2,
+         "propuesto": {
+          "dicho": {
+           "vida": "+",
+           "manos": "0",
+           "vinculo": "0"
+          },
+          "por": "F-DANO",
+          "porque": "dejo de perder vida al quedarme dentro del circulo"
+         },
+         "imaginado": {
+          "signos": {
+           "vida": "-",
+           "manos": "-",
+           "vinculo": "-"
+          },
+          "nec": [
+           1.2734913580246916,
+           0.8630197530864198,
+           0.6836864197530864
+          ]
+         },
+         "pasado": {
+          "signos": {
+           "vida": "-",
+           "manos": "-",
+           "vinculo": "-"
+          },
+          "nec": [
+           1.348057864376269,
+           0.997215566380367,
+           1.0068822330470335
+          ]
+         }
+        }
+       ]
+      }
+     ],
+     "carp": "P626_t1_A8_20260916",
+     "slot": 11
+    },
+    {
+     "tics": 11096,
+     "final": {
+      "reason": "eliminated",
+      "placement": 8
+     },
+     "resumen26": {
+      "llamadas": 0,
+      "usd_visto": 0.0,
+      "no_dispara": 142,
+      "propuestas": 0,
+      "intraducibles": 0,
+      "calla": 0,
+      "errores": 0,
+      "retraso_tics": {
+       "n": 0,
+       "mediana": null,
+       "p95": null,
+       "max": null
+      },
+      "aceptadas": 0,
+      "pregunta_ok": 0,
+      "llegan_donde_la_puerta_ya_rechaza": 0,
+      "e2_sustituidos": 0,
+      "planes_del_hermano_recibidos": 0,
+      "malestar_registros": 0,
+      "errores_juez": [],
+      "lat_tic_max": 21.48,
+      "lat_tic_mas_de_un_tic": 0
+     },
+     "entorno_razonador": {
+      "version": "puerta_proceso26 (P6-26): el de P6-23 + encargo razonador (texto en el proceso, llamada en un hilo del proceso, juicio de llegada en el principal y de pregunta en el proceso)",
+      "sidecar": true,
+      "modelo": "us.anthropic.claude-haiku-4-5-20251001-v1:0",
+      "local": null,
+      "tope_usd_por_vida": 0.6,
+      "tope_llamadas": 200,
+      "timeout_s": 25.0,
+      "max_tokens": 1500,
+      "sistema_md5": "ccf56dac63afc86398e82f8ee7827ba8",
+      "proceso": {
+       "version": "puerta_proceso23 (P6-23): juicio de la puerta Y tic de propuesta del oraculo en un proceso aparte; instantanea por pickle",
+       "proceso": "spawn",
+       "copia": "pickle HIGHEST_PROTOCOL",
+       "oraculo_en_proceso": true
+      }
+     },
+     "encargos": 142,
+     "no_dispara": 142,
+     "llamadas": 0,
+     "usd": 0.0,
+     "propone": 0,
+     "intraducibles": 0,
+     "calla": 0,
+     "errores": [],
+     "retraso_tics": {
+      "n": 0,
+      "mediana": null,
+      "p95": null,
+      "max": null
+     },
+     "ms_llamada_mediana": null,
+     "escena_largo_mediana": null,
+     "pasan_pregunta": 0,
+     "pasan_llegada": 0,
+     "llegan_donde_la_puerta_ya_rechaza": 0,
+     "pares_pregunta_llegada": [],
+     "aceptadas": 0,
+     "evaluadas": {},
+     "e2_dichos": 444,
+     "e2_sustituidos": 0,
+     "planes_del_hermano_recibidos": 0,
+     "mensajes_plan": [],
+     "malestar": [],
+     "carp": "P626_t1_A8_20365645",
+     "slot": 10
+    },
+    {
+     "tics": 11784,
+     "final": {
+      "reason": "eliminated",
+      "placement": 7
+     },
+     "resumen26": {
+      "llamadas": 3,
+      "usd_visto": 0.024933,
+      "no_dispara": 154,
+      "propuestas": 3,
+      "intraducibles": 0,
+      "calla": 0,
+      "errores": 0,
+      "retraso_tics": {
+       "n": 3,
+       "mediana": 80,
+       "p95": 131,
+       "max": 131
+      },
+      "aceptadas": 1,
+      "pregunta_ok": 1,
+      "llegan_donde_la_puerta_ya_rechaza": 0,
+      "e2_sustituidos": 1,
+      "planes_del_hermano_recibidos": 0,
+      "malestar_registros": 1,
+      "errores_juez": [],
+      "lat_tic_max": 24.61,
+      "lat_tic_mas_de_un_tic": 0
+     },
+     "entorno_razonador": {
+      "version": "puerta_proceso26 (P6-26): el de P6-23 + encargo razonador (texto en el proceso, llamada en un hilo del proceso, juicio de llegada en el principal y de pregunta en el proceso)",
+      "sidecar": true,
+      "modelo": "us.anthropic.claude-haiku-4-5-20251001-v1:0",
+      "local": null,
+      "tope_usd_por_vida": 0.6,
+      "tope_llamadas": 200,
+      "timeout_s": 25.0,
+      "max_tokens": 1500,
+      "sistema_md5": "ccf56dac63afc86398e82f8ee7827ba8",
+      "proceso": {
+       "version": "puerta_proceso23 (P6-23): juicio de la puerta Y tic de propuesta del oraculo en un proceso aparte; instantanea por pickle",
+       "proceso": "spawn",
+       "copia": "pickle HIGHEST_PROTOCOL",
+       "oraculo_en_proceso": true
+      }
+     },
+     "encargos": 158,
+     "no_dispara": 154,
+     "llamadas": 3,
+     "usd": 0.024933,
+     "propone": 3,
+     "intraducibles": 0,
+     "calla": 0,
+     "errores": [],
+     "retraso_tics": {
+      "n": 3,
+      "mediana": 80,
+      "p95": 131,
+      "max": 131
+     },
+     "ms_llamada_mediana": 2995.7,
+     "escena_largo_mediana": 2616,
+     "pasan_pregunta": 1,
+     "pasan_llegada": 1,
+     "llegan_donde_la_puerta_ya_rechaza": 0,
+     "pares_pregunta_llegada": [
+      {
+       "tick_pregunta": 11733,
+       "tick_llegada": 11864,
+       "retraso": 131,
+       "pregunta": "area",
+       "llegada": "area",
+       "tick_veredicto": 11887
+      },
+      {
+       "tick_pregunta": 11975,
+       "tick_llegada": 12055,
+       "retraso": 80,
+       "pregunta": "ok",
+       "llegada": "ok",
+       "tick_veredicto": 12077
+      },
+      {
+       "tick_pregunta": 12129,
+       "tick_llegada": 12205,
+       "retraso": 76,
+       "pregunta": "area",
+       "llegada": "vida",
+       "tick_veredicto": 12224
+      }
+     ],
+     "aceptadas": 1,
+     "evaluadas": {
+      "area": 2,
+      "ok": 1,
+      "vida": 1
+     },
+     "e2_dichos": 471,
+     "e2_sustituidos": 1,
+     "planes_del_hermano_recibidos": 0,
+     "mensajes_plan": [
+      "P6 P11 t12077 D24,24 H122 F12996"
+     ],
+     "malestar": [
+      {
+       "id": 3,
+       "estado": "caida",
+       "motivo": "en la reevaluacion deja de ganar (area)",
+       "tramos": [
+        {
+         "i": 1,
+         "propuesto": {
+          "dicho": {
+           "vida": "-",
+           "manos": "0",
+           "vinculo": "0"
+          },
+          "por": "F-ANTICIPACION",
+          "porque": "casilla actual fuera del radio 5; necesito entrar en zona segura antes del cierre"
+         },
+         "imaginado": {
+          "signos": {
+           "vida": "-",
+           "manos": "-",
+           "vinculo": "-"
+          },
+          "nec": [
+           1.2955324980508003,
+           1.0009199270056341,
+           1.1271417279099465
+          ]
+         },
+         "pasado": {
+          "signos": null,
+          "nec": null
+         }
+        },
+        {
+         "i": 2,
+         "propuesto": {
+          "dicho": {
+           "vida": "-",
+           "manos": "0",
+           "vinculo": "0"
+          },
+          "por": "F-DANO",
+          "porque": "fuera del circulo pierdo 8 por segundo hasta que se cierre"
+         },
+         "imaginado": {
+          "signos": {
+           "vida": "+",
+           "manos": "+",
+           "vinculo": "+"
+          },
+          "nec": [
+           1.2921707415249024,
+           0.995316999462471,
+           1.1136947018063545
+          ]
+         },
+         "pasado": {
+          "signos": null,
+          "nec": null
+         }
+        }
+       ]
+      }
+     ],
+     "carp": "P626_t1_A8_20365645",
+     "slot": 11
+    }
+   ]
+  }
+ }
+}

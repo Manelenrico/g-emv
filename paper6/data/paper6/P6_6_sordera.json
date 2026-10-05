@@ -1,0 +1,112 @@
+{
+ "A0": {
+  "recuento": {
+   "asientos": 40,
+   "tics": 477874,
+   "tics con tabla": 477874,
+   "partes del hermano": 9562,
+   "  los LEE el cinco": 9562,
+   "    b=0": 4345,
+   "`soltar_*` DISPONIBLE": 113986,
+   "con consumible en la mochila": 310228,
+   "hermano visible y HERIDO": 9478,
+   "  ...y yo con consumible (PUERTA DE LA HERIDA)": 2401,
+   "    b>=1": 5217
+  },
+  "filas": {
+   "F-4-ALCANCE": 415881,
+   "R-ACOPIO": 335610,
+   "R-CARENCIA": 467679,
+   "R-LLAMADA": 477874,
+   "S-DANO-PAREJA": 95637,
+   "S-8-EXPOSICION": 337427,
+   "F-HERMANO-AMENAZA": 29085,
+   "S-PROVISION": 111872,
+   "F-HERMANO-GOLPE": 4903,
+   "F-REENCUENTRO": 3730,
+   "R-HERMANO-FALTA": 5167,
+   "S-HERIDO": 9177,
+   "F-DANO": 111750,
+   "S-7-AGRESOR": 12223,
+   "S-SOLEDAD": 19506,
+   "S-MUERTE-PAREJA": 19506,
+   "F-ANTICIPACION": 31471
+  },
+  "elegido": {
+   "ir": 19857,
+   "noop": 415028,
+   "move": 32567,
+   "coger": 7071,
+   "paso": 2671,
+   "soltar": 67,
+   "atacar": 488,
+   "usar": 108,
+   "ponerse": 1,
+   "empunar": 16
+  },
+  "gana_a_soltar": {
+   "noop": 97113,
+   "move": 8835,
+   "coger": 2460,
+   "ir": 4900,
+   "paso": 558,
+   "atacar": 17,
+   "usar": 32,
+   "empunar": 4
+  }
+ },
+ "A1": {
+  "recuento": {
+   "asientos": 40,
+   "tics": 418209,
+   "tics con tabla": 418209,
+   "partes del hermano": 14376,
+   "  NO los lee el cinco (parser estricto)": 14376,
+   "con consumible en la mochila": 277500,
+   "`soltar_*` DISPONIBLE": 61647,
+   "hermano visible y HERIDO": 15498,
+   "  ...y yo con consumible (PUERTA DE LA HERIDA)": 3382
+  },
+  "filas": {
+   "F-4-ALCANCE": 359468,
+   "R-ACOPIO": 268644,
+   "R-CARENCIA": 412075,
+   "R-LLAMADA": 416859,
+   "S-DANO-PAREJA": 80866,
+   "S-8-EXPOSICION": 202997,
+   "F-HERMANO-AMENAZA": 82704,
+   "F-DANO": 107772,
+   "S-7-AGRESOR": 10179,
+   "F-REENCUENTRO": 5835,
+   "R-HERMANO-FALTA": 16631,
+   "S-HERIDO": 27281,
+   "F-ANTICIPACION": 28705,
+   "S-PROVISION": 60654,
+   "F-HERMANO-GOLPE": 4110,
+   "S-SOLEDAD": 59311,
+   "S-MUERTE-PAREJA": 59311
+  },
+  "elegido": {
+   "ir": 10562,
+   "noop": 349404,
+   "move": 33893,
+   "coger": 20157,
+   "usar": 128,
+   "atacar": 570,
+   "paso": 3442,
+   "soltar": 38,
+   "empunar": 14,
+   "ponerse": 1
+  },
+  "gana_a_soltar": {
+   "noop": 54349,
+   "ir": 1284,
+   "paso": 617,
+   "move": 3286,
+   "usar": 17,
+   "coger": 2046,
+   "empunar": 5,
+   "atacar": 5
+  }
+ }
+}

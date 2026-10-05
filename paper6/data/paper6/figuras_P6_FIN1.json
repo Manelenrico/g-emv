@@ -1,0 +1,277 @@
+{
+ "fig1": {
+  "A0": {
+   "pct_le3": 79.13,
+   "pct_gt15": 0.0,
+   "escapadas_ge200": 3
+  },
+  "A1": {
+   "pct_le3": 59.85,
+   "pct_gt15": 7.59,
+   "escapadas_ge200": 19
+  },
+  "A2": {
+   "pct_le3": 48.64,
+   "pct_gt15": 4.06,
+   "escapadas_ge200": 30
+  },
+  "A3": {
+   "pct_le3": 78.88,
+   "pct_gt15": 0.0,
+   "escapadas_ge200": 1
+  }
+ },
+ "fig2": {
+  "por_entrada": {
+   "no entra": [
+    0,
+    18
+   ],
+   "entra antes de\nencoger": [
+    27,
+    40
+   ],
+   "entra mientras\nencoge": [
+    22,
+    35
+   ],
+   "entra después": [
+    10,
+    12
+   ]
+  },
+  "por_arder_todas_las_vidas": {
+   "sin arder": [
+    15,
+    19
+   ],
+   "1-100 instantes\nardiendo": [
+    9,
+    14
+   ],
+   "más de 100": [
+    35,
+    72
+   ]
+  },
+  "por_arder_solo_las_que_entran": {
+   "0": [
+    15,
+    19
+   ],
+   "1-100": [
+    9,
+    11
+   ],
+   "> 100": [
+    35,
+    57
+   ]
+  },
+  "vidas_fase_5": 105
+ },
+ "fig3": {
+  "vida": "P623_t2_A7h_20784561 asiento 11",
+  "plan": 3,
+  "aceptado": 12609,
+  "destino": [
+   23,
+   28
+  ],
+  "cae": 12870,
+  "motivo": "en la reevaluacion deja de ganar (area)",
+  "tics": [
+   12609,
+   12640,
+   12760,
+   12990
+  ],
+  "ardiendo_en_el_plan": 0,
+  "aviso_fase_6": 12996
+ },
+ "fig4": {
+  "A4": {
+   "vidas": 74,
+   "media": 232.3,
+   "mediana": 233.5
+  },
+  "A7h": {
+   "vidas": 77,
+   "media": 174.7,
+   "mediana": 146
+  },
+  "A8": {
+   "vidas": 66,
+   "media": 220.4,
+   "mediana": 231.5
+  },
+  "diferencias_por_semilla": {
+   "A7h − A4": {
+    "n": 37,
+    "media": -57.6,
+    "mediana": -43,
+    "mejora": 24,
+    "empeora": 13
+   },
+   "A8 − A4": {
+    "n": 34,
+    "media": -9.9,
+    "mediana": -13.0,
+    "mejora": 19,
+    "empeora": 15
+   }
+  },
+  "publicado": {
+   "A7h − A4": {
+    "n": 37,
+    "prueba": "Monte Carlo 1.000.000 (semilla 0)",
+    "media_dif": -57.59,
+    "mediana_dif": -43,
+    "gana": 13,
+    "pierde": 24,
+    "p_bilateral": 0.0143,
+    "ic95_bootstrap": [
+     -100.85,
+     -15.25
+    ],
+    "diferencias": [
+     -323,
+     158.0,
+     -190,
+     -43,
+     -13.0,
+     -112.0,
+     175,
+     -129.5,
+     -40,
+     -15.5,
+     90,
+     22.5,
+     -225,
+     -114.0,
+     -14.0,
+     -139.5,
+     19.5,
+     -66.5,
+     -297,
+     44.5,
+     20.5,
+     134,
+     -208.5,
+     219.0,
+     -38.0,
+     -171.0,
+     -77.0,
+     -84,
+     -179.0,
+     -170.5,
+     -249,
+     -103.0,
+     149.5,
+     15.5,
+     20.0,
+     -242.5,
+     45.5
+    ],
+    "p_unilateral (A7h arde menos)": 0.0072
+   },
+   "A8 − A4": {
+    "n": 34,
+    "prueba": "Monte Carlo 1.000.000 (semilla 0)",
+    "media_dif": -9.87,
+    "mediana_dif": -13.0,
+    "gana": 15,
+    "pierde": 19,
+    "p_bilateral": 0.696,
+    "ic95_bootstrap": [
+     -56.29,
+     38.44
+    ],
+    "diferencias": [
+     -211.5,
+     236.5,
+     33,
+     27.5,
+     -162.0,
+     -121.0,
+     -96,
+     -48.5,
+     -12,
+     -5.0,
+     151.5,
+     -80,
+     93.0,
+     18.5,
+     12,
+     26.5,
+     -172.0,
+     24.5,
+     57,
+     204.5,
+     196.5,
+     76.5,
+     -54,
+     -247.0,
+     -153.5,
+     -72.5,
+     -15.5,
+     -86,
+     -14.0,
+     378.5,
+     148.5,
+     -76.0,
+     -332.5,
+     -61
+    ],
+    "p_unilateral (A7h arde menos)": 0.3488
+   }
+  }
+ },
+ "fig5": {
+  "plan": {
+   "id": 13,
+   "t_a": 12789,
+   "t_e": 12986,
+   "como": "vivas=0",
+   "razon": "cumplido: andado",
+   "destino": [
+    20,
+    23
+   ],
+   "fase": 5,
+   "motivo": null,
+   "instantes": 184,
+   "difieren": 184,
+   "obedece": 1,
+   "sujeta": 183,
+   "defo": 102.03821,
+   "defo_diario": 102.03821,
+   "defo_todos": 102.03821,
+   "sin_d": 0,
+   "negativos": 0,
+   "arde": 4,
+   "zone_hits": 0,
+   "tics_vivo": 197,
+   "rompe": 0,
+   "suspende": 0,
+   "carp": "P623_t2_A7h_20994019",
+   "slot": 10,
+   "semilla": 20994019,
+   "brazo": "A7h",
+   "ahorro": -4,
+   "ahorro_ref": "A4 s10"
+  },
+  "instantes_que_difieren": 184,
+  "quería": {
+   "ir a por algo": 184,
+   "andar": 0,
+   "quieto": 0,
+   "otro": 0
+  },
+  "hizo": {
+   "se quedó (sujeta)": 183,
+   "anduvo el plan (obedece)": 1
+  },
+  "acumulada_final": 102.038
+ }
+}

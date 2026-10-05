@@ -1,0 +1,130 @@
+{
+ "origenes": {
+  "oraculo_campo": {
+   "propuestas_5_7": 498,
+   "con_veredicto": 472,
+   "veredictos": {
+    "area": 234,
+    "ok": 205,
+    "vida": 33,
+    "null": 26
+   },
+   "tasa_ok": 0.4343,
+   "ventaja_ok_mediana": 0.2528
+  },
+  "consejero_cinco_P55B": {
+   "puerta_ancha_honesta": {
+    "haiku": {
+     "construidas": 334,
+     "pasa_regla": 35,
+     "pasa_pct": 10.48,
+     "aceptada": 27,
+     "aceptada_pct": 8.08
+    },
+    "sonnet": {
+     "construidas": 353,
+     "pasa_regla": 64,
+     "pasa_pct": 18.13,
+     "aceptada": 36,
+     "aceptada_pct": 10.2
+    }
+   },
+   "intraducibles": {
+    "haiku": 0.0089,
+    "sonnet": 0.0807
+   },
+   "latencia_y_coste": {
+    "haiku": {
+     "ms_mediana": 4374.85,
+     "usd_llamada": 0.00428,
+     "n": 200
+    },
+    "sonnet": {
+     "ms_mediana": 10609.5,
+     "usd_llamada": 0.01503,
+     "n": 200
+    }
+   }
+  },
+  "escenas": {
+   "n": 200,
+   "pareja": 40,
+   "largo_texto_mediana": 3173.0,
+   "retrasos": [
+    48,
+    96,
+    144,
+    192,
+    240,
+    288,
+    336
+   ]
+  }
+ },
+ "sello": {
+  "2a · aceptacion por puerta6 (proceso aparte), misma escena": {
+   "prediccion": "el plan del ORACULO pasa en el banco a la tasa del campo, 43.4 % (+-10 puntos; es la misma puerta sobre la misma instantanea); el del razonador pasa MENOS: haiku por debajo de 10.5 % y sonnet por debajo de 18.1 % (lo que pasaba por la puerta ancha honesta del cinco), y los dos por debajo de la mitad de la tasa del oraculo",
+   "falla_si": "algun modelo pasa a una tasa igual o mayor que la del oraculo en las mismas escenas, o la tasa del oraculo en el banco se aleja mas de 10 puntos de la del campo"
+  },
+  "2b · la ganancia imaginada (ventaja) de los planes aceptados": {
+   "prediccion": "la mediana de la ventaja de los planes aceptados del razonador queda por debajo de la del oraculo (campo: 0.253)",
+   "falla_si": "queda por encima en los dos modelos"
+  },
+  "2c · el destino dentro del circulo al que va la fase (regla de P6-21)": {
+   "prediccion": "el oraculo, el 100 % (elige entre casillas seguras); el razonador, al menos el 70 % (el texto le da el radio y su distancia)",
+   "falla_si": "algun modelo por debajo del 50 %"
+  },
+  "2d · planes que no se pueden traducir": {
+   "prediccion": "como en el cinco: haiku alrededor del 0.9 %, sonnet alrededor del 8.1 %; los dos por debajo del 15 %",
+   "falla_si": "alguno por encima del 25 %"
+  },
+  "2e · tiempo de respuesta y coste por llamada": {
+   "prediccion": "haiku 4.4 s y 0.0043 USD por llamada en el cinco; sonnet 10.6 s y 0.0150 USD: aqui, entre 0,7 y 1,5 veces esas cifras (la escena es algo mas larga: mediana 3173.0 caracteres)",
+   "falla_si": "alguna mediana de tiempo o coste medio fuera de [0,5x, 2x]"
+  },
+  "3 · el retraso: juzgado con el estado del instante en que llega la respuesta": {
+   "prediccion": "de los planes aceptados en t, al menos un tercio deja de pasar en t+D (P6-23: 30 de 58 planes aceptados cayeron por area en la reevaluacion, 19 por vida); sonnet (mas retraso) pierde mas que haiku",
+   "falla_si": "ninguno deja de pasar, o pasan mas en t+D que en t"
+  },
+  "4 · el bucle de Manel (motivo en palabras, otro plan)": {
+   "prediccion": "la segunda y la tercera propuesta pasan MAS que la primera en las mismas escenas, pero poco: entre 0 y 15 puntos mas (en el cinco el parte no cambio lo que el consejero proponia, P5-6C)",
+   "falla_si": "la segunda pasa menos que la primera por mas de 5 puntos"
+  },
+  "5a · la pareja: coinciden en la zona": {
+   "prediccion": "los dos hermanos dan una zona a 3 casillas o menos uno del otro (Chebyshev) en al menos la mitad de los pares (los dos textos dicen el mismo centro y el mismo radio)",
+   "falla_si": "en menos de un cuarto"
+  },
+  "5b · la pareja: lo aceptan las dos puertas": {
+   "prediccion": "en menos del 20 % de los pares (dos puertas independientes con tasas del 10-20 %)",
+   "falla_si": "en mas del 40 %"
+  },
+  "5c · el mensaje al hermano cabe en 120 caracteres": {
+   "prediccion": "en al menos el 80 % de las respuestas (se le pide ASCII y 120)",
+   "falla_si": "en menos de la mitad"
+  },
+  "gasto": {
+   "prediccion": "<= 10 USD en total (humo + primera + bucle + pareja, con la parada propia a 9,5)",
+   "falla_si": "> 10 USD"
+  }
+ },
+ "md5": {
+  "cantera/paper6/escenas_P6_25.py": "dc6a25a00d285e5a452422a31c65cfa2",
+  "cantera/paper6/razonador_P6_25.py": "6563f926dd309b167ad754b9d5798e00",
+  "cantera/paper6/juez_P6_25.py": "74a1445427c77d84dddf5a6e7326d188",
+  "cantera/paper6/instruccion_P6_25.md": "f70183f40964b2c7487207a9b63bf85d",
+  "cantera/paper6/P6_25_censo.json": "d6bb7e8fe16933c44e6fbabdc2152c8b",
+  "cantera/paper6/P6_25_escenas.json": "74cd93fd5db902edf5f8b52c83b52fb4",
+  "cantera/paper5/consejero_forma.py": "ac164782a620e8f58f49bfa3873313ab",
+  "cantera/paper5/instruccion_forma.md": "02653e4edf04f3bdd9a0ac3deda9aa01",
+  "cantera/paper5/tabla_ensenada.md": "9d53807699c4ee2be31d8dd173196de0",
+  "cantera/paper5/traductor_forma.py": "b310bb72884ef5f4e3510ab803cd2776",
+  "paintball/alma/manual_M2.md": "7d54902964b33d1862798680e304cd3c",
+  "paintball/alma/relator_t5.py": "929c49f6ced9af1cbd37eadec08c54f0",
+  "cantera/paper6/policy_pareja23.py": "5947b1d9c3ef99e61624ed09d0afa7ec",
+  "cantera/paper6/puerta_proceso_P6_23.py": "848fa2dabf55a2ba8778c757aa9c81c3",
+  "cantera/paper6/policy_pareja16.py": "10bc8a84a7931f2354478376af69ce6b",
+  "cantera/paper6/puerta6_P6_15.py": "7c70ae1752c7ac1aae457d0c5b2d36f3",
+  "cantera/paper6/oraculo_P6_14.py": "a791ddc0cca9940b9c80920dc66a623d",
+  "motor/model.py": "1e511978c251130e95169ebf8443efa1"
+ }
+}

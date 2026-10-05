@@ -1,0 +1,155 @@
+{
+ "nota": "P6-22. INSTRUMENTO DE MEDIDA (la medida de P6-21). Por brazo y fase.",
+ "brazos": {
+  "A8 humo": {
+   "partidas": 2,
+   "vidas": 4,
+   "por_fase": {
+    "antes del aviso 1": {
+     "tics": 27260,
+     "pasos a casilla libre": 1652,
+     "dado en el tic": 1638,
+     "perdido": 0,
+     "pct_perdido": 0.0,
+     "fantasma": 0,
+     "pct_fantasma_por_tic": 0.0,
+     "retraso_minimo_fantasma": {
+      "n": 0
+     },
+     "retraso_pasos_dados": {
+      "n": 1658,
+      "mediana": 0,
+      "p90": 0,
+      "max": 0,
+      "0": 1658,
+      "1-2": 0,
+      ">=3": 0,
+      ">=10": 0
+     }
+    },
+    "fases 1-4": {
+     "tics": 17961,
+     "pasos a casilla libre": 760,
+     "dado en el tic": 752,
+     "perdido": 1,
+     "pct_perdido": 0.13,
+     "fantasma": 0,
+     "pct_fantasma_por_tic": 0.0,
+     "retraso_minimo_fantasma": {
+      "n": 0
+     },
+     "retraso_pasos_dados": {
+      "n": 787,
+      "mediana": 0,
+      "p90": 0,
+      "max": 0,
+      "0": 787,
+      "1-2": 0,
+      ">=3": 0,
+      ">=10": 0
+     }
+    },
+    "fases 5-7": {
+     "tics": 3747,
+     "pasos a casilla libre": 249,
+     "dado en el tic": 241,
+     "perdido": 3,
+     "pct_perdido": 1.2,
+     "fantasma": 0,
+     "pct_fantasma_por_tic": 0.0,
+     "retraso_minimo_fantasma": {
+      "n": 0
+     },
+     "retraso_pasos_dados": {
+      "n": 251,
+      "mediana": 0,
+      "p90": 0,
+      "max": 0,
+      "0": 251,
+      "1-2": 0,
+      ">=3": 0,
+      ">=10": 0
+     }
+    }
+   },
+   "vidas_con_perdidos_fases_5-7": 1,
+   "vidas_lista": [
+    {
+     "carpeta": "P626_t1_A8_20260916",
+     "slot": 10,
+     "tics": 13560,
+     "antes del aviso 1": {
+      "perdido": 0,
+      "libre": 282,
+      "fantasma": 0
+     },
+     "fases 1-4": {
+      "perdido": 1,
+      "libre": 172,
+      "fantasma": 0
+     },
+     "fases 5-7": {
+      "perdido": 3,
+      "libre": 135,
+      "fantasma": 0
+     }
+    },
+    {
+     "carpeta": "P626_t1_A8_20260916",
+     "slot": 11,
+     "tics": 12528,
+     "antes del aviso 1": {
+      "perdido": 0,
+      "libre": 207,
+      "fantasma": 0
+     },
+     "fases 1-4": {
+      "perdido": 0,
+      "libre": 60,
+      "fantasma": 0
+     },
+     "fases 5-7": {
+      "perdido": 0,
+      "libre": 77,
+      "fantasma": 0
+     }
+    },
+    {
+     "carpeta": "P626_t1_A8_20365645",
+     "slot": 10,
+     "tics": 11096,
+     "antes del aviso 1": {
+      "perdido": 0,
+      "libre": 579,
+      "fantasma": 0
+     },
+     "fases 1-4": {
+      "perdido": 0,
+      "libre": 268,
+      "fantasma": 0
+     }
+    },
+    {
+     "carpeta": "P626_t1_A8_20365645",
+     "slot": 11,
+     "tics": 11784,
+     "antes del aviso 1": {
+      "perdido": 0,
+      "libre": 584,
+      "fantasma": 0
+     },
+     "fases 1-4": {
+      "perdido": 0,
+      "libre": 260,
+      "fantasma": 0
+     },
+     "fases 5-7": {
+      "perdido": 0,
+      "libre": 37,
+      "fantasma": 0
+     }
+    }
+   ]
+  }
+ }
+}

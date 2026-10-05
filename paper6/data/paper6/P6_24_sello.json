@@ -1,0 +1,100 @@
+{
+ "sello": {
+  "PRINCIPAL": {
+   "que": "tics ardiendo en las fases 5-7 (desde el aviso de la fase 5 hasta el final de la vida o de la partida), por vida viva en el aviso 5, media por semilla, A7h - A4, emparejado por semilla (solo semillas con vida viva en el aviso 5 en los dos brazos)",
+   "prediccion": "A7h arde MENOS que A4: diferencia negativa, en la direccion y aproximadamente en la magnitud de P6-23 (fase 5: -79.17 tics, p 0.046; con esta medida, fases 5-7: -53.33 tics, IC95 bootstrap [-109.61, 2.45], p unilateral 0.0465, n 18)",
+   "prueba": "permutacion exacta por cambio de signo (2^n) UNILATERAL (H1: A7h - A4 < 0), alfa 0,05; intervalo del 95 % de la media por bootstrap (10.000 remuestreos, semilla 0)",
+   "acierta_si": "media de la diferencia < 0, p unilateral < 0,05 y media dentro de [-109.61, 2.45] (el IC95 de P6-23 con esta medida)",
+   "no_alcanzada_si": "media < 0 pero p >= 0,05, o media < 0 con p < 0,05 pero fuera del intervalo",
+   "falla_si": "media de la diferencia >= 0",
+   "origen": "P6-23 (20 semillas viejas): A4 233 tics de media por vida viva (n 35), A7h 179.7 (n 39); gana/pierde 5/13"
+  },
+  "secundarias (declaradas, sin sello; solo direccion esperada)": {
+   "tics ardiendo en la fase 5 (medida de P6-23)": "A7h < A4 (P6-23: -79.17, p 0.046)",
+   "% de tics dentro del circulo en la fase 5": "A7h > A4 (P6-23: +7.28, p 0.352)",
+   "planes de la fase 5 sostenidos hasta el final de la fase (A7h)": "algunos (P6-23: 6 de 58; A4 no tiene planes)",
+   "pasos perdidos en las fases 5-7 (P6-21)": "cerca de 0 en los dos brazos (P6-23: A4 0.0 %, A7h 0.36 %); se declara si supera el 0,5 %",
+   "muertes por anillo, por rival, supervivientes": "dentro del ruido (+-10 vidas es lo detectable, P6-17); P6-23: anillo 22 / 14, rival 6 / 12, supervivientes 11 / 13",
+   "las 40 semillas juntas (P6-23 + P6-24), medida principal": "misma prueba; se informa, no se sella (P6-23 ya esta contado en el origen)"
+  },
+  "gasto": {
+   "tope": "5 USD (humo + 40 partidas)",
+   "falla_si": "> 5 USD",
+   "origen": "P6-11 A4 0,069 USD/partida; P6-23 A7h 0,089; humo P6-23 0,067 por 2 partidas"
+  },
+  "brazos": {
+   "A4": "gemv-p6-A4-manos v1 (b4e322cf-7390-4e01-b8a8-b854398e647f), la version subida en P6-11, sin tocar",
+   "A7h": "gemv-p6-A7h v1 (219ef011-7564-443d-988e-d143063a8d3e), la version subida en P6-23, sin tocar"
+  },
+  "semillas": {
+   "_que_es": "P6-24: 20 semillas NUEVAS, nunca usadas en el seis (ni en el cuatro, el cinco o paintball/runs; 363 valores usados revisados): la sucesion de semillas_S2 (paso 104729) continuada desde la ultima del seis (22250767), saltando los 20 valores siguientes, ya usados en el cuatro o el cinco.",
+   "paso": 104729,
+   "desde": 22250767,
+   "saltadas_usadas": [
+    22355496,
+    22460225,
+    22564954,
+    22669683,
+    22774412,
+    22879141,
+    22983870,
+    23088599,
+    23193328,
+    23298057,
+    23402786,
+    23507515,
+    23612244,
+    23716973,
+    23821702,
+    23926431,
+    24031160,
+    24135889,
+    24240618,
+    24345347
+   ],
+   "semillas": [
+    24450076,
+    24554805,
+    24659534,
+    24764263,
+    24868992,
+    24973721,
+    25078450,
+    25183179,
+    25287908,
+    25392637,
+    25497366,
+    25602095,
+    25706824,
+    25811553,
+    25916282,
+    26021011,
+    26125740,
+    26230469,
+    26335198,
+    26439927
+   ]
+  }
+ },
+ "md5": {
+  "cantera/paper6/policy_pareja23.py": "5947b1d9c3ef99e61624ed09d0afa7ec",
+  "cantera/paper6/compromiso6c_P6_23.py": "38d8529db6362b8f792ff958f5b29855",
+  "cantera/paper6/puerta_proceso_P6_23.py": "848fa2dabf55a2ba8778c757aa9c81c3",
+  "cantera/paper6/Dockerfile.pareja23": "30264d3d8463594bd19c575407d5fce0",
+  "cantera/paper6/policy_pareja11.py": "e7136f856e6c09dd033bb4658cd135ea",
+  "cantera/paper6/policy_pareja16.py": "10bc8a84a7931f2354478376af69ce6b",
+  "cantera/paper6/oraculo_P6_14.py": "a791ddc0cca9940b9c80920dc66a623d",
+  "cantera/paper6/puerta6_P6_15.py": "7c70ae1752c7ac1aae457d0c5b2d36f3",
+  "cantera/paper6/puerta6g_P6_19.py": "6e3c08e634c43b30236a0fa0b4990614",
+  "cantera/paper6/compromiso6_P6_16.py": "a5e959b5ad9375636e8f7245441ba411",
+  "motor/model.py": "1e511978c251130e95169ebf8443efa1",
+  "paintball/alma/decisor_zs.py": "8fa03547e3228ef9df4aa94c444f9252",
+  "paintball/alma/appraisal_zs_v42_exp.py": "98c13d60167c80cc8334c965be75c640",
+  "cantera/paper6/lanza_P6_24.py": "421453800293ff9aed21e1343f36b63b",
+  "cantera/paper6/mide_campo_P6_24.py": "ca897b141002abc095bda58c68a82d3a",
+  "cantera/paper6/semillas_P6_24.json": "677e0e91a1e67bcd52d99e5e43b788ca",
+  "cantera/paper6/P6_24_brazos.json": "044445cd5e6873fd2fd0e77235a836a6",
+  "cantera/paper6/roster_lento_v2_PROPUESTA.json": "3eb7dd60d8f43be2751b0325945a3f27",
+  "cantera/paper5/roster_lento_v1.json": "a2293bd16ee94e6d4c2f4683b57c2a09"
+ }
+}

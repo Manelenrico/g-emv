@@ -1,0 +1,1525 @@
+{
+ "recuento": {
+  "vidas": 40,
+  "tics": 504064,
+  "tics con piernas listas": 182188,
+  "  ...decision cambia": 1005,
+  "    noop -> move": 5,
+  "golpes de rival sin arma (visible)": 166,
+  "  ...filas que miran el arma encendidas antes, SIN": 107,
+  "  ...filas que miran el arma encendidas antes, CON": 120,
+  "  ...cualquier fila de miedo encendida antes, SIN": 166,
+  "  ...cualquier fila de miedo encendida antes, CON": 166,
+  "    move -> move": 36,
+  "    paso -> move": 9,
+  "    ir -> move": 70,
+  "    ir -> ir": 11,
+  "    move -> noop": 8,
+  "    paso -> ir": 9,
+  "    ir -> paso": 820,
+  "    atacar -> atacar": 3,
+  "    move -> paso": 3,
+  "    paso -> noop": 4,
+  "    move -> ir": 11,
+  "    noop -> ir": 2,
+  "    paso -> paso": 11,
+  "    ir -> atacar": 1,
+  "    atacar -> move": 2
+ },
+ "golpes": [
+  {
+   "carp": "P610_t1_A3_20260916",
+   "tick": 12354,
+   "slot": 7,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20260916",
+   "tick": 13204,
+   "slot": 9,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20260916",
+   "tick": 13217,
+   "slot": 9,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20260916",
+   "tick": 11884,
+   "slot": 9,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20260916",
+   "tick": 11937,
+   "slot": 9,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20260916",
+   "tick": 11950,
+   "slot": 9,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20260916",
+   "tick": 12367,
+   "slot": 7,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20260916",
+   "tick": 13040,
+   "slot": 9,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20260916",
+   "tick": 13192,
+   "slot": 9,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20470374",
+   "tick": 11786,
+   "slot": 6,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20470374",
+   "tick": 11802,
+   "slot": 6,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20470374",
+   "tick": 11862,
+   "slot": 6,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20470374",
+   "tick": 11904,
+   "slot": 7,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20470374",
+   "tick": 11961,
+   "slot": 6,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20470374",
+   "tick": 11973,
+   "slot": 6,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20575103",
+   "tick": 2320,
+   "slot": 15,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20575103",
+   "tick": 2332,
+   "slot": 15,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20575103",
+   "tick": 2344,
+   "slot": 15,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20575103",
+   "tick": 2356,
+   "slot": 15,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20575103",
+   "tick": 2368,
+   "slot": 15,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20575103",
+   "tick": 2380,
+   "slot": 15,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20575103",
+   "tick": 2392,
+   "slot": 15,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20575103",
+   "tick": 2404,
+   "slot": 15,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20575103",
+   "tick": 2416,
+   "slot": 15,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20575103",
+   "tick": 2428,
+   "slot": 15,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20575103",
+   "tick": 2440,
+   "slot": 15,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20575103",
+   "tick": 2452,
+   "slot": 15,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20575103",
+   "tick": 2464,
+   "slot": 15,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20575103",
+   "tick": 2476,
+   "slot": 15,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20575103",
+   "tick": 2488,
+   "slot": 15,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20575103",
+   "tick": 2500,
+   "slot": 15,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20575103",
+   "tick": 2512,
+   "slot": 15,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20575103",
+   "tick": 2524,
+   "slot": 15,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20575103",
+   "tick": 2260,
+   "slot": 15,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20575103",
+   "tick": 2272,
+   "slot": 15,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20575103",
+   "tick": 2284,
+   "slot": 15,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20575103",
+   "tick": 2308,
+   "slot": 15,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20575103",
+   "tick": 2548,
+   "slot": 15,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20575103",
+   "tick": 2572,
+   "slot": 15,
+   "sin_arma": false,
+   "sin_cualquiera": true,
+   "con_arma": false,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20679832",
+   "tick": 14558,
+   "slot": 8,
+   "sin_arma": false,
+   "sin_cualquiera": true,
+   "con_arma": false,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20679832",
+   "tick": 14571,
+   "slot": 8,
+   "sin_arma": false,
+   "sin_cualquiera": true,
+   "con_arma": false,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20679832",
+   "tick": 14583,
+   "slot": 8,
+   "sin_arma": false,
+   "sin_cualquiera": true,
+   "con_arma": false,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20679832",
+   "tick": 14590,
+   "slot": 14,
+   "sin_arma": false,
+   "sin_cualquiera": true,
+   "con_arma": false,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20679832",
+   "tick": 14595,
+   "slot": 8,
+   "sin_arma": false,
+   "sin_cualquiera": true,
+   "con_arma": false,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20679832",
+   "tick": 14602,
+   "slot": 14,
+   "sin_arma": false,
+   "sin_cualquiera": true,
+   "con_arma": false,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20679832",
+   "tick": 14607,
+   "slot": 8,
+   "sin_arma": false,
+   "sin_cualquiera": true,
+   "con_arma": false,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20679832",
+   "tick": 14619,
+   "slot": 8,
+   "sin_arma": false,
+   "sin_cualquiera": true,
+   "con_arma": false,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20679832",
+   "tick": 14627,
+   "slot": 14,
+   "sin_arma": false,
+   "sin_cualquiera": true,
+   "con_arma": false,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20784561",
+   "tick": 13035,
+   "slot": 8,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20784561",
+   "tick": 14570,
+   "slot": 7,
+   "sin_arma": false,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20784561",
+   "tick": 14570,
+   "slot": 8,
+   "sin_arma": false,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20784561",
+   "tick": 14582,
+   "slot": 7,
+   "sin_arma": false,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20784561",
+   "tick": 14582,
+   "slot": 8,
+   "sin_arma": false,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20784561",
+   "tick": 14594,
+   "slot": 7,
+   "sin_arma": false,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20784561",
+   "tick": 14594,
+   "slot": 8,
+   "sin_arma": false,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20784561",
+   "tick": 14558,
+   "slot": 7,
+   "sin_arma": false,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20784561",
+   "tick": 14558,
+   "slot": 8,
+   "sin_arma": false,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20784561",
+   "tick": 14630,
+   "slot": 7,
+   "sin_arma": false,
+   "sin_cualquiera": true,
+   "con_arma": false,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20784561",
+   "tick": 14630,
+   "slot": 8,
+   "sin_arma": false,
+   "sin_cualquiera": true,
+   "con_arma": false,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20784561",
+   "tick": 14642,
+   "slot": 8,
+   "sin_arma": false,
+   "sin_cualquiera": true,
+   "con_arma": false,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20784561",
+   "tick": 14654,
+   "slot": 8,
+   "sin_arma": false,
+   "sin_cualquiera": true,
+   "con_arma": false,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20784561",
+   "tick": 14666,
+   "slot": 8,
+   "sin_arma": false,
+   "sin_cualquiera": true,
+   "con_arma": false,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20784561",
+   "tick": 14678,
+   "slot": 8,
+   "sin_arma": false,
+   "sin_cualquiera": true,
+   "con_arma": false,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20784561",
+   "tick": 14690,
+   "slot": 8,
+   "sin_arma": false,
+   "sin_cualquiera": true,
+   "con_arma": false,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20784561",
+   "tick": 14702,
+   "slot": 8,
+   "sin_arma": false,
+   "sin_cualquiera": true,
+   "con_arma": false,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20784561",
+   "tick": 14714,
+   "slot": 8,
+   "sin_arma": false,
+   "sin_cualquiera": true,
+   "con_arma": false,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20784561",
+   "tick": 14726,
+   "slot": 8,
+   "sin_arma": false,
+   "sin_cualquiera": true,
+   "con_arma": false,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20784561",
+   "tick": 14738,
+   "slot": 8,
+   "sin_arma": false,
+   "sin_cualquiera": true,
+   "con_arma": false,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20784561",
+   "tick": 14750,
+   "slot": 8,
+   "sin_arma": false,
+   "sin_cualquiera": true,
+   "con_arma": false,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20784561",
+   "tick": 14762,
+   "slot": 8,
+   "sin_arma": false,
+   "sin_cualquiera": true,
+   "con_arma": false,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20784561",
+   "tick": 14774,
+   "slot": 8,
+   "sin_arma": false,
+   "sin_cualquiera": true,
+   "con_arma": false,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20784561",
+   "tick": 14786,
+   "slot": 8,
+   "sin_arma": false,
+   "sin_cualquiera": true,
+   "con_arma": false,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20784561",
+   "tick": 14798,
+   "slot": 8,
+   "sin_arma": false,
+   "sin_cualquiera": true,
+   "con_arma": false,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20784561",
+   "tick": 14810,
+   "slot": 8,
+   "sin_arma": false,
+   "sin_cualquiera": true,
+   "con_arma": false,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20784561",
+   "tick": 14822,
+   "slot": 8,
+   "sin_arma": false,
+   "sin_cualquiera": true,
+   "con_arma": false,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20784561",
+   "tick": 14834,
+   "slot": 8,
+   "sin_arma": false,
+   "sin_cualquiera": true,
+   "con_arma": false,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20784561",
+   "tick": 14846,
+   "slot": 8,
+   "sin_arma": false,
+   "sin_cualquiera": true,
+   "con_arma": false,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20784561",
+   "tick": 14858,
+   "slot": 8,
+   "sin_arma": false,
+   "sin_cualquiera": true,
+   "con_arma": false,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20784561",
+   "tick": 14870,
+   "slot": 8,
+   "sin_arma": false,
+   "sin_cualquiera": true,
+   "con_arma": false,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20784561",
+   "tick": 14882,
+   "slot": 8,
+   "sin_arma": false,
+   "sin_cualquiera": true,
+   "con_arma": false,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20784561",
+   "tick": 14894,
+   "slot": 8,
+   "sin_arma": false,
+   "sin_cualquiera": true,
+   "con_arma": false,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20889290",
+   "tick": 2353,
+   "slot": 12,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20889290",
+   "tick": 14558,
+   "slot": 9,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20889290",
+   "tick": 14570,
+   "slot": 9,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20889290",
+   "tick": 14582,
+   "slot": 9,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20889290",
+   "tick": 14594,
+   "slot": 9,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20994019",
+   "tick": 11544,
+   "slot": 14,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20994019",
+   "tick": 14558,
+   "slot": 5,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20994019",
+   "tick": 14558,
+   "slot": 8,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20994019",
+   "tick": 14570,
+   "slot": 5,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20994019",
+   "tick": 14570,
+   "slot": 8,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20994019",
+   "tick": 14582,
+   "slot": 5,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20994019",
+   "tick": 14582,
+   "slot": 8,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20994019",
+   "tick": 14594,
+   "slot": 5,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_20994019",
+   "tick": 14594,
+   "slot": 8,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_21098748",
+   "tick": 11509,
+   "slot": 8,
+   "sin_arma": false,
+   "sin_cualquiera": true,
+   "con_arma": false,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_21203477",
+   "tick": 14557,
+   "slot": 7,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_21203477",
+   "tick": 14569,
+   "slot": 7,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_21203477",
+   "tick": 14581,
+   "slot": 7,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_21203477",
+   "tick": 14593,
+   "slot": 7,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_21203477",
+   "tick": 14605,
+   "slot": 7,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_21203477",
+   "tick": 14629,
+   "slot": 7,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t1_A3_21203477",
+   "tick": 14641,
+   "slot": 7,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t2_A3_21308206",
+   "tick": 1670,
+   "slot": 15,
+   "sin_arma": false,
+   "sin_cualquiera": true,
+   "con_arma": false,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t2_A3_21412935",
+   "tick": 14558,
+   "slot": 9,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t2_A3_21517664",
+   "tick": 11742,
+   "slot": 8,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t2_A3_21517664",
+   "tick": 8111,
+   "slot": 14,
+   "sin_arma": false,
+   "sin_cualquiera": true,
+   "con_arma": false,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t2_A3_21517664",
+   "tick": 8123,
+   "slot": 14,
+   "sin_arma": false,
+   "sin_cualquiera": true,
+   "con_arma": false,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t2_A3_21517664",
+   "tick": 8171,
+   "slot": 14,
+   "sin_arma": false,
+   "sin_cualquiera": true,
+   "con_arma": false,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t2_A3_21517664",
+   "tick": 8189,
+   "slot": 14,
+   "sin_arma": false,
+   "sin_cualquiera": true,
+   "con_arma": false,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t2_A3_21622393",
+   "tick": 11559,
+   "slot": 14,
+   "sin_arma": false,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t2_A3_21622393",
+   "tick": 11571,
+   "slot": 14,
+   "sin_arma": false,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t2_A3_21622393",
+   "tick": 11289,
+   "slot": 8,
+   "sin_arma": false,
+   "sin_cualquiera": true,
+   "con_arma": false,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t2_A3_21831851",
+   "tick": 12384,
+   "slot": 7,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t2_A3_21831851",
+   "tick": 12409,
+   "slot": 7,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t2_A3_21831851",
+   "tick": 12507,
+   "slot": 7,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t2_A3_21831851",
+   "tick": 14557,
+   "slot": 4,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t2_A3_21831851",
+   "tick": 14558,
+   "slot": 3,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t2_A3_21831851",
+   "tick": 14569,
+   "slot": 4,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t2_A3_21831851",
+   "tick": 14570,
+   "slot": 3,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t2_A3_21831851",
+   "tick": 14581,
+   "slot": 4,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t2_A3_21831851",
+   "tick": 14582,
+   "slot": 3,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t2_A3_21831851",
+   "tick": 14593,
+   "slot": 4,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t2_A3_21831851",
+   "tick": 14594,
+   "slot": 3,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t2_A3_21831851",
+   "tick": 14606,
+   "slot": 3,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t2_A3_21831851",
+   "tick": 14608,
+   "slot": 2,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t2_A3_21831851",
+   "tick": 14618,
+   "slot": 2,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t2_A3_21831851",
+   "tick": 14618,
+   "slot": 3,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t2_A3_21831851",
+   "tick": 14630,
+   "slot": 2,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t2_A3_21831851",
+   "tick": 14630,
+   "slot": 3,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t2_A3_21831851",
+   "tick": 14642,
+   "slot": 2,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t2_A3_21831851",
+   "tick": 14642,
+   "slot": 3,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t2_A3_21831851",
+   "tick": 14654,
+   "slot": 2,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t2_A3_21831851",
+   "tick": 14654,
+   "slot": 3,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t2_A3_21831851",
+   "tick": 14666,
+   "slot": 3,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t2_A3_21831851",
+   "tick": 14678,
+   "slot": 3,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t2_A3_21831851",
+   "tick": 14690,
+   "slot": 3,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t2_A3_21831851",
+   "tick": 14702,
+   "slot": 3,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t2_A3_21831851",
+   "tick": 14714,
+   "slot": 3,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t2_A3_21831851",
+   "tick": 11753,
+   "slot": 4,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t2_A3_21831851",
+   "tick": 11762,
+   "slot": 7,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t2_A3_21831851",
+   "tick": 11774,
+   "slot": 7,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t2_A3_21831851",
+   "tick": 11786,
+   "slot": 7,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t2_A3_21831851",
+   "tick": 11798,
+   "slot": 7,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t2_A3_21831851",
+   "tick": 11817,
+   "slot": 9,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t2_A3_21831851",
+   "tick": 11879,
+   "slot": 9,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t2_A3_21831851",
+   "tick": 11891,
+   "slot": 9,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t2_A3_22041309",
+   "tick": 9509,
+   "slot": 3,
+   "sin_arma": false,
+   "sin_cualquiera": true,
+   "con_arma": false,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t2_A3_22041309",
+   "tick": 9831,
+   "slot": 14,
+   "sin_arma": false,
+   "sin_cualquiera": true,
+   "con_arma": false,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t2_A3_22041309",
+   "tick": 11546,
+   "slot": 14,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t2_A3_22041309",
+   "tick": 11730,
+   "slot": 14,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t2_A3_22041309",
+   "tick": 11812,
+   "slot": 8,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t2_A3_22041309",
+   "tick": 11833,
+   "slot": 8,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t2_A3_22041309",
+   "tick": 11857,
+   "slot": 8,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t2_A3_22146038",
+   "tick": 9124,
+   "slot": 14,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t2_A3_22146038",
+   "tick": 9136,
+   "slot": 14,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t2_A3_22146038",
+   "tick": 9148,
+   "slot": 14,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t2_A3_22146038",
+   "tick": 9163,
+   "slot": 14,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t2_A3_22146038",
+   "tick": 9178,
+   "slot": 14,
+   "sin_arma": false,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t2_A3_22250767",
+   "tick": 12488,
+   "slot": 14,
+   "sin_arma": false,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t2_A3_22250767",
+   "tick": 12518,
+   "slot": 14,
+   "sin_arma": false,
+   "sin_cualquiera": true,
+   "con_arma": false,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t2_A3_22250767",
+   "tick": 12554,
+   "slot": 14,
+   "sin_arma": false,
+   "sin_cualquiera": true,
+   "con_arma": false,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t2_A3_22250767",
+   "tick": 12576,
+   "slot": 14,
+   "sin_arma": false,
+   "sin_cualquiera": true,
+   "con_arma": false,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t2_A3_22250767",
+   "tick": 12598,
+   "slot": 14,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t2_A3_22250767",
+   "tick": 11624,
+   "slot": 14,
+   "sin_arma": true,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  },
+  {
+   "carp": "P610_t2_A3_22250767",
+   "tick": 12684,
+   "slot": 14,
+   "sin_arma": false,
+   "sin_cualquiera": true,
+   "con_arma": true,
+   "con_cualquiera": true
+  }
+ ]
+}

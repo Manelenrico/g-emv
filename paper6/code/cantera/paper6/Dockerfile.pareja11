@@ -1,0 +1,215 @@
+# EL ALMA · IMAGEN A4 — paper seis, P6-11: A3 + el rival sin arma como amenaza menor.
+# [27-sep-2026]  ARCHIVO NUEVO: es `Dockerfile.pareja` (P6-3/P6-4) mas el oido
+# y el don, con su custodia y sus humos. No se toca el cinco ni `policy_pareja`.
+#
+#   docker build --platform linux/amd64 -f cantera/paper6/Dockerfile.pareja11 \
+#                -t gemv-anima:pareja11 .
+#
+# ARCHIVO NUEVO. Es `paintball/alma/Dockerfile.forma` (congelado, md5
+# 4603512854740a0b3aae2f4994f83560) MAS las cuatro piezas del seis, y con el
+# CMD apuntando a `policy_pareja.py`. No se toca ni un byte del cinco: las
+# tres custodias siguen dentro y tumban el build si algo cambio.
+
+FROM python:3.12-slim
+
+RUN pip install --no-cache-dir websockets==16.0
+
+WORKDIR /app
+COPY motor/        /app/motor/
+COPY planificador/ /app/planificador/
+COPY paintball/alma/ /app/alma/
+
+# las piezas del cinco, identicas a Dockerfile.forma
+COPY cantera/paper5/forma.py            /app/alma/forma.py
+COPY cantera/paper5/proyeccion.py       /app/alma/proyeccion.py
+COPY cantera/paper5/traductor_forma.py  /app/alma/traductor_forma.py
+COPY cantera/paper5/alcance_g.py        /app/alma/alcance_g.py
+COPY cantera/paper5/instruccion_forma.md /app/alma/instruccion_forma.md
+COPY cantera/paper5/tabla_ensenada.md    /app/alma/tabla_ensenada.md
+COPY cantera/paper5/P56A_distribucion_azar.json /app/alma/P56A_distribucion_azar.json
+COPY cantera/paper5/curiosidad.py       /app/alma/curiosidad.py
+COPY cantera/paper5/curiosidad_forma.py /app/alma/curiosidad_forma.py
+
+# [P6-3] LO NUEVO DEL SEIS
+COPY cantera/paper6/parte2.py        /app/alma/parte2.py
+COPY cantera/paper6/oyente2.py       /app/alma/oyente2.py
+COPY cantera/paper6/policy_pareja.py /app/alma/policy_pareja.py
+COPY cantera/paper6/humo_P6_3.py     /app/alma/humo_P6_3.py
+COPY cantera/paper6/humo_red_P6_4.py /app/alma/humo_red_P6_4.py
+COPY cantera/paper6/humo_mundo.jsonl /app/alma/humo_mundo.jsonl
+
+# [P6-6] LOS DOS ARREGLOS Y SUS HUMOS
+COPY cantera/paper6/oido5_P6_5.py     /app/alma/oido5_P6_5.py
+COPY cantera/paper6/arreglos_P6_6.py  /app/alma/arreglos_P6_6.py
+COPY cantera/paper6/policy_pareja6.py /app/alma/policy_pareja6.py
+COPY cantera/paper6/humo_red_P6_6.py  /app/alma/humo_red_P6_6.py
+
+# [P6-8] LOS DOS ARREGLOS DE METODO Y SU HUMO DE RED
+COPY cantera/paper6/arreglos_P6_8.py  /app/alma/arreglos_P6_8.py
+COPY cantera/paper6/policy_pareja8.py /app/alma/policy_pareja8.py
+COPY cantera/paper6/humo_red_P6_8.py  /app/alma/humo_red_P6_8.py
+
+# [P6-10] LA VERSION CORREGIDA DE LOS ARREGLOS DE P6-8, LA FILA Y LA POLITICA A3
+COPY cantera/paper6/arreglos_P6_8b.py /app/alma/arreglos_P6_8b.py
+COPY cantera/paper6/filas10_P6_10.py  /app/alma/filas10_P6_10.py
+COPY cantera/paper6/policy_pareja10.py /app/alma/policy_pareja10.py
+COPY cantera/paper6/humo_red_P6_10.py /app/alma/humo_red_P6_10.py
+
+# [P6-11] LA AMENAZA MENOR Y LA POLITICA A4
+COPY cantera/paper6/amenaza11_P6_11.py /app/alma/amenaza11_P6_11.py
+COPY cantera/paper6/policy_pareja11.py /app/alma/policy_pareja11.py
+COPY cantera/paper6/humo_red_P6_11.py /app/alma/humo_red_P6_11.py
+
+# CUSTODIA: el motor viaja intacto.
+RUN python -c "import hashlib; \
+h = hashlib.md5(open('/app/motor/model.py','rb').read()).hexdigest(); \
+assert h == '1e511978c251130e95169ebf8443efa1', ('model.py ALTERADO', h); \
+print('custodia OK model.py md5', h)"
+
+# CUSTODIA: el decisor y la tabla tampoco cambian.
+RUN python -c "import hashlib; \
+d = hashlib.md5(open('/app/alma/decisor_zs.py','rb').read()).hexdigest(); \
+a = hashlib.md5(open('/app/alma/appraisal_zs_v42_exp.py','rb').read()).hexdigest(); \
+assert d == '8fa03547e3228ef9df4aa94c444f9252', ('decisor_zs.py ALTERADO', d); \
+assert a == '98c13d60167c80cc8334c965be75c640', ('appraisal ALTERADO', a); \
+print('custodia OK decisor', d, 'appraisal', a)"
+
+# CUSTODIA NUEVA [P6-3]: las tres piezas del seis, con su md5.
+RUN python -c "import hashlib; \
+p = hashlib.md5(open('/app/alma/parte2.py','rb').read()).hexdigest(); \
+o = hashlib.md5(open('/app/alma/oyente2.py','rb').read()).hexdigest(); \
+q = hashlib.md5(open('/app/alma/policy_pareja.py','rb').read()).hexdigest(); \
+assert p == '67ba0003234939c349af12be5764a3b0', ('parte2 ALTERADO', p); \
+assert o == '4e8b657f9168b0ffda5e411601b1aa14', ('oyente2 ALTERADO', o); \
+assert q == '796fc64229d047410fb351dfa61f871b', ('policy_pareja ALTERADO', q); \
+print('custodia OK parte2', p, 'oyente2', o, 'policy_pareja', q)"
+
+# CUSTODIA NUEVA [P6-6]: los dos arreglos y la politica que los engancha.
+RUN python -c "import hashlib; \
+o = hashlib.md5(open('/app/alma/oido5_P6_5.py','rb').read()).hexdigest(); \
+a = hashlib.md5(open('/app/alma/arreglos_P6_6.py','rb').read()).hexdigest(); \
+q = hashlib.md5(open('/app/alma/policy_pareja6.py','rb').read()).hexdigest(); \
+assert o == '4f7aa3b3ddc4fc32e4b47c1356974415', ('oido5 ALTERADO', o); \
+assert a == '4d10ea09333553ebf7d6ce0afdb73832', ('arreglos ALTERADO', a); \
+assert q == '933ad20fd7cc28dcf46c4b46eb741cab', ('policy_pareja6 ALTERADO', q); \
+print('custodia OK oido5', o, 'arreglos', a, 'policy_pareja6', q)"
+
+# CUSTODIA NUEVA [P6-8]
+RUN python -c "import hashlib; \
+a = hashlib.md5(open('/app/alma/arreglos_P6_8.py','rb').read()).hexdigest(); \
+q = hashlib.md5(open('/app/alma/policy_pareja8.py','rb').read()).hexdigest(); \
+assert a == 'f66355ca12b58b075d12f0e7f7ee39d0', ('arreglos_P6_8 ALTERADO', a); \
+assert q == '6f3aee13897bbe9510c61e27e19b05cf', ('policy_pareja8 ALTERADO', q); \
+print('custodia OK arreglos_P6_8', a, 'policy_pareja8', q)"
+
+# CUSTODIA NUEVA [P6-10]
+RUN python -c "import hashlib; \
+b = hashlib.md5(open('/app/alma/arreglos_P6_8b.py','rb').read()).hexdigest(); \
+f = hashlib.md5(open('/app/alma/filas10_P6_10.py','rb').read()).hexdigest(); \
+q = hashlib.md5(open('/app/alma/policy_pareja10.py','rb').read()).hexdigest(); \
+assert b == '5028b54d4afd8c7c82bc8e5e3a94a01e', ('arreglos_P6_8b ALTERADO', b); \
+assert f == 'af4617ad93a27838376df17d0c78b65c', ('filas10 ALTERADO', f); \
+assert q == 'f3b3292887b05c408c92c00f7595f521', ('policy_pareja10 ALTERADO', q); \
+print('custodia OK arreglos_P6_8b', b, 'filas10', f, 'policy_pareja10', q)"
+
+# CUSTODIA NUEVA [P6-11]
+RUN python -c "import hashlib; \
+m = hashlib.md5(open('/app/alma/amenaza11_P6_11.py','rb').read()).hexdigest(); \
+q = hashlib.md5(open('/app/alma/policy_pareja11.py','rb').read()).hexdigest(); \
+assert m == '9d493b05495f55316f29cbffa5561cdb', ('amenaza11 ALTERADO', m); \
+assert q == 'e7136f856e6c09dd033bb4658cd135ea', ('policy_pareja11 ALTERADO', q); \
+print('custodia OK amenaza11', m, 'policy_pareja11', q)"
+
+ENV PYTHONPATH=/app \
+    GEMV_MIEDO=0 \
+    GEMV_VIDA_AJENA=0 \
+    GEMV_VIDA_AJENA_M=0.25 \
+    GEMV_MEMORIA=/app/alma/memoria_aprendida_p95.json \
+    GEMV_CORTEX=0 \
+    GEMV_CORTEX_CUERPO=1 \
+    GEMV_CORTEX_MANUAL=M2 \
+    GEMV_CORTEX_CADA=50 \
+    GEMV_FORMA=0 \
+    GEMV_HILO_FORMA=0 \
+    GEMV_CONSEJERO_FORMA=0 \
+    GEMV_FORMAS_AZAR=0 \
+    GEMV_FORMA_CADA=250 \
+    GEMV_FORMA_SPEND_CADA=10 \
+    GEMV_CORTEX_TIMEOUT=25 \
+    GEMV_CURIOSIDAD= \
+    GEMV_CURIOSIDAD_K=0.2 \
+    GEMV_CURIOSIDAD_BALANZA=1 \
+    GEMV_CURIOSIDAD_FORMA=0 \
+    GEMV_CURIOSIDAD_CONSIGNA=0.5 \
+    GEMV_CURIOSIDAD_REFRACTARIO=50 \
+    GEMV_OJOS=0 \
+    GEMV_COMPANIA_TECHO=0.32
+
+# custodia: ninguna clave dentro de la imagen
+RUN python - <<'PYEOF'
+import os, re
+mal = []
+pat = re.compile(rb"sk-ant-[A-Za-z0-9_\-]{10,}")
+for base, _d, fs in os.walk("/app"):
+    for f in fs:
+        p = os.path.join(base, f)
+        try:
+            if pat.search(open(p, "rb").read()):
+                mal.append(p)
+        except Exception:
+            pass
+assert not mal, ("CLAVE DENTRO DE LA IMAGEN", mal)
+print("custodia OK: ninguna clave sk-ant- en /app")
+PYEOF
+
+# LOS HUMOS DEL CUATRO Y DEL CINCO
+RUN GEMV_CORTEX=0 python -u /app/alma/humo_cortex.py
+RUN GEMV_CORTEX=0 python -u /app/alma/humo_forma.py
+RUN GEMV_CORTEX=0 python -u /app/alma/humo_curiosidad.py
+RUN GEMV_CORTEX=0 python -u /app/alma/humo_curforma.py
+
+# [P6-3] LOS ONCE HUMOS DE LOS OJOS COMPARTIDOS, sobre un mundo REAL que viaja
+# dentro (`humo_mundo.jsonl`). Si alguno falla, el build se cae.
+RUN GEMV_CORTEX=0 python -u /app/alma/humo_P6_3.py
+
+# [P6-4] EL HUMO QUE FALTABA Y QUE COSTO DIEZ PARTIDAS: el bucle de red ENTERO
+# con GEMV_OJOS=1. Los once de P6-3 probaban las piezas por separado y ninguno
+# corria `run()` de punta a punta con los ojos encendidos; por eso no se vio
+# que `hand` de un agente AJENO es una CADENA y no un dict, y `appraisal`
+# reventaba con TypeError la primera vez que habia un objeto cerca.
+RUN GEMV_OJOS=1 GEMV_CORTEX=0 python -u /app/alma/humo_red_P6_4.py
+
+# [P6-6] EL HUMO DE RED CON LOS DOS ARREGLOS, con los ojos ENCENDIDOS. Mete
+# partes E2 del EMISOR DE PRODUCCION por el cable, quita del grabado los E1 del
+# hermano (si no, `mem.parte` podria venir de ellos y la prueba seria vacia) y
+# exige que al final `alma.mem.parte` NO sea None: el oido funciona de verdad.
+RUN GEMV_OJOS=1 GEMV_CORTEX=0 python -u /app/alma/humo_red_P6_6.py
+
+# [P6-6] Y el mismo bucle con los ojos APAGADOS: el brazo A0 tambien lleva los
+# arreglos, asi que tambien tiene que aguantar 200 observaciones sin un error.
+RUN GEMV_OJOS=0 GEMV_CORTEX=0 python -c "import sys, os, json, asyncio; \
+sys.path.insert(0,'/app'); sys.path.insert(0,'/app/alma'); \
+import arreglos_P6_6 as R6, policy_pareja as PP; \
+from alma import policy_cortex as PC; \
+h = R6.aplica(PP.AlmaPareja, PC.log); \
+assert h['oido'] and h['don'], h; \
+print('humo arreglos con ojos apagados OK:', h)"
+
+# [P6-8] EL HUMO DE RED CON LOS CUATRO ARREGLOS, ojos encendidos.
+RUN GEMV_OJOS=1 GEMV_CORTEX=0 python -u /app/alma/humo_red_P6_8.py
+
+# [P6-10] EL HUMO DE RED DE A3, ojos encendidos y la fila con su techo.
+RUN GEMV_OJOS=1 GEMV_CORTEX=0 python -u /app/alma/humo_red_P6_10.py
+
+# [P6-11] EL HUMO DE RED DE A4.
+RUN GEMV_OJOS=1 GEMV_CORTEX=0 python -u /app/alma/humo_red_P6_11.py
+
+# HUMO DE PAREADO: con GEMV_OJOS=0 la politica nueva importa y NO envuelve nada.
+RUN python -c "import sys; sys.path.insert(0,'/app'); sys.path.insert(0,'/app/alma'); \
+import os; os.environ['GEMV_OJOS']='0'; \
+from alma import policy_pareja as P; \
+assert P.OJOS_ON is False, 'la imagen NO viene con los ojos apagados'; \
+e = P.entorno_ojos(); \
+print('humo pareado OK: ojos', e['efectivo'])"
+
+CMD ["python", "-u", "/app/alma/policy_pareja11.py"]

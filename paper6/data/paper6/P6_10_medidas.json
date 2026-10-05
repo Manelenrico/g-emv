@@ -1,0 +1,745 @@
+{
+ "A3": {
+  "resumen": {
+   "etiqueta": "A3",
+   "vidas": 40,
+   "episodios": 20,
+   "vida_media": 13082.6,
+   "vida_mediana": 13009,
+   "golpes_ciegos_total": 0,
+   "golpes_ciegos_por_vida": 0.0,
+   "2c_tics_total": 239276,
+   "2c_tics_por_vida": 5981.9,
+   "los_dos_al_aviso": 18,
+   "los_dos_al_cierre": 18,
+   "sobrevive_el_otro_mediana": 425,
+   "disc_mediana": 0.0,
+   "disc_suma": 394.6,
+   "disc_s8_mediana": 0.0,
+   "disc_s8_suma": 297.1,
+   "n_disc": 7591,
+   "fam_pct": {
+    "cuerpo": 16.6,
+    "recursos": 29.4,
+    "vinculos": 53.9
+   },
+   "fam_neto": {
+    "cuerpo": 17.7,
+    "recursos": 111.1,
+    "vinculos": 216.4
+   },
+   "recuento": {
+    "episodios": 20,
+    "tics con inyeccion a10": 131046,
+    "tics con inyeccion a11": 130403,
+    "candidatos vetados": 82,
+    "partes E2 dichos": 20182,
+    "fallos de emision": 0
+   }
+  },
+  "vidas": [
+   {
+    "semilla": 20260916,
+    "slot": 10,
+    "tics": 14977,
+    "puesto": 2,
+    "razon": "match_over",
+    "golpes_ciegos": 0,
+    "vivo_al_aviso": true,
+    "vivo_al_cierre": true,
+    "tics_inyeccion": 3736
+   },
+   {
+    "semilla": 20260916,
+    "slot": 11,
+    "tics": 14977,
+    "puesto": 1,
+    "razon": "winner",
+    "golpes_ciegos": 0,
+    "vivo_al_aviso": true,
+    "vivo_al_cierre": true,
+    "tics_inyeccion": 4216
+   },
+   {
+    "semilla": 20365645,
+    "slot": 10,
+    "tics": 11281,
+    "puesto": 12,
+    "razon": "eliminated",
+    "golpes_ciegos": 0,
+    "vivo_al_aviso": true,
+    "vivo_al_cierre": true,
+    "tics_inyeccion": 4013
+   },
+   {
+    "semilla": 20365645,
+    "slot": 11,
+    "tics": 12138,
+    "puesto": 6,
+    "razon": "eliminated",
+    "golpes_ciegos": 0,
+    "vivo_al_aviso": true,
+    "vivo_al_cierre": true,
+    "tics_inyeccion": 7193
+   },
+   {
+    "semilla": 20470374,
+    "slot": 10,
+    "tics": 12913,
+    "puesto": 9,
+    "razon": "eliminated",
+    "golpes_ciegos": 0,
+    "vivo_al_aviso": true,
+    "vivo_al_cierre": true,
+    "tics_inyeccion": 6839
+   },
+   {
+    "semilla": 20470374,
+    "slot": 11,
+    "tics": 14689,
+    "puesto": 2,
+    "razon": "match_over",
+    "golpes_ciegos": 0,
+    "vivo_al_aviso": true,
+    "vivo_al_cierre": true,
+    "tics_inyeccion": 2208
+   },
+   {
+    "semilla": 20575103,
+    "slot": 10,
+    "tics": 2536,
+    "puesto": 14,
+    "razon": "eliminated",
+    "golpes_ciegos": 0,
+    "vivo_al_aviso": false,
+    "vivo_al_cierre": false,
+    "tics_inyeccion": 1546
+   },
+   {
+    "semilla": 20575103,
+    "slot": 11,
+    "tics": 12985,
+    "puesto": 6,
+    "razon": "eliminated",
+    "golpes_ciegos": 0,
+    "vivo_al_aviso": true,
+    "vivo_al_cierre": true,
+    "tics_inyeccion": 1626
+   },
+   {
+    "semilla": 20679832,
+    "slot": 10,
+    "tics": 14631,
+    "puesto": 3,
+    "razon": "eliminated",
+    "golpes_ciegos": 0,
+    "vivo_al_aviso": true,
+    "vivo_al_cierre": true,
+    "tics_inyeccion": 6747
+   },
+   {
+    "semilla": 20679832,
+    "slot": 11,
+    "tics": 12985,
+    "puesto": 6,
+    "razon": "eliminated",
+    "golpes_ciegos": 0,
+    "vivo_al_aviso": true,
+    "vivo_al_cierre": true,
+    "tics_inyeccion": 7055
+   },
+   {
+    "semilla": 20784561,
+    "slot": 10,
+    "tics": 14606,
+    "puesto": 4,
+    "razon": "eliminated",
+    "golpes_ciegos": 0,
+    "vivo_al_aviso": true,
+    "vivo_al_cierre": true,
+    "tics_inyeccion": 5928
+   },
+   {
+    "semilla": 20784561,
+    "slot": 11,
+    "tics": 14906,
+    "puesto": 2,
+    "razon": "match_over",
+    "golpes_ciegos": 0,
+    "vivo_al_aviso": true,
+    "vivo_al_cierre": true,
+    "tics_inyeccion": 5606
+   },
+   {
+    "semilla": 20889290,
+    "slot": 10,
+    "tics": 14953,
+    "puesto": 3,
+    "razon": "match_over",
+    "golpes_ciegos": 0,
+    "vivo_al_aviso": true,
+    "vivo_al_cierre": true,
+    "tics_inyeccion": 7376
+   },
+   {
+    "semilla": 20889290,
+    "slot": 11,
+    "tics": 14606,
+    "puesto": 4,
+    "razon": "eliminated",
+    "golpes_ciegos": 0,
+    "vivo_al_aviso": true,
+    "vivo_al_cierre": true,
+    "tics_inyeccion": 5773
+   },
+   {
+    "semilla": 20994019,
+    "slot": 10,
+    "tics": 14598,
+    "puesto": 6,
+    "razon": "eliminated",
+    "golpes_ciegos": 0,
+    "vivo_al_aviso": true,
+    "vivo_al_cierre": true,
+    "tics_inyeccion": 7673
+   },
+   {
+    "semilla": 20994019,
+    "slot": 11,
+    "tics": 14713,
+    "puesto": 4,
+    "razon": "eliminated",
+    "golpes_ciegos": 0,
+    "vivo_al_aviso": true,
+    "vivo_al_cierre": true,
+    "tics_inyeccion": 7375
+   },
+   {
+    "semilla": 21098748,
+    "slot": 10,
+    "tics": 12985,
+    "puesto": 8,
+    "razon": "eliminated",
+    "golpes_ciegos": 0,
+    "vivo_al_aviso": true,
+    "vivo_al_cierre": true,
+    "tics_inyeccion": 8506
+   },
+   {
+    "semilla": 21098748,
+    "slot": 11,
+    "tics": 13009,
+    "puesto": 7,
+    "razon": "eliminated",
+    "golpes_ciegos": 0,
+    "vivo_al_aviso": true,
+    "vivo_al_cierre": true,
+    "tics_inyeccion": 3726
+   },
+   {
+    "semilla": 21203477,
+    "slot": 10,
+    "tics": 14665,
+    "puesto": 2,
+    "razon": "match_over",
+    "golpes_ciegos": 0,
+    "vivo_al_aviso": true,
+    "vivo_al_cierre": true,
+    "tics_inyeccion": 5405
+   },
+   {
+    "semilla": 21203477,
+    "slot": 11,
+    "tics": 14665,
+    "puesto": 1,
+    "razon": "winner",
+    "golpes_ciegos": 0,
+    "vivo_al_aviso": true,
+    "vivo_al_cierre": true,
+    "tics_inyeccion": 10324
+   },
+   {
+    "semilla": 21308206,
+    "slot": 10,
+    "tics": 12985,
+    "puesto": 4,
+    "razon": "eliminated",
+    "golpes_ciegos": 0,
+    "vivo_al_aviso": true,
+    "vivo_al_cierre": true,
+    "tics_inyeccion": 10823
+   },
+   {
+    "semilla": 21308206,
+    "slot": 11,
+    "tics": 12817,
+    "puesto": 6,
+    "razon": "eliminated",
+    "golpes_ciegos": 0,
+    "vivo_al_aviso": true,
+    "vivo_al_cierre": true,
+    "tics_inyeccion": 9460
+   },
+   {
+    "semilla": 21412935,
+    "slot": 10,
+    "tics": 13009,
+    "puesto": 4,
+    "razon": "eliminated",
+    "golpes_ciegos": 0,
+    "vivo_al_aviso": true,
+    "vivo_al_cierre": true,
+    "tics_inyeccion": 10369
+   },
+   {
+    "semilla": 21412935,
+    "slot": 11,
+    "tics": 14665,
+    "puesto": 2,
+    "razon": "match_over",
+    "golpes_ciegos": 0,
+    "vivo_al_aviso": true,
+    "vivo_al_cierre": true,
+    "tics_inyeccion": 4175
+   },
+   {
+    "semilla": 21517664,
+    "slot": 10,
+    "tics": 14305,
+    "puesto": 5,
+    "razon": "eliminated",
+    "golpes_ciegos": 0,
+    "vivo_al_aviso": true,
+    "vivo_al_cierre": true,
+    "tics_inyeccion": 10510
+   },
+   {
+    "semilla": 21517664,
+    "slot": 11,
+    "tics": 13033,
+    "puesto": 6,
+    "razon": "eliminated",
+    "golpes_ciegos": 0,
+    "vivo_al_aviso": true,
+    "vivo_al_cierre": true,
+    "tics_inyeccion": 10342
+   },
+   {
+    "semilla": 21622393,
+    "slot": 10,
+    "tics": 13609,
+    "puesto": 5,
+    "razon": "eliminated",
+    "golpes_ciegos": 0,
+    "vivo_al_aviso": true,
+    "vivo_al_cierre": true,
+    "tics_inyeccion": 6922
+   },
+   {
+    "semilla": 21622393,
+    "slot": 11,
+    "tics": 13009,
+    "puesto": 6,
+    "razon": "eliminated",
+    "golpes_ciegos": 0,
+    "vivo_al_aviso": true,
+    "vivo_al_cierre": true,
+    "tics_inyeccion": 7192
+   },
+   {
+    "semilla": 21727122,
+    "slot": 10,
+    "tics": 12529,
+    "puesto": 7,
+    "razon": "eliminated",
+    "golpes_ciegos": 0,
+    "vivo_al_aviso": true,
+    "vivo_al_cierre": true,
+    "tics_inyeccion": 4807
+   },
+   {
+    "semilla": 21727122,
+    "slot": 11,
+    "tics": 13033,
+    "puesto": 4,
+    "razon": "eliminated",
+    "golpes_ciegos": 0,
+    "vivo_al_aviso": true,
+    "vivo_al_cierre": true,
+    "tics_inyeccion": 9279
+   },
+   {
+    "semilla": 21831851,
+    "slot": 10,
+    "tics": 14761,
+    "puesto": 3,
+    "razon": "eliminated",
+    "golpes_ciegos": 0,
+    "vivo_al_aviso": true,
+    "vivo_al_cierre": true,
+    "tics_inyeccion": 4804
+   },
+   {
+    "semilla": 21831851,
+    "slot": 11,
+    "tics": 14953,
+    "puesto": 1,
+    "razon": "winner",
+    "golpes_ciegos": 0,
+    "vivo_al_aviso": true,
+    "vivo_al_cierre": true,
+    "tics_inyeccion": 9907
+   },
+   {
+    "semilla": 21936580,
+    "slot": 10,
+    "tics": 12985,
+    "puesto": 2,
+    "razon": "match_over",
+    "golpes_ciegos": 0,
+    "vivo_al_aviso": true,
+    "vivo_al_cierre": true,
+    "tics_inyeccion": 8570
+   },
+   {
+    "semilla": 21936580,
+    "slot": 11,
+    "tics": 11973,
+    "puesto": 8,
+    "razon": "eliminated",
+    "golpes_ciegos": 0,
+    "vivo_al_aviso": true,
+    "vivo_al_cierre": true,
+    "tics_inyeccion": 8058
+   },
+   {
+    "semilla": 22041309,
+    "slot": 10,
+    "tics": 5128,
+    "puesto": 15,
+    "razon": "eliminated",
+    "golpes_ciegos": 0,
+    "vivo_al_aviso": false,
+    "vivo_al_cierre": false,
+    "tics_inyeccion": 4075
+   },
+   {
+    "semilla": 22041309,
+    "slot": 11,
+    "tics": 11928,
+    "puesto": 8,
+    "razon": "eliminated",
+    "golpes_ciegos": 0,
+    "vivo_al_aviso": true,
+    "vivo_al_cierre": true,
+    "tics_inyeccion": 3549
+   },
+   {
+    "semilla": 22146038,
+    "slot": 10,
+    "tics": 12601,
+    "puesto": 6,
+    "razon": "eliminated",
+    "golpes_ciegos": 0,
+    "vivo_al_aviso": true,
+    "vivo_al_cierre": true,
+    "tics_inyeccion": 8310
+   },
+   {
+    "semilla": 22146038,
+    "slot": 11,
+    "tics": 12601,
+    "puesto": 5,
+    "razon": "eliminated",
+    "golpes_ciegos": 0,
+    "vivo_al_aviso": true,
+    "vivo_al_cierre": true,
+    "tics_inyeccion": 7826
+   },
+   {
+    "semilla": 22250767,
+    "slot": 10,
+    "tics": 12649,
+    "puesto": 5,
+    "razon": "eliminated",
+    "golpes_ciegos": 0,
+    "vivo_al_aviso": true,
+    "vivo_al_cierre": true,
+    "tics_inyeccion": 4087
+   },
+   {
+    "semilla": 22250767,
+    "slot": 11,
+    "tics": 12913,
+    "puesto": 4,
+    "razon": "eliminated",
+    "golpes_ciegos": 0,
+    "vivo_al_aviso": true,
+    "vivo_al_cierre": true,
+    "tics_inyeccion": 5513
+   }
+  ],
+  "por_semilla": {
+   "20260916": {
+    "tics": {
+     "10": 14977,
+     "11": 14977
+    },
+    "2c_tics": 4880,
+    "golpes_ciegos": 0,
+    "los_dos_al_aviso": true,
+    "los_dos_al_cierre": true,
+    "primero": 10,
+    "sobrevive_el_otro": 0,
+    "tics_inyeccion": 7952
+   },
+   "20365645": {
+    "tics": {
+     "10": 11281,
+     "11": 12138
+    },
+    "2c_tics": 5365,
+    "golpes_ciegos": 0,
+    "los_dos_al_aviso": true,
+    "los_dos_al_cierre": true,
+    "primero": 10,
+    "sobrevive_el_otro": 857,
+    "tics_inyeccion": 11206
+   },
+   "20470374": {
+    "tics": {
+     "10": 12913,
+     "11": 14689
+    },
+    "2c_tics": 2591,
+    "golpes_ciegos": 0,
+    "los_dos_al_aviso": true,
+    "los_dos_al_cierre": true,
+    "primero": 10,
+    "sobrevive_el_otro": 1776,
+    "tics_inyeccion": 9047
+   },
+   "20575103": {
+    "tics": {
+     "10": 2536,
+     "11": 12985
+    },
+    "2c_tics": 427,
+    "golpes_ciegos": 0,
+    "los_dos_al_aviso": false,
+    "los_dos_al_cierre": false,
+    "primero": 10,
+    "sobrevive_el_otro": 10449,
+    "tics_inyeccion": 3172
+   },
+   "20679832": {
+    "tics": {
+     "10": 14631,
+     "11": 12985
+    },
+    "2c_tics": 15812,
+    "golpes_ciegos": 0,
+    "los_dos_al_aviso": true,
+    "los_dos_al_cierre": true,
+    "primero": 11,
+    "sobrevive_el_otro": 1646,
+    "tics_inyeccion": 13802
+   },
+   "20784561": {
+    "tics": {
+     "10": 14606,
+     "11": 14906
+    },
+    "2c_tics": 7555,
+    "golpes_ciegos": 0,
+    "los_dos_al_aviso": true,
+    "los_dos_al_cierre": true,
+    "primero": 10,
+    "sobrevive_el_otro": 300,
+    "tics_inyeccion": 11534
+   },
+   "20889290": {
+    "tics": {
+     "10": 14953,
+     "11": 14606
+    },
+    "2c_tics": 4678,
+    "golpes_ciegos": 0,
+    "los_dos_al_aviso": true,
+    "los_dos_al_cierre": true,
+    "primero": 11,
+    "sobrevive_el_otro": 347,
+    "tics_inyeccion": 13149
+   },
+   "20994019": {
+    "tics": {
+     "10": 14598,
+     "11": 14713
+    },
+    "2c_tics": 9682,
+    "golpes_ciegos": 0,
+    "los_dos_al_aviso": true,
+    "los_dos_al_cierre": true,
+    "primero": 10,
+    "sobrevive_el_otro": 115,
+    "tics_inyeccion": 15048
+   },
+   "21098748": {
+    "tics": {
+     "10": 12985,
+     "11": 13009
+    },
+    "2c_tics": 5415,
+    "golpes_ciegos": 0,
+    "los_dos_al_aviso": true,
+    "los_dos_al_cierre": true,
+    "primero": 10,
+    "sobrevive_el_otro": 24,
+    "tics_inyeccion": 12232
+   },
+   "21203477": {
+    "tics": {
+     "10": 14665,
+     "11": 14665
+    },
+    "2c_tics": 13625,
+    "golpes_ciegos": 0,
+    "los_dos_al_aviso": true,
+    "los_dos_al_cierre": true,
+    "primero": 10,
+    "sobrevive_el_otro": 0,
+    "tics_inyeccion": 15729
+   },
+   "21308206": {
+    "tics": {
+     "10": 12985,
+     "11": 12817
+    },
+    "2c_tics": 11762,
+    "golpes_ciegos": 0,
+    "los_dos_al_aviso": true,
+    "los_dos_al_cierre": true,
+    "primero": 11,
+    "sobrevive_el_otro": 168,
+    "tics_inyeccion": 20283
+   },
+   "21412935": {
+    "tics": {
+     "10": 13009,
+     "11": 14665
+    },
+    "2c_tics": 9543,
+    "golpes_ciegos": 0,
+    "los_dos_al_aviso": true,
+    "los_dos_al_cierre": true,
+    "primero": 10,
+    "sobrevive_el_otro": 1656,
+    "tics_inyeccion": 14544
+   },
+   "21517664": {
+    "tics": {
+     "10": 14305,
+     "11": 13033
+    },
+    "2c_tics": 58265,
+    "golpes_ciegos": 0,
+    "los_dos_al_aviso": true,
+    "los_dos_al_cierre": true,
+    "primero": 11,
+    "sobrevive_el_otro": 1272,
+    "tics_inyeccion": 20852
+   },
+   "21622393": {
+    "tics": {
+     "10": 13609,
+     "11": 13009
+    },
+    "2c_tics": 30197,
+    "golpes_ciegos": 0,
+    "los_dos_al_aviso": true,
+    "los_dos_al_cierre": true,
+    "primero": 11,
+    "sobrevive_el_otro": 600,
+    "tics_inyeccion": 14114
+   },
+   "21727122": {
+    "tics": {
+     "10": 12529,
+     "11": 13033
+    },
+    "2c_tics": 4115,
+    "golpes_ciegos": 0,
+    "los_dos_al_aviso": true,
+    "los_dos_al_cierre": true,
+    "primero": 10,
+    "sobrevive_el_otro": 504,
+    "tics_inyeccion": 14086
+   },
+   "21831851": {
+    "tics": {
+     "10": 14761,
+     "11": 14953
+    },
+    "2c_tics": 6955,
+    "golpes_ciegos": 0,
+    "los_dos_al_aviso": true,
+    "los_dos_al_cierre": true,
+    "primero": 10,
+    "sobrevive_el_otro": 192,
+    "tics_inyeccion": 14711
+   },
+   "21936580": {
+    "tics": {
+     "10": 12985,
+     "11": 11973
+    },
+    "2c_tics": 5913,
+    "golpes_ciegos": 0,
+    "los_dos_al_aviso": true,
+    "los_dos_al_cierre": true,
+    "primero": 11,
+    "sobrevive_el_otro": 1012,
+    "tics_inyeccion": 16628
+   },
+   "22041309": {
+    "tics": {
+     "10": 5128,
+     "11": 11928
+    },
+    "2c_tics": 18699,
+    "golpes_ciegos": 0,
+    "los_dos_al_aviso": false,
+    "los_dos_al_cierre": false,
+    "primero": 10,
+    "sobrevive_el_otro": 6800,
+    "tics_inyeccion": 7624
+   },
+   "22146038": {
+    "tics": {
+     "10": 12601,
+     "11": 12601
+    },
+    "2c_tics": 15342,
+    "golpes_ciegos": 0,
+    "los_dos_al_aviso": true,
+    "los_dos_al_cierre": true,
+    "primero": 10,
+    "sobrevive_el_otro": 0,
+    "tics_inyeccion": 16136
+   },
+   "22250767": {
+    "tics": {
+     "10": 12649,
+     "11": 12913
+    },
+    "2c_tics": 8455,
+    "golpes_ciegos": 0,
+    "los_dos_al_aviso": true,
+    "los_dos_al_cierre": true,
+    "primero": 10,
+    "sobrevive_el_otro": 264,
+    "tics_inyeccion": 9600
+   }
+  }
+ }
+}

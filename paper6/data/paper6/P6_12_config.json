@@ -1,0 +1,353 @@
+{
+ "S-COMPANIA": {
+  "D0_casillas_camino": 7,
+  "TECHO": 0.32,
+  "CALMA_K": 2.0,
+  "rango": "D0*(1+CALMA_K*calma), calma = 1 - max(F-4-ALCANCE, S-7-AGRESOR, F-HERMANO-AMENAZA, F-HERMANO-GOLPE)",
+  "M": "TECHO*min(1,(d-D0)/rango) si d>D0 (d = camino a la posicion real: vista o parte fresco)",
+  "reparto": [
+   0.1,
+   0.1,
+   0.8
+  ],
+  "activa": "siempre (sin gate de calma ni de anillo); veto de Bloqueos manda",
+  "fuente": "filas10_P6_10.py"
+ },
+ "S-SOLEDAD": {
+  "tocada": false,
+  "condicion": "la del cinco: (1-P)*rampa, P=1 vista, 0.5 oida <3 s; ticks_sin_compania se pone a 0 al ver o al oir; con el hermano vivo y el parte cada 25 tics vale 0 (P6-9 § 4); se enciende con el hermano muerto",
+  "SOLEDAD_TECHO": 0.5,
+  "SOLEDAD_RAMPA_S": 30.0,
+  "reparto": [
+   0.1,
+   0.1,
+   0.8
+  ]
+ },
+ "armas_virtuales": {
+  "~manos": {
+   "kind": "ikMelee",
+   "damage": 3,
+   "range": 1,
+   "cuando": "hostil visible o contado con la mano vacia"
+  },
+  "~manos_pegando": {
+   "kind": "ikMelee",
+   "damage": "mundo.dmg_ref (= 18, la espada)",
+   "range": 1,
+   "cuando": "ese hostil me pega (mem.agresores en la ventana S-7) o es el agresor del parte fresco del hermano"
+  },
+  "AGRESOR_VENTANA_S": 5.0,
+  "fuente": "amenaza11_P6_11.py"
+ },
+ "oyente2": {
+  "CADUCIDAD_RIVAL": 50,
+  "UMBRAL_REC": 0.3,
+  "EDAD_MAX_RECURSO": 86
+ },
+ "don_lo_dado_dado_esta": {
+  "N": "min(d*coste_movimiento(speed) + MARGEN_TICS, CESION_CADUCA_S*tick_rate)",
+  "MARGEN_TICS": 268,
+  "CESION_CADUCA_S": 30.0,
+  "tope_tics_a_24": 720,
+  "coste_por_casilla_speed5": 11,
+  "fuente": "arreglos_P6_6.py"
+ },
+ "empatia_policy_cortex_93_96": {
+  "EMPATIA_ON": true,
+  "H_PREV": 0.25,
+  "H_GOLPE": 1.0,
+  "MIEDO_ON": false,
+  "VIDA_AJENA_ON": false,
+  "D.A": "alma.appraisal_zs_v42_exp"
+ },
+ "parte": {
+  "E2_CADA_tics": 25,
+  "E2_CADUCIDAD": 96,
+  "E2_MAX_CHARS": 120,
+  "E1_CADA_tics_si_ojos_off": 48,
+  "E1_CADUCIDAD": 96,
+  "gemelo_E1": "oido5_P6_5.gemelo: por cada E2 del hermano se anade al chat una copia con la cabeza traducida a E1, validada con parte.parsea"
+ },
+ "arreglos_P6_8b": {
+  "ir_pareja_al_parte": true,
+  "mochila_llena": true
+ },
+ "ojos": {
+  "OJOS": true,
+  "CADA": 25,
+  "MAX_CHARS": 120,
+  "CADUCIDAD_RIVAL": 50,
+  "UMBRAL_REC": 0.3,
+  "EDAD_MAX_RECURSO": 86
+ },
+ "constitucion": {
+  "intelligence": 8,
+  "athleticism": 6,
+  "speed": 5,
+  "strength": 1
+ },
+ "mundo": {
+  "coworld_version": "0.1.19",
+  "coworld_id": "cow_6a55df20-08d1-4e4c-adba-33dbd97e1e6f",
+  "coworld_name": "zero-sum",
+  "variant": "competition",
+  "league_id": "league_6764202e-2ac1-4c98-a77e-cabc75582939",
+  "roster": {
+   "archivo": "cantera/paper6/roster_lento_v2_PROPUESTA.json",
+   "md5": "3eb7dd60d8f43be2751b0325945a3f27",
+   "rivales": [
+    [
+     "458ec0b6-fc59-4bda-aff0-68daa7f21b79",
+     "belobog",
+     5
+    ],
+    [
+     "6244cdeb-e044-42ff-91e3-a5c716c4338d",
+     "zero-sum-scavenger",
+     5
+    ],
+    [
+     "9457da2a-832d-45e5-b918-9209e86f9948",
+     "aaron-zs-fable",
+     2
+    ],
+    [
+     "2b9cfd17-db50-4990-8f99-6c7c13453f61",
+     "zs-patient",
+     1
+    ],
+    [
+     "3e8097e1-85b8-4731-b7c1-e674f2ccbd10",
+     "skourehjan-zero-sum-scripted-v1",
+     1
+    ]
+   ]
+  },
+  "game_config_overrides": {
+   "max_ticks": 18240,
+   "freeze_ticks": 480,
+   "stat_budget": 20,
+   "zone": {
+    "schedule": [
+     [
+      7296,
+      7536,
+      8076,
+      24,
+      19,
+      1
+     ],
+     [
+      8436,
+      8676,
+      9216,
+      19,
+      15,
+      2
+     ],
+     [
+      9576,
+      9816,
+      10356,
+      15,
+      11,
+      4
+     ],
+     [
+      10716,
+      10956,
+      11496,
+      11,
+      8,
+      6
+     ],
+     [
+      11856,
+      12096,
+      12636,
+      8,
+      5,
+      8
+     ],
+     [
+      12996,
+      13236,
+      13776,
+      5,
+      3,
+      16
+     ],
+     [
+      14136,
+      14376,
+      14916,
+      3,
+      0,
+      24
+     ]
+    ]
+   },
+   "sponsor": {
+    "live": false,
+    "budget_per_team": 600,
+    "shop_opens_tick": 1680,
+    "scripted_gifts": [
+     {
+      "team": "A",
+      "tick": 2016,
+      "item_id": "rations",
+      "recipient_slot": 0
+     },
+     {
+      "team": "A",
+      "tick": 4608,
+      "item_id": "first_aid",
+      "recipient_slot": 1
+     },
+     {
+      "team": "B",
+      "tick": 2040,
+      "item_id": "rations",
+      "recipient_slot": 2
+     },
+     {
+      "team": "B",
+      "tick": 4632,
+      "item_id": "first_aid",
+      "recipient_slot": 3
+     },
+     {
+      "team": "C",
+      "tick": 2064,
+      "item_id": "rations",
+      "recipient_slot": 4
+     },
+     {
+      "team": "C",
+      "tick": 4656,
+      "item_id": "first_aid",
+      "recipient_slot": 5
+     },
+     {
+      "team": "D",
+      "tick": 2088,
+      "item_id": "rations",
+      "recipient_slot": 6
+     },
+     {
+      "team": "D",
+      "tick": 4680,
+      "item_id": "first_aid",
+      "recipient_slot": 7
+     },
+     {
+      "team": "E",
+      "tick": 2112,
+      "item_id": "rations",
+      "recipient_slot": 8
+     },
+     {
+      "team": "E",
+      "tick": 4704,
+      "item_id": "first_aid",
+      "recipient_slot": 9
+     },
+     {
+      "team": "F",
+      "tick": 2136,
+      "item_id": "rations",
+      "recipient_slot": 10
+     },
+     {
+      "team": "F",
+      "tick": 4728,
+      "item_id": "first_aid",
+      "recipient_slot": 11
+     },
+     {
+      "team": "G",
+      "tick": 2160,
+      "item_id": "rations",
+      "recipient_slot": 12
+     },
+     {
+      "team": "G",
+      "tick": 4752,
+      "item_id": "first_aid",
+      "recipient_slot": 13
+     },
+     {
+      "team": "H",
+      "tick": 2184,
+      "item_id": "rations",
+      "recipient_slot": 14
+     },
+     {
+      "team": "H",
+      "tick": 4776,
+      "item_id": "first_aid",
+      "recipient_slot": 15
+     }
+    ]
+   }
+  },
+  "base": "cantera/paper5/roster_lento_v1.json",
+  "asientos": [
+   10,
+   11
+  ],
+  "politica_A4": "b4e322cf-7390-4e01-b8a8-b854398e647f",
+  "semillas_S2_20": [
+   20260916,
+   20365645,
+   20470374,
+   20575103,
+   20679832,
+   20784561,
+   20889290,
+   20994019,
+   21098748,
+   21203477,
+   21308206,
+   21412935,
+   21517664,
+   21622393,
+   21727122,
+   21831851,
+   21936580,
+   22041309,
+   22146038,
+   22250767
+  ],
+  "semillas_jugadas_A4": [
+   20260916,
+   20365645,
+   20470374,
+   20575103,
+   20679832,
+   20784561,
+   20889290,
+   20994019,
+   21098748,
+   21203477,
+   21308206,
+   21412935,
+   21517664,
+   21622393,
+   21727122,
+   21831851,
+   21936580,
+   22041309,
+   22146038,
+   22250767
+  ],
+  "iguales": true
+ },
+ "imagen": {
+  "dockerfile": "cantera/paper6/Dockerfile.pareja11",
+  "md5": "98040b3b288b6d71904a5cf56e2d76f9",
+  "CMD": "python -u /app/alma/policy_pareja11.py",
+  "run": "GEMV_OJOS=1 GEMV_COMPANIA_TECHO=0.32"
+ }
+}

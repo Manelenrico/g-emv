@@ -1,0 +1,1051 @@
+{
+ "A3": {
+  "recuento": {
+   "partidas": 20,
+   "1a · tics con F-HERMANO-AMENAZA": 102856,
+   "1a · solo VISTO": 77129,
+   "1b · elegido noop": 78709,
+   "1b · se queda quieto (do none)": 80628,
+   "1b · elegido move": 18732,
+   "1b · pasos (intencion move)": 21799,
+   "1b · paso ALEJA del hermano": 2242,
+   "1b · paso neutro al hostil": 13175,
+   "1b · paso ACERCA al hermano": 16902,
+   "1b · paso ALEJA del hostil": 6656,
+   "1b · paso neutro al hermano": 2655,
+   "1b · paso ACERCA al hostil": 1968,
+   "1b · elegido ir": 4227,
+   "1a · solo CONTADO": 24622,
+   "1b · (solo contado) paso neutro": 349,
+   "1a · ambos": 1105,
+   "1b · elegido paso": 759,
+   "1b · elegido atacar": 89,
+   "1b · (solo contado) paso ALEJA del hostil": 980,
+   "1b · (solo contado) paso ACERCA al hostil": 386,
+   "2 · tics×rival contado": 380844,
+   "2 · rival contado YA MOVIDO (certificado)": 122071,
+   "2 · certificado por: hermano lo ve en OTRA casilla": 66207,
+   "2 · paso que va HACIA la casilla vacia": 2875,
+   "2 · tics comprometidos (pasos × coste)": 63107,
+   "2 · certificado por: casilla dicha a mi vista y VACIA": 55864,
+   "2 · paso que se APARTA de la casilla vacia": 2862,
+   "2 · ...y recibe golpe de rival en 48 tics (va HACIA la casilla vacia)": 124,
+   "1b · elegido coger": 278,
+   "1b · elegido soltar": 18,
+   "1b · elegido usar": 43,
+   "2 · ...y recibe golpe de rival en 48 tics (se APARTA de la casilla vacia)": 52,
+   "1b · elegido ponerse": 1
+  },
+  "vidas": [
+   {
+    "brazo": "A3",
+    "slot": 10,
+    "muere": false,
+    "tic": 14976,
+    "causa": "sobrevive",
+    "semilla": "20260916"
+   },
+   {
+    "brazo": "A3",
+    "slot": 11,
+    "muere": false,
+    "tic": 14976,
+    "causa": "sobrevive",
+    "semilla": "20260916"
+   },
+   {
+    "brazo": "A3",
+    "slot": 10,
+    "muere": true,
+    "tic": 11281,
+    "causa": "anillo",
+    "fuente": "zone",
+    "dist_hermano": 2,
+    "hermano_vivo": true,
+    "ult200": {
+     "tics": 200,
+     "elegido": {
+      "noop": 182,
+      "ir": 18
+     },
+     "F-HERMANO-AMENAZA on": 200,
+     "F-DANO on": 200,
+     "S-7-AGRESOR on": 0,
+     "tics con rival contado": 138,
+     "pasos": 18,
+     "pasos hacia contado": 6,
+     "pasos hacia visto armado": 8,
+     "pasos hacia hermano": 6,
+     "golpes": {
+      "zone": 7
+     }
+    },
+    "semilla": "20365645"
+   },
+   {
+    "brazo": "A3",
+    "slot": 11,
+    "muere": true,
+    "tic": 12138,
+    "causa": "no consta",
+    "fuente": null,
+    "dist_hermano": null,
+    "hermano_vivo": false,
+    "ult200": {
+     "tics": 200,
+     "elegido": {
+      "noop": 175,
+      "ir": 8,
+      "paso": 4,
+      "coger": 7,
+      "move": 6
+     },
+     "F-HERMANO-AMENAZA on": 0,
+     "F-DANO on": 200,
+     "S-7-AGRESOR on": 70,
+     "tics con rival contado": 0,
+     "pasos": 18,
+     "pasos hacia contado": 0,
+     "pasos hacia visto armado": 0,
+     "pasos hacia hermano": 0,
+     "golpes": {
+      "P14": 1
+     }
+    },
+    "semilla": "20365645"
+   },
+   {
+    "brazo": "A3",
+    "slot": 10,
+    "muere": true,
+    "tic": 12913,
+    "causa": "anillo",
+    "fuente": "zone",
+    "dist_hermano": 4,
+    "hermano_vivo": true,
+    "ult200": {
+     "tics": 200,
+     "elegido": {
+      "noop": 187,
+      "ir": 3,
+      "paso": 5,
+      "usar": 4,
+      "coger": 1
+     },
+     "F-HERMANO-AMENAZA on": 0,
+     "F-DANO on": 200,
+     "S-7-AGRESOR on": 0,
+     "tics con rival contado": 171,
+     "pasos": 8,
+     "pasos hacia contado": 1,
+     "pasos hacia visto armado": 0,
+     "pasos hacia hermano": 3,
+     "golpes": {
+      "zone": 8
+     }
+    },
+    "semilla": "20470374"
+   },
+   {
+    "brazo": "A3",
+    "slot": 11,
+    "muere": false,
+    "tic": 14688,
+    "causa": "sobrevive",
+    "semilla": "20470374"
+   },
+   {
+    "brazo": "A3",
+    "slot": 10,
+    "muere": true,
+    "tic": 2536,
+    "causa": "rival VISTO",
+    "fuente": "P15",
+    "dist_hermano": 1,
+    "hermano_vivo": true,
+    "ult200": {
+     "tics": 200,
+     "elegido": {
+      "move": 200
+     },
+     "F-HERMANO-AMENAZA on": 200,
+     "F-DANO on": 200,
+     "S-7-AGRESOR on": 200,
+     "tics con rival contado": 147,
+     "pasos": 200,
+     "pasos hacia contado": 125,
+     "pasos hacia visto armado": 0,
+     "pasos hacia hermano": 197,
+     "golpes": {
+      "P15": 16
+     }
+    },
+    "semilla": "20575103"
+   },
+   {
+    "brazo": "A3",
+    "slot": 11,
+    "muere": true,
+    "tic": 12985,
+    "causa": "anillo",
+    "fuente": "zone",
+    "dist_hermano": null,
+    "hermano_vivo": false,
+    "ult200": {
+     "tics": 200,
+     "elegido": {
+      "ir": 10,
+      "noop": 181,
+      "move": 9
+     },
+     "F-HERMANO-AMENAZA on": 0,
+     "F-DANO on": 200,
+     "S-7-AGRESOR on": 0,
+     "tics con rival contado": 0,
+     "pasos": 19,
+     "pasos hacia contado": 0,
+     "pasos hacia visto armado": 0,
+     "pasos hacia hermano": 0,
+     "golpes": {
+      "zone": 8
+     }
+    },
+    "semilla": "20575103"
+   },
+   {
+    "brazo": "A3",
+    "slot": 10,
+    "muere": true,
+    "tic": 14631,
+    "causa": "rival VISTO",
+    "fuente": "P14",
+    "dist_hermano": null,
+    "hermano_vivo": false,
+    "ult200": {
+     "tics": 200,
+     "elegido": {
+      "noop": 178,
+      "ir": 17,
+      "atacar": 4,
+      "paso": 1
+     },
+     "F-HERMANO-AMENAZA on": 0,
+     "F-DANO on": 200,
+     "S-7-AGRESOR on": 73,
+     "tics con rival contado": 0,
+     "pasos": 18,
+     "pasos hacia contado": 0,
+     "pasos hacia visto armado": 0,
+     "pasos hacia hermano": 0,
+     "golpes": {
+      "P8": 6,
+      "zone": 1,
+      "P14": 3
+     }
+    },
+    "semilla": "20679832"
+   },
+   {
+    "brazo": "A3",
+    "slot": 11,
+    "muere": true,
+    "tic": 12985,
+    "causa": "anillo",
+    "fuente": "zone",
+    "dist_hermano": 1,
+    "hermano_vivo": true,
+    "ult200": {
+     "tics": 200,
+     "elegido": {
+      "noop": 186,
+      "paso": 4,
+      "ir": 10
+     },
+     "F-HERMANO-AMENAZA on": 0,
+     "F-DANO on": 200,
+     "S-7-AGRESOR on": 0,
+     "tics con rival contado": 147,
+     "pasos": 14,
+     "pasos hacia contado": 3,
+     "pasos hacia visto armado": 0,
+     "pasos hacia hermano": 6,
+     "golpes": {
+      "zone": 8
+     }
+    },
+    "semilla": "20679832"
+   },
+   {
+    "brazo": "A3",
+    "slot": 10,
+    "muere": true,
+    "tic": 14606,
+    "causa": "rival VISTO",
+    "fuente": "P8",
+    "dist_hermano": 1,
+    "hermano_vivo": true,
+    "ult200": {
+     "tics": 200,
+     "elegido": {
+      "noop": 154,
+      "ir": 45,
+      "paso": 1
+     },
+     "F-HERMANO-AMENAZA on": 0,
+     "F-DANO on": 200,
+     "S-7-AGRESOR on": 36,
+     "tics con rival contado": 0,
+     "pasos": 15,
+     "pasos hacia contado": 0,
+     "pasos hacia visto armado": 0,
+     "pasos hacia hermano": 1,
+     "golpes": {
+      "P7": 3,
+      "P8": 3
+     }
+    },
+    "semilla": "20784561"
+   },
+   {
+    "brazo": "A3",
+    "slot": 11,
+    "muere": false,
+    "tic": 14905,
+    "causa": "sobrevive",
+    "semilla": "20784561"
+   },
+   {
+    "brazo": "A3",
+    "slot": 10,
+    "muere": false,
+    "tic": 14952,
+    "causa": "sobrevive",
+    "semilla": "20889290"
+   },
+   {
+    "brazo": "A3",
+    "slot": 11,
+    "muere": true,
+    "tic": 14606,
+    "causa": "rival VISTO",
+    "fuente": "P9",
+    "dist_hermano": 1,
+    "hermano_vivo": true,
+    "ult200": {
+     "tics": 200,
+     "elegido": {
+      "noop": 194,
+      "ir": 2,
+      "atacar": 4
+     },
+     "F-HERMANO-AMENAZA on": 200,
+     "F-DANO on": 200,
+     "S-7-AGRESOR on": 48,
+     "tics con rival contado": 0,
+     "pasos": 0,
+     "pasos hacia contado": 0,
+     "pasos hacia visto armado": 0,
+     "pasos hacia hermano": 0,
+     "golpes": {
+      "P9": 4
+     }
+    },
+    "semilla": "20889290"
+   },
+   {
+    "brazo": "A3",
+    "slot": 10,
+    "muere": true,
+    "tic": 14598,
+    "causa": "rival VISTO",
+    "fuente": "P8",
+    "dist_hermano": 1,
+    "hermano_vivo": true,
+    "ult200": {
+     "tics": 200,
+     "elegido": {
+      "ir": 188,
+      "usar": 1,
+      "noop": 11
+     },
+     "F-HERMANO-AMENAZA on": 200,
+     "F-DANO on": 200,
+     "S-7-AGRESOR on": 40,
+     "tics con rival contado": 0,
+     "pasos": 0,
+     "pasos hacia contado": 0,
+     "pasos hacia visto armado": 0,
+     "pasos hacia hermano": 0,
+     "golpes": {
+      "P3": 3,
+      "P5": 4,
+      "P7": 2,
+      "P8": 4
+     }
+    },
+    "semilla": "20994019"
+   },
+   {
+    "brazo": "A3",
+    "slot": 11,
+    "muere": true,
+    "tic": 14713,
+    "causa": "anillo",
+    "fuente": "zone",
+    "dist_hermano": null,
+    "hermano_vivo": false,
+    "ult200": {
+     "tics": 200,
+     "elegido": {
+      "ir": 74,
+      "move": 8,
+      "atacar": 1,
+      "noop": 115,
+      "usar": 2
+     },
+     "F-HERMANO-AMENAZA on": 70,
+     "F-DANO on": 120,
+     "S-7-AGRESOR on": 15,
+     "tics con rival contado": 0,
+     "pasos": 12,
+     "pasos hacia contado": 0,
+     "pasos hacia visto armado": 1,
+     "pasos hacia hermano": 1,
+     "golpes": {
+      "zone": 5
+     }
+    },
+    "semilla": "20994019"
+   },
+   {
+    "brazo": "A3",
+    "slot": 10,
+    "muere": true,
+    "tic": 12985,
+    "causa": "anillo",
+    "fuente": "zone",
+    "dist_hermano": 2,
+    "hermano_vivo": true,
+    "ult200": {
+     "tics": 200,
+     "elegido": {
+      "noop": 178,
+      "paso": 6,
+      "usar": 4,
+      "ir": 5,
+      "move": 7
+     },
+     "F-HERMANO-AMENAZA on": 115,
+     "F-DANO on": 200,
+     "S-7-AGRESOR on": 0,
+     "tics con rival contado": 125,
+     "pasos": 18,
+     "pasos hacia contado": 7,
+     "pasos hacia visto armado": 0,
+     "pasos hacia hermano": 8,
+     "golpes": {
+      "zone": 8
+     }
+    },
+    "semilla": "21098748"
+   },
+   {
+    "brazo": "A3",
+    "slot": 11,
+    "muere": true,
+    "tic": 13009,
+    "causa": "anillo",
+    "fuente": "zone",
+    "dist_hermano": null,
+    "hermano_vivo": false,
+    "ult200": {
+     "tics": 200,
+     "elegido": {
+      "noop": 181,
+      "usar": 1,
+      "ir": 11,
+      "soltar": 2,
+      "move": 5
+     },
+     "F-HERMANO-AMENAZA on": 100,
+     "F-DANO on": 200,
+     "S-7-AGRESOR on": 0,
+     "tics con rival contado": 49,
+     "pasos": 16,
+     "pasos hacia contado": 0,
+     "pasos hacia visto armado": 2,
+     "pasos hacia hermano": 6,
+     "golpes": {
+      "zone": 7
+     }
+    },
+    "semilla": "21098748"
+   },
+   {
+    "brazo": "A3",
+    "slot": 10,
+    "muere": false,
+    "tic": 14664,
+    "causa": "sobrevive",
+    "semilla": "21203477"
+   },
+   {
+    "brazo": "A3",
+    "slot": 11,
+    "muere": false,
+    "tic": 14664,
+    "causa": "sobrevive",
+    "semilla": "21203477"
+   },
+   {
+    "brazo": "A3",
+    "slot": 10,
+    "muere": true,
+    "tic": 12985,
+    "causa": "anillo",
+    "fuente": "zone",
+    "dist_hermano": null,
+    "hermano_vivo": false,
+    "ult200": {
+     "tics": 200,
+     "elegido": {
+      "noop": 181,
+      "move": 7,
+      "ir": 12
+     },
+     "F-HERMANO-AMENAZA on": 0,
+     "F-DANO on": 200,
+     "S-7-AGRESOR on": 0,
+     "tics con rival contado": 27,
+     "pasos": 19,
+     "pasos hacia contado": 3,
+     "pasos hacia visto armado": 8,
+     "pasos hacia hermano": 1,
+     "golpes": {
+      "zone": 8
+     }
+    },
+    "semilla": "21308206"
+   },
+   {
+    "brazo": "A3",
+    "slot": 11,
+    "muere": true,
+    "tic": 12817,
+    "causa": "anillo",
+    "fuente": "zone",
+    "dist_hermano": 1,
+    "hermano_vivo": true,
+    "ult200": {
+     "tics": 200,
+     "elegido": {
+      "ir": 15,
+      "noop": 175,
+      "move": 4,
+      "coger": 5,
+      "soltar": 1
+     },
+     "F-HERMANO-AMENAZA on": 7,
+     "F-DANO on": 200,
+     "S-7-AGRESOR on": 125,
+     "tics con rival contado": 113,
+     "pasos": 19,
+     "pasos hacia contado": 6,
+     "pasos hacia visto armado": 7,
+     "pasos hacia hermano": 5,
+     "golpes": {
+      "zone": 8
+     }
+    },
+    "semilla": "21308206"
+   },
+   {
+    "brazo": "A3",
+    "slot": 10,
+    "muere": true,
+    "tic": 13009,
+    "causa": "anillo",
+    "fuente": "zone",
+    "dist_hermano": 2,
+    "hermano_vivo": true,
+    "ult200": {
+     "tics": 200,
+     "elegido": {
+      "noop": 178,
+      "ir": 10,
+      "usar": 4,
+      "paso": 8
+     },
+     "F-HERMANO-AMENAZA on": 174,
+     "F-DANO on": 200,
+     "S-7-AGRESOR on": 0,
+     "tics con rival contado": 199,
+     "pasos": 18,
+     "pasos hacia contado": 0,
+     "pasos hacia visto armado": 0,
+     "pasos hacia hermano": 0,
+     "golpes": {
+      "zone": 8
+     }
+    },
+    "semilla": "21412935"
+   },
+   {
+    "brazo": "A3",
+    "slot": 11,
+    "muere": false,
+    "tic": 14664,
+    "causa": "sobrevive",
+    "semilla": "21412935"
+   },
+   {
+    "brazo": "A3",
+    "slot": 10,
+    "muere": true,
+    "tic": 14305,
+    "causa": "no consta",
+    "fuente": null,
+    "dist_hermano": null,
+    "hermano_vivo": false,
+    "ult200": {
+     "tics": 200,
+     "elegido": {
+      "noop": 181,
+      "paso": 13,
+      "move": 5,
+      "ir": 1
+     },
+     "F-HERMANO-AMENAZA on": 0,
+     "F-DANO on": 200,
+     "S-7-AGRESOR on": 0,
+     "tics con rival contado": 0,
+     "pasos": 19,
+     "pasos hacia contado": 0,
+     "pasos hacia visto armado": 6,
+     "pasos hacia hermano": 0,
+     "golpes": {}
+    },
+    "semilla": "21517664"
+   },
+   {
+    "brazo": "A3",
+    "slot": 11,
+    "muere": true,
+    "tic": 13033,
+    "causa": "anillo",
+    "fuente": "zone",
+    "dist_hermano": 1,
+    "hermano_vivo": true,
+    "ult200": {
+     "tics": 200,
+     "elegido": {
+      "paso": 4,
+      "noop": 184,
+      "ir": 12
+     },
+     "F-HERMANO-AMENAZA on": 181,
+     "F-DANO on": 200,
+     "S-7-AGRESOR on": 0,
+     "tics con rival contado": 160,
+     "pasos": 16,
+     "pasos hacia contado": 5,
+     "pasos hacia visto armado": 2,
+     "pasos hacia hermano": 7,
+     "golpes": {
+      "zone": 8
+     }
+    },
+    "semilla": "21517664"
+   },
+   {
+    "brazo": "A3",
+    "slot": 10,
+    "muere": true,
+    "tic": 13609,
+    "causa": "anillo",
+    "fuente": "zone",
+    "dist_hermano": null,
+    "hermano_vivo": false,
+    "ult200": {
+     "tics": 200,
+     "elegido": {
+      "noop": 182,
+      "ir": 18
+     },
+     "F-HERMANO-AMENAZA on": 0,
+     "F-DANO on": 200,
+     "S-7-AGRESOR on": 0,
+     "tics con rival contado": 0,
+     "pasos": 18,
+     "pasos hacia contado": 0,
+     "pasos hacia visto armado": 9,
+     "pasos hacia hermano": 0,
+     "golpes": {
+      "zone": 2
+     }
+    },
+    "semilla": "21622393"
+   },
+   {
+    "brazo": "A3",
+    "slot": 11,
+    "muere": true,
+    "tic": 13009,
+    "causa": "anillo",
+    "fuente": "zone",
+    "dist_hermano": 1,
+    "hermano_vivo": true,
+    "ult200": {
+     "tics": 200,
+     "elegido": {
+      "noop": 180,
+      "usar": 4,
+      "ir": 14,
+      "soltar": 1,
+      "coger": 1
+     },
+     "F-HERMANO-AMENAZA on": 0,
+     "F-DANO on": 200,
+     "S-7-AGRESOR on": 0,
+     "tics con rival contado": 49,
+     "pasos": 14,
+     "pasos hacia contado": 0,
+     "pasos hacia visto armado": 0,
+     "pasos hacia hermano": 7,
+     "golpes": {
+      "zone": 8
+     }
+    },
+    "semilla": "21622393"
+   },
+   {
+    "brazo": "A3",
+    "slot": 10,
+    "muere": true,
+    "tic": 12529,
+    "causa": "anillo",
+    "fuente": "zone",
+    "dist_hermano": 2,
+    "hermano_vivo": true,
+    "ult200": {
+     "tics": 200,
+     "elegido": {
+      "noop": 182,
+      "ir": 15,
+      "move": 3
+     },
+     "F-HERMANO-AMENAZA on": 0,
+     "F-DANO on": 200,
+     "S-7-AGRESOR on": 0,
+     "tics con rival contado": 31,
+     "pasos": 18,
+     "pasos hacia contado": 2,
+     "pasos hacia visto armado": 3,
+     "pasos hacia hermano": 9,
+     "golpes": {
+      "zone": 8
+     }
+    },
+    "semilla": "21727122"
+   },
+   {
+    "brazo": "A3",
+    "slot": 11,
+    "muere": true,
+    "tic": 13033,
+    "causa": "anillo",
+    "fuente": "zone",
+    "dist_hermano": null,
+    "hermano_vivo": false,
+    "ult200": {
+     "tics": 200,
+     "elegido": {
+      "noop": 177,
+      "ir": 9,
+      "coger": 1,
+      "move": 9,
+      "usar": 4
+     },
+     "F-HERMANO-AMENAZA on": 0,
+     "F-DANO on": 200,
+     "S-7-AGRESOR on": 0,
+     "tics con rival contado": 0,
+     "pasos": 18,
+     "pasos hacia contado": 0,
+     "pasos hacia visto armado": 1,
+     "pasos hacia hermano": 0,
+     "golpes": {
+      "zone": 6
+     }
+    },
+    "semilla": "21727122"
+   },
+   {
+    "brazo": "A3",
+    "slot": 10,
+    "muere": true,
+    "tic": 14761,
+    "causa": "rival VISTO",
+    "fuente": "P3",
+    "dist_hermano": 3,
+    "hermano_vivo": true,
+    "ult200": {
+     "tics": 200,
+     "elegido": {
+      "ir": 47,
+      "atacar": 8,
+      "noop": 142,
+      "move": 2,
+      "usar": 1
+     },
+     "F-HERMANO-AMENAZA on": 200,
+     "F-DANO on": 200,
+     "S-7-AGRESOR on": 172,
+     "tics con rival contado": 46,
+     "pasos": 4,
+     "pasos hacia contado": 0,
+     "pasos hacia visto armado": 1,
+     "pasos hacia hermano": 1,
+     "golpes": {
+      "P4": 3,
+      "P3": 13,
+      "P2": 7
+     }
+    },
+    "semilla": "21831851"
+   },
+   {
+    "brazo": "A3",
+    "slot": 11,
+    "muere": false,
+    "tic": 14952,
+    "causa": "sobrevive",
+    "semilla": "21831851"
+   },
+   {
+    "brazo": "A3",
+    "slot": 10,
+    "muere": false,
+    "tic": 12984,
+    "causa": "sobrevive",
+    "semilla": "21936580"
+   },
+   {
+    "brazo": "A3",
+    "slot": 11,
+    "muere": true,
+    "tic": 11973,
+    "causa": "rival VISTO",
+    "fuente": "P14",
+    "dist_hermano": 5,
+    "hermano_vivo": true,
+    "ult200": {
+     "tics": 200,
+     "elegido": {
+      "noop": 182,
+      "ir": 15,
+      "move": 3
+     },
+     "F-HERMANO-AMENAZA on": 0,
+     "F-DANO on": 160,
+     "S-7-AGRESOR on": 160,
+     "tics con rival contado": 0,
+     "pasos": 18,
+     "pasos hacia contado": 0,
+     "pasos hacia visto armado": 9,
+     "pasos hacia hermano": 6,
+     "golpes": {
+      "P14": 6
+     }
+    },
+    "semilla": "21936580"
+   },
+   {
+    "brazo": "A3",
+    "slot": 10,
+    "muere": true,
+    "tic": 5128,
+    "causa": "rival VISTO",
+    "fuente": "P14",
+    "dist_hermano": 3,
+    "hermano_vivo": true,
+    "ult200": {
+     "tics": 200,
+     "elegido": {
+      "noop": 179,
+      "ir": 10,
+      "move": 8,
+      "usar": 3
+     },
+     "F-HERMANO-AMENAZA on": 0,
+     "F-DANO on": 200,
+     "S-7-AGRESOR on": 181,
+     "tics con rival contado": 200,
+     "pasos": 18,
+     "pasos hacia contado": 8,
+     "pasos hacia visto armado": 10,
+     "pasos hacia hermano": 8,
+     "golpes": {
+      "P14": 8
+     }
+    },
+    "semilla": "22041309"
+   },
+   {
+    "brazo": "A3",
+    "slot": 11,
+    "muere": true,
+    "tic": 11928,
+    "causa": "rival VISTO",
+    "fuente": "P14",
+    "dist_hermano": null,
+    "hermano_vivo": false,
+    "ult200": {
+     "tics": 200,
+     "elegido": {
+      "noop": 133,
+      "ir": 7,
+      "move": 60
+     },
+     "F-HERMANO-AMENAZA on": 0,
+     "F-DANO on": 200,
+     "S-7-AGRESOR on": 198,
+     "tics con rival contado": 0,
+     "pasos": 67,
+     "pasos hacia contado": 0,
+     "pasos hacia visto armado": 61,
+     "pasos hacia hermano": 0,
+     "golpes": {
+      "P14": 2,
+      "P8": 3
+     }
+    },
+    "semilla": "22041309"
+   },
+   {
+    "brazo": "A3",
+    "slot": 10,
+    "muere": true,
+    "tic": 12601,
+    "causa": "anillo",
+    "fuente": "zone",
+    "dist_hermano": 1,
+    "hermano_vivo": true,
+    "ult200": {
+     "tics": 200,
+     "elegido": {
+      "noop": 180,
+      "ir": 17,
+      "soltar": 1,
+      "move": 2
+     },
+     "F-HERMANO-AMENAZA on": 0,
+     "F-DANO on": 200,
+     "S-7-AGRESOR on": 0,
+     "tics con rival contado": 52,
+     "pasos": 19,
+     "pasos hacia contado": 1,
+     "pasos hacia visto armado": 4,
+     "pasos hacia hermano": 5,
+     "golpes": {
+      "zone": 8
+     }
+    },
+    "semilla": "22146038"
+   },
+   {
+    "brazo": "A3",
+    "slot": 11,
+    "muere": true,
+    "tic": 12601,
+    "causa": "anillo",
+    "fuente": "zone",
+    "dist_hermano": 1,
+    "hermano_vivo": true,
+    "ult200": {
+     "tics": 200,
+     "elegido": {
+      "noop": 181,
+      "ir": 17,
+      "soltar": 1,
+      "move": 1
+     },
+     "F-HERMANO-AMENAZA on": 0,
+     "F-DANO on": 200,
+     "S-7-AGRESOR on": 0,
+     "tics con rival contado": 20,
+     "pasos": 18,
+     "pasos hacia contado": 0,
+     "pasos hacia visto armado": 5,
+     "pasos hacia hermano": 7,
+     "golpes": {
+      "zone": 8
+     }
+    },
+    "semilla": "22146038"
+   },
+   {
+    "brazo": "A3",
+    "slot": 10,
+    "muere": true,
+    "tic": 12649,
+    "causa": "anillo",
+    "fuente": "zone",
+    "dist_hermano": 2,
+    "hermano_vivo": true,
+    "ult200": {
+     "tics": 200,
+     "elegido": {
+      "noop": 182,
+      "ir": 14,
+      "move": 4
+     },
+     "F-HERMANO-AMENAZA on": 55,
+     "F-DANO on": 200,
+     "S-7-AGRESOR on": 161,
+     "tics con rival contado": 59,
+     "pasos": 18,
+     "pasos hacia contado": 2,
+     "pasos hacia visto armado": 0,
+     "pasos hacia hermano": 8,
+     "golpes": {
+      "P14": 5,
+      "zone": 1
+     }
+    },
+    "semilla": "22250767"
+   },
+   {
+    "brazo": "A3",
+    "slot": 11,
+    "muere": true,
+    "tic": 12913,
+    "causa": "anillo",
+    "fuente": "zone",
+    "dist_hermano": null,
+    "hermano_vivo": false,
+    "ult200": {
+     "tics": 200,
+     "elegido": {
+      "noop": 178,
+      "move": 10,
+      "usar": 4,
+      "ir": 8
+     },
+     "F-HERMANO-AMENAZA on": 0,
+     "F-DANO on": 200,
+     "S-7-AGRESOR on": 48,
+     "tics con rival contado": 0,
+     "pasos": 18,
+     "pasos hacia contado": 0,
+     "pasos hacia visto armado": 0,
+     "pasos hacia hermano": 0,
+     "golpes": {
+      "zone": 7
+     }
+    },
+    "semilla": "22250767"
+   }
+  ]
+ }
+}

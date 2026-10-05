@@ -1,0 +1,235 @@
+{
+ "origenes": {
+  "puente_40": {
+   "A4_ardiendo_5_7": 232.3,
+   "A7h_ardiendo_5_7": 174.7,
+   "A7h_menos_A4": {
+    "n": 37,
+    "prueba": "Monte Carlo 1.000.000 (semilla 0)",
+    "media_dif": -57.59,
+    "mediana_dif": -43,
+    "gana": 13,
+    "pierde": 24,
+    "p_bilateral": 0.0143,
+    "ic95_bootstrap": [
+     -100.85,
+     -15.25
+    ],
+    "diferencias": [
+     -323,
+     158.0,
+     -190,
+     -43,
+     -13.0,
+     -112.0,
+     175,
+     -129.5,
+     -40,
+     -15.5,
+     90,
+     22.5,
+     -225,
+     -114.0,
+     -14.0,
+     -139.5,
+     19.5,
+     -66.5,
+     -297,
+     44.5,
+     20.5,
+     134,
+     -208.5,
+     219.0,
+     -38.0,
+     -171.0,
+     -77.0,
+     -84,
+     -179.0,
+     -170.5,
+     -249,
+     -103.0,
+     149.5,
+     15.5,
+     20.0,
+     -242.5,
+     45.5
+    ],
+    "p_unilateral (A7h arde menos)": 0.0072
+   },
+   "A7h_planes_aceptados_f5": 128,
+   "A7h_sostenidos_f5": 25,
+   "A7h_pasos_perdidos_5_7": 26,
+   "A7h_pasos_libres_5_7": 10860
+  },
+  "banco_P6_25": {
+   "acepta_haiku_pct": 51.3,
+   "acepta_oraculo_pct": 51.0,
+   "retraso_sigue_pasando_pct": 51.8
+  },
+  "humo_P6_27": {
+   "vidas": 4,
+   "llamadas": 10,
+   "llamadas_por_vida": 2.5,
+   "usd": 0.054839,
+   "usd_por_llamada": 0.00548,
+   "retraso_tics": {
+    "n": 10,
+    "mediana": 104,
+    "p95": 155
+   },
+   "propone": 10,
+   "intraducibles": 0,
+   "aceptadas": 1,
+   "cumplidas_fin_fase": 0,
+   "pasan_pregunta": 2,
+   "pasan_llegada": 1,
+   "llegan_donde_la_puerta_ya_rechaza": 1,
+   "e2_sustituidos": 1,
+   "planes_del_hermano_recibidos": 1,
+   "pareja": {
+    "partidas": 2,
+    "veces_los_dos_con_plan_vivo": 0,
+    "planes_del_hermano_recibidos": 1,
+    "planes_enviados": 1
+   },
+   "falsas_confianza": {
+    "planes_con_puntos": 1,
+    "planes_peor_algun_punto": 1,
+    "pct_planes_peor": 100.0,
+    "puntos": 1,
+    "puntos_peor": 1,
+    "pct_puntos_peor": 100.0
+   },
+   "pasos_perdidos_5_7": 1,
+   "pasos_perdidos_en_razonador": 1,
+   "pasos_perdidos_en_encargo_juicio": 1
+  },
+  "pasos_perdidos_humo_por_fase": {
+   "antes del aviso 1": {
+    "perdidos": 0,
+    "libres": 716,
+    "pct": 0.0
+   },
+   "fases 1-4": {
+    "perdidos": 0,
+    "libres": 608,
+    "pct": 0.0
+   },
+   "fases 5-7": {
+    "perdidos": 1,
+    "libres": 247,
+    "pct": 0.4
+   }
+  },
+  "banco_del_arreglo": [
+   {
+    "vida": "P626_t1_A8_20260916 gent_10",
+    "disparos_iguales": false,
+    "textos_iguales": 2,
+    "textos_comparados": 2,
+    "veredictos_iguales": false
+   },
+   {
+    "vida": "P626_t1_A8_20260916 gent_11",
+    "disparos_iguales": false,
+    "textos_iguales": 1,
+    "textos_comparados": 1,
+    "veredictos_iguales": false
+   },
+   {
+    "vida": "P626_t1_A8_20365645 gent_10",
+    "disparos_iguales": true,
+    "textos_iguales": 0,
+    "textos_comparados": 0,
+    "veredictos_iguales": true
+   },
+   {
+    "vida": "P626_t1_A8_20365645 gent_11",
+    "disparos_iguales": false,
+    "textos_iguales": 1,
+    "textos_comparados": 1,
+    "veredictos_iguales": false
+   }
+  ],
+  "coste_partida_A8_humo": 0.0654
+ },
+ "coste_estimado": {
+  "plataforma_40_partidas": 2.62,
+  "lenguaje_80_vidas": 1.1,
+  "total": 3.71,
+  "tope_total_P6_27": 8.0,
+  "gastado_ya_humo": null
+ },
+ "sello": {
+  "PRINCIPAL · tics ardiendo en las fases 5-7, por vida viva en el aviso 5, media por semilla, A8 - A4, emparejado (40 semillas), unilateral (A8 arde menos), alfa 0,05; IC95 bootstrap": {
+   "prediccion_de_la_mesa": "A8 ayuda menos que A7h porque el reloj le quita consejos buenos: el efecto contra A4 puede salir menor o nulo. Se sella: diferencia negativa pero menor en valor absoluto que la de A7h (-57,6), o nula",
+   "acierta_si": "media de la diferencia < 0 y p unilateral < 0,05 (A8 arde menos que A4)",
+   "no_alcanzada_si": "media < 0 con p >= 0,05 (direccion sin prueba)",
+   "falla_si": "media >= 0 (A8 no arde menos que A4) o media < -100 (mas que A7h y fuera de lo que el reloj permite)"
+  },
+  "secundarias (sin sello de significacion; direccion esperada, declarada)": {
+   "A8 - A7h, misma medida": "A8 arde algo mas que A7h (entre 0 y +40 tics de media; A7h arde 174.7 de media)",
+   "consultas por vida": "como en el humo: 2.5 de media (2-4)",
+   "retraso en tics": "mediana 104 y p95 155 en el humo; en la serie, mediana 80-130 y p95 < 200",
+   "respuestas que pasaban al pedir y se rechazan al llegar": "entre un cuarto y la mitad de las que pasaban al pedir (banco: 48 %)",
+   "aceptadas y cumplidas hasta el final de la fase": "aceptadas: menos que A7h (128 en 40 partidas, fase 5), entre la mitad y las tres cuartas partes; cumplidas hasta el fin de fase: pocas (A7h: 25)",
+   "planes enviados y recibidos por el hermano, aceptados por las dos puertas": "un mensaje por plan aceptado; el hermano recibe la mayoria (si esta vivo); los dos con plan vivo a la vez en menos de un cuarto de las partidas",
+   "aceptaciones falsas (malestar imaginado contra vivido)": "mas de la mitad de los planes con algun punto de control peor que lo imaginado (P6-20: la vida real cae por debajo de la proyectada en la mayoria); diferencia mediana positiva y pequena; lo mismo, calculado con `confianza`, para el oraculo en A7h: parecido",
+   "pasos perdidos en las fases 5-7": "0 en tics de consulta del razonador; total no mayor que A7h en las mismas semillas (A7h: 26 de 10860 en 40 partidas, 0,24 %); se declara si > 0,5 %"
+  },
+  "gasto": {
+   "prediccion": "plataforma 2.62 + lenguaje 1.1 = 3.71 USD de la serie; tope total de P6-27 8 USD con parada a 7,4",
+   "falla_si": "> 8 USD en total"
+  }
+ },
+ "md5": {
+  "motor/model.py": "1e511978c251130e95169ebf8443efa1",
+  "paintball/alma/decisor_zs.py": "8fa03547e3228ef9df4aa94c444f9252",
+  "paintball/alma/appraisal_zs_v42_exp.py": "98c13d60167c80cc8334c965be75c640",
+  "paintball/alma/policy_cortex.py": "6997b00c266f23d6037cc1a018f60a76",
+  "paintball/alma/policy_forma.py": "896e97a0cca1efcb736596e0b8b15cea",
+  "paintball/alma/forma_viva.py": "b2c87c93f0ed47e48fd8991a5a797a42",
+  "paintball/alma/relator_t5.py": "929c49f6ced9af1cbd37eadec08c54f0",
+  "paintball/alma/manual_M2.md": "7d54902964b33d1862798680e304cd3c",
+  "cantera/paper5/forma.py": "b801876afda071403c5af54a28feff85",
+  "cantera/paper5/proyeccion.py": "bbc42daeaa769c783844997067ef148d",
+  "cantera/paper5/traductor_forma.py": "b310bb72884ef5f4e3510ab803cd2776",
+  "cantera/paper5/instruccion_forma.md": "02653e4edf04f3bdd9a0ac3deda9aa01",
+  "cantera/paper5/tabla_ensenada.md": "9d53807699c4ee2be31d8dd173196de0",
+  "cantera/paper6/parte2.py": "67ba0003234939c349af12be5764a3b0",
+  "cantera/paper6/oyente2.py": "4e8b657f9168b0ffda5e411601b1aa14",
+  "cantera/paper6/policy_pareja.py": "796fc64229d047410fb351dfa61f871b",
+  "cantera/paper6/oido5_P6_5.py": "4f7aa3b3ddc4fc32e4b47c1356974415",
+  "cantera/paper6/arreglos_P6_6.py": "4d10ea09333553ebf7d6ce0afdb73832",
+  "cantera/paper6/arreglos_P6_8b.py": "5028b54d4afd8c7c82bc8e5e3a94a01e",
+  "cantera/paper6/filas10_P6_10.py": "af4617ad93a27838376df17d0c78b65c",
+  "cantera/paper6/amenaza11_P6_11.py": "9d493b05495f55316f29cbffa5561cdb",
+  "cantera/paper6/oraculo_P6_14.py": "a791ddc0cca9940b9c80920dc66a623d",
+  "cantera/paper6/puerta6_P6_15.py": "7c70ae1752c7ac1aae457d0c5b2d36f3",
+  "cantera/paper6/policy_pareja16.py": "10bc8a84a7931f2354478376af69ce6b",
+  "cantera/paper6/compromiso6_P6_16.py": "a5e959b5ad9375636e8f7245441ba411",
+  "cantera/paper6/puerta6g_P6_19.py": "6e3c08e634c43b30236a0fa0b4990614",
+  "cantera/paper6/P6_19_tasas.json": "7926543a50be0ecf47efe7665621e44f",
+  "cantera/paper6/compromiso6c_P6_23.py": "38d8529db6362b8f792ff958f5b29855",
+  "cantera/paper6/puerta_proceso_P6_23.py": "848fa2dabf55a2ba8778c757aa9c81c3",
+  "cantera/paper6/policy_pareja23.py": "5947b1d9c3ef99e61624ed09d0afa7ec",
+  "cantera/paper6/instruccion_P6_25.md": "f70183f40964b2c7487207a9b63bf85d",
+  "cantera/paper6/texto_escena_P6_26.py": "7f0d6743e53eb684ce095e9a02cd68e1",
+  "cantera/paper6/puerta_proceso_P6_26.py": "f238453756cd48406f47838237dd628a",
+  "cantera/paper6/policy_pareja26.py": "58f76fb90d6886fce0a536c835ce6bff",
+  "cantera/paper6/puerta_proceso_P6_27.py": "d09e55191eb69b96cd299b7c2e4138be",
+  "cantera/paper6/policy_pareja27.py": "784a537a3c8e991fd853ae5b512167e6",
+  "cantera/paper6/humo_red_P6_27.py": "35b96861d1776936e2a11c24277f2f26",
+  "cantera/paper6/Dockerfile.pareja27": "ba0c70a7a5655bb45a77dfeb977fac06",
+  "cantera/paper6/lanza_P6_27.py": "c6a38e4bf4d4d5eefc33ce3daaf46e03",
+  "cantera/paper6/P6_27_brazos.json": "90389f6ce2cdb85291f73d4178ff03b6",
+  "cantera/paper6/mide_campo_P6_27.py": "79c0fdbbe049c2e0ba8176474d9d65bd",
+  "cantera/paper6/mide_P6_27.py": "23529b4cdbd6b2746e4bfd97ab58e2af",
+  "cantera/paper6/mide_P6_26.py": "bbca518929fc80b791fd80e9b0af9017",
+  "cantera/paper6/mide_pasos_P6_22.py": "e62ae76b0dd2cd86134a9a519cf56270",
+  "cantera/paper6/roster_lento_v2_PROPUESTA.json": "3eb7dd60d8f43be2751b0325945a3f27",
+  "cantera/paper5/roster_lento_v1.json": "a2293bd16ee94e6d4c2f4683b57c2a09",
+  "cantera/paper4/semillas_S2.json": "b22c2fe3961ddb0068286610a84193fa",
+  "cantera/paper6/semillas_P6_24.json": "677e0e91a1e67bcd52d99e5e43b788ca"
+ }
+}
