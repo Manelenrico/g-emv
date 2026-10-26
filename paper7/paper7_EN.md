@@ -5,7 +5,7 @@
 Manel Enrico and Ari Sklar\
 Manel Enrico: Independent Researcher, Barcelona. ORCID: 0009-0008-1732-6310\
 Ari Sklar: Independent Researcher, Los Angeles. ORCID: 0009-0000-8005-4524\
-26 October 2026, version 5\
+Preprint, version 1, October 2026\
 Seventh work in a line of research that began with the engine [1]; it follows directly from the previous one [2]. The whole series: github.com/Manelenrico/g-emv.\
 [1] Enrico, M. (2026). G-EMV: A Geometric Architecture of Homeostatic Orientation for Agents. Zenodo. DOI 10.5281/zenodo.21026795.\
 [2] Enrico, M., and Sklar, A. (2026). G-EMV: Emotion and Reason in an Agent. Helping Without Commanding. Zenodo. DOI 10.5281/zenodo.23168539.
@@ -56,7 +56,7 @@ Here we tell just enough to follow the story: what the creature is like, what it
 
 **The whole creature.** Figure 2.1 shows the creature as it stands at the end of this work, with all the pieces that arrive in the following sections.
 
-<div class="figura una ancha"><img src="fig2_1_en.png"></div>
+<div class="figura una ancha"><img src="fig/fig2_1_en.png"></div>
 
 ::: {.pie}
 **Figure 2.1.** The creature as it stands at the end of this work. The body is the one that decides; the other pieces give it what it knows or make proposals to it. Memory arrives in section 3, what the sisters tell each other in section 4, and the reason and the trust in it in section 5. In blue, the reason's part.
@@ -322,7 +322,7 @@ First we played with a reason that does not lie. There were 120 games on Softmax
 
 **The placebo does not learn.** The creature with frozen trust, facing the same lie, kept arriving: 112, 143, 153 and 113 times in each five-day stretch. The difference between the two is about 9 times the noise counted by pair, and about three times counted by day. What made the creature stop following the lie was its trust falling, not the passing of the days nor getting to know the map better.
 
-<div class="figura una"><img src="fig_llegadas_en.png"></div>
+<div class="figura una"><img src="fig/fig_llegadas_en.png"></div>
 
 ::: {.pie}
 **Figure 5.1.** Arrivals at the lie's destination in each five-day stretch of the final field, summed over the sixteen series. The creature that adjusts its trust stops going; the one with frozen trust keeps going. Both received almost the same proposals in each stretch, so the drop does not come from being offered less.
@@ -330,7 +330,7 @@ First we played with a reason that does not lie. There were 120 games on Softmax
 
 **The honest one, the other way round.** The creature with an honest reason kept going and finding, and its trust rose from half to more than four fifths.
 
-<div class="figura una"><img src="fig_confianza_en.png"></div>
+<div class="figura una"><img src="fig/fig_confianza_en.png"></div>
 
 ::: {.pie}
 **Figure 5.2.** Trust in what the reason says about resources, day by day, in the final field. Each line is the mean of the thirty-two creatures in its arm; the band is plus and minus one standard error across series. With the honest reason it rises; with the lying one, it falls; the frozen one stays at one half, by design.
@@ -338,7 +338,7 @@ First we played with a reason that does not lie. There were 120 games on Softmax
 
 Figure 5.3 shows one arrival of each.
 
-<div class="figura"><img src="fig5_1_miente.png"><img src="fig5_1_honesta.png"></div>
+<div class="figura"><img src="fig/fig5_1_miente.png"><img src="fig/fig5_1_honesta.png"></div>
 
 ::: {.pie}
 **Figure 5.3.** Two arrivals from the final field, chosen at random; each image is the last frame of its arrival. On the left, the lie, on day 14: the creature reaches the corner and there is nothing there. On the right, the honest proposal, on day 4: on arrival there is a medkit right beside it and another a few tiles away. In both, the sister goes with it. The star is the destination; the black dot, the creature; the blue one, its sister; the green crosses, medkits; the grey squares, walls; the line, its path. The full animations are in the repository.

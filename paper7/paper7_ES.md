@@ -2,7 +2,13 @@
 
 ## Aprender viviendo: una criatura, su hermana y una razón que miente
 
-Manel Enrico y Ari Sklar. Versión en español, 26 de octubre de 2026, versión 13. Título en inglés: *G-EMV: Emotion and Reason in an Agent. Learning by Living: A Creature, Its Sister and a Reason That Lies*.
+Manel Enrico y Ari Sklar\
+Manel Enrico: investigador independiente, Barcelona. ORCID: 0009-0008-1732-6310\
+Ari Sklar: investigador independiente, Los Ángeles. ORCID: 0009-0000-8005-4524\
+Preprint, versión 1, octubre de 2026. Versión en español; la publicada en Zenodo es la inglesa: *G-EMV: Emotion and Reason in an Agent. Learning by Living: A Creature, Its Sister and a Reason That Lies*.\
+Séptimo trabajo de una línea de investigación que empezó con el motor [1]; sigue directamente al anterior [2]. Toda la serie: github.com/Manelenrico/g-emv.\
+[1] Enrico, M. (2026). G-EMV: A Geometric Architecture of Homeostatic Orientation for Agents. Zenodo. DOI 10.5281/zenodo.21026795.\
+[2] Enrico, M., y Sklar, A. (2026). G-EMV: Emotion and Reason in an Agent. Helping Without Commanding. Zenodo. DOI 10.5281/zenodo.23168539.
 
 # Resumen
 
@@ -50,7 +56,7 @@ Aquí se cuenta lo justo para seguir la historia: cómo es la criatura, cómo es
 
 **La criatura entera.** La figura 2.1 muestra cómo queda la criatura al final de este trabajo, con todas las piezas que irán llegando en las secciones siguientes.
 
-<div class="figura una ancha"><img src="fig2_1_es.png"></div>
+<div class="figura una ancha"><img src="fig/fig2_1_es.png"></div>
 
 ::: {.pie}
 **Figura 2.1.** La criatura, tal como queda al final de este trabajo. El cuerpo es quien decide; las demás piezas le dan lo que sabe o le proponen. La memoria llega en la sección 3, lo que se cuentan las hermanas en la 4, y la razón y la confianza en ella en la 5. En azul, la parte de la razón.
@@ -316,7 +322,7 @@ Primero jugamos con una razón que no miente. Fueron ciento veinte partidas en l
 
 **El placebo no aprende.** La criatura de confianza congelada, frente a la misma mentira, siguió llegando: ciento doce, ciento cuarenta y tres, ciento cincuenta y tres y ciento trece veces en cada tramo de cinco días. La diferencia entre las dos es unas nueve veces el ruido contada por pareja, y unas tres veces contada por día. Lo que hizo dejar de seguir la mentira fue que la confianza bajara, no el paso de los días ni conocer mejor el mapa.
 
-<div class="figura una"><img src="fig_llegadas_es.png"></div>
+<div class="figura una"><img src="fig/fig_llegadas_es.png"></div>
 
 ::: {.pie}
 **Figura 5.1.** Llegadas al sitio de la mentira en cada tramo de cinco días del campo final, sumadas sobre las dieciséis series. La criatura que ajusta su confianza deja de ir; la de confianza congelada sigue yendo. Las dos recibieron casi las mismas propuestas en cada tramo, así que la caída no viene de que se le propusiera menos.
@@ -324,7 +330,7 @@ Primero jugamos con una razón que no miente. Fueron ciento veinte partidas en l
 
 **La honesta, al revés.** La criatura de razón honesta siguió yendo y encontrando, y su confianza subió de la mitad a más de cuatro quintas partes.
 
-<div class="figura una"><img src="fig_confianza_es.png"></div>
+<div class="figura una"><img src="fig/fig_confianza_es.png"></div>
 
 ::: {.pie}
 **Figura 5.2.** La confianza en lo que la razón dice de los recursos, día a día, en el campo final. Cada línea es la media de las treinta y dos criaturas de su brazo; la banda, más y menos un error típico entre series. Con la razón honesta sube; con la que miente, baja; la congelada se queda en la mitad, como se diseñó.
@@ -332,7 +338,7 @@ Primero jugamos con una razón que no miente. Fueron ciento veinte partidas en l
 
 La figura 5.3 muestra una llegada de cada.
 
-<div class="figura"><img src="fig5_1_miente.png"><img src="fig5_1_honesta.png"></div>
+<div class="figura"><img src="fig/fig5_1_miente.png"><img src="fig/fig5_1_honesta.png"></div>
 
 ::: {.pie}
 **Figura 5.3.** Dos llegadas del campo final, elegidas al azar; es el último fotograma de cada una. A la izquierda, la mentira, el día catorce: la criatura llega al rincón y no hay nada. A la derecha, la propuesta honesta, el día cuatro: al llegar hay un botiquín al lado y otro a pocas casillas. En las dos, la hermana va con ella. La estrella es el destino; el punto negro, la criatura; el azul, su hermana; las cruces verdes, botiquines; los cuadrados grises, paredes; la línea, su recorrido. Las animaciones completas están en el repositorio.

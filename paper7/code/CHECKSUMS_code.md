@@ -298,7 +298,6 @@ The md5 of the source file (in the working repository when this copy was made) a
 | `cantera/paper7/escribe_informe_P7_7.py` | `e791cfaf7ae6289113ac44b139190310` | `e791cfaf7ae6289113ac44b139190310` | — | measurement, bench or analysis program of paper seven |
 | `cantera/paper7/escribe_informe_P7_8.py` | `7ee8f58713633885d42c997868262006` | `7ee8f58713633885d42c997868262006` | — | measurement, bench or analysis program of paper seven |
 | `cantera/paper7/escribe_informe_P7_9.py` | `0e20c182f72015aa08f3829c0a715a25` | `0e20c182f72015aa08f3829c0a715a25` | — | measurement, bench or analysis program of paper seven |
-| `cantera/paper7/escribe_informe_P7_filas_sociales.py` | `15e7ffd45a1aaa2a039bc426b88bb8d9` | `15e7ffd45a1aaa2a039bc426b88bb8d9` | — | measurement, bench or analysis program of paper seven |
 | `cantera/paper7/explora_P7_67_campo.py` | `cdd6271b3bb9f624a426e68ff6487a05` | `cdd6271b3bb9f624a426e68ff6487a05` | — | measurement, bench or analysis program of paper seven |
 | `cantera/paper7/exploratorio_P7_65.py` | `49d61c3b01c4dfb8e4c09a62a3a39969` | `49d61c3b01c4dfb8e4c09a62a3a39969` | — | measurement, bench or analysis program of paper seven |
 | `cantera/paper7/figuras/hace_figuras_P7.py` | `1fc7c850f44d3c22796adc18bf6c0516` | `1fc7c850f44d3c22796adc18bf6c0516` | — | measurement, bench or analysis program of paper seven |
@@ -308,7 +307,6 @@ The md5 of the source file (in the working repository when this copy was made) a
 | `cantera/paper7/figuras_P7_30.py` | `1a27bffdce44de540e2eb6a06cce295b` | `1a27bffdce44de540e2eb6a06cce295b` | — | measurement, bench or analysis program of paper seven |
 | `cantera/paper7/figuras_P7_34.py` | `87588831c98b3aed19f5c8a1d10dfae6` | `87588831c98b3aed19f5c8a1d10dfae6` | — | measurement, bench or analysis program of paper seven |
 | `cantera/paper7/figuras_P7_8.py` | `1ca77fe6d7123415b286973f9a9d162a` | `1ca77fe6d7123415b286973f9a9d162a` | — | measurement, bench or analysis program of paper seven |
-| `cantera/paper7/filas_sociales_P7.py` | `b2cc09755bc674a8dc12d94cce310571` | `b2cc09755bc674a8dc12d94cce310571` | — | measurement, bench or analysis program of paper seven |
 | `cantera/paper7/freno_P7_14.py` | `f079f8d4f108f46c81efadf97c5d0f72` | `f079f8d4f108f46c81efadf97c5d0f72` | — | measurement, bench or analysis program of paper seven |
 | `cantera/paper7/freno_P7_14b.py` | `c1870e9907f7925f6f8badf88a510d8a` | `c1870e9907f7925f6f8badf88a510d8a` | — | measurement, bench or analysis program of paper seven |
 | `cantera/paper7/freno_P7_30.py` | `d8221a3ccd42f24343350d228b622a06` | `d8221a3ccd42f24343350d228b622a06` | — | measurement, bench or analysis program of paper seven |
@@ -392,4 +390,4 @@ The md5 of the source file (in the working repository when this copy was made) a
 | `cantera/paper7/verifica_humo_P7_67F.py` | `211dda113618ec1faa0c6cf3fcf7c998` | `211dda113618ec1faa0c6cf3fcf7c998` | — | measurement, bench or analysis program of paper seven |
 | `paintball/pareja.py` | `56dfaae4b53762d1c771b9d88615a6b9` | `56dfaae4b53762d1c771b9d88615a6b9` | — | imported by `regla_en_seco.py` |
 
-*118 frozen files (0 with a redaction); 262 measurement files (0 with a redaction).*
+*118 frozen files (0 with a redaction); 260 measurement files (0 with a redaction).*
