@@ -1,0 +1,90 @@
+{
+ "nota": "primera corrida de F2 de P7-7, con ir_curioso sin las dos condiciones de las ganas de hoy (zurron lleno: no adquirible; la cosa en mi casilla: coger); se cita en el informe",
+ "resumen": {
+  "escenas": 62986,
+  "clases": {
+   "ir curioso": 21777,
+   "ir al objeto": 1482,
+   "otra": 8772,
+   "hacer sitio": 1480,
+   "quieto": 28922,
+   "coger": 553
+  },
+  "por_situacion": {
+   "dist=0,libre=False,lleva=False": {
+    "n": 1896,
+    "clases": {
+     "hacer sitio": 39,
+     "otra": 265,
+     "quieto": 643,
+     "ir curioso": 946,
+     "coger": 1,
+     "ir al objeto": 2
+    },
+    "con_ir_curioso": 1896
+   },
+   "dist=0,libre=True,lleva=False": {
+    "n": 894,
+    "clases": {
+     "coger": 543,
+     "ir curioso": 276,
+     "otra": 10,
+     "ir al objeto": 17,
+     "quieto": 48
+    },
+    "con_ir_curioso": 883
+   },
+   "dist=1,libre=False,lleva=False": {
+    "n": 32760,
+    "clases": {
+     "otra": 6654,
+     "ir curioso": 4581,
+     "quieto": 19502,
+     "ir al objeto": 720,
+     "hacer sitio": 1303
+    },
+    "con_ir_curioso": 20933
+   },
+   "dist=1,libre=True,lleva=False": {
+    "n": 6195,
+    "clases": {
+     "ir curioso": 5119,
+     "ir al objeto": 269,
+     "coger": 6,
+     "otra": 266,
+     "quieto": 535
+    },
+    "con_ir_curioso": 6097
+   },
+   "dist=2,libre=False,lleva=False": {
+    "n": 19596,
+    "clases": {
+     "quieto": 7578,
+     "otra": 1481,
+     "ir curioso": 9984,
+     "ir al objeto": 415,
+     "hacer sitio": 138
+    },
+    "con_ir_curioso": 18338
+   },
+   "dist=2,libre=False,lleva=True": {
+    "n": 29,
+    "clases": {
+     "otra": 29
+    },
+    "con_ir_curioso": 0
+   },
+   "dist=2,libre=True,lleva=False": {
+    "n": 1616,
+    "clases": {
+     "ir curioso": 871,
+     "ir al objeto": 59,
+     "quieto": 616,
+     "otra": 67,
+     "coger": 3
+    },
+    "con_ir_curioso": 1121
+   }
+  }
+ }
+}

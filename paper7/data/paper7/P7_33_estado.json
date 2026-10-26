@@ -1,0 +1,244 @@
+{
+ "imagenes": {
+  "APRENDE_s1_d1": {
+   "imagen": "gemv-anima:P7_33_APRENDE_s1_d1",
+   "etiqueta": "gemv-p7-campo:v193",
+   "version": 193,
+   "policy_version_id": "81bfd143-bd9d-407f-81e5-203951846486",
+   "segundos": 122.3,
+   "cuadernos_horneados": [
+    ".gitkeep"
+   ],
+   "subida_a_las": "2026-10-09T14:56:41.162933+00:00"
+  },
+  "APRENDE_s1_d2": {
+   "imagen": "gemv-anima:P7_33_APRENDE_s1_d2",
+   "etiqueta": "gemv-p7-campo:v194",
+   "version": 194,
+   "policy_version_id": "13025909-b053-4a48-999b-c23a93d4fe55",
+   "segundos": 124.5,
+   "cuadernos_horneados": [
+    ".gitkeep",
+    "cuaderno_P7_10.json",
+    "cuaderno_P7_11.json"
+   ],
+   "subida_a_las": "2026-10-09T15:12:02.267073+00:00"
+  },
+  "APRENDE_s1_d3": {
+   "imagen": "gemv-anima:P7_33_APRENDE_s1_d3",
+   "etiqueta": "gemv-p7-campo:v195",
+   "version": 195,
+   "policy_version_id": "e20e6233-71ea-4966-9cc5-1db637932bd3",
+   "segundos": 123.1,
+   "cuadernos_horneados": [
+    ".gitkeep",
+    "cuaderno_P7_10.json",
+    "cuaderno_P7_11.json"
+   ],
+   "subida_a_las": "2026-10-09T15:27:22.263174+00:00"
+  }
+ },
+ "peticiones": [
+  {
+   "serie": 1,
+   "dia": 1,
+   "brazo": "APRENDE",
+   "semilla": 40997258,
+   "pvid": "81bfd143-bd9d-407f-81e5-203951846486",
+   "imagen": "APRENDE_s1_d1",
+   "xreq": "xreq_f8aa6309-1b0f-4835-9836-ae451748a74b",
+   "ereq": "ereq_0ddab69b-9eef-4b0c-8c08-9a20c0feb55e",
+   "pedida_a_las": "2026-10-09T14:56:41.177138+00:00",
+   "estado": "completed",
+   "coste_usd": 0.105311,
+   "completada_a_las": "2026-10-09T15:09:25.035357Z",
+   "latencia": {
+    "10": {
+     "tics": 11130,
+     "decisiones": 11130,
+     "ms_mediana": 15.0,
+     "ms_p95": 30.46,
+     "ms_max": 136.37,
+     "sobre_el_tic": 0.0104,
+     "paso_listo": 5758,
+     "bloqueados": 143,
+     "bloqueados_sin_cuerpo": 1,
+     "fraccion_sin_cuerpo": 0.0002,
+     "pasa": false,
+     "casilla_mas_bloqueada": {
+      "desde": [
+       22,
+       21
+      ],
+      "dir": "SW",
+      "hacia": [
+       21,
+       22
+      ],
+      "n": 1
+     },
+     "para": false,
+     "motivo": [
+      "decisiones por encima del tic 1.04 % > 1 %"
+     ]
+    },
+    "11": {
+     "tics": 11067,
+     "decisiones": 11067,
+     "ms_mediana": 5.69,
+     "ms_p95": 19.14,
+     "ms_max": 60.19,
+     "sobre_el_tic": 0.0004,
+     "paso_listo": 1242,
+     "bloqueados": 74,
+     "bloqueados_sin_cuerpo": 0,
+     "fraccion_sin_cuerpo": 0.0,
+     "pasa": true,
+     "casilla_mas_bloqueada": null,
+     "para": false,
+     "motivo": []
+    }
+   }
+  },
+  {
+   "serie": 1,
+   "dia": 2,
+   "brazo": "APRENDE",
+   "semilla": 41101987,
+   "pvid": "13025909-b053-4a48-999b-c23a93d4fe55",
+   "imagen": "APRENDE_s1_d2",
+   "xreq": "xreq_adf70139-9488-4a51-94ff-62e256cfe9ab",
+   "ereq": "ereq_9f0c7637-96ea-4d66-80b3-f45134f0b8d1",
+   "pedida_a_las": "2026-10-09T15:12:02.282448+00:00",
+   "estado": "completed",
+   "coste_usd": 0.058503,
+   "completada_a_las": "2026-10-09T15:25:07.421151Z",
+   "latencia": {
+    "10": {
+     "tics": 14276,
+     "decisiones": 14276,
+     "ms_mediana": 3.77,
+     "ms_p95": 8.32,
+     "ms_max": 42.02,
+     "sobre_el_tic": 0.0001,
+     "paso_listo": 8926,
+     "bloqueados": 436,
+     "bloqueados_sin_cuerpo": 2,
+     "fraccion_sin_cuerpo": 0.0002,
+     "pasa": true,
+     "casilla_mas_bloqueada": {
+      "desde": [
+       22,
+       21
+      ],
+      "dir": "SW",
+      "hacia": [
+       21,
+       22
+      ],
+      "n": 1
+     },
+     "para": false,
+     "motivo": []
+    },
+    "11": {
+     "tics": 14184,
+     "decisiones": 14184,
+     "ms_mediana": 14.88,
+     "ms_p95": 25.72,
+     "ms_max": 77.4,
+     "sobre_el_tic": 0.0047,
+     "paso_listo": 8674,
+     "bloqueados": 122,
+     "bloqueados_sin_cuerpo": 8,
+     "fraccion_sin_cuerpo": 0.0009,
+     "pasa": true,
+     "casilla_mas_bloqueada": {
+      "desde": [
+       27,
+       26
+      ],
+      "dir": "N",
+      "hacia": [
+       27,
+       25
+      ],
+      "n": 1
+     },
+     "para": false,
+     "motivo": []
+    }
+   }
+  },
+  {
+   "serie": 1,
+   "dia": 3,
+   "brazo": "APRENDE",
+   "semilla": 41206716,
+   "pvid": "e20e6233-71ea-4966-9cc5-1db637932bd3",
+   "imagen": "APRENDE_s1_d3",
+   "xreq": "xreq_11377657-beb9-4682-941f-16bb02c8c989",
+   "ereq": "ereq_a5f347b9-33cd-45ab-90e9-6882995b3060",
+   "pedida_a_las": "2026-10-09T15:27:22.277534+00:00",
+   "estado": "completed",
+   "coste_usd": 0.110164,
+   "completada_a_las": "2026-10-09T15:40:49.063431Z",
+   "latencia": {
+    "10": {
+     "tics": 14472,
+     "decisiones": 14472,
+     "ms_mediana": 2.69,
+     "ms_p95": 7.82,
+     "ms_max": 31.86,
+     "sobre_el_tic": 0.0,
+     "paso_listo": 1654,
+     "bloqueados": 341,
+     "bloqueados_sin_cuerpo": 5,
+     "fraccion_sin_cuerpo": 0.003,
+     "pasa": true,
+     "casilla_mas_bloqueada": {
+      "desde": [
+       26,
+       21
+      ],
+      "dir": "S",
+      "hacia": [
+       26,
+       22
+      ],
+      "n": 1
+     },
+     "para": false,
+     "motivo": []
+    },
+    "11": {
+     "tics": 14472,
+     "decisiones": 14472,
+     "ms_mediana": 1.3,
+     "ms_p95": 10.04,
+     "ms_max": 24.26,
+     "sobre_el_tic": 0.0,
+     "paso_listo": 3002,
+     "bloqueados": 31,
+     "bloqueados_sin_cuerpo": 2,
+     "fraccion_sin_cuerpo": 0.0007,
+     "pasa": true,
+     "casilla_mas_bloqueada": {
+      "desde": [
+       27,
+       23
+      ],
+      "dir": "NW",
+      "hacia": [
+       26,
+       22
+      ],
+      "n": 1
+     },
+     "para": false,
+     "motivo": []
+    }
+   }
+  }
+ ]
+}

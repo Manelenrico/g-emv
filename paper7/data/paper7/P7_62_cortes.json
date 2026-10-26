@@ -1,0 +1,408 @@
+{
+ "usos": 417,
+ "regla_si_marca_si": 235,
+ "regla_si_marca_no": 4,
+ "regla_no_marca_si": 0,
+ "regla_no_marca_no": 178,
+ "falsa": [
+  {
+   "serie": 1,
+   "dia": 8,
+   "brazo": "MIENTEN_DOS",
+   "asiento": 11,
+   "antes": 1,
+   "ahora": 0,
+   "fuente_ahora": "cortada por golpe"
+  },
+  {
+   "serie": 1,
+   "dia": 15,
+   "brazo": "MIENTEN_DOS",
+   "asiento": 10,
+   "antes": 1,
+   "ahora": 1,
+   "fuente_ahora": "huella (hueco)"
+  },
+  {
+   "serie": 1,
+   "dia": 15,
+   "brazo": "MIENTEN_DOS",
+   "asiento": 11,
+   "antes": 1,
+   "ahora": 1,
+   "fuente_ahora": "huella (hueco)"
+  },
+  {
+   "serie": 1,
+   "dia": 16,
+   "brazo": "MIENTEN_DOS",
+   "asiento": 10,
+   "antes": 0,
+   "ahora": 1,
+   "fuente_ahora": "huella (hueco)"
+  },
+  {
+   "serie": 1,
+   "dia": 16,
+   "brazo": "MIENTEN_DOS",
+   "asiento": 11,
+   "antes": 0,
+   "ahora": 1,
+   "fuente_ahora": "huella (hueco)"
+  },
+  {
+   "serie": 1,
+   "dia": 17,
+   "brazo": "MIENTEN_DOS",
+   "asiento": 10,
+   "antes": 1,
+   "ahora": 1,
+   "fuente_ahora": "huella (hueco)"
+  },
+  {
+   "serie": 1,
+   "dia": 18,
+   "brazo": "MIENTE_UNA",
+   "asiento": 10,
+   "antes": 0,
+   "ahora": 1,
+   "fuente_ahora": "huella (hueco)"
+  },
+  {
+   "serie": 1,
+   "dia": 18,
+   "brazo": "MIENTE_UNA",
+   "asiento": 10,
+   "antes": 1,
+   "ahora": 1,
+   "fuente_ahora": "huella (hueco)"
+  },
+  {
+   "serie": 2,
+   "dia": 9,
+   "brazo": "MIENTEN_DOS",
+   "asiento": 11,
+   "antes": 0,
+   "ahora": 1,
+   "fuente_ahora": "huella (hueco)"
+  },
+  {
+   "serie": 2,
+   "dia": 11,
+   "brazo": "MIENTEN_DOS",
+   "asiento": 10,
+   "antes": 0,
+   "ahora": 0,
+   "fuente_ahora": "huella (hueco)"
+  },
+  {
+   "serie": 2,
+   "dia": 14,
+   "brazo": "MIENTEN_DOS",
+   "asiento": 10,
+   "antes": 1,
+   "ahora": 1,
+   "fuente_ahora": "huella (hueco)"
+  },
+  {
+   "serie": 2,
+   "dia": 15,
+   "brazo": "MIENTEN_DOS",
+   "asiento": 11,
+   "antes": 0,
+   "ahora": 1,
+   "fuente_ahora": "huella (hueco)"
+  },
+  {
+   "serie": 2,
+   "dia": 15,
+   "brazo": "MIENTEN_DOS",
+   "asiento": 11,
+   "antes": 1,
+   "ahora": 1,
+   "fuente_ahora": "huella (hueco)"
+  },
+  {
+   "serie": 2,
+   "dia": 16,
+   "brazo": "MIENTE_UNA",
+   "asiento": 10,
+   "antes": 1,
+   "ahora": 1,
+   "fuente_ahora": "huella (hueco)"
+  },
+  {
+   "serie": 2,
+   "dia": 17,
+   "brazo": "MIENTE_UNA",
+   "asiento": 10,
+   "antes": 0,
+   "ahora": 0,
+   "fuente_ahora": "cortada por golpe"
+  },
+  {
+   "serie": 2,
+   "dia": 18,
+   "brazo": "MIENTE_UNA",
+   "asiento": 10,
+   "antes": 0,
+   "ahora": 1,
+   "fuente_ahora": "huella (hueco)"
+  },
+  {
+   "serie": 2,
+   "dia": 18,
+   "brazo": "MIENTE_UNA",
+   "asiento": 10,
+   "antes": 0,
+   "ahora": 1,
+   "fuente_ahora": "huella (hueco)"
+  },
+  {
+   "serie": 2,
+   "dia": 18,
+   "brazo": "MIENTEN_DOS",
+   "asiento": 10,
+   "antes": 0,
+   "ahora": 1,
+   "fuente_ahora": "huella (hueco)"
+  },
+  {
+   "serie": 2,
+   "dia": 19,
+   "brazo": "MIENTEN_DOS",
+   "asiento": 11,
+   "antes": 1,
+   "ahora": 1,
+   "fuente_ahora": "huella (hueco)"
+  },
+  {
+   "serie": 3,
+   "dia": 8,
+   "brazo": "MIENTEN_DOS",
+   "asiento": 11,
+   "antes": 0,
+   "ahora": 1,
+   "fuente_ahora": "huella (hueco)"
+  },
+  {
+   "serie": 3,
+   "dia": 8,
+   "brazo": "MIENTEN_DOS",
+   "asiento": 11,
+   "antes": 1,
+   "ahora": 1,
+   "fuente_ahora": "huella (hueco)"
+  },
+  {
+   "serie": 3,
+   "dia": 8,
+   "brazo": "MIENTE_UNA",
+   "asiento": 10,
+   "antes": 0,
+   "ahora": 1,
+   "fuente_ahora": "huella (hueco)"
+  },
+  {
+   "serie": 3,
+   "dia": 10,
+   "brazo": "MIENTEN_DOS",
+   "asiento": 11,
+   "antes": 0,
+   "ahora": 1,
+   "fuente_ahora": "huella (hueco)"
+  },
+  {
+   "serie": 3,
+   "dia": 10,
+   "brazo": "MIENTEN_DOS",
+   "asiento": 11,
+   "antes": 1,
+   "ahora": 0,
+   "fuente_ahora": "cortada por golpe"
+  },
+  {
+   "serie": 3,
+   "dia": 12,
+   "brazo": "MIENTEN_DOS",
+   "asiento": 10,
+   "antes": 1,
+   "ahora": 1,
+   "fuente_ahora": "huella (hueco)"
+  },
+  {
+   "serie": 3,
+   "dia": 13,
+   "brazo": "MIENTE_UNA",
+   "asiento": 10,
+   "antes": 1,
+   "ahora": 0,
+   "fuente_ahora": "cortada por golpe"
+  },
+  {
+   "serie": 3,
+   "dia": 13,
+   "brazo": "MIENTE_UNA",
+   "asiento": 10,
+   "antes": 0,
+   "ahora": 1,
+   "fuente_ahora": "huella (hueco)"
+  },
+  {
+   "serie": 3,
+   "dia": 14,
+   "brazo": "MIENTEN_DOS",
+   "asiento": 11,
+   "antes": 0,
+   "ahora": 0,
+   "fuente_ahora": "cortada por golpe"
+  },
+  {
+   "serie": 3,
+   "dia": 14,
+   "brazo": "MIENTEN_DOS",
+   "asiento": 11,
+   "antes": 1,
+   "ahora": 1,
+   "fuente_ahora": "huella (hueco)"
+  },
+  {
+   "serie": 3,
+   "dia": 14,
+   "brazo": "MIENTE_UNA",
+   "asiento": 10,
+   "antes": 0,
+   "ahora": 1,
+   "fuente_ahora": "huella (hueco)"
+  },
+  {
+   "serie": 3,
+   "dia": 15,
+   "brazo": "MIENTEN_DOS",
+   "asiento": 11,
+   "antes": 0,
+   "ahora": 1,
+   "fuente_ahora": "huella (hueco)"
+  },
+  {
+   "serie": 3,
+   "dia": 16,
+   "brazo": "MIENTEN_DOS",
+   "asiento": 11,
+   "antes": 1,
+   "ahora": 0,
+   "fuente_ahora": "cortada por golpe"
+  },
+  {
+   "serie": 3,
+   "dia": 16,
+   "brazo": "MIENTEN_DOS",
+   "asiento": 11,
+   "antes": 1,
+   "ahora": 1,
+   "fuente_ahora": "huella (hueco)"
+  },
+  {
+   "serie": 3,
+   "dia": 17,
+   "brazo": "MIENTEN_DOS",
+   "asiento": 11,
+   "antes": 0,
+   "ahora": 1,
+   "fuente_ahora": "huella (hueco)"
+  },
+  {
+   "serie": 3,
+   "dia": 17,
+   "brazo": "MIENTEN_DOS",
+   "asiento": 11,
+   "antes": 0,
+   "ahora": 1,
+   "fuente_ahora": "huella (hueco)"
+  },
+  {
+   "serie": 3,
+   "dia": 17,
+   "brazo": "MIENTEN_DOS",
+   "asiento": 11,
+   "antes": 1,
+   "ahora": 0,
+   "fuente_ahora": "cortada por golpe"
+  },
+  {
+   "serie": 3,
+   "dia": 18,
+   "brazo": "MIENTEN_DOS",
+   "asiento": 11,
+   "antes": 1,
+   "ahora": 0,
+   "fuente_ahora": "cortada por golpe"
+  },
+  {
+   "serie": 3,
+   "dia": 18,
+   "brazo": "MIENTE_UNA",
+   "asiento": 10,
+   "antes": 0,
+   "ahora": 0,
+   "fuente_ahora": "cortada por golpe"
+  },
+  {
+   "serie": 3,
+   "dia": 19,
+   "brazo": "MIENTEN_DOS",
+   "asiento": 11,
+   "antes": 0,
+   "ahora": 1,
+   "fuente_ahora": "huella (hueco)"
+  },
+  {
+   "serie": 3,
+   "dia": 19,
+   "brazo": "MIENTEN_DOS",
+   "asiento": 11,
+   "antes": 1,
+   "ahora": 0,
+   "fuente_ahora": "cortada por golpe"
+  },
+  {
+   "serie": 3,
+   "dia": 20,
+   "brazo": "MIENTEN_DOS",
+   "asiento": 11,
+   "antes": 1,
+   "ahora": 0,
+   "fuente_ahora": "cortada por golpe"
+  },
+  {
+   "serie": 3,
+   "dia": 20,
+   "brazo": "MIENTEN_DOS",
+   "asiento": 11,
+   "antes": 0,
+   "ahora": 0,
+   "fuente_ahora": "cortada por golpe"
+  }
+ ],
+ "canal": {
+  "sword": 0,
+  "spear": 0,
+  "bow": 0,
+  "knives": 0,
+  "blowgun": 0,
+  "net": 0,
+  "first_aid": 48,
+  "rations": 24,
+  "backpack": 0,
+  "camouflage": 0,
+  "arrows": 0,
+  "darts": 0
+ },
+ "falsa_resumen": {
+  "evaluaciones": 42,
+  "aciertos_antes": 20,
+  "aciertos_ahora": 29,
+  "cortadas_ahora": 12,
+  "cambian": 25
+ }
+}

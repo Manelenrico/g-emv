@@ -1,0 +1,119 @@
+{
+ "imagenes": {
+  "ESPERANZA": {
+   "imagen": "gemv-anima:P7_14_ESPERANZA",
+   "etiqueta": "gemv-p7-campo:v54",
+   "version": 54,
+   "policy_version_id": "751dccdb-5838-42c3-88f3-be469032ef5a",
+   "segundos": 113.9,
+   "cuadernos_horneados": [
+    "LEEME.txt"
+   ],
+   "subida_a_las": "2026-10-04T18:46:50.473902+00:00"
+  },
+  "BORRADO": {
+   "imagen": "gemv-anima:P7_14_BORRADO",
+   "etiqueta": "gemv-p7-campo:v55",
+   "version": 55,
+   "policy_version_id": "641bb45a-7b9e-437c-b851-4698a24f7014",
+   "segundos": 114.3,
+   "cuadernos_horneados": [
+    "LEEME.txt"
+   ],
+   "subida_a_las": "2026-10-04T18:48:44.747883+00:00"
+  },
+  "TECHO": {
+   "imagen": "gemv-anima:P7_14_TECHO",
+   "etiqueta": "gemv-p7-campo:v56",
+   "version": 56,
+   "policy_version_id": "c58a87bf-bb0a-450a-a62c-6b7df6dd5c27",
+   "segundos": 111.4,
+   "cuadernos_horneados": [
+    "LEEME.txt"
+   ],
+   "subida_a_las": "2026-10-04T18:50:36.168493+00:00"
+  },
+  "APRENDE_s1_d1": {
+   "imagen": "gemv-anima:P7_14_APRENDE_s1_d1",
+   "etiqueta": "gemv-p7-campo:v57",
+   "version": 57,
+   "policy_version_id": "63eb028d-e565-41f7-a7f8-3e12cae9d7b1",
+   "segundos": 111.9,
+   "cuadernos_horneados": [
+    "LEEME.txt"
+   ],
+   "subida_a_las": "2026-10-04T18:52:32.876187+00:00"
+  },
+  "APRENDE_s1_d2": {
+   "imagen": "gemv-anima:P7_14_APRENDE_s1_d2",
+   "etiqueta": "gemv-p7-campo:v58",
+   "version": 58,
+   "policy_version_id": "26eea15d-973c-491c-a26f-fc6834996a9c",
+   "segundos": 112.7,
+   "cuadernos_horneados": [
+    "LEEME.txt",
+    "cuaderno_P7_10.json",
+    "cuaderno_P7_11.json"
+   ],
+   "subida_a_las": "2026-10-04T19:06:33.143723+00:00"
+  },
+  "APRENDE_s1_d3": {
+   "imagen": "gemv-anima:P7_14_APRENDE_s1_d3",
+   "etiqueta": "gemv-p7-campo:v59",
+   "version": 59,
+   "policy_version_id": "c7db1a03-1202-4e50-ac4a-e1a1fb9f2c74",
+   "segundos": 112.4,
+   "cuadernos_horneados": [
+    "LEEME.txt",
+    "cuaderno_P7_10.json",
+    "cuaderno_P7_11.json"
+   ],
+   "subida_a_las": "2026-10-04T19:21:33.858125+00:00"
+  }
+ },
+ "peticiones": [
+  {
+   "serie": 1,
+   "dia": 1,
+   "brazo": "APRENDE",
+   "semilla": 31990564,
+   "pvid": "63eb028d-e565-41f7-a7f8-3e12cae9d7b1",
+   "imagen": "APRENDE_s1_d1",
+   "xreq": "xreq_79e3a299-8f93-4c3e-971d-0f17ebaff404",
+   "ereq": "ereq_6d5a126d-8278-4037-b671-9cb1da7cbae0",
+   "pedida_a_las": "2026-10-04T18:52:32.889095+00:00",
+   "estado": "completed",
+   "coste_usd": 0.095985,
+   "completada_a_las": "2026-10-04T19:04:23.207680Z"
+  },
+  {
+   "serie": 1,
+   "dia": 2,
+   "brazo": "APRENDE",
+   "semilla": 32095293,
+   "pvid": "26eea15d-973c-491c-a26f-fc6834996a9c",
+   "imagen": "APRENDE_s1_d2",
+   "xreq": "xreq_ea0df17e-2675-425a-9831-5f5473c7fa3a",
+   "ereq": "ereq_eff3fec5-738d-4346-87ce-4275f367de76",
+   "pedida_a_las": "2026-10-04T19:06:33.161009+00:00",
+   "estado": "completed",
+   "coste_usd": 0.049211,
+   "completada_a_las": "2026-10-04T19:19:24.539330Z"
+  },
+  {
+   "serie": 1,
+   "dia": 3,
+   "brazo": "APRENDE",
+   "semilla": 32200022,
+   "pvid": "c7db1a03-1202-4e50-ac4a-e1a1fb9f2c74",
+   "imagen": "APRENDE_s1_d3",
+   "xreq": "xreq_0e48ab9d-b1a4-4bcb-9b44-10a4cbd4e4d3",
+   "ereq": "ereq_aa5d4ca2-3546-4bf0-bd7e-3cd20ee29239",
+   "pedida_a_las": "2026-10-04T19:21:33.874888+00:00",
+   "estado": "completed",
+   "coste_usd": 0.109009,
+   "completada_a_las": "2026-10-04T19:34:36.733599Z"
+  }
+ ],
+ "commit_sello": "045b28f189c755ff85fe4e3af0be4f711743afe9"
+}

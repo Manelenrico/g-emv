@@ -1,0 +1,267 @@
+{
+ "imagenes": {
+  "MIENTEN_DOS_s1_d1": {
+   "imagen": "gemv-anima:P7_63_MIENTEN_DOS_s1_d1",
+   "etiqueta": "gemv-p7-campo:v845",
+   "version": 845,
+   "policy_version_id": "2117e00c-ba2d-42e3-aa6d-daad1ea28689",
+   "segundos": 148.2,
+   "cuadernos_horneados": [],
+   "subida_a_las": "2026-10-14T20:51:45.317173+00:00"
+  },
+  "MIENTE_UNA_s1_d1": {
+   "imagen": "gemv-anima:P7_63_MIENTE_UNA_s1_d1",
+   "etiqueta": "gemv-p7-campo:v846",
+   "version": 846,
+   "policy_version_id": "bf146d5d-6810-4714-b0de-ad4be328cb47",
+   "segundos": 145.1,
+   "cuadernos_horneados": [],
+   "subida_a_las": "2026-10-14T20:54:11.214321+00:00"
+  },
+  "MIENTEN_DOS_s1_d2": {
+   "imagen": "gemv-anima:P7_63_MIENTEN_DOS_s1_d2",
+   "etiqueta": "gemv-p7-campo:v847",
+   "version": 847,
+   "policy_version_id": "f023abd8-c86d-41c8-b722-6814997b5d2a",
+   "segundos": 148.2,
+   "cuadernos_horneados": [
+    "cuaderno_P7_10.json",
+    "cuaderno_P7_11.json",
+    "invitaciones_P7_10.json",
+    "invitaciones_P7_11.json",
+    "razon_s1_d1_10.txt",
+    "razon_s1_d1_11.txt"
+   ],
+   "subida_a_las": "2026-10-14T21:11:31.418462+00:00"
+  }
+ },
+ "peticiones": [
+  {
+   "serie": 1,
+   "dia": 1,
+   "brazo": "MIENTEN_DOS",
+   "semilla": 43406025,
+   "pvid": "2117e00c-ba2d-42e3-aa6d-daad1ea28689",
+   "imagen": "MIENTEN_DOS_s1_d1",
+   "xreq": "xreq_471cbcb1-4d19-4193-8374-608a550da08e",
+   "ereq": "ereq_6faa0265-b8c5-4bb6-bc7c-879d7b2d4b9d",
+   "pedida_a_las": "2026-10-14T20:51:45.328198+00:00",
+   "estado": "completed",
+   "coste_usd": 0.068362,
+   "completada_a_las": "2026-10-14T21:05:28.010876Z",
+   "latencia": {
+    "10": {
+     "tics": 11800,
+     "decisiones": 11800,
+     "ms_mediana": 1.1,
+     "ms_p95": 8.02,
+     "ms_max": 23.72,
+     "sobre_el_tic": 0.0,
+     "paso_listo": 2178,
+     "bloqueados": 75,
+     "bloqueados_sin_cuerpo": 1,
+     "fraccion_sin_cuerpo": 0.0005,
+     "pasa": true,
+     "casilla_mas_bloqueada": {
+      "desde": [
+       23,
+       23
+      ],
+      "dir": "E",
+      "hacia": [
+       24,
+       23
+      ],
+      "n": 1
+     },
+     "para": false,
+     "motivo": []
+    },
+    "11": {
+     "tics": 14125,
+     "decisiones": 14125,
+     "ms_mediana": 4.22,
+     "ms_p95": 20.63,
+     "ms_max": 43.75,
+     "sobre_el_tic": 0.0002,
+     "paso_listo": 2705,
+     "bloqueados": 71,
+     "bloqueados_sin_cuerpo": 2,
+     "fraccion_sin_cuerpo": 0.0007,
+     "pasa": true,
+     "casilla_mas_bloqueada": {
+      "desde": [
+       24,
+       23
+      ],
+      "dir": "NW",
+      "hacia": [
+       23,
+       22
+      ],
+      "n": 1
+     },
+     "para": false,
+     "motivo": []
+    }
+   }
+  },
+  {
+   "serie": 1,
+   "dia": 1,
+   "brazo": "MIENTE_UNA",
+   "semilla": 43406025,
+   "pvid": "bf146d5d-6810-4714-b0de-ad4be328cb47",
+   "imagen": "MIENTE_UNA_s1_d1",
+   "xreq": "xreq_09ac27bb-04ac-48f0-b4ef-cc352a064e43",
+   "ereq": "ereq_d041f8ed-d67c-48d7-a312-c810aac9b1eb",
+   "pedida_a_las": "2026-10-14T20:54:11.230238+00:00",
+   "estado": "completed",
+   "coste_usd": 0.126241,
+   "completada_a_las": "2026-10-14T21:07:27.512432Z",
+   "latencia": {
+    "10": {
+     "tics": 14496,
+     "decisiones": 14496,
+     "ms_mediana": 6.84,
+     "ms_p95": 14.61,
+     "ms_max": 40.41,
+     "sobre_el_tic": 0.0,
+     "paso_listo": 8962,
+     "bloqueados": 197,
+     "bloqueados_sin_cuerpo": 1,
+     "fraccion_sin_cuerpo": 0.0001,
+     "pasa": true,
+     "casilla_mas_bloqueada": {
+      "desde": [
+       25,
+       24
+      ],
+      "dir": "SW",
+      "hacia": [
+       24,
+       25
+      ],
+      "n": 1
+     },
+     "para": false,
+     "motivo": []
+    },
+    "11": {
+     "tics": 14496,
+     "decisiones": 14496,
+     "ms_mediana": 12.59,
+     "ms_p95": 24.95,
+     "ms_max": 81.74,
+     "sobre_el_tic": 0.0063,
+     "paso_listo": 9686,
+     "bloqueados": 10,
+     "bloqueados_sin_cuerpo": 3,
+     "fraccion_sin_cuerpo": 0.0003,
+     "pasa": true,
+     "casilla_mas_bloqueada": {
+      "desde": [
+       26,
+       22
+      ],
+      "dir": "N",
+      "hacia": [
+       26,
+       21
+      ],
+      "n": 1
+     },
+     "para": false,
+     "motivo": []
+    }
+   }
+  },
+  {
+   "serie": 1,
+   "dia": 2,
+   "brazo": "MIENTEN_DOS",
+   "semilla": 43510754,
+   "pvid": "f023abd8-c86d-41c8-b722-6814997b5d2a",
+   "imagen": "MIENTEN_DOS_s1_d2",
+   "xreq": "xreq_3962cb62-e21d-4527-81e0-4605dc5a9fac",
+   "ereq": "ereq_3b2e6205-88c6-453a-bb19-25120798b90d",
+   "pedida_a_las": "2026-10-14T21:11:31.427556+00:00",
+   "estado": "completed",
+   "coste_usd": 0.074477,
+   "completada_a_las": "2026-10-14T21:25:40.990203Z",
+   "latencia": {
+    "10": {
+     "tics": 10320,
+     "decisiones": 10320,
+     "ms_mediana": 3.86,
+     "ms_p95": 13.97,
+     "ms_max": 29.85,
+     "sobre_el_tic": 0.0,
+     "paso_listo": 939,
+     "bloqueados": 0,
+     "bloqueados_sin_cuerpo": 0,
+     "fraccion_sin_cuerpo": 0.0,
+     "pasa": true,
+     "casilla_mas_bloqueada": null,
+     "para": false,
+     "motivo": []
+    },
+    "11": {
+     "tics": 9888,
+     "decisiones": 9888,
+     "ms_mediana": 3.54,
+     "ms_p95": 14.93,
+     "ms_max": 40.33,
+     "sobre_el_tic": 0.0,
+     "paso_listo": 900,
+     "bloqueados": 1,
+     "bloqueados_sin_cuerpo": 1,
+     "fraccion_sin_cuerpo": 0.0011,
+     "pasa": true,
+     "casilla_mas_bloqueada": {
+      "desde": [
+       26,
+       12
+      ],
+      "dir": "N",
+      "hacia": [
+       26,
+       11
+      ],
+      "n": 1
+     },
+     "para": false,
+     "motivo": []
+    }
+   }
+  }
+ ],
+ "razon": [
+  {
+   "serie": 1,
+   "dia": 1,
+   "slot": 10,
+   "intento": 1,
+   "tokens_entrada": 6956,
+   "tokens_salida": 2265,
+   "usd_supuesto": 0.0548,
+   "invitaciones": 6,
+   "lineas": 6,
+   "id": "msg_011Cg2p8R6MMK3NG33p4MbRy",
+   "cuando": "2026-10-14T23:08:46.020665"
+  },
+  {
+   "serie": 1,
+   "dia": 1,
+   "slot": 11,
+   "intento": 1,
+   "tokens_entrada": 8788,
+   "tokens_salida": 2253,
+   "usd_supuesto": 0.0602,
+   "invitaciones": 6,
+   "lineas": 6,
+   "id": "msg_011Cg2p9gVq9grX9XnJvzvdU",
+   "cuando": "2026-10-14T23:09:03.106178"
+  }
+ ]
+}

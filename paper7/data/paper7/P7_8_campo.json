@@ -1,0 +1,637 @@
+{
+ "s1_d1_APRENDE_10": {
+  "serie": 1,
+  "dia": 1,
+  "brazo": "APRENDE",
+  "slot": 10,
+  "semilla": 27487217,
+  "ticks_vivos": 12480,
+  "ultimo_tick": 12960,
+  "hp_final": 0,
+  "motivo": "eliminated",
+  "puesto": 8,
+  "causa_muerte": "anillo",
+  "ultimo_dano": [
+   12937,
+   "anillo"
+  ],
+  "dano_ultimos_30": {
+   "anillo": 6.6
+  },
+  "coge": [
+   {
+    "t": 659,
+    "como": "por ganas",
+    "hp": 100,
+    "regalado": false
+   },
+   {
+    "t": 672,
+    "como": "de paso",
+    "hp": 100,
+    "regalado": false
+   }
+  ],
+  "coge_n": 2,
+  "coge_por": {
+   "por ganas": 1,
+   "de paso": 1
+  },
+  "regala_n": 0,
+  "regala": [],
+  "coge_regaladas": 0,
+  "usos": [],
+  "usos_gastados": 0,
+  "usos_interrumpidos": 0,
+  "usos_P7": [],
+  "hace_sitio_n": 3,
+  "oscilaciones": 0,
+  "cuaderno": {
+   "leido": false,
+   "dia_arranque": 1,
+   "dia_fin": 1,
+   "recuerdos": 0,
+   "firmes": 0,
+   "al_menos": 0,
+   "creencias": {},
+   "ignorancia": null,
+   "recuerdos_lista": []
+  }
+ },
+ "s1_d1_APRENDE_11": {
+  "serie": 1,
+  "dia": 1,
+  "brazo": "APRENDE",
+  "slot": 11,
+  "semilla": 27487217,
+  "ticks_vivos": 11898,
+  "ultimo_tick": 12378,
+  "hp_final": 6,
+  "motivo": "eliminated",
+  "puesto": 12,
+  "causa_muerte": "rival",
+  "ultimo_dano": [
+   12359,
+   "rival"
+  ],
+  "dano_ultimos_30": {
+   "rival": 7.2
+  },
+  "coge": [
+   {
+    "t": 604,
+    "como": "por ganas",
+    "hp": 100,
+    "regalado": false
+   }
+  ],
+  "coge_n": 1,
+  "coge_por": {
+   "por ganas": 1
+  },
+  "regala_n": 0,
+  "regala": [],
+  "coge_regaladas": 0,
+  "usos": [
+   {
+    "t0": 12060,
+    "hp0": 92.0,
+    "kits0": 1,
+    "situacion": "dentro",
+    "t_fin": 12079,
+    "hp_fin": 85.0,
+    "curada": -7.0,
+    "gastado": false
+   },
+   {
+    "t0": 12109,
+    "hp0": 78.0,
+    "kits0": 1,
+    "situacion": "dentro",
+    "t_fin": 12139,
+    "hp_fin": 71.0,
+    "curada": -7.0,
+    "gastado": false
+   },
+   {
+    "t0": 12158,
+    "hp0": 71.0,
+    "kits0": 1,
+    "situacion": "dentro",
+    "t_fin": 12159,
+    "hp_fin": 64.0,
+    "curada": -7.0,
+    "gastado": false
+   },
+   {
+    "t0": 12208,
+    "hp0": 49.0,
+    "kits0": 1,
+    "situacion": "dentro",
+    "t_fin": 12239,
+    "hp_fin": 42.0,
+    "curada": -7.0,
+    "gastado": false
+   },
+   {
+    "t0": 12257,
+    "hp0": 42.0,
+    "kits0": 1,
+    "situacion": "dentro",
+    "t_fin": 12259,
+    "hp_fin": 35.0,
+    "curada": -7.0,
+    "gastado": false
+   },
+   {
+    "t0": 12307,
+    "hp0": 20.0,
+    "kits0": 1,
+    "situacion": "dentro",
+    "t_fin": 12319,
+    "hp_fin": 13.0,
+    "curada": -7.0,
+    "gastado": false
+   },
+   {
+    "t0": 12356,
+    "hp0": 13.0,
+    "kits0": 1,
+    "situacion": "dentro",
+    "t_fin": 12359,
+    "hp_fin": 6.0,
+    "curada": -7.0,
+    "gastado": false
+   }
+  ],
+  "usos_gastados": 0,
+  "usos_interrumpidos": 7,
+  "usos_P7": [
+   {
+    "t": 12060,
+    "hp": 92,
+    "situacion": "dentro",
+    "ignorancia": 1.0,
+    "heal_imaginado": 0.0
+   },
+   {
+    "t": 12109,
+    "hp": 78,
+    "situacion": "dentro",
+    "ignorancia": 1.0,
+    "heal_imaginado": 0.0
+   },
+   {
+    "t": 12158,
+    "hp": 71,
+    "situacion": "dentro",
+    "ignorancia": 1.0,
+    "heal_imaginado": 0.0
+   },
+   {
+    "t": 12208,
+    "hp": 49,
+    "situacion": "dentro",
+    "ignorancia": 1.0,
+    "heal_imaginado": 0.0
+   },
+   {
+    "t": 12257,
+    "hp": 42,
+    "situacion": "dentro",
+    "ignorancia": 1.0,
+    "heal_imaginado": 0.0
+   },
+   {
+    "t": 12307,
+    "hp": 20,
+    "situacion": "dentro",
+    "ignorancia": 1.0,
+    "heal_imaginado": 0.0
+   },
+   {
+    "t": 12356,
+    "hp": 13,
+    "situacion": "dentro",
+    "ignorancia": 1.0,
+    "heal_imaginado": 0.0
+   }
+  ],
+  "hace_sitio_n": 0,
+  "oscilaciones": 0,
+  "cuaderno": {
+   "leido": false,
+   "dia_arranque": 1,
+   "dia_fin": 1,
+   "recuerdos": 0,
+   "firmes": 0,
+   "al_menos": 0,
+   "creencias": {},
+   "ignorancia": null,
+   "recuerdos_lista": []
+  }
+ },
+ "s1_d2_APRENDE_10": {
+  "serie": 1,
+  "dia": 2,
+  "brazo": "APRENDE",
+  "slot": 10,
+  "semilla": 27591946,
+  "ticks_vivos": 12559,
+  "ultimo_tick": 13039,
+  "hp_final": 13,
+  "motivo": "eliminated",
+  "puesto": 4,
+  "causa_muerte": "anillo",
+  "ultimo_dano": [
+   12961,
+   "anillo"
+  ],
+  "dano_ultimos_30": {},
+  "coge": [
+   {
+    "t": 604,
+    "como": "por ganas",
+    "hp": 100,
+    "regalado": false
+   }
+  ],
+  "coge_n": 1,
+  "coge_por": {
+   "por ganas": 1
+  },
+  "regala_n": 0,
+  "regala": [],
+  "coge_regaladas": 0,
+  "usos": [
+   {
+    "t0": 1860,
+    "hp0": 92.0,
+    "kits0": 1,
+    "situacion": "dentro",
+    "t_fin": 1881,
+    "hp_fin": 84.0,
+    "curada": -8.0,
+    "gastado": false
+   },
+   {
+    "t0": 1909,
+    "hp0": 84.0,
+    "kits0": 1,
+    "situacion": "dentro",
+    "t_fin": 1957,
+    "hp_fin": 100.0,
+    "curada": 16.0,
+    "gastado": true
+   }
+  ],
+  "usos_gastados": 1,
+  "usos_interrumpidos": 1,
+  "usos_P7": [
+   {
+    "t": 1860,
+    "hp": 92,
+    "situacion": "dentro",
+    "ignorancia": 1.0,
+    "heal_imaginado": 0.0
+   },
+   {
+    "t": 1909,
+    "hp": 84,
+    "situacion": "dentro",
+    "ignorancia": 1.0,
+    "heal_imaginado": 0.0
+   }
+  ],
+  "hace_sitio_n": 0,
+  "oscilaciones": 0,
+  "cuaderno": {
+   "leido": true,
+   "dia_arranque": 2,
+   "dia_fin": 2,
+   "recuerdos": 1,
+   "firmes": 0,
+   "al_menos": 1,
+   "creencias": {
+    "first_aid": {
+     "dentro": {
+      "cuerpo": 8.4618,
+      "recursos": -0.5289,
+      "vinculo": -0.2191
+     },
+     "ignorancia": 0.4711,
+     "pesos_vividos": 1.1225
+    }
+   },
+   "ignorancia": 0.4711,
+   "recuerdos_lista": [
+    {
+     "dia": 2,
+     "tick": 1909,
+     "cuerpo": 16.0,
+     "al_menos": true
+    }
+   ]
+  }
+ },
+ "s1_d2_APRENDE_11": {
+  "serie": 1,
+  "dia": 2,
+  "brazo": "APRENDE",
+  "slot": 11,
+  "semilla": 27591946,
+  "ticks_vivos": 13728,
+  "ultimo_tick": 14208,
+  "hp_final": 14,
+  "motivo": "eliminated",
+  "puesto": 3,
+  "causa_muerte": "anillo",
+  "ultimo_dano": [
+   14185,
+   "anillo"
+  ],
+  "dano_ultimos_30": {
+   "anillo": 19.7
+  },
+  "coge": [
+   {
+    "t": 659,
+    "como": "por curiosidad",
+    "hp": 100,
+    "regalado": false
+   }
+  ],
+  "coge_n": 1,
+  "coge_por": {
+   "por curiosidad": 1
+  },
+  "regala_n": 0,
+  "regala": [],
+  "coge_regaladas": 0,
+  "usos": [
+   {
+    "t0": 1760,
+    "hp0": 92.0,
+    "kits0": 1,
+    "situacion": "dentro",
+    "t_fin": 1808,
+    "hp_fin": 100.0,
+    "curada": 8.0,
+    "gastado": true
+   }
+  ],
+  "usos_gastados": 1,
+  "usos_interrumpidos": 0,
+  "usos_P7": [
+   {
+    "t": 1760,
+    "hp": 92,
+    "situacion": "dentro",
+    "ignorancia": 1.0,
+    "heal_imaginado": 0.0
+   }
+  ],
+  "hace_sitio_n": 0,
+  "oscilaciones": 0,
+  "cuaderno": {
+   "leido": true,
+   "dia_arranque": 2,
+   "dia_fin": 2,
+   "recuerdos": 1,
+   "firmes": 0,
+   "al_menos": 1,
+   "creencias": {
+    "first_aid": {
+     "dentro": {
+      "cuerpo": 4.2835,
+      "recursos": -0.5354,
+      "vinculo": 1.973
+     },
+     "ignorancia": 0.4646,
+     "pesos_vividos": 1.1525
+    }
+   },
+   "ignorancia": 0.4646,
+   "recuerdos_lista": [
+    {
+     "dia": 2,
+     "tick": 1760,
+     "cuerpo": 8.0,
+     "al_menos": true
+    }
+   ]
+  }
+ },
+ "s1_d3_APRENDE_10": {
+  "serie": 1,
+  "dia": 3,
+  "brazo": "APRENDE",
+  "slot": 10,
+  "semilla": 27696675,
+  "ticks_vivos": 14176,
+  "ultimo_tick": 14656,
+  "hp_final": 4,
+  "motivo": "eliminated",
+  "puesto": 5,
+  "causa_muerte": "rival",
+  "ultimo_dano": [
+   14653,
+   "rival"
+  ],
+  "dano_ultimos_30": {
+   "rival": 16.2
+  },
+  "coge": [
+   {
+    "t": 615,
+    "como": "por ganas",
+    "hp": 100,
+    "regalado": false
+   },
+   {
+    "t": 9603,
+    "como": "por ganas",
+    "hp": 100,
+    "regalado": false
+   },
+   {
+    "t": 9920,
+    "como": "por ganas",
+    "hp": 100,
+    "regalado": true
+   },
+   {
+    "t": 10211,
+    "como": "por curiosidad",
+    "hp": 100,
+    "regalado": true
+   },
+   {
+    "t": 11747,
+    "como": "por curiosidad",
+    "hp": 100,
+    "regalado": true
+   }
+  ],
+  "coge_n": 5,
+  "coge_por": {
+   "por ganas": 3,
+   "por curiosidad": 2
+  },
+  "regala_n": 4,
+  "regala": [
+   {
+    "t": 9625,
+    "hp": 100
+   },
+   {
+    "t": 9921,
+    "hp": 100
+   },
+   {
+    "t": 10212,
+    "hp": 100
+   },
+   {
+    "t": 11748,
+    "hp": 100
+   }
+  ],
+  "coge_regaladas": 3,
+  "usos": [
+   {
+    "t0": 9494,
+    "hp0": 89.0,
+    "kits0": 1,
+    "situacion": "dentro",
+    "t_fin": 9542,
+    "hp_fin": 100.0,
+    "curada": 11.0,
+    "gastado": true
+   }
+  ],
+  "usos_gastados": 1,
+  "usos_interrumpidos": 0,
+  "usos_P7": [
+   {
+    "t": 9494,
+    "hp": 89,
+    "situacion": "dentro",
+    "ignorancia": 0.47113808114882316,
+    "heal_imaginado": 8.4618
+   }
+  ],
+  "hace_sitio_n": 1,
+  "oscilaciones": 0,
+  "cuaderno": {
+   "leido": true,
+   "dia_arranque": 3,
+   "dia_fin": 3,
+   "recuerdos": 2,
+   "firmes": 0,
+   "al_menos": 2,
+   "creencias": {
+    "first_aid": {
+     "dentro": {
+      "cuerpo": 9.4255,
+      "recursos": 0.5557,
+      "vinculo": -0.4728
+     },
+     "ignorancia": 0.2778,
+     "pesos_vividos": 2.5999
+    }
+   },
+   "ignorancia": 0.2778,
+   "recuerdos_lista": [
+    {
+     "dia": 2,
+     "tick": 1909,
+     "cuerpo": 16.0,
+     "al_menos": true
+    },
+    {
+     "dia": 3,
+     "tick": 9494,
+     "cuerpo": 11.0,
+     "al_menos": true
+    }
+   ]
+  }
+ },
+ "s1_d3_APRENDE_11": {
+  "serie": 1,
+  "dia": 3,
+  "brazo": "APRENDE",
+  "slot": 11,
+  "semilla": 27696675,
+  "ticks_vivos": 11675,
+  "ultimo_tick": 12155,
+  "hp_final": 2,
+  "motivo": "eliminated",
+  "puesto": 7,
+  "causa_muerte": "rival",
+  "ultimo_dano": [
+   12144,
+   "rival"
+  ],
+  "dano_ultimos_30": {
+   "rival": 11.0
+  },
+  "coge": [
+   {
+    "t": 626,
+    "como": "por ganas",
+    "hp": 100,
+    "regalado": false
+   },
+   {
+    "t": 9555,
+    "como": "de paso",
+    "hp": 100,
+    "regalado": false
+   }
+  ],
+  "coge_n": 2,
+  "coge_por": {
+   "por ganas": 1,
+   "de paso": 1
+  },
+  "regala_n": 0,
+  "regala": [],
+  "coge_regaladas": 0,
+  "usos": [],
+  "usos_gastados": 0,
+  "usos_interrumpidos": 0,
+  "usos_P7": [],
+  "hace_sitio_n": 1,
+  "oscilaciones": 0,
+  "cuaderno": {
+   "leido": true,
+   "dia_arranque": 3,
+   "dia_fin": 3,
+   "recuerdos": 1,
+   "firmes": 0,
+   "al_menos": 1,
+   "creencias": {
+    "first_aid": {
+     "dentro": {
+      "cuerpo": 4.1812,
+      "recursos": -0.5227,
+      "vinculo": 1.9259
+     },
+     "ignorancia": 0.4773,
+     "pesos_vividos": 1.0949
+    }
+   },
+   "ignorancia": 0.4773,
+   "recuerdos_lista": [
+    {
+     "dia": 2,
+     "tick": 1760,
+     "cuerpo": 8.0,
+     "al_menos": true
+    }
+   ]
+  }
+ }
+}

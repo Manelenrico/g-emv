@@ -1,0 +1,2622 @@
+{
+ "resumen": {
+  "usos": 180,
+  "cambian": 3,
+  "por_resultado": {
+   "completado": {
+    "n": 59,
+    "cambian": 0,
+    "efecto_P7_5_mediana": 33.0,
+    "efecto_P7_5_p10": 0.0,
+    "efecto_P7_5_p90": 50.0
+   },
+   "cancelado": {
+    "n": 121,
+    "cambian": 3,
+    "efecto_P7_5_mediana": 0.12,
+    "efecto_P7_5_p10": -0.64,
+    "efecto_P7_5_p90": 0.56
+   }
+  },
+  "diferencia_en_los_que_cambian": {
+   "mediana": -4.0,
+   "min": -4.0,
+   "max": -2.0
+  },
+  "dano_no_conocido_por_causa": {
+   "poison (no conocido)": 10.0
+  },
+  "dano_conocido_por_causa": {
+   "anillo fuera": 1062.719999999999,
+   "rival visto en alcance": 414.8999999999999
+  }
+ },
+ "usos": [
+  {
+   "vida": "P611_t1_A4_20260916/10",
+   "t": 12289,
+   "resultado": "cancelado",
+   "dentro": false,
+   "bruto": -13,
+   "dano_total": 13.12,
+   "dano_conocido": 13.12,
+   "efecto_P7_4": 0.12,
+   "efecto_P7_5": 0.12,
+   "cambia": false,
+   "desglose": {
+    "anillo fuera": 13.12
+   }
+  },
+  {
+   "vida": "P611_t1_A4_20260916/10",
+   "t": 12338,
+   "resultado": "cancelado",
+   "dentro": false,
+   "bruto": -13,
+   "dano_total": 13.12,
+   "dano_conocido": 13.12,
+   "efecto_P7_4": 0.12,
+   "efecto_P7_5": 0.12,
+   "cambia": false,
+   "desglose": {
+    "anillo fuera": 13.12
+   }
+  },
+  {
+   "vida": "P611_t1_A4_20260916/10",
+   "t": 12387,
+   "resultado": "cancelado",
+   "dentro": false,
+   "bruto": -13,
+   "dano_total": 13.12,
+   "dano_conocido": 13.12,
+   "efecto_P7_4": 0.12,
+   "efecto_P7_5": 0.12,
+   "cambia": false,
+   "desglose": {
+    "anillo fuera": 13.12
+   }
+  },
+  {
+   "vida": "P611_t1_A4_20260916/10",
+   "t": 12436,
+   "resultado": "cancelado",
+   "dentro": false,
+   "bruto": -14,
+   "dano_total": 13.12,
+   "dano_conocido": 13.12,
+   "efecto_P7_4": -0.88,
+   "efecto_P7_5": -0.88,
+   "cambia": false,
+   "desglose": {
+    "anillo fuera": 13.12
+   }
+  },
+  {
+   "vida": "P611_t1_A4_20260916/10",
+   "t": 12485,
+   "resultado": "cancelado",
+   "dentro": false,
+   "bruto": -13,
+   "dano_total": 13.12,
+   "dano_conocido": 13.12,
+   "efecto_P7_4": 0.12,
+   "efecto_P7_5": 0.12,
+   "cambia": false,
+   "desglose": {
+    "anillo fuera": 13.12
+   }
+  },
+  {
+   "vida": "P611_t1_A4_20260916/10",
+   "t": 12534,
+   "resultado": "cancelado",
+   "dentro": false,
+   "bruto": -13,
+   "dano_total": 13.12,
+   "dano_conocido": 13.12,
+   "efecto_P7_4": 0.12,
+   "efecto_P7_5": 0.12,
+   "cambia": false,
+   "desglose": {
+    "anillo fuera": 13.12
+   }
+  },
+  {
+   "vida": "P611_t1_A4_20260916/10",
+   "t": 12583,
+   "resultado": "cancelado",
+   "dentro": false,
+   "bruto": -13,
+   "dano_total": 13.12,
+   "dano_conocido": 13.12,
+   "efecto_P7_4": 0.12,
+   "efecto_P7_5": 0.12,
+   "cambia": false,
+   "desglose": {
+    "anillo fuera": 13.12
+   }
+  },
+  {
+   "vida": "P611_t1_A4_20260916/11",
+   "t": 10870,
+   "resultado": "cancelado",
+   "dentro": true,
+   "bruto": -7,
+   "dano_total": 7.2,
+   "dano_conocido": 7.2,
+   "efecto_P7_4": 0.2,
+   "efecto_P7_5": 0.2,
+   "cambia": false,
+   "desglose": {
+    "rival visto en alcance": 7.2
+   }
+  },
+  {
+   "vida": "P611_t1_A4_20260916/11",
+   "t": 10919,
+   "resultado": "completado",
+   "dentro": true,
+   "bruto": 15,
+   "dano_total": 0.0,
+   "dano_conocido": 0.0,
+   "efecto_P7_4": 15,
+   "efecto_P7_5": 15.0,
+   "cambia": false,
+   "desglose": {}
+  },
+  {
+   "vida": "P611_t1_A4_20260916/11",
+   "t": 12745,
+   "resultado": "cancelado",
+   "dentro": false,
+   "bruto": -13,
+   "dano_total": 13.12,
+   "dano_conocido": 13.12,
+   "efecto_P7_4": 0.12,
+   "efecto_P7_5": 0.12,
+   "cambia": false,
+   "desglose": {
+    "anillo fuera": 13.12
+   }
+  },
+  {
+   "vida": "P611_t1_A4_20260916/11",
+   "t": 12794,
+   "resultado": "cancelado",
+   "dentro": false,
+   "bruto": -13,
+   "dano_total": 13.12,
+   "dano_conocido": 13.12,
+   "efecto_P7_4": 0.12,
+   "efecto_P7_5": 0.12,
+   "cambia": false,
+   "desglose": {
+    "anillo fuera": 13.12
+   }
+  },
+  {
+   "vida": "P611_t1_A4_20260916/11",
+   "t": 12843,
+   "resultado": "cancelado",
+   "dentro": false,
+   "bruto": -13,
+   "dano_total": 13.12,
+   "dano_conocido": 13.12,
+   "efecto_P7_4": 0.12,
+   "efecto_P7_5": 0.12,
+   "cambia": false,
+   "desglose": {
+    "anillo fuera": 13.12
+   }
+  },
+  {
+   "vida": "P611_t1_A4_20260916/11",
+   "t": 12892,
+   "resultado": "cancelado",
+   "dentro": false,
+   "bruto": -13,
+   "dano_total": 13.12,
+   "dano_conocido": 13.12,
+   "efecto_P7_4": 0.12,
+   "efecto_P7_5": 0.12,
+   "cambia": false,
+   "desglose": {
+    "anillo fuera": 13.12
+   }
+  },
+  {
+   "vida": "P611_t1_A4_20260916/11",
+   "t": 12941,
+   "resultado": "cancelado",
+   "dentro": false,
+   "bruto": -13,
+   "dano_total": 13.12,
+   "dano_conocido": 13.12,
+   "efecto_P7_4": 0.12,
+   "efecto_P7_5": 0.12,
+   "cambia": false,
+   "desglose": {
+    "anillo fuera": 13.12
+   }
+  },
+  {
+   "vida": "P611_t1_A4_20260916/11",
+   "t": 12990,
+   "resultado": "completado",
+   "dentro": false,
+   "bruto": 50,
+   "dano_total": 0.0,
+   "dano_conocido": 0.0,
+   "efecto_P7_4": 50,
+   "efecto_P7_5": 50.0,
+   "cambia": false,
+   "desglose": {}
+  },
+  {
+   "vida": "P611_t1_A4_20575103/11",
+   "t": 12637,
+   "resultado": "cancelado",
+   "dentro": false,
+   "bruto": -14,
+   "dano_total": 13.12,
+   "dano_conocido": 13.12,
+   "efecto_P7_4": -0.88,
+   "efecto_P7_5": -0.88,
+   "cambia": false,
+   "desglose": {
+    "anillo fuera": 13.12
+   }
+  },
+  {
+   "vida": "P611_t1_A4_20575103/11",
+   "t": 12686,
+   "resultado": "cancelado",
+   "dentro": false,
+   "bruto": -13,
+   "dano_total": 13.12,
+   "dano_conocido": 13.12,
+   "efecto_P7_4": 0.12,
+   "efecto_P7_5": 0.12,
+   "cambia": false,
+   "desglose": {
+    "anillo fuera": 13.12
+   }
+  },
+  {
+   "vida": "P611_t1_A4_20575103/11",
+   "t": 12735,
+   "resultado": "cancelado",
+   "dentro": false,
+   "bruto": -13,
+   "dano_total": 13.12,
+   "dano_conocido": 13.12,
+   "efecto_P7_4": 0.12,
+   "efecto_P7_5": 0.12,
+   "cambia": false,
+   "desglose": {
+    "anillo fuera": 13.12
+   }
+  },
+  {
+   "vida": "P611_t1_A4_20889290/11",
+   "t": 11528,
+   "resultado": "cancelado",
+   "dentro": true,
+   "bruto": -29,
+   "dano_total": 28.8,
+   "dano_conocido": 28.8,
+   "efecto_P7_4": -0.2,
+   "efecto_P7_5": -0.2,
+   "cambia": false,
+   "desglose": {
+    "rival visto en alcance": 28.8
+   }
+  },
+  {
+   "vida": "P611_t1_A4_20889290/11",
+   "t": 11577,
+   "resultado": "cancelado",
+   "dentro": true,
+   "bruto": -22,
+   "dano_total": 21.6,
+   "dano_conocido": 21.6,
+   "efecto_P7_4": -0.4,
+   "efecto_P7_5": -0.4,
+   "cambia": false,
+   "desglose": {
+    "rival visto en alcance": 21.6
+   }
+  },
+  {
+   "vida": "P611_t1_A4_20889290/11",
+   "t": 11626,
+   "resultado": "completado",
+   "dentro": true,
+   "bruto": 50,
+   "dano_total": 0.0,
+   "dano_conocido": 0.0,
+   "efecto_P7_4": 50,
+   "efecto_P7_5": 50.0,
+   "cambia": false,
+   "desglose": {}
+  },
+  {
+   "vida": "P611_t1_A4_20889290/11",
+   "t": 11675,
+   "resultado": "completado",
+   "dentro": true,
+   "bruto": 20,
+   "dano_total": 0.0,
+   "dano_conocido": 0.0,
+   "efecto_P7_4": 20,
+   "efecto_P7_5": 20.0,
+   "cambia": false,
+   "desglose": {}
+  },
+  {
+   "vida": "P611_t1_A4_20889290/11",
+   "t": 12721,
+   "resultado": "completado",
+   "dentro": false,
+   "bruto": 27,
+   "dano_total": 0.0,
+   "dano_conocido": 0.0,
+   "efecto_P7_4": 27,
+   "efecto_P7_5": 27.0,
+   "cambia": false,
+   "desglose": {}
+  },
+  {
+   "vida": "P611_t1_A4_20994019/10",
+   "t": 13777,
+   "resultado": "cancelado",
+   "dentro": false,
+   "bruto": -17,
+   "dano_total": 16.2,
+   "dano_conocido": 16.2,
+   "efecto_P7_4": -0.8,
+   "efecto_P7_5": -0.8,
+   "cambia": false,
+   "desglose": {
+    "rival visto en alcance": 16.2
+   }
+  },
+  {
+   "vida": "P611_t1_A4_20994019/10",
+   "t": 13826,
+   "resultado": "completado",
+   "dentro": true,
+   "bruto": 50,
+   "dano_total": 0.0,
+   "dano_conocido": 0.0,
+   "efecto_P7_4": 50,
+   "efecto_P7_5": 50.0,
+   "cambia": false,
+   "desglose": {}
+  },
+  {
+   "vida": "P611_t1_A4_20994019/10",
+   "t": 13877,
+   "resultado": "completado",
+   "dentro": true,
+   "bruto": 0,
+   "dano_total": 0.0,
+   "dano_conocido": 0.0,
+   "efecto_P7_4": 0,
+   "efecto_P7_5": 0.0,
+   "cambia": false,
+   "desglose": {}
+  },
+  {
+   "vida": "P611_t1_A4_20994019/10",
+   "t": 14200,
+   "resultado": "completado",
+   "dentro": true,
+   "bruto": 0,
+   "dano_total": 0.0,
+   "dano_conocido": 0.0,
+   "efecto_P7_4": 0,
+   "efecto_P7_5": 0.0,
+   "cambia": false,
+   "desglose": {}
+  },
+  {
+   "vida": "P611_t1_A4_21098748/10",
+   "t": 12889,
+   "resultado": "cancelado",
+   "dentro": false,
+   "bruto": -13,
+   "dano_total": 13.12,
+   "dano_conocido": 13.12,
+   "efecto_P7_4": 0.12,
+   "efecto_P7_5": 0.12,
+   "cambia": false,
+   "desglose": {
+    "anillo fuera": 13.12
+   }
+  },
+  {
+   "vida": "P611_t1_A4_21098748/11",
+   "t": 11274,
+   "resultado": "cancelado",
+   "dentro": true,
+   "bruto": -16,
+   "dano_total": 16.0,
+   "dano_conocido": 16.0,
+   "efecto_P7_4": 0.0,
+   "efecto_P7_5": 0.0,
+   "cambia": false,
+   "desglose": {
+    "rival visto en alcance": 16.0
+   }
+  },
+  {
+   "vida": "P611_t1_A4_21098748/11",
+   "t": 11323,
+   "resultado": "completado",
+   "dentro": true,
+   "bruto": 25,
+   "dano_total": 0.0,
+   "dano_conocido": 0.0,
+   "efecto_P7_4": 25,
+   "efecto_P7_5": 25.0,
+   "cambia": false,
+   "desglose": {}
+  },
+  {
+   "vida": "P611_t1_A4_21098748/11",
+   "t": 12746,
+   "resultado": "cancelado",
+   "dentro": false,
+   "bruto": -13,
+   "dano_total": 13.12,
+   "dano_conocido": 13.12,
+   "efecto_P7_4": 0.12,
+   "efecto_P7_5": 0.12,
+   "cambia": false,
+   "desglose": {
+    "anillo fuera": 13.12
+   }
+  },
+  {
+   "vida": "P611_t1_A4_21098748/11",
+   "t": 12795,
+   "resultado": "cancelado",
+   "dentro": false,
+   "bruto": -13,
+   "dano_total": 13.12,
+   "dano_conocido": 13.12,
+   "efecto_P7_4": 0.12,
+   "efecto_P7_5": 0.12,
+   "cambia": false,
+   "desglose": {
+    "anillo fuera": 13.12
+   }
+  },
+  {
+   "vida": "P611_t1_A4_21098748/11",
+   "t": 12844,
+   "resultado": "cancelado",
+   "dentro": false,
+   "bruto": -13,
+   "dano_total": 13.12,
+   "dano_conocido": 13.12,
+   "efecto_P7_4": 0.12,
+   "efecto_P7_5": 0.12,
+   "cambia": false,
+   "desglose": {
+    "anillo fuera": 13.12
+   }
+  },
+  {
+   "vida": "P611_t1_A4_21098748/11",
+   "t": 12893,
+   "resultado": "cancelado",
+   "dentro": false,
+   "bruto": -13,
+   "dano_total": 13.12,
+   "dano_conocido": 13.12,
+   "efecto_P7_4": 0.12,
+   "efecto_P7_5": 0.12,
+   "cambia": false,
+   "desglose": {
+    "anillo fuera": 13.12
+   }
+  },
+  {
+   "vida": "P611_t1_A4_21098748/11",
+   "t": 12942,
+   "resultado": "cancelado",
+   "dentro": false,
+   "bruto": -7,
+   "dano_total": 6.56,
+   "dano_conocido": 6.56,
+   "efecto_P7_4": -0.44,
+   "efecto_P7_5": -0.44,
+   "cambia": false,
+   "desglose": {
+    "anillo fuera": 6.56
+   }
+  },
+  {
+   "vida": "P611_t2_A4_21308206/10",
+   "t": 3676,
+   "resultado": "completado",
+   "dentro": true,
+   "bruto": 33,
+   "dano_total": 0.0,
+   "dano_conocido": 0.0,
+   "efecto_P7_4": 33,
+   "efecto_P7_5": 33.0,
+   "cambia": false,
+   "desglose": {}
+  },
+  {
+   "vida": "P611_t2_A4_21308206/11",
+   "t": 5148,
+   "resultado": "completado",
+   "dentro": true,
+   "bruto": 0,
+   "dano_total": 0.0,
+   "dano_conocido": 0.0,
+   "efecto_P7_4": 0,
+   "efecto_P7_5": 0.0,
+   "cambia": false,
+   "desglose": {}
+  },
+  {
+   "vida": "P611_t2_A4_21308206/11",
+   "t": 5492,
+   "resultado": "completado",
+   "dentro": true,
+   "bruto": 8,
+   "dano_total": 0.0,
+   "dano_conocido": 0.0,
+   "efecto_P7_4": 8,
+   "efecto_P7_5": 8.0,
+   "cambia": false,
+   "desglose": {}
+  },
+  {
+   "vida": "P611_t2_A4_21308206/11",
+   "t": 12649,
+   "resultado": "cancelado",
+   "dentro": false,
+   "bruto": -13,
+   "dano_total": 13.12,
+   "dano_conocido": 13.12,
+   "efecto_P7_4": 0.12,
+   "efecto_P7_5": 0.12,
+   "cambia": false,
+   "desglose": {
+    "anillo fuera": 13.12
+   }
+  },
+  {
+   "vida": "P611_t2_A4_21308206/11",
+   "t": 12698,
+   "resultado": "cancelado",
+   "dentro": false,
+   "bruto": -6,
+   "dano_total": 6.56,
+   "dano_conocido": 6.56,
+   "efecto_P7_4": 0.56,
+   "efecto_P7_5": 0.56,
+   "cambia": false,
+   "desglose": {
+    "anillo fuera": 6.56
+   }
+  },
+  {
+   "vida": "P611_t2_A4_21308206/11",
+   "t": 12747,
+   "resultado": "completado",
+   "dentro": false,
+   "bruto": 46,
+   "dano_total": 0.0,
+   "dano_conocido": 0.0,
+   "efecto_P7_4": 46,
+   "efecto_P7_5": 46.0,
+   "cambia": false,
+   "desglose": {}
+  },
+  {
+   "vida": "P611_t2_A4_21412935/10",
+   "t": 13970,
+   "resultado": "completado",
+   "dentro": true,
+   "bruto": 26,
+   "dano_total": 0.0,
+   "dano_conocido": 0.0,
+   "efecto_P7_4": 26,
+   "efecto_P7_5": 26.0,
+   "cambia": false,
+   "desglose": {}
+  },
+  {
+   "vida": "P611_t2_A4_21412935/11",
+   "t": 13801,
+   "resultado": "cancelado",
+   "dentro": false,
+   "bruto": -32,
+   "dano_total": 32.4,
+   "dano_conocido": 32.4,
+   "efecto_P7_4": 0.4,
+   "efecto_P7_5": 0.4,
+   "cambia": false,
+   "desglose": {
+    "rival visto en alcance": 32.4
+   }
+  },
+  {
+   "vida": "P611_t2_A4_21412935/11",
+   "t": 13850,
+   "resultado": "completado",
+   "dentro": true,
+   "bruto": 50,
+   "dano_total": 0.0,
+   "dano_conocido": 0.0,
+   "efecto_P7_4": 50,
+   "efecto_P7_5": 50.0,
+   "cambia": false,
+   "desglose": {}
+  },
+  {
+   "vida": "P611_t2_A4_21517664/10",
+   "t": 12889,
+   "resultado": "cancelado",
+   "dentro": false,
+   "bruto": -13,
+   "dano_total": 13.12,
+   "dano_conocido": 13.12,
+   "efecto_P7_4": 0.12,
+   "efecto_P7_5": 0.12,
+   "cambia": false,
+   "desglose": {
+    "anillo fuera": 13.12
+   }
+  },
+  {
+   "vida": "P611_t2_A4_21517664/10",
+   "t": 12938,
+   "resultado": "cancelado",
+   "dentro": false,
+   "bruto": -13,
+   "dano_total": 13.12,
+   "dano_conocido": 13.12,
+   "efecto_P7_4": 0.12,
+   "efecto_P7_5": 0.12,
+   "cambia": false,
+   "desglose": {
+    "anillo fuera": 13.12
+   }
+  },
+  {
+   "vida": "P611_t2_A4_21517664/10",
+   "t": 12987,
+   "resultado": "cancelado",
+   "dentro": false,
+   "bruto": -13,
+   "dano_total": 13.12,
+   "dano_conocido": 13.12,
+   "efecto_P7_4": 0.12,
+   "efecto_P7_5": 0.12,
+   "cambia": false,
+   "desglose": {
+    "anillo fuera": 13.12
+   }
+  },
+  {
+   "vida": "P611_t2_A4_21517664/10",
+   "t": 13036,
+   "resultado": "completado",
+   "dentro": true,
+   "bruto": 50,
+   "dano_total": 0.0,
+   "dano_conocido": 0.0,
+   "efecto_P7_4": 50,
+   "efecto_P7_5": 50.0,
+   "cambia": false,
+   "desglose": {}
+  },
+  {
+   "vida": "P611_t2_A4_21517664/10",
+   "t": 13085,
+   "resultado": "completado",
+   "dentro": true,
+   "bruto": 30,
+   "dano_total": 0.0,
+   "dano_conocido": 0.0,
+   "efecto_P7_4": 30,
+   "efecto_P7_5": 30.0,
+   "cambia": false,
+   "desglose": {}
+  },
+  {
+   "vida": "P611_t2_A4_21517664/11",
+   "t": 12817,
+   "resultado": "cancelado",
+   "dentro": false,
+   "bruto": -6,
+   "dano_total": 6.56,
+   "dano_conocido": 6.56,
+   "efecto_P7_4": 0.56,
+   "efecto_P7_5": 0.56,
+   "cambia": false,
+   "desglose": {
+    "anillo fuera": 6.56
+   }
+  },
+  {
+   "vida": "P611_t2_A4_21517664/11",
+   "t": 12866,
+   "resultado": "completado",
+   "dentro": true,
+   "bruto": 46,
+   "dano_total": 0.0,
+   "dano_conocido": 0.0,
+   "efecto_P7_4": 46,
+   "efecto_P7_5": 46.0,
+   "cambia": false,
+   "desglose": {}
+  },
+  {
+   "vida": "P611_t2_A4_21517664/11",
+   "t": 14058,
+   "resultado": "completado",
+   "dentro": true,
+   "bruto": 0,
+   "dano_total": 0.0,
+   "dano_conocido": 0.0,
+   "efecto_P7_4": 0,
+   "efecto_P7_5": 0.0,
+   "cambia": false,
+   "desglose": {}
+  },
+  {
+   "vida": "P611_t2_A4_21622393/10",
+   "t": 1875,
+   "resultado": "completado",
+   "dentro": true,
+   "bruto": 20,
+   "dano_total": 0.0,
+   "dano_conocido": 0.0,
+   "efecto_P7_4": 20,
+   "efecto_P7_5": 20.0,
+   "cambia": false,
+   "desglose": {}
+  },
+  {
+   "vida": "P611_t2_A4_21727122/10",
+   "t": 12457,
+   "resultado": "cancelado",
+   "dentro": false,
+   "bruto": -13,
+   "dano_total": 13.12,
+   "dano_conocido": 13.12,
+   "efecto_P7_4": 0.12,
+   "efecto_P7_5": 0.12,
+   "cambia": false,
+   "desglose": {
+    "anillo fuera": 13.12
+   }
+  },
+  {
+   "vida": "P611_t2_A4_21727122/10",
+   "t": 12506,
+   "resultado": "cancelado",
+   "dentro": false,
+   "bruto": -13,
+   "dano_total": 13.12,
+   "dano_conocido": 13.12,
+   "efecto_P7_4": 0.12,
+   "efecto_P7_5": 0.12,
+   "cambia": false,
+   "desglose": {
+    "anillo fuera": 13.12
+   }
+  },
+  {
+   "vida": "P611_t2_A4_21831851/11",
+   "t": 1496,
+   "resultado": "completado",
+   "dentro": true,
+   "bruto": 50,
+   "dano_total": 0.0,
+   "dano_conocido": 0.0,
+   "efecto_P7_4": 50,
+   "efecto_P7_5": 50.0,
+   "cambia": false,
+   "desglose": {}
+  },
+  {
+   "vida": "P611_t2_A4_21936580/10",
+   "t": 12577,
+   "resultado": "cancelado",
+   "dentro": false,
+   "bruto": -6,
+   "dano_total": 6.56,
+   "dano_conocido": 6.56,
+   "efecto_P7_4": 0.56,
+   "efecto_P7_5": 0.56,
+   "cambia": false,
+   "desglose": {
+    "anillo fuera": 6.56
+   }
+  },
+  {
+   "vida": "P611_t2_A4_21936580/10",
+   "t": 12626,
+   "resultado": "cancelado",
+   "dentro": false,
+   "bruto": -13,
+   "dano_total": 13.12,
+   "dano_conocido": 13.12,
+   "efecto_P7_4": 0.12,
+   "efecto_P7_5": 0.12,
+   "cambia": false,
+   "desglose": {
+    "anillo fuera": 13.12
+   }
+  },
+  {
+   "vida": "P611_t2_A4_21936580/10",
+   "t": 12675,
+   "resultado": "cancelado",
+   "dentro": false,
+   "bruto": -14,
+   "dano_total": 13.12,
+   "dano_conocido": 13.12,
+   "efecto_P7_4": -0.88,
+   "efecto_P7_5": -0.88,
+   "cambia": false,
+   "desglose": {
+    "anillo fuera": 13.12
+   }
+  },
+  {
+   "vida": "P611_t2_A4_21936580/10",
+   "t": 12724,
+   "resultado": "cancelado",
+   "dentro": false,
+   "bruto": -13,
+   "dano_total": 13.12,
+   "dano_conocido": 13.12,
+   "efecto_P7_4": 0.12,
+   "efecto_P7_5": 0.12,
+   "cambia": false,
+   "desglose": {
+    "anillo fuera": 13.12
+   }
+  },
+  {
+   "vida": "P611_t2_A4_21936580/10",
+   "t": 12773,
+   "resultado": "cancelado",
+   "dentro": false,
+   "bruto": -13,
+   "dano_total": 13.12,
+   "dano_conocido": 13.12,
+   "efecto_P7_4": 0.12,
+   "efecto_P7_5": 0.12,
+   "cambia": false,
+   "desglose": {
+    "anillo fuera": 13.12
+   }
+  },
+  {
+   "vida": "P611_t2_A4_21936580/10",
+   "t": 12822,
+   "resultado": "cancelado",
+   "dentro": false,
+   "bruto": -13,
+   "dano_total": 13.12,
+   "dano_conocido": 13.12,
+   "efecto_P7_4": 0.12,
+   "efecto_P7_5": 0.12,
+   "cambia": false,
+   "desglose": {
+    "anillo fuera": 13.12
+   }
+  },
+  {
+   "vida": "P611_t2_A4_22041309/11",
+   "t": 12289,
+   "resultado": "completado",
+   "dentro": false,
+   "bruto": 37,
+   "dano_total": 0.0,
+   "dano_conocido": 0.0,
+   "efecto_P7_4": 37,
+   "efecto_P7_5": 37.0,
+   "cambia": false,
+   "desglose": {}
+  },
+  {
+   "vida": "P624_t1_A4_24450076/10",
+   "t": 12961,
+   "resultado": "cancelado",
+   "dentro": false,
+   "bruto": -20,
+   "dano_total": 19.68,
+   "dano_conocido": 19.68,
+   "efecto_P7_4": -0.32,
+   "efecto_P7_5": -0.32,
+   "cambia": false,
+   "desglose": {
+    "anillo fuera": 19.68
+   }
+  },
+  {
+   "vida": "P624_t1_A4_24450076/10",
+   "t": 13010,
+   "resultado": "cancelado",
+   "dentro": false,
+   "bruto": -16,
+   "dano_total": 16.2,
+   "dano_conocido": 16.2,
+   "efecto_P7_4": 0.2,
+   "efecto_P7_5": 0.2,
+   "cambia": false,
+   "desglose": {
+    "rival visto en alcance": 16.2
+   }
+  },
+  {
+   "vida": "P624_t1_A4_24450076/10",
+   "t": 13059,
+   "resultado": "cancelado",
+   "dentro": true,
+   "bruto": -29,
+   "dano_total": 29.32,
+   "dano_conocido": 29.32,
+   "efecto_P7_4": 0.32,
+   "efecto_P7_5": 0.32,
+   "cambia": false,
+   "desglose": {
+    "rival visto en alcance": 16.2,
+    "anillo fuera": 13.12
+   }
+  },
+  {
+   "vida": "P624_t1_A4_24450076/11",
+   "t": 12649,
+   "resultado": "cancelado",
+   "dentro": false,
+   "bruto": -13,
+   "dano_total": 13.12,
+   "dano_conocido": 13.12,
+   "efecto_P7_4": 0.12,
+   "efecto_P7_5": 0.12,
+   "cambia": false,
+   "desglose": {
+    "anillo fuera": 13.12
+   }
+  },
+  {
+   "vida": "P624_t1_A4_24450076/11",
+   "t": 12698,
+   "resultado": "cancelado",
+   "dentro": false,
+   "bruto": -13,
+   "dano_total": 13.12,
+   "dano_conocido": 13.12,
+   "efecto_P7_4": 0.12,
+   "efecto_P7_5": 0.12,
+   "cambia": false,
+   "desglose": {
+    "anillo fuera": 13.12
+   }
+  },
+  {
+   "vida": "P624_t1_A4_24450076/11",
+   "t": 12747,
+   "resultado": "cancelado",
+   "dentro": false,
+   "bruto": -13,
+   "dano_total": 13.12,
+   "dano_conocido": 13.12,
+   "efecto_P7_4": 0.12,
+   "efecto_P7_5": 0.12,
+   "cambia": false,
+   "desglose": {
+    "anillo fuera": 13.12
+   }
+  },
+  {
+   "vida": "P624_t1_A4_24450076/11",
+   "t": 12796,
+   "resultado": "cancelado",
+   "dentro": false,
+   "bruto": -14,
+   "dano_total": 13.12,
+   "dano_conocido": 13.12,
+   "efecto_P7_4": -0.88,
+   "efecto_P7_5": -0.88,
+   "cambia": false,
+   "desglose": {
+    "anillo fuera": 13.12
+   }
+  },
+  {
+   "vida": "P624_t1_A4_24450076/11",
+   "t": 12845,
+   "resultado": "cancelado",
+   "dentro": false,
+   "bruto": -13,
+   "dano_total": 13.12,
+   "dano_conocido": 13.12,
+   "efecto_P7_4": 0.12,
+   "efecto_P7_5": 0.12,
+   "cambia": false,
+   "desglose": {
+    "anillo fuera": 13.12
+   }
+  },
+  {
+   "vida": "P624_t1_A4_24450076/11",
+   "t": 12894,
+   "resultado": "cancelado",
+   "dentro": false,
+   "bruto": -13,
+   "dano_total": 13.12,
+   "dano_conocido": 13.12,
+   "efecto_P7_4": 0.12,
+   "efecto_P7_5": 0.12,
+   "cambia": false,
+   "desglose": {
+    "anillo fuera": 13.12
+   }
+  },
+  {
+   "vida": "P624_t1_A4_24450076/11",
+   "t": 12943,
+   "resultado": "cancelado",
+   "dentro": false,
+   "bruto": -13,
+   "dano_total": 13.12,
+   "dano_conocido": 13.12,
+   "efecto_P7_4": 0.12,
+   "efecto_P7_5": 0.12,
+   "cambia": false,
+   "desglose": {
+    "anillo fuera": 13.12
+   }
+  },
+  {
+   "vida": "P624_t1_A4_24554805/10",
+   "t": 10759,
+   "resultado": "completado",
+   "dentro": true,
+   "bruto": 50,
+   "dano_total": 0.0,
+   "dano_conocido": 0.0,
+   "efecto_P7_4": 50,
+   "efecto_P7_5": 50.0,
+   "cambia": false,
+   "desglose": {}
+  },
+  {
+   "vida": "P624_t1_A4_24554805/10",
+   "t": 11526,
+   "resultado": "completado",
+   "dentro": true,
+   "bruto": 28,
+   "dano_total": 0.0,
+   "dano_conocido": 0.0,
+   "efecto_P7_4": 28,
+   "efecto_P7_5": 28.0,
+   "cambia": false,
+   "desglose": {}
+  },
+  {
+   "vida": "P624_t1_A4_24554805/11",
+   "t": 10503,
+   "resultado": "cancelado",
+   "dentro": true,
+   "bruto": -8,
+   "dano_total": 7.2,
+   "dano_conocido": 7.2,
+   "efecto_P7_4": -0.8,
+   "efecto_P7_5": -0.8,
+   "cambia": false,
+   "desglose": {
+    "rival visto en alcance": 7.2
+   }
+  },
+  {
+   "vida": "P624_t1_A4_24554805/11",
+   "t": 10553,
+   "resultado": "completado",
+   "dentro": true,
+   "bruto": 16,
+   "dano_total": 0.0,
+   "dano_conocido": 0.0,
+   "efecto_P7_4": 16,
+   "efecto_P7_5": 16.0,
+   "cambia": false,
+   "desglose": {}
+  },
+  {
+   "vida": "P624_t1_A4_24554805/11",
+   "t": 10899,
+   "resultado": "completado",
+   "dentro": true,
+   "bruto": 24,
+   "dano_total": 0.0,
+   "dano_conocido": 0.0,
+   "efecto_P7_4": 24,
+   "efecto_P7_5": 24.0,
+   "cambia": false,
+   "desglose": {}
+  },
+  {
+   "vida": "P624_t1_A4_24659534/11",
+   "t": 12649,
+   "resultado": "cancelado",
+   "dentro": false,
+   "bruto": -27,
+   "dano_total": 27.12,
+   "dano_conocido": 27.12,
+   "efecto_P7_4": 0.12,
+   "efecto_P7_5": 0.12,
+   "cambia": false,
+   "desglose": {
+    "anillo fuera": 13.12,
+    "rival visto en alcance": 14.0
+   }
+  },
+  {
+   "vida": "P624_t1_A4_24659534/11",
+   "t": 12698,
+   "resultado": "cancelado",
+   "dentro": false,
+   "bruto": -13,
+   "dano_total": 13.12,
+   "dano_conocido": 13.12,
+   "efecto_P7_4": 0.12,
+   "efecto_P7_5": 0.12,
+   "cambia": false,
+   "desglose": {
+    "anillo fuera": 13.12
+   }
+  },
+  {
+   "vida": "P624_t1_A4_24659534/11",
+   "t": 12747,
+   "resultado": "cancelado",
+   "dentro": false,
+   "bruto": -16,
+   "dano_total": 16.2,
+   "dano_conocido": 16.2,
+   "efecto_P7_4": 0.2,
+   "efecto_P7_5": 0.2,
+   "cambia": false,
+   "desglose": {
+    "rival visto en alcance": 16.2
+   }
+  },
+  {
+   "vida": "P624_t1_A4_24659534/11",
+   "t": 12796,
+   "resultado": "completado",
+   "dentro": true,
+   "bruto": 50,
+   "dano_total": 0.0,
+   "dano_conocido": 0.0,
+   "efecto_P7_4": 50,
+   "efecto_P7_5": 50.0,
+   "cambia": false,
+   "desglose": {}
+  },
+  {
+   "vida": "P624_t1_A4_24659534/11",
+   "t": 12851,
+   "resultado": "cancelado",
+   "dentro": true,
+   "bruto": -14,
+   "dano_total": 13.12,
+   "dano_conocido": 13.12,
+   "efecto_P7_4": -0.88,
+   "efecto_P7_5": -0.88,
+   "cambia": false,
+   "desglose": {
+    "anillo fuera": 13.12
+   }
+  },
+  {
+   "vida": "P624_t1_A4_24659534/11",
+   "t": 12900,
+   "resultado": "cancelado",
+   "dentro": false,
+   "bruto": -13,
+   "dano_total": 13.12,
+   "dano_conocido": 13.12,
+   "efecto_P7_4": 0.12,
+   "efecto_P7_5": 0.12,
+   "cambia": false,
+   "desglose": {
+    "anillo fuera": 13.12
+   }
+  },
+  {
+   "vida": "P624_t1_A4_24659534/11",
+   "t": 12949,
+   "resultado": "cancelado",
+   "dentro": false,
+   "bruto": -13,
+   "dano_total": 13.12,
+   "dano_conocido": 13.12,
+   "efecto_P7_4": 0.12,
+   "efecto_P7_5": 0.12,
+   "cambia": false,
+   "desglose": {
+    "anillo fuera": 13.12
+   }
+  },
+  {
+   "vida": "P624_t1_A4_24764263/10",
+   "t": 1865,
+   "resultado": "cancelado",
+   "dentro": true,
+   "bruto": -13,
+   "dano_total": 13.2,
+   "dano_conocido": 13.2,
+   "efecto_P7_4": 0.2,
+   "efecto_P7_5": 0.2,
+   "cambia": false,
+   "desglose": {
+    "rival visto en alcance": 13.2
+   }
+  },
+  {
+   "vida": "P624_t1_A4_24764263/10",
+   "t": 1914,
+   "resultado": "completado",
+   "dentro": true,
+   "bruto": 25,
+   "dano_total": 0.0,
+   "dano_conocido": 0.0,
+   "efecto_P7_4": 25,
+   "efecto_P7_5": 25.0,
+   "cambia": false,
+   "desglose": {}
+  },
+  {
+   "vida": "P624_t1_A4_24764263/10",
+   "t": 10754,
+   "resultado": "completado",
+   "dentro": true,
+   "bruto": 3,
+   "dano_total": 0.0,
+   "dano_conocido": 0.0,
+   "efecto_P7_4": 3,
+   "efecto_P7_5": 3.0,
+   "cambia": false,
+   "desglose": {}
+  },
+  {
+   "vida": "P624_t1_A4_24764263/11",
+   "t": 11645,
+   "resultado": "completado",
+   "dentro": true,
+   "bruto": 50,
+   "dano_total": 0.0,
+   "dano_conocido": 0.0,
+   "efecto_P7_4": 50,
+   "efecto_P7_5": 50.0,
+   "cambia": false,
+   "desglose": {}
+  },
+  {
+   "vida": "P624_t1_A4_24868992/10",
+   "t": 10645,
+   "resultado": "completado",
+   "dentro": false,
+   "bruto": 0,
+   "dano_total": 0.0,
+   "dano_conocido": 0.0,
+   "efecto_P7_4": 0,
+   "efecto_P7_5": 0.0,
+   "cambia": false,
+   "desglose": {}
+  },
+  {
+   "vida": "P624_t1_A4_24868992/11",
+   "t": 10105,
+   "resultado": "cancelado",
+   "dentro": false,
+   "bruto": -6,
+   "dano_total": 6.56,
+   "dano_conocido": 6.56,
+   "efecto_P7_4": 0.56,
+   "efecto_P7_5": 0.56,
+   "cambia": false,
+   "desglose": {
+    "anillo fuera": 6.56
+   }
+  },
+  {
+   "vida": "P624_t1_A4_24868992/11",
+   "t": 10154,
+   "resultado": "cancelado",
+   "dentro": false,
+   "bruto": -7,
+   "dano_total": 6.56,
+   "dano_conocido": 6.56,
+   "efecto_P7_4": -0.44,
+   "efecto_P7_5": -0.44,
+   "cambia": false,
+   "desglose": {
+    "anillo fuera": 6.56
+   }
+  },
+  {
+   "vida": "P624_t1_A4_24868992/11",
+   "t": 10203,
+   "resultado": "cancelado",
+   "dentro": false,
+   "bruto": -3,
+   "dano_total": 3.28,
+   "dano_conocido": 3.28,
+   "efecto_P7_4": 0.28,
+   "efecto_P7_5": 0.28,
+   "cambia": false,
+   "desglose": {
+    "anillo fuera": 3.28
+   }
+  },
+  {
+   "vida": "P624_t1_A4_24868992/11",
+   "t": 10252,
+   "resultado": "cancelado",
+   "dentro": true,
+   "bruto": -7,
+   "dano_total": 6.56,
+   "dano_conocido": 6.56,
+   "efecto_P7_4": -0.44,
+   "efecto_P7_5": -0.44,
+   "cambia": false,
+   "desglose": {
+    "anillo fuera": 6.56
+   }
+  },
+  {
+   "vida": "P624_t1_A4_24868992/11",
+   "t": 10301,
+   "resultado": "cancelado",
+   "dentro": false,
+   "bruto": -6,
+   "dano_total": 6.56,
+   "dano_conocido": 6.56,
+   "efecto_P7_4": 0.56,
+   "efecto_P7_5": 0.56,
+   "cambia": false,
+   "desglose": {
+    "anillo fuera": 6.56
+   }
+  },
+  {
+   "vida": "P624_t1_A4_24868992/11",
+   "t": 10350,
+   "resultado": "cancelado",
+   "dentro": false,
+   "bruto": -7,
+   "dano_total": 6.56,
+   "dano_conocido": 6.56,
+   "efecto_P7_4": -0.44,
+   "efecto_P7_5": -0.44,
+   "cambia": false,
+   "desglose": {
+    "anillo fuera": 6.56
+   }
+  },
+  {
+   "vida": "P624_t1_A4_24868992/11",
+   "t": 10399,
+   "resultado": "cancelado",
+   "dentro": false,
+   "bruto": -6,
+   "dano_total": 6.56,
+   "dano_conocido": 6.56,
+   "efecto_P7_4": 0.56,
+   "efecto_P7_5": 0.56,
+   "cambia": false,
+   "desglose": {
+    "anillo fuera": 6.56
+   }
+  },
+  {
+   "vida": "P624_t1_A4_24868992/11",
+   "t": 10448,
+   "resultado": "cancelado",
+   "dentro": false,
+   "bruto": -7,
+   "dano_total": 6.56,
+   "dano_conocido": 6.56,
+   "efecto_P7_4": -0.44,
+   "efecto_P7_5": -0.44,
+   "cambia": false,
+   "desglose": {
+    "anillo fuera": 6.56
+   }
+  },
+  {
+   "vida": "P624_t1_A4_24868992/11",
+   "t": 10497,
+   "resultado": "cancelado",
+   "dentro": false,
+   "bruto": -7,
+   "dano_total": 6.56,
+   "dano_conocido": 6.56,
+   "efecto_P7_4": -0.44,
+   "efecto_P7_5": -0.44,
+   "cambia": false,
+   "desglose": {
+    "anillo fuera": 6.56
+   }
+  },
+  {
+   "vida": "P624_t1_A4_24868992/11",
+   "t": 10546,
+   "resultado": "cancelado",
+   "dentro": false,
+   "bruto": -6,
+   "dano_total": 6.56,
+   "dano_conocido": 6.56,
+   "efecto_P7_4": 0.56,
+   "efecto_P7_5": 0.56,
+   "cambia": false,
+   "desglose": {
+    "anillo fuera": 6.56
+   }
+  },
+  {
+   "vida": "P624_t1_A4_24868992/11",
+   "t": 10595,
+   "resultado": "cancelado",
+   "dentro": false,
+   "bruto": -7,
+   "dano_total": 6.56,
+   "dano_conocido": 6.56,
+   "efecto_P7_4": -0.44,
+   "efecto_P7_5": -0.44,
+   "cambia": false,
+   "desglose": {
+    "anillo fuera": 6.56
+   }
+  },
+  {
+   "vida": "P624_t1_A4_24868992/11",
+   "t": 10650,
+   "resultado": "cancelado",
+   "dentro": false,
+   "bruto": -6,
+   "dano_total": 6.56,
+   "dano_conocido": 6.56,
+   "efecto_P7_4": 0.56,
+   "efecto_P7_5": 0.56,
+   "cambia": false,
+   "desglose": {
+    "anillo fuera": 6.56
+   }
+  },
+  {
+   "vida": "P624_t1_A4_24868992/11",
+   "t": 10699,
+   "resultado": "completado",
+   "dentro": true,
+   "bruto": 50,
+   "dano_total": 0.0,
+   "dano_conocido": 0.0,
+   "efecto_P7_4": 50,
+   "efecto_P7_5": 50.0,
+   "cambia": false,
+   "desglose": {}
+  },
+  {
+   "vida": "P624_t1_A4_24973721/11",
+   "t": 10413,
+   "resultado": "completado",
+   "dentro": true,
+   "bruto": 22,
+   "dano_total": 0.0,
+   "dano_conocido": 0.0,
+   "efecto_P7_4": 22,
+   "efecto_P7_5": 22.0,
+   "cambia": false,
+   "desglose": {}
+  },
+  {
+   "vida": "P624_t1_A4_24973721/11",
+   "t": 10808,
+   "resultado": "cancelado",
+   "dentro": true,
+   "bruto": -21,
+   "dano_total": 21.6,
+   "dano_conocido": 21.6,
+   "efecto_P7_4": 0.6,
+   "efecto_P7_5": 0.6,
+   "cambia": false,
+   "desglose": {
+    "rival visto en alcance": 21.6
+   }
+  },
+  {
+   "vida": "P624_t1_A4_24973721/11",
+   "t": 10857,
+   "resultado": "cancelado",
+   "dentro": true,
+   "bruto": -20,
+   "dano_total": 19.8,
+   "dano_conocido": 19.8,
+   "efecto_P7_4": -0.2,
+   "efecto_P7_5": -0.2,
+   "cambia": false,
+   "desglose": {
+    "rival visto en alcance": 19.8
+   }
+  },
+  {
+   "vida": "P624_t1_A4_24973721/11",
+   "t": 10907,
+   "resultado": "cancelado",
+   "dentro": true,
+   "bruto": -14,
+   "dano_total": 13.5,
+   "dano_conocido": 13.5,
+   "efecto_P7_4": -0.5,
+   "efecto_P7_5": -0.5,
+   "cambia": false,
+   "desglose": {
+    "rival visto en alcance": 13.5
+   }
+  },
+  {
+   "vida": "P624_t1_A4_24973721/11",
+   "t": 10956,
+   "resultado": "completado",
+   "dentro": true,
+   "bruto": 50,
+   "dano_total": 0.0,
+   "dano_conocido": 0.0,
+   "efecto_P7_4": 50,
+   "efecto_P7_5": 50.0,
+   "cambia": false,
+   "desglose": {}
+  },
+  {
+   "vida": "P624_t1_A4_25078450/10",
+   "t": 12859,
+   "resultado": "cancelado",
+   "dentro": false,
+   "bruto": -13,
+   "dano_total": 13.12,
+   "dano_conocido": 13.12,
+   "efecto_P7_4": 0.12,
+   "efecto_P7_5": 0.12,
+   "cambia": false,
+   "desglose": {
+    "anillo fuera": 13.12
+   }
+  },
+  {
+   "vida": "P624_t1_A4_25078450/10",
+   "t": 12908,
+   "resultado": "cancelado",
+   "dentro": false,
+   "bruto": -13,
+   "dano_total": 13.12,
+   "dano_conocido": 13.12,
+   "efecto_P7_4": 0.12,
+   "efecto_P7_5": 0.12,
+   "cambia": false,
+   "desglose": {
+    "anillo fuera": 13.12
+   }
+  },
+  {
+   "vida": "P624_t1_A4_25078450/10",
+   "t": 12957,
+   "resultado": "cancelado",
+   "dentro": false,
+   "bruto": -7,
+   "dano_total": 6.56,
+   "dano_conocido": 6.56,
+   "efecto_P7_4": -0.44,
+   "efecto_P7_5": -0.44,
+   "cambia": false,
+   "desglose": {
+    "anillo fuera": 6.56
+   }
+  },
+  {
+   "vida": "P624_t1_A4_25078450/10",
+   "t": 14137,
+   "resultado": "completado",
+   "dentro": true,
+   "bruto": 50,
+   "dano_total": 0.0,
+   "dano_conocido": 0.0,
+   "efecto_P7_4": 50,
+   "efecto_P7_5": 50.0,
+   "cambia": false,
+   "desglose": {}
+  },
+  {
+   "vida": "P624_t1_A4_25078450/10",
+   "t": 14593,
+   "resultado": "cancelado",
+   "dentro": false,
+   "bruto": -40,
+   "dano_total": 39.36,
+   "dano_conocido": 39.36,
+   "efecto_P7_4": -0.64,
+   "efecto_P7_5": -0.64,
+   "cambia": false,
+   "desglose": {
+    "anillo fuera": 39.36
+   }
+  },
+  {
+   "vida": "P624_t1_A4_25078450/11",
+   "t": 9584,
+   "resultado": "completado",
+   "dentro": true,
+   "bruto": 8,
+   "dano_total": 0.0,
+   "dano_conocido": 0.0,
+   "efecto_P7_4": 8,
+   "efecto_P7_5": 8.0,
+   "cambia": false,
+   "desglose": {}
+  },
+  {
+   "vida": "P624_t1_A4_25078450/11",
+   "t": 11625,
+   "resultado": "completado",
+   "dentro": true,
+   "bruto": 49,
+   "dano_total": 0.0,
+   "dano_conocido": 0.0,
+   "efecto_P7_4": 49,
+   "efecto_P7_5": 49.0,
+   "cambia": false,
+   "desglose": {}
+  },
+  {
+   "vida": "P624_t1_A4_25183179/10",
+   "t": 12265,
+   "resultado": "cancelado",
+   "dentro": false,
+   "bruto": -14,
+   "dano_total": 13.12,
+   "dano_conocido": 13.12,
+   "efecto_P7_4": -0.88,
+   "efecto_P7_5": -0.88,
+   "cambia": false,
+   "desglose": {
+    "anillo fuera": 13.12
+   }
+  },
+  {
+   "vida": "P624_t1_A4_25183179/10",
+   "t": 12314,
+   "resultado": "cancelado",
+   "dentro": false,
+   "bruto": -13,
+   "dano_total": 13.12,
+   "dano_conocido": 13.12,
+   "efecto_P7_4": 0.12,
+   "efecto_P7_5": 0.12,
+   "cambia": false,
+   "desglose": {
+    "anillo fuera": 13.12
+   }
+  },
+  {
+   "vida": "P624_t1_A4_25183179/10",
+   "t": 12363,
+   "resultado": "cancelado",
+   "dentro": false,
+   "bruto": -13,
+   "dano_total": 13.12,
+   "dano_conocido": 13.12,
+   "efecto_P7_4": 0.12,
+   "efecto_P7_5": 0.12,
+   "cambia": false,
+   "desglose": {
+    "anillo fuera": 13.12
+   }
+  },
+  {
+   "vida": "P624_t1_A4_25183179/10",
+   "t": 12412,
+   "resultado": "cancelado",
+   "dentro": false,
+   "bruto": -13,
+   "dano_total": 13.12,
+   "dano_conocido": 13.12,
+   "efecto_P7_4": 0.12,
+   "efecto_P7_5": 0.12,
+   "cambia": false,
+   "desglose": {
+    "anillo fuera": 13.12
+   }
+  },
+  {
+   "vida": "P624_t1_A4_25392637/10",
+   "t": 12769,
+   "resultado": "cancelado",
+   "dentro": false,
+   "bruto": -13,
+   "dano_total": 13.12,
+   "dano_conocido": 13.12,
+   "efecto_P7_4": 0.12,
+   "efecto_P7_5": 0.12,
+   "cambia": false,
+   "desglose": {
+    "anillo fuera": 13.12
+   }
+  },
+  {
+   "vida": "P624_t1_A4_25392637/10",
+   "t": 12818,
+   "resultado": "cancelado",
+   "dentro": false,
+   "bruto": -14,
+   "dano_total": 13.12,
+   "dano_conocido": 13.12,
+   "efecto_P7_4": -0.88,
+   "efecto_P7_5": -0.88,
+   "cambia": false,
+   "desglose": {
+    "anillo fuera": 13.12
+   }
+  },
+  {
+   "vida": "P624_t1_A4_25392637/10",
+   "t": 12867,
+   "resultado": "cancelado",
+   "dentro": false,
+   "bruto": -13,
+   "dano_total": 13.12,
+   "dano_conocido": 13.12,
+   "efecto_P7_4": 0.12,
+   "efecto_P7_5": 0.12,
+   "cambia": false,
+   "desglose": {
+    "anillo fuera": 13.12
+   }
+  },
+  {
+   "vida": "P624_t1_A4_25392637/10",
+   "t": 12916,
+   "resultado": "cancelado",
+   "dentro": false,
+   "bruto": -6,
+   "dano_total": 6.56,
+   "dano_conocido": 6.56,
+   "efecto_P7_4": 0.56,
+   "efecto_P7_5": 0.56,
+   "cambia": false,
+   "desglose": {
+    "anillo fuera": 6.56
+   }
+  },
+  {
+   "vida": "P624_t1_A4_25392637/11",
+   "t": 12673,
+   "resultado": "cancelado",
+   "dentro": false,
+   "bruto": -7,
+   "dano_total": 6.56,
+   "dano_conocido": 6.56,
+   "efecto_P7_4": -0.44,
+   "efecto_P7_5": -0.44,
+   "cambia": false,
+   "desglose": {
+    "anillo fuera": 6.56
+   }
+  },
+  {
+   "vida": "P624_t1_A4_25392637/11",
+   "t": 12722,
+   "resultado": "cancelado",
+   "dentro": true,
+   "bruto": -13,
+   "dano_total": 13.12,
+   "dano_conocido": 13.12,
+   "efecto_P7_4": 0.12,
+   "efecto_P7_5": 0.12,
+   "cambia": false,
+   "desglose": {
+    "anillo fuera": 13.12
+   }
+  },
+  {
+   "vida": "P624_t1_A4_25392637/11",
+   "t": 12771,
+   "resultado": "completado",
+   "dentro": true,
+   "bruto": 50,
+   "dano_total": 0.0,
+   "dano_conocido": 0.0,
+   "efecto_P7_4": 50,
+   "efecto_P7_5": 50.0,
+   "cambia": false,
+   "desglose": {}
+  },
+  {
+   "vida": "P624_t1_A4_25811553/10",
+   "t": 11545,
+   "resultado": "cancelado",
+   "dentro": false,
+   "bruto": -5,
+   "dano_total": 4.92,
+   "dano_conocido": 4.92,
+   "efecto_P7_4": -0.08,
+   "efecto_P7_5": -0.08,
+   "cambia": false,
+   "desglose": {
+    "anillo fuera": 4.92
+   }
+  },
+  {
+   "vida": "P624_t1_A4_25811553/10",
+   "t": 11594,
+   "resultado": "cancelado",
+   "dentro": true,
+   "bruto": -5,
+   "dano_total": 4.92,
+   "dano_conocido": 4.92,
+   "efecto_P7_4": -0.08,
+   "efecto_P7_5": -0.08,
+   "cambia": false,
+   "desglose": {
+    "anillo fuera": 4.92
+   }
+  },
+  {
+   "vida": "P624_t1_A4_25811553/10",
+   "t": 11643,
+   "resultado": "cancelado",
+   "dentro": false,
+   "bruto": -5,
+   "dano_total": 4.92,
+   "dano_conocido": 4.92,
+   "efecto_P7_4": -0.08,
+   "efecto_P7_5": -0.08,
+   "cambia": false,
+   "desglose": {
+    "anillo fuera": 4.92
+   }
+  },
+  {
+   "vida": "P624_t1_A4_25811553/10",
+   "t": 11692,
+   "resultado": "cancelado",
+   "dentro": true,
+   "bruto": -5,
+   "dano_total": 4.92,
+   "dano_conocido": 4.92,
+   "efecto_P7_4": -0.08,
+   "efecto_P7_5": -0.08,
+   "cambia": false,
+   "desglose": {
+    "anillo fuera": 4.92
+   }
+  },
+  {
+   "vida": "P624_t1_A4_25811553/10",
+   "t": 11741,
+   "resultado": "cancelado",
+   "dentro": false,
+   "bruto": -10,
+   "dano_total": 9.84,
+   "dano_conocido": 9.84,
+   "efecto_P7_4": -0.16,
+   "efecto_P7_5": -0.16,
+   "cambia": false,
+   "desglose": {
+    "anillo fuera": 9.84
+   }
+  },
+  {
+   "vida": "P624_t1_A4_25811553/10",
+   "t": 11790,
+   "resultado": "cancelado",
+   "dentro": false,
+   "bruto": -10,
+   "dano_total": 9.84,
+   "dano_conocido": 9.84,
+   "efecto_P7_4": -0.16,
+   "efecto_P7_5": -0.16,
+   "cambia": false,
+   "desglose": {
+    "anillo fuera": 9.84
+   }
+  },
+  {
+   "vida": "P624_t1_A4_25811553/10",
+   "t": 11839,
+   "resultado": "cancelado",
+   "dentro": false,
+   "bruto": -13,
+   "dano_total": 13.12,
+   "dano_conocido": 13.12,
+   "efecto_P7_4": 0.12,
+   "efecto_P7_5": 0.12,
+   "cambia": false,
+   "desglose": {
+    "anillo fuera": 13.12
+   }
+  },
+  {
+   "vida": "P624_t1_A4_25811553/10",
+   "t": 11888,
+   "resultado": "cancelado",
+   "dentro": false,
+   "bruto": -6,
+   "dano_total": 6.56,
+   "dano_conocido": 6.56,
+   "efecto_P7_4": 0.56,
+   "efecto_P7_5": 0.56,
+   "cambia": false,
+   "desglose": {
+    "anillo fuera": 6.56
+   }
+  },
+  {
+   "vida": "P624_t1_A4_25811553/10",
+   "t": 11937,
+   "resultado": "completado",
+   "dentro": true,
+   "bruto": 50,
+   "dano_total": 0.0,
+   "dano_conocido": 0.0,
+   "efecto_P7_4": 50,
+   "efecto_P7_5": 50.0,
+   "cambia": false,
+   "desglose": {}
+  },
+  {
+   "vida": "P624_t1_A4_25811553/10",
+   "t": 12202,
+   "resultado": "cancelado",
+   "dentro": true,
+   "bruto": -7,
+   "dano_total": 6.56,
+   "dano_conocido": 6.56,
+   "efecto_P7_4": -0.44,
+   "efecto_P7_5": -0.44,
+   "cambia": false,
+   "desglose": {
+    "anillo fuera": 6.56
+   }
+  },
+  {
+   "vida": "P624_t1_A4_25811553/10",
+   "t": 12251,
+   "resultado": "cancelado",
+   "dentro": true,
+   "bruto": -6,
+   "dano_total": 6.56,
+   "dano_conocido": 6.56,
+   "efecto_P7_4": 0.56,
+   "efecto_P7_5": 0.56,
+   "cambia": false,
+   "desglose": {
+    "anillo fuera": 6.56
+   }
+  },
+  {
+   "vida": "P624_t1_A4_25811553/10",
+   "t": 12301,
+   "resultado": "cancelado",
+   "dentro": false,
+   "bruto": -13,
+   "dano_total": 13.12,
+   "dano_conocido": 13.12,
+   "efecto_P7_4": 0.12,
+   "efecto_P7_5": 0.12,
+   "cambia": false,
+   "desglose": {
+    "anillo fuera": 13.12
+   }
+  },
+  {
+   "vida": "P624_t1_A4_25811553/10",
+   "t": 12350,
+   "resultado": "completado",
+   "dentro": false,
+   "bruto": 50,
+   "dano_total": 0.0,
+   "dano_conocido": 0.0,
+   "efecto_P7_4": 50,
+   "efecto_P7_5": 50.0,
+   "cambia": false,
+   "desglose": {}
+  },
+  {
+   "vida": "P624_t1_A4_25811553/11",
+   "t": 12601,
+   "resultado": "cancelado",
+   "dentro": false,
+   "bruto": -13,
+   "dano_total": 13.12,
+   "dano_conocido": 13.12,
+   "efecto_P7_4": 0.12,
+   "efecto_P7_5": 0.12,
+   "cambia": false,
+   "desglose": {
+    "anillo fuera": 13.12
+   }
+  },
+  {
+   "vida": "P624_t1_A4_25916282/10",
+   "t": 11782,
+   "resultado": "completado",
+   "dentro": true,
+   "bruto": 0,
+   "dano_total": 0.0,
+   "dano_conocido": 0.0,
+   "efecto_P7_4": 0,
+   "efecto_P7_5": 0.0,
+   "cambia": false,
+   "desglose": {}
+  },
+  {
+   "vida": "P624_t1_A4_25916282/10",
+   "t": 12277,
+   "resultado": "completado",
+   "dentro": true,
+   "bruto": 0,
+   "dano_total": 0.0,
+   "dano_conocido": 0.0,
+   "efecto_P7_4": 0,
+   "efecto_P7_5": 0.0,
+   "cambia": false,
+   "desglose": {}
+  },
+  {
+   "vida": "P624_t1_A4_25916282/10",
+   "t": 12607,
+   "resultado": "completado",
+   "dentro": true,
+   "bruto": 50,
+   "dano_total": 0.0,
+   "dano_conocido": 0.0,
+   "efecto_P7_4": 50,
+   "efecto_P7_5": 50.0,
+   "cambia": false,
+   "desglose": {}
+  },
+  {
+   "vida": "P624_t1_A4_25916282/10",
+   "t": 12769,
+   "resultado": "cancelado",
+   "dentro": false,
+   "bruto": -13,
+   "dano_total": 13.12,
+   "dano_conocido": 13.12,
+   "efecto_P7_4": 0.12,
+   "efecto_P7_5": 0.12,
+   "cambia": false,
+   "desglose": {
+    "anillo fuera": 13.12
+   }
+  },
+  {
+   "vida": "P624_t1_A4_25916282/10",
+   "t": 12818,
+   "resultado": "cancelado",
+   "dentro": false,
+   "bruto": -13,
+   "dano_total": 13.12,
+   "dano_conocido": 13.12,
+   "efecto_P7_4": 0.12,
+   "efecto_P7_5": 0.12,
+   "cambia": false,
+   "desglose": {
+    "anillo fuera": 13.12
+   }
+  },
+  {
+   "vida": "P624_t1_A4_25916282/10",
+   "t": 12867,
+   "resultado": "cancelado",
+   "dentro": false,
+   "bruto": -13,
+   "dano_total": 13.12,
+   "dano_conocido": 13.12,
+   "efecto_P7_4": 0.12,
+   "efecto_P7_5": 0.12,
+   "cambia": false,
+   "desglose": {
+    "anillo fuera": 13.12
+   }
+  },
+  {
+   "vida": "P624_t1_A4_25916282/10",
+   "t": 12916,
+   "resultado": "cancelado",
+   "dentro": false,
+   "bruto": -13,
+   "dano_total": 13.12,
+   "dano_conocido": 13.12,
+   "efecto_P7_4": 0.12,
+   "efecto_P7_5": 0.12,
+   "cambia": false,
+   "desglose": {
+    "anillo fuera": 13.12
+   }
+  },
+  {
+   "vida": "P624_t1_A4_25916282/10",
+   "t": 12965,
+   "resultado": "cancelado",
+   "dentro": false,
+   "bruto": -7,
+   "dano_total": 6.56,
+   "dano_conocido": 6.56,
+   "efecto_P7_4": -0.44,
+   "efecto_P7_5": -0.44,
+   "cambia": false,
+   "desglose": {
+    "anillo fuera": 6.56
+   }
+  },
+  {
+   "vida": "P624_t1_A4_25916282/10",
+   "t": 13014,
+   "resultado": "completado",
+   "dentro": true,
+   "bruto": 50,
+   "dano_total": 0.0,
+   "dano_conocido": 0.0,
+   "efecto_P7_4": 50,
+   "efecto_P7_5": 50.0,
+   "cambia": false,
+   "desglose": {}
+  },
+  {
+   "vida": "P624_t1_A4_25916282/11",
+   "t": 4850,
+   "resultado": "completado",
+   "dentro": true,
+   "bruto": 17,
+   "dano_total": 0.0,
+   "dano_conocido": 0.0,
+   "efecto_P7_4": 17,
+   "efecto_P7_5": 17.0,
+   "cambia": false,
+   "desglose": {}
+  },
+  {
+   "vida": "P624_t1_A4_25916282/11",
+   "t": 10666,
+   "resultado": "cancelado",
+   "dentro": true,
+   "bruto": -16,
+   "dano_total": 16.2,
+   "dano_conocido": 16.2,
+   "efecto_P7_4": 0.2,
+   "efecto_P7_5": 0.2,
+   "cambia": false,
+   "desglose": {
+    "rival visto en alcance": 16.2
+   }
+  },
+  {
+   "vida": "P624_t1_A4_25916282/11",
+   "t": 10715,
+   "resultado": "completado",
+   "dentro": true,
+   "bruto": 50,
+   "dano_total": 0.0,
+   "dano_conocido": 0.0,
+   "efecto_P7_4": 50,
+   "efecto_P7_5": 50.0,
+   "cambia": false,
+   "desglose": {}
+  },
+  {
+   "vida": "P624_t1_A4_25916282/11",
+   "t": 12244,
+   "resultado": "completado",
+   "dentro": true,
+   "bruto": 0,
+   "dano_total": 0.0,
+   "dano_conocido": 0.0,
+   "efecto_P7_4": 0,
+   "efecto_P7_5": 0.0,
+   "cambia": false,
+   "desglose": {}
+  },
+  {
+   "vida": "P624_t1_A4_26021011/10",
+   "t": 9911,
+   "resultado": "completado",
+   "dentro": true,
+   "bruto": 9,
+   "dano_total": 0.0,
+   "dano_conocido": 0.0,
+   "efecto_P7_4": 9,
+   "efecto_P7_5": 9.0,
+   "cambia": false,
+   "desglose": {}
+  },
+  {
+   "vida": "P624_t1_A4_26021011/10",
+   "t": 12491,
+   "resultado": "cancelado",
+   "dentro": true,
+   "bruto": -21,
+   "dano_total": 21.6,
+   "dano_conocido": 21.6,
+   "efecto_P7_4": 0.6,
+   "efecto_P7_5": 0.6,
+   "cambia": false,
+   "desglose": {
+    "rival visto en alcance": 21.6
+   }
+  },
+  {
+   "vida": "P624_t1_A4_26021011/10",
+   "t": 12540,
+   "resultado": "cancelado",
+   "dentro": true,
+   "bruto": -33,
+   "dano_total": 32.4,
+   "dano_conocido": 32.4,
+   "efecto_P7_4": -0.6,
+   "efecto_P7_5": -0.6,
+   "cambia": false,
+   "desglose": {
+    "rival visto en alcance": 32.4
+   }
+  },
+  {
+   "vida": "P624_t1_A4_26021011/11",
+   "t": 12157,
+   "resultado": "completado",
+   "dentro": true,
+   "bruto": 3,
+   "dano_total": 0.0,
+   "dano_conocido": 0.0,
+   "efecto_P7_4": 3,
+   "efecto_P7_5": 3.0,
+   "cambia": false,
+   "desglose": {}
+  },
+  {
+   "vida": "P624_t1_A4_26021011/11",
+   "t": 12795,
+   "resultado": "cancelado",
+   "dentro": true,
+   "bruto": -11,
+   "dano_total": 10.8,
+   "dano_conocido": 10.8,
+   "efecto_P7_4": -0.2,
+   "efecto_P7_5": -0.2,
+   "cambia": false,
+   "desglose": {
+    "rival visto en alcance": 10.8
+   }
+  },
+  {
+   "vida": "P624_t1_A4_26021011/11",
+   "t": 12844,
+   "resultado": "cancelado",
+   "dentro": true,
+   "bruto": -18,
+   "dano_total": 18.0,
+   "dano_conocido": 18.0,
+   "efecto_P7_4": 0.0,
+   "efecto_P7_5": 0.0,
+   "cambia": false,
+   "desglose": {
+    "rival visto en alcance": 18.0
+   }
+  },
+  {
+   "vida": "P624_t1_A4_26021011/11",
+   "t": 12893,
+   "resultado": "cancelado",
+   "dentro": true,
+   "bruto": -9,
+   "dano_total": 9.0,
+   "dano_conocido": 9.0,
+   "efecto_P7_4": 0.0,
+   "efecto_P7_5": 0.0,
+   "cambia": false,
+   "desglose": {
+    "rival visto en alcance": 9.0
+   }
+  },
+  {
+   "vida": "P624_t1_A4_26021011/11",
+   "t": 12942,
+   "resultado": "cancelado",
+   "dentro": true,
+   "bruto": -15,
+   "dano_total": 15.56,
+   "dano_conocido": 15.56,
+   "efecto_P7_4": 0.56,
+   "efecto_P7_5": 0.56,
+   "cambia": false,
+   "desglose": {
+    "rival visto en alcance": 9.0,
+    "anillo fuera": 6.56
+   }
+  },
+  {
+   "vida": "P624_t1_A4_26125740/10",
+   "t": 11239,
+   "resultado": "completado",
+   "dentro": true,
+   "bruto": 35,
+   "dano_total": 0.0,
+   "dano_conocido": 0.0,
+   "efecto_P7_4": 35,
+   "efecto_P7_5": 35.0,
+   "cambia": false,
+   "desglose": {}
+  },
+  {
+   "vida": "P624_t1_A4_26125740/11",
+   "t": 11569,
+   "resultado": "cancelado",
+   "dentro": false,
+   "bruto": -10,
+   "dano_total": 9.84,
+   "dano_conocido": 9.84,
+   "efecto_P7_4": -0.16,
+   "efecto_P7_5": -0.16,
+   "cambia": false,
+   "desglose": {
+    "anillo fuera": 9.84
+   }
+  },
+  {
+   "vida": "P624_t1_A4_26125740/11",
+   "t": 11618,
+   "resultado": "completado",
+   "dentro": false,
+   "bruto": 47,
+   "dano_total": 0.0,
+   "dano_conocido": 0.0,
+   "efecto_P7_4": 47,
+   "efecto_P7_5": 47.0,
+   "cambia": false,
+   "desglose": {}
+  },
+  {
+   "vida": "P624_t1_A4_26230469/10",
+   "t": 2388,
+   "resultado": "cancelado",
+   "dentro": true,
+   "bruto": -8,
+   "dano_total": 8.0,
+   "dano_conocido": 8.0,
+   "efecto_P7_4": 0.0,
+   "efecto_P7_5": 0.0,
+   "cambia": false,
+   "desglose": {
+    "rival visto en alcance": 8.0
+   }
+  },
+  {
+   "vida": "P624_t1_A4_26230469/10",
+   "t": 2437,
+   "resultado": "completado",
+   "dentro": true,
+   "bruto": 46,
+   "dano_total": 0.0,
+   "dano_conocido": 0.0,
+   "efecto_P7_4": 46,
+   "efecto_P7_5": 46.0,
+   "cambia": false,
+   "desglose": {}
+  },
+  {
+   "vida": "P624_t1_A4_26230469/10",
+   "t": 9149,
+   "resultado": "completado",
+   "dentro": true,
+   "bruto": 0,
+   "dano_total": 0.0,
+   "dano_conocido": 0.0,
+   "efecto_P7_4": 0,
+   "efecto_P7_5": 0.0,
+   "cambia": false,
+   "desglose": {}
+  },
+  {
+   "vida": "P624_t1_A4_26335198/10",
+   "t": 3006,
+   "resultado": "completado",
+   "dentro": true,
+   "bruto": 40,
+   "dano_total": 0.0,
+   "dano_conocido": 0.0,
+   "efecto_P7_4": 40,
+   "efecto_P7_5": 40.0,
+   "cambia": false,
+   "desglose": {}
+  },
+  {
+   "vida": "P624_t1_A4_26335198/11",
+   "t": 10488,
+   "resultado": "completado",
+   "dentro": true,
+   "bruto": 33,
+   "dano_total": 0.0,
+   "dano_conocido": 0.0,
+   "efecto_P7_4": 33,
+   "efecto_P7_5": 33.0,
+   "cambia": false,
+   "desglose": {}
+  },
+  {
+   "vida": "P624_t1_A4_26439927/10",
+   "t": 11543,
+   "resultado": "cancelado",
+   "dentro": true,
+   "bruto": -6,
+   "dano_total": 6.0,
+   "dano_conocido": 4.0,
+   "efecto_P7_4": 0.0,
+   "efecto_P7_5": -2.0,
+   "cambia": true,
+   "desglose": {
+    "rival visto en alcance": 4.0,
+    "poison (no conocido)": 2.0
+   }
+  },
+  {
+   "vida": "P624_t1_A4_26439927/10",
+   "t": 11592,
+   "resultado": "cancelado",
+   "dentro": true,
+   "bruto": -4,
+   "dano_total": 4.0,
+   "dano_conocido": 0.0,
+   "efecto_P7_4": 0.0,
+   "efecto_P7_5": -4.0,
+   "cambia": true,
+   "desglose": {
+    "poison (no conocido)": 4.0
+   }
+  },
+  {
+   "vida": "P624_t1_A4_26439927/10",
+   "t": 11641,
+   "resultado": "cancelado",
+   "dentro": true,
+   "bruto": -4,
+   "dano_total": 4.0,
+   "dano_conocido": 0.0,
+   "efecto_P7_4": 0.0,
+   "efecto_P7_5": -4.0,
+   "cambia": true,
+   "desglose": {
+    "poison (no conocido)": 4.0
+   }
+  },
+  {
+   "vida": "P624_t1_A4_26439927/10",
+   "t": 11690,
+   "resultado": "cancelado",
+   "dentro": true,
+   "bruto": -3,
+   "dano_total": 3.0,
+   "dano_conocido": 3.0,
+   "efecto_P7_4": 0.0,
+   "efecto_P7_5": 0.0,
+   "cambia": false,
+   "desglose": {
+    "rival visto en alcance": 3.0
+   }
+  },
+  {
+   "vida": "P624_t1_A4_26439927/10",
+   "t": 11739,
+   "resultado": "cancelado",
+   "dentro": true,
+   "bruto": -3,
+   "dano_total": 3.0,
+   "dano_conocido": 3.0,
+   "efecto_P7_4": 0.0,
+   "efecto_P7_5": 0.0,
+   "cambia": false,
+   "desglose": {
+    "rival visto en alcance": 3.0
+   }
+  },
+  {
+   "vida": "P624_t1_A4_26439927/10",
+   "t": 11788,
+   "resultado": "completado",
+   "dentro": true,
+   "bruto": 46,
+   "dano_total": 0.0,
+   "dano_conocido": 0.0,
+   "efecto_P7_4": 46,
+   "efecto_P7_5": 46.0,
+   "cambia": false,
+   "desglose": {}
+  },
+  {
+   "vida": "P624_t1_A4_26439927/10",
+   "t": 11875,
+   "resultado": "cancelado",
+   "dentro": true,
+   "bruto": -9,
+   "dano_total": 9.0,
+   "dano_conocido": 9.0,
+   "efecto_P7_4": 0.0,
+   "efecto_P7_5": 0.0,
+   "cambia": false,
+   "desglose": {
+    "rival visto en alcance": 9.0
+   }
+  },
+  {
+   "vida": "P624_t1_A4_26439927/10",
+   "t": 11924,
+   "resultado": "completado",
+   "dentro": true,
+   "bruto": 12,
+   "dano_total": 0.0,
+   "dano_conocido": 0.0,
+   "efecto_P7_4": 12,
+   "efecto_P7_5": 12.0,
+   "cambia": false,
+   "desglose": {}
+  },
+  {
+   "vida": "P624_t1_A4_26439927/11",
+   "t": 10927,
+   "resultado": "cancelado",
+   "dentro": true,
+   "bruto": -11,
+   "dano_total": 10.8,
+   "dano_conocido": 10.8,
+   "efecto_P7_4": -0.2,
+   "efecto_P7_5": -0.2,
+   "cambia": false,
+   "desglose": {
+    "rival visto en alcance": 10.8
+   }
+  },
+  {
+   "vida": "P624_t1_A4_26439927/11",
+   "t": 10976,
+   "resultado": "completado",
+   "dentro": true,
+   "bruto": 50,
+   "dano_total": 0.0,
+   "dano_conocido": 0.0,
+   "efecto_P7_4": 50,
+   "efecto_P7_5": 50.0,
+   "cambia": false,
+   "desglose": {}
+  },
+  {
+   "vida": "P624_t1_A4_26439927/11",
+   "t": 13863,
+   "resultado": "completado",
+   "dentro": true,
+   "bruto": 50,
+   "dano_total": 0.0,
+   "dano_conocido": 0.0,
+   "efecto_P7_4": 50,
+   "efecto_P7_5": 50.0,
+   "cambia": false,
+   "desglose": {}
+  }
+ ]
+}

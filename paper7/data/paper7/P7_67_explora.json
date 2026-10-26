@@ -1,0 +1,7974 @@
+{
+ "nota": "EXPLORATORIO, NO SELLADO",
+ "tic_de_la_primera_oferta_en_todo_el_campo": {
+  "minimo": 1,
+  "en_el_tic_0": 0,
+  "criatura_dias_con_oferta": 2183
+ },
+ "honesta_aciertos_por_destino_dias_1_20": {
+  "(27, 23)": {
+   "dias": [
+    1,
+    3,
+    4,
+    10,
+    13,
+    17,
+    20
+   ],
+   "llegadas": 205,
+   "aciertos": 131
+  },
+  "(21, 24)": {
+   "dias": [
+    2,
+    7,
+    8,
+    9,
+    18,
+    19
+   ],
+   "llegadas": 183,
+   "aciertos": 151
+  },
+  "(24, 23)": {
+   "dias": [
+    5,
+    6,
+    11,
+    12,
+    14,
+    15,
+    16
+   ],
+   "llegadas": 224,
+   "aciertos": 223
+  }
+ },
+ "pregunta_1": {
+  "sin_oportunidad": [
+   {
+    "serie": 1,
+    "dia": 19,
+    "brazo": "CONGELADA",
+    "asiento": 10,
+    "destino": [
+     3,
+     3
+    ],
+    "casilla": "ground",
+    "invitacion_cargada": true,
+    "tics_vivos_en_el_tramo": 300,
+    "tics_ella_8_15": 56,
+    "tics_hermana_8_15": 1,
+    "tics_las_dos_8_15": 1,
+    "tics_en_calma": 300,
+    "tics_todo_a_la_vez": 1,
+    "distancia_al_empezar_ella": 10,
+    "distancia_al_empezar_hermana": 15,
+    "tics_con_eleccion": 120,
+    "tics_con_eleccion_y_todo": 1,
+    "tics_con_eleccion_hermana_fuera_8_15": 119,
+    "tics_con_eleccion_ella_fuera_8_15": 114,
+    "tics_con_eleccion_sin_calma": 0,
+    "distancia_hermana_tras_su_primer_paso": 16,
+    "ir_sitio_ofrecido_algun_tic": false
+   },
+   {
+    "serie": 1,
+    "dia": 19,
+    "brazo": "CONGELADA",
+    "asiento": 11,
+    "destino": [
+     3,
+     3
+    ],
+    "casilla": "ground",
+    "invitacion_cargada": true,
+    "tics_vivos_en_el_tramo": 300,
+    "tics_ella_8_15": 1,
+    "tics_hermana_8_15": 56,
+    "tics_las_dos_8_15": 1,
+    "tics_en_calma": 300,
+    "tics_todo_a_la_vez": 1,
+    "distancia_al_empezar_ella": 15,
+    "distancia_al_empezar_hermana": 10,
+    "tics_con_eleccion": 250,
+    "tics_con_eleccion_y_todo": 1,
+    "tics_con_eleccion_hermana_fuera_8_15": 244,
+    "tics_con_eleccion_ella_fuera_8_15": 249,
+    "tics_con_eleccion_sin_calma": 0,
+    "distancia_hermana_tras_su_primer_paso": 11,
+    "ir_sitio_ofrecido_algun_tic": false
+   },
+   {
+    "serie": 1,
+    "dia": 19,
+    "brazo": "MIENTE",
+    "asiento": 10,
+    "destino": [
+     3,
+     3
+    ],
+    "casilla": "ground",
+    "invitacion_cargada": true,
+    "tics_vivos_en_el_tramo": 300,
+    "tics_ella_8_15": 56,
+    "tics_hermana_8_15": 1,
+    "tics_las_dos_8_15": 1,
+    "tics_en_calma": 300,
+    "tics_todo_a_la_vez": 1,
+    "distancia_al_empezar_ella": 10,
+    "distancia_al_empezar_hermana": 15,
+    "tics_con_eleccion": 220,
+    "tics_con_eleccion_y_todo": 1,
+    "tics_con_eleccion_hermana_fuera_8_15": 219,
+    "tics_con_eleccion_ella_fuera_8_15": 214,
+    "tics_con_eleccion_sin_calma": 0,
+    "distancia_hermana_tras_su_primer_paso": 16,
+    "ir_sitio_ofrecido_algun_tic": false
+   },
+   {
+    "serie": 1,
+    "dia": 19,
+    "brazo": "MIENTE",
+    "asiento": 11,
+    "destino": [
+     3,
+     3
+    ],
+    "casilla": "ground",
+    "invitacion_cargada": true,
+    "tics_vivos_en_el_tramo": 300,
+    "tics_ella_8_15": 1,
+    "tics_hermana_8_15": 56,
+    "tics_las_dos_8_15": 1,
+    "tics_en_calma": 300,
+    "tics_todo_a_la_vez": 1,
+    "distancia_al_empezar_ella": 15,
+    "distancia_al_empezar_hermana": 10,
+    "tics_con_eleccion": 250,
+    "tics_con_eleccion_y_todo": 1,
+    "tics_con_eleccion_hermana_fuera_8_15": 244,
+    "tics_con_eleccion_ella_fuera_8_15": 249,
+    "tics_con_eleccion_sin_calma": 0,
+    "distancia_hermana_tras_su_primer_paso": 11,
+    "ir_sitio_ofrecido_algun_tic": false
+   },
+   {
+    "serie": 2,
+    "dia": 19,
+    "brazo": "CONGELADA",
+    "asiento": 10,
+    "destino": [
+     3,
+     3
+    ],
+    "casilla": "ground",
+    "invitacion_cargada": true,
+    "tics_vivos_en_el_tramo": 300,
+    "tics_ella_8_15": 56,
+    "tics_hermana_8_15": 1,
+    "tics_las_dos_8_15": 1,
+    "tics_en_calma": 300,
+    "tics_todo_a_la_vez": 1,
+    "distancia_al_empezar_ella": 10,
+    "distancia_al_empezar_hermana": 15,
+    "tics_con_eleccion": 35,
+    "tics_con_eleccion_y_todo": 1,
+    "tics_con_eleccion_hermana_fuera_8_15": 34,
+    "tics_con_eleccion_ella_fuera_8_15": 22,
+    "tics_con_eleccion_sin_calma": 0,
+    "distancia_hermana_tras_su_primer_paso": 16,
+    "ir_sitio_ofrecido_algun_tic": false
+   },
+   {
+    "serie": 2,
+    "dia": 19,
+    "brazo": "CONGELADA",
+    "asiento": 11,
+    "destino": [
+     3,
+     3
+    ],
+    "casilla": "ground",
+    "invitacion_cargada": true,
+    "tics_vivos_en_el_tramo": 300,
+    "tics_ella_8_15": 1,
+    "tics_hermana_8_15": 56,
+    "tics_las_dos_8_15": 1,
+    "tics_en_calma": 300,
+    "tics_todo_a_la_vez": 1,
+    "distancia_al_empezar_ella": 15,
+    "distancia_al_empezar_hermana": 10,
+    "tics_con_eleccion": 170,
+    "tics_con_eleccion_y_todo": 1,
+    "tics_con_eleccion_hermana_fuera_8_15": 164,
+    "tics_con_eleccion_ella_fuera_8_15": 169,
+    "tics_con_eleccion_sin_calma": 0,
+    "distancia_hermana_tras_su_primer_paso": 11,
+    "ir_sitio_ofrecido_algun_tic": false
+   },
+   {
+    "serie": 2,
+    "dia": 19,
+    "brazo": "MIENTE",
+    "asiento": 10,
+    "destino": [
+     3,
+     3
+    ],
+    "casilla": "ground",
+    "invitacion_cargada": true,
+    "tics_vivos_en_el_tramo": 300,
+    "tics_ella_8_15": 56,
+    "tics_hermana_8_15": 1,
+    "tics_las_dos_8_15": 1,
+    "tics_en_calma": 300,
+    "tics_todo_a_la_vez": 1,
+    "distancia_al_empezar_ella": 10,
+    "distancia_al_empezar_hermana": 15,
+    "tics_con_eleccion": 215,
+    "tics_con_eleccion_y_todo": 1,
+    "tics_con_eleccion_hermana_fuera_8_15": 214,
+    "tics_con_eleccion_ella_fuera_8_15": 202,
+    "tics_con_eleccion_sin_calma": 0,
+    "distancia_hermana_tras_su_primer_paso": 16,
+    "ir_sitio_ofrecido_algun_tic": false
+   },
+   {
+    "serie": 2,
+    "dia": 19,
+    "brazo": "MIENTE",
+    "asiento": 11,
+    "destino": [
+     3,
+     3
+    ],
+    "casilla": "ground",
+    "invitacion_cargada": true,
+    "tics_vivos_en_el_tramo": 300,
+    "tics_ella_8_15": 1,
+    "tics_hermana_8_15": 56,
+    "tics_las_dos_8_15": 1,
+    "tics_en_calma": 300,
+    "tics_todo_a_la_vez": 1,
+    "distancia_al_empezar_ella": 15,
+    "distancia_al_empezar_hermana": 10,
+    "tics_con_eleccion": 280,
+    "tics_con_eleccion_y_todo": 1,
+    "tics_con_eleccion_hermana_fuera_8_15": 244,
+    "tics_con_eleccion_ella_fuera_8_15": 279,
+    "tics_con_eleccion_sin_calma": 0,
+    "distancia_hermana_tras_su_primer_paso": 11,
+    "ir_sitio_ofrecido_algun_tic": false
+   },
+   {
+    "serie": 3,
+    "dia": 19,
+    "brazo": "CONGELADA",
+    "asiento": 10,
+    "destino": [
+     3,
+     3
+    ],
+    "casilla": "ground",
+    "invitacion_cargada": true,
+    "tics_vivos_en_el_tramo": 300,
+    "tics_ella_8_15": 56,
+    "tics_hermana_8_15": 1,
+    "tics_las_dos_8_15": 1,
+    "tics_en_calma": 300,
+    "tics_todo_a_la_vez": 1,
+    "distancia_al_empezar_ella": 10,
+    "distancia_al_empezar_hermana": 15,
+    "tics_con_eleccion": 300,
+    "tics_con_eleccion_y_todo": 1,
+    "tics_con_eleccion_hermana_fuera_8_15": 299,
+    "tics_con_eleccion_ella_fuera_8_15": 244,
+    "tics_con_eleccion_sin_calma": 0,
+    "distancia_hermana_tras_su_primer_paso": 16,
+    "ir_sitio_ofrecido_algun_tic": false
+   },
+   {
+    "serie": 3,
+    "dia": 19,
+    "brazo": "CONGELADA",
+    "asiento": 11,
+    "destino": [
+     3,
+     3
+    ],
+    "casilla": "ground",
+    "invitacion_cargada": true,
+    "tics_vivos_en_el_tramo": 300,
+    "tics_ella_8_15": 1,
+    "tics_hermana_8_15": 56,
+    "tics_las_dos_8_15": 1,
+    "tics_en_calma": 300,
+    "tics_todo_a_la_vez": 1,
+    "distancia_al_empezar_ella": 15,
+    "distancia_al_empezar_hermana": 10,
+    "tics_con_eleccion": 280,
+    "tics_con_eleccion_y_todo": 1,
+    "tics_con_eleccion_hermana_fuera_8_15": 244,
+    "tics_con_eleccion_ella_fuera_8_15": 279,
+    "tics_con_eleccion_sin_calma": 0,
+    "distancia_hermana_tras_su_primer_paso": 11,
+    "ir_sitio_ofrecido_algun_tic": false
+   },
+   {
+    "serie": 3,
+    "dia": 19,
+    "brazo": "MIENTE",
+    "asiento": 10,
+    "destino": [
+     3,
+     3
+    ],
+    "casilla": "ground",
+    "invitacion_cargada": true,
+    "tics_vivos_en_el_tramo": 300,
+    "tics_ella_8_15": 56,
+    "tics_hermana_8_15": 1,
+    "tics_las_dos_8_15": 1,
+    "tics_en_calma": 300,
+    "tics_todo_a_la_vez": 1,
+    "distancia_al_empezar_ella": 10,
+    "distancia_al_empezar_hermana": 15,
+    "tics_con_eleccion": 300,
+    "tics_con_eleccion_y_todo": 1,
+    "tics_con_eleccion_hermana_fuera_8_15": 299,
+    "tics_con_eleccion_ella_fuera_8_15": 244,
+    "tics_con_eleccion_sin_calma": 0,
+    "distancia_hermana_tras_su_primer_paso": 16,
+    "ir_sitio_ofrecido_algun_tic": false
+   },
+   {
+    "serie": 3,
+    "dia": 19,
+    "brazo": "MIENTE",
+    "asiento": 11,
+    "destino": [
+     3,
+     3
+    ],
+    "casilla": "ground",
+    "invitacion_cargada": true,
+    "tics_vivos_en_el_tramo": 300,
+    "tics_ella_8_15": 1,
+    "tics_hermana_8_15": 56,
+    "tics_las_dos_8_15": 1,
+    "tics_en_calma": 300,
+    "tics_todo_a_la_vez": 1,
+    "distancia_al_empezar_ella": 15,
+    "distancia_al_empezar_hermana": 10,
+    "tics_con_eleccion": 280,
+    "tics_con_eleccion_y_todo": 1,
+    "tics_con_eleccion_hermana_fuera_8_15": 244,
+    "tics_con_eleccion_ella_fuera_8_15": 279,
+    "tics_con_eleccion_sin_calma": 0,
+    "distancia_hermana_tras_su_primer_paso": 11,
+    "ir_sitio_ofrecido_algun_tic": false
+   },
+   {
+    "serie": 4,
+    "dia": 19,
+    "brazo": "CONGELADA",
+    "asiento": 10,
+    "destino": [
+     3,
+     3
+    ],
+    "casilla": "ground",
+    "invitacion_cargada": true,
+    "tics_vivos_en_el_tramo": 300,
+    "tics_ella_8_15": 68,
+    "tics_hermana_8_15": 1,
+    "tics_las_dos_8_15": 1,
+    "tics_en_calma": 300,
+    "tics_todo_a_la_vez": 1,
+    "distancia_al_empezar_ella": 10,
+    "distancia_al_empezar_hermana": 15,
+    "tics_con_eleccion": 300,
+    "tics_con_eleccion_y_todo": 1,
+    "tics_con_eleccion_hermana_fuera_8_15": 299,
+    "tics_con_eleccion_ella_fuera_8_15": 232,
+    "tics_con_eleccion_sin_calma": 0,
+    "distancia_hermana_tras_su_primer_paso": 16,
+    "ir_sitio_ofrecido_algun_tic": false
+   },
+   {
+    "serie": 4,
+    "dia": 19,
+    "brazo": "CONGELADA",
+    "asiento": 11,
+    "destino": [
+     3,
+     3
+    ],
+    "casilla": "ground",
+    "invitacion_cargada": true,
+    "tics_vivos_en_el_tramo": 300,
+    "tics_ella_8_15": 1,
+    "tics_hermana_8_15": 68,
+    "tics_las_dos_8_15": 1,
+    "tics_en_calma": 300,
+    "tics_todo_a_la_vez": 1,
+    "distancia_al_empezar_ella": 15,
+    "distancia_al_empezar_hermana": 10,
+    "tics_con_eleccion": 260,
+    "tics_con_eleccion_y_todo": 1,
+    "tics_con_eleccion_hermana_fuera_8_15": 232,
+    "tics_con_eleccion_ella_fuera_8_15": 259,
+    "tics_con_eleccion_sin_calma": 0,
+    "distancia_hermana_tras_su_primer_paso": 11,
+    "ir_sitio_ofrecido_algun_tic": false
+   },
+   {
+    "serie": 4,
+    "dia": 19,
+    "brazo": "MIENTE",
+    "asiento": 10,
+    "destino": [
+     3,
+     3
+    ],
+    "casilla": "ground",
+    "invitacion_cargada": true,
+    "tics_vivos_en_el_tramo": 300,
+    "tics_ella_8_15": 67,
+    "tics_hermana_8_15": 1,
+    "tics_las_dos_8_15": 1,
+    "tics_en_calma": 300,
+    "tics_todo_a_la_vez": 1,
+    "distancia_al_empezar_ella": 10,
+    "distancia_al_empezar_hermana": 15,
+    "tics_con_eleccion": 230,
+    "tics_con_eleccion_y_todo": 1,
+    "tics_con_eleccion_hermana_fuera_8_15": 229,
+    "tics_con_eleccion_ella_fuera_8_15": 223,
+    "tics_con_eleccion_sin_calma": 0,
+    "distancia_hermana_tras_su_primer_paso": 16,
+    "ir_sitio_ofrecido_algun_tic": false
+   },
+   {
+    "serie": 4,
+    "dia": 19,
+    "brazo": "MIENTE",
+    "asiento": 11,
+    "destino": [
+     3,
+     3
+    ],
+    "casilla": "ground",
+    "invitacion_cargada": true,
+    "tics_vivos_en_el_tramo": 300,
+    "tics_ella_8_15": 1,
+    "tics_hermana_8_15": 67,
+    "tics_las_dos_8_15": 1,
+    "tics_en_calma": 300,
+    "tics_todo_a_la_vez": 1,
+    "distancia_al_empezar_ella": 15,
+    "distancia_al_empezar_hermana": 10,
+    "tics_con_eleccion": 260,
+    "tics_con_eleccion_y_todo": 1,
+    "tics_con_eleccion_hermana_fuera_8_15": 233,
+    "tics_con_eleccion_ella_fuera_8_15": 259,
+    "tics_con_eleccion_sin_calma": 0,
+    "distancia_hermana_tras_su_primer_paso": 11,
+    "ir_sitio_ofrecido_algun_tic": false
+   },
+   {
+    "serie": 6,
+    "dia": 19,
+    "brazo": "CONGELADA",
+    "asiento": 10,
+    "destino": [
+     3,
+     3
+    ],
+    "casilla": "ground",
+    "invitacion_cargada": true,
+    "tics_vivos_en_el_tramo": 300,
+    "tics_ella_8_15": 56,
+    "tics_hermana_8_15": 1,
+    "tics_las_dos_8_15": 1,
+    "tics_en_calma": 300,
+    "tics_todo_a_la_vez": 1,
+    "distancia_al_empezar_ella": 10,
+    "distancia_al_empezar_hermana": 15,
+    "tics_con_eleccion": 240,
+    "tics_con_eleccion_y_todo": 1,
+    "tics_con_eleccion_hermana_fuera_8_15": 239,
+    "tics_con_eleccion_ella_fuera_8_15": 234,
+    "tics_con_eleccion_sin_calma": 0,
+    "distancia_hermana_tras_su_primer_paso": 16,
+    "ir_sitio_ofrecido_algun_tic": false
+   },
+   {
+    "serie": 6,
+    "dia": 19,
+    "brazo": "CONGELADA",
+    "asiento": 11,
+    "destino": [
+     3,
+     3
+    ],
+    "casilla": "ground",
+    "invitacion_cargada": true,
+    "tics_vivos_en_el_tramo": 300,
+    "tics_ella_8_15": 1,
+    "tics_hermana_8_15": 56,
+    "tics_las_dos_8_15": 1,
+    "tics_en_calma": 300,
+    "tics_todo_a_la_vez": 1,
+    "distancia_al_empezar_ella": 15,
+    "distancia_al_empezar_hermana": 10,
+    "tics_con_eleccion": 231,
+    "tics_con_eleccion_y_todo": 1,
+    "tics_con_eleccion_hermana_fuera_8_15": 224,
+    "tics_con_eleccion_ella_fuera_8_15": 230,
+    "tics_con_eleccion_sin_calma": 0,
+    "distancia_hermana_tras_su_primer_paso": 11,
+    "ir_sitio_ofrecido_algun_tic": false
+   },
+   {
+    "serie": 6,
+    "dia": 19,
+    "brazo": "MIENTE",
+    "asiento": 10,
+    "destino": [
+     3,
+     3
+    ],
+    "casilla": "ground",
+    "invitacion_cargada": true,
+    "tics_vivos_en_el_tramo": 300,
+    "tics_ella_8_15": 56,
+    "tics_hermana_8_15": 1,
+    "tics_las_dos_8_15": 1,
+    "tics_en_calma": 300,
+    "tics_todo_a_la_vez": 1,
+    "distancia_al_empezar_ella": 10,
+    "distancia_al_empezar_hermana": 15,
+    "tics_con_eleccion": 260,
+    "tics_con_eleccion_y_todo": 1,
+    "tics_con_eleccion_hermana_fuera_8_15": 259,
+    "tics_con_eleccion_ella_fuera_8_15": 244,
+    "tics_con_eleccion_sin_calma": 0,
+    "distancia_hermana_tras_su_primer_paso": 16,
+    "ir_sitio_ofrecido_algun_tic": false
+   },
+   {
+    "serie": 6,
+    "dia": 19,
+    "brazo": "MIENTE",
+    "asiento": 11,
+    "destino": [
+     3,
+     3
+    ],
+    "casilla": "ground",
+    "invitacion_cargada": true,
+    "tics_vivos_en_el_tramo": 300,
+    "tics_ella_8_15": 1,
+    "tics_hermana_8_15": 56,
+    "tics_las_dos_8_15": 1,
+    "tics_en_calma": 300,
+    "tics_todo_a_la_vez": 1,
+    "distancia_al_empezar_ella": 15,
+    "distancia_al_empezar_hermana": 10,
+    "tics_con_eleccion": 231,
+    "tics_con_eleccion_y_todo": 1,
+    "tics_con_eleccion_hermana_fuera_8_15": 224,
+    "tics_con_eleccion_ella_fuera_8_15": 230,
+    "tics_con_eleccion_sin_calma": 0,
+    "distancia_hermana_tras_su_primer_paso": 11,
+    "ir_sitio_ofrecido_algun_tic": false
+   },
+   {
+    "serie": 7,
+    "dia": 19,
+    "brazo": "CONGELADA",
+    "asiento": 10,
+    "destino": [
+     3,
+     3
+    ],
+    "casilla": "ground",
+    "invitacion_cargada": true,
+    "tics_vivos_en_el_tramo": 300,
+    "tics_ella_8_15": 56,
+    "tics_hermana_8_15": 1,
+    "tics_las_dos_8_15": 1,
+    "tics_en_calma": 300,
+    "tics_todo_a_la_vez": 1,
+    "distancia_al_empezar_ella": 10,
+    "distancia_al_empezar_hermana": 15,
+    "tics_con_eleccion": 230,
+    "tics_con_eleccion_y_todo": 1,
+    "tics_con_eleccion_hermana_fuera_8_15": 229,
+    "tics_con_eleccion_ella_fuera_8_15": 224,
+    "tics_con_eleccion_sin_calma": 0,
+    "distancia_hermana_tras_su_primer_paso": 16,
+    "ir_sitio_ofrecido_algun_tic": false
+   },
+   {
+    "serie": 7,
+    "dia": 19,
+    "brazo": "CONGELADA",
+    "asiento": 11,
+    "destino": [
+     3,
+     3
+    ],
+    "casilla": "ground",
+    "invitacion_cargada": true,
+    "tics_vivos_en_el_tramo": 300,
+    "tics_ella_8_15": 1,
+    "tics_hermana_8_15": 56,
+    "tics_las_dos_8_15": 1,
+    "tics_en_calma": 300,
+    "tics_todo_a_la_vez": 1,
+    "distancia_al_empezar_ella": 15,
+    "distancia_al_empezar_hermana": 10,
+    "tics_con_eleccion": 238,
+    "tics_con_eleccion_y_todo": 1,
+    "tics_con_eleccion_hermana_fuera_8_15": 225,
+    "tics_con_eleccion_ella_fuera_8_15": 237,
+    "tics_con_eleccion_sin_calma": 0,
+    "distancia_hermana_tras_su_primer_paso": 11,
+    "ir_sitio_ofrecido_algun_tic": false
+   },
+   {
+    "serie": 7,
+    "dia": 19,
+    "brazo": "MIENTE",
+    "asiento": 10,
+    "destino": [
+     3,
+     3
+    ],
+    "casilla": "ground",
+    "invitacion_cargada": true,
+    "tics_vivos_en_el_tramo": 300,
+    "tics_ella_8_15": 56,
+    "tics_hermana_8_15": 1,
+    "tics_las_dos_8_15": 1,
+    "tics_en_calma": 300,
+    "tics_todo_a_la_vez": 1,
+    "distancia_al_empezar_ella": 10,
+    "distancia_al_empezar_hermana": 15,
+    "tics_con_eleccion": 139,
+    "tics_con_eleccion_y_todo": 1,
+    "tics_con_eleccion_hermana_fuera_8_15": 138,
+    "tics_con_eleccion_ella_fuera_8_15": 133,
+    "tics_con_eleccion_sin_calma": 0,
+    "distancia_hermana_tras_su_primer_paso": 16,
+    "ir_sitio_ofrecido_algun_tic": false
+   },
+   {
+    "serie": 7,
+    "dia": 19,
+    "brazo": "MIENTE",
+    "asiento": 11,
+    "destino": [
+     3,
+     3
+    ],
+    "casilla": "ground",
+    "invitacion_cargada": true,
+    "tics_vivos_en_el_tramo": 300,
+    "tics_ella_8_15": 1,
+    "tics_hermana_8_15": 56,
+    "tics_las_dos_8_15": 1,
+    "tics_en_calma": 300,
+    "tics_todo_a_la_vez": 1,
+    "distancia_al_empezar_ella": 15,
+    "distancia_al_empezar_hermana": 10,
+    "tics_con_eleccion": 175,
+    "tics_con_eleccion_y_todo": 1,
+    "tics_con_eleccion_hermana_fuera_8_15": 162,
+    "tics_con_eleccion_ella_fuera_8_15": 174,
+    "tics_con_eleccion_sin_calma": 0,
+    "distancia_hermana_tras_su_primer_paso": 11,
+    "ir_sitio_ofrecido_algun_tic": false
+   },
+   {
+    "serie": 8,
+    "dia": 19,
+    "brazo": "CONGELADA",
+    "asiento": 10,
+    "destino": [
+     3,
+     3
+    ],
+    "casilla": "ground",
+    "invitacion_cargada": true,
+    "tics_vivos_en_el_tramo": 300,
+    "tics_ella_8_15": 56,
+    "tics_hermana_8_15": 1,
+    "tics_las_dos_8_15": 1,
+    "tics_en_calma": 300,
+    "tics_todo_a_la_vez": 1,
+    "distancia_al_empezar_ella": 10,
+    "distancia_al_empezar_hermana": 15,
+    "tics_con_eleccion": 300,
+    "tics_con_eleccion_y_todo": 1,
+    "tics_con_eleccion_hermana_fuera_8_15": 299,
+    "tics_con_eleccion_ella_fuera_8_15": 244,
+    "tics_con_eleccion_sin_calma": 0,
+    "distancia_hermana_tras_su_primer_paso": 16,
+    "ir_sitio_ofrecido_algun_tic": false
+   },
+   {
+    "serie": 8,
+    "dia": 19,
+    "brazo": "CONGELADA",
+    "asiento": 11,
+    "destino": [
+     3,
+     3
+    ],
+    "casilla": "ground",
+    "invitacion_cargada": true,
+    "tics_vivos_en_el_tramo": 300,
+    "tics_ella_8_15": 1,
+    "tics_hermana_8_15": 56,
+    "tics_las_dos_8_15": 1,
+    "tics_en_calma": 300,
+    "tics_todo_a_la_vez": 1,
+    "distancia_al_empezar_ella": 15,
+    "distancia_al_empezar_hermana": 10,
+    "tics_con_eleccion": 280,
+    "tics_con_eleccion_y_todo": 1,
+    "tics_con_eleccion_hermana_fuera_8_15": 244,
+    "tics_con_eleccion_ella_fuera_8_15": 279,
+    "tics_con_eleccion_sin_calma": 0,
+    "distancia_hermana_tras_su_primer_paso": 11,
+    "ir_sitio_ofrecido_algun_tic": false
+   },
+   {
+    "serie": 8,
+    "dia": 19,
+    "brazo": "MIENTE",
+    "asiento": 10,
+    "destino": [
+     3,
+     3
+    ],
+    "casilla": "ground",
+    "invitacion_cargada": true,
+    "tics_vivos_en_el_tramo": 300,
+    "tics_ella_8_15": 56,
+    "tics_hermana_8_15": 1,
+    "tics_las_dos_8_15": 1,
+    "tics_en_calma": 300,
+    "tics_todo_a_la_vez": 1,
+    "distancia_al_empezar_ella": 10,
+    "distancia_al_empezar_hermana": 15,
+    "tics_con_eleccion": 300,
+    "tics_con_eleccion_y_todo": 1,
+    "tics_con_eleccion_hermana_fuera_8_15": 299,
+    "tics_con_eleccion_ella_fuera_8_15": 244,
+    "tics_con_eleccion_sin_calma": 0,
+    "distancia_hermana_tras_su_primer_paso": 16,
+    "ir_sitio_ofrecido_algun_tic": false
+   },
+   {
+    "serie": 8,
+    "dia": 19,
+    "brazo": "MIENTE",
+    "asiento": 11,
+    "destino": [
+     3,
+     3
+    ],
+    "casilla": "ground",
+    "invitacion_cargada": true,
+    "tics_vivos_en_el_tramo": 300,
+    "tics_ella_8_15": 1,
+    "tics_hermana_8_15": 56,
+    "tics_las_dos_8_15": 1,
+    "tics_en_calma": 300,
+    "tics_todo_a_la_vez": 1,
+    "distancia_al_empezar_ella": 15,
+    "distancia_al_empezar_hermana": 10,
+    "tics_con_eleccion": 191,
+    "tics_con_eleccion_y_todo": 1,
+    "tics_con_eleccion_hermana_fuera_8_15": 155,
+    "tics_con_eleccion_ella_fuera_8_15": 190,
+    "tics_con_eleccion_sin_calma": 0,
+    "distancia_hermana_tras_su_primer_paso": 11,
+    "ir_sitio_ofrecido_algun_tic": false
+   },
+   {
+    "serie": 9,
+    "dia": 19,
+    "brazo": "CONGELADA",
+    "asiento": 10,
+    "destino": [
+     3,
+     3
+    ],
+    "casilla": "ground",
+    "invitacion_cargada": true,
+    "tics_vivos_en_el_tramo": 300,
+    "tics_ella_8_15": 56,
+    "tics_hermana_8_15": 1,
+    "tics_las_dos_8_15": 1,
+    "tics_en_calma": 300,
+    "tics_todo_a_la_vez": 1,
+    "distancia_al_empezar_ella": 10,
+    "distancia_al_empezar_hermana": 15,
+    "tics_con_eleccion": 231,
+    "tics_con_eleccion_y_todo": 1,
+    "tics_con_eleccion_hermana_fuera_8_15": 230,
+    "tics_con_eleccion_ella_fuera_8_15": 224,
+    "tics_con_eleccion_sin_calma": 0,
+    "distancia_hermana_tras_su_primer_paso": 16,
+    "ir_sitio_ofrecido_algun_tic": false
+   },
+   {
+    "serie": 9,
+    "dia": 19,
+    "brazo": "CONGELADA",
+    "asiento": 11,
+    "destino": [
+     3,
+     3
+    ],
+    "casilla": "ground",
+    "invitacion_cargada": true,
+    "tics_vivos_en_el_tramo": 300,
+    "tics_ella_8_15": 1,
+    "tics_hermana_8_15": 56,
+    "tics_las_dos_8_15": 1,
+    "tics_en_calma": 300,
+    "tics_todo_a_la_vez": 1,
+    "distancia_al_empezar_ella": 15,
+    "distancia_al_empezar_hermana": 10,
+    "tics_con_eleccion": 191,
+    "tics_con_eleccion_y_todo": 1,
+    "tics_con_eleccion_hermana_fuera_8_15": 184,
+    "tics_con_eleccion_ella_fuera_8_15": 190,
+    "tics_con_eleccion_sin_calma": 0,
+    "distancia_hermana_tras_su_primer_paso": 11,
+    "ir_sitio_ofrecido_algun_tic": false
+   },
+   {
+    "serie": 9,
+    "dia": 19,
+    "brazo": "MIENTE",
+    "asiento": 10,
+    "destino": [
+     3,
+     3
+    ],
+    "casilla": "ground",
+    "invitacion_cargada": true,
+    "tics_vivos_en_el_tramo": 300,
+    "tics_ella_8_15": 56,
+    "tics_hermana_8_15": 1,
+    "tics_las_dos_8_15": 1,
+    "tics_en_calma": 300,
+    "tics_todo_a_la_vez": 1,
+    "distancia_al_empezar_ella": 10,
+    "distancia_al_empezar_hermana": 15,
+    "tics_con_eleccion": 231,
+    "tics_con_eleccion_y_todo": 1,
+    "tics_con_eleccion_hermana_fuera_8_15": 230,
+    "tics_con_eleccion_ella_fuera_8_15": 224,
+    "tics_con_eleccion_sin_calma": 0,
+    "distancia_hermana_tras_su_primer_paso": 16,
+    "ir_sitio_ofrecido_algun_tic": false
+   },
+   {
+    "serie": 9,
+    "dia": 19,
+    "brazo": "MIENTE",
+    "asiento": 11,
+    "destino": [
+     3,
+     3
+    ],
+    "casilla": "ground",
+    "invitacion_cargada": true,
+    "tics_vivos_en_el_tramo": 300,
+    "tics_ella_8_15": 1,
+    "tics_hermana_8_15": 56,
+    "tics_las_dos_8_15": 1,
+    "tics_en_calma": 300,
+    "tics_todo_a_la_vez": 1,
+    "distancia_al_empezar_ella": 15,
+    "distancia_al_empezar_hermana": 10,
+    "tics_con_eleccion": 239,
+    "tics_con_eleccion_y_todo": 1,
+    "tics_con_eleccion_hermana_fuera_8_15": 232,
+    "tics_con_eleccion_ella_fuera_8_15": 238,
+    "tics_con_eleccion_sin_calma": 0,
+    "distancia_hermana_tras_su_primer_paso": 11,
+    "ir_sitio_ofrecido_algun_tic": false
+   },
+   {
+    "serie": 10,
+    "dia": 19,
+    "brazo": "CONGELADA",
+    "asiento": 10,
+    "destino": [
+     3,
+     3
+    ],
+    "casilla": "ground",
+    "invitacion_cargada": true,
+    "tics_vivos_en_el_tramo": 300,
+    "tics_ella_8_15": 56,
+    "tics_hermana_8_15": 1,
+    "tics_las_dos_8_15": 1,
+    "tics_en_calma": 300,
+    "tics_todo_a_la_vez": 1,
+    "distancia_al_empezar_ella": 10,
+    "distancia_al_empezar_hermana": 15,
+    "tics_con_eleccion": 254,
+    "tics_con_eleccion_y_todo": 1,
+    "tics_con_eleccion_hermana_fuera_8_15": 253,
+    "tics_con_eleccion_ella_fuera_8_15": 224,
+    "tics_con_eleccion_sin_calma": 0,
+    "distancia_hermana_tras_su_primer_paso": 16,
+    "ir_sitio_ofrecido_algun_tic": false
+   },
+   {
+    "serie": 10,
+    "dia": 19,
+    "brazo": "CONGELADA",
+    "asiento": 11,
+    "destino": [
+     3,
+     3
+    ],
+    "casilla": "ground",
+    "invitacion_cargada": true,
+    "tics_vivos_en_el_tramo": 300,
+    "tics_ella_8_15": 1,
+    "tics_hermana_8_15": 56,
+    "tics_las_dos_8_15": 1,
+    "tics_en_calma": 300,
+    "tics_todo_a_la_vez": 1,
+    "distancia_al_empezar_ella": 15,
+    "distancia_al_empezar_hermana": 10,
+    "tics_con_eleccion": 136,
+    "tics_con_eleccion_y_todo": 1,
+    "tics_con_eleccion_hermana_fuera_8_15": 110,
+    "tics_con_eleccion_ella_fuera_8_15": 135,
+    "tics_con_eleccion_sin_calma": 0,
+    "distancia_hermana_tras_su_primer_paso": 11,
+    "ir_sitio_ofrecido_algun_tic": false
+   },
+   {
+    "serie": 10,
+    "dia": 19,
+    "brazo": "MIENTE",
+    "asiento": 10,
+    "destino": [
+     3,
+     3
+    ],
+    "casilla": "ground",
+    "invitacion_cargada": true,
+    "tics_vivos_en_el_tramo": 300,
+    "tics_ella_8_15": 56,
+    "tics_hermana_8_15": 1,
+    "tics_las_dos_8_15": 1,
+    "tics_en_calma": 300,
+    "tics_todo_a_la_vez": 1,
+    "distancia_al_empezar_ella": 10,
+    "distancia_al_empezar_hermana": 15,
+    "tics_con_eleccion": 234,
+    "tics_con_eleccion_y_todo": 1,
+    "tics_con_eleccion_hermana_fuera_8_15": 233,
+    "tics_con_eleccion_ella_fuera_8_15": 224,
+    "tics_con_eleccion_sin_calma": 0,
+    "distancia_hermana_tras_su_primer_paso": 16,
+    "ir_sitio_ofrecido_algun_tic": false
+   },
+   {
+    "serie": 10,
+    "dia": 19,
+    "brazo": "MIENTE",
+    "asiento": 11,
+    "destino": [
+     3,
+     3
+    ],
+    "casilla": "ground",
+    "invitacion_cargada": true,
+    "tics_vivos_en_el_tramo": 300,
+    "tics_ella_8_15": 1,
+    "tics_hermana_8_15": 56,
+    "tics_las_dos_8_15": 1,
+    "tics_en_calma": 300,
+    "tics_todo_a_la_vez": 1,
+    "distancia_al_empezar_ella": 15,
+    "distancia_al_empezar_hermana": 10,
+    "tics_con_eleccion": 270,
+    "tics_con_eleccion_y_todo": 1,
+    "tics_con_eleccion_hermana_fuera_8_15": 244,
+    "tics_con_eleccion_ella_fuera_8_15": 269,
+    "tics_con_eleccion_sin_calma": 0,
+    "distancia_hermana_tras_su_primer_paso": 11,
+    "ir_sitio_ofrecido_algun_tic": false
+   },
+   {
+    "serie": 11,
+    "dia": 19,
+    "brazo": "CONGELADA",
+    "asiento": 10,
+    "destino": [
+     3,
+     3
+    ],
+    "casilla": "ground",
+    "invitacion_cargada": true,
+    "tics_vivos_en_el_tramo": 300,
+    "tics_ella_8_15": 56,
+    "tics_hermana_8_15": 1,
+    "tics_las_dos_8_15": 1,
+    "tics_en_calma": 300,
+    "tics_todo_a_la_vez": 1,
+    "distancia_al_empezar_ella": 10,
+    "distancia_al_empezar_hermana": 15,
+    "tics_con_eleccion": 253,
+    "tics_con_eleccion_y_todo": 1,
+    "tics_con_eleccion_hermana_fuera_8_15": 252,
+    "tics_con_eleccion_ella_fuera_8_15": 244,
+    "tics_con_eleccion_sin_calma": 0,
+    "distancia_hermana_tras_su_primer_paso": 16,
+    "ir_sitio_ofrecido_algun_tic": false
+   },
+   {
+    "serie": 11,
+    "dia": 19,
+    "brazo": "CONGELADA",
+    "asiento": 11,
+    "destino": [
+     3,
+     3
+    ],
+    "casilla": "ground",
+    "invitacion_cargada": true,
+    "tics_vivos_en_el_tramo": 300,
+    "tics_ella_8_15": 1,
+    "tics_hermana_8_15": 56,
+    "tics_las_dos_8_15": 1,
+    "tics_en_calma": 300,
+    "tics_todo_a_la_vez": 1,
+    "distancia_al_empezar_ella": 15,
+    "distancia_al_empezar_hermana": 10,
+    "tics_con_eleccion": 200,
+    "tics_con_eleccion_y_todo": 1,
+    "tics_con_eleccion_hermana_fuera_8_15": 184,
+    "tics_con_eleccion_ella_fuera_8_15": 199,
+    "tics_con_eleccion_sin_calma": 0,
+    "distancia_hermana_tras_su_primer_paso": 11,
+    "ir_sitio_ofrecido_algun_tic": false
+   },
+   {
+    "serie": 11,
+    "dia": 19,
+    "brazo": "MIENTE",
+    "asiento": 10,
+    "destino": [
+     3,
+     3
+    ],
+    "casilla": "ground",
+    "invitacion_cargada": true,
+    "tics_vivos_en_el_tramo": 300,
+    "tics_ella_8_15": 56,
+    "tics_hermana_8_15": 1,
+    "tics_las_dos_8_15": 1,
+    "tics_en_calma": 300,
+    "tics_todo_a_la_vez": 1,
+    "distancia_al_empezar_ella": 10,
+    "distancia_al_empezar_hermana": 15,
+    "tics_con_eleccion": 253,
+    "tics_con_eleccion_y_todo": 1,
+    "tics_con_eleccion_hermana_fuera_8_15": 252,
+    "tics_con_eleccion_ella_fuera_8_15": 244,
+    "tics_con_eleccion_sin_calma": 0,
+    "distancia_hermana_tras_su_primer_paso": 16,
+    "ir_sitio_ofrecido_algun_tic": false
+   },
+   {
+    "serie": 11,
+    "dia": 19,
+    "brazo": "MIENTE",
+    "asiento": 11,
+    "destino": [
+     3,
+     3
+    ],
+    "casilla": "ground",
+    "invitacion_cargada": true,
+    "tics_vivos_en_el_tramo": 300,
+    "tics_ella_8_15": 1,
+    "tics_hermana_8_15": 56,
+    "tics_las_dos_8_15": 1,
+    "tics_en_calma": 300,
+    "tics_todo_a_la_vez": 1,
+    "distancia_al_empezar_ella": 15,
+    "distancia_al_empezar_hermana": 10,
+    "tics_con_eleccion": 228,
+    "tics_con_eleccion_y_todo": 1,
+    "tics_con_eleccion_hermana_fuera_8_15": 212,
+    "tics_con_eleccion_ella_fuera_8_15": 227,
+    "tics_con_eleccion_sin_calma": 0,
+    "distancia_hermana_tras_su_primer_paso": 11,
+    "ir_sitio_ofrecido_algun_tic": false
+   },
+   {
+    "serie": 12,
+    "dia": 19,
+    "brazo": "CONGELADA",
+    "asiento": 10,
+    "destino": [
+     3,
+     3
+    ],
+    "casilla": "ground",
+    "invitacion_cargada": true,
+    "tics_vivos_en_el_tramo": 300,
+    "tics_ella_8_15": 56,
+    "tics_hermana_8_15": 1,
+    "tics_las_dos_8_15": 1,
+    "tics_en_calma": 300,
+    "tics_todo_a_la_vez": 1,
+    "distancia_al_empezar_ella": 10,
+    "distancia_al_empezar_hermana": 15,
+    "tics_con_eleccion": 185,
+    "tics_con_eleccion_y_todo": 1,
+    "tics_con_eleccion_hermana_fuera_8_15": 184,
+    "tics_con_eleccion_ella_fuera_8_15": 179,
+    "tics_con_eleccion_sin_calma": 0,
+    "distancia_hermana_tras_su_primer_paso": 16,
+    "ir_sitio_ofrecido_algun_tic": false
+   },
+   {
+    "serie": 12,
+    "dia": 19,
+    "brazo": "CONGELADA",
+    "asiento": 11,
+    "destino": [
+     3,
+     3
+    ],
+    "casilla": "ground",
+    "invitacion_cargada": true,
+    "tics_vivos_en_el_tramo": 300,
+    "tics_ella_8_15": 1,
+    "tics_hermana_8_15": 56,
+    "tics_las_dos_8_15": 1,
+    "tics_en_calma": 300,
+    "tics_todo_a_la_vez": 1,
+    "distancia_al_empezar_ella": 15,
+    "distancia_al_empezar_hermana": 10,
+    "tics_con_eleccion": 204,
+    "tics_con_eleccion_y_todo": 1,
+    "tics_con_eleccion_hermana_fuera_8_15": 194,
+    "tics_con_eleccion_ella_fuera_8_15": 203,
+    "tics_con_eleccion_sin_calma": 0,
+    "distancia_hermana_tras_su_primer_paso": 11,
+    "ir_sitio_ofrecido_algun_tic": false
+   },
+   {
+    "serie": 12,
+    "dia": 19,
+    "brazo": "MIENTE",
+    "asiento": 10,
+    "destino": [
+     3,
+     3
+    ],
+    "casilla": "ground",
+    "invitacion_cargada": true,
+    "tics_vivos_en_el_tramo": 300,
+    "tics_ella_8_15": 56,
+    "tics_hermana_8_15": 1,
+    "tics_las_dos_8_15": 1,
+    "tics_en_calma": 300,
+    "tics_todo_a_la_vez": 1,
+    "distancia_al_empezar_ella": 10,
+    "distancia_al_empezar_hermana": 15,
+    "tics_con_eleccion": 185,
+    "tics_con_eleccion_y_todo": 1,
+    "tics_con_eleccion_hermana_fuera_8_15": 184,
+    "tics_con_eleccion_ella_fuera_8_15": 179,
+    "tics_con_eleccion_sin_calma": 0,
+    "distancia_hermana_tras_su_primer_paso": 16,
+    "ir_sitio_ofrecido_algun_tic": false
+   },
+   {
+    "serie": 12,
+    "dia": 19,
+    "brazo": "MIENTE",
+    "asiento": 11,
+    "destino": [
+     3,
+     3
+    ],
+    "casilla": "ground",
+    "invitacion_cargada": true,
+    "tics_vivos_en_el_tramo": 300,
+    "tics_ella_8_15": 1,
+    "tics_hermana_8_15": 56,
+    "tics_las_dos_8_15": 1,
+    "tics_en_calma": 300,
+    "tics_todo_a_la_vez": 1,
+    "distancia_al_empezar_ella": 15,
+    "distancia_al_empezar_hermana": 10,
+    "tics_con_eleccion": 204,
+    "tics_con_eleccion_y_todo": 1,
+    "tics_con_eleccion_hermana_fuera_8_15": 194,
+    "tics_con_eleccion_ella_fuera_8_15": 203,
+    "tics_con_eleccion_sin_calma": 0,
+    "distancia_hermana_tras_su_primer_paso": 11,
+    "ir_sitio_ofrecido_algun_tic": false
+   },
+   {
+    "serie": 13,
+    "dia": 19,
+    "brazo": "CONGELADA",
+    "asiento": 10,
+    "destino": [
+     3,
+     3
+    ],
+    "casilla": "ground",
+    "invitacion_cargada": true,
+    "tics_vivos_en_el_tramo": 300,
+    "tics_ella_8_15": 56,
+    "tics_hermana_8_15": 1,
+    "tics_las_dos_8_15": 1,
+    "tics_en_calma": 300,
+    "tics_todo_a_la_vez": 1,
+    "distancia_al_empezar_ella": 10,
+    "distancia_al_empezar_hermana": 15,
+    "tics_con_eleccion": 260,
+    "tics_con_eleccion_y_todo": 1,
+    "tics_con_eleccion_hermana_fuera_8_15": 259,
+    "tics_con_eleccion_ella_fuera_8_15": 244,
+    "tics_con_eleccion_sin_calma": 0,
+    "distancia_hermana_tras_su_primer_paso": 16,
+    "ir_sitio_ofrecido_algun_tic": false
+   },
+   {
+    "serie": 13,
+    "dia": 19,
+    "brazo": "CONGELADA",
+    "asiento": 11,
+    "destino": [
+     3,
+     3
+    ],
+    "casilla": "ground",
+    "invitacion_cargada": true,
+    "tics_vivos_en_el_tramo": 300,
+    "tics_ella_8_15": 1,
+    "tics_hermana_8_15": 56,
+    "tics_las_dos_8_15": 1,
+    "tics_en_calma": 300,
+    "tics_todo_a_la_vez": 1,
+    "distancia_al_empezar_ella": 15,
+    "distancia_al_empezar_hermana": 10,
+    "tics_con_eleccion": 253,
+    "tics_con_eleccion_y_todo": 1,
+    "tics_con_eleccion_hermana_fuera_8_15": 244,
+    "tics_con_eleccion_ella_fuera_8_15": 252,
+    "tics_con_eleccion_sin_calma": 0,
+    "distancia_hermana_tras_su_primer_paso": 11,
+    "ir_sitio_ofrecido_algun_tic": false
+   },
+   {
+    "serie": 13,
+    "dia": 19,
+    "brazo": "MIENTE",
+    "asiento": 10,
+    "destino": [
+     3,
+     3
+    ],
+    "casilla": "ground",
+    "invitacion_cargada": true,
+    "tics_vivos_en_el_tramo": 300,
+    "tics_ella_8_15": 56,
+    "tics_hermana_8_15": 1,
+    "tics_las_dos_8_15": 1,
+    "tics_en_calma": 300,
+    "tics_todo_a_la_vez": 1,
+    "distancia_al_empezar_ella": 10,
+    "distancia_al_empezar_hermana": 15,
+    "tics_con_eleccion": 260,
+    "tics_con_eleccion_y_todo": 1,
+    "tics_con_eleccion_hermana_fuera_8_15": 259,
+    "tics_con_eleccion_ella_fuera_8_15": 244,
+    "tics_con_eleccion_sin_calma": 0,
+    "distancia_hermana_tras_su_primer_paso": 16,
+    "ir_sitio_ofrecido_algun_tic": false
+   },
+   {
+    "serie": 13,
+    "dia": 19,
+    "brazo": "MIENTE",
+    "asiento": 11,
+    "destino": [
+     3,
+     3
+    ],
+    "casilla": "ground",
+    "invitacion_cargada": true,
+    "tics_vivos_en_el_tramo": 300,
+    "tics_ella_8_15": 1,
+    "tics_hermana_8_15": 56,
+    "tics_las_dos_8_15": 1,
+    "tics_en_calma": 300,
+    "tics_todo_a_la_vez": 1,
+    "distancia_al_empezar_ella": 15,
+    "distancia_al_empezar_hermana": 10,
+    "tics_con_eleccion": 177,
+    "tics_con_eleccion_y_todo": 1,
+    "tics_con_eleccion_hermana_fuera_8_15": 171,
+    "tics_con_eleccion_ella_fuera_8_15": 176,
+    "tics_con_eleccion_sin_calma": 0,
+    "distancia_hermana_tras_su_primer_paso": 11,
+    "ir_sitio_ofrecido_algun_tic": false
+   },
+   {
+    "serie": 14,
+    "dia": 19,
+    "brazo": "CONGELADA",
+    "asiento": 10,
+    "destino": [
+     3,
+     3
+    ],
+    "casilla": "ground",
+    "invitacion_cargada": true,
+    "tics_vivos_en_el_tramo": 300,
+    "tics_ella_8_15": 56,
+    "tics_hermana_8_15": 1,
+    "tics_las_dos_8_15": 1,
+    "tics_en_calma": 300,
+    "tics_todo_a_la_vez": 1,
+    "distancia_al_empezar_ella": 10,
+    "distancia_al_empezar_hermana": 15,
+    "tics_con_eleccion": 214,
+    "tics_con_eleccion_y_todo": 1,
+    "tics_con_eleccion_hermana_fuera_8_15": 213,
+    "tics_con_eleccion_ella_fuera_8_15": 204,
+    "tics_con_eleccion_sin_calma": 0,
+    "distancia_hermana_tras_su_primer_paso": 16,
+    "ir_sitio_ofrecido_algun_tic": false
+   },
+   {
+    "serie": 14,
+    "dia": 19,
+    "brazo": "CONGELADA",
+    "asiento": 11,
+    "destino": [
+     3,
+     3
+    ],
+    "casilla": "ground",
+    "invitacion_cargada": true,
+    "tics_vivos_en_el_tramo": 300,
+    "tics_ella_8_15": 1,
+    "tics_hermana_8_15": 56,
+    "tics_las_dos_8_15": 1,
+    "tics_en_calma": 300,
+    "tics_todo_a_la_vez": 1,
+    "distancia_al_empezar_ella": 15,
+    "distancia_al_empezar_hermana": 10,
+    "tics_con_eleccion": 260,
+    "tics_con_eleccion_y_todo": 1,
+    "tics_con_eleccion_hermana_fuera_8_15": 244,
+    "tics_con_eleccion_ella_fuera_8_15": 259,
+    "tics_con_eleccion_sin_calma": 0,
+    "distancia_hermana_tras_su_primer_paso": 11,
+    "ir_sitio_ofrecido_algun_tic": false
+   },
+   {
+    "serie": 14,
+    "dia": 19,
+    "brazo": "MIENTE",
+    "asiento": 10,
+    "destino": [
+     3,
+     3
+    ],
+    "casilla": "ground",
+    "invitacion_cargada": true,
+    "tics_vivos_en_el_tramo": 300,
+    "tics_ella_8_15": 56,
+    "tics_hermana_8_15": 1,
+    "tics_las_dos_8_15": 1,
+    "tics_en_calma": 300,
+    "tics_todo_a_la_vez": 1,
+    "distancia_al_empezar_ella": 10,
+    "distancia_al_empezar_hermana": 15,
+    "tics_con_eleccion": 145,
+    "tics_con_eleccion_y_todo": 1,
+    "tics_con_eleccion_hermana_fuera_8_15": 144,
+    "tics_con_eleccion_ella_fuera_8_15": 135,
+    "tics_con_eleccion_sin_calma": 0,
+    "distancia_hermana_tras_su_primer_paso": 16,
+    "ir_sitio_ofrecido_algun_tic": false
+   },
+   {
+    "serie": 14,
+    "dia": 19,
+    "brazo": "MIENTE",
+    "asiento": 11,
+    "destino": [
+     3,
+     3
+    ],
+    "casilla": "ground",
+    "invitacion_cargada": true,
+    "tics_vivos_en_el_tramo": 300,
+    "tics_ella_8_15": 1,
+    "tics_hermana_8_15": 56,
+    "tics_las_dos_8_15": 1,
+    "tics_en_calma": 300,
+    "tics_todo_a_la_vez": 1,
+    "distancia_al_empezar_ella": 15,
+    "distancia_al_empezar_hermana": 10,
+    "tics_con_eleccion": 260,
+    "tics_con_eleccion_y_todo": 1,
+    "tics_con_eleccion_hermana_fuera_8_15": 244,
+    "tics_con_eleccion_ella_fuera_8_15": 259,
+    "tics_con_eleccion_sin_calma": 0,
+    "distancia_hermana_tras_su_primer_paso": 11,
+    "ir_sitio_ofrecido_algun_tic": false
+   },
+   {
+    "serie": 15,
+    "dia": 19,
+    "brazo": "CONGELADA",
+    "asiento": 10,
+    "destino": [
+     3,
+     3
+    ],
+    "casilla": "ground",
+    "invitacion_cargada": true,
+    "tics_vivos_en_el_tramo": 300,
+    "tics_ella_8_15": 56,
+    "tics_hermana_8_15": 1,
+    "tics_las_dos_8_15": 1,
+    "tics_en_calma": 300,
+    "tics_todo_a_la_vez": 1,
+    "distancia_al_empezar_ella": 10,
+    "distancia_al_empezar_hermana": 15,
+    "tics_con_eleccion": 217,
+    "tics_con_eleccion_y_todo": 1,
+    "tics_con_eleccion_hermana_fuera_8_15": 216,
+    "tics_con_eleccion_ella_fuera_8_15": 204,
+    "tics_con_eleccion_sin_calma": 0,
+    "distancia_hermana_tras_su_primer_paso": 16,
+    "ir_sitio_ofrecido_algun_tic": false
+   },
+   {
+    "serie": 15,
+    "dia": 19,
+    "brazo": "CONGELADA",
+    "asiento": 11,
+    "destino": [
+     3,
+     3
+    ],
+    "casilla": "ground",
+    "invitacion_cargada": true,
+    "tics_vivos_en_el_tramo": 300,
+    "tics_ella_8_15": 1,
+    "tics_hermana_8_15": 56,
+    "tics_las_dos_8_15": 1,
+    "tics_en_calma": 300,
+    "tics_todo_a_la_vez": 1,
+    "distancia_al_empezar_ella": 15,
+    "distancia_al_empezar_hermana": 10,
+    "tics_con_eleccion": 220,
+    "tics_con_eleccion_y_todo": 1,
+    "tics_con_eleccion_hermana_fuera_8_15": 214,
+    "tics_con_eleccion_ella_fuera_8_15": 219,
+    "tics_con_eleccion_sin_calma": 0,
+    "distancia_hermana_tras_su_primer_paso": 11,
+    "ir_sitio_ofrecido_algun_tic": false
+   },
+   {
+    "serie": 15,
+    "dia": 19,
+    "brazo": "MIENTE",
+    "asiento": 10,
+    "destino": [
+     3,
+     3
+    ],
+    "casilla": "ground",
+    "invitacion_cargada": true,
+    "tics_vivos_en_el_tramo": 300,
+    "tics_ella_8_15": 56,
+    "tics_hermana_8_15": 1,
+    "tics_las_dos_8_15": 1,
+    "tics_en_calma": 300,
+    "tics_todo_a_la_vez": 1,
+    "distancia_al_empezar_ella": 10,
+    "distancia_al_empezar_hermana": 15,
+    "tics_con_eleccion": 217,
+    "tics_con_eleccion_y_todo": 1,
+    "tics_con_eleccion_hermana_fuera_8_15": 216,
+    "tics_con_eleccion_ella_fuera_8_15": 204,
+    "tics_con_eleccion_sin_calma": 0,
+    "distancia_hermana_tras_su_primer_paso": 16,
+    "ir_sitio_ofrecido_algun_tic": false
+   },
+   {
+    "serie": 15,
+    "dia": 19,
+    "brazo": "MIENTE",
+    "asiento": 11,
+    "destino": [
+     3,
+     3
+    ],
+    "casilla": "ground",
+    "invitacion_cargada": true,
+    "tics_vivos_en_el_tramo": 300,
+    "tics_ella_8_15": 1,
+    "tics_hermana_8_15": 56,
+    "tics_las_dos_8_15": 1,
+    "tics_en_calma": 300,
+    "tics_todo_a_la_vez": 1,
+    "distancia_al_empezar_ella": 15,
+    "distancia_al_empezar_hermana": 10,
+    "tics_con_eleccion": 190,
+    "tics_con_eleccion_y_todo": 1,
+    "tics_con_eleccion_hermana_fuera_8_15": 184,
+    "tics_con_eleccion_ella_fuera_8_15": 189,
+    "tics_con_eleccion_sin_calma": 0,
+    "distancia_hermana_tras_su_primer_paso": 11,
+    "ir_sitio_ofrecido_algun_tic": false
+   },
+   {
+    "serie": 16,
+    "dia": 19,
+    "brazo": "CONGELADA",
+    "asiento": 10,
+    "destino": [
+     3,
+     3
+    ],
+    "casilla": "ground",
+    "invitacion_cargada": true,
+    "tics_vivos_en_el_tramo": 300,
+    "tics_ella_8_15": 56,
+    "tics_hermana_8_15": 1,
+    "tics_las_dos_8_15": 1,
+    "tics_en_calma": 300,
+    "tics_todo_a_la_vez": 1,
+    "distancia_al_empezar_ella": 10,
+    "distancia_al_empezar_hermana": 15,
+    "tics_con_eleccion": 28,
+    "tics_con_eleccion_y_todo": 1,
+    "tics_con_eleccion_hermana_fuera_8_15": 27,
+    "tics_con_eleccion_ella_fuera_8_15": 22,
+    "tics_con_eleccion_sin_calma": 0,
+    "distancia_hermana_tras_su_primer_paso": 16,
+    "ir_sitio_ofrecido_algun_tic": false
+   },
+   {
+    "serie": 16,
+    "dia": 19,
+    "brazo": "CONGELADA",
+    "asiento": 11,
+    "destino": [
+     3,
+     3
+    ],
+    "casilla": "ground",
+    "invitacion_cargada": true,
+    "tics_vivos_en_el_tramo": 300,
+    "tics_ella_8_15": 1,
+    "tics_hermana_8_15": 56,
+    "tics_las_dos_8_15": 1,
+    "tics_en_calma": 300,
+    "tics_todo_a_la_vez": 1,
+    "distancia_al_empezar_ella": 15,
+    "distancia_al_empezar_hermana": 10,
+    "tics_con_eleccion": 280,
+    "tics_con_eleccion_y_todo": 1,
+    "tics_con_eleccion_hermana_fuera_8_15": 244,
+    "tics_con_eleccion_ella_fuera_8_15": 279,
+    "tics_con_eleccion_sin_calma": 0,
+    "distancia_hermana_tras_su_primer_paso": 11,
+    "ir_sitio_ofrecido_algun_tic": false
+   },
+   {
+    "serie": 16,
+    "dia": 19,
+    "brazo": "MIENTE",
+    "asiento": 10,
+    "destino": [
+     3,
+     3
+    ],
+    "casilla": "ground",
+    "invitacion_cargada": true,
+    "tics_vivos_en_el_tramo": 300,
+    "tics_ella_8_15": 56,
+    "tics_hermana_8_15": 34,
+    "tics_las_dos_8_15": 1,
+    "tics_en_calma": 300,
+    "tics_todo_a_la_vez": 1,
+    "distancia_al_empezar_ella": 10,
+    "distancia_al_empezar_hermana": 15,
+    "tics_con_eleccion": 162,
+    "tics_con_eleccion_y_todo": 1,
+    "tics_con_eleccion_hermana_fuera_8_15": 158,
+    "tics_con_eleccion_ella_fuera_8_15": 156,
+    "tics_con_eleccion_sin_calma": 0,
+    "distancia_hermana_tras_su_primer_paso": 16,
+    "ir_sitio_ofrecido_algun_tic": false
+   },
+   {
+    "serie": 16,
+    "dia": 19,
+    "brazo": "MIENTE",
+    "asiento": 11,
+    "destino": [
+     3,
+     3
+    ],
+    "casilla": "ground",
+    "invitacion_cargada": true,
+    "tics_vivos_en_el_tramo": 300,
+    "tics_ella_8_15": 34,
+    "tics_hermana_8_15": 56,
+    "tics_las_dos_8_15": 1,
+    "tics_en_calma": 300,
+    "tics_todo_a_la_vez": 1,
+    "distancia_al_empezar_ella": 15,
+    "distancia_al_empezar_hermana": 10,
+    "tics_con_eleccion": 280,
+    "tics_con_eleccion_y_todo": 1,
+    "tics_con_eleccion_hermana_fuera_8_15": 244,
+    "tics_con_eleccion_ella_fuera_8_15": 246,
+    "tics_con_eleccion_sin_calma": 0,
+    "distancia_hermana_tras_su_primer_paso": 11,
+    "ir_sitio_ofrecido_algun_tic": false
+   }
+  ],
+  "con_oportunidad_dia_19": [
+   {
+    "serie": 5,
+    "brazo": "CONGELADA",
+    "asiento": 10,
+    "tic_oportunidad": 1
+   },
+   {
+    "serie": 5,
+    "brazo": "CONGELADA",
+    "asiento": 11,
+    "tic_oportunidad": 1
+   },
+   {
+    "serie": 5,
+    "brazo": "MIENTE",
+    "asiento": 10,
+    "tic_oportunidad": 1
+   },
+   {
+    "serie": 5,
+    "brazo": "MIENTE",
+    "asiento": 11,
+    "tic_oportunidad": 1
+   }
+  ],
+  "resumen": {
+   "criatura_dias_con_0_tics_tics_ella_8_15": 0,
+   "criatura_dias_con_0_tics_tics_hermana_8_15": 0,
+   "criatura_dias_con_0_tics_tics_las_dos_8_15": 0,
+   "criatura_dias_con_0_tics_tics_en_calma": 0,
+   "criatura_dias_con_0_tics_tics_todo_a_la_vez": 0,
+   "criatura_dias_con_0_tics_tics_con_eleccion_y_todo": 0,
+   "total": 60,
+   "ir_sitio_ofrecido_algun_tic": 0,
+   "tics_con_eleccion": 13486,
+   "de_ellos_hermana_fuera_8_15": 12911,
+   "de_ellos_ella_fuera_8_15": 12878,
+   "de_ellos_sin_calma": 0,
+   "distancia_hermana_tras_su_primer_paso": {
+    "16": 30,
+    "11": 30
+   },
+   "casillas": {
+    "ground": 60
+   },
+   "invitacion_cargada": 60,
+   "distancia_al_empezar_ella": {
+    "10": 30,
+    "15": 30
+   },
+   "distancia_al_empezar_hermana": {
+    "15": 30,
+    "10": 30
+   }
+  }
+ },
+ "pregunta_2": {
+  "por_dia": {
+   "11": {
+    "destino": [
+     24,
+     23
+    ],
+    "llegadas": 32,
+    "aciertos": 32,
+    "sin_botiquin_a_la_vista": 0,
+    "botiquines_vistos_mediana": 2,
+    "mas_cercano_mediana": 2,
+    "destino_dentro_de_la_zona": 32,
+    "tic_llegada_mediana": 613,
+    "radio_zona": [
+     24
+    ]
+   },
+   "12": {
+    "destino": [
+     24,
+     23
+    ],
+    "llegadas": 32,
+    "aciertos": 32,
+    "sin_botiquin_a_la_vista": 0,
+    "botiquines_vistos_mediana": 2,
+    "mas_cercano_mediana": 2,
+    "destino_dentro_de_la_zona": 32,
+    "tic_llegada_mediana": 613,
+    "radio_zona": [
+     24
+    ]
+   },
+   "13": {
+    "destino": [
+     27,
+     23
+    ],
+    "llegadas": 32,
+    "aciertos": 20,
+    "sin_botiquin_a_la_vista": 0,
+    "botiquines_vistos_mediana": 2,
+    "mas_cercano_mediana": 2,
+    "destino_dentro_de_la_zona": 32,
+    "tic_llegada_mediana": 613,
+    "radio_zona": [
+     24
+    ]
+   },
+   "14": {
+    "destino": [
+     24,
+     23
+    ],
+    "llegadas": 32,
+    "aciertos": 32,
+    "sin_botiquin_a_la_vista": 0,
+    "botiquines_vistos_mediana": 2,
+    "mas_cercano_mediana": 2,
+    "destino_dentro_de_la_zona": 32,
+    "tic_llegada_mediana": 613,
+    "radio_zona": [
+     24
+    ]
+   },
+   "15": {
+    "destino": [
+     24,
+     23
+    ],
+    "llegadas": 32,
+    "aciertos": 32,
+    "sin_botiquin_a_la_vista": 0,
+    "botiquines_vistos_mediana": 2,
+    "mas_cercano_mediana": 2,
+    "destino_dentro_de_la_zona": 32,
+    "tic_llegada_mediana": 613,
+    "radio_zona": [
+     24
+    ]
+   },
+   "16": {
+    "destino": [
+     24,
+     23
+    ],
+    "llegadas": 32,
+    "aciertos": 32,
+    "sin_botiquin_a_la_vista": 0,
+    "botiquines_vistos_mediana": 2,
+    "mas_cercano_mediana": 2,
+    "destino_dentro_de_la_zona": 32,
+    "tic_llegada_mediana": 613,
+    "radio_zona": [
+     24
+    ]
+   },
+   "17": {
+    "destino": [
+     27,
+     23
+    ],
+    "llegadas": 32,
+    "aciertos": 18,
+    "sin_botiquin_a_la_vista": 0,
+    "botiquines_vistos_mediana": 2,
+    "mas_cercano_mediana": 3,
+    "destino_dentro_de_la_zona": 32,
+    "tic_llegada_mediana": 613,
+    "radio_zona": [
+     24
+    ]
+   },
+   "18": {
+    "destino": [
+     21,
+     24
+    ],
+    "llegadas": 32,
+    "aciertos": 26,
+    "sin_botiquin_a_la_vista": 0,
+    "botiquines_vistos_mediana": 2,
+    "mas_cercano_mediana": 3,
+    "destino_dentro_de_la_zona": 32,
+    "tic_llegada_mediana": 624,
+    "radio_zona": [
+     24
+    ]
+   },
+   "19": {
+    "destino": [
+     21,
+     24
+    ],
+    "llegadas": 32,
+    "aciertos": 28,
+    "sin_botiquin_a_la_vista": 0,
+    "botiquines_vistos_mediana": 2,
+    "mas_cercano_mediana": 3,
+    "destino_dentro_de_la_zona": 32,
+    "tic_llegada_mediana": 624,
+    "radio_zona": [
+     24
+    ]
+   },
+   "20": {
+    "destino": [
+     27,
+     23
+    ],
+    "llegadas": 32,
+    "aciertos": 14,
+    "sin_botiquin_a_la_vista": 1,
+    "botiquines_vistos_mediana": 2,
+    "mas_cercano_mediana": 4,
+    "destino_dentro_de_la_zona": 32,
+    "tic_llegada_mediana": 613,
+    "radio_zona": [
+     24
+    ]
+   }
+  },
+  "llegadas": [
+   {
+    "serie": 1,
+    "dia": 11,
+    "asiento": 10,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 602,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 2,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 1,
+    "dia": 11,
+    "asiento": 11,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 2,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 1,
+    "dia": 12,
+    "asiento": 10,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 602,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 2,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 1,
+    "dia": 12,
+    "asiento": 11,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 2,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 1,
+    "dia": 13,
+    "asiento": 10,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 2,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 1,
+    "dia": 13,
+    "asiento": 11,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 2,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 1,
+    "dia": 14,
+    "asiento": 10,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 602,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 1,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 1,
+    "dia": 14,
+    "asiento": 11,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 1,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 1,
+    "dia": 15,
+    "asiento": 10,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 1,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 1,
+    "dia": 15,
+    "asiento": 11,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 1,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 1,
+    "dia": 16,
+    "asiento": 10,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 602,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 2,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 1,
+    "dia": 16,
+    "asiento": 11,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 2,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 1,
+    "dia": 17,
+    "asiento": 10,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 1,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 1,
+    "dia": 17,
+    "asiento": 11,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 1,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 1,
+    "dia": 18,
+    "asiento": 10,
+    "destino": [
+     21,
+     24
+    ],
+    "tic": 580,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 1,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 1,
+    "dia": 18,
+    "asiento": 11,
+    "destino": [
+     21,
+     24
+    ],
+    "tic": 624,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 1,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 1,
+    "dia": 19,
+    "asiento": 10,
+    "destino": [
+     21,
+     24
+    ],
+    "tic": 580,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 3,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 1,
+    "dia": 19,
+    "asiento": 11,
+    "destino": [
+     21,
+     24
+    ],
+    "tic": 624,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 3,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 1,
+    "dia": 20,
+    "asiento": 10,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 613,
+    "acierto": 0,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 4,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 1,
+    "dia": 20,
+    "asiento": 11,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 613,
+    "acierto": 0,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 4,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 2,
+    "dia": 11,
+    "asiento": 10,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 602,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 2,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 2,
+    "dia": 11,
+    "asiento": 11,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 2,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 2,
+    "dia": 12,
+    "asiento": 10,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 602,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 2,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 2,
+    "dia": 12,
+    "asiento": 11,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 2,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 2,
+    "dia": 13,
+    "asiento": 10,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 613,
+    "acierto": 0,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 4,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 2,
+    "dia": 13,
+    "asiento": 11,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 613,
+    "acierto": 0,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 4,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 2,
+    "dia": 14,
+    "asiento": 10,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 602,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 3,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 2,
+    "dia": 14,
+    "asiento": 11,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 3,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 2,
+    "dia": 15,
+    "asiento": 10,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 602,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 1,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 2,
+    "dia": 15,
+    "asiento": 11,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 1,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 2,
+    "dia": 16,
+    "asiento": 10,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 602,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 1,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 2,
+    "dia": 16,
+    "asiento": 11,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 1,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 2,
+    "dia": 17,
+    "asiento": 10,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 0,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 2,
+    "dia": 17,
+    "asiento": 11,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 0,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 2,
+    "dia": 18,
+    "asiento": 10,
+    "destino": [
+     21,
+     24
+    ],
+    "tic": 580,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 3,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 2,
+    "dia": 18,
+    "asiento": 11,
+    "destino": [
+     21,
+     24
+    ],
+    "tic": 625,
+    "acierto": 0,
+    "botiquines_vistos": 1,
+    "mas_cercano_al_destino": 4,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 2,
+    "dia": 19,
+    "asiento": 10,
+    "destino": [
+     21,
+     24
+    ],
+    "tic": 580,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 1,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 2,
+    "dia": 19,
+    "asiento": 11,
+    "destino": [
+     21,
+     24
+    ],
+    "tic": 636,
+    "acierto": 0,
+    "botiquines_vistos": 1,
+    "mas_cercano_al_destino": 6,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 2,
+    "dia": 20,
+    "asiento": 10,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 0,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 2,
+    "dia": 20,
+    "asiento": 11,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 635,
+    "acierto": 0,
+    "botiquines_vistos": 0,
+    "mas_cercano_al_destino": null,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 3,
+    "dia": 11,
+    "asiento": 10,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 602,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 3,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 3,
+    "dia": 11,
+    "asiento": 11,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 3,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 3,
+    "dia": 12,
+    "asiento": 10,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 602,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 1,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 3,
+    "dia": 12,
+    "asiento": 11,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 1,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 3,
+    "dia": 13,
+    "asiento": 10,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 613,
+    "acierto": 0,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 4,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 3,
+    "dia": 13,
+    "asiento": 11,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 613,
+    "acierto": 0,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 4,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 3,
+    "dia": 14,
+    "asiento": 10,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 602,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 0,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 3,
+    "dia": 14,
+    "asiento": 11,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 0,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 3,
+    "dia": 15,
+    "asiento": 10,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 602,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 2,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 3,
+    "dia": 15,
+    "asiento": 11,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 2,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 3,
+    "dia": 16,
+    "asiento": 10,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 602,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 1,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 3,
+    "dia": 16,
+    "asiento": 11,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 1,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 3,
+    "dia": 17,
+    "asiento": 10,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 613,
+    "acierto": 0,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 4,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 3,
+    "dia": 17,
+    "asiento": 11,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 613,
+    "acierto": 0,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 4,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 3,
+    "dia": 18,
+    "asiento": 10,
+    "destino": [
+     21,
+     24
+    ],
+    "tic": 580,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 0,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 3,
+    "dia": 18,
+    "asiento": 11,
+    "destino": [
+     21,
+     24
+    ],
+    "tic": 624,
+    "acierto": 0,
+    "botiquines_vistos": 1,
+    "mas_cercano_al_destino": 5,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 3,
+    "dia": 19,
+    "asiento": 10,
+    "destino": [
+     21,
+     24
+    ],
+    "tic": 580,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 3,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 3,
+    "dia": 19,
+    "asiento": 11,
+    "destino": [
+     21,
+     24
+    ],
+    "tic": 636,
+    "acierto": 1,
+    "botiquines_vistos": 1,
+    "mas_cercano_al_destino": 3,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 3,
+    "dia": 20,
+    "asiento": 10,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 613,
+    "acierto": 0,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 4,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 3,
+    "dia": 20,
+    "asiento": 11,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 613,
+    "acierto": 0,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 4,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 4,
+    "dia": 11,
+    "asiento": 10,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 602,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 2,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 4,
+    "dia": 11,
+    "asiento": 11,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 2,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 4,
+    "dia": 12,
+    "asiento": 10,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 602,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 3,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 4,
+    "dia": 12,
+    "asiento": 11,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 3,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 4,
+    "dia": 13,
+    "asiento": 10,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 613,
+    "acierto": 0,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 4,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 4,
+    "dia": 13,
+    "asiento": 11,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 613,
+    "acierto": 0,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 4,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 4,
+    "dia": 14,
+    "asiento": 10,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 602,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 1,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 4,
+    "dia": 14,
+    "asiento": 11,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 1,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 4,
+    "dia": 15,
+    "asiento": 10,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 603,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 3,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 4,
+    "dia": 15,
+    "asiento": 11,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 617,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 3,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 4,
+    "dia": 16,
+    "asiento": 10,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 602,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 2,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 4,
+    "dia": 16,
+    "asiento": 11,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 2,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 4,
+    "dia": 17,
+    "asiento": 10,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 613,
+    "acierto": 0,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 4,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 4,
+    "dia": 17,
+    "asiento": 11,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 613,
+    "acierto": 0,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 4,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 4,
+    "dia": 18,
+    "asiento": 10,
+    "destino": [
+     21,
+     24
+    ],
+    "tic": 580,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 3,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 4,
+    "dia": 18,
+    "asiento": 11,
+    "destino": [
+     21,
+     24
+    ],
+    "tic": 624,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 3,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 4,
+    "dia": 19,
+    "asiento": 10,
+    "destino": [
+     21,
+     24
+    ],
+    "tic": 580,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 3,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 4,
+    "dia": 19,
+    "asiento": 11,
+    "destino": [
+     21,
+     24
+    ],
+    "tic": 624,
+    "acierto": 0,
+    "botiquines_vistos": 1,
+    "mas_cercano_al_destino": 5,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 4,
+    "dia": 20,
+    "asiento": 10,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 613,
+    "acierto": 0,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 4,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 4,
+    "dia": 20,
+    "asiento": 11,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 613,
+    "acierto": 0,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 4,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 5,
+    "dia": 11,
+    "asiento": 10,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 602,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 2,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 5,
+    "dia": 11,
+    "asiento": 11,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 2,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 5,
+    "dia": 12,
+    "asiento": 10,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 1,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 5,
+    "dia": 12,
+    "asiento": 11,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 1,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 5,
+    "dia": 13,
+    "asiento": 10,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 618,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 2,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 5,
+    "dia": 13,
+    "asiento": 11,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 2,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 5,
+    "dia": 14,
+    "asiento": 10,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 602,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 1,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 5,
+    "dia": 14,
+    "asiento": 11,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 1,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 5,
+    "dia": 15,
+    "asiento": 10,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 2,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 5,
+    "dia": 15,
+    "asiento": 11,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 615,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 2,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 5,
+    "dia": 16,
+    "asiento": 10,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 602,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 2,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 5,
+    "dia": 16,
+    "asiento": 11,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 2,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 5,
+    "dia": 17,
+    "asiento": 10,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 2,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 5,
+    "dia": 17,
+    "asiento": 11,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 2,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 5,
+    "dia": 18,
+    "asiento": 10,
+    "destino": [
+     21,
+     24
+    ],
+    "tic": 580,
+    "acierto": 0,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 4,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 5,
+    "dia": 18,
+    "asiento": 11,
+    "destino": [
+     21,
+     24
+    ],
+    "tic": 624,
+    "acierto": 0,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 4,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 5,
+    "dia": 19,
+    "asiento": 10,
+    "destino": [
+     21,
+     24
+    ],
+    "tic": 580,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 3,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 5,
+    "dia": 19,
+    "asiento": 11,
+    "destino": [
+     21,
+     24
+    ],
+    "tic": 624,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 3,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 5,
+    "dia": 20,
+    "asiento": 10,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 635,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 3,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 5,
+    "dia": 20,
+    "asiento": 11,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 3,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 6,
+    "dia": 11,
+    "asiento": 10,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 602,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 3,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 6,
+    "dia": 11,
+    "asiento": 11,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 3,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 6,
+    "dia": 12,
+    "asiento": 10,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 602,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 1,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 6,
+    "dia": 12,
+    "asiento": 11,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 1,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 6,
+    "dia": 13,
+    "asiento": 10,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 1,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 6,
+    "dia": 13,
+    "asiento": 11,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 1,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 6,
+    "dia": 14,
+    "asiento": 10,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 604,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 2,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 6,
+    "dia": 14,
+    "asiento": 11,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 2,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 6,
+    "dia": 15,
+    "asiento": 10,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 602,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 2,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 6,
+    "dia": 15,
+    "asiento": 11,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 2,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 6,
+    "dia": 16,
+    "asiento": 10,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 602,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 1,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 6,
+    "dia": 16,
+    "asiento": 11,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 1,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 6,
+    "dia": 17,
+    "asiento": 10,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 0,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 6,
+    "dia": 17,
+    "asiento": 11,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 0,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 6,
+    "dia": 18,
+    "asiento": 10,
+    "destino": [
+     21,
+     24
+    ],
+    "tic": 580,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 3,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 6,
+    "dia": 18,
+    "asiento": 11,
+    "destino": [
+     21,
+     24
+    ],
+    "tic": 624,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 3,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 6,
+    "dia": 19,
+    "asiento": 10,
+    "destino": [
+     21,
+     24
+    ],
+    "tic": 580,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 3,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 6,
+    "dia": 19,
+    "asiento": 11,
+    "destino": [
+     21,
+     24
+    ],
+    "tic": 624,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 3,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 6,
+    "dia": 20,
+    "asiento": 10,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 613,
+    "acierto": 0,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 4,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 6,
+    "dia": 20,
+    "asiento": 11,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 613,
+    "acierto": 0,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 4,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 7,
+    "dia": 11,
+    "asiento": 10,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 602,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 2,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 7,
+    "dia": 11,
+    "asiento": 11,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 2,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 7,
+    "dia": 12,
+    "asiento": 10,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 602,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 2,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 7,
+    "dia": 12,
+    "asiento": 11,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 2,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 7,
+    "dia": 13,
+    "asiento": 10,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 0,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 7,
+    "dia": 13,
+    "asiento": 11,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 0,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 7,
+    "dia": 14,
+    "asiento": 10,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 602,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 2,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 7,
+    "dia": 14,
+    "asiento": 11,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 2,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 7,
+    "dia": 15,
+    "asiento": 10,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 602,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 1,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 7,
+    "dia": 15,
+    "asiento": 11,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 1,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 7,
+    "dia": 16,
+    "asiento": 10,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 2,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 7,
+    "dia": 16,
+    "asiento": 11,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 2,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 7,
+    "dia": 17,
+    "asiento": 10,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 0,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 7,
+    "dia": 17,
+    "asiento": 11,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 0,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 7,
+    "dia": 18,
+    "asiento": 10,
+    "destino": [
+     21,
+     24
+    ],
+    "tic": 580,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 2,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 7,
+    "dia": 18,
+    "asiento": 11,
+    "destino": [
+     21,
+     24
+    ],
+    "tic": 624,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 2,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 8,
+    "dia": 11,
+    "asiento": 10,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 1,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 8,
+    "dia": 11,
+    "asiento": 11,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 1,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 7,
+    "dia": 19,
+    "asiento": 10,
+    "destino": [
+     21,
+     24
+    ],
+    "tic": 580,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 3,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 7,
+    "dia": 19,
+    "asiento": 11,
+    "destino": [
+     21,
+     24
+    ],
+    "tic": 624,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 3,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 7,
+    "dia": 20,
+    "asiento": 10,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 3,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 7,
+    "dia": 20,
+    "asiento": 11,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 3,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 8,
+    "dia": 12,
+    "asiento": 10,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 602,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 1,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 8,
+    "dia": 12,
+    "asiento": 11,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 615,
+    "acierto": 1,
+    "botiquines_vistos": 1,
+    "mas_cercano_al_destino": 3,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 8,
+    "dia": 13,
+    "asiento": 10,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 613,
+    "acierto": 0,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 4,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 8,
+    "dia": 13,
+    "asiento": 11,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 624,
+    "acierto": 0,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 4,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 8,
+    "dia": 14,
+    "asiento": 10,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 602,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 2,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 8,
+    "dia": 14,
+    "asiento": 11,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 2,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 8,
+    "dia": 15,
+    "asiento": 10,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 602,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 1,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 8,
+    "dia": 15,
+    "asiento": 11,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 1,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 8,
+    "dia": 16,
+    "asiento": 10,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 602,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 2,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 8,
+    "dia": 16,
+    "asiento": 11,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 2,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 8,
+    "dia": 17,
+    "asiento": 10,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 635,
+    "acierto": 0,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 4,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 8,
+    "dia": 17,
+    "asiento": 11,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 613,
+    "acierto": 0,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 4,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 8,
+    "dia": 18,
+    "asiento": 10,
+    "destino": [
+     21,
+     24
+    ],
+    "tic": 591,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 3,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 8,
+    "dia": 18,
+    "asiento": 11,
+    "destino": [
+     21,
+     24
+    ],
+    "tic": 624,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 3,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 8,
+    "dia": 19,
+    "asiento": 10,
+    "destino": [
+     21,
+     24
+    ],
+    "tic": 580,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 3,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 8,
+    "dia": 19,
+    "asiento": 11,
+    "destino": [
+     21,
+     24
+    ],
+    "tic": 624,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 3,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 8,
+    "dia": 20,
+    "asiento": 10,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 613,
+    "acierto": 0,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 4,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 8,
+    "dia": 20,
+    "asiento": 11,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 613,
+    "acierto": 0,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 4,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 9,
+    "dia": 11,
+    "asiento": 10,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 602,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 3,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 9,
+    "dia": 11,
+    "asiento": 11,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 3,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 9,
+    "dia": 12,
+    "asiento": 10,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 602,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 2,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 9,
+    "dia": 12,
+    "asiento": 11,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 2,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 9,
+    "dia": 13,
+    "asiento": 10,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 0,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 9,
+    "dia": 13,
+    "asiento": 11,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 0,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 9,
+    "dia": 14,
+    "asiento": 10,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 602,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 2,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 9,
+    "dia": 14,
+    "asiento": 11,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 2,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 9,
+    "dia": 15,
+    "asiento": 10,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 602,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 1,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 9,
+    "dia": 15,
+    "asiento": 11,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 1,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 9,
+    "dia": 16,
+    "asiento": 10,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 1,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 9,
+    "dia": 16,
+    "asiento": 11,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 1,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 9,
+    "dia": 17,
+    "asiento": 10,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 0,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 9,
+    "dia": 17,
+    "asiento": 11,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 0,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 10,
+    "dia": 11,
+    "asiento": 10,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 602,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 2,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 10,
+    "dia": 11,
+    "asiento": 11,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 2,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 9,
+    "dia": 18,
+    "asiento": 10,
+    "destino": [
+     21,
+     24
+    ],
+    "tic": 580,
+    "acierto": 1,
+    "botiquines_vistos": 3,
+    "mas_cercano_al_destino": 3,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 9,
+    "dia": 18,
+    "asiento": 11,
+    "destino": [
+     21,
+     24
+    ],
+    "tic": 625,
+    "acierto": 1,
+    "botiquines_vistos": 3,
+    "mas_cercano_al_destino": 3,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 10,
+    "dia": 12,
+    "asiento": 10,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 603,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 1,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 10,
+    "dia": 12,
+    "asiento": 11,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 1,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 9,
+    "dia": 19,
+    "asiento": 10,
+    "destino": [
+     21,
+     24
+    ],
+    "tic": 580,
+    "acierto": 1,
+    "botiquines_vistos": 3,
+    "mas_cercano_al_destino": 3,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 9,
+    "dia": 19,
+    "asiento": 11,
+    "destino": [
+     21,
+     24
+    ],
+    "tic": 624,
+    "acierto": 1,
+    "botiquines_vistos": 3,
+    "mas_cercano_al_destino": 3,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 10,
+    "dia": 13,
+    "asiento": 10,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 613,
+    "acierto": 0,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 5,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 10,
+    "dia": 13,
+    "asiento": 11,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 613,
+    "acierto": 0,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 5,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 9,
+    "dia": 20,
+    "asiento": 10,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 1,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 9,
+    "dia": 20,
+    "asiento": 11,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 1,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 10,
+    "dia": 14,
+    "asiento": 10,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 602,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 1,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 10,
+    "dia": 14,
+    "asiento": 11,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 1,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 10,
+    "dia": 15,
+    "asiento": 10,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 602,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 2,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 10,
+    "dia": 15,
+    "asiento": 11,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 2,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 10,
+    "dia": 16,
+    "asiento": 10,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 602,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 2,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 10,
+    "dia": 16,
+    "asiento": 11,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 2,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 10,
+    "dia": 17,
+    "asiento": 10,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 613,
+    "acierto": 0,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 4,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 10,
+    "dia": 17,
+    "asiento": 11,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 613,
+    "acierto": 0,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 4,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 11,
+    "dia": 11,
+    "asiento": 10,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 602,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 3,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 11,
+    "dia": 11,
+    "asiento": 11,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 3,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 10,
+    "dia": 18,
+    "asiento": 10,
+    "destino": [
+     21,
+     24
+    ],
+    "tic": 580,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 3,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 10,
+    "dia": 18,
+    "asiento": 11,
+    "destino": [
+     21,
+     24
+    ],
+    "tic": 624,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 3,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 11,
+    "dia": 12,
+    "asiento": 10,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 2,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 11,
+    "dia": 12,
+    "asiento": 11,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 2,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 10,
+    "dia": 19,
+    "asiento": 10,
+    "destino": [
+     21,
+     24
+    ],
+    "tic": 580,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 2,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 10,
+    "dia": 19,
+    "asiento": 11,
+    "destino": [
+     21,
+     24
+    ],
+    "tic": 635,
+    "acierto": 1,
+    "botiquines_vistos": 1,
+    "mas_cercano_al_destino": 3,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 11,
+    "dia": 13,
+    "asiento": 10,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 0,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 11,
+    "dia": 13,
+    "asiento": 11,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 0,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 10,
+    "dia": 20,
+    "asiento": 10,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 613,
+    "acierto": 0,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 4,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 10,
+    "dia": 20,
+    "asiento": 11,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 613,
+    "acierto": 0,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 4,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 11,
+    "dia": 14,
+    "asiento": 10,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 602,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 2,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 11,
+    "dia": 14,
+    "asiento": 11,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 2,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 11,
+    "dia": 15,
+    "asiento": 10,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 602,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 1,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 11,
+    "dia": 15,
+    "asiento": 11,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 1,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 11,
+    "dia": 16,
+    "asiento": 10,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 602,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 1,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 11,
+    "dia": 16,
+    "asiento": 11,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 1,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 11,
+    "dia": 17,
+    "asiento": 10,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 1,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 11,
+    "dia": 17,
+    "asiento": 11,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 1,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 11,
+    "dia": 18,
+    "asiento": 10,
+    "destino": [
+     21,
+     24
+    ],
+    "tic": 580,
+    "acierto": 0,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 4,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 11,
+    "dia": 18,
+    "asiento": 11,
+    "destino": [
+     21,
+     24
+    ],
+    "tic": 624,
+    "acierto": 0,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 4,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 11,
+    "dia": 19,
+    "asiento": 10,
+    "destino": [
+     21,
+     24
+    ],
+    "tic": 580,
+    "acierto": 1,
+    "botiquines_vistos": 3,
+    "mas_cercano_al_destino": 3,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 11,
+    "dia": 19,
+    "asiento": 11,
+    "destino": [
+     21,
+     24
+    ],
+    "tic": 625,
+    "acierto": 0,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 4,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 11,
+    "dia": 20,
+    "asiento": 10,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 3,
+    "mas_cercano_al_destino": 2,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 11,
+    "dia": 20,
+    "asiento": 11,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 625,
+    "acierto": 0,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 4,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 12,
+    "dia": 11,
+    "asiento": 10,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 602,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 1,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 12,
+    "dia": 11,
+    "asiento": 11,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 614,
+    "acierto": 1,
+    "botiquines_vistos": 1,
+    "mas_cercano_al_destino": 3,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 12,
+    "dia": 12,
+    "asiento": 10,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 602,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 2,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 12,
+    "dia": 12,
+    "asiento": 11,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 2,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 12,
+    "dia": 13,
+    "asiento": 10,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 613,
+    "acierto": 0,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 5,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 12,
+    "dia": 13,
+    "asiento": 11,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 613,
+    "acierto": 0,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 5,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 12,
+    "dia": 14,
+    "asiento": 10,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 602,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 1,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 12,
+    "dia": 14,
+    "asiento": 11,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 1,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 12,
+    "dia": 15,
+    "asiento": 10,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 616,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 2,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 12,
+    "dia": 15,
+    "asiento": 11,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 2,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 12,
+    "dia": 16,
+    "asiento": 10,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 602,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 2,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 12,
+    "dia": 16,
+    "asiento": 11,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 2,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 12,
+    "dia": 17,
+    "asiento": 10,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 3,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 12,
+    "dia": 17,
+    "asiento": 11,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 614,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 3,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 12,
+    "dia": 18,
+    "asiento": 10,
+    "destino": [
+     21,
+     24
+    ],
+    "tic": 580,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 1,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 12,
+    "dia": 18,
+    "asiento": 11,
+    "destino": [
+     21,
+     24
+    ],
+    "tic": 625,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 1,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 12,
+    "dia": 19,
+    "asiento": 10,
+    "destino": [
+     21,
+     24
+    ],
+    "tic": 602,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 3,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 12,
+    "dia": 19,
+    "asiento": 11,
+    "destino": [
+     21,
+     24
+    ],
+    "tic": 624,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 3,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 13,
+    "dia": 11,
+    "asiento": 10,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 602,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 2,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 13,
+    "dia": 11,
+    "asiento": 11,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 2,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 12,
+    "dia": 20,
+    "asiento": 10,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 0,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 12,
+    "dia": 20,
+    "asiento": 11,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 0,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 13,
+    "dia": 12,
+    "asiento": 10,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 602,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 1,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 13,
+    "dia": 12,
+    "asiento": 11,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 1,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 13,
+    "dia": 13,
+    "asiento": 10,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 1,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 13,
+    "dia": 13,
+    "asiento": 11,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 1,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 13,
+    "dia": 14,
+    "asiento": 10,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 602,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 2,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 13,
+    "dia": 14,
+    "asiento": 11,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 2,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 13,
+    "dia": 15,
+    "asiento": 10,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 602,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 1,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 13,
+    "dia": 15,
+    "asiento": 11,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 1,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 13,
+    "dia": 16,
+    "asiento": 10,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 602,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 0,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 13,
+    "dia": 16,
+    "asiento": 11,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 0,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 13,
+    "dia": 17,
+    "asiento": 10,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 624,
+    "acierto": 0,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 4,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 13,
+    "dia": 17,
+    "asiento": 11,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 615,
+    "acierto": 0,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 4,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 13,
+    "dia": 18,
+    "asiento": 10,
+    "destino": [
+     21,
+     24
+    ],
+    "tic": 580,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 3,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 13,
+    "dia": 18,
+    "asiento": 11,
+    "destino": [
+     21,
+     24
+    ],
+    "tic": 624,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 3,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 13,
+    "dia": 19,
+    "asiento": 10,
+    "destino": [
+     21,
+     24
+    ],
+    "tic": 580,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 3,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 13,
+    "dia": 19,
+    "asiento": 11,
+    "destino": [
+     21,
+     24
+    ],
+    "tic": 624,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 3,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 13,
+    "dia": 20,
+    "asiento": 10,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 613,
+    "acierto": 0,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 4,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 13,
+    "dia": 20,
+    "asiento": 11,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 613,
+    "acierto": 0,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 4,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 14,
+    "dia": 11,
+    "asiento": 10,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 602,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 1,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 14,
+    "dia": 11,
+    "asiento": 11,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 614,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 1,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 14,
+    "dia": 12,
+    "asiento": 10,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 602,
+    "acierto": 1,
+    "botiquines_vistos": 3,
+    "mas_cercano_al_destino": 3,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 14,
+    "dia": 12,
+    "asiento": 11,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 3,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 14,
+    "dia": 13,
+    "asiento": 10,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 0,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 14,
+    "dia": 13,
+    "asiento": 11,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 0,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 14,
+    "dia": 14,
+    "asiento": 10,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 602,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 1,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 14,
+    "dia": 14,
+    "asiento": 11,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 1,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 14,
+    "dia": 15,
+    "asiento": 10,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 602,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 2,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 14,
+    "dia": 15,
+    "asiento": 11,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 2,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 14,
+    "dia": 16,
+    "asiento": 10,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 602,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 1,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 14,
+    "dia": 16,
+    "asiento": 11,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 1,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 14,
+    "dia": 17,
+    "asiento": 10,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 635,
+    "acierto": 0,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 4,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 14,
+    "dia": 17,
+    "asiento": 11,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 613,
+    "acierto": 0,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 4,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 14,
+    "dia": 18,
+    "asiento": 10,
+    "destino": [
+     21,
+     24
+    ],
+    "tic": 580,
+    "acierto": 1,
+    "botiquines_vistos": 3,
+    "mas_cercano_al_destino": 3,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 14,
+    "dia": 18,
+    "asiento": 11,
+    "destino": [
+     21,
+     24
+    ],
+    "tic": 625,
+    "acierto": 1,
+    "botiquines_vistos": 3,
+    "mas_cercano_al_destino": 3,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 14,
+    "dia": 19,
+    "asiento": 10,
+    "destino": [
+     21,
+     24
+    ],
+    "tic": 580,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 3,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 14,
+    "dia": 19,
+    "asiento": 11,
+    "destino": [
+     21,
+     24
+    ],
+    "tic": 624,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 3,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 14,
+    "dia": 20,
+    "asiento": 10,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 613,
+    "acierto": 0,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 4,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 14,
+    "dia": 20,
+    "asiento": 11,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 613,
+    "acierto": 0,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 4,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 15,
+    "dia": 11,
+    "asiento": 10,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 602,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 2,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 15,
+    "dia": 11,
+    "asiento": 11,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 2,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 15,
+    "dia": 12,
+    "asiento": 10,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 602,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 1,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 15,
+    "dia": 12,
+    "asiento": 11,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 1,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 15,
+    "dia": 13,
+    "asiento": 10,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 2,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 15,
+    "dia": 13,
+    "asiento": 11,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 2,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 15,
+    "dia": 14,
+    "asiento": 10,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 602,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 3,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 15,
+    "dia": 14,
+    "asiento": 11,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 3,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 15,
+    "dia": 15,
+    "asiento": 10,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 602,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 3,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 15,
+    "dia": 15,
+    "asiento": 11,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 3,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 15,
+    "dia": 16,
+    "asiento": 10,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 603,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 2,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 15,
+    "dia": 16,
+    "asiento": 11,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 614,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 2,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 15,
+    "dia": 17,
+    "asiento": 10,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 635,
+    "acierto": 0,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 5,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 15,
+    "dia": 17,
+    "asiento": 11,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 613,
+    "acierto": 0,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 5,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 15,
+    "dia": 18,
+    "asiento": 10,
+    "destino": [
+     21,
+     24
+    ],
+    "tic": 580,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 0,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 15,
+    "dia": 18,
+    "asiento": 11,
+    "destino": [
+     21,
+     24
+    ],
+    "tic": 624,
+    "acierto": 1,
+    "botiquines_vistos": 1,
+    "mas_cercano_al_destino": 3,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 15,
+    "dia": 19,
+    "asiento": 10,
+    "destino": [
+     21,
+     24
+    ],
+    "tic": 580,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 2,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 15,
+    "dia": 19,
+    "asiento": 11,
+    "destino": [
+     21,
+     24
+    ],
+    "tic": 624,
+    "acierto": 0,
+    "botiquines_vistos": 1,
+    "mas_cercano_al_destino": 6,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 15,
+    "dia": 20,
+    "asiento": 10,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 2,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 15,
+    "dia": 20,
+    "asiento": 11,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 2,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 16,
+    "dia": 11,
+    "asiento": 10,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 602,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 1,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 16,
+    "dia": 11,
+    "asiento": 11,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 1,
+    "mas_cercano_al_destino": 2,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 16,
+    "dia": 12,
+    "asiento": 10,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 602,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 1,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 16,
+    "dia": 12,
+    "asiento": 11,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 1,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 16,
+    "dia": 13,
+    "asiento": 10,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 0,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 16,
+    "dia": 13,
+    "asiento": 11,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 0,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 16,
+    "dia": 14,
+    "asiento": 10,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 602,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 1,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 16,
+    "dia": 14,
+    "asiento": 11,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 1,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 16,
+    "dia": 15,
+    "asiento": 10,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 602,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 2,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 16,
+    "dia": 15,
+    "asiento": 11,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 2,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 16,
+    "dia": 16,
+    "asiento": 10,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 603,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 2,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 16,
+    "dia": 16,
+    "asiento": 11,
+    "destino": [
+     24,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 2,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 16,
+    "dia": 17,
+    "asiento": 10,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 3,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 16,
+    "dia": 17,
+    "asiento": 11,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 3,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 16,
+    "dia": 18,
+    "asiento": 10,
+    "destino": [
+     21,
+     24
+    ],
+    "tic": 591,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 1,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 16,
+    "dia": 18,
+    "asiento": 11,
+    "destino": [
+     21,
+     24
+    ],
+    "tic": 624,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 1,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 16,
+    "dia": 19,
+    "asiento": 10,
+    "destino": [
+     21,
+     24
+    ],
+    "tic": 602,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 2,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 16,
+    "dia": 19,
+    "asiento": 11,
+    "destino": [
+     21,
+     24
+    ],
+    "tic": 624,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 2,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 16,
+    "dia": 20,
+    "asiento": 10,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 2,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   },
+   {
+    "serie": 16,
+    "dia": 20,
+    "asiento": 11,
+    "destino": [
+     27,
+     23
+    ],
+    "tic": 613,
+    "acierto": 1,
+    "botiquines_vistos": 2,
+    "mas_cercano_al_destino": 2,
+    "zona_centro": [
+     24,
+     24
+    ],
+    "zona_radio": 24,
+    "destino_dentro_de_la_zona": true
+   }
+  ]
+ }
+}

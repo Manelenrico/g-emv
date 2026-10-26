@@ -1,0 +1,531 @@
+{
+ "apagado": {
+  "vidas": 80,
+  "fidelidad": {
+   "igual": 1007274,
+   "difiere": 2
+  },
+  "vidas_con_cambios": [
+   {
+    "vida": "P611_t2_A4_21622393/10",
+    "cambios": 2,
+    "primero": {
+     "t": 1832,
+     "diario": "move_SW",
+     "replica": "move_W"
+    },
+    "ultimo": {
+     "t": 2041,
+     "diario": "move_NW",
+     "replica": "paso_NE"
+    },
+    "avisos": [],
+    "ley": {
+     "avisos": 0,
+     "cambios": 0,
+     "casillas": 0
+    }
+   }
+  ],
+  "segundos": 175.2,
+  "hecho_33": {
+   "P7_33": false
+  }
+ },
+ "TECHO con oido y ley": {
+  "vidas": 80,
+  "fidelidad": {
+   "igual": 1007078,
+   "difiere": 198
+  },
+  "vidas_con_cambios": [
+   {
+    "vida": "P611_t1_A4_20784561/10",
+    "cambios": 2,
+    "primero": {
+     "t": 5089,
+     "diario": "ir_objeto",
+     "replica": "paso_SW"
+    },
+    "ultimo": {
+     "t": 5100,
+     "diario": "ir_objeto",
+     "replica": "paso_W"
+    },
+    "avisos": [
+     {
+      "type": "event_warning",
+      "kind": "flood",
+      "rect": [
+       10,
+       22,
+       14,
+       26
+      ],
+      "from_tick": 4400,
+      "duration": 720
+     }
+    ],
+    "ley": {
+     "avisos": 1,
+     "cambios": 2,
+     "casillas": 0
+    }
+   },
+   {
+    "vida": "P611_t1_A4_20784561/11",
+    "cambios": 1,
+    "primero": {
+     "t": 5094,
+     "diario": "move_NW",
+     "replica": "move_W"
+    },
+    "ultimo": {
+     "t": 5094,
+     "diario": "move_NW",
+     "replica": "move_W"
+    },
+    "avisos": [
+     {
+      "type": "event_warning",
+      "kind": "flood",
+      "rect": [
+       10,
+       22,
+       14,
+       26
+      ],
+      "from_tick": 4400,
+      "duration": 720
+     }
+    ],
+    "ley": {
+     "avisos": 1,
+     "cambios": 2,
+     "casillas": 0
+    }
+   },
+   {
+    "vida": "P611_t2_A4_21622393/10",
+    "cambios": 2,
+    "primero": {
+     "t": 1832,
+     "diario": "move_SW",
+     "replica": "move_W"
+    },
+    "ultimo": {
+     "t": 2041,
+     "diario": "move_NW",
+     "replica": "paso_NE"
+    },
+    "avisos": [],
+    "ley": {
+     "avisos": 0,
+     "cambios": 0,
+     "casillas": 0
+    }
+   },
+   {
+    "vida": "P611_t2_A4_21727122/10",
+    "cambios": 90,
+    "primero": {
+     "t": 4402,
+     "diario": "ir_objeto",
+     "replica": "paso_E"
+    },
+    "ultimo": {
+     "t": 5120,
+     "diario": "ir_objeto",
+     "replica": "ir_botin"
+    },
+    "avisos": [
+     {
+      "type": "event_warning",
+      "kind": "flood",
+      "rect": [
+       10,
+       22,
+       14,
+       26
+      ],
+      "from_tick": 4400,
+      "duration": 720
+     }
+    ],
+    "ley": {
+     "avisos": 1,
+     "cambios": 2,
+     "casillas": 0
+    }
+   },
+   {
+    "vida": "P611_t2_A4_21727122/11",
+    "cambios": 84,
+    "primero": {
+     "t": 5041,
+     "diario": "ir_objeto",
+     "replica": "move_S"
+    },
+    "ultimo": {
+     "t": 12399,
+     "diario": "ir_objeto",
+     "replica": "move_NE"
+    },
+    "avisos": [
+     {
+      "type": "event_warning",
+      "kind": "flood",
+      "rect": [
+       10,
+       22,
+       14,
+       26
+      ],
+      "from_tick": 4400,
+      "duration": 720
+     }
+    ],
+    "ley": {
+     "avisos": 1,
+     "cambios": 2,
+     "casillas": 0
+    }
+   },
+   {
+    "vida": "P624_t1_A4_25078450/11",
+    "cambios": 19,
+    "primero": {
+     "t": 4409,
+     "diario": "ir_pareja",
+     "replica": "ir_objeto"
+    },
+    "ultimo": {
+     "t": 5113,
+     "diario": "ir_pareja",
+     "replica": "ir_objeto"
+    },
+    "avisos": [
+     {
+      "type": "event_warning",
+      "kind": "flood",
+      "rect": [
+       10,
+       22,
+       14,
+       26
+      ],
+      "from_tick": 4400,
+      "duration": 720
+     }
+    ],
+    "ley": {
+     "avisos": 1,
+     "cambios": 2,
+     "casillas": 0
+    }
+   }
+  ],
+  "segundos": 183.5,
+  "hecho_33": {
+   "P7_33": true,
+   "solo": "oido y ley (TECHO o sin nace)",
+   "VENTANA_S": 10.0
+  }
+ },
+ "inundaciones": [
+  {
+   "vida": "P730_s1_d7_TECHO_39531052/10",
+   "tics": 14130,
+   "fidelidad": {
+    "igual": 14129,
+    "difiere": 1
+   },
+   "avisos": [
+    {
+     "type": "event_warning",
+     "kind": "flood",
+     "rect": [
+      10,
+      22,
+      14,
+      26
+     ],
+     "from_tick": 4400,
+     "duration": 720
+    }
+   ],
+   "cambios": 1,
+   "cambios_en_ventana_de_evento": 0,
+   "primero": {
+    "t": 12446,
+    "diario": "hacer_sitio_rations_por_first_aid",
+    "replica": "noop"
+   },
+   "ultimo": {
+    "t": 12446,
+    "diario": "hacer_sitio_rations_por_first_aid",
+    "replica": "noop"
+   },
+   "ley": {
+    "avisos": 1,
+    "cambios": 2,
+    "casillas": 0
+   }
+  },
+  {
+   "vida": "P730_s1_d7_TECHO_39531052/11",
+   "tics": 14184,
+   "fidelidad": {
+    "igual": 14184
+   },
+   "avisos": [
+    {
+     "type": "event_warning",
+     "kind": "flood",
+     "rect": [
+      10,
+      22,
+      14,
+      26
+     ],
+     "from_tick": 4400,
+     "duration": 720
+    }
+   ],
+   "cambios": 0,
+   "cambios_en_ventana_de_evento": 0,
+   "primero": null,
+   "ultimo": null,
+   "ley": {
+    "avisos": 1,
+    "cambios": 2,
+    "casillas": 0
+   }
+  },
+  {
+   "vida": "P730_s2_d14_TECHO_39531052/10",
+   "tics": 12528,
+   "fidelidad": {
+    "igual": 12527,
+    "difiere": 1
+   },
+   "avisos": [
+    {
+     "type": "event_warning",
+     "kind": "flood",
+     "rect": [
+      10,
+      22,
+      14,
+      26
+     ],
+     "from_tick": 4400,
+     "duration": 720
+    }
+   ],
+   "cambios": 1,
+   "cambios_en_ventana_de_evento": 0,
+   "primero": {
+    "t": 2196,
+    "diario": "hacer_sitio_rations_por_first_aid",
+    "replica": "noop"
+   },
+   "ultimo": {
+    "t": 2196,
+    "diario": "hacer_sitio_rations_por_first_aid",
+    "replica": "noop"
+   },
+   "ley": {
+    "avisos": 1,
+    "cambios": 2,
+    "casillas": 0
+   }
+  },
+  {
+   "vida": "P730_s2_d14_TECHO_39531052/11",
+   "tics": 10868,
+   "fidelidad": {
+    "igual": 10867,
+    "difiere": 1
+   },
+   "avisos": [
+    {
+     "type": "event_warning",
+     "kind": "flood",
+     "rect": [
+      10,
+      22,
+      14,
+      26
+     ],
+     "from_tick": 4400,
+     "duration": 720
+    }
+   ],
+   "cambios": 1,
+   "cambios_en_ventana_de_evento": 0,
+   "primero": {
+    "t": 1400,
+    "diario": "hacer_sitio_rations_por_first_aid",
+    "replica": "noop"
+   },
+   "ultimo": {
+    "t": 1400,
+    "diario": "hacer_sitio_rations_por_first_aid",
+    "replica": "noop"
+   },
+   "ley": {
+    "avisos": 1,
+    "cambios": 2,
+    "casillas": 0
+   }
+  },
+  {
+   "vida": "P724_s1_d5_TECHO_36912827/10",
+   "tics": 10068,
+   "fidelidad": {
+    "igual": 9366,
+    "difiere": 702
+   },
+   "avisos": [
+    {
+     "type": "event_warning",
+     "kind": "flood",
+     "rect": [
+      10,
+      22,
+      14,
+      26
+     ],
+     "from_tick": 4400,
+     "duration": 720
+    }
+   ],
+   "cambios": 702,
+   "cambios_en_ventana_de_evento": 702,
+   "primero": {
+    "t": 4419,
+    "diario": "ir_objeto",
+    "replica": "ir_botin"
+   },
+   "ultimo": {
+    "t": 5120,
+    "diario": "ir_objeto",
+    "replica": "ir_botin"
+   },
+   "ley": {
+    "avisos": 1,
+    "cambios": 2,
+    "casillas": 0
+   }
+  },
+  {
+   "vida": "P724_s1_d5_TECHO_36912827/11",
+   "tics": 12072,
+   "fidelidad": {
+    "igual": 11064,
+    "difiere": 1008
+   },
+   "avisos": [
+    {
+     "type": "event_warning",
+     "kind": "flood",
+     "rect": [
+      10,
+      22,
+      14,
+      26
+     ],
+     "from_tick": 4400,
+     "duration": 720
+    }
+   ],
+   "cambios": 1008,
+   "cambios_en_ventana_de_evento": 710,
+   "primero": {
+    "t": 4401,
+    "diario": "ir_objeto",
+    "replica": "ir_botin"
+   },
+   "ultimo": {
+    "t": 10511,
+    "diario": "paso_SW",
+    "replica": "ir_objeto"
+   },
+   "ley": {
+    "avisos": 1,
+    "cambios": 2,
+    "casillas": 0
+   }
+  },
+  {
+   "vida": "P724_s2_d16_TECHO_36912827/10",
+   "tics": 12024,
+   "fidelidad": {
+    "igual": 11881,
+    "difiere": 143
+   },
+   "avisos": [
+    {
+     "type": "event_warning",
+     "kind": "flood",
+     "rect": [
+      10,
+      22,
+      14,
+      26
+     ],
+     "from_tick": 4400,
+     "duration": 720
+    }
+   ],
+   "cambios": 143,
+   "cambios_en_ventana_de_evento": 143,
+   "primero": {
+    "t": 4410,
+    "diario": "ir_objeto",
+    "replica": "move_SE"
+   },
+   "ultimo": {
+    "t": 5071,
+    "diario": "ir_objeto",
+    "replica": "move_SE"
+   },
+   "ley": {
+    "avisos": 1,
+    "cambios": 2,
+    "casillas": 0
+   }
+  },
+  {
+   "vida": "P724_s2_d16_TECHO_36912827/11",
+   "tics": 14112,
+   "fidelidad": {
+    "igual": 14112
+   },
+   "avisos": [
+    {
+     "type": "event_warning",
+     "kind": "flood",
+     "rect": [
+      10,
+      22,
+      14,
+      26
+     ],
+     "from_tick": 4400,
+     "duration": 720
+    }
+   ],
+   "cambios": 0,
+   "cambios_en_ventana_de_evento": 0,
+   "primero": null,
+   "ultimo": null,
+   "ley": {
+    "avisos": 1,
+    "cambios": 2,
+    "casillas": 0
+   }
+  }
+ ]
+}

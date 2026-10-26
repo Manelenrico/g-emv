@@ -1,0 +1,4876 @@
+{
+ "criaturas": {
+  "s1 a10": {
+   "dias": {
+    "1": {
+     "botiquin": {
+      "ignorancia": 0.1733,
+      "ignorancia_campo": 0.1733,
+      "importancia_esperada": 0.3873,
+      "curiosidad_campo": 0.1733,
+      "curiosidad_nueva": 0.0671,
+      "creencia_campo": 11.4897,
+      "creencia_descontada": 11.4906,
+      "recuerdos": 4,
+      "pruebas_del_dia": 4
+     },
+     "racion": {
+      "ignorancia": 0.1857,
+      "ignorancia_campo": 0.1867,
+      "importancia_esperada": 0.2661,
+      "curiosidad_campo": 0.1867,
+      "curiosidad_nueva": 0.0494,
+      "creencia_campo": 6.0323,
+      "creencia_descontada": 6.0493,
+      "recuerdos": 4,
+      "pruebas_del_dia": 4
+     },
+     "red": {
+      "ignorancia": 0.4926,
+      "ignorancia_campo": 0.4926,
+      "importancia_esperada": 0.5078,
+      "curiosidad_campo": 0.4926,
+      "curiosidad_nueva": 0.2502,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 1,
+      "pruebas_del_dia": 1
+     },
+     "camuflaje": {
+      "ignorancia": 0.4972,
+      "ignorancia_campo": 0.4981,
+      "importancia_esperada": 0.5029,
+      "curiosidad_campo": 0.4981,
+      "curiosidad_nueva": 0.25,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 1,
+      "pruebas_del_dia": 1
+     }
+    },
+    "2": {
+     "botiquin": {
+      "ignorancia": 0.1808,
+      "ignorancia_campo": 0.1808,
+      "importancia_esperada": 0.3942,
+      "curiosidad_campo": 0.1808,
+      "curiosidad_nueva": 0.0713,
+      "creencia_campo": 11.3592,
+      "creencia_descontada": 11.3601,
+      "recuerdos": 4,
+      "pruebas_del_dia": 0
+     },
+     "racion": {
+      "ignorancia": 0.1199,
+      "ignorancia_campo": 0.1204,
+      "importancia_esperada": 0.1914,
+      "curiosidad_campo": 0.1204,
+      "curiosidad_nueva": 0.023,
+      "creencia_campo": 5.6111,
+      "creencia_descontada": 5.6233,
+      "recuerdos": 7,
+      "pruebas_del_dia": 3
+     },
+     "red": {
+      "ignorancia": 0.5054,
+      "ignorancia_campo": 0.5054,
+      "importancia_esperada": 0.5203,
+      "curiosidad_campo": 0.5054,
+      "curiosidad_nueva": 0.263,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 1,
+      "pruebas_del_dia": 0
+     },
+     "camuflaje": {
+      "ignorancia": 0.3071,
+      "ignorancia_campo": 0.307,
+      "importancia_esperada": 0.4279,
+      "curiosidad_campo": 0.307,
+      "curiosidad_nueva": 0.1314,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 2,
+      "pruebas_del_dia": 1
+     }
+    },
+    "3": {
+     "botiquin": {
+      "ignorancia": 0.128,
+      "ignorancia_campo": 0.128,
+      "importancia_esperada": 0.4014,
+      "curiosidad_campo": 0.128,
+      "curiosidad_nueva": 0.0514,
+      "creencia_campo": 11.225,
+      "creencia_descontada": 11.2259,
+      "recuerdos": 6,
+      "pruebas_del_dia": 2
+     },
+     "racion": {
+      "ignorancia": 0.1254,
+      "ignorancia_campo": 0.126,
+      "importancia_esperada": 0.1965,
+      "curiosidad_campo": 0.126,
+      "curiosidad_nueva": 0.0246,
+      "creencia_campo": 5.5757,
+      "creencia_descontada": 5.588,
+      "recuerdos": 7,
+      "pruebas_del_dia": 0
+     },
+     "red": {
+      "ignorancia": 0.5182,
+      "ignorancia_campo": 0.5182,
+      "importancia_esperada": 0.5327,
+      "curiosidad_campo": 0.5182,
+      "curiosidad_nueva": 0.2761,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 1,
+      "pruebas_del_dia": 0
+     },
+     "camuflaje": {
+      "ignorancia": 0.3182,
+      "ignorancia_campo": 0.3181,
+      "importancia_esperada": 0.437,
+      "curiosidad_campo": 0.3181,
+      "curiosidad_nueva": 0.139,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 2,
+      "pruebas_del_dia": 0
+     }
+    },
+    "4": {
+     "botiquin": {
+      "ignorancia": 0.0928,
+      "ignorancia_campo": 0.0928,
+      "importancia_esperada": 0.3107,
+      "curiosidad_campo": 0.0928,
+      "curiosidad_nueva": 0.0288,
+      "creencia_campo": 13.1768,
+      "creencia_descontada": 13.1776,
+      "recuerdos": 9,
+      "pruebas_del_dia": 3
+     },
+     "racion": {
+      "ignorancia": 0.1138,
+      "ignorancia_campo": 0.1142,
+      "importancia_esperada": 0.197,
+      "curiosidad_campo": 0.1142,
+      "curiosidad_nueva": 0.0224,
+      "creencia_campo": 5.8667,
+      "creencia_descontada": 5.8762,
+      "recuerdos": 8,
+      "pruebas_del_dia": 1
+     },
+     "red": {
+      "ignorancia": 0.531,
+      "ignorancia_campo": 0.531,
+      "importancia_esperada": 0.5451,
+      "curiosidad_campo": 0.531,
+      "curiosidad_nueva": 0.2895,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 1,
+      "pruebas_del_dia": 0
+     },
+     "camuflaje": {
+      "ignorancia": 0.3294,
+      "ignorancia_campo": 0.3293,
+      "importancia_esperada": 0.4462,
+      "curiosidad_campo": 0.3293,
+      "curiosidad_nueva": 0.147,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 2,
+      "pruebas_del_dia": 0
+     }
+    },
+    "5": {
+     "botiquin": {
+      "ignorancia": 0.0873,
+      "ignorancia_campo": 0.0873,
+      "importancia_esperada": 0.2927,
+      "curiosidad_campo": 0.0873,
+      "curiosidad_nueva": 0.0255,
+      "creencia_campo": 12.7339,
+      "creencia_descontada": 12.7345,
+      "recuerdos": 10,
+      "pruebas_del_dia": 1
+     },
+     "racion": {
+      "ignorancia": 0.119,
+      "ignorancia_campo": 0.1195,
+      "importancia_esperada": 0.2018,
+      "curiosidad_campo": 0.1195,
+      "curiosidad_nueva": 0.024,
+      "creencia_campo": 5.8316,
+      "creencia_descontada": 5.8412,
+      "recuerdos": 8,
+      "pruebas_del_dia": 0
+     },
+     "red": {
+      "ignorancia": 0.352,
+      "ignorancia_campo": 0.3516,
+      "importancia_esperada": 0.3616,
+      "curiosidad_campo": 0.3516,
+      "curiosidad_nueva": 0.1273,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 2,
+      "pruebas_del_dia": 1
+     },
+     "camuflaje": {
+      "ignorancia": 0.3408,
+      "ignorancia_campo": 0.3407,
+      "importancia_esperada": 0.4557,
+      "curiosidad_campo": 0.3407,
+      "curiosidad_nueva": 0.1553,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 2,
+      "pruebas_del_dia": 0
+     }
+    },
+    "6": {
+     "botiquin": {
+      "ignorancia": 0.0915,
+      "ignorancia_campo": 0.0914,
+      "importancia_esperada": 0.2978,
+      "curiosidad_campo": 0.0914,
+      "curiosidad_nueva": 0.0272,
+      "creencia_campo": 12.642,
+      "creencia_descontada": 12.6425,
+      "recuerdos": 10,
+      "pruebas_del_dia": 0
+     },
+     "racion": {
+      "ignorancia": 0.0985,
+      "ignorancia_campo": 0.0988,
+      "importancia_esperada": 0.1763,
+      "curiosidad_campo": 0.0988,
+      "curiosidad_nueva": 0.0174,
+      "creencia_campo": 5.7372,
+      "creencia_descontada": 5.7451,
+      "recuerdos": 10,
+      "pruebas_del_dia": 2
+     },
+     "red": {
+      "ignorancia": 0.2665,
+      "ignorancia_campo": 0.2661,
+      "importancia_esperada": 0.2742,
+      "curiosidad_campo": 0.2661,
+      "curiosidad_nueva": 0.0731,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 3,
+      "pruebas_del_dia": 1
+     },
+     "camuflaje": {
+      "ignorancia": 0.2432,
+      "ignorancia_campo": 0.2429,
+      "importancia_esperada": 0.4063,
+      "curiosidad_campo": 0.2429,
+      "curiosidad_nueva": 0.0988,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 3,
+      "pruebas_del_dia": 1
+     }
+    },
+    "7": {
+     "botiquin": {
+      "ignorancia": 0.053,
+      "ignorancia_campo": 0.053,
+      "importancia_esperada": 0.3031,
+      "curiosidad_campo": 0.053,
+      "curiosidad_nueva": 0.0161,
+      "creencia_campo": 12.5466,
+      "creencia_descontada": 12.5472,
+      "recuerdos": 17,
+      "pruebas_del_dia": 7
+     },
+     "racion": {
+      "ignorancia": 0.1031,
+      "ignorancia_campo": 0.1034,
+      "importancia_esperada": 0.1806,
+      "curiosidad_campo": 0.1034,
+      "curiosidad_nueva": 0.0186,
+      "creencia_campo": 5.7076,
+      "creencia_descontada": 5.7155,
+      "recuerdos": 10,
+      "pruebas_del_dia": 0
+     },
+     "red": {
+      "ignorancia": 0.2767,
+      "ignorancia_campo": 0.2763,
+      "importancia_esperada": 0.2842,
+      "curiosidad_campo": 0.2763,
+      "curiosidad_nueva": 0.0786,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 3,
+      "pruebas_del_dia": 0
+     },
+     "camuflaje": {
+      "ignorancia": 0.2527,
+      "ignorancia_campo": 0.2525,
+      "importancia_esperada": 0.4138,
+      "curiosidad_campo": 0.2525,
+      "curiosidad_nueva": 0.1046,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 3,
+      "pruebas_del_dia": 0
+     }
+    },
+    "8": {
+     "botiquin": {
+      "ignorancia": 0.0556,
+      "ignorancia_campo": 0.0557,
+      "importancia_esperada": 0.3086,
+      "curiosidad_campo": 0.0557,
+      "curiosidad_nueva": 0.0172,
+      "creencia_campo": 12.4478,
+      "creencia_descontada": 12.4483,
+      "recuerdos": 17,
+      "pruebas_del_dia": 0
+     },
+     "racion": {
+      "ignorancia": 0.108,
+      "ignorancia_campo": 0.1083,
+      "importancia_esperada": 0.185,
+      "curiosidad_campo": 0.1083,
+      "curiosidad_nueva": 0.02,
+      "creencia_campo": 5.6767,
+      "creencia_descontada": 5.6846,
+      "recuerdos": 10,
+      "pruebas_del_dia": 0
+     },
+     "red": {
+      "ignorancia": 0.2871,
+      "ignorancia_campo": 0.2866,
+      "importancia_esperada": 0.2945,
+      "curiosidad_campo": 0.2866,
+      "curiosidad_nueva": 0.0845,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 3,
+      "pruebas_del_dia": 0
+     },
+     "camuflaje": {
+      "ignorancia": 0.2625,
+      "ignorancia_campo": 0.2623,
+      "importancia_esperada": 0.4215,
+      "curiosidad_campo": 0.2623,
+      "curiosidad_nueva": 0.1107,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 3,
+      "pruebas_del_dia": 0
+     }
+    },
+    "9": {
+     "botiquin": {
+      "ignorancia": 0.0584,
+      "ignorancia_campo": 0.0584,
+      "importancia_esperada": 0.3143,
+      "curiosidad_campo": 0.0584,
+      "curiosidad_nueva": 0.0184,
+      "creencia_campo": 12.3454,
+      "creencia_descontada": 12.3459,
+      "recuerdos": 17,
+      "pruebas_del_dia": 0
+     },
+     "racion": {
+      "ignorancia": 0.0801,
+      "ignorancia_campo": 0.0803,
+      "importancia_esperada": 0.1993,
+      "curiosidad_campo": 0.0803,
+      "curiosidad_nueva": 0.016,
+      "creencia_campo": 3.2259,
+      "creencia_descontada": 3.2383,
+      "recuerdos": 13,
+      "pruebas_del_dia": 3
+     },
+     "red": {
+      "ignorancia": 0.2152,
+      "ignorancia_campo": 0.215,
+      "importancia_esperada": 0.3,
+      "curiosidad_campo": 0.215,
+      "curiosidad_nueva": 0.0646,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 4,
+      "pruebas_del_dia": 1
+     },
+     "camuflaje": {
+      "ignorancia": 0.1974,
+      "ignorancia_campo": 0.1973,
+      "importancia_esperada": 0.4205,
+      "curiosidad_campo": 0.1973,
+      "curiosidad_nueva": 0.083,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 4,
+      "pruebas_del_dia": 1
+     }
+    },
+    "10": {
+     "botiquin": {
+      "ignorancia": 0.0481,
+      "ignorancia_campo": 0.0481,
+      "importancia_esperada": 0.24,
+      "curiosidad_campo": 0.0481,
+      "curiosidad_nueva": 0.0115,
+      "creencia_campo": 11.0034,
+      "creencia_descontada": 11.0036,
+      "recuerdos": 21,
+      "pruebas_del_dia": 4
+     },
+     "racion": {
+      "ignorancia": 0.0536,
+      "ignorancia_campo": 0.0537,
+      "importancia_esperada": 0.175,
+      "curiosidad_campo": 0.0537,
+      "curiosidad_nueva": 0.0094,
+      "creencia_campo": 5.7142,
+      "creencia_descontada": 5.7197,
+      "recuerdos": 19,
+      "pruebas_del_dia": 6
+     },
+     "red": {
+      "ignorancia": 0.224,
+      "ignorancia_campo": 0.2238,
+      "importancia_esperada": 0.3078,
+      "curiosidad_campo": 0.2238,
+      "curiosidad_nueva": 0.069,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 4,
+      "pruebas_del_dia": 0
+     },
+     "camuflaje": {
+      "ignorancia": 0.2057,
+      "ignorancia_campo": 0.2055,
+      "importancia_esperada": 0.4265,
+      "curiosidad_campo": 0.2055,
+      "curiosidad_nueva": 0.0877,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 4,
+      "pruebas_del_dia": 0
+     }
+    },
+    "11": {
+     "botiquin": {
+      "ignorancia": 0.0404,
+      "ignorancia_campo": 0.0404,
+      "importancia_esperada": 0.2496,
+      "curiosidad_campo": 0.0404,
+      "curiosidad_nueva": 0.0101,
+      "creencia_campo": 27.9978,
+      "creencia_descontada": 27.9978,
+      "recuerdos": 25,
+      "pruebas_del_dia": 4
+     },
+     "racion": {
+      "ignorancia": 0.0563,
+      "ignorancia_campo": 0.0564,
+      "importancia_esperada": 0.1774,
+      "curiosidad_campo": 0.0564,
+      "curiosidad_nueva": 0.01,
+      "creencia_campo": 5.697,
+      "creencia_descontada": 5.7026,
+      "recuerdos": 19,
+      "pruebas_del_dia": 0
+     },
+     "red": {
+      "ignorancia": 0.2331,
+      "ignorancia_campo": 0.2328,
+      "importancia_esperada": 0.3159,
+      "curiosidad_campo": 0.2328,
+      "curiosidad_nueva": 0.0736,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 4,
+      "pruebas_del_dia": 0
+     },
+     "camuflaje": {
+      "ignorancia": 0.2142,
+      "ignorancia_campo": 0.214,
+      "importancia_esperada": 0.4326,
+      "curiosidad_campo": 0.214,
+      "curiosidad_nueva": 0.0926,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 4,
+      "pruebas_del_dia": 0
+     }
+    },
+    "12": {
+     "botiquin": {
+      "ignorancia": 0.0304,
+      "ignorancia_campo": 0.0304,
+      "importancia_esperada": 0.2954,
+      "curiosidad_campo": 0.0304,
+      "curiosidad_nueva": 0.009,
+      "creencia_campo": 37.0385,
+      "creencia_descontada": 37.0284,
+      "recuerdos": 32,
+      "pruebas_del_dia": 7
+     },
+     "racion": {
+      "ignorancia": 0.0468,
+      "ignorancia_campo": 0.0468,
+      "importancia_esperada": 0.1673,
+      "curiosidad_campo": 0.0468,
+      "curiosidad_nueva": 0.0078,
+      "creencia_campo": 8.4605,
+      "creencia_descontada": 8.4636,
+      "recuerdos": 23,
+      "pruebas_del_dia": 4
+     },
+     "red": {
+      "ignorancia": 0.2424,
+      "ignorancia_campo": 0.2421,
+      "importancia_esperada": 0.3242,
+      "curiosidad_campo": 0.2421,
+      "curiosidad_nueva": 0.0786,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 4,
+      "pruebas_del_dia": 0
+     },
+     "camuflaje": {
+      "ignorancia": 0.2229,
+      "ignorancia_campo": 0.2228,
+      "importancia_esperada": 0.4389,
+      "curiosidad_campo": 0.2228,
+      "curiosidad_nueva": 0.0978,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 4,
+      "pruebas_del_dia": 0
+     }
+    },
+    "13": {
+     "botiquin": {
+      "ignorancia": 0.0293,
+      "ignorancia_campo": 0.0293,
+      "importancia_esperada": 0.2983,
+      "curiosidad_campo": 0.0293,
+      "curiosidad_nueva": 0.0087,
+      "creencia_campo": 36.5399,
+      "creencia_descontada": 36.5296,
+      "recuerdos": 34,
+      "pruebas_del_dia": 2
+     },
+     "racion": {
+      "ignorancia": 0.0491,
+      "ignorancia_campo": 0.0491,
+      "importancia_esperada": 0.1693,
+      "curiosidad_campo": 0.0491,
+      "curiosidad_nueva": 0.0083,
+      "creencia_campo": 8.4287,
+      "creencia_descontada": 8.4318,
+      "recuerdos": 23,
+      "pruebas_del_dia": 0
+     },
+     "red": {
+      "ignorancia": 0.1979,
+      "ignorancia_campo": 0.1976,
+      "importancia_esperada": 0.2793,
+      "curiosidad_campo": 0.1976,
+      "curiosidad_nueva": 0.0553,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 5,
+      "pruebas_del_dia": 1
+     },
+     "camuflaje": {
+      "ignorancia": 0.1854,
+      "ignorancia_campo": 0.1853,
+      "importancia_esperada": 0.3726,
+      "curiosidad_campo": 0.1853,
+      "curiosidad_nueva": 0.0691,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 5,
+      "pruebas_del_dia": 1
+     }
+    },
+    "14": {
+     "botiquin": {
+      "ignorancia": 0.0308,
+      "ignorancia_campo": 0.0308,
+      "importancia_esperada": 0.3009,
+      "curiosidad_campo": 0.0308,
+      "curiosidad_nueva": 0.0093,
+      "creencia_campo": 36.0295,
+      "creencia_descontada": 36.0189,
+      "recuerdos": 34,
+      "pruebas_del_dia": 0
+     },
+     "racion": {
+      "ignorancia": 0.0516,
+      "ignorancia_campo": 0.0516,
+      "importancia_esperada": 0.1715,
+      "curiosidad_campo": 0.0516,
+      "curiosidad_nueva": 0.0088,
+      "creencia_campo": 8.3955,
+      "creencia_descontada": 8.3987,
+      "recuerdos": 23,
+      "pruebas_del_dia": 0
+     },
+     "red": {
+      "ignorancia": 0.163,
+      "ignorancia_campo": 0.1628,
+      "importancia_esperada": 0.2863,
+      "curiosidad_campo": 0.1628,
+      "curiosidad_nueva": 0.0467,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 6,
+      "pruebas_del_dia": 1
+     },
+     "camuflaje": {
+      "ignorancia": 0.1598,
+      "ignorancia_campo": 0.1597,
+      "importancia_esperada": 0.3274,
+      "curiosidad_campo": 0.1597,
+      "curiosidad_nueva": 0.0523,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 6,
+      "pruebas_del_dia": 1
+     }
+    },
+    "15": {
+     "botiquin": {
+      "ignorancia": 0.0274,
+      "ignorancia_campo": 0.0274,
+      "importancia_esperada": 0.2798,
+      "curiosidad_campo": 0.0274,
+      "curiosidad_nueva": 0.0077,
+      "creencia_campo": 35.5073,
+      "creencia_descontada": 35.4965,
+      "recuerdos": 39,
+      "pruebas_del_dia": 5
+     },
+     "racion": {
+      "ignorancia": 0.0541,
+      "ignorancia_campo": 0.0542,
+      "importancia_esperada": 0.1737,
+      "curiosidad_campo": 0.0542,
+      "curiosidad_nueva": 0.0094,
+      "creencia_campo": 8.3609,
+      "creencia_descontada": 8.3641,
+      "recuerdos": 23,
+      "pruebas_del_dia": 0
+     },
+     "red": {
+      "ignorancia": 0.1454,
+      "ignorancia_campo": 0.1452,
+      "importancia_esperada": 0.2499,
+      "curiosidad_campo": 0.1452,
+      "curiosidad_nueva": 0.0363,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 7,
+      "pruebas_del_dia": 1
+     },
+     "camuflaje": {
+      "ignorancia": 0.1668,
+      "ignorancia_campo": 0.1668,
+      "importancia_esperada": 0.333,
+      "curiosidad_campo": 0.1668,
+      "curiosidad_nueva": 0.0556,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 6,
+      "pruebas_del_dia": 0
+     }
+    },
+    "16": {
+     "botiquin": {
+      "ignorancia": 0.0265,
+      "ignorancia_campo": 0.0265,
+      "importancia_esperada": 0.3217,
+      "curiosidad_campo": 0.0265,
+      "curiosidad_nueva": 0.0085,
+      "creencia_campo": 40.0389,
+      "creencia_descontada": 40.0302,
+      "recuerdos": 41,
+      "pruebas_del_dia": 2
+     },
+     "racion": {
+      "ignorancia": 0.0429,
+      "ignorancia_campo": 0.043,
+      "importancia_esperada": 0.1695,
+      "curiosidad_campo": 0.043,
+      "curiosidad_nueva": 0.0073,
+      "creencia_campo": 11.0154,
+      "creencia_descontada": 11.0401,
+      "recuerdos": 28,
+      "pruebas_del_dia": 5
+     },
+     "red": {
+      "ignorancia": 0.1155,
+      "ignorancia_campo": 0.1154,
+      "importancia_esperada": 0.2037,
+      "curiosidad_campo": 0.1154,
+      "curiosidad_nueva": 0.0235,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 9,
+      "pruebas_del_dia": 2
+     },
+     "camuflaje": {
+      "ignorancia": 0.1462,
+      "ignorancia_campo": 0.1462,
+      "importancia_esperada": 0.2997,
+      "curiosidad_campo": 0.1462,
+      "curiosidad_nueva": 0.0438,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 7,
+      "pruebas_del_dia": 1
+     }
+    },
+    "17": {
+     "botiquin": {
+      "ignorancia": 0.0279,
+      "ignorancia_campo": 0.0279,
+      "importancia_esperada": 0.3237,
+      "curiosidad_campo": 0.0279,
+      "curiosidad_nueva": 0.009,
+      "creencia_campo": 39.6234,
+      "creencia_descontada": 39.6145,
+      "recuerdos": 41,
+      "pruebas_del_dia": 0
+     },
+     "racion": {
+      "ignorancia": 0.0428,
+      "ignorancia_campo": 0.0429,
+      "importancia_esperada": 0.1712,
+      "curiosidad_campo": 0.0429,
+      "curiosidad_nueva": 0.0073,
+      "creencia_campo": 10.9732,
+      "creencia_descontada": 10.998,
+      "recuerdos": 29,
+      "pruebas_del_dia": 1
+     },
+     "red": {
+      "ignorancia": 0.1208,
+      "ignorancia_campo": 0.1207,
+      "importancia_esperada": 0.2085,
+      "curiosidad_campo": 0.1207,
+      "curiosidad_nueva": 0.0252,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 9,
+      "pruebas_del_dia": 0
+     },
+     "camuflaje": {
+      "ignorancia": 0.1273,
+      "ignorancia_campo": 0.1273,
+      "importancia_esperada": 0.3061,
+      "curiosidad_campo": 0.1273,
+      "curiosidad_nueva": 0.039,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 8,
+      "pruebas_del_dia": 1
+     }
+    },
+    "18": {
+     "botiquin": {
+      "ignorancia": 0.0293,
+      "ignorancia_campo": 0.0293,
+      "importancia_esperada": 0.3258,
+      "curiosidad_campo": 0.0293,
+      "curiosidad_nueva": 0.0095,
+      "creencia_campo": 39.1953,
+      "creencia_descontada": 39.1861,
+      "recuerdos": 41,
+      "pruebas_del_dia": 0
+     },
+     "racion": {
+      "ignorancia": 0.0429,
+      "ignorancia_campo": 0.043,
+      "importancia_esperada": 0.168,
+      "curiosidad_campo": 0.043,
+      "curiosidad_nueva": 0.0072,
+      "creencia_campo": 10.9291,
+      "creencia_descontada": 10.954,
+      "recuerdos": 30,
+      "pruebas_del_dia": 1
+     },
+     "red": {
+      "ignorancia": 0.1264,
+      "ignorancia_campo": 0.1262,
+      "importancia_esperada": 0.2135,
+      "curiosidad_campo": 0.1262,
+      "curiosidad_nueva": 0.027,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 9,
+      "pruebas_del_dia": 0
+     },
+     "camuflaje": {
+      "ignorancia": 0.1331,
+      "ignorancia_campo": 0.1331,
+      "importancia_esperada": 0.3107,
+      "curiosidad_campo": 0.1331,
+      "curiosidad_nueva": 0.0413,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 8,
+      "pruebas_del_dia": 0
+     }
+    },
+    "19": {
+     "botiquin": {
+      "ignorancia": 0.0237,
+      "ignorancia_campo": 0.0237,
+      "importancia_esperada": 0.3281,
+      "curiosidad_campo": 0.0237,
+      "curiosidad_nueva": 0.0078,
+      "creencia_campo": 38.7545,
+      "creencia_descontada": 38.7451,
+      "recuerdos": 50,
+      "pruebas_del_dia": 9
+     },
+     "racion": {
+      "ignorancia": 0.0431,
+      "ignorancia_campo": 0.0432,
+      "importancia_esperada": 0.1632,
+      "curiosidad_campo": 0.0432,
+      "curiosidad_nueva": 0.007,
+      "creencia_campo": 10.883,
+      "creencia_descontada": 10.9081,
+      "recuerdos": 31,
+      "pruebas_del_dia": 1
+     },
+     "red": {
+      "ignorancia": 0.1321,
+      "ignorancia_campo": 0.132,
+      "importancia_esperada": 0.2187,
+      "curiosidad_campo": 0.132,
+      "curiosidad_nueva": 0.0289,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 9,
+      "pruebas_del_dia": 0
+     },
+     "camuflaje": {
+      "ignorancia": 0.1391,
+      "ignorancia_campo": 0.1391,
+      "importancia_esperada": 0.3155,
+      "curiosidad_campo": 0.1391,
+      "curiosidad_nueva": 0.0439,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 8,
+      "pruebas_del_dia": 0
+     }
+    },
+    "20": {
+     "botiquin": {
+      "ignorancia": 0.0206,
+      "ignorancia_campo": 0.0206,
+      "importancia_esperada": 0.394,
+      "curiosidad_campo": 0.0206,
+      "curiosidad_nueva": 0.0081,
+      "creencia_campo": 38.3011,
+      "creencia_descontada": 38.2914,
+      "recuerdos": 55,
+      "pruebas_del_dia": 5
+     },
+     "racion": {
+      "ignorancia": 0.0358,
+      "ignorancia_campo": 0.036,
+      "importancia_esperada": 0.1678,
+      "curiosidad_campo": 0.036,
+      "curiosidad_nueva": 0.006,
+      "creencia_campo": 11.2059,
+      "creencia_descontada": 11.2274,
+      "recuerdos": 36,
+      "pruebas_del_dia": 5
+     },
+     "red": {
+      "ignorancia": 0.1381,
+      "ignorancia_campo": 0.138,
+      "importancia_esperada": 0.2241,
+      "curiosidad_campo": 0.138,
+      "curiosidad_nueva": 0.031,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 9,
+      "pruebas_del_dia": 0
+     },
+     "camuflaje": {
+      "ignorancia": 0.1077,
+      "ignorancia_campo": 0.1077,
+      "importancia_esperada": 0.2904,
+      "curiosidad_campo": 0.1077,
+      "curiosidad_nueva": 0.0313,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 10,
+      "pruebas_del_dia": 2
+     }
+    }
+   },
+   "manda": {
+    "campo": [
+     [
+      1,
+      "camuflaje"
+     ],
+     [
+      2,
+      "red"
+     ],
+     [
+      3,
+      "red"
+     ],
+     [
+      4,
+      "red"
+     ],
+     [
+      5,
+      "red"
+     ],
+     [
+      6,
+      "red"
+     ],
+     [
+      7,
+      "red"
+     ],
+     [
+      8,
+      "red"
+     ],
+     [
+      9,
+      "red"
+     ],
+     [
+      10,
+      "red"
+     ],
+     [
+      11,
+      "red"
+     ],
+     [
+      12,
+      "red"
+     ],
+     [
+      13,
+      "red"
+     ],
+     [
+      14,
+      "red"
+     ],
+     [
+      15,
+      "camuflaje"
+     ],
+     [
+      16,
+      "camuflaje"
+     ],
+     [
+      17,
+      "camuflaje"
+     ],
+     [
+      18,
+      "camuflaje"
+     ],
+     [
+      19,
+      "camuflaje"
+     ],
+     [
+      20,
+      "red"
+     ]
+    ],
+    "nueva": [
+     [
+      1,
+      "red"
+     ],
+     [
+      2,
+      "red"
+     ],
+     [
+      3,
+      "red"
+     ],
+     [
+      4,
+      "red"
+     ],
+     [
+      5,
+      "camuflaje"
+     ],
+     [
+      6,
+      "camuflaje"
+     ],
+     [
+      7,
+      "camuflaje"
+     ],
+     [
+      8,
+      "camuflaje"
+     ],
+     [
+      9,
+      "camuflaje"
+     ],
+     [
+      10,
+      "camuflaje"
+     ],
+     [
+      11,
+      "camuflaje"
+     ],
+     [
+      12,
+      "camuflaje"
+     ],
+     [
+      13,
+      "camuflaje"
+     ],
+     [
+      14,
+      "camuflaje"
+     ],
+     [
+      15,
+      "camuflaje"
+     ],
+     [
+      16,
+      "camuflaje"
+     ],
+     [
+      17,
+      "camuflaje"
+     ],
+     [
+      18,
+      "camuflaje"
+     ],
+     [
+      19,
+      "camuflaje"
+     ],
+     [
+      20,
+      "camuflaje"
+     ]
+    ]
+   },
+   "despierta": {
+    "red": [
+     {
+      "prueba_dia": 1,
+      "vuelve_a_mandar_dia": 2,
+      "curiosidad_entonces": 0.263,
+      "curiosidad_util_entonces": 0.0713,
+      "curiosidad_el_dia_de_la_prueba": 0.2502
+     },
+     {
+      "prueba_dia": 5,
+      "vuelve_a_mandar_dia": 6,
+      "curiosidad_entonces": 0.0731,
+      "curiosidad_util_entonces": 0.0272,
+      "curiosidad_el_dia_de_la_prueba": 0.1273
+     },
+     {
+      "prueba_dia": 6,
+      "vuelve_a_mandar_dia": 7,
+      "curiosidad_entonces": 0.0786,
+      "curiosidad_util_entonces": 0.0186,
+      "curiosidad_el_dia_de_la_prueba": 0.0731
+     },
+     {
+      "prueba_dia": 9,
+      "vuelve_a_mandar_dia": 10,
+      "curiosidad_entonces": 0.069,
+      "curiosidad_util_entonces": 0.0115,
+      "curiosidad_el_dia_de_la_prueba": 0.0646
+     },
+     {
+      "prueba_dia": 13,
+      "vuelve_a_mandar_dia": 14,
+      "curiosidad_entonces": 0.0467,
+      "curiosidad_util_entonces": 0.0093,
+      "curiosidad_el_dia_de_la_prueba": 0.0553
+     },
+     {
+      "prueba_dia": 14,
+      "vuelve_a_mandar_dia": 15,
+      "curiosidad_entonces": 0.0363,
+      "curiosidad_util_entonces": 0.0094,
+      "curiosidad_el_dia_de_la_prueba": 0.0467
+     },
+     {
+      "prueba_dia": 15,
+      "vuelve_a_mandar_dia": 16,
+      "curiosidad_entonces": 0.0235,
+      "curiosidad_util_entonces": 0.0085,
+      "curiosidad_el_dia_de_la_prueba": 0.0363
+     },
+     {
+      "prueba_dia": 16,
+      "vuelve_a_mandar_dia": 17,
+      "curiosidad_entonces": 0.0252,
+      "curiosidad_util_entonces": 0.009,
+      "curiosidad_el_dia_de_la_prueba": 0.0235
+     }
+    ],
+    "camuflaje": [
+     {
+      "prueba_dia": 1,
+      "vuelve_a_mandar_dia": 2,
+      "curiosidad_entonces": 0.1314,
+      "curiosidad_util_entonces": 0.0713,
+      "curiosidad_el_dia_de_la_prueba": 0.25
+     },
+     {
+      "prueba_dia": 2,
+      "vuelve_a_mandar_dia": 3,
+      "curiosidad_entonces": 0.139,
+      "curiosidad_util_entonces": 0.0514,
+      "curiosidad_el_dia_de_la_prueba": 0.1314
+     },
+     {
+      "prueba_dia": 6,
+      "vuelve_a_mandar_dia": 7,
+      "curiosidad_entonces": 0.1046,
+      "curiosidad_util_entonces": 0.0186,
+      "curiosidad_el_dia_de_la_prueba": 0.0988
+     },
+     {
+      "prueba_dia": 9,
+      "vuelve_a_mandar_dia": 10,
+      "curiosidad_entonces": 0.0877,
+      "curiosidad_util_entonces": 0.0115,
+      "curiosidad_el_dia_de_la_prueba": 0.083
+     },
+     {
+      "prueba_dia": 13,
+      "vuelve_a_mandar_dia": 14,
+      "curiosidad_entonces": 0.0523,
+      "curiosidad_util_entonces": 0.0093,
+      "curiosidad_el_dia_de_la_prueba": 0.0691
+     },
+     {
+      "prueba_dia": 14,
+      "vuelve_a_mandar_dia": 15,
+      "curiosidad_entonces": 0.0556,
+      "curiosidad_util_entonces": 0.0094,
+      "curiosidad_el_dia_de_la_prueba": 0.0523
+     },
+     {
+      "prueba_dia": 16,
+      "vuelve_a_mandar_dia": 17,
+      "curiosidad_entonces": 0.039,
+      "curiosidad_util_entonces": 0.009,
+      "curiosidad_el_dia_de_la_prueba": 0.0438
+     },
+     {
+      "prueba_dia": 17,
+      "vuelve_a_mandar_dia": 18,
+      "curiosidad_entonces": 0.0413,
+      "curiosidad_util_entonces": 0.0095,
+      "curiosidad_el_dia_de_la_prueba": 0.039
+     },
+     {
+      "prueba_dia": 20,
+      "vuelve_a_mandar_dia": null,
+      "curiosidad_entonces": null,
+      "curiosidad_util_entonces": null,
+      "curiosidad_el_dia_de_la_prueba": 0.0313
+     }
+    ]
+   }
+  },
+  "s1 a11": {
+   "dias": {
+    "1": {
+     "botiquin": {
+      "ignorancia": 0.3003,
+      "ignorancia_campo": 0.3003,
+      "importancia_esperada": 0.5392,
+      "curiosidad_campo": 0.3003,
+      "curiosidad_nueva": 0.1619,
+      "creencia_campo": 11.6825,
+      "creencia_descontada": 11.6825,
+      "recuerdos": 2,
+      "pruebas_del_dia": 2
+     },
+     "racion": {
+      "ignorancia": 0.1097,
+      "ignorancia_campo": 0.1116,
+      "importancia_esperada": 0.2637,
+      "curiosidad_campo": 0.1116,
+      "curiosidad_nueva": 0.0289,
+      "creencia_campo": 3.0236,
+      "creencia_descontada": 3.0373,
+      "recuerdos": 7,
+      "pruebas_del_dia": 7
+     },
+     "red": {
+      "ignorancia": 1.0,
+      "ignorancia_campo": 1.0,
+      "importancia_esperada": 1.0,
+      "curiosidad_campo": 1.0,
+      "curiosidad_nueva": 1.0,
+      "creencia_campo": null,
+      "creencia_descontada": null,
+      "recuerdos": 0,
+      "pruebas_del_dia": 0
+     },
+     "camuflaje": {
+      "ignorancia": 1.0,
+      "ignorancia_campo": 1.0,
+      "importancia_esperada": 1.0,
+      "curiosidad_campo": 1.0,
+      "curiosidad_nueva": 1.0,
+      "creencia_campo": null,
+      "creencia_descontada": null,
+      "recuerdos": 0,
+      "pruebas_del_dia": 0
+     }
+    },
+    "2": {
+     "botiquin": {
+      "ignorancia": 0.1851,
+      "ignorancia_campo": 0.185,
+      "importancia_esperada": 0.3167,
+      "curiosidad_campo": 0.185,
+      "curiosidad_nueva": 0.0586,
+      "creencia_campo": 11.2225,
+      "creencia_descontada": 11.2223,
+      "recuerdos": 4,
+      "pruebas_del_dia": 2
+     },
+     "racion": {
+      "ignorancia": 0.0839,
+      "ignorancia_campo": 0.0849,
+      "importancia_esperada": 0.215,
+      "curiosidad_campo": 0.0849,
+      "curiosidad_nueva": 0.018,
+      "creencia_campo": 7.8575,
+      "creencia_descontada": 7.8575,
+      "recuerdos": 10,
+      "pruebas_del_dia": 3
+     },
+     "red": {
+      "ignorancia": 0.3837,
+      "ignorancia_campo": 0.3842,
+      "importancia_esperada": 0.7572,
+      "curiosidad_campo": 0.3842,
+      "curiosidad_nueva": 0.2906,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 1,
+      "pruebas_del_dia": 1
+     },
+     "camuflaje": {
+      "ignorancia": 1.0,
+      "ignorancia_campo": 1.0,
+      "importancia_esperada": 1.0,
+      "curiosidad_campo": 1.0,
+      "curiosidad_nueva": 1.0,
+      "creencia_campo": null,
+      "creencia_descontada": null,
+      "recuerdos": 0,
+      "pruebas_del_dia": 0
+     }
+    },
+    "3": {
+     "botiquin": {
+      "ignorancia": 0.1929,
+      "ignorancia_campo": 0.1929,
+      "importancia_esperada": 0.325,
+      "curiosidad_campo": 0.1929,
+      "curiosidad_nueva": 0.0627,
+      "creencia_campo": 11.0858,
+      "creencia_descontada": 11.0855,
+      "recuerdos": 4,
+      "pruebas_del_dia": 0
+     },
+     "racion": {
+      "ignorancia": 0.0684,
+      "ignorancia_campo": 0.0696,
+      "importancia_esperada": 0.1875,
+      "curiosidad_campo": 0.0696,
+      "curiosidad_nueva": 0.0128,
+      "creencia_campo": 9.1654,
+      "creencia_descontada": 9.1654,
+      "recuerdos": 13,
+      "pruebas_del_dia": 3
+     },
+     "red": {
+      "ignorancia": 0.2832,
+      "ignorancia_campo": 0.2835,
+      "importancia_esperada": 0.5465,
+      "curiosidad_campo": 0.2835,
+      "curiosidad_nueva": 0.1548,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 2,
+      "pruebas_del_dia": 1
+     },
+     "camuflaje": {
+      "ignorancia": 0.4757,
+      "ignorancia_campo": 0.4757,
+      "importancia_esperada": 0.5293,
+      "curiosidad_campo": 0.4757,
+      "curiosidad_nueva": 0.2518,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 1,
+      "pruebas_del_dia": 1
+     }
+    },
+    "4": {
+     "botiquin": {
+      "ignorancia": 0.2011,
+      "ignorancia_campo": 0.201,
+      "importancia_esperada": 0.3335,
+      "curiosidad_campo": 0.201,
+      "curiosidad_nueva": 0.0671,
+      "creencia_campo": 10.9454,
+      "creencia_descontada": 10.945,
+      "recuerdos": 4,
+      "pruebas_del_dia": 0
+     },
+     "racion": {
+      "ignorancia": 0.0718,
+      "ignorancia_campo": 0.073,
+      "importancia_esperada": 0.1904,
+      "curiosidad_campo": 0.073,
+      "curiosidad_nueva": 0.0137,
+      "creencia_campo": 9.0137,
+      "creencia_descontada": 9.0137,
+      "recuerdos": 13,
+      "pruebas_del_dia": 0
+     },
+     "red": {
+      "ignorancia": 0.2097,
+      "ignorancia_campo": 0.2098,
+      "importancia_esperada": 0.4994,
+      "curiosidad_campo": 0.2098,
+      "curiosidad_nueva": 0.1047,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 3,
+      "pruebas_del_dia": 1
+     },
+     "camuflaje": {
+      "ignorancia": 0.4885,
+      "ignorancia_campo": 0.4885,
+      "importancia_esperada": 0.5408,
+      "curiosidad_campo": 0.4885,
+      "curiosidad_nueva": 0.2642,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 1,
+      "pruebas_del_dia": 0
+     }
+    },
+    "5": {
+     "botiquin": {
+      "ignorancia": 0.1644,
+      "ignorancia_campo": 0.1644,
+      "importancia_esperada": 0.3332,
+      "curiosidad_campo": 0.1644,
+      "curiosidad_nueva": 0.0548,
+      "creencia_campo": 15.7149,
+      "creencia_descontada": 15.7144,
+      "recuerdos": 5,
+      "pruebas_del_dia": 1
+     },
+     "racion": {
+      "ignorancia": 0.0753,
+      "ignorancia_campo": 0.0765,
+      "importancia_esperada": 0.1935,
+      "curiosidad_campo": 0.0765,
+      "curiosidad_nueva": 0.0146,
+      "creencia_campo": 8.8593,
+      "creencia_descontada": 8.8593,
+      "recuerdos": 13,
+      "pruebas_del_dia": 0
+     },
+     "red": {
+      "ignorancia": 0.2183,
+      "ignorancia_campo": 0.2184,
+      "importancia_esperada": 0.5049,
+      "curiosidad_campo": 0.2184,
+      "curiosidad_nueva": 0.1102,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 3,
+      "pruebas_del_dia": 0
+     },
+     "camuflaje": {
+      "ignorancia": 0.5013,
+      "ignorancia_campo": 0.5013,
+      "importancia_esperada": 0.5523,
+      "curiosidad_campo": 0.5013,
+      "curiosidad_nueva": 0.2769,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 1,
+      "pruebas_del_dia": 0
+     }
+    },
+    "6": {
+     "botiquin": {
+      "ignorancia": 0.1716,
+      "ignorancia_campo": 0.1715,
+      "importancia_esperada": 0.34,
+      "curiosidad_campo": 0.1715,
+      "curiosidad_nueva": 0.0583,
+      "creencia_campo": 15.5546,
+      "creencia_descontada": 15.5541,
+      "recuerdos": 5,
+      "pruebas_del_dia": 0
+     },
+     "racion": {
+      "ignorancia": 0.0726,
+      "ignorancia_campo": 0.0739,
+      "importancia_esperada": 0.1896,
+      "curiosidad_campo": 0.0739,
+      "curiosidad_nueva": 0.0138,
+      "creencia_campo": 10.433,
+      "creencia_descontada": 10.4776,
+      "recuerdos": 14,
+      "pruebas_del_dia": 1
+     },
+     "red": {
+      "ignorancia": 0.2272,
+      "ignorancia_campo": 0.2273,
+      "importancia_esperada": 0.5105,
+      "curiosidad_campo": 0.2273,
+      "curiosidad_nueva": 0.116,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 3,
+      "pruebas_del_dia": 0
+     },
+     "camuflaje": {
+      "ignorancia": 0.5141,
+      "ignorancia_campo": 0.5142,
+      "importancia_esperada": 0.5638,
+      "curiosidad_campo": 0.5142,
+      "curiosidad_nueva": 0.2899,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 1,
+      "pruebas_del_dia": 0
+     }
+    },
+    "7": {
+     "botiquin": {
+      "ignorancia": 0.1021,
+      "ignorancia_campo": 0.1021,
+      "importancia_esperada": 0.5418,
+      "curiosidad_campo": 0.1021,
+      "curiosidad_nueva": 0.0553,
+      "creencia_campo": 33.3333,
+      "creencia_descontada": 33.3333,
+      "recuerdos": 8,
+      "pruebas_del_dia": 3
+     },
+     "racion": {
+      "ignorancia": 0.0702,
+      "ignorancia_campo": 0.0713,
+      "importancia_esperada": 0.1864,
+      "curiosidad_campo": 0.0713,
+      "curiosidad_nueva": 0.0131,
+      "creencia_campo": 11.3712,
+      "creencia_descontada": 11.3981,
+      "recuerdos": 15,
+      "pruebas_del_dia": 1
+     },
+     "red": {
+      "ignorancia": 0.2363,
+      "ignorancia_campo": 0.2364,
+      "importancia_esperada": 0.5163,
+      "curiosidad_campo": 0.2364,
+      "curiosidad_nueva": 0.122,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 3,
+      "pruebas_del_dia": 0
+     },
+     "camuflaje": {
+      "ignorancia": 0.5269,
+      "ignorancia_campo": 0.527,
+      "importancia_esperada": 0.5753,
+      "curiosidad_campo": 0.527,
+      "curiosidad_nueva": 0.3032,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 1,
+      "pruebas_del_dia": 0
+     }
+    },
+    "8": {
+     "botiquin": {
+      "ignorancia": 0.0815,
+      "ignorancia_campo": 0.0815,
+      "importancia_esperada": 0.5453,
+      "curiosidad_campo": 0.0815,
+      "curiosidad_nueva": 0.0444,
+      "creencia_campo": 32.7586,
+      "creencia_descontada": 32.7586,
+      "recuerdos": 10,
+      "pruebas_del_dia": 2
+     },
+     "racion": {
+      "ignorancia": 0.0736,
+      "ignorancia_campo": 0.0748,
+      "importancia_esperada": 0.1894,
+      "curiosidad_campo": 0.0748,
+      "curiosidad_nueva": 0.0139,
+      "creencia_campo": 11.2494,
+      "creencia_descontada": 11.277,
+      "recuerdos": 15,
+      "pruebas_del_dia": 0
+     },
+     "red": {
+      "ignorancia": 0.2457,
+      "ignorancia_campo": 0.2458,
+      "importancia_esperada": 0.5222,
+      "curiosidad_campo": 0.2458,
+      "curiosidad_nueva": 0.1283,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 3,
+      "pruebas_del_dia": 0
+     },
+     "camuflaje": {
+      "ignorancia": 0.3374,
+      "ignorancia_campo": 0.3374,
+      "importancia_esperada": 0.4084,
+      "curiosidad_campo": 0.3374,
+      "curiosidad_nueva": 0.1378,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 2,
+      "pruebas_del_dia": 1
+     }
+    },
+    "9": {
+     "botiquin": {
+      "ignorancia": 0.0697,
+      "ignorancia_campo": 0.0697,
+      "importancia_esperada": 0.549,
+      "curiosidad_campo": 0.0697,
+      "curiosidad_nueva": 0.0382,
+      "creencia_campo": 32.1747,
+      "creencia_descontada": 32.1747,
+      "recuerdos": 12,
+      "pruebas_del_dia": 2
+     },
+     "racion": {
+      "ignorancia": 0.0711,
+      "ignorancia_campo": 0.0725,
+      "importancia_esperada": 0.1855,
+      "curiosidad_campo": 0.0725,
+      "curiosidad_nueva": 0.0132,
+      "creencia_campo": 11.124,
+      "creencia_descontada": 11.1522,
+      "recuerdos": 16,
+      "pruebas_del_dia": 1
+     },
+     "red": {
+      "ignorancia": 0.2553,
+      "ignorancia_campo": 0.2554,
+      "importancia_esperada": 0.5283,
+      "curiosidad_campo": 0.2554,
+      "curiosidad_nueva": 0.1349,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 3,
+      "pruebas_del_dia": 0
+     },
+     "camuflaje": {
+      "ignorancia": 0.349,
+      "ignorancia_campo": 0.349,
+      "importancia_esperada": 0.4187,
+      "curiosidad_campo": 0.349,
+      "curiosidad_nueva": 0.1461,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 2,
+      "pruebas_del_dia": 0
+     }
+    },
+    "10": {
+     "botiquin": {
+      "ignorancia": 0.0672,
+      "ignorancia_campo": 0.0672,
+      "importancia_esperada": 0.4932,
+      "curiosidad_campo": 0.0672,
+      "curiosidad_nueva": 0.0331,
+      "creencia_campo": 31.5821,
+      "creencia_descontada": 31.5821,
+      "recuerdos": 13,
+      "pruebas_del_dia": 1
+     },
+     "racion": {
+      "ignorancia": 0.0515,
+      "ignorancia_campo": 0.0523,
+      "importancia_esperada": 0.1963,
+      "curiosidad_campo": 0.0523,
+      "curiosidad_nueva": 0.0101,
+      "creencia_campo": 13.0981,
+      "creencia_descontada": 13.105,
+      "recuerdos": 21,
+      "pruebas_del_dia": 5
+     },
+     "red": {
+      "ignorancia": 0.2652,
+      "ignorancia_campo": 0.2653,
+      "importancia_esperada": 0.5346,
+      "curiosidad_campo": 0.2653,
+      "curiosidad_nueva": 0.1418,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 3,
+      "pruebas_del_dia": 0
+     },
+     "camuflaje": {
+      "ignorancia": 0.2644,
+      "ignorancia_campo": 0.2644,
+      "importancia_esperada": 0.3174,
+      "curiosidad_campo": 0.2644,
+      "curiosidad_nueva": 0.0839,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 3,
+      "pruebas_del_dia": 1
+     }
+    },
+    "11": {
+     "botiquin": {
+      "ignorancia": 0.0705,
+      "ignorancia_campo": 0.0704,
+      "importancia_esperada": 0.4969,
+      "curiosidad_campo": 0.0704,
+      "curiosidad_nueva": 0.035,
+      "creencia_campo": 30.9815,
+      "creencia_descontada": 30.9815,
+      "recuerdos": 13,
+      "pruebas_del_dia": 0
+     },
+     "racion": {
+      "ignorancia": 0.0508,
+      "ignorancia_campo": 0.0515,
+      "importancia_esperada": 0.198,
+      "curiosidad_campo": 0.0515,
+      "curiosidad_nueva": 0.0101,
+      "creencia_campo": 13.0172,
+      "creencia_descontada": 13.0244,
+      "recuerdos": 22,
+      "pruebas_del_dia": 2
+     },
+     "red": {
+      "ignorancia": 0.2158,
+      "ignorancia_campo": 0.2157,
+      "importancia_esperada": 0.4244,
+      "curiosidad_campo": 0.2157,
+      "curiosidad_nueva": 0.0916,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 4,
+      "pruebas_del_dia": 1
+     },
+     "camuflaje": {
+      "ignorancia": 0.2153,
+      "ignorancia_campo": 0.2153,
+      "importancia_esperada": 0.2565,
+      "curiosidad_campo": 0.2153,
+      "curiosidad_nueva": 0.0552,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 4,
+      "pruebas_del_dia": 1
+     }
+    },
+    "12": {
+     "botiquin": {
+      "ignorancia": 0.0593,
+      "ignorancia_campo": 0.0593,
+      "importancia_esperada": 0.5556,
+      "curiosidad_campo": 0.0593,
+      "curiosidad_nueva": 0.033,
+      "creencia_campo": 37.9162,
+      "creencia_descontada": 37.917,
+      "recuerdos": 15,
+      "pruebas_del_dia": 2
+     },
+     "racion": {
+      "ignorancia": 0.0469,
+      "ignorancia_campo": 0.0474,
+      "importancia_esperada": 0.2127,
+      "curiosidad_campo": 0.0474,
+      "curiosidad_nueva": 0.01,
+      "creencia_campo": 13.4508,
+      "creencia_descontada": 13.4549,
+      "recuerdos": 24,
+      "pruebas_del_dia": 2
+     },
+     "red": {
+      "ignorancia": 0.2246,
+      "ignorancia_campo": 0.2245,
+      "importancia_esperada": 0.4309,
+      "curiosidad_campo": 0.2245,
+      "curiosidad_nueva": 0.0968,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 4,
+      "pruebas_del_dia": 0
+     },
+     "camuflaje": {
+      "ignorancia": 0.2241,
+      "ignorancia_campo": 0.2241,
+      "importancia_esperada": 0.2648,
+      "curiosidad_campo": 0.2241,
+      "curiosidad_nueva": 0.0593,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 4,
+      "pruebas_del_dia": 0
+     }
+    },
+    "13": {
+     "botiquin": {
+      "ignorancia": 0.0543,
+      "ignorancia_campo": 0.0543,
+      "importancia_esperada": 0.4836,
+      "curiosidad_campo": 0.0543,
+      "curiosidad_nueva": 0.0263,
+      "creencia_campo": 37.4399,
+      "creencia_descontada": 37.4408,
+      "recuerdos": 17,
+      "pruebas_del_dia": 2
+     },
+     "racion": {
+      "ignorancia": 0.0468,
+      "ignorancia_campo": 0.0473,
+      "importancia_esperada": 0.2069,
+      "curiosidad_campo": 0.0473,
+      "curiosidad_nueva": 0.0097,
+      "creencia_campo": 13.3826,
+      "creencia_descontada": 13.3869,
+      "recuerdos": 25,
+      "pruebas_del_dia": 1
+     },
+     "red": {
+      "ignorancia": 0.1866,
+      "ignorancia_campo": 0.1865,
+      "importancia_esperada": 0.3656,
+      "curiosidad_campo": 0.1865,
+      "curiosidad_nueva": 0.0682,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 5,
+      "pruebas_del_dia": 1
+     },
+     "camuflaje": {
+      "ignorancia": 0.2331,
+      "ignorancia_campo": 0.2331,
+      "importancia_esperada": 0.2734,
+      "curiosidad_campo": 0.2331,
+      "curiosidad_nueva": 0.0637,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 4,
+      "pruebas_del_dia": 0
+     }
+    },
+    "14": {
+     "botiquin": {
+      "ignorancia": 0.0523,
+      "ignorancia_campo": 0.0523,
+      "importancia_esperada": 0.4959,
+      "curiosidad_campo": 0.0523,
+      "curiosidad_nueva": 0.0259,
+      "creencia_campo": 36.9514,
+      "creencia_descontada": 36.9523,
+      "recuerdos": 18,
+      "pruebas_del_dia": 1
+     },
+     "racion": {
+      "ignorancia": 0.0491,
+      "ignorancia_campo": 0.0497,
+      "importancia_esperada": 0.2088,
+      "curiosidad_campo": 0.0497,
+      "curiosidad_nueva": 0.0103,
+      "creencia_campo": 13.3115,
+      "creencia_descontada": 13.316,
+      "recuerdos": 25,
+      "pruebas_del_dia": 0
+     },
+     "red": {
+      "ignorancia": 0.1945,
+      "ignorancia_campo": 0.1944,
+      "importancia_esperada": 0.3717,
+      "curiosidad_campo": 0.1944,
+      "curiosidad_nueva": 0.0723,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 5,
+      "pruebas_del_dia": 0
+     },
+     "camuflaje": {
+      "ignorancia": 0.2424,
+      "ignorancia_campo": 0.2424,
+      "importancia_esperada": 0.2822,
+      "curiosidad_campo": 0.2424,
+      "curiosidad_nueva": 0.0684,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 4,
+      "pruebas_del_dia": 0
+     }
+    },
+    "15": {
+     "botiquin": {
+      "ignorancia": 0.0455,
+      "ignorancia_campo": 0.0455,
+      "importancia_esperada": 0.498,
+      "curiosidad_campo": 0.0455,
+      "curiosidad_nueva": 0.0226,
+      "creencia_campo": 36.4507,
+      "creencia_descontada": 36.4517,
+      "recuerdos": 21,
+      "pruebas_del_dia": 3
+     },
+     "racion": {
+      "ignorancia": 0.0445,
+      "ignorancia_campo": 0.0449,
+      "importancia_esperada": 0.1868,
+      "curiosidad_campo": 0.0449,
+      "curiosidad_nueva": 0.0083,
+      "creencia_campo": 13.2376,
+      "creencia_descontada": 13.2422,
+      "recuerdos": 28,
+      "pruebas_del_dia": 3
+     },
+     "red": {
+      "ignorancia": 0.2026,
+      "ignorancia_campo": 0.2026,
+      "importancia_esperada": 0.3781,
+      "curiosidad_campo": 0.2026,
+      "curiosidad_nueva": 0.0766,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 5,
+      "pruebas_del_dia": 0
+     },
+     "camuflaje": {
+      "ignorancia": 0.2013,
+      "ignorancia_campo": 0.2013,
+      "importancia_esperada": 0.2326,
+      "curiosidad_campo": 0.2013,
+      "curiosidad_nueva": 0.0468,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 5,
+      "pruebas_del_dia": 1
+     }
+    },
+    "16": {
+     "botiquin": {
+      "ignorancia": 0.0477,
+      "ignorancia_campo": 0.0477,
+      "importancia_esperada": 0.5001,
+      "curiosidad_campo": 0.0477,
+      "curiosidad_nueva": 0.0239,
+      "creencia_campo": 35.9382,
+      "creencia_descontada": 35.9391,
+      "recuerdos": 21,
+      "pruebas_del_dia": 0
+     },
+     "racion": {
+      "ignorancia": 0.0445,
+      "ignorancia_campo": 0.0449,
+      "importancia_esperada": 0.1832,
+      "curiosidad_campo": 0.0449,
+      "curiosidad_nueva": 0.0081,
+      "creencia_campo": 13.2537,
+      "creencia_descontada": 13.2578,
+      "recuerdos": 29,
+      "pruebas_del_dia": 1
+     },
+     "red": {
+      "ignorancia": 0.211,
+      "ignorancia_campo": 0.211,
+      "importancia_esperada": 0.3847,
+      "curiosidad_campo": 0.211,
+      "curiosidad_nueva": 0.0812,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 5,
+      "pruebas_del_dia": 0
+     },
+     "camuflaje": {
+      "ignorancia": 0.2096,
+      "ignorancia_campo": 0.2096,
+      "importancia_esperada": 0.2407,
+      "curiosidad_campo": 0.2096,
+      "curiosidad_nueva": 0.0505,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 5,
+      "pruebas_del_dia": 0
+     }
+    },
+    "17": {
+     "botiquin": {
+      "ignorancia": 0.0387,
+      "ignorancia_campo": 0.0387,
+      "importancia_esperada": 0.4328,
+      "curiosidad_campo": 0.0387,
+      "curiosidad_nueva": 0.0167,
+      "creencia_campo": 35.414,
+      "creencia_descontada": 35.415,
+      "recuerdos": 26,
+      "pruebas_del_dia": 5
+     },
+     "racion": {
+      "ignorancia": 0.0444,
+      "ignorancia_campo": 0.0448,
+      "importancia_esperada": 0.181,
+      "curiosidad_campo": 0.0448,
+      "curiosidad_nueva": 0.008,
+      "creencia_campo": 13.182,
+      "creencia_descontada": 13.1862,
+      "recuerdos": 30,
+      "pruebas_del_dia": 1
+     },
+     "red": {
+      "ignorancia": 0.1679,
+      "ignorancia_campo": 0.168,
+      "importancia_esperada": 0.3947,
+      "curiosidad_campo": 0.168,
+      "curiosidad_nueva": 0.0663,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 6,
+      "pruebas_del_dia": 1
+     },
+     "camuflaje": {
+      "ignorancia": 0.2183,
+      "ignorancia_campo": 0.2183,
+      "importancia_esperada": 0.249,
+      "curiosidad_campo": 0.2183,
+      "curiosidad_nueva": 0.0543,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 5,
+      "pruebas_del_dia": 0
+     }
+    },
+    "18": {
+     "botiquin": {
+      "ignorancia": 0.0383,
+      "ignorancia_campo": 0.0383,
+      "importancia_esperada": 0.4391,
+      "curiosidad_campo": 0.0383,
+      "curiosidad_nueva": 0.0168,
+      "creencia_campo": 34.8785,
+      "creencia_descontada": 34.8795,
+      "recuerdos": 27,
+      "pruebas_del_dia": 1
+     },
+     "racion": {
+      "ignorancia": 0.0466,
+      "ignorancia_campo": 0.047,
+      "importancia_esperada": 0.183,
+      "curiosidad_campo": 0.047,
+      "curiosidad_nueva": 0.0085,
+      "creencia_campo": 13.1073,
+      "creencia_descontada": 13.1117,
+      "recuerdos": 30,
+      "pruebas_del_dia": 0
+     },
+     "red": {
+      "ignorancia": 0.1752,
+      "ignorancia_campo": 0.1753,
+      "importancia_esperada": 0.4,
+      "curiosidad_campo": 0.1753,
+      "curiosidad_nueva": 0.0701,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 6,
+      "pruebas_del_dia": 0
+     },
+     "camuflaje": {
+      "ignorancia": 0.2271,
+      "ignorancia_campo": 0.2271,
+      "importancia_esperada": 0.2575,
+      "curiosidad_campo": 0.2271,
+      "curiosidad_nueva": 0.0585,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 5,
+      "pruebas_del_dia": 0
+     }
+    },
+    "19": {
+     "botiquin": {
+      "ignorancia": 0.0336,
+      "ignorancia_campo": 0.0336,
+      "importancia_esperada": 0.4266,
+      "curiosidad_campo": 0.0336,
+      "curiosidad_nueva": 0.0143,
+      "creencia_campo": 34.332,
+      "creencia_descontada": 34.333,
+      "recuerdos": 31,
+      "pruebas_del_dia": 4
+     },
+     "racion": {
+      "ignorancia": 0.049,
+      "ignorancia_campo": 0.0494,
+      "importancia_esperada": 0.185,
+      "curiosidad_campo": 0.0494,
+      "curiosidad_nueva": 0.0091,
+      "creencia_campo": 13.0296,
+      "creencia_descontada": 13.0341,
+      "recuerdos": 30,
+      "pruebas_del_dia": 0
+     },
+     "red": {
+      "ignorancia": 0.149,
+      "ignorancia_campo": 0.1491,
+      "importancia_esperada": 0.3743,
+      "curiosidad_campo": 0.1491,
+      "curiosidad_nueva": 0.0558,
+      "creencia_campo": 3.3186,
+      "creencia_descontada": 3.3172,
+      "recuerdos": 7,
+      "pruebas_del_dia": 1
+     },
+     "camuflaje": {
+      "ignorancia": 0.19,
+      "ignorancia_campo": 0.19,
+      "importancia_esperada": 0.2203,
+      "curiosidad_campo": 0.19,
+      "curiosidad_nueva": 0.0418,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 6,
+      "pruebas_del_dia": 1
+     }
+    },
+    "20": {
+     "botiquin": {
+      "ignorancia": 0.0328,
+      "ignorancia_campo": 0.0328,
+      "importancia_esperada": 0.4285,
+      "curiosidad_campo": 0.0328,
+      "curiosidad_nueva": 0.0141,
+      "creencia_campo": 33.775,
+      "creencia_descontada": 33.776,
+      "recuerdos": 33,
+      "pruebas_del_dia": 2
+     },
+     "racion": {
+      "ignorancia": 0.0514,
+      "ignorancia_campo": 0.0519,
+      "importancia_esperada": 0.1871,
+      "curiosidad_campo": 0.0519,
+      "curiosidad_nueva": 0.0096,
+      "creencia_campo": 12.9488,
+      "creencia_descontada": 12.9535,
+      "recuerdos": 30,
+      "pruebas_del_dia": 0
+     },
+     "red": {
+      "ignorancia": 0.1557,
+      "ignorancia_campo": 0.1557,
+      "importancia_esperada": 0.3792,
+      "curiosidad_campo": 0.1557,
+      "curiosidad_nueva": 0.059,
+      "creencia_campo": 3.2928,
+      "creencia_descontada": 3.2914,
+      "recuerdos": 7,
+      "pruebas_del_dia": 0
+     },
+     "camuflaje": {
+      "ignorancia": 0.198,
+      "ignorancia_campo": 0.198,
+      "importancia_esperada": 0.228,
+      "curiosidad_campo": 0.198,
+      "curiosidad_nueva": 0.0451,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 6,
+      "pruebas_del_dia": 0
+     }
+    }
+   },
+   "manda": {
+    "campo": [
+     [
+      1,
+      "red"
+     ],
+     [
+      2,
+      "camuflaje"
+     ],
+     [
+      3,
+      "camuflaje"
+     ],
+     [
+      4,
+      "camuflaje"
+     ],
+     [
+      5,
+      "camuflaje"
+     ],
+     [
+      6,
+      "camuflaje"
+     ],
+     [
+      7,
+      "camuflaje"
+     ],
+     [
+      8,
+      "camuflaje"
+     ],
+     [
+      9,
+      "camuflaje"
+     ],
+     [
+      10,
+      "red"
+     ],
+     [
+      11,
+      "red"
+     ],
+     [
+      12,
+      "red"
+     ],
+     [
+      13,
+      "camuflaje"
+     ],
+     [
+      14,
+      "camuflaje"
+     ],
+     [
+      15,
+      "red"
+     ],
+     [
+      16,
+      "red"
+     ],
+     [
+      17,
+      "camuflaje"
+     ],
+     [
+      18,
+      "camuflaje"
+     ],
+     [
+      19,
+      "camuflaje"
+     ],
+     [
+      20,
+      "camuflaje"
+     ]
+    ],
+    "nueva": [
+     [
+      1,
+      "red"
+     ],
+     [
+      2,
+      "camuflaje"
+     ],
+     [
+      3,
+      "camuflaje"
+     ],
+     [
+      4,
+      "camuflaje"
+     ],
+     [
+      5,
+      "camuflaje"
+     ],
+     [
+      6,
+      "camuflaje"
+     ],
+     [
+      7,
+      "camuflaje"
+     ],
+     [
+      8,
+      "camuflaje"
+     ],
+     [
+      9,
+      "camuflaje"
+     ],
+     [
+      10,
+      "red"
+     ],
+     [
+      11,
+      "red"
+     ],
+     [
+      12,
+      "red"
+     ],
+     [
+      13,
+      "red"
+     ],
+     [
+      14,
+      "red"
+     ],
+     [
+      15,
+      "red"
+     ],
+     [
+      16,
+      "red"
+     ],
+     [
+      17,
+      "red"
+     ],
+     [
+      18,
+      "red"
+     ],
+     [
+      19,
+      "red"
+     ],
+     [
+      20,
+      "red"
+     ]
+    ]
+   },
+   "despierta": {
+    "red": [
+     {
+      "prueba_dia": 2,
+      "vuelve_a_mandar_dia": 3,
+      "curiosidad_entonces": 0.1548,
+      "curiosidad_util_entonces": 0.0627,
+      "curiosidad_el_dia_de_la_prueba": 0.2906
+     },
+     {
+      "prueba_dia": 3,
+      "vuelve_a_mandar_dia": 4,
+      "curiosidad_entonces": 0.1047,
+      "curiosidad_util_entonces": 0.0671,
+      "curiosidad_el_dia_de_la_prueba": 0.1548
+     },
+     {
+      "prueba_dia": 4,
+      "vuelve_a_mandar_dia": 5,
+      "curiosidad_entonces": 0.1102,
+      "curiosidad_util_entonces": 0.0548,
+      "curiosidad_el_dia_de_la_prueba": 0.1047
+     },
+     {
+      "prueba_dia": 11,
+      "vuelve_a_mandar_dia": 12,
+      "curiosidad_entonces": 0.0968,
+      "curiosidad_util_entonces": 0.033,
+      "curiosidad_el_dia_de_la_prueba": 0.0916
+     },
+     {
+      "prueba_dia": 13,
+      "vuelve_a_mandar_dia": 14,
+      "curiosidad_entonces": 0.0723,
+      "curiosidad_util_entonces": 0.0259,
+      "curiosidad_el_dia_de_la_prueba": 0.0682
+     },
+     {
+      "prueba_dia": 17,
+      "vuelve_a_mandar_dia": 18,
+      "curiosidad_entonces": 0.0701,
+      "curiosidad_util_entonces": 0.0168,
+      "curiosidad_el_dia_de_la_prueba": 0.0663
+     },
+     {
+      "prueba_dia": 19,
+      "vuelve_a_mandar_dia": 20,
+      "curiosidad_entonces": 0.059,
+      "curiosidad_util_entonces": 0.0141,
+      "curiosidad_el_dia_de_la_prueba": 0.0558
+     }
+    ],
+    "camuflaje": [
+     {
+      "prueba_dia": 3,
+      "vuelve_a_mandar_dia": 4,
+      "curiosidad_entonces": 0.2642,
+      "curiosidad_util_entonces": 0.0671,
+      "curiosidad_el_dia_de_la_prueba": 0.2518
+     },
+     {
+      "prueba_dia": 8,
+      "vuelve_a_mandar_dia": 9,
+      "curiosidad_entonces": 0.1461,
+      "curiosidad_util_entonces": 0.0382,
+      "curiosidad_el_dia_de_la_prueba": 0.1378
+     },
+     {
+      "prueba_dia": 10,
+      "vuelve_a_mandar_dia": 11,
+      "curiosidad_entonces": 0.0552,
+      "curiosidad_util_entonces": 0.035,
+      "curiosidad_el_dia_de_la_prueba": 0.0839
+     },
+     {
+      "prueba_dia": 11,
+      "vuelve_a_mandar_dia": 12,
+      "curiosidad_entonces": 0.0593,
+      "curiosidad_util_entonces": 0.033,
+      "curiosidad_el_dia_de_la_prueba": 0.0552
+     },
+     {
+      "prueba_dia": 15,
+      "vuelve_a_mandar_dia": 16,
+      "curiosidad_entonces": 0.0505,
+      "curiosidad_util_entonces": 0.0239,
+      "curiosidad_el_dia_de_la_prueba": 0.0468
+     },
+     {
+      "prueba_dia": 19,
+      "vuelve_a_mandar_dia": 20,
+      "curiosidad_entonces": 0.0451,
+      "curiosidad_util_entonces": 0.0141,
+      "curiosidad_el_dia_de_la_prueba": 0.0418
+     }
+    ]
+   }
+  },
+  "s2 a10": {
+   "dias": {
+    "1": {
+     "botiquin": {
+      "ignorancia": 0.472,
+      "ignorancia_campo": 0.472,
+      "importancia_esperada": 0.5346,
+      "curiosidad_campo": 0.472,
+      "curiosidad_nueva": 0.2524,
+      "creencia_campo": 5.8079,
+      "creencia_descontada": 5.8076,
+      "recuerdos": 1,
+      "pruebas_del_dia": 1
+     },
+     "racion": {
+      "ignorancia": 0.0797,
+      "ignorancia_campo": 0.082,
+      "importancia_esperada": 0.2275,
+      "curiosidad_campo": 0.082,
+      "curiosidad_nueva": 0.0181,
+      "creencia_campo": 13.4408,
+      "creencia_descontada": 13.4825,
+      "recuerdos": 10,
+      "pruebas_del_dia": 10
+     },
+     "red": {
+      "ignorancia": 1.0,
+      "ignorancia_campo": 1.0,
+      "importancia_esperada": 1.0,
+      "curiosidad_campo": 1.0,
+      "curiosidad_nueva": 1.0,
+      "creencia_campo": null,
+      "creencia_descontada": null,
+      "recuerdos": 0,
+      "pruebas_del_dia": 0
+     },
+     "camuflaje": {
+      "ignorancia": 1.0,
+      "ignorancia_campo": 1.0,
+      "importancia_esperada": 1.0,
+      "curiosidad_campo": 1.0,
+      "curiosidad_nueva": 1.0,
+      "creencia_campo": null,
+      "creencia_descontada": null,
+      "recuerdos": 0,
+      "pruebas_del_dia": 0
+     }
+    },
+    "2": {
+     "botiquin": {
+      "ignorancia": 0.1648,
+      "ignorancia_campo": 0.1647,
+      "importancia_esperada": 0.4992,
+      "curiosidad_campo": 0.1647,
+      "curiosidad_nueva": 0.0823,
+      "creencia_campo": 31.3091,
+      "creencia_descontada": 31.2965,
+      "recuerdos": 4,
+      "pruebas_del_dia": 3
+     },
+     "racion": {
+      "ignorancia": 0.0765,
+      "ignorancia_campo": 0.0785,
+      "importancia_esperada": 0.2202,
+      "curiosidad_campo": 0.0785,
+      "curiosidad_nueva": 0.0168,
+      "creencia_campo": 13.5393,
+      "creencia_descontada": 13.5739,
+      "recuerdos": 11,
+      "pruebas_del_dia": 1
+     },
+     "red": {
+      "ignorancia": 1.0,
+      "ignorancia_campo": 1.0,
+      "importancia_esperada": 1.0,
+      "curiosidad_campo": 1.0,
+      "curiosidad_nueva": 1.0,
+      "creencia_campo": null,
+      "creencia_descontada": null,
+      "recuerdos": 0,
+      "pruebas_del_dia": 0
+     },
+     "camuflaje": {
+      "ignorancia": 1.0,
+      "ignorancia_campo": 1.0,
+      "importancia_esperada": 1.0,
+      "curiosidad_campo": 1.0,
+      "curiosidad_nueva": 1.0,
+      "creencia_campo": null,
+      "creencia_descontada": null,
+      "recuerdos": 0,
+      "pruebas_del_dia": 0
+     }
+    },
+    "3": {
+     "botiquin": {
+      "ignorancia": 0.0964,
+      "ignorancia_campo": 0.0964,
+      "importancia_esperada": 0.5103,
+      "curiosidad_campo": 0.0964,
+      "curiosidad_nueva": 0.0492,
+      "creencia_campo": 37.8616,
+      "creencia_descontada": 37.8565,
+      "recuerdos": 7,
+      "pruebas_del_dia": 3
+     },
+     "racion": {
+      "ignorancia": 0.0736,
+      "ignorancia_campo": 0.0754,
+      "importancia_esperada": 0.2146,
+      "curiosidad_campo": 0.0754,
+      "curiosidad_nueva": 0.0158,
+      "creencia_campo": 13.4731,
+      "creencia_descontada": 13.5093,
+      "recuerdos": 12,
+      "pruebas_del_dia": 1
+     },
+     "red": {
+      "ignorancia": 1.0,
+      "ignorancia_campo": 1.0,
+      "importancia_esperada": 1.0,
+      "curiosidad_campo": 1.0,
+      "curiosidad_nueva": 1.0,
+      "creencia_campo": null,
+      "creencia_descontada": null,
+      "recuerdos": 0,
+      "pruebas_del_dia": 0
+     },
+     "camuflaje": {
+      "ignorancia": 1.0,
+      "ignorancia_campo": 1.0,
+      "importancia_esperada": 1.0,
+      "curiosidad_campo": 1.0,
+      "curiosidad_nueva": 1.0,
+      "creencia_campo": null,
+      "creencia_descontada": null,
+      "recuerdos": 0,
+      "pruebas_del_dia": 0
+     }
+    },
+    "4": {
+     "botiquin": {
+      "ignorancia": 0.0805,
+      "ignorancia_campo": 0.0805,
+      "importancia_esperada": 0.4818,
+      "curiosidad_campo": 0.0805,
+      "curiosidad_nueva": 0.0388,
+      "creencia_campo": 37.3839,
+      "creencia_descontada": 37.3787,
+      "recuerdos": 9,
+      "pruebas_del_dia": 2
+     },
+     "racion": {
+      "ignorancia": 0.0713,
+      "ignorancia_campo": 0.0729,
+      "importancia_esperada": 0.2058,
+      "curiosidad_campo": 0.0729,
+      "curiosidad_nueva": 0.0147,
+      "creencia_campo": 13.4041,
+      "creencia_descontada": 13.4419,
+      "recuerdos": 13,
+      "pruebas_del_dia": 1
+     },
+     "red": {
+      "ignorancia": 1.0,
+      "ignorancia_campo": 1.0,
+      "importancia_esperada": 1.0,
+      "curiosidad_campo": 1.0,
+      "curiosidad_nueva": 1.0,
+      "creencia_campo": null,
+      "creencia_descontada": null,
+      "recuerdos": 0,
+      "pruebas_del_dia": 0
+     },
+     "camuflaje": {
+      "ignorancia": 1.0,
+      "ignorancia_campo": 1.0,
+      "importancia_esperada": 1.0,
+      "curiosidad_campo": 1.0,
+      "curiosidad_nueva": 1.0,
+      "creencia_campo": null,
+      "creencia_descontada": null,
+      "recuerdos": 0,
+      "pruebas_del_dia": 0
+     }
+    },
+    "5": {
+     "botiquin": {
+      "ignorancia": 0.0765,
+      "ignorancia_campo": 0.0764,
+      "importancia_esperada": 0.4479,
+      "curiosidad_campo": 0.0764,
+      "curiosidad_nueva": 0.0342,
+      "creencia_campo": 36.8939,
+      "creencia_descontada": 36.8886,
+      "recuerdos": 10,
+      "pruebas_del_dia": 1
+     },
+     "racion": {
+      "ignorancia": 0.0592,
+      "ignorancia_campo": 0.0607,
+      "importancia_esperada": 0.2011,
+      "curiosidad_campo": 0.0607,
+      "curiosidad_nueva": 0.0119,
+      "creencia_campo": 13.7618,
+      "creencia_descontada": 13.7917,
+      "recuerdos": 16,
+      "pruebas_del_dia": 3
+     },
+     "red": {
+      "ignorancia": 1.0,
+      "ignorancia_campo": 1.0,
+      "importancia_esperada": 1.0,
+      "curiosidad_campo": 1.0,
+      "curiosidad_nueva": 1.0,
+      "creencia_campo": null,
+      "creencia_descontada": null,
+      "recuerdos": 0,
+      "pruebas_del_dia": 0
+     },
+     "camuflaje": {
+      "ignorancia": 0.266,
+      "ignorancia_campo": 0.2661,
+      "importancia_esperada": 0.5774,
+      "curiosidad_campo": 0.2661,
+      "curiosidad_nueva": 0.1536,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 2,
+      "pruebas_del_dia": 2
+     }
+    },
+    "6": {
+     "botiquin": {
+      "ignorancia": 0.0802,
+      "ignorancia_campo": 0.0801,
+      "importancia_esperada": 0.4514,
+      "curiosidad_campo": 0.0801,
+      "curiosidad_nueva": 0.0362,
+      "creencia_campo": 36.3919,
+      "creencia_descontada": 36.3864,
+      "recuerdos": 10,
+      "pruebas_del_dia": 0
+     },
+     "racion": {
+      "ignorancia": 0.0465,
+      "ignorancia_campo": 0.0477,
+      "importancia_esperada": 0.2544,
+      "curiosidad_campo": 0.0477,
+      "curiosidad_nueva": 0.0118,
+      "creencia_campo": 13.88,
+      "creencia_descontada": 13.9097,
+      "recuerdos": 20,
+      "pruebas_del_dia": 4
+     },
+     "red": {
+      "ignorancia": 0.4752,
+      "ignorancia_campo": 0.4751,
+      "importancia_esperada": 0.53,
+      "curiosidad_campo": 0.4751,
+      "curiosidad_nueva": 0.2519,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 1,
+      "pruebas_del_dia": 1
+     },
+     "camuflaje": {
+      "ignorancia": 0.2761,
+      "ignorancia_campo": 0.2762,
+      "importancia_esperada": 0.5833,
+      "curiosidad_campo": 0.2762,
+      "curiosidad_nueva": 0.161,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 2,
+      "pruebas_del_dia": 0
+     }
+    },
+    "7": {
+     "botiquin": {
+      "ignorancia": 0.084,
+      "ignorancia_campo": 0.084,
+      "importancia_esperada": 0.455,
+      "curiosidad_campo": 0.084,
+      "curiosidad_nueva": 0.0382,
+      "creencia_campo": 35.878,
+      "creencia_descontada": 35.8724,
+      "recuerdos": 10,
+      "pruebas_del_dia": 0
+     },
+     "racion": {
+      "ignorancia": 0.0489,
+      "ignorancia_campo": 0.0501,
+      "importancia_esperada": 0.2563,
+      "curiosidad_campo": 0.0501,
+      "curiosidad_nueva": 0.0125,
+      "creencia_campo": 13.8271,
+      "creencia_descontada": 13.8582,
+      "recuerdos": 20,
+      "pruebas_del_dia": 0
+     },
+     "red": {
+      "ignorancia": 0.3209,
+      "ignorancia_campo": 0.3207,
+      "importancia_esperada": 0.379,
+      "curiosidad_campo": 0.3207,
+      "curiosidad_nueva": 0.1216,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 2,
+      "pruebas_del_dia": 1
+     },
+     "camuflaje": {
+      "ignorancia": 0.2195,
+      "ignorancia_campo": 0.2195,
+      "importancia_esperada": 0.4668,
+      "curiosidad_campo": 0.2195,
+      "curiosidad_nueva": 0.1024,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 3,
+      "pruebas_del_dia": 1
+     }
+    },
+    "8": {
+     "botiquin": {
+      "ignorancia": 0.088,
+      "ignorancia_campo": 0.088,
+      "importancia_esperada": 0.4588,
+      "curiosidad_campo": 0.088,
+      "curiosidad_nueva": 0.0404,
+      "creencia_campo": 35.3524,
+      "creencia_descontada": 35.3467,
+      "recuerdos": 10,
+      "pruebas_del_dia": 0
+     },
+     "racion": {
+      "ignorancia": 0.0513,
+      "ignorancia_campo": 0.0526,
+      "importancia_esperada": 0.2582,
+      "curiosidad_campo": 0.0526,
+      "curiosidad_nueva": 0.0132,
+      "creencia_campo": 13.7718,
+      "creencia_descontada": 13.8044,
+      "recuerdos": 20,
+      "pruebas_del_dia": 0
+     },
+     "red": {
+      "ignorancia": 0.232,
+      "ignorancia_campo": 0.2317,
+      "importancia_esperada": 0.3624,
+      "curiosidad_campo": 0.2317,
+      "curiosidad_nueva": 0.0841,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 3,
+      "pruebas_del_dia": 1
+     },
+     "camuflaje": {
+      "ignorancia": 0.1765,
+      "ignorancia_campo": 0.1764,
+      "importancia_esperada": 0.431,
+      "curiosidad_campo": 0.1764,
+      "curiosidad_nueva": 0.076,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 4,
+      "pruebas_del_dia": 1
+     }
+    },
+    "9": {
+     "botiquin": {
+      "ignorancia": 0.0702,
+      "ignorancia_campo": 0.0702,
+      "importancia_esperada": 0.4365,
+      "curiosidad_campo": 0.0702,
+      "curiosidad_nueva": 0.0307,
+      "creencia_campo": 34.8156,
+      "creencia_descontada": 34.8098,
+      "recuerdos": 13,
+      "pruebas_del_dia": 3
+     },
+     "racion": {
+      "ignorancia": 0.0539,
+      "ignorancia_campo": 0.0552,
+      "importancia_esperada": 0.2602,
+      "curiosidad_campo": 0.0552,
+      "curiosidad_nueva": 0.014,
+      "creencia_campo": 13.714,
+      "creencia_descontada": 13.7482,
+      "recuerdos": 20,
+      "pruebas_del_dia": 0
+     },
+     "red": {
+      "ignorancia": 0.1825,
+      "ignorancia_campo": 0.1824,
+      "importancia_esperada": 0.3617,
+      "curiosidad_campo": 0.1824,
+      "curiosidad_nueva": 0.066,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 4,
+      "pruebas_del_dia": 1
+     },
+     "camuflaje": {
+      "ignorancia": 0.184,
+      "ignorancia_campo": 0.184,
+      "importancia_esperada": 0.4362,
+      "curiosidad_campo": 0.184,
+      "curiosidad_nueva": 0.0803,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 4,
+      "pruebas_del_dia": 0
+     }
+    },
+    "10": {
+     "botiquin": {
+      "ignorancia": 0.0737,
+      "ignorancia_campo": 0.0737,
+      "importancia_esperada": 0.4401,
+      "curiosidad_campo": 0.0737,
+      "curiosidad_nueva": 0.0324,
+      "creencia_campo": 34.2679,
+      "creencia_descontada": 34.262,
+      "recuerdos": 13,
+      "pruebas_del_dia": 0
+     },
+     "racion": {
+      "ignorancia": 0.0565,
+      "ignorancia_campo": 0.058,
+      "importancia_esperada": 0.2623,
+      "curiosidad_campo": 0.058,
+      "curiosidad_nueva": 0.0148,
+      "creencia_campo": 13.6538,
+      "creencia_descontada": 13.6895,
+      "recuerdos": 20,
+      "pruebas_del_dia": 0
+     },
+     "red": {
+      "ignorancia": 0.1902,
+      "ignorancia_campo": 0.1902,
+      "importancia_esperada": 0.3678,
+      "curiosidad_campo": 0.1902,
+      "curiosidad_nueva": 0.07,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 4,
+      "pruebas_del_dia": 0
+     },
+     "camuflaje": {
+      "ignorancia": 0.1919,
+      "ignorancia_campo": 0.1918,
+      "importancia_esperada": 0.4416,
+      "curiosidad_campo": 0.1918,
+      "curiosidad_nueva": 0.0847,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 4,
+      "pruebas_del_dia": 0
+     }
+    },
+    "11": {
+     "botiquin": {
+      "ignorancia": 0.07,
+      "ignorancia_campo": 0.07,
+      "importancia_esperada": 0.427,
+      "curiosidad_campo": 0.07,
+      "curiosidad_nueva": 0.0299,
+      "creencia_campo": 38.6408,
+      "creencia_descontada": 38.6371,
+      "recuerdos": 14,
+      "pruebas_del_dia": 1
+     },
+     "racion": {
+      "ignorancia": 0.0593,
+      "ignorancia_campo": 0.0608,
+      "importancia_esperada": 0.2645,
+      "curiosidad_campo": 0.0608,
+      "curiosidad_nueva": 0.0157,
+      "creencia_campo": 13.5909,
+      "creencia_descontada": 13.6283,
+      "recuerdos": 20,
+      "pruebas_del_dia": 0
+     },
+     "red": {
+      "ignorancia": 0.1983,
+      "ignorancia_campo": 0.1982,
+      "importancia_esperada": 0.374,
+      "curiosidad_campo": 0.1982,
+      "curiosidad_nueva": 0.0742,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 4,
+      "pruebas_del_dia": 0
+     },
+     "camuflaje": {
+      "ignorancia": 0.1611,
+      "ignorancia_campo": 0.1611,
+      "importancia_esperada": 0.4005,
+      "curiosidad_campo": 0.1611,
+      "curiosidad_nueva": 0.0645,
+      "creencia_campo": 9.7966,
+      "creencia_descontada": 9.799,
+      "recuerdos": 5,
+      "pruebas_del_dia": 1
+     }
+    },
+    "12": {
+     "botiquin": {
+      "ignorancia": 0.0735,
+      "ignorancia_campo": 0.0734,
+      "importancia_esperada": 0.4304,
+      "curiosidad_campo": 0.0734,
+      "curiosidad_nueva": 0.0316,
+      "creencia_campo": 38.1842,
+      "creencia_descontada": 38.1804,
+      "recuerdos": 14,
+      "pruebas_del_dia": 0
+     },
+     "racion": {
+      "ignorancia": 0.0582,
+      "ignorancia_campo": 0.0596,
+      "importancia_esperada": 0.2569,
+      "curiosidad_campo": 0.0596,
+      "curiosidad_nueva": 0.015,
+      "creencia_campo": 13.5254,
+      "creencia_descontada": 13.5644,
+      "recuerdos": 21,
+      "pruebas_del_dia": 1
+     },
+     "red": {
+      "ignorancia": 0.2065,
+      "ignorancia_campo": 0.2065,
+      "importancia_esperada": 0.3805,
+      "curiosidad_campo": 0.2065,
+      "curiosidad_nueva": 0.0786,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 4,
+      "pruebas_del_dia": 0
+     },
+     "camuflaje": {
+      "ignorancia": 0.1681,
+      "ignorancia_campo": 0.1681,
+      "importancia_esperada": 0.4056,
+      "curiosidad_campo": 0.1681,
+      "curiosidad_nueva": 0.0682,
+      "creencia_campo": 9.7143,
+      "creencia_descontada": 9.7167,
+      "recuerdos": 5,
+      "pruebas_del_dia": 0
+     }
+    },
+    "13": {
+     "botiquin": {
+      "ignorancia": 0.077,
+      "ignorancia_campo": 0.077,
+      "importancia_esperada": 0.4339,
+      "curiosidad_campo": 0.077,
+      "curiosidad_nueva": 0.0334,
+      "creencia_campo": 37.7151,
+      "creencia_descontada": 37.7112,
+      "recuerdos": 14,
+      "pruebas_del_dia": 0
+     },
+     "racion": {
+      "ignorancia": 0.0571,
+      "ignorancia_campo": 0.0584,
+      "importancia_esperada": 0.2515,
+      "curiosidad_campo": 0.0584,
+      "curiosidad_nueva": 0.0144,
+      "creencia_campo": 13.4571,
+      "creencia_descontada": 13.4979,
+      "recuerdos": 22,
+      "pruebas_del_dia": 1
+     },
+     "red": {
+      "ignorancia": 0.176,
+      "ignorancia_campo": 0.176,
+      "importancia_esperada": 0.3225,
+      "curiosidad_campo": 0.176,
+      "curiosidad_nueva": 0.0568,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 5,
+      "pruebas_del_dia": 1
+     },
+     "camuflaje": {
+      "ignorancia": 0.1439,
+      "ignorancia_campo": 0.1439,
+      "importancia_esperada": 0.3813,
+      "curiosidad_campo": 0.1439,
+      "curiosidad_nueva": 0.0549,
+      "creencia_campo": 7.9014,
+      "creencia_descontada": 7.9034,
+      "recuerdos": 6,
+      "pruebas_del_dia": 1
+     }
+    },
+    "14": {
+     "botiquin": {
+      "ignorancia": 0.0808,
+      "ignorancia_campo": 0.0807,
+      "importancia_esperada": 0.4376,
+      "curiosidad_campo": 0.0807,
+      "curiosidad_nueva": 0.0353,
+      "creencia_campo": 37.2336,
+      "creencia_descontada": 37.2296,
+      "recuerdos": 14,
+      "pruebas_del_dia": 0
+     },
+     "racion": {
+      "ignorancia": 0.0599,
+      "ignorancia_campo": 0.0612,
+      "importancia_esperada": 0.2537,
+      "curiosidad_campo": 0.0612,
+      "curiosidad_nueva": 0.0152,
+      "creencia_campo": 13.386,
+      "creencia_descontada": 13.4285,
+      "recuerdos": 22,
+      "pruebas_del_dia": 0
+     },
+     "red": {
+      "ignorancia": 0.1836,
+      "ignorancia_campo": 0.1836,
+      "importancia_esperada": 0.3287,
+      "curiosidad_campo": 0.1836,
+      "curiosidad_nueva": 0.0604,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 5,
+      "pruebas_del_dia": 0
+     },
+     "camuflaje": {
+      "ignorancia": 0.1504,
+      "ignorancia_campo": 0.1504,
+      "importancia_esperada": 0.3859,
+      "curiosidad_campo": 0.1504,
+      "curiosidad_nueva": 0.058,
+      "creencia_campo": 7.842,
+      "creencia_descontada": 7.844,
+      "recuerdos": 6,
+      "pruebas_del_dia": 0
+     }
+    },
+    "15": {
+     "botiquin": {
+      "ignorancia": 0.0846,
+      "ignorancia_campo": 0.0846,
+      "importancia_esperada": 0.4414,
+      "curiosidad_campo": 0.0846,
+      "curiosidad_nueva": 0.0374,
+      "creencia_campo": 36.7399,
+      "creencia_descontada": 36.7358,
+      "recuerdos": 14,
+      "pruebas_del_dia": 0
+     },
+     "racion": {
+      "ignorancia": 0.0629,
+      "ignorancia_campo": 0.0643,
+      "importancia_esperada": 0.2561,
+      "curiosidad_campo": 0.0643,
+      "curiosidad_nueva": 0.0161,
+      "creencia_campo": 13.3119,
+      "creencia_descontada": 13.3563,
+      "recuerdos": 22,
+      "pruebas_del_dia": 0
+     },
+     "red": {
+      "ignorancia": 0.1607,
+      "ignorancia_campo": 0.1606,
+      "importancia_esperada": 0.2813,
+      "curiosidad_campo": 0.1606,
+      "curiosidad_nueva": 0.0452,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 6,
+      "pruebas_del_dia": 1
+     },
+     "camuflaje": {
+      "ignorancia": 0.13,
+      "ignorancia_campo": 0.1299,
+      "importancia_esperada": 0.3796,
+      "curiosidad_campo": 0.1299,
+      "curiosidad_nueva": 0.0493,
+      "creencia_campo": 6.4383,
+      "creencia_descontada": 6.4412,
+      "recuerdos": 7,
+      "pruebas_del_dia": 1
+     }
+    },
+    "16": {
+     "botiquin": {
+      "ignorancia": 0.0887,
+      "ignorancia_campo": 0.0887,
+      "importancia_esperada": 0.4454,
+      "curiosidad_campo": 0.0887,
+      "curiosidad_nueva": 0.0395,
+      "creencia_campo": 36.2341,
+      "creencia_descontada": 36.2299,
+      "recuerdos": 14,
+      "pruebas_del_dia": 0
+     },
+     "racion": {
+      "ignorancia": 0.0618,
+      "ignorancia_campo": 0.0631,
+      "importancia_esperada": 0.2435,
+      "curiosidad_campo": 0.0631,
+      "curiosidad_nueva": 0.0151,
+      "creencia_campo": 13.2348,
+      "creencia_descontada": 13.2811,
+      "recuerdos": 23,
+      "pruebas_del_dia": 1
+     },
+     "red": {
+      "ignorancia": 0.1353,
+      "ignorancia_campo": 0.1352,
+      "importancia_esperada": 0.3149,
+      "curiosidad_campo": 0.1352,
+      "curiosidad_nueva": 0.0426,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 7,
+      "pruebas_del_dia": 1
+     },
+     "camuflaje": {
+      "ignorancia": 0.1359,
+      "ignorancia_campo": 0.1359,
+      "importancia_esperada": 0.3838,
+      "curiosidad_campo": 0.1359,
+      "curiosidad_nueva": 0.0522,
+      "creencia_campo": 6.3946,
+      "creencia_descontada": 6.3975,
+      "recuerdos": 7,
+      "pruebas_del_dia": 0
+     }
+    },
+    "17": {
+     "botiquin": {
+      "ignorancia": 0.0929,
+      "ignorancia_campo": 0.0929,
+      "importancia_esperada": 0.4495,
+      "curiosidad_campo": 0.0929,
+      "curiosidad_nueva": 0.0418,
+      "creencia_campo": 35.7166,
+      "creencia_descontada": 35.7123,
+      "recuerdos": 14,
+      "pruebas_del_dia": 0
+     },
+     "racion": {
+      "ignorancia": 0.0649,
+      "ignorancia_campo": 0.0662,
+      "importancia_esperada": 0.246,
+      "curiosidad_campo": 0.0662,
+      "curiosidad_nueva": 0.016,
+      "creencia_campo": 13.1546,
+      "creencia_descontada": 13.2028,
+      "recuerdos": 23,
+      "pruebas_del_dia": 0
+     },
+     "red": {
+      "ignorancia": 0.1414,
+      "ignorancia_campo": 0.1413,
+      "importancia_esperada": 0.3197,
+      "curiosidad_campo": 0.1413,
+      "curiosidad_nueva": 0.0452,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 7,
+      "pruebas_del_dia": 0
+     },
+     "camuflaje": {
+      "ignorancia": 0.1242,
+      "ignorancia_campo": 0.1241,
+      "importancia_esperada": 0.3411,
+      "curiosidad_campo": 0.1241,
+      "curiosidad_nueva": 0.0423,
+      "creencia_campo": 5.5499,
+      "creencia_descontada": 5.5522,
+      "recuerdos": 8,
+      "pruebas_del_dia": 1
+     }
+    },
+    "18": {
+     "botiquin": {
+      "ignorancia": 0.0784,
+      "ignorancia_campo": 0.0784,
+      "importancia_esperada": 0.4017,
+      "curiosidad_campo": 0.0784,
+      "curiosidad_nueva": 0.0315,
+      "creencia_campo": 35.1875,
+      "creencia_descontada": 35.1831,
+      "recuerdos": 16,
+      "pruebas_del_dia": 2
+     },
+     "racion": {
+      "ignorancia": 0.068,
+      "ignorancia_campo": 0.0694,
+      "importancia_esperada": 0.2486,
+      "curiosidad_campo": 0.0694,
+      "curiosidad_nueva": 0.0169,
+      "creencia_campo": 13.0712,
+      "creencia_descontada": 13.1214,
+      "recuerdos": 23,
+      "pruebas_del_dia": 0
+     },
+     "red": {
+      "ignorancia": 0.1477,
+      "ignorancia_campo": 0.1477,
+      "importancia_esperada": 0.3248,
+      "curiosidad_campo": 0.1477,
+      "curiosidad_nueva": 0.048,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 7,
+      "pruebas_del_dia": 0
+     },
+     "camuflaje": {
+      "ignorancia": 0.1298,
+      "ignorancia_campo": 0.1298,
+      "importancia_esperada": 0.3454,
+      "curiosidad_campo": 0.1298,
+      "curiosidad_nueva": 0.0448,
+      "creencia_campo": 5.5138,
+      "creencia_descontada": 5.5162,
+      "recuerdos": 8,
+      "pruebas_del_dia": 0
+     }
+    },
+    "19": {
+     "botiquin": {
+      "ignorancia": 0.0822,
+      "ignorancia_campo": 0.0822,
+      "importancia_esperada": 0.4052,
+      "curiosidad_campo": 0.0822,
+      "curiosidad_nueva": 0.0333,
+      "creencia_campo": 34.6473,
+      "creencia_descontada": 34.6428,
+      "recuerdos": 16,
+      "pruebas_del_dia": 0
+     },
+     "racion": {
+      "ignorancia": 0.0544,
+      "ignorancia_campo": 0.0552,
+      "importancia_esperada": 0.2149,
+      "curiosidad_campo": 0.0552,
+      "curiosidad_nueva": 0.0117,
+      "creencia_campo": 12.9845,
+      "creencia_descontada": 13.0368,
+      "recuerdos": 27,
+      "pruebas_del_dia": 4
+     },
+     "red": {
+      "ignorancia": 0.1266,
+      "ignorancia_campo": 0.1266,
+      "importancia_esperada": 0.346,
+      "curiosidad_campo": 0.1266,
+      "curiosidad_nueva": 0.0438,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 8,
+      "pruebas_del_dia": 1
+     },
+     "camuflaje": {
+      "ignorancia": 0.1357,
+      "ignorancia_campo": 0.1357,
+      "importancia_esperada": 0.3498,
+      "curiosidad_campo": 0.1357,
+      "curiosidad_nueva": 0.0475,
+      "creencia_campo": 5.4764,
+      "creencia_descontada": 5.4787,
+      "recuerdos": 8,
+      "pruebas_del_dia": 0
+     }
+    },
+    "20": {
+     "botiquin": {
+      "ignorancia": 0.0862,
+      "ignorancia_campo": 0.0862,
+      "importancia_esperada": 0.4089,
+      "curiosidad_campo": 0.0862,
+      "curiosidad_nueva": 0.0352,
+      "creencia_campo": 34.0963,
+      "creencia_descontada": 34.0917,
+      "recuerdos": 16,
+      "pruebas_del_dia": 0
+     },
+     "racion": {
+      "ignorancia": 0.0536,
+      "ignorancia_campo": 0.0544,
+      "importancia_esperada": 0.2113,
+      "curiosidad_campo": 0.0544,
+      "curiosidad_nueva": 0.0113,
+      "creencia_campo": 12.8946,
+      "creencia_descontada": 12.9489,
+      "recuerdos": 28,
+      "pruebas_del_dia": 1
+     },
+     "red": {
+      "ignorancia": 0.1143,
+      "ignorancia_campo": 0.1143,
+      "importancia_esperada": 0.329,
+      "curiosidad_campo": 0.1143,
+      "curiosidad_nueva": 0.0376,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 9,
+      "pruebas_del_dia": 1
+     },
+     "camuflaje": {
+      "ignorancia": 0.119,
+      "ignorancia_campo": 0.119,
+      "importancia_esperada": 0.3547,
+      "curiosidad_campo": 0.119,
+      "curiosidad_nueva": 0.0422,
+      "creencia_campo": 4.5617,
+      "creencia_descontada": 4.5622,
+      "recuerdos": 9,
+      "pruebas_del_dia": 1
+     }
+    }
+   },
+   "manda": {
+    "campo": [
+     [
+      1,
+      "red"
+     ],
+     [
+      2,
+      "red"
+     ],
+     [
+      3,
+      "red"
+     ],
+     [
+      4,
+      "red"
+     ],
+     [
+      5,
+      "red"
+     ],
+     [
+      6,
+      "red"
+     ],
+     [
+      7,
+      "red"
+     ],
+     [
+      8,
+      "red"
+     ],
+     [
+      9,
+      "camuflaje"
+     ],
+     [
+      10,
+      "camuflaje"
+     ],
+     [
+      11,
+      "red"
+     ],
+     [
+      12,
+      "red"
+     ],
+     [
+      13,
+      "red"
+     ],
+     [
+      14,
+      "red"
+     ],
+     [
+      15,
+      "red"
+     ],
+     [
+      16,
+      "camuflaje"
+     ],
+     [
+      17,
+      "red"
+     ],
+     [
+      18,
+      "red"
+     ],
+     [
+      19,
+      "camuflaje"
+     ],
+     [
+      20,
+      "camuflaje"
+     ]
+    ],
+    "nueva": [
+     [
+      1,
+      "red"
+     ],
+     [
+      2,
+      "red"
+     ],
+     [
+      3,
+      "red"
+     ],
+     [
+      4,
+      "red"
+     ],
+     [
+      5,
+      "red"
+     ],
+     [
+      6,
+      "red"
+     ],
+     [
+      7,
+      "red"
+     ],
+     [
+      8,
+      "red"
+     ],
+     [
+      9,
+      "camuflaje"
+     ],
+     [
+      10,
+      "camuflaje"
+     ],
+     [
+      11,
+      "red"
+     ],
+     [
+      12,
+      "red"
+     ],
+     [
+      13,
+      "red"
+     ],
+     [
+      14,
+      "red"
+     ],
+     [
+      15,
+      "camuflaje"
+     ],
+     [
+      16,
+      "camuflaje"
+     ],
+     [
+      17,
+      "red"
+     ],
+     [
+      18,
+      "red"
+     ],
+     [
+      19,
+      "camuflaje"
+     ],
+     [
+      20,
+      "camuflaje"
+     ]
+    ]
+   },
+   "despierta": {
+    "red": [
+     {
+      "prueba_dia": 6,
+      "vuelve_a_mandar_dia": 7,
+      "curiosidad_entonces": 0.1216,
+      "curiosidad_util_entonces": 0.0382,
+      "curiosidad_el_dia_de_la_prueba": 0.2519
+     },
+     {
+      "prueba_dia": 7,
+      "vuelve_a_mandar_dia": 8,
+      "curiosidad_entonces": 0.0841,
+      "curiosidad_util_entonces": 0.0404,
+      "curiosidad_el_dia_de_la_prueba": 0.1216
+     },
+     {
+      "prueba_dia": 8,
+      "vuelve_a_mandar_dia": 9,
+      "curiosidad_entonces": 0.066,
+      "curiosidad_util_entonces": 0.0307,
+      "curiosidad_el_dia_de_la_prueba": 0.0841
+     },
+     {
+      "prueba_dia": 9,
+      "vuelve_a_mandar_dia": 10,
+      "curiosidad_entonces": 0.07,
+      "curiosidad_util_entonces": 0.0324,
+      "curiosidad_el_dia_de_la_prueba": 0.066
+     },
+     {
+      "prueba_dia": 13,
+      "vuelve_a_mandar_dia": 14,
+      "curiosidad_entonces": 0.0604,
+      "curiosidad_util_entonces": 0.0353,
+      "curiosidad_el_dia_de_la_prueba": 0.0568
+     },
+     {
+      "prueba_dia": 15,
+      "vuelve_a_mandar_dia": 16,
+      "curiosidad_entonces": 0.0426,
+      "curiosidad_util_entonces": 0.0395,
+      "curiosidad_el_dia_de_la_prueba": 0.0452
+     },
+     {
+      "prueba_dia": 16,
+      "vuelve_a_mandar_dia": 17,
+      "curiosidad_entonces": 0.0452,
+      "curiosidad_util_entonces": 0.0418,
+      "curiosidad_el_dia_de_la_prueba": 0.0426
+     },
+     {
+      "prueba_dia": 19,
+      "vuelve_a_mandar_dia": 20,
+      "curiosidad_entonces": 0.0376,
+      "curiosidad_util_entonces": 0.0352,
+      "curiosidad_el_dia_de_la_prueba": 0.0438
+     },
+     {
+      "prueba_dia": 20,
+      "vuelve_a_mandar_dia": null,
+      "curiosidad_entonces": null,
+      "curiosidad_util_entonces": null,
+      "curiosidad_el_dia_de_la_prueba": 0.0376
+     }
+    ],
+    "camuflaje": [
+     {
+      "prueba_dia": 5,
+      "vuelve_a_mandar_dia": 6,
+      "curiosidad_entonces": 0.161,
+      "curiosidad_util_entonces": 0.0362,
+      "curiosidad_el_dia_de_la_prueba": 0.1536
+     },
+     {
+      "prueba_dia": 7,
+      "vuelve_a_mandar_dia": 8,
+      "curiosidad_entonces": 0.076,
+      "curiosidad_util_entonces": 0.0404,
+      "curiosidad_el_dia_de_la_prueba": 0.1024
+     },
+     {
+      "prueba_dia": 8,
+      "vuelve_a_mandar_dia": 9,
+      "curiosidad_entonces": 0.0803,
+      "curiosidad_util_entonces": 0.0307,
+      "curiosidad_el_dia_de_la_prueba": 0.076
+     },
+     {
+      "prueba_dia": 11,
+      "vuelve_a_mandar_dia": 12,
+      "curiosidad_entonces": 0.0682,
+      "curiosidad_util_entonces": 0.0316,
+      "curiosidad_el_dia_de_la_prueba": 0.0645
+     },
+     {
+      "prueba_dia": 13,
+      "vuelve_a_mandar_dia": 14,
+      "curiosidad_entonces": 0.058,
+      "curiosidad_util_entonces": 0.0353,
+      "curiosidad_el_dia_de_la_prueba": 0.0549
+     },
+     {
+      "prueba_dia": 15,
+      "vuelve_a_mandar_dia": 16,
+      "curiosidad_entonces": 0.0522,
+      "curiosidad_util_entonces": 0.0395,
+      "curiosidad_el_dia_de_la_prueba": 0.0493
+     },
+     {
+      "prueba_dia": 17,
+      "vuelve_a_mandar_dia": 18,
+      "curiosidad_entonces": 0.0448,
+      "curiosidad_util_entonces": 0.0315,
+      "curiosidad_el_dia_de_la_prueba": 0.0423
+     },
+     {
+      "prueba_dia": 20,
+      "vuelve_a_mandar_dia": null,
+      "curiosidad_entonces": null,
+      "curiosidad_util_entonces": null,
+      "curiosidad_el_dia_de_la_prueba": 0.0422
+     }
+    ]
+   }
+  },
+  "s2 a11": {
+   "dias": {
+    "1": {
+     "botiquin": {
+      "ignorancia": 0.2458,
+      "ignorancia_campo": 0.2458,
+      "importancia_esperada": 1.0,
+      "curiosidad_campo": 0.2458,
+      "curiosidad_nueva": 0.2458,
+      "creencia_campo": null,
+      "creencia_descontada": null,
+      "recuerdos": 3,
+      "pruebas_del_dia": 3
+     },
+     "racion": {
+      "ignorancia": 1.0,
+      "ignorancia_campo": 1.0,
+      "importancia_esperada": 1.0,
+      "curiosidad_campo": 1.0,
+      "curiosidad_nueva": 1.0,
+      "creencia_campo": null,
+      "creencia_descontada": null,
+      "recuerdos": 0,
+      "pruebas_del_dia": 0
+     },
+     "red": {
+      "ignorancia": 1.0,
+      "ignorancia_campo": 1.0,
+      "importancia_esperada": 1.0,
+      "curiosidad_campo": 1.0,
+      "curiosidad_nueva": 1.0,
+      "creencia_campo": null,
+      "creencia_descontada": null,
+      "recuerdos": 0,
+      "pruebas_del_dia": 0
+     },
+     "camuflaje": {
+      "ignorancia": 1.0,
+      "ignorancia_campo": 1.0,
+      "importancia_esperada": 1.0,
+      "curiosidad_campo": 1.0,
+      "curiosidad_nueva": 1.0,
+      "creencia_campo": null,
+      "creencia_descontada": null,
+      "recuerdos": 0,
+      "pruebas_del_dia": 0
+     }
+    },
+    "2": {
+     "botiquin": {
+      "ignorancia": 0.2554,
+      "ignorancia_campo": 0.2554,
+      "importancia_esperada": 1.0,
+      "curiosidad_campo": 0.2554,
+      "curiosidad_nueva": 0.2554,
+      "creencia_campo": null,
+      "creencia_descontada": null,
+      "recuerdos": 3,
+      "pruebas_del_dia": 0
+     },
+     "racion": {
+      "ignorancia": 1.0,
+      "ignorancia_campo": 1.0,
+      "importancia_esperada": 1.0,
+      "curiosidad_campo": 1.0,
+      "curiosidad_nueva": 1.0,
+      "creencia_campo": null,
+      "creencia_descontada": null,
+      "recuerdos": 0,
+      "pruebas_del_dia": 0
+     },
+     "red": {
+      "ignorancia": 1.0,
+      "ignorancia_campo": 1.0,
+      "importancia_esperada": 1.0,
+      "curiosidad_campo": 1.0,
+      "curiosidad_nueva": 1.0,
+      "creencia_campo": null,
+      "creencia_descontada": null,
+      "recuerdos": 0,
+      "pruebas_del_dia": 0
+     },
+     "camuflaje": {
+      "ignorancia": 1.0,
+      "ignorancia_campo": 1.0,
+      "importancia_esperada": 1.0,
+      "curiosidad_campo": 1.0,
+      "curiosidad_nueva": 1.0,
+      "creencia_campo": null,
+      "creencia_descontada": null,
+      "recuerdos": 0,
+      "pruebas_del_dia": 0
+     }
+    },
+    "3": {
+     "botiquin": {
+      "ignorancia": 0.2653,
+      "ignorancia_campo": 0.2653,
+      "importancia_esperada": 1.0,
+      "curiosidad_campo": 0.2653,
+      "curiosidad_nueva": 0.2653,
+      "creencia_campo": null,
+      "creencia_descontada": null,
+      "recuerdos": 3,
+      "pruebas_del_dia": 0
+     },
+     "racion": {
+      "ignorancia": 1.0,
+      "ignorancia_campo": 1.0,
+      "importancia_esperada": 1.0,
+      "curiosidad_campo": 1.0,
+      "curiosidad_nueva": 1.0,
+      "creencia_campo": null,
+      "creencia_descontada": null,
+      "recuerdos": 0,
+      "pruebas_del_dia": 0
+     },
+     "red": {
+      "ignorancia": 1.0,
+      "ignorancia_campo": 1.0,
+      "importancia_esperada": 1.0,
+      "curiosidad_campo": 1.0,
+      "curiosidad_nueva": 1.0,
+      "creencia_campo": null,
+      "creencia_descontada": null,
+      "recuerdos": 0,
+      "pruebas_del_dia": 0
+     },
+     "camuflaje": {
+      "ignorancia": 1.0,
+      "ignorancia_campo": 1.0,
+      "importancia_esperada": 1.0,
+      "curiosidad_campo": 1.0,
+      "curiosidad_nueva": 1.0,
+      "creencia_campo": null,
+      "creencia_descontada": null,
+      "recuerdos": 0,
+      "pruebas_del_dia": 0
+     }
+    },
+    "4": {
+     "botiquin": {
+      "ignorancia": 0.2754,
+      "ignorancia_campo": 0.2754,
+      "importancia_esperada": 1.0,
+      "curiosidad_campo": 0.2754,
+      "curiosidad_nueva": 0.2754,
+      "creencia_campo": null,
+      "creencia_descontada": null,
+      "recuerdos": 3,
+      "pruebas_del_dia": 0
+     },
+     "racion": {
+      "ignorancia": 0.1195,
+      "ignorancia_campo": 0.1239,
+      "importancia_esperada": 0.636,
+      "curiosidad_campo": 0.1239,
+      "curiosidad_nueva": 0.076,
+      "creencia_campo": 2.0,
+      "creencia_descontada": 2.0,
+      "recuerdos": 5,
+      "pruebas_del_dia": 5
+     },
+     "red": {
+      "ignorancia": 0.4997,
+      "ignorancia_campo": 0.4997,
+      "importancia_esperada": 0.5003,
+      "curiosidad_campo": 0.4997,
+      "curiosidad_nueva": 0.25,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 1,
+      "pruebas_del_dia": 1
+     },
+     "camuflaje": {
+      "ignorancia": 0.4981,
+      "ignorancia_campo": 0.4981,
+      "importancia_esperada": 0.5019,
+      "curiosidad_campo": 0.4981,
+      "curiosidad_nueva": 0.25,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 1,
+      "pruebas_del_dia": 1
+     }
+    },
+    "5": {
+     "botiquin": {
+      "ignorancia": 0.1634,
+      "ignorancia_campo": 0.1636,
+      "importancia_esperada": 0.5178,
+      "curiosidad_campo": 0.1636,
+      "curiosidad_nueva": 0.0846,
+      "creencia_campo": 11.6418,
+      "creencia_descontada": 11.6571,
+      "recuerdos": 5,
+      "pruebas_del_dia": 3
+     },
+     "racion": {
+      "ignorancia": 0.1095,
+      "ignorancia_campo": 0.113,
+      "importancia_esperada": 0.5646,
+      "curiosidad_campo": 0.113,
+      "curiosidad_nueva": 0.0618,
+      "creencia_campo": 5.6241,
+      "creencia_descontada": 5.625,
+      "recuerdos": 6,
+      "pruebas_del_dia": 1
+     },
+     "red": {
+      "ignorancia": 0.3389,
+      "ignorancia_campo": 0.3389,
+      "importancia_esperada": 0.3392,
+      "curiosidad_campo": 0.3389,
+      "curiosidad_nueva": 0.115,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 2,
+      "pruebas_del_dia": 1
+     },
+     "camuflaje": {
+      "ignorancia": 0.5109,
+      "ignorancia_campo": 0.5109,
+      "importancia_esperada": 0.5147,
+      "curiosidad_campo": 0.5109,
+      "curiosidad_nueva": 0.2629,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 1,
+      "pruebas_del_dia": 0
+     }
+    },
+    "6": {
+     "botiquin": {
+      "ignorancia": 0.0911,
+      "ignorancia_campo": 0.0897,
+      "importancia_esperada": 0.3974,
+      "curiosidad_campo": 0.0897,
+      "curiosidad_nueva": 0.0362,
+      "creencia_campo": 14.4409,
+      "creencia_descontada": 14.376,
+      "recuerdos": 9,
+      "pruebas_del_dia": 4
+     },
+     "racion": {
+      "ignorancia": 0.1146,
+      "ignorancia_campo": 0.1183,
+      "importancia_esperada": 0.5675,
+      "curiosidad_campo": 0.1183,
+      "curiosidad_nueva": 0.065,
+      "creencia_campo": 5.5516,
+      "creencia_descontada": 5.5525,
+      "recuerdos": 6,
+      "pruebas_del_dia": 0
+     },
+     "red": {
+      "ignorancia": 0.3504,
+      "ignorancia_campo": 0.3504,
+      "importancia_esperada": 0.3508,
+      "curiosidad_campo": 0.3504,
+      "curiosidad_nueva": 0.1229,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 2,
+      "pruebas_del_dia": 0
+     },
+     "camuflaje": {
+      "ignorancia": 0.3437,
+      "ignorancia_campo": 0.3437,
+      "importancia_esperada": 0.3461,
+      "curiosidad_campo": 0.3437,
+      "curiosidad_nueva": 0.119,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 2,
+      "pruebas_del_dia": 1
+     }
+    },
+    "7": {
+     "botiquin": {
+      "ignorancia": 0.0716,
+      "ignorancia_campo": 0.0708,
+      "importancia_esperada": 0.355,
+      "curiosidad_campo": 0.0708,
+      "curiosidad_nueva": 0.0254,
+      "creencia_campo": 14.9639,
+      "creencia_descontada": 14.9207,
+      "recuerdos": 12,
+      "pruebas_del_dia": 3
+     },
+     "racion": {
+      "ignorancia": 0.1038,
+      "ignorancia_campo": 0.1068,
+      "importancia_esperada": 0.528,
+      "curiosidad_campo": 0.1068,
+      "curiosidad_nueva": 0.0548,
+      "creencia_campo": 7.1463,
+      "creencia_descontada": 7.1573,
+      "recuerdos": 7,
+      "pruebas_del_dia": 1
+     },
+     "red": {
+      "ignorancia": 0.3622,
+      "ignorancia_campo": 0.3622,
+      "importancia_esperada": 0.3626,
+      "curiosidad_campo": 0.3622,
+      "curiosidad_nueva": 0.1313,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 2,
+      "pruebas_del_dia": 0
+     },
+     "camuflaje": {
+      "ignorancia": 0.3554,
+      "ignorancia_campo": 0.3554,
+      "importancia_esperada": 0.3577,
+      "curiosidad_campo": 0.3554,
+      "curiosidad_nueva": 0.1271,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 2,
+      "pruebas_del_dia": 0
+     }
+    },
+    "8": {
+     "botiquin": {
+      "ignorancia": 0.0751,
+      "ignorancia_campo": 0.0743,
+      "importancia_esperada": 0.3582,
+      "curiosidad_campo": 0.0743,
+      "curiosidad_nueva": 0.0269,
+      "creencia_campo": 14.8912,
+      "creencia_descontada": 14.8471,
+      "recuerdos": 12,
+      "pruebas_del_dia": 0
+     },
+     "racion": {
+      "ignorancia": 0.0971,
+      "ignorancia_campo": 0.0996,
+      "importancia_esperada": 0.4786,
+      "curiosidad_campo": 0.0996,
+      "curiosidad_nueva": 0.0465,
+      "creencia_campo": 7.0722,
+      "creencia_descontada": 7.0832,
+      "recuerdos": 8,
+      "pruebas_del_dia": 1
+     },
+     "red": {
+      "ignorancia": 0.2451,
+      "ignorancia_campo": 0.2448,
+      "importancia_esperada": 0.386,
+      "curiosidad_campo": 0.2448,
+      "curiosidad_nueva": 0.0946,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 3,
+      "pruebas_del_dia": 1
+     },
+     "camuflaje": {
+      "ignorancia": 0.3672,
+      "ignorancia_campo": 0.3672,
+      "importancia_esperada": 0.3695,
+      "curiosidad_campo": 0.3672,
+      "curiosidad_nueva": 0.1357,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 2,
+      "pruebas_del_dia": 0
+     }
+    },
+    "9": {
+     "botiquin": {
+      "ignorancia": 0.0651,
+      "ignorancia_campo": 0.0645,
+      "importancia_esperada": 0.3557,
+      "curiosidad_campo": 0.0645,
+      "curiosidad_nueva": 0.0232,
+      "creencia_campo": 20.1772,
+      "creencia_descontada": 20.2006,
+      "recuerdos": 14,
+      "pruebas_del_dia": 2
+     },
+     "racion": {
+      "ignorancia": 0.1017,
+      "ignorancia_campo": 0.1043,
+      "importancia_esperada": 0.4816,
+      "curiosidad_campo": 0.1043,
+      "curiosidad_nueva": 0.049,
+      "creencia_campo": 6.9958,
+      "creencia_descontada": 7.0069,
+      "recuerdos": 8,
+      "pruebas_del_dia": 0
+     },
+     "red": {
+      "ignorancia": 0.2547,
+      "ignorancia_campo": 0.2544,
+      "importancia_esperada": 0.3938,
+      "curiosidad_campo": 0.2544,
+      "curiosidad_nueva": 0.1003,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 3,
+      "pruebas_del_dia": 0
+     },
+     "camuflaje": {
+      "ignorancia": 0.3792,
+      "ignorancia_campo": 0.3792,
+      "importancia_esperada": 0.3815,
+      "curiosidad_campo": 0.3792,
+      "curiosidad_nueva": 0.1447,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 2,
+      "pruebas_del_dia": 0
+     }
+    },
+    "10": {
+     "botiquin": {
+      "ignorancia": 0.0573,
+      "ignorancia_campo": 0.0569,
+      "importancia_esperada": 0.3681,
+      "curiosidad_campo": 0.0569,
+      "curiosidad_nueva": 0.0211,
+      "creencia_campo": 22.7562,
+      "creencia_descontada": 22.804,
+      "recuerdos": 16,
+      "pruebas_del_dia": 2
+     },
+     "racion": {
+      "ignorancia": 0.0785,
+      "ignorancia_campo": 0.08,
+      "importancia_esperada": 0.3817,
+      "curiosidad_campo": 0.08,
+      "curiosidad_nueva": 0.03,
+      "creencia_campo": 6.8165,
+      "creencia_descontada": 6.823,
+      "recuerdos": 11,
+      "pruebas_del_dia": 3
+     },
+     "red": {
+      "ignorancia": 0.2091,
+      "ignorancia_campo": 0.209,
+      "importancia_esperada": 0.3179,
+      "curiosidad_campo": 0.209,
+      "curiosidad_nueva": 0.0665,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 4,
+      "pruebas_del_dia": 1
+     },
+     "camuflaje": {
+      "ignorancia": 0.2811,
+      "ignorancia_campo": 0.2809,
+      "importancia_esperada": 0.2832,
+      "curiosidad_campo": 0.2809,
+      "curiosidad_nueva": 0.0796,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 3,
+      "pruebas_del_dia": 1
+     }
+    },
+    "11": {
+     "botiquin": {
+      "ignorancia": 0.0444,
+      "ignorancia_campo": 0.0441,
+      "importancia_esperada": 0.3492,
+      "curiosidad_campo": 0.0441,
+      "curiosidad_nueva": 0.0155,
+      "creencia_campo": 23.0724,
+      "creencia_descontada": 23.1147,
+      "recuerdos": 21,
+      "pruebas_del_dia": 5
+     },
+     "racion": {
+      "ignorancia": 0.0823,
+      "ignorancia_campo": 0.0839,
+      "importancia_esperada": 0.3845,
+      "curiosidad_campo": 0.0839,
+      "curiosidad_nueva": 0.0317,
+      "creencia_campo": 6.7707,
+      "creencia_descontada": 6.7772,
+      "recuerdos": 11,
+      "pruebas_del_dia": 0
+     },
+     "red": {
+      "ignorancia": 0.1699,
+      "ignorancia_campo": 0.1697,
+      "importancia_esperada": 0.3186,
+      "curiosidad_campo": 0.1697,
+      "curiosidad_nueva": 0.0541,
+      "creencia_campo": 4.7909,
+      "creencia_descontada": 4.7946,
+      "recuerdos": 5,
+      "pruebas_del_dia": 1
+     },
+     "camuflaje": {
+      "ignorancia": 0.2916,
+      "ignorancia_campo": 0.2914,
+      "importancia_esperada": 0.2937,
+      "curiosidad_campo": 0.2914,
+      "curiosidad_nueva": 0.0856,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 3,
+      "pruebas_del_dia": 0
+     }
+    },
+    "12": {
+     "botiquin": {
+      "ignorancia": 0.0402,
+      "ignorancia_campo": 0.0401,
+      "importancia_esperada": 0.349,
+      "curiosidad_campo": 0.0401,
+      "curiosidad_nueva": 0.014,
+      "creencia_campo": 23.1608,
+      "creencia_descontada": 23.2001,
+      "recuerdos": 24,
+      "pruebas_del_dia": 3
+     },
+     "racion": {
+      "ignorancia": 0.0784,
+      "ignorancia_campo": 0.0797,
+      "importancia_esperada": 0.3656,
+      "curiosidad_campo": 0.0797,
+      "curiosidad_nueva": 0.0287,
+      "creencia_campo": 10.1164,
+      "creencia_descontada": 10.1197,
+      "recuerdos": 12,
+      "pruebas_del_dia": 1
+     },
+     "red": {
+      "ignorancia": 0.1772,
+      "ignorancia_campo": 0.1771,
+      "importancia_esperada": 0.3247,
+      "curiosidad_campo": 0.1771,
+      "curiosidad_nueva": 0.0575,
+      "creencia_campo": 4.7485,
+      "creencia_descontada": 4.7521,
+      "recuerdos": 5,
+      "pruebas_del_dia": 0
+     },
+     "camuflaje": {
+      "ignorancia": 0.2271,
+      "ignorancia_campo": 0.227,
+      "importancia_esperada": 0.2525,
+      "curiosidad_campo": 0.227,
+      "curiosidad_nueva": 0.0573,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 4,
+      "pruebas_del_dia": 1
+     }
+    },
+    "13": {
+     "botiquin": {
+      "ignorancia": 0.0353,
+      "ignorancia_campo": 0.0352,
+      "importancia_esperada": 0.332,
+      "curiosidad_campo": 0.0352,
+      "curiosidad_nueva": 0.0117,
+      "creencia_campo": 23.335,
+      "creencia_descontada": 23.3698,
+      "recuerdos": 28,
+      "pruebas_del_dia": 4
+     },
+     "racion": {
+      "ignorancia": 0.0501,
+      "ignorancia_campo": 0.0508,
+      "importancia_esperada": 0.2653,
+      "curiosidad_campo": 0.0508,
+      "curiosidad_nueva": 0.0133,
+      "creencia_campo": 12.9747,
+      "creencia_descontada": 12.9748,
+      "recuerdos": 19,
+      "pruebas_del_dia": 7
+     },
+     "red": {
+      "ignorancia": 0.1848,
+      "ignorancia_campo": 0.1847,
+      "importancia_esperada": 0.3309,
+      "curiosidad_campo": 0.1847,
+      "curiosidad_nueva": 0.0612,
+      "creencia_campo": 4.7047,
+      "creencia_descontada": 4.7082,
+      "recuerdos": 5,
+      "pruebas_del_dia": 0
+     },
+     "camuflaje": {
+      "ignorancia": 0.2362,
+      "ignorancia_campo": 0.2361,
+      "importancia_esperada": 0.2613,
+      "curiosidad_campo": 0.2361,
+      "curiosidad_nueva": 0.0617,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 4,
+      "pruebas_del_dia": 0
+     }
+    },
+    "14": {
+     "botiquin": {
+      "ignorancia": 0.0333,
+      "ignorancia_campo": 0.033,
+      "importancia_esperada": 0.3617,
+      "curiosidad_campo": 0.033,
+      "curiosidad_nueva": 0.012,
+      "creencia_campo": 24.8364,
+      "creencia_descontada": 24.8237,
+      "recuerdos": 30,
+      "pruebas_del_dia": 2
+     },
+     "racion": {
+      "ignorancia": 0.0526,
+      "ignorancia_campo": 0.0533,
+      "importancia_esperada": 0.2673,
+      "curiosidad_campo": 0.0533,
+      "curiosidad_nueva": 0.0141,
+      "creencia_campo": 12.9037,
+      "creencia_descontada": 12.9038,
+      "recuerdos": 19,
+      "pruebas_del_dia": 0
+     },
+     "red": {
+      "ignorancia": 0.1927,
+      "ignorancia_campo": 0.1925,
+      "importancia_esperada": 0.3374,
+      "curiosidad_campo": 0.1925,
+      "curiosidad_nueva": 0.065,
+      "creencia_campo": 4.6594,
+      "creencia_descontada": 4.6628,
+      "recuerdos": 5,
+      "pruebas_del_dia": 0
+     },
+     "camuflaje": {
+      "ignorancia": 0.2456,
+      "ignorancia_campo": 0.2455,
+      "importancia_esperada": 0.2704,
+      "curiosidad_campo": 0.2455,
+      "curiosidad_nueva": 0.0664,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 4,
+      "pruebas_del_dia": 0
+     }
+    },
+    "15": {
+     "botiquin": {
+      "ignorancia": 0.0303,
+      "ignorancia_campo": 0.0301,
+      "importancia_esperada": 0.3634,
+      "curiosidad_campo": 0.0301,
+      "curiosidad_nueva": 0.011,
+      "creencia_campo": 24.7653,
+      "creencia_descontada": 24.752,
+      "recuerdos": 33,
+      "pruebas_del_dia": 3
+     },
+     "racion": {
+      "ignorancia": 0.0552,
+      "ignorancia_campo": 0.056,
+      "importancia_esperada": 0.2694,
+      "curiosidad_campo": 0.056,
+      "curiosidad_nueva": 0.0149,
+      "creencia_campo": 12.8298,
+      "creencia_descontada": 12.8299,
+      "recuerdos": 19,
+      "pruebas_del_dia": 0
+     },
+     "red": {
+      "ignorancia": 0.2008,
+      "ignorancia_campo": 0.2006,
+      "importancia_esperada": 0.344,
+      "curiosidad_campo": 0.2006,
+      "curiosidad_nueva": 0.0691,
+      "creencia_campo": 4.6126,
+      "creencia_descontada": 4.616,
+      "recuerdos": 5,
+      "pruebas_del_dia": 0
+     },
+     "camuflaje": {
+      "ignorancia": 0.2552,
+      "ignorancia_campo": 0.2551,
+      "importancia_esperada": 0.2797,
+      "curiosidad_campo": 0.2551,
+      "curiosidad_nueva": 0.0714,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 4,
+      "pruebas_del_dia": 0
+     }
+    },
+    "16": {
+     "botiquin": {
+      "ignorancia": 0.0294,
+      "ignorancia_campo": 0.0292,
+      "importancia_esperada": 0.3584,
+      "curiosidad_campo": 0.0292,
+      "curiosidad_nueva": 0.0105,
+      "creencia_campo": 23.9175,
+      "creencia_descontada": 23.8979,
+      "recuerdos": 35,
+      "pruebas_del_dia": 2
+     },
+     "racion": {
+      "ignorancia": 0.058,
+      "ignorancia_campo": 0.0588,
+      "importancia_esperada": 0.2716,
+      "curiosidad_campo": 0.0588,
+      "curiosidad_nueva": 0.0157,
+      "creencia_campo": 12.7529,
+      "creencia_descontada": 12.753,
+      "recuerdos": 19,
+      "pruebas_del_dia": 0
+     },
+     "red": {
+      "ignorancia": 0.2091,
+      "ignorancia_campo": 0.209,
+      "importancia_esperada": 0.3509,
+      "curiosidad_campo": 0.209,
+      "curiosidad_nueva": 0.0734,
+      "creencia_campo": 4.5644,
+      "creencia_descontada": 4.5677,
+      "recuerdos": 5,
+      "pruebas_del_dia": 0
+     },
+     "camuflaje": {
+      "ignorancia": 0.2094,
+      "ignorancia_campo": 0.2093,
+      "importancia_esperada": 0.2293,
+      "curiosidad_campo": 0.2093,
+      "curiosidad_nueva": 0.048,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 5,
+      "pruebas_del_dia": 1
+     }
+    },
+    "17": {
+     "botiquin": {
+      "ignorancia": 0.0309,
+      "ignorancia_campo": 0.0307,
+      "importancia_esperada": 0.3601,
+      "curiosidad_campo": 0.0307,
+      "curiosidad_nueva": 0.0111,
+      "creencia_campo": 23.8476,
+      "creencia_descontada": 23.8274,
+      "recuerdos": 35,
+      "pruebas_del_dia": 0
+     },
+     "racion": {
+      "ignorancia": 0.057,
+      "ignorancia_campo": 0.0577,
+      "importancia_esperada": 0.2625,
+      "curiosidad_campo": 0.0577,
+      "curiosidad_nueva": 0.015,
+      "creencia_campo": 12.9549,
+      "creencia_descontada": 12.955,
+      "recuerdos": 20,
+      "pruebas_del_dia": 1
+     },
+     "red": {
+      "ignorancia": 0.2177,
+      "ignorancia_campo": 0.2176,
+      "importancia_esperada": 0.3579,
+      "curiosidad_campo": 0.2176,
+      "curiosidad_nueva": 0.0779,
+      "creencia_campo": 4.5148,
+      "creencia_descontada": 4.518,
+      "recuerdos": 5,
+      "pruebas_del_dia": 0
+     },
+     "camuflaje": {
+      "ignorancia": 0.218,
+      "ignorancia_campo": 0.2179,
+      "importancia_esperada": 0.2377,
+      "curiosidad_campo": 0.2179,
+      "curiosidad_nueva": 0.0518,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 5,
+      "pruebas_del_dia": 0
+     }
+    },
+    "18": {
+     "botiquin": {
+      "ignorancia": 0.0325,
+      "ignorancia_campo": 0.0323,
+      "importancia_esperada": 0.3618,
+      "curiosidad_campo": 0.0323,
+      "curiosidad_nueva": 0.0117,
+      "creencia_campo": 23.7743,
+      "creencia_descontada": 23.7536,
+      "recuerdos": 35,
+      "pruebas_del_dia": 0
+     },
+     "racion": {
+      "ignorancia": 0.05,
+      "ignorancia_campo": 0.0505,
+      "importancia_esperada": 0.236,
+      "curiosidad_campo": 0.0505,
+      "curiosidad_nueva": 0.0118,
+      "creencia_campo": 13.3259,
+      "creencia_descontada": 13.326,
+      "recuerdos": 23,
+      "pruebas_del_dia": 3
+     },
+     "red": {
+      "ignorancia": 0.1756,
+      "ignorancia_campo": 0.1756,
+      "importancia_esperada": 0.3465,
+      "curiosidad_campo": 0.1756,
+      "curiosidad_nueva": 0.0608,
+      "creencia_campo": 3.4602,
+      "creencia_descontada": 3.4612,
+      "recuerdos": 6,
+      "pruebas_del_dia": 1
+     },
+     "camuflaje": {
+      "ignorancia": 0.1823,
+      "ignorancia_campo": 0.1822,
+      "importancia_esperada": 0.2133,
+      "curiosidad_campo": 0.1822,
+      "curiosidad_nueva": 0.0389,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 6,
+      "pruebas_del_dia": 1
+     }
+    },
+    "19": {
+     "botiquin": {
+      "ignorancia": 0.0341,
+      "ignorancia_campo": 0.0339,
+      "importancia_esperada": 0.3636,
+      "curiosidad_campo": 0.0339,
+      "curiosidad_nueva": 0.0124,
+      "creencia_campo": 23.6977,
+      "creencia_descontada": 23.6764,
+      "recuerdos": 35,
+      "pruebas_del_dia": 0
+     },
+     "racion": {
+      "ignorancia": 0.0467,
+      "ignorancia_campo": 0.0471,
+      "importancia_esperada": 0.2331,
+      "curiosidad_campo": 0.0471,
+      "curiosidad_nueva": 0.0109,
+      "creencia_campo": 13.6064,
+      "creencia_descontada": 13.604,
+      "recuerdos": 25,
+      "pruebas_del_dia": 2
+     },
+     "red": {
+      "ignorancia": 0.1831,
+      "ignorancia_campo": 0.1831,
+      "importancia_esperada": 0.3525,
+      "curiosidad_campo": 0.1831,
+      "curiosidad_nueva": 0.0646,
+      "creencia_campo": 3.4285,
+      "creencia_descontada": 3.4295,
+      "recuerdos": 6,
+      "pruebas_del_dia": 0
+     },
+     "camuflaje": {
+      "ignorancia": 0.1526,
+      "ignorancia_campo": 0.1526,
+      "importancia_esperada": 0.2345,
+      "curiosidad_campo": 0.1526,
+      "curiosidad_nueva": 0.0358,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 7,
+      "pruebas_del_dia": 1
+     }
+    },
+    "20": {
+     "botiquin": {
+      "ignorancia": 0.0358,
+      "ignorancia_campo": 0.0356,
+      "importancia_esperada": 0.3656,
+      "curiosidad_campo": 0.0356,
+      "curiosidad_nueva": 0.0131,
+      "creencia_campo": 23.6176,
+      "creencia_descontada": 23.5957,
+      "recuerdos": 35,
+      "pruebas_del_dia": 0
+     },
+     "racion": {
+      "ignorancia": 0.0423,
+      "ignorancia_campo": 0.0426,
+      "importancia_esperada": 0.2142,
+      "curiosidad_campo": 0.0426,
+      "curiosidad_nueva": 0.0091,
+      "creencia_campo": 13.7825,
+      "creencia_descontada": 13.7808,
+      "recuerdos": 28,
+      "pruebas_del_dia": 3
+     },
+     "red": {
+      "ignorancia": 0.1909,
+      "ignorancia_campo": 0.1909,
+      "importancia_esperada": 0.3587,
+      "curiosidad_campo": 0.1909,
+      "curiosidad_nueva": 0.0685,
+      "creencia_campo": 3.3958,
+      "creencia_descontada": 3.3968,
+      "recuerdos": 6,
+      "pruebas_del_dia": 0
+     },
+     "camuflaje": {
+      "ignorancia": 0.1594,
+      "ignorancia_campo": 0.1594,
+      "importancia_esperada": 0.2406,
+      "curiosidad_campo": 0.1594,
+      "curiosidad_nueva": 0.0383,
+      "creencia_campo": 0.0,
+      "creencia_descontada": 0.0,
+      "recuerdos": 7,
+      "pruebas_del_dia": 0
+     }
+    }
+   },
+   "manda": {
+    "campo": [
+     [
+      1,
+      "racion"
+     ],
+     [
+      2,
+      "racion"
+     ],
+     [
+      3,
+      "racion"
+     ],
+     [
+      4,
+      "red"
+     ],
+     [
+      5,
+      "camuflaje"
+     ],
+     [
+      6,
+      "red"
+     ],
+     [
+      7,
+      "red"
+     ],
+     [
+      8,
+      "camuflaje"
+     ],
+     [
+      9,
+      "camuflaje"
+     ],
+     [
+      10,
+      "camuflaje"
+     ],
+     [
+      11,
+      "camuflaje"
+     ],
+     [
+      12,
+      "camuflaje"
+     ],
+     [
+      13,
+      "camuflaje"
+     ],
+     [
+      14,
+      "camuflaje"
+     ],
+     [
+      15,
+      "camuflaje"
+     ],
+     [
+      16,
+      "camuflaje"
+     ],
+     [
+      17,
+      "camuflaje"
+     ],
+     [
+      18,
+      "camuflaje"
+     ],
+     [
+      19,
+      "red"
+     ],
+     [
+      20,
+      "red"
+     ]
+    ],
+    "nueva": [
+     [
+      1,
+      "racion"
+     ],
+     [
+      2,
+      "racion"
+     ],
+     [
+      3,
+      "racion"
+     ],
+     [
+      4,
+      "botiquin"
+     ],
+     [
+      5,
+      "camuflaje"
+     ],
+     [
+      6,
+      "red"
+     ],
+     [
+      7,
+      "red"
+     ],
+     [
+      8,
+      "camuflaje"
+     ],
+     [
+      9,
+      "camuflaje"
+     ],
+     [
+      10,
+      "camuflaje"
+     ],
+     [
+      11,
+      "camuflaje"
+     ],
+     [
+      12,
+      "red"
+     ],
+     [
+      13,
+      "camuflaje"
+     ],
+     [
+      14,
+      "camuflaje"
+     ],
+     [
+      15,
+      "camuflaje"
+     ],
+     [
+      16,
+      "red"
+     ],
+     [
+      17,
+      "red"
+     ],
+     [
+      18,
+      "red"
+     ],
+     [
+      19,
+      "red"
+     ],
+     [
+      20,
+      "red"
+     ]
+    ]
+   },
+   "despierta": {
+    "red": [
+     {
+      "prueba_dia": 4,
+      "vuelve_a_mandar_dia": 5,
+      "curiosidad_entonces": 0.115,
+      "curiosidad_util_entonces": 0.0846,
+      "curiosidad_el_dia_de_la_prueba": 0.25
+     },
+     {
+      "prueba_dia": 5,
+      "vuelve_a_mandar_dia": 6,
+      "curiosidad_entonces": 0.1229,
+      "curiosidad_util_entonces": 0.065,
+      "curiosidad_el_dia_de_la_prueba": 0.115
+     },
+     {
+      "prueba_dia": 8,
+      "vuelve_a_mandar_dia": 9,
+      "curiosidad_entonces": 0.1003,
+      "curiosidad_util_entonces": 0.049,
+      "curiosidad_el_dia_de_la_prueba": 0.0946
+     },
+     {
+      "prueba_dia": 10,
+      "vuelve_a_mandar_dia": 11,
+      "curiosidad_entonces": 0.0541,
+      "curiosidad_util_entonces": 0.0317,
+      "curiosidad_el_dia_de_la_prueba": 0.0665
+     },
+     {
+      "prueba_dia": 11,
+      "vuelve_a_mandar_dia": 12,
+      "curiosidad_entonces": 0.0575,
+      "curiosidad_util_entonces": 0.0287,
+      "curiosidad_el_dia_de_la_prueba": 0.0541
+     },
+     {
+      "prueba_dia": 18,
+      "vuelve_a_mandar_dia": 19,
+      "curiosidad_entonces": 0.0646,
+      "curiosidad_util_entonces": 0.0124,
+      "curiosidad_el_dia_de_la_prueba": 0.0608
+     }
+    ],
+    "camuflaje": [
+     {
+      "prueba_dia": 4,
+      "vuelve_a_mandar_dia": 5,
+      "curiosidad_entonces": 0.2629,
+      "curiosidad_util_entonces": 0.0846,
+      "curiosidad_el_dia_de_la_prueba": 0.25
+     },
+     {
+      "prueba_dia": 6,
+      "vuelve_a_mandar_dia": 7,
+      "curiosidad_entonces": 0.1271,
+      "curiosidad_util_entonces": 0.0548,
+      "curiosidad_el_dia_de_la_prueba": 0.119
+     },
+     {
+      "prueba_dia": 10,
+      "vuelve_a_mandar_dia": 11,
+      "curiosidad_entonces": 0.0856,
+      "curiosidad_util_entonces": 0.0317,
+      "curiosidad_el_dia_de_la_prueba": 0.0796
+     },
+     {
+      "prueba_dia": 12,
+      "vuelve_a_mandar_dia": 13,
+      "curiosidad_entonces": 0.0617,
+      "curiosidad_util_entonces": 0.0133,
+      "curiosidad_el_dia_de_la_prueba": 0.0573
+     },
+     {
+      "prueba_dia": 16,
+      "vuelve_a_mandar_dia": 17,
+      "curiosidad_entonces": 0.0518,
+      "curiosidad_util_entonces": 0.015,
+      "curiosidad_el_dia_de_la_prueba": 0.048
+     },
+     {
+      "prueba_dia": 18,
+      "vuelve_a_mandar_dia": 19,
+      "curiosidad_entonces": 0.0358,
+      "curiosidad_util_entonces": 0.0124,
+      "curiosidad_el_dia_de_la_prueba": 0.0389
+     },
+     {
+      "prueba_dia": 19,
+      "vuelve_a_mandar_dia": 20,
+      "curiosidad_entonces": 0.0383,
+      "curiosidad_util_entonces": 0.0131,
+      "curiosidad_el_dia_de_la_prueba": 0.0358
+     }
+    ]
+   }
+  }
+ },
+ "importancia": {
+  "botiquin": {
+   "recuerdos": 67,
+   "descontados": 0,
+   "original_mediana": 0.2625,
+   "descontada_mediana": 0.2625,
+   "original_cuartiles": [
+    0.1333,
+    0.4223
+   ],
+   "descontada_cuartiles": [
+    0.1333,
+    0.4223
+   ]
+  },
+  "racion": {
+   "recuerdos": 121,
+   "descontados": 43,
+   "original_mediana": 0.0967,
+   "descontada_mediana": 0.1053,
+   "original_cuartiles": [
+    0.0538,
+    0.159
+   ],
+   "descontada_cuartiles": [
+    0.0648,
+    0.1673
+   ]
+  },
+  "red": {
+   "recuerdos": 31,
+   "descontados": 0,
+   "original_mediana": 0.0839,
+   "descontada_mediana": 0.0839,
+   "original_cuartiles": [
+    0.0023,
+    0.3001
+   ],
+   "descontada_cuartiles": [
+    0.0023,
+    0.3001
+   ]
+  },
+  "camuflaje": {
+   "recuerdos": 32,
+   "descontados": 0,
+   "original_mediana": 0.0991,
+   "descontada_mediana": 0.0991,
+   "original_cuartiles": [
+    0.0143,
+    0.2885
+   ],
+   "descontada_cuartiles": [
+    0.0143,
+    0.2885
+   ]
+  }
+ },
+ "manda_lo_inutil": {
+  "campo": {
+   "cierres": 80,
+   "lo_inutil_manda": 77
+  },
+  "nueva": {
+   "cierres": 80,
+   "lo_inutil_manda": 76
+  }
+ }
+}

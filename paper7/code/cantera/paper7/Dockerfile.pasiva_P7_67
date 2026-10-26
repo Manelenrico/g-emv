@@ -1,0 +1,8 @@
+# [P7-67] LA POLITICA PASIVA (decision 1 de la mesa): se conecta y se queda quieta. Sin motor ni cuerpo: solo websockets.
+#   docker build --platform linux/amd64 -f cantera/paper7/Dockerfile.pasiva_P7_67 -t gemv-anima:P7_67_pasiva .
+FROM python:3.12-slim
+RUN pip install --no-cache-dir websockets==16.0
+WORKDIR /app
+COPY cantera/paper7/pasiva_P7_67.py /app/pasiva_P7_67.py
+RUN python -c "import ast; ast.parse(open('/app/pasiva_P7_67.py').read()); print('pasiva OK')"
+CMD ["python", "-u", "/app/pasiva_P7_67.py"]

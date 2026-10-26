@@ -1,0 +1,16 @@
+{
+ "pasan": [
+  "1a en el tramo (tic0 + 100), destino a 12 de ella y a 10 de su hermana -> empuja",
+  "1b fuera del tramo (tic0 + 300) -> no empuja",
+  "1c destino a 7 de ella -> no",
+  "1d destino a 16 de ella -> no",
+  "1e su hermana a 6 del destino -> no",
+  "1f sin saber donde esta su hermana -> decide por ella sola",
+  "1g ya llego a ese destino hoy -> no vuelve a empujar",
+  "2a rival a 4 -> sigue (la interrupcion es a <= 3)",
+  "2b rival a 3 -> interrumpida",
+  "2c llega sin botiquin -> falla en el acto",
+  "3a tras llegar, el destino queda apuntado para no volver a empujar ese dia"
+ ],
+ "fallan": []
+}

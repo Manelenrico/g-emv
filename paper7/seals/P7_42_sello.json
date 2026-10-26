@@ -1,0 +1,1134 @@
+{
+ "vidas": 726,
+ "partidas_con_corte": [],
+ "partidas_marcadas": [
+  [
+   1,
+   4,
+   "APRENDE_p"
+  ],
+  [
+   1,
+   4,
+   "BORRADO_p"
+  ],
+  [
+   1,
+   5,
+   "BORRADO_p"
+  ],
+  [
+   1,
+   8,
+   "APRENDE_v"
+  ],
+  [
+   1,
+   10,
+   "BORRADO_p"
+  ],
+  [
+   1,
+   11,
+   "BORRADO_p"
+  ],
+  [
+   1,
+   17,
+   "BORRADO_v"
+  ],
+  [
+   1,
+   19,
+   "APRENDE_p"
+  ],
+  [
+   2,
+   18,
+   "APRENDE_p"
+  ],
+  [
+   2,
+   18,
+   "BORRADO_p"
+  ],
+  [
+   3,
+   2,
+   "APRENDE_v"
+  ],
+  [
+   3,
+   11,
+   "APRENDE_p"
+  ],
+  [
+   3,
+   11,
+   "BORRADO_p"
+  ],
+  [
+   3,
+   15,
+   "APRENDE_p"
+  ],
+  [
+   3,
+   17,
+   "APRENDE_p"
+  ],
+  [
+   3,
+   18,
+   "APRENDE_p"
+  ]
+ ],
+ "con_todas": {
+  "medidas": {
+   "TECHO": {
+    "vidas": 120,
+    "en_puesto": 120,
+    "puesto": 4.816666666666666,
+    "puesto_ee": 0.32105902607769343,
+    "rapidez_botiquin": [
+     21,
+     21,
+     21,
+     21,
+     21,
+     21
+    ],
+    "rapidez_botiquin_media": 21,
+    "rapidez_botiquin_ee": 0.0,
+    "rapidez_racion": [
+     21,
+     21,
+     21,
+     21,
+     21,
+     21
+    ],
+    "rapidez_racion_media": 21,
+    "rapidez_racion_ee": 0.0,
+    "sabiduria_segundos_media": 273.50666666666666,
+    "sabiduria_segundos_ee": 34.568080772386715,
+    "sabiduria_vida_media": 65.76666666666667,
+    "sabiduria_vida_ee": 8.380140859712634,
+    "sabiduria_tics": {
+     "tics_ventana": 0,
+     "tics_llevando": 393811,
+     "tics_yendo": 51
+    },
+    "usos_botiquin": 0,
+    "usos_botiquin_hp_menor_50": 0,
+    "cuando_botiquin": null,
+    "cuando_botiquin_ee": null,
+    "usos_racion": 0,
+    "usos_racion_hp_menor_100": 0,
+    "cuando_racion": null,
+    "pruebas_total": 0,
+    "pruebas_por_dia": {
+     "1": 0,
+     "2": 0,
+     "3": 0,
+     "4": 0,
+     "5": 0,
+     "6": 0,
+     "7": 0,
+     "8": 0,
+     "9": 0,
+     "10": 0,
+     "11": 0,
+     "12": 0,
+     "13": 0,
+     "14": 0,
+     "15": 0,
+     "16": 0,
+     "17": 0,
+     "18": 0,
+     "19": 0,
+     "20": 0
+    },
+    "pruebas_por_cosa": {
+     "botiquin": 0,
+     "racion": 0,
+     "red": 0,
+     "camuflaje": 0
+    },
+    "forzadas": 0,
+    "mueren": 92,
+    "marcadas": 0,
+    "ms_mediana": 1.59775
+   },
+   "BORRADO_v": {
+    "vidas": 120,
+    "en_puesto": 120,
+    "puesto": 4.275,
+    "puesto_ee": 0.33660075761651403,
+    "rapidez_botiquin": [
+     2,
+     12,
+     11,
+     5,
+     9,
+     7
+    ],
+    "rapidez_botiquin_media": 7.666666666666667,
+    "rapidez_botiquin_ee": 1.5420044674960505,
+    "rapidez_racion": [
+     1,
+     7,
+     1,
+     3,
+     4,
+     4
+    ],
+    "rapidez_racion_media": 3.3333333333333335,
+    "rapidez_racion_ee": 0.9189365834726816,
+    "sabiduria_segundos_media": 340.90166666666664,
+    "sabiduria_segundos_ee": 36.54822790820035,
+    "sabiduria_vida_media": 68.2,
+    "sabiduria_vida_ee": 7.7428954131210554,
+    "sabiduria_tics": {
+     "tics_ventana": 10144,
+     "tics_llevando": 490678,
+     "tics_yendo": 408
+    },
+    "usos_botiquin": 202,
+    "usos_botiquin_hp_menor_50": 38,
+    "cuando_botiquin": 0.18811881188118812,
+    "cuando_botiquin_ee": 0.027497085758960624,
+    "usos_racion": 115,
+    "usos_racion_hp_menor_100": 115,
+    "cuando_racion": 1.0,
+    "pruebas_total": 408,
+    "pruebas_por_dia": {
+     "1": 2.5,
+     "2": 3,
+     "3": 3.3333333333333335,
+     "4": 2.6666666666666665,
+     "5": 4.5,
+     "6": 3.3333333333333335,
+     "7": 3,
+     "8": 3,
+     "9": 3,
+     "10": 3.8333333333333335,
+     "11": 3.1666666666666665,
+     "12": 3.8333333333333335,
+     "13": 2.6666666666666665,
+     "14": 2.8333333333333335,
+     "15": 3,
+     "16": 6.5,
+     "17": 3.8333333333333335,
+     "18": 2.8333333333333335,
+     "19": 4.5,
+     "20": 2.6666666666666665
+    },
+    "pruebas_por_cosa": {
+     "botiquin": 195,
+     "racion": 111,
+     "red": 51,
+     "camuflaje": 51
+    },
+    "forzadas": 0,
+    "mueren": 63,
+    "marcadas": 1,
+    "ms_mediana": 3.712083333333333
+   },
+   "BORRADO_p": {
+    "vidas": 120,
+    "en_puesto": 120,
+    "puesto": 4.241666666666666,
+    "puesto_ee": 0.3719875892732121,
+    "rapidez_botiquin": [
+     21,
+     21,
+     2,
+     8,
+     9,
+     3
+    ],
+    "rapidez_botiquin_media": 10.666666666666666,
+    "rapidez_botiquin_ee": 3.4512477614786095,
+    "rapidez_racion": [
+     5,
+     9,
+     2,
+     8,
+     1,
+     3
+    ],
+    "rapidez_racion_media": 4.666666666666667,
+    "rapidez_racion_ee": 1.3333333333333335,
+    "sabiduria_segundos_media": 312.8666666666667,
+    "sabiduria_segundos_ee": 37.4139474934591,
+    "sabiduria_vida_media": 61.983333333333334,
+    "sabiduria_vida_ee": 7.949966835970576,
+    "sabiduria_tics": {
+     "tics_ventana": 10306,
+     "tics_llevando": 450294,
+     "tics_yendo": 420
+    },
+    "usos_botiquin": 188,
+    "usos_botiquin_hp_menor_50": 33,
+    "cuando_botiquin": 0.17553191489361702,
+    "cuando_botiquin_ee": 0.027745084071700503,
+    "usos_racion": 144,
+    "usos_racion_hp_menor_100": 144,
+    "cuando_racion": 1.0,
+    "pruebas_total": 422,
+    "pruebas_por_dia": {
+     "1": 3.5,
+     "2": 4.5,
+     "3": 3.8333333333333335,
+     "4": 2.6666666666666665,
+     "5": 3,
+     "6": 2.8333333333333335,
+     "7": 1.5,
+     "8": 4.166666666666667,
+     "9": 5.333333333333333,
+     "10": 2.8333333333333335,
+     "11": 3,
+     "12": 4.833333333333333,
+     "13": 3.3333333333333335,
+     "14": 2.6666666666666665,
+     "15": 3.1666666666666665,
+     "16": 4.5,
+     "17": 2.1666666666666665,
+     "18": 5.166666666666667,
+     "19": 3.6666666666666665,
+     "20": 3.6666666666666665
+    },
+    "pruebas_por_cosa": {
+     "botiquin": 180,
+     "racion": 141,
+     "red": 50,
+     "camuflaje": 51
+    },
+    "forzadas": 0,
+    "mueren": 61,
+    "marcadas": 6,
+    "ms_mediana": 3.7283333333333335
+   },
+   "APRENDE_v": {
+    "vidas": 120,
+    "en_puesto": 120,
+    "puesto": 5.083333333333333,
+    "puesto_ee": 0.39046466130414104,
+    "rapidez_botiquin": [
+     13,
+     10,
+     21,
+     21,
+     21,
+     18
+    ],
+    "rapidez_botiquin_media": 17.333333333333332,
+    "rapidez_botiquin_ee": 1.9436506316151003,
+    "rapidez_racion": [
+     2,
+     3,
+     1,
+     2,
+     4,
+     4
+    ],
+    "rapidez_racion_media": 2.6666666666666665,
+    "rapidez_racion_ee": 0.4944132324730442,
+    "sabiduria_segundos_media": 259.47833333333335,
+    "sabiduria_segundos_ee": 36.27984585423643,
+    "sabiduria_vida_media": 58.416666666666664,
+    "sabiduria_vida_ee": 8.031199461066043,
+    "sabiduria_tics": {
+     "tics_ventana": 9704,
+     "tics_llevando": 373539,
+     "tics_yendo": 226
+    },
+    "usos_botiquin": 202,
+    "usos_botiquin_hp_menor_50": 48,
+    "cuando_botiquin": 0.2376237623762376,
+    "cuando_botiquin_ee": 0.029947041534768397,
+    "usos_racion": 124,
+    "usos_racion_hp_menor_100": 124,
+    "cuando_racion": 1.0,
+    "pruebas_total": 411,
+    "pruebas_por_dia": {
+     "1": 3.1666666666666665,
+     "2": 2.8333333333333335,
+     "3": 4,
+     "4": 2.5,
+     "5": 4.833333333333333,
+     "6": 2.8333333333333335,
+     "7": 3.3333333333333335,
+     "8": 2.6666666666666665,
+     "9": 4.333333333333333,
+     "10": 3.5,
+     "11": 3.1666666666666665,
+     "12": 2.8333333333333335,
+     "13": 5.333333333333333,
+     "14": 4.666666666666667,
+     "15": 2.8333333333333335,
+     "16": 3.6666666666666665,
+     "17": 2,
+     "18": 4.666666666666667,
+     "19": 1.6666666666666667,
+     "20": 3.6666666666666665
+    },
+    "pruebas_por_cosa": {
+     "botiquin": 193,
+     "racion": 122,
+     "red": 45,
+     "camuflaje": 51
+    },
+    "forzadas": 0,
+    "mueren": 78,
+    "marcadas": 2,
+    "ms_mediana": 3.7615
+   },
+   "APRENDE_p": {
+    "vidas": 120,
+    "en_puesto": 120,
+    "puesto": 4.216666666666667,
+    "puesto_ee": 0.2930529281104973,
+    "rapidez_botiquin": [
+     21,
+     21,
+     21,
+     4,
+     6,
+     9
+    ],
+    "rapidez_botiquin_media": 13.666666666666666,
+    "rapidez_botiquin_ee": 3.343318378165289,
+    "rapidez_racion": [
+     2,
+     11,
+     7,
+     2,
+     3,
+     9
+    ],
+    "rapidez_racion_media": 5.666666666666667,
+    "rapidez_racion_ee": 1.584648576533962,
+    "sabiduria_segundos_media": 364.27166666666665,
+    "sabiduria_segundos_ee": 34.06469444010253,
+    "sabiduria_vida_media": 80.3,
+    "sabiduria_vida_ee": 7.898734075787081,
+    "sabiduria_tics": {
+     "tics_ventana": 11962,
+     "tics_llevando": 524336,
+     "tics_yendo": 271
+    },
+    "usos_botiquin": 177,
+    "usos_botiquin_hp_menor_50": 44,
+    "cuando_botiquin": 0.24858757062146894,
+    "cuando_botiquin_ee": 0.03248570223125157,
+    "usos_racion": 184,
+    "usos_racion_hp_menor_100": 183,
+    "cuando_racion": 0.9945652173913043,
+    "pruebas_total": 449,
+    "pruebas_por_dia": {
+     "1": 1.6666666666666667,
+     "2": 3.6666666666666665,
+     "3": 3.6666666666666665,
+     "4": 2.8333333333333335,
+     "5": 5.833333333333333,
+     "6": 4.166666666666667,
+     "7": 2.6666666666666665,
+     "8": 2.8333333333333335,
+     "9": 3.5,
+     "10": 3.6666666666666665,
+     "11": 2.6666666666666665,
+     "12": 4.833333333333333,
+     "13": 3.6666666666666665,
+     "14": 2.6666666666666665,
+     "15": 2.3333333333333335,
+     "16": 4.333333333333333,
+     "17": 2.8333333333333335,
+     "18": 5.833333333333333,
+     "19": 8.833333333333334,
+     "20": 2.3333333333333335
+    },
+    "pruebas_por_cosa": {
+     "botiquin": 170,
+     "racion": 180,
+     "red": 49,
+     "camuflaje": 50
+    },
+    "forzadas": 0,
+    "mueren": 75,
+    "marcadas": 7,
+    "ms_mediana": 4.404916666666667
+   },
+   "SIN": {
+    "vidas": 120,
+    "en_puesto": 120,
+    "puesto": 5.425,
+    "puesto_ee": 0.38741810375206515,
+    "rapidez_botiquin": [
+     21,
+     7,
+     21,
+     21,
+     11,
+     21
+    ],
+    "rapidez_botiquin_media": 17,
+    "rapidez_botiquin_ee": 2.5819888974716116,
+    "rapidez_racion": [
+     11,
+     2,
+     17,
+     2,
+     21,
+     12
+    ],
+    "rapidez_racion_media": 10.833333333333334,
+    "rapidez_racion_ee": 3.156122797216723,
+    "sabiduria_segundos_media": 204.14666666666668,
+    "sabiduria_segundos_ee": 32.89899707113049,
+    "sabiduria_vida_media": 53.68333333333333,
+    "sabiduria_vida_ee": 7.770816463682633,
+    "sabiduria_tics": {
+     "tics_ventana": 7758,
+     "tics_llevando": 293738,
+     "tics_yendo": 237
+    },
+    "usos_botiquin": 62,
+    "usos_botiquin_hp_menor_50": 17,
+    "cuando_botiquin": 0.27419354838709675,
+    "cuando_botiquin_ee": 0.05665564436903705,
+    "usos_racion": 99,
+    "usos_racion_hp_menor_100": 99,
+    "cuando_racion": 1.0,
+    "pruebas_total": 202,
+    "pruebas_por_dia": {
+     "1": 0.3333333333333333,
+     "2": 0.8333333333333334,
+     "3": 0.8333333333333334,
+     "4": 0.3333333333333333,
+     "5": 1.3333333333333333,
+     "6": 1.6666666666666667,
+     "7": 1.1666666666666667,
+     "8": 2.5,
+     "9": 0.8333333333333334,
+     "10": 1.3333333333333333,
+     "11": 2.1666666666666665,
+     "12": 1.3333333333333333,
+     "13": 1.8333333333333333,
+     "14": 2,
+     "15": 2.5,
+     "16": 2.3333333333333335,
+     "17": 1.1666666666666667,
+     "18": 4,
+     "19": 2.1666666666666665,
+     "20": 3
+    },
+    "pruebas_por_cosa": {
+     "botiquin": 58,
+     "racion": 93,
+     "red": 31,
+     "camuflaje": 20
+    },
+    "forzadas": 349,
+    "mueren": 82,
+    "marcadas": 0,
+    "ms_mediana": 2.33075
+   }
+  },
+  "R1": {
+   "APRENDE_p": {
+    "dif": -3.333,
+    "ee": 4.224,
+    "tres_veces": false,
+    "cumple": true
+   },
+   "APRENDE_v": {
+    "dif": 0.333,
+    "ee": 3.232,
+    "tres_veces": false,
+    "cumple": false
+   },
+   "pasa": false
+  },
+  "C1": {
+   "APRENDE_p": {
+    "dif": -0.026,
+    "ee": 0.065,
+    "tres_veces": false,
+    "cumple": false
+   },
+   "APRENDE_v": {
+    "dif": -0.037,
+    "ee": 0.064,
+    "tres_veces": false,
+    "cumple": false
+   },
+   "pasa": false
+  },
+  "S1": {
+   "TECHO": {
+    "segundos": 273.50666666666666,
+    "vida": 65.76666666666667
+   },
+   "BORRADO_v": {
+    "segundos": 340.90166666666664,
+    "vida": 68.2
+   },
+   "BORRADO_p": {
+    "segundos": 312.8666666666667,
+    "vida": 61.983333333333334
+   },
+   "APRENDE_v": {
+    "segundos": 259.47833333333335,
+    "vida": 58.416666666666664
+   },
+   "APRENDE_p": {
+    "segundos": 364.27166666666665,
+    "vida": 80.3
+   },
+   "SIN": {
+    "segundos": 204.14666666666668,
+    "vida": 53.68333333333333
+   }
+  },
+  "caracter": {
+   "APRENDE": {
+    "dif": 0.867,
+    "ee": 0.488,
+    "tres_veces": false,
+    "cumple": false
+   },
+   "BORRADO": {
+    "dif": 0.033,
+    "ee": 0.502,
+    "tres_veces": false,
+    "cumple": false
+   }
+  }
+ },
+ "sin_marcadas": {
+  "medidas": {
+   "TECHO": {
+    "vidas": 120,
+    "en_puesto": 120,
+    "puesto": 4.816666666666666,
+    "puesto_ee": 0.32105902607769343,
+    "rapidez_botiquin": [
+     21,
+     21,
+     21,
+     21,
+     21,
+     21
+    ],
+    "rapidez_botiquin_media": 21,
+    "rapidez_botiquin_ee": 0.0,
+    "rapidez_racion": [
+     21,
+     21,
+     21,
+     21,
+     21,
+     21
+    ],
+    "rapidez_racion_media": 21,
+    "rapidez_racion_ee": 0.0,
+    "sabiduria_segundos_media": 273.50666666666666,
+    "sabiduria_segundos_ee": 34.568080772386715,
+    "sabiduria_vida_media": 65.76666666666667,
+    "sabiduria_vida_ee": 8.380140859712634,
+    "sabiduria_tics": {
+     "tics_ventana": 0,
+     "tics_llevando": 393811,
+     "tics_yendo": 51
+    },
+    "usos_botiquin": 0,
+    "usos_botiquin_hp_menor_50": 0,
+    "cuando_botiquin": null,
+    "cuando_botiquin_ee": null,
+    "usos_racion": 0,
+    "usos_racion_hp_menor_100": 0,
+    "cuando_racion": null,
+    "pruebas_total": 0,
+    "pruebas_por_dia": {
+     "1": 0,
+     "2": 0,
+     "3": 0,
+     "4": 0,
+     "5": 0,
+     "6": 0,
+     "7": 0,
+     "8": 0,
+     "9": 0,
+     "10": 0,
+     "11": 0,
+     "12": 0,
+     "13": 0,
+     "14": 0,
+     "15": 0,
+     "16": 0,
+     "17": 0,
+     "18": 0,
+     "19": 0,
+     "20": 0
+    },
+    "pruebas_por_cosa": {
+     "botiquin": 0,
+     "racion": 0,
+     "red": 0,
+     "camuflaje": 0
+    },
+    "forzadas": 0,
+    "mueren": 92,
+    "marcadas": 0,
+    "ms_mediana": 1.59775
+   },
+   "BORRADO_v": {
+    "vidas": 118,
+    "en_puesto": 118,
+    "puesto": 4.194915254237288,
+    "puesto_ee": 0.3340406390989676,
+    "rapidez_botiquin": [
+     2,
+     12,
+     11,
+     5,
+     9,
+     7
+    ],
+    "rapidez_botiquin_media": 7.666666666666667,
+    "rapidez_botiquin_ee": 1.5420044674960505,
+    "rapidez_racion": [
+     1,
+     7,
+     1,
+     3,
+     4,
+     4
+    ],
+    "rapidez_racion_media": 3.3333333333333335,
+    "rapidez_racion_ee": 0.9189365834726816,
+    "sabiduria_segundos_media": 352.6568965517241,
+    "sabiduria_segundos_ee": 36.84549271493523,
+    "sabiduria_vida_media": 70.55172413793103,
+    "sabiduria_vida_ee": 7.8284762746459124,
+    "sabiduria_tics": {
+     "tics_ventana": 10144,
+     "tics_llevando": 490678,
+     "tics_yendo": 408
+    },
+    "usos_botiquin": 188,
+    "usos_botiquin_hp_menor_50": 32,
+    "cuando_botiquin": 0.1702127659574468,
+    "cuando_botiquin_ee": 0.027409462205922323,
+    "usos_racion": 113,
+    "usos_racion_hp_menor_100": 113,
+    "cuando_racion": 1.0,
+    "pruebas_total": 392,
+    "pruebas_por_dia": {
+     "1": 2.5,
+     "2": 3,
+     "3": 3.3333333333333335,
+     "4": 2.6666666666666665,
+     "5": 4.5,
+     "6": 3.3333333333333335,
+     "7": 3,
+     "8": 3,
+     "9": 3,
+     "10": 3.8333333333333335,
+     "11": 3.1666666666666665,
+     "12": 3.8333333333333335,
+     "13": 2.6666666666666665,
+     "14": 2.8333333333333335,
+     "15": 3,
+     "16": 6.5,
+     "17": 1.75,
+     "18": 2.8333333333333335,
+     "19": 4.5,
+     "20": 2.6666666666666665
+    },
+    "pruebas_por_cosa": {
+     "botiquin": 181,
+     "racion": 109,
+     "red": 51,
+     "camuflaje": 51
+    },
+    "forzadas": 0,
+    "mueren": 61,
+    "marcadas": 0,
+    "ms_mediana": 3.686186440677966
+   },
+   "BORRADO_p": {
+    "vidas": 108,
+    "en_puesto": 108,
+    "puesto": 4.444444444444445,
+    "puesto_ee": 0.40448620737671837,
+    "rapidez_botiquin": [
+     21,
+     21,
+     2,
+     8,
+     9,
+     3
+    ],
+    "rapidez_botiquin_media": 10.666666666666666,
+    "rapidez_botiquin_ee": 3.4512477614786095,
+    "rapidez_racion": [
+     7,
+     9,
+     2,
+     8,
+     1,
+     3
+    ],
+    "rapidez_racion_media": 5,
+    "rapidez_racion_ee": 1.3904435743076142,
+    "sabiduria_segundos_media": 315.01851851851853,
+    "sabiduria_segundos_ee": 39.3681178204811,
+    "sabiduria_vida_media": 63.77777777777778,
+    "sabiduria_vida_ee": 8.548446500551602,
+    "sabiduria_tics": {
+     "tics_ventana": 9310,
+     "tics_llevando": 408046,
+     "tics_yendo": 391
+    },
+    "usos_botiquin": 174,
+    "usos_botiquin_hp_menor_50": 32,
+    "cuando_botiquin": 0.1839080459770115,
+    "cuando_botiquin_ee": 0.029369414519300314,
+    "usos_racion": 134,
+    "usos_racion_hp_menor_100": 134,
+    "cuando_racion": 1.0,
+    "pruebas_total": 386,
+    "pruebas_por_dia": {
+     "1": 3.5,
+     "2": 4.5,
+     "3": 3.8333333333333335,
+     "4": 2.25,
+     "5": 2.75,
+     "6": 2.8333333333333335,
+     "7": 1.5,
+     "8": 4.166666666666667,
+     "9": 5.333333333333333,
+     "10": 2.25,
+     "11": 4,
+     "12": 4.833333333333333,
+     "13": 3.3333333333333335,
+     "14": 2.6666666666666665,
+     "15": 3.1666666666666665,
+     "16": 4.5,
+     "17": 2.1666666666666665,
+     "18": 6.75,
+     "19": 3.6666666666666665,
+     "20": 3.6666666666666665
+    },
+    "pruebas_por_cosa": {
+     "botiquin": 166,
+     "racion": 132,
+     "red": 43,
+     "camuflaje": 45
+    },
+    "forzadas": 0,
+    "mueren": 58,
+    "marcadas": 0,
+    "ms_mediana": 3.4383333333333335
+   },
+   "APRENDE_v": {
+    "vidas": 116,
+    "en_puesto": 116,
+    "puesto": 5.129310344827586,
+    "puesto_ee": 0.40304875847869,
+    "rapidez_botiquin": [
+     13,
+     10,
+     21,
+     21,
+     21,
+     18
+    ],
+    "rapidez_botiquin_media": 17.333333333333332,
+    "rapidez_botiquin_ee": 1.9436506316151003,
+    "rapidez_racion": [
+     2,
+     3,
+     1,
+     2,
+     4,
+     4
+    ],
+    "rapidez_racion_media": 2.6666666666666665,
+    "rapidez_racion_ee": 0.4944132324730442,
+    "sabiduria_segundos_media": 259.47833333333335,
+    "sabiduria_segundos_ee": 36.27984585423643,
+    "sabiduria_vida_media": 58.416666666666664,
+    "sabiduria_vida_ee": 8.031199461066043,
+    "sabiduria_tics": {
+     "tics_ventana": 9704,
+     "tics_llevando": 373539,
+     "tics_yendo": 226
+    },
+    "usos_botiquin": 196,
+    "usos_botiquin_hp_menor_50": 48,
+    "cuando_botiquin": 0.24489795918367346,
+    "cuando_botiquin_ee": 0.03071619169927912,
+    "usos_racion": 121,
+    "usos_racion_hp_menor_100": 121,
+    "cuando_racion": 1.0,
+    "pruebas_total": 400,
+    "pruebas_por_dia": {
+     "1": 3.1666666666666665,
+     "2": 3,
+     "3": 4,
+     "4": 2.5,
+     "5": 4.833333333333333,
+     "6": 2.8333333333333335,
+     "7": 3.3333333333333335,
+     "8": 2.5,
+     "9": 4.333333333333333,
+     "10": 3.5,
+     "11": 3.1666666666666665,
+     "12": 2.8333333333333335,
+     "13": 5.333333333333333,
+     "14": 4.666666666666667,
+     "15": 2.8333333333333335,
+     "16": 3.6666666666666665,
+     "17": 2,
+     "18": 4.666666666666667,
+     "19": 1.6666666666666667,
+     "20": 3.6666666666666665
+    },
+    "pruebas_por_cosa": {
+     "botiquin": 187,
+     "racion": 119,
+     "red": 43,
+     "camuflaje": 51
+    },
+    "forzadas": 0,
+    "mueren": 74,
+    "marcadas": 0,
+    "ms_mediana": 3.6816379310344827
+   },
+   "APRENDE_p": {
+    "vidas": 106,
+    "en_puesto": 106,
+    "puesto": 4.30188679245283,
+    "puesto_ee": 0.32232583875478643,
+    "rapidez_botiquin": [
+     21,
+     21,
+     21,
+     4,
+     6,
+     9
+    ],
+    "rapidez_botiquin_media": 13.666666666666666,
+    "rapidez_botiquin_ee": 3.343318378165289,
+    "rapidez_racion": [
+     2,
+     11,
+     7,
+     2,
+     3,
+     9
+    ],
+    "rapidez_racion_media": 5.666666666666667,
+    "rapidez_racion_ee": 1.584648576533962,
+    "sabiduria_segundos_media": 364.71875,
+    "sabiduria_segundos_ee": 38.60930562694859,
+    "sabiduria_vida_media": 78.75,
+    "sabiduria_vida_ee": 9.112793010592346,
+    "sabiduria_tics": {
+     "tics_ventana": 9201,
+     "tics_llevando": 419972,
+     "tics_yendo": 202
+    },
+    "usos_botiquin": 157,
+    "usos_botiquin_hp_menor_50": 43,
+    "cuando_botiquin": 0.27388535031847133,
+    "cuando_botiquin_ee": 0.03559075286037302,
+    "usos_racion": 155,
+    "usos_racion_hp_menor_100": 155,
+    "cuando_racion": 1.0,
+    "pruebas_total": 387,
+    "pruebas_por_dia": {
+     "1": 1.6666666666666667,
+     "2": 3.6666666666666665,
+     "3": 3.6666666666666665,
+     "4": 3.75,
+     "5": 5.833333333333333,
+     "6": 4.166666666666667,
+     "7": 2.6666666666666665,
+     "8": 2.8333333333333335,
+     "9": 3.5,
+     "10": 3.6666666666666665,
+     "11": 1.5,
+     "12": 4.833333333333333,
+     "13": 3.6666666666666665,
+     "14": 2.6666666666666665,
+     "15": 2,
+     "16": 4.333333333333333,
+     "17": 2.75,
+     "18": 7,
+     "19": 9,
+     "20": 2.3333333333333335
+    },
+    "pruebas_por_cosa": {
+     "botiquin": 150,
+     "racion": 152,
+     "red": 41,
+     "camuflaje": 44
+    },
+    "forzadas": 0,
+    "mueren": 67,
+    "marcadas": 0,
+    "ms_mediana": 3.8207547169811322
+   },
+   "SIN": {
+    "vidas": 120,
+    "en_puesto": 120,
+    "puesto": 5.425,
+    "puesto_ee": 0.38741810375206515,
+    "rapidez_botiquin": [
+     21,
+     7,
+     21,
+     21,
+     11,
+     21
+    ],
+    "rapidez_botiquin_media": 17,
+    "rapidez_botiquin_ee": 2.5819888974716116,
+    "rapidez_racion": [
+     11,
+     2,
+     17,
+     2,
+     21,
+     12
+    ],
+    "rapidez_racion_media": 10.833333333333334,
+    "rapidez_racion_ee": 3.156122797216723,
+    "sabiduria_segundos_media": 204.14666666666668,
+    "sabiduria_segundos_ee": 32.89899707113049,
+    "sabiduria_vida_media": 53.68333333333333,
+    "sabiduria_vida_ee": 7.770816463682633,
+    "sabiduria_tics": {
+     "tics_ventana": 7758,
+     "tics_llevando": 293738,
+     "tics_yendo": 237
+    },
+    "usos_botiquin": 62,
+    "usos_botiquin_hp_menor_50": 17,
+    "cuando_botiquin": 0.27419354838709675,
+    "cuando_botiquin_ee": 0.05665564436903705,
+    "usos_racion": 99,
+    "usos_racion_hp_menor_100": 99,
+    "cuando_racion": 1.0,
+    "pruebas_total": 202,
+    "pruebas_por_dia": {
+     "1": 0.3333333333333333,
+     "2": 0.8333333333333334,
+     "3": 0.8333333333333334,
+     "4": 0.3333333333333333,
+     "5": 1.3333333333333333,
+     "6": 1.6666666666666667,
+     "7": 1.1666666666666667,
+     "8": 2.5,
+     "9": 0.8333333333333334,
+     "10": 1.3333333333333333,
+     "11": 2.1666666666666665,
+     "12": 1.3333333333333333,
+     "13": 1.8333333333333333,
+     "14": 2,
+     "15": 2.5,
+     "16": 2.3333333333333335,
+     "17": 1.1666666666666667,
+     "18": 4,
+     "19": 2.1666666666666665,
+     "20": 3
+    },
+    "pruebas_por_cosa": {
+     "botiquin": 58,
+     "racion": 93,
+     "red": 31,
+     "camuflaje": 20
+    },
+    "forzadas": 349,
+    "mueren": 82,
+    "marcadas": 0,
+    "ms_mediana": 2.33075
+   }
+  },
+  "R1": {
+   "APRENDE_p": {
+    "dif": -3.333,
+    "ee": 4.224,
+    "tres_veces": false,
+    "cumple": true
+   },
+   "APRENDE_v": {
+    "dif": 0.333,
+    "ee": 3.232,
+    "tres_veces": false,
+    "cumple": false
+   },
+   "pasa": false
+  },
+  "C1": {
+   "APRENDE_p": {
+    "dif": -0.0,
+    "ee": 0.067,
+    "tres_veces": false,
+    "cumple": false
+   },
+   "APRENDE_v": {
+    "dif": -0.029,
+    "ee": 0.064,
+    "tres_veces": false,
+    "cumple": false
+   },
+   "pasa": false
+  },
+  "S1": {
+   "TECHO": {
+    "segundos": 273.50666666666666,
+    "vida": 65.76666666666667
+   },
+   "BORRADO_v": {
+    "segundos": 352.6568965517241,
+    "vida": 70.55172413793103
+   },
+   "BORRADO_p": {
+    "segundos": 315.01851851851853,
+    "vida": 63.77777777777778
+   },
+   "APRENDE_v": {
+    "segundos": 259.47833333333335,
+    "vida": 58.416666666666664
+   },
+   "APRENDE_p": {
+    "segundos": 364.71875,
+    "vida": 78.75
+   },
+   "SIN": {
+    "segundos": 204.14666666666668,
+    "vida": 53.68333333333333
+   }
+  },
+  "caracter": {
+   "APRENDE": {
+    "dif": 0.827,
+    "ee": 0.516,
+    "tres_veces": false,
+    "cumple": false
+   },
+   "BORRADO": {
+    "dif": -0.25,
+    "ee": 0.525,
+    "tres_veces": false,
+    "cumple": true
+   }
+  }
+ }
+}

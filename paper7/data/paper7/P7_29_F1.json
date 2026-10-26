@@ -1,0 +1,168 @@
+{
+ "apagado": {
+  "vidas": 80,
+  "fidelidad": {
+   "igual": 1007274,
+   "difiere": 2
+  },
+  "desacuerdos": [
+   {
+    "vida": "P611_t2_A4_21622393/10",
+    "t": 1832,
+    "diario": "move_SW",
+    "replica": "move_W"
+   },
+   {
+    "vida": "P611_t2_A4_21622393/10",
+    "t": 2041,
+    "diario": "move_NW",
+    "replica": "paso_NE"
+   }
+  ],
+  "muros": 0,
+  "segundos": 172.9,
+  "hecho_29": {
+   "P7_29": false
+  },
+  "arreglos": [
+   "cache",
+   "curiosidad",
+   "muros",
+   "corte",
+   "cuanto"
+  ]
+ },
+ "TECHO con la red de muros": {
+  "vidas": 80,
+  "fidelidad": {
+   "igual": 1006181,
+   "difiere": 1095
+  },
+  "desacuerdos": [
+   {
+    "vida": "P611_t2_A4_21622393/10",
+    "t": 1832,
+    "diario": "move_SW",
+    "replica": "move_W"
+   },
+   {
+    "vida": "P611_t2_A4_21622393/10",
+    "t": 2041,
+    "diario": "move_NW",
+    "replica": "paso_NE"
+   },
+   {
+    "vida": "P611_t2_A4_21727122/10",
+    "t": 5076,
+    "diario": "ir_objeto",
+    "replica": "ir_botin"
+   },
+   {
+    "vida": "P611_t2_A4_21727122/10",
+    "t": 5077,
+    "diario": "ir_objeto",
+    "replica": "ir_botin"
+   },
+   {
+    "vida": "P611_t2_A4_21727122/10",
+    "t": 5078,
+    "diario": "ir_objeto",
+    "replica": "ir_botin"
+   },
+   {
+    "vida": "P611_t2_A4_21727122/10",
+    "t": 5079,
+    "diario": "ir_objeto",
+    "replica": "ir_botin"
+   },
+   {
+    "vida": "P611_t2_A4_21727122/10",
+    "t": 5080,
+    "diario": "ir_objeto",
+    "replica": "ir_botin"
+   },
+   {
+    "vida": "P611_t2_A4_21727122/11",
+    "t": 5110,
+    "diario": "ir_objeto",
+    "replica": "ir_botin"
+   },
+   {
+    "vida": "P611_t2_A4_21727122/11",
+    "t": 5111,
+    "diario": "ir_objeto",
+    "replica": "ir_botin"
+   },
+   {
+    "vida": "P611_t2_A4_21727122/11",
+    "t": 5112,
+    "diario": "ir_objeto",
+    "replica": "ir_botin"
+   },
+   {
+    "vida": "P611_t2_A4_21727122/11",
+    "t": 5113,
+    "diario": "ir_objeto",
+    "replica": "ir_botin"
+   },
+   {
+    "vida": "P611_t2_A4_21727122/11",
+    "t": 5114,
+    "diario": "ir_objeto",
+    "replica": "ir_botin"
+   }
+  ],
+  "muros": 13,
+  "segundos": 181.1,
+  "hecho_29": {
+   "P7_29": true,
+   "cache": true,
+   "muros": true,
+   "solo": "cache y muros (TECHO o sin nace)"
+  },
+  "arreglos": [
+   "cache",
+   "curiosidad",
+   "muros",
+   "corte",
+   "cuanto"
+  ],
+  "vidas_con_desacuerdo": 3
+ },
+ "TECHO sin la red de muros": {
+  "vidas": 80,
+  "arreglos": [
+   "cache",
+   "corte",
+   "cuanto",
+   "curiosidad"
+  ],
+  "fidelidad": {
+   "igual": 1007274,
+   "difiere": 2
+  },
+  "desacuerdos": [
+   {
+    "vida": "P611_t2_A4_21622393/10",
+    "t": 1832,
+    "diario": "move_SW",
+    "replica": "move_W"
+   },
+   {
+    "vida": "P611_t2_A4_21622393/10",
+    "t": 2041,
+    "diario": "move_NW",
+    "replica": "paso_NE"
+   }
+  ],
+  "muros": 0,
+  "vidas_con_desacuerdo": 1,
+  "segundos": 175.9,
+  "hecho_29": {
+   "P7_29": true,
+   "cache": true,
+   "muros": false,
+   "solo": "cache y muros (TECHO o sin nace)"
+  }
+ }
+}

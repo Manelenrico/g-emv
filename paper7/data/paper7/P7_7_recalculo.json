@@ -1,0 +1,83 @@
+{
+ "fuente": {
+  "cuaderno_P7_6": "P7_6_dia3_cuaderno_11.json",
+  "diario": "paintball/runs/P76_humo_APRENDE_27068301/ereq_8711a241-cbc0-49e7-a2b2-df181ff57ad4-policy_agent_11.art.log",
+  "hp_max_visto_en_el_diario": 100.0
+ },
+ "huellas": [
+  {
+   "t0": 10665,
+   "situacion": "dentro",
+   "hp0": 99.0,
+   "hp_fin": 100,
+   "al_menos": true,
+   "recuerdo": {
+    "dia": 3,
+    "tick": 10665,
+    "efecto": {
+     "cuerpo": 1.0,
+     "recursos": -1.0,
+     "vinculo": 0.0
+    },
+    "importancia": {
+     "cuerpo": -0.0391,
+     "recursos": -0.0366,
+     "vinculo": -0.1673
+    },
+    "intensidad": 1.162,
+    "creencia_antes": null,
+    "al_menos": true
+   }
+  }
+ ],
+ "P7_6": {
+  "dia": 3,
+  "creencias": {
+   "first_aid": {
+    "dentro": {
+     "cuerpo": 0.5247,
+     "recursos": -0.5247,
+     "vinculo": 0.0
+    },
+    "ignorancia": 0.4753,
+    "pesos_vividos": 1.1039
+   }
+  }
+ },
+ "P7_7": {
+  "dia": 3,
+  "creencias": {
+   "first_aid": {
+    "dentro": {
+     "cuerpo": 0.5247,
+     "recursos": -0.5247,
+     "vinculo": 0.0
+    },
+    "ignorancia": 0.4753,
+    "pesos_vividos": 1.1039
+   }
+  },
+  "al_menos_marcados": 1
+ },
+ "vista_dia_4": {
+  "P7_7": {
+   "cuerpo": 0.5247,
+   "recursos": -0.5247,
+   "vinculo": 0.0
+  },
+  "ignorancia": 0.47530776177574985
+ },
+ "ilustracion_recuerdo_firme_40": {
+  "nota": "hipotetico, no es dato del campo: un segundo recuerdo firme de +40 en 'dentro' el dia 4",
+  "con_regla_del_techo": {
+   "cuerpo": 22.0362,
+   "recursos": -0.6998,
+   "vinculo": 0.0
+  },
+  "sin_regla_(P7_6)": {
+   "cuerpo": 15.0639,
+   "recursos": -0.6998,
+   "vinculo": 0.0
+  }
+ }
+}

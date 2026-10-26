@@ -1,0 +1,23 @@
+{
+ "pasan": [
+  "0 el mundo: la racion cura 15 y canaliza 1 s (catalogo)",
+  "1a vida 55 + racion 15 -> fallo (hueco 40, hace falta 20)",
+  "1b vida 30 con golpes en el segundo de uso: la racion no se corta; +15 -> fallo por el hueco",
+  "1c vida 59 (el borde) + 15 -> fallo (hueco 40: min(40, 41))",
+  "2a vida 65 -> la falsa no se activa",
+  "2b vida 55 -> la falsa se activa",
+  "2c vida 60 exacta -> no (vida < 60)",
+  "2d una honesta sin condicion de vida no cambia",
+  "3a racion de la hermana con vida 80 -> no entra en el contraste de la falsa (si en el de la honesta)",
+  "3b racion de la hermana con vida 50 -> entra en el contraste de la falsa (y la desmiente: 15 < 20)",
+  "3c un visto (la vida es la de quien mira) -> no entra en la falsa",
+  "3d contado sin la vida apuntada -> no entra en la falsa",
+  "4a M7 con golpe + amenaza + herida60: ida y vuelta, mismo largo",
+  "4b herida60 sin amenaza",
+  "4c M7 de P7-62 (0-3) -> herida60 False",
+  "4d noche: la vida al empezar sale del cuaderno de la hermana (y otro recuerdo no la inventa)",
+  "4e la falsa la anade el codigo desde las invitaciones del dia 8, solo en los asientos que mienten",
+  "4f anade: una sola falsa, en la posicion fijada por la semilla"
+ ],
+ "fallan": []
+}

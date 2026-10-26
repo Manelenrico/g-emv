@@ -1,0 +1,4506 @@
+{
+ "criaturas": {
+  "APRENDE_v s1 a10": {
+   "variante": "APRENDE_v",
+   "serie": 1,
+   "asiento": 10,
+   "dias": 20,
+   "cierres": [
+    [
+     1,
+     "first_aid",
+     {}
+    ],
+    [
+     2,
+     "rations",
+     {}
+    ],
+    [
+     3,
+     "rations",
+     {}
+    ],
+    [
+     4,
+     "first_aid",
+     {}
+    ],
+    [
+     5,
+     "net",
+     {}
+    ],
+    [
+     6,
+     "camouflage",
+     {}
+    ],
+    [
+     7,
+     "net",
+     {}
+    ],
+    [
+     8,
+     "first_aid",
+     {}
+    ],
+    [
+     9,
+     "first_aid",
+     {}
+    ],
+    [
+     10,
+     "first_aid",
+     {}
+    ],
+    [
+     11,
+     "first_aid",
+     {}
+    ],
+    [
+     12,
+     "first_aid",
+     {}
+    ],
+    [
+     13,
+     "first_aid",
+     {}
+    ],
+    [
+     14,
+     "first_aid",
+     {}
+    ],
+    [
+     15,
+     "first_aid",
+     {}
+    ],
+    [
+     16,
+     "first_aid",
+     {}
+    ],
+    [
+     17,
+     "first_aid",
+     {}
+    ],
+    [
+     18,
+     "first_aid",
+     {}
+    ],
+    [
+     19,
+     "first_aid",
+     {}
+    ],
+    [
+     20,
+     "first_aid",
+     {}
+    ]
+   ],
+   "h_por_dia": {
+    "1": {},
+    "2": {},
+    "3": {},
+    "4": {},
+    "5": {},
+    "6": {},
+    "7": {},
+    "8": {},
+    "9": {},
+    "10": {},
+    "11": {},
+    "12": {},
+    "13": {},
+    "14": {},
+    "15": {},
+    "16": {},
+    "17": {},
+    "18": {},
+    "19": {},
+    "20": {}
+   },
+   "recuerdos_nuevos_por_dia": {
+    "1": {
+     "first_aid": 0,
+     "rations": 0,
+     "net": 0,
+     "camouflage": 0
+    },
+    "2": {
+     "first_aid": 0,
+     "rations": 2,
+     "net": 1,
+     "camouflage": 1
+    },
+    "3": {
+     "first_aid": 0,
+     "rations": 1,
+     "net": 0,
+     "camouflage": 0
+    },
+    "4": {
+     "first_aid": 0,
+     "rations": 1,
+     "net": 0,
+     "camouflage": 0
+    },
+    "5": {
+     "first_aid": 2,
+     "rations": 0,
+     "net": 0,
+     "camouflage": 0
+    },
+    "6": {
+     "first_aid": 0,
+     "rations": 0,
+     "net": 1,
+     "camouflage": 0
+    },
+    "7": {
+     "first_aid": 0,
+     "rations": 1,
+     "net": 0,
+     "camouflage": 1
+    },
+    "8": {
+     "first_aid": 1,
+     "rations": 2,
+     "net": 0,
+     "camouflage": 0
+    },
+    "9": {
+     "first_aid": 2,
+     "rations": 1,
+     "net": 1,
+     "camouflage": 1
+    },
+    "10": {
+     "first_aid": 1,
+     "rations": 0,
+     "net": 0,
+     "camouflage": 0
+    },
+    "11": {
+     "first_aid": 1,
+     "rations": 3,
+     "net": 0,
+     "camouflage": 0
+    },
+    "12": {
+     "first_aid": 0,
+     "rations": 0,
+     "net": 1,
+     "camouflage": 1
+    },
+    "13": {
+     "first_aid": 1,
+     "rations": 1,
+     "net": 0,
+     "camouflage": 0
+    },
+    "14": {
+     "first_aid": 0,
+     "rations": 1,
+     "net": 0,
+     "camouflage": 0
+    },
+    "15": {
+     "first_aid": 0,
+     "rations": 0,
+     "net": 1,
+     "camouflage": 1
+    },
+    "16": {
+     "first_aid": 0,
+     "rations": 4,
+     "net": 1,
+     "camouflage": 1
+    },
+    "17": {
+     "first_aid": 0,
+     "rations": 0,
+     "net": 1,
+     "camouflage": 0
+    },
+    "18": {
+     "first_aid": 2,
+     "rations": 3,
+     "net": 1,
+     "camouflage": 0
+    },
+    "19": {
+     "first_aid": 0,
+     "rations": 3,
+     "net": 0,
+     "camouflage": 0
+    },
+    "20": {
+     "first_aid": 0,
+     "rations": 1,
+     "net": 1,
+     "camouflage": 1
+    }
+   },
+   "k_estrella": 3,
+   "pruebas_botiquin": 10,
+   "curva": [
+    13.4347,
+    13.7374,
+    27.1014
+   ],
+   "dia_ultimo_cuaderno": 20,
+   "k_estrella_real": 8,
+   "pruebas_botiquin_real": 10,
+   "curva_real": [
+    9.5576,
+    11.2307,
+    21.3995,
+    18.894,
+    21.1535,
+    18.6124,
+    17.3353,
+    31.8074
+   ],
+   "habituacion_final": null,
+   "recuperaciones": []
+  },
+  "APRENDE_v s1 a11": {
+   "variante": "APRENDE_v",
+   "serie": 1,
+   "asiento": 11,
+   "dias": 20,
+   "cierres": [
+    [
+     1,
+     "first_aid",
+     {}
+    ],
+    [
+     2,
+     "first_aid",
+     {}
+    ],
+    [
+     3,
+     "first_aid",
+     {}
+    ],
+    [
+     4,
+     "first_aid",
+     {}
+    ],
+    [
+     5,
+     "first_aid",
+     {}
+    ],
+    [
+     6,
+     "first_aid",
+     {}
+    ],
+    [
+     7,
+     "camouflage",
+     {}
+    ],
+    [
+     8,
+     "camouflage",
+     {}
+    ],
+    [
+     9,
+     "camouflage",
+     {}
+    ],
+    [
+     10,
+     "first_aid",
+     {}
+    ],
+    [
+     11,
+     "first_aid",
+     {}
+    ],
+    [
+     12,
+     "first_aid",
+     {}
+    ],
+    [
+     13,
+     "first_aid",
+     {}
+    ],
+    [
+     14,
+     "first_aid",
+     {}
+    ],
+    [
+     15,
+     "first_aid",
+     {}
+    ],
+    [
+     16,
+     "first_aid",
+     {}
+    ],
+    [
+     17,
+     "first_aid",
+     {}
+    ],
+    [
+     18,
+     "first_aid",
+     {}
+    ],
+    [
+     19,
+     "first_aid",
+     {}
+    ],
+    [
+     20,
+     "first_aid",
+     {}
+    ]
+   ],
+   "h_por_dia": {
+    "1": {},
+    "2": {},
+    "3": {},
+    "4": {},
+    "5": {},
+    "6": {},
+    "7": {},
+    "8": {},
+    "9": {},
+    "10": {},
+    "11": {},
+    "12": {},
+    "13": {},
+    "14": {},
+    "15": {},
+    "16": {},
+    "17": {},
+    "18": {},
+    "19": {},
+    "20": {}
+   },
+   "recuerdos_nuevos_por_dia": {
+    "1": {
+     "first_aid": 1,
+     "rations": 3,
+     "net": 1,
+     "camouflage": 1
+    },
+    "2": {
+     "first_aid": 0,
+     "rations": 1,
+     "net": 0,
+     "camouflage": 0
+    },
+    "3": {
+     "first_aid": 0,
+     "rations": 5,
+     "net": 1,
+     "camouflage": 1
+    },
+    "4": {
+     "first_aid": 1,
+     "rations": 0,
+     "net": 0,
+     "camouflage": 1
+    },
+    "5": {
+     "first_aid": 1,
+     "rations": 0,
+     "net": 1,
+     "camouflage": 1
+    },
+    "6": {
+     "first_aid": 0,
+     "rations": 0,
+     "net": 0,
+     "camouflage": 0
+    },
+    "7": {
+     "first_aid": 2,
+     "rations": 1,
+     "net": 1,
+     "camouflage": 0
+    },
+    "8": {
+     "first_aid": 1,
+     "rations": 0,
+     "net": 1,
+     "camouflage": 0
+    },
+    "9": {
+     "first_aid": 1,
+     "rations": 1,
+     "net": 0,
+     "camouflage": 0
+    },
+    "10": {
+     "first_aid": 2,
+     "rations": 0,
+     "net": 0,
+     "camouflage": 1
+    },
+    "11": {
+     "first_aid": 2,
+     "rations": 0,
+     "net": 0,
+     "camouflage": 0
+    },
+    "12": {
+     "first_aid": 1,
+     "rations": 0,
+     "net": 0,
+     "camouflage": 0
+    },
+    "13": {
+     "first_aid": 0,
+     "rations": 1,
+     "net": 1,
+     "camouflage": 1
+    },
+    "14": {
+     "first_aid": 1,
+     "rations": 3,
+     "net": 1,
+     "camouflage": 1
+    },
+    "15": {
+     "first_aid": 1,
+     "rations": 0,
+     "net": 0,
+     "camouflage": 0
+    },
+    "16": {
+     "first_aid": 0,
+     "rations": 0,
+     "net": 0,
+     "camouflage": 0
+    },
+    "17": {
+     "first_aid": 1,
+     "rations": 0,
+     "net": 1,
+     "camouflage": 2
+    },
+    "18": {
+     "first_aid": 2,
+     "rations": 1,
+     "net": 0,
+     "camouflage": 1
+    },
+    "19": {
+     "first_aid": 0,
+     "rations": 0,
+     "net": 0,
+     "camouflage": 0
+    },
+    "20": {
+     "first_aid": 3,
+     "rations": 0,
+     "net": 0,
+     "camouflage": 0
+    }
+   },
+   "k_estrella": 9,
+   "pruebas_botiquin": 20,
+   "curva": [
+    8.8,
+    13.9658,
+    15.5236,
+    12.8443,
+    14.8502,
+    14.6424,
+    15.7557,
+    15.0925,
+    40.0
+   ],
+   "dia_ultimo_cuaderno": 20,
+   "k_estrella_real": 9,
+   "pruebas_botiquin_real": 20,
+   "curva_real": [
+    5.8495,
+    11.0856,
+    13.5835,
+    11.4728,
+    14.3748,
+    14.2113,
+    15.2917,
+    14.1246,
+    28.7875
+   ],
+   "habituacion_final": null,
+   "recuperaciones": []
+  },
+  "APRENDE_v s2 a10": {
+   "variante": "APRENDE_v",
+   "serie": 2,
+   "asiento": 10,
+   "dias": 20,
+   "cierres": [
+    [
+     1,
+     "first_aid",
+     {}
+    ],
+    [
+     2,
+     "rations",
+     {}
+    ],
+    [
+     3,
+     "net",
+     {}
+    ],
+    [
+     4,
+     "net",
+     {}
+    ],
+    [
+     5,
+     "first_aid",
+     {}
+    ],
+    [
+     6,
+     "first_aid",
+     {}
+    ],
+    [
+     7,
+     "first_aid",
+     {}
+    ],
+    [
+     8,
+     "first_aid",
+     {}
+    ],
+    [
+     9,
+     "first_aid",
+     {}
+    ],
+    [
+     10,
+     "first_aid",
+     {}
+    ],
+    [
+     11,
+     "first_aid",
+     {}
+    ],
+    [
+     12,
+     "first_aid",
+     {}
+    ],
+    [
+     13,
+     "first_aid",
+     {}
+    ],
+    [
+     14,
+     "first_aid",
+     {}
+    ],
+    [
+     15,
+     "first_aid",
+     {}
+    ],
+    [
+     16,
+     "first_aid",
+     {}
+    ],
+    [
+     17,
+     "first_aid",
+     {}
+    ],
+    [
+     18,
+     "first_aid",
+     {}
+    ],
+    [
+     19,
+     "first_aid",
+     {}
+    ],
+    [
+     20,
+     "first_aid",
+     {}
+    ]
+   ],
+   "h_por_dia": {
+    "1": {},
+    "2": {},
+    "3": {},
+    "4": {},
+    "5": {},
+    "6": {},
+    "7": {},
+    "8": {},
+    "9": {},
+    "10": {},
+    "11": {},
+    "12": {},
+    "13": {},
+    "14": {},
+    "15": {},
+    "16": {},
+    "17": {},
+    "18": {},
+    "19": {},
+    "20": {}
+   },
+   "recuerdos_nuevos_por_dia": {
+    "1": {
+     "first_aid": 2,
+     "rations": 3,
+     "net": 1,
+     "camouflage": 1
+    },
+    "2": {
+     "first_aid": 2,
+     "rations": 0,
+     "net": 0,
+     "camouflage": 1
+    },
+    "3": {
+     "first_aid": 1,
+     "rations": 1,
+     "net": 1,
+     "camouflage": 1
+    },
+    "4": {
+     "first_aid": 0,
+     "rations": 0,
+     "net": 1,
+     "camouflage": 1
+    },
+    "5": {
+     "first_aid": 1,
+     "rations": 2,
+     "net": 0,
+     "camouflage": 0
+    },
+    "6": {
+     "first_aid": 0,
+     "rations": 0,
+     "net": 1,
+     "camouflage": 1
+    },
+    "7": {
+     "first_aid": 0,
+     "rations": 0,
+     "net": 0,
+     "camouflage": 0
+    },
+    "8": {
+     "first_aid": 0,
+     "rations": 0,
+     "net": 0,
+     "camouflage": 0
+    },
+    "9": {
+     "first_aid": 2,
+     "rations": 0,
+     "net": 1,
+     "camouflage": 0
+    },
+    "10": {
+     "first_aid": 1,
+     "rations": 2,
+     "net": 1,
+     "camouflage": 0
+    },
+    "11": {
+     "first_aid": 0,
+     "rations": 0,
+     "net": 0,
+     "camouflage": 1
+    },
+    "12": {
+     "first_aid": 0,
+     "rations": 0,
+     "net": 0,
+     "camouflage": 0
+    },
+    "13": {
+     "first_aid": 1,
+     "rations": 2,
+     "net": 0,
+     "camouflage": 0
+    },
+    "14": {
+     "first_aid": 1,
+     "rations": 0,
+     "net": 0,
+     "camouflage": 0
+    },
+    "15": {
+     "first_aid": 1,
+     "rations": 0,
+     "net": 1,
+     "camouflage": 0
+    },
+    "16": {
+     "first_aid": 0,
+     "rations": 0,
+     "net": 0,
+     "camouflage": 0
+    },
+    "17": {
+     "first_aid": 0,
+     "rations": 0,
+     "net": 0,
+     "camouflage": 1
+    },
+    "18": {
+     "first_aid": 0,
+     "rations": 1,
+     "net": 0,
+     "camouflage": 0
+    },
+    "19": {
+     "first_aid": 1,
+     "rations": 1,
+     "net": 0,
+     "camouflage": 1
+    },
+    "20": {
+     "first_aid": 0,
+     "rations": 1,
+     "net": 0,
+     "camouflage": 0
+    }
+   },
+   "k_estrella": null,
+   "pruebas_botiquin": 13,
+   "curva": [
+    8.8,
+    23.5556,
+    21.9312,
+    20.1317,
+    21.5248,
+    21.3705,
+    19.6503,
+    21.3004,
+    20.773,
+    21.2774,
+    22.0122,
+    22.9903,
+    24.5285
+   ],
+   "dia_ultimo_cuaderno": 20,
+   "k_estrella_real": null,
+   "pruebas_botiquin_real": 13,
+   "curva_real": [
+    6.0816,
+    23.0382,
+    21.0684,
+    19.4057,
+    21.3489,
+    21.0649,
+    19.1587,
+    21.151,
+    20.5893,
+    21.1695,
+    22.0495,
+    23.0254,
+    24.3793
+   ],
+   "habituacion_final": null,
+   "recuperaciones": []
+  },
+  "APRENDE_v s2 a11": {
+   "variante": "APRENDE_v",
+   "serie": 2,
+   "asiento": 11,
+   "dias": 20,
+   "cierres": [
+    [
+     1,
+     "first_aid",
+     {}
+    ],
+    [
+     2,
+     "first_aid",
+     {}
+    ],
+    [
+     3,
+     "first_aid",
+     {}
+    ],
+    [
+     4,
+     "first_aid",
+     {}
+    ],
+    [
+     5,
+     "first_aid",
+     {}
+    ],
+    [
+     6,
+     "first_aid",
+     {}
+    ],
+    [
+     7,
+     "first_aid",
+     {}
+    ],
+    [
+     8,
+     "first_aid",
+     {}
+    ],
+    [
+     9,
+     "first_aid",
+     {}
+    ],
+    [
+     10,
+     "camouflage",
+     {}
+    ],
+    [
+     11,
+     "camouflage",
+     {}
+    ],
+    [
+     12,
+     "camouflage",
+     {}
+    ],
+    [
+     13,
+     "first_aid",
+     {}
+    ],
+    [
+     14,
+     "first_aid",
+     {}
+    ],
+    [
+     15,
+     "first_aid",
+     {}
+    ],
+    [
+     16,
+     "first_aid",
+     {}
+    ],
+    [
+     17,
+     "first_aid",
+     {}
+    ],
+    [
+     18,
+     "first_aid",
+     {}
+    ],
+    [
+     19,
+     "first_aid",
+     {}
+    ],
+    [
+     20,
+     "first_aid",
+     {}
+    ]
+   ],
+   "h_por_dia": {
+    "1": {},
+    "2": {},
+    "3": {},
+    "4": {},
+    "5": {},
+    "6": {},
+    "7": {},
+    "8": {},
+    "9": {},
+    "10": {},
+    "11": {},
+    "12": {},
+    "13": {},
+    "14": {},
+    "15": {},
+    "16": {},
+    "17": {},
+    "18": {},
+    "19": {},
+    "20": {}
+   },
+   "recuerdos_nuevos_por_dia": {
+    "1": {
+     "first_aid": 0,
+     "rations": 0,
+     "net": 0,
+     "camouflage": 0
+    },
+    "2": {
+     "first_aid": 0,
+     "rations": 3,
+     "net": 0,
+     "camouflage": 0
+    },
+    "3": {
+     "first_aid": 1,
+     "rations": 1,
+     "net": 0,
+     "camouflage": 0
+    },
+    "4": {
+     "first_aid": 1,
+     "rations": 0,
+     "net": 0,
+     "camouflage": 0
+    },
+    "5": {
+     "first_aid": 1,
+     "rations": 2,
+     "net": 1,
+     "camouflage": 0
+    },
+    "6": {
+     "first_aid": 4,
+     "rations": 0,
+     "net": 0,
+     "camouflage": 0
+    },
+    "7": {
+     "first_aid": 0,
+     "rations": 1,
+     "net": 0,
+     "camouflage": 0
+    },
+    "8": {
+     "first_aid": 0,
+     "rations": 1,
+     "net": 0,
+     "camouflage": 1
+    },
+    "9": {
+     "first_aid": 0,
+     "rations": 1,
+     "net": 0,
+     "camouflage": 0
+    },
+    "10": {
+     "first_aid": 1,
+     "rations": 1,
+     "net": 0,
+     "camouflage": 1
+    },
+    "11": {
+     "first_aid": 0,
+     "rations": 0,
+     "net": 0,
+     "camouflage": 0
+    },
+    "12": {
+     "first_aid": 0,
+     "rations": 5,
+     "net": 1,
+     "camouflage": 1
+    },
+    "13": {
+     "first_aid": 2,
+     "rations": 1,
+     "net": 1,
+     "camouflage": 1
+    },
+    "14": {
+     "first_aid": 0,
+     "rations": 1,
+     "net": 1,
+     "camouflage": 0
+    },
+    "15": {
+     "first_aid": 1,
+     "rations": 1,
+     "net": 0,
+     "camouflage": 1
+    },
+    "16": {
+     "first_aid": 1,
+     "rations": 0,
+     "net": 1,
+     "camouflage": 1
+    },
+    "17": {
+     "first_aid": 3,
+     "rations": 0,
+     "net": 1,
+     "camouflage": 0
+    },
+    "18": {
+     "first_aid": 2,
+     "rations": 1,
+     "net": 1,
+     "camouflage": 1
+    },
+    "19": {
+     "first_aid": 0,
+     "rations": 1,
+     "net": 0,
+     "camouflage": 0
+    },
+    "20": {
+     "first_aid": 0,
+     "rations": 3,
+     "net": 0,
+     "camouflage": 1
+    }
+   },
+   "k_estrella": null,
+   "pruebas_botiquin": 17,
+   "curva": [
+    20.0,
+    19.7917,
+    24.8839,
+    23.8074,
+    23.1851,
+    21.0816,
+    21.0816,
+    21.0454,
+    17.7951,
+    17.7951,
+    17.4543,
+    15.939,
+    20.2724,
+    19.8352,
+    21.0811,
+    19.1631,
+    19.4471
+   ],
+   "dia_ultimo_cuaderno": 20,
+   "k_estrella_real": null,
+   "pruebas_botiquin_real": 17,
+   "curva_real": [
+    16.0574,
+    15.7607,
+    21.4471,
+    20.9286,
+    20.7632,
+    18.2358,
+    18.2358,
+    18.435,
+    15.8996,
+    15.8996,
+    15.7368,
+    14.1974,
+    17.7507,
+    17.6727,
+    18.88,
+    17.5653,
+    17.9822
+   ],
+   "habituacion_final": null,
+   "recuperaciones": []
+  },
+  "APRENDE_v s3 a10": {
+   "variante": "APRENDE_v",
+   "serie": 3,
+   "asiento": 10,
+   "dias": 20,
+   "cierres": [
+    [
+     1,
+     "first_aid",
+     {}
+    ],
+    [
+     2,
+     "camouflage",
+     {}
+    ],
+    [
+     3,
+     "camouflage",
+     {}
+    ],
+    [
+     4,
+     "camouflage",
+     {}
+    ],
+    [
+     5,
+     "net",
+     {}
+    ],
+    [
+     6,
+     "net",
+     {}
+    ],
+    [
+     7,
+     "first_aid",
+     {}
+    ],
+    [
+     8,
+     "first_aid",
+     {}
+    ],
+    [
+     9,
+     "first_aid",
+     {}
+    ],
+    [
+     10,
+     "first_aid",
+     {}
+    ],
+    [
+     11,
+     "first_aid",
+     {}
+    ],
+    [
+     12,
+     "first_aid",
+     {}
+    ],
+    [
+     13,
+     "rations",
+     {}
+    ],
+    [
+     14,
+     "rations",
+     {}
+    ],
+    [
+     15,
+     "rations",
+     {}
+    ],
+    [
+     16,
+     "rations",
+     {}
+    ],
+    [
+     17,
+     "rations",
+     {}
+    ],
+    [
+     18,
+     "first_aid",
+     {}
+    ],
+    [
+     19,
+     "first_aid",
+     {}
+    ],
+    [
+     20,
+     "first_aid",
+     {}
+    ]
+   ],
+   "h_por_dia": {
+    "1": {},
+    "2": {},
+    "3": {},
+    "4": {},
+    "5": {},
+    "6": {},
+    "7": {},
+    "8": {},
+    "9": {},
+    "10": {},
+    "11": {},
+    "12": {},
+    "13": {},
+    "14": {},
+    "15": {},
+    "16": {},
+    "17": {},
+    "18": {},
+    "19": {},
+    "20": {}
+   },
+   "recuerdos_nuevos_por_dia": {
+    "1": {
+     "first_aid": 0,
+     "rations": 0,
+     "net": 1,
+     "camouflage": 1
+    },
+    "2": {
+     "first_aid": 2,
+     "rations": 1,
+     "net": 0,
+     "camouflage": 0
+    },
+    "3": {
+     "first_aid": 0,
+     "rations": 0,
+     "net": 0,
+     "camouflage": 0
+    },
+    "4": {
+     "first_aid": 1,
+     "rations": 2,
+     "net": 0,
+     "camouflage": 0
+    },
+    "5": {
+     "first_aid": 0,
+     "rations": 0,
+     "net": 1,
+     "camouflage": 1
+    },
+    "6": {
+     "first_aid": 0,
+     "rations": 0,
+     "net": 0,
+     "camouflage": 1
+    },
+    "7": {
+     "first_aid": 1,
+     "rations": 3,
+     "net": 1,
+     "camouflage": 0
+    },
+    "8": {
+     "first_aid": 2,
+     "rations": 3,
+     "net": 1,
+     "camouflage": 1
+    },
+    "9": {
+     "first_aid": 0,
+     "rations": 1,
+     "net": 0,
+     "camouflage": 1
+    },
+    "10": {
+     "first_aid": 0,
+     "rations": 3,
+     "net": 1,
+     "camouflage": 1
+    },
+    "11": {
+     "first_aid": 0,
+     "rations": 3,
+     "net": 0,
+     "camouflage": 0
+    },
+    "12": {
+     "first_aid": 1,
+     "rations": 1,
+     "net": 0,
+     "camouflage": 1
+    },
+    "13": {
+     "first_aid": 1,
+     "rations": 2,
+     "net": 0,
+     "camouflage": 1
+    },
+    "14": {
+     "first_aid": 0,
+     "rations": 1,
+     "net": 1,
+     "camouflage": 1
+    },
+    "15": {
+     "first_aid": 0,
+     "rations": 1,
+     "net": 0,
+     "camouflage": 0
+    },
+    "16": {
+     "first_aid": 0,
+     "rations": 0,
+     "net": 1,
+     "camouflage": 0
+    },
+    "17": {
+     "first_aid": 0,
+     "rations": 0,
+     "net": 0,
+     "camouflage": 1
+    },
+    "18": {
+     "first_aid": 1,
+     "rations": 1,
+     "net": 0,
+     "camouflage": 1
+    },
+    "19": {
+     "first_aid": 0,
+     "rations": 0,
+     "net": 0,
+     "camouflage": 0
+    },
+    "20": {
+     "first_aid": 1,
+     "rations": 1,
+     "net": 0,
+     "camouflage": 0
+    }
+   },
+   "k_estrella": null,
+   "pruebas_botiquin": 10,
+   "curva": [
+    6.4167,
+    11.2273,
+    14.243,
+    18.5895,
+    16.9904,
+    17.5911,
+    17.4088,
+    16.6088,
+    13.6049,
+    13.174
+   ],
+   "dia_ultimo_cuaderno": 20,
+   "k_estrella_real": null,
+   "pruebas_botiquin_real": 10,
+   "curva_real": [
+    5.8184,
+    9.7994,
+    12.6435,
+    16.1915,
+    15.4993,
+    16.4119,
+    16.2483,
+    15.4886,
+    12.9312,
+    12.6332
+   ],
+   "habituacion_final": null,
+   "recuperaciones": []
+  },
+  "APRENDE_v s3 a11": {
+   "variante": "APRENDE_v",
+   "serie": 3,
+   "asiento": 11,
+   "dias": 20,
+   "cierres": [
+    [
+     1,
+     "rations",
+     {}
+    ],
+    [
+     2,
+     "rations",
+     {}
+    ],
+    [
+     3,
+     "rations",
+     {}
+    ],
+    [
+     4,
+     "rations",
+     {}
+    ],
+    [
+     5,
+     "rations",
+     {}
+    ],
+    [
+     6,
+     "net",
+     {}
+    ],
+    [
+     7,
+     "first_aid",
+     {}
+    ],
+    [
+     8,
+     "first_aid",
+     {}
+    ],
+    [
+     9,
+     "first_aid",
+     {}
+    ],
+    [
+     10,
+     "first_aid",
+     {}
+    ],
+    [
+     11,
+     "first_aid",
+     {}
+    ],
+    [
+     12,
+     "first_aid",
+     {}
+    ],
+    [
+     13,
+     "first_aid",
+     {}
+    ],
+    [
+     14,
+     "first_aid",
+     {}
+    ],
+    [
+     15,
+     "first_aid",
+     {}
+    ],
+    [
+     16,
+     "first_aid",
+     {}
+    ],
+    [
+     17,
+     "first_aid",
+     {}
+    ],
+    [
+     18,
+     "first_aid",
+     {}
+    ],
+    [
+     19,
+     "first_aid",
+     {}
+    ],
+    [
+     20,
+     "first_aid",
+     {}
+    ]
+   ],
+   "h_por_dia": {
+    "1": {},
+    "2": {},
+    "3": {},
+    "4": {},
+    "5": {},
+    "6": {},
+    "7": {},
+    "8": {},
+    "9": {},
+    "10": {},
+    "11": {},
+    "12": {},
+    "13": {},
+    "14": {},
+    "15": {},
+    "16": {},
+    "17": {},
+    "18": {},
+    "19": {},
+    "20": {}
+   },
+   "recuerdos_nuevos_por_dia": {
+    "1": {
+     "first_aid": 2,
+     "rations": 0,
+     "net": 0,
+     "camouflage": 0
+    },
+    "2": {
+     "first_aid": 0,
+     "rations": 0,
+     "net": 1,
+     "camouflage": 0
+    },
+    "3": {
+     "first_aid": 0,
+     "rations": 0,
+     "net": 0,
+     "camouflage": 0
+    },
+    "4": {
+     "first_aid": 0,
+     "rations": 1,
+     "net": 0,
+     "camouflage": 1
+    },
+    "5": {
+     "first_aid": 0,
+     "rations": 0,
+     "net": 0,
+     "camouflage": 0
+    },
+    "6": {
+     "first_aid": 0,
+     "rations": 3,
+     "net": 1,
+     "camouflage": 0
+    },
+    "7": {
+     "first_aid": 1,
+     "rations": 1,
+     "net": 1,
+     "camouflage": 4
+    },
+    "8": {
+     "first_aid": 0,
+     "rations": 1,
+     "net": 0,
+     "camouflage": 0
+    },
+    "9": {
+     "first_aid": 0,
+     "rations": 0,
+     "net": 0,
+     "camouflage": 0
+    },
+    "10": {
+     "first_aid": 0,
+     "rations": 0,
+     "net": 0,
+     "camouflage": 0
+    },
+    "11": {
+     "first_aid": 1,
+     "rations": 0,
+     "net": 1,
+     "camouflage": 1
+    },
+    "12": {
+     "first_aid": 0,
+     "rations": 1,
+     "net": 0,
+     "camouflage": 0
+    },
+    "13": {
+     "first_aid": 2,
+     "rations": 6,
+     "net": 1,
+     "camouflage": 0
+    },
+    "14": {
+     "first_aid": 1,
+     "rations": 0,
+     "net": 0,
+     "camouflage": 0
+    },
+    "15": {
+     "first_aid": 0,
+     "rations": 1,
+     "net": 0,
+     "camouflage": 0
+    },
+    "16": {
+     "first_aid": 0,
+     "rations": 2,
+     "net": 0,
+     "camouflage": 0
+    },
+    "17": {
+     "first_aid": 0,
+     "rations": 0,
+     "net": 0,
+     "camouflage": 0
+    },
+    "18": {
+     "first_aid": 2,
+     "rations": 0,
+     "net": 1,
+     "camouflage": 0
+    },
+    "19": {
+     "first_aid": 0,
+     "rations": 3,
+     "net": 0,
+     "camouflage": 0
+    },
+    "20": {
+     "first_aid": 0,
+     "rations": 3,
+     "net": 1,
+     "camouflage": 1
+    }
+   },
+   "k_estrella": 8,
+   "pruebas_botiquin": 9,
+   "curva": [
+    7.3333,
+    8.7414,
+    16.2262,
+    23.4208,
+    19.4176,
+    18.605,
+    17.8929,
+    40.0
+   ],
+   "dia_ultimo_cuaderno": 20,
+   "k_estrella_real": 8,
+   "pruebas_botiquin_real": 9,
+   "curva_real": [
+    5.7499,
+    7.5283,
+    12.6336,
+    18.6278,
+    15.9804,
+    15.9843,
+    15.3205,
+    31.6032
+   ],
+   "habituacion_final": null,
+   "recuperaciones": []
+  },
+  "APRENDE_p s1 a10": {
+   "variante": "APRENDE_p",
+   "serie": 1,
+   "asiento": 10,
+   "dias": 20,
+   "cierres": [
+    [
+     1,
+     "first_aid",
+     {}
+    ],
+    [
+     2,
+     "rations",
+     {}
+    ],
+    [
+     3,
+     "rations",
+     {}
+    ],
+    [
+     4,
+     "rations",
+     {}
+    ],
+    [
+     5,
+     "first_aid",
+     {}
+    ],
+    [
+     6,
+     "first_aid",
+     {}
+    ],
+    [
+     7,
+     "first_aid",
+     {}
+    ],
+    [
+     8,
+     "first_aid",
+     {}
+    ],
+    [
+     9,
+     "first_aid",
+     {}
+    ],
+    [
+     10,
+     "first_aid",
+     {}
+    ],
+    [
+     11,
+     "first_aid",
+     {}
+    ],
+    [
+     12,
+     "first_aid",
+     {}
+    ],
+    [
+     13,
+     "first_aid",
+     {}
+    ],
+    [
+     14,
+     "first_aid",
+     {}
+    ],
+    [
+     15,
+     "first_aid",
+     {}
+    ],
+    [
+     16,
+     "first_aid",
+     {}
+    ],
+    [
+     17,
+     "first_aid",
+     {}
+    ],
+    [
+     18,
+     "first_aid",
+     {}
+    ],
+    [
+     19,
+     "first_aid",
+     {}
+    ],
+    [
+     20,
+     "first_aid",
+     {}
+    ]
+   ],
+   "h_por_dia": {
+    "1": {},
+    "2": {},
+    "3": {},
+    "4": {},
+    "5": {},
+    "6": {},
+    "7": {},
+    "8": {},
+    "9": {},
+    "10": {},
+    "11": {},
+    "12": {},
+    "13": {},
+    "14": {},
+    "15": {},
+    "16": {},
+    "17": {},
+    "18": {},
+    "19": {},
+    "20": {}
+   },
+   "recuerdos_nuevos_por_dia": {
+    "1": {
+     "first_aid": 0,
+     "rations": 2,
+     "net": 0,
+     "camouflage": 1
+    },
+    "2": {
+     "first_aid": 0,
+     "rations": 4,
+     "net": 0,
+     "camouflage": 1
+    },
+    "3": {
+     "first_aid": 0,
+     "rations": 3,
+     "net": 1,
+     "camouflage": 0
+    },
+    "4": {
+     "first_aid": 0,
+     "rations": 0,
+     "net": 0,
+     "camouflage": 1
+    },
+    "5": {
+     "first_aid": 0,
+     "rations": 3,
+     "net": 0,
+     "camouflage": 0
+    },
+    "6": {
+     "first_aid": 2,
+     "rations": 1,
+     "net": 0,
+     "camouflage": 0
+    },
+    "7": {
+     "first_aid": 0,
+     "rations": 0,
+     "net": 0,
+     "camouflage": 0
+    },
+    "8": {
+     "first_aid": 0,
+     "rations": 1,
+     "net": 1,
+     "camouflage": 0
+    },
+    "9": {
+     "first_aid": 0,
+     "rations": 1,
+     "net": 1,
+     "camouflage": 1
+    },
+    "10": {
+     "first_aid": 1,
+     "rations": 1,
+     "net": 0,
+     "camouflage": 0
+    },
+    "11": {
+     "first_aid": 0,
+     "rations": 1,
+     "net": 0,
+     "camouflage": 0
+    },
+    "12": {
+     "first_aid": 0,
+     "rations": 1,
+     "net": 0,
+     "camouflage": 1
+    },
+    "13": {
+     "first_aid": 0,
+     "rations": 1,
+     "net": 0,
+     "camouflage": 0
+    },
+    "14": {
+     "first_aid": 0,
+     "rations": 3,
+     "net": 0,
+     "camouflage": 0
+    },
+    "15": {
+     "first_aid": 0,
+     "rations": 0,
+     "net": 1,
+     "camouflage": 1
+    },
+    "16": {
+     "first_aid": 2,
+     "rations": 6,
+     "net": 0,
+     "camouflage": 0
+    },
+    "17": {
+     "first_aid": 0,
+     "rations": 0,
+     "net": 1,
+     "camouflage": 1
+    },
+    "18": {
+     "first_aid": 2,
+     "rations": 5,
+     "net": 1,
+     "camouflage": 1
+    },
+    "19": {
+     "first_aid": 1,
+     "rations": 5,
+     "net": 0,
+     "camouflage": 1
+    },
+    "20": {
+     "first_aid": 0,
+     "rations": 2,
+     "net": 1,
+     "camouflage": 0
+    }
+   },
+   "k_estrella": 6,
+   "pruebas_botiquin": 8,
+   "curva": [
+    8.5092,
+    12.4826,
+    24.0036,
+    20.1366,
+    20.1366,
+    29.0704
+   ],
+   "dia_ultimo_cuaderno": 20,
+   "k_estrella_real": null,
+   "pruebas_botiquin_real": 8,
+   "curva_real": [
+    6.2412,
+    10.6673,
+    20.291,
+    15.1738,
+    15.1738,
+    23.4191,
+    23.1631,
+    22.9893
+   ],
+   "habituacion_final": null,
+   "recuperaciones": []
+  },
+  "APRENDE_p s1 a11": {
+   "variante": "APRENDE_p",
+   "serie": 1,
+   "asiento": 11,
+   "dias": 20,
+   "cierres": [
+    [
+     1,
+     "rations",
+     {}
+    ],
+    [
+     2,
+     "rations",
+     {}
+    ],
+    [
+     3,
+     "rations",
+     {}
+    ],
+    [
+     4,
+     "first_aid",
+     {}
+    ],
+    [
+     5,
+     "first_aid",
+     {}
+    ],
+    [
+     6,
+     "first_aid",
+     {}
+    ],
+    [
+     7,
+     "rations",
+     {}
+    ],
+    [
+     8,
+     "rations",
+     {}
+    ],
+    [
+     9,
+     "first_aid",
+     {}
+    ],
+    [
+     10,
+     "first_aid",
+     {}
+    ],
+    [
+     11,
+     "first_aid",
+     {}
+    ],
+    [
+     12,
+     "first_aid",
+     {}
+    ],
+    [
+     13,
+     "first_aid",
+     {}
+    ],
+    [
+     14,
+     "first_aid",
+     {}
+    ],
+    [
+     15,
+     "first_aid",
+     {}
+    ],
+    [
+     16,
+     "first_aid",
+     {}
+    ],
+    [
+     17,
+     "first_aid",
+     {}
+    ],
+    [
+     18,
+     "first_aid",
+     {}
+    ],
+    [
+     19,
+     "first_aid",
+     {}
+    ],
+    [
+     20,
+     "first_aid",
+     {}
+    ]
+   ],
+   "h_por_dia": {
+    "1": {},
+    "2": {},
+    "3": {},
+    "4": {},
+    "5": {},
+    "6": {},
+    "7": {},
+    "8": {},
+    "9": {},
+    "10": {},
+    "11": {},
+    "12": {},
+    "13": {},
+    "14": {},
+    "15": {},
+    "16": {},
+    "17": {},
+    "18": {},
+    "19": {},
+    "20": {}
+   },
+   "recuerdos_nuevos_por_dia": {
+    "1": {
+     "first_aid": 2,
+     "rations": 0,
+     "net": 0,
+     "camouflage": 0
+    },
+    "2": {
+     "first_aid": 0,
+     "rations": 1,
+     "net": 0,
+     "camouflage": 0
+    },
+    "3": {
+     "first_aid": 3,
+     "rations": 0,
+     "net": 0,
+     "camouflage": 1
+    },
+    "4": {
+     "first_aid": 0,
+     "rations": 0,
+     "net": 1,
+     "camouflage": 0
+    },
+    "5": {
+     "first_aid": 1,
+     "rations": 0,
+     "net": 1,
+     "camouflage": 1
+    },
+    "6": {
+     "first_aid": 1,
+     "rations": 1,
+     "net": 1,
+     "camouflage": 0
+    },
+    "7": {
+     "first_aid": 0,
+     "rations": 1,
+     "net": 1,
+     "camouflage": 0
+    },
+    "8": {
+     "first_aid": 1,
+     "rations": 1,
+     "net": 0,
+     "camouflage": 1
+    },
+    "9": {
+     "first_aid": 0,
+     "rations": 3,
+     "net": 0,
+     "camouflage": 0
+    },
+    "10": {
+     "first_aid": 0,
+     "rations": 0,
+     "net": 1,
+     "camouflage": 1
+    },
+    "11": {
+     "first_aid": 1,
+     "rations": 1,
+     "net": 0,
+     "camouflage": 1
+    },
+    "12": {
+     "first_aid": 0,
+     "rations": 0,
+     "net": 1,
+     "camouflage": 0
+    },
+    "13": {
+     "first_aid": 1,
+     "rations": 0,
+     "net": 0,
+     "camouflage": 0
+    },
+    "14": {
+     "first_aid": 0,
+     "rations": 0,
+     "net": 0,
+     "camouflage": 1
+    },
+    "15": {
+     "first_aid": 0,
+     "rations": 0,
+     "net": 1,
+     "camouflage": 0
+    },
+    "16": {
+     "first_aid": 0,
+     "rations": 1,
+     "net": 0,
+     "camouflage": 0
+    },
+    "17": {
+     "first_aid": 0,
+     "rations": 0,
+     "net": 1,
+     "camouflage": 2
+    },
+    "18": {
+     "first_aid": 1,
+     "rations": 2,
+     "net": 0,
+     "camouflage": 0
+    },
+    "19": {
+     "first_aid": 2,
+     "rations": 5,
+     "net": 0,
+     "camouflage": 0
+    },
+    "20": {
+     "first_aid": 0,
+     "rations": 0,
+     "net": 0,
+     "camouflage": 1
+    }
+   },
+   "k_estrella": null,
+   "pruebas_botiquin": 13,
+   "curva": [
+    5.3333,
+    7.5451,
+    9.9871,
+    9.3189,
+    9.3189,
+    8.1227,
+    10.5189,
+    14.9141,
+    14.1414,
+    13.6955,
+    15.5896,
+    19.6047,
+    22.3271
+   ],
+   "dia_ultimo_cuaderno": 20,
+   "k_estrella_real": null,
+   "pruebas_botiquin_real": 13,
+   "curva_real": [
+    4.3435,
+    6.6502,
+    9.0246,
+    8.4286,
+    8.4286,
+    7.3119,
+    9.5191,
+    13.5447,
+    12.9279,
+    12.6458,
+    13.722,
+    16.6552,
+    19.0498
+   ],
+   "habituacion_final": null,
+   "recuperaciones": []
+  },
+  "APRENDE_p s2 a10": {
+   "variante": "APRENDE_p",
+   "serie": 2,
+   "asiento": 10,
+   "dias": 20,
+   "cierres": [
+    [
+     1,
+     "first_aid",
+     {}
+    ],
+    [
+     2,
+     "first_aid",
+     {}
+    ],
+    [
+     3,
+     "rations",
+     {}
+    ],
+    [
+     4,
+     "rations",
+     {}
+    ],
+    [
+     5,
+     "rations",
+     {}
+    ],
+    [
+     6,
+     "rations",
+     {}
+    ],
+    [
+     7,
+     "net",
+     {}
+    ],
+    [
+     8,
+     "rations",
+     {}
+    ],
+    [
+     9,
+     "rations",
+     {}
+    ],
+    [
+     10,
+     "camouflage",
+     {}
+    ],
+    [
+     11,
+     "camouflage",
+     {}
+    ],
+    [
+     12,
+     "camouflage",
+     {}
+    ],
+    [
+     13,
+     "camouflage",
+     {}
+    ],
+    [
+     14,
+     "first_aid",
+     {}
+    ],
+    [
+     15,
+     "first_aid",
+     {}
+    ],
+    [
+     16,
+     "first_aid",
+     {}
+    ],
+    [
+     17,
+     "first_aid",
+     {}
+    ],
+    [
+     18,
+     "first_aid",
+     {}
+    ],
+    [
+     19,
+     "first_aid",
+     {}
+    ],
+    [
+     20,
+     "first_aid",
+     {}
+    ]
+   ],
+   "h_por_dia": {
+    "1": {},
+    "2": {},
+    "3": {},
+    "4": {},
+    "5": {},
+    "6": {},
+    "7": {},
+    "8": {},
+    "9": {},
+    "10": {},
+    "11": {},
+    "12": {},
+    "13": {},
+    "14": {},
+    "15": {},
+    "16": {},
+    "17": {},
+    "18": {},
+    "19": {},
+    "20": {}
+   },
+   "recuerdos_nuevos_por_dia": {
+    "1": {
+     "first_aid": 0,
+     "rations": 0,
+     "net": 0,
+     "camouflage": 1
+    },
+    "2": {
+     "first_aid": 0,
+     "rations": 2,
+     "net": 0,
+     "camouflage": 0
+    },
+    "3": {
+     "first_aid": 2,
+     "rations": 0,
+     "net": 1,
+     "camouflage": 1
+    },
+    "4": {
+     "first_aid": 0,
+     "rations": 0,
+     "net": 0,
+     "camouflage": 0
+    },
+    "5": {
+     "first_aid": 0,
+     "rations": 2,
+     "net": 0,
+     "camouflage": 0
+    },
+    "6": {
+     "first_aid": 0,
+     "rations": 0,
+     "net": 1,
+     "camouflage": 0
+    },
+    "7": {
+     "first_aid": 0,
+     "rations": 3,
+     "net": 0,
+     "camouflage": 0
+    },
+    "8": {
+     "first_aid": 1,
+     "rations": 1,
+     "net": 0,
+     "camouflage": 0
+    },
+    "9": {
+     "first_aid": 0,
+     "rations": 0,
+     "net": 1,
+     "camouflage": 1
+    },
+    "10": {
+     "first_aid": 0,
+     "rations": 3,
+     "net": 1,
+     "camouflage": 0
+    },
+    "11": {
+     "first_aid": 0,
+     "rations": 1,
+     "net": 0,
+     "camouflage": 1
+    },
+    "12": {
+     "first_aid": 0,
+     "rations": 3,
+     "net": 0,
+     "camouflage": 0
+    },
+    "13": {
+     "first_aid": 0,
+     "rations": 1,
+     "net": 0,
+     "camouflage": 1
+    },
+    "14": {
+     "first_aid": 1,
+     "rations": 1,
+     "net": 0,
+     "camouflage": 1
+    },
+    "15": {
+     "first_aid": 0,
+     "rations": 0,
+     "net": 0,
+     "camouflage": 0
+    },
+    "16": {
+     "first_aid": 0,
+     "rations": 0,
+     "net": 1,
+     "camouflage": 1
+    },
+    "17": {
+     "first_aid": 0,
+     "rations": 0,
+     "net": 0,
+     "camouflage": 0
+    },
+    "18": {
+     "first_aid": 2,
+     "rations": 5,
+     "net": 0,
+     "camouflage": 1
+    },
+    "19": {
+     "first_aid": 0,
+     "rations": 3,
+     "net": 0,
+     "camouflage": 1
+    },
+    "20": {
+     "first_aid": 0,
+     "rations": 3,
+     "net": 1,
+     "camouflage": 0
+    }
+   },
+   "k_estrella": null,
+   "pruebas_botiquin": 6,
+   "curva": [
+    8.87,
+    7.885,
+    11.8512,
+    13.2744,
+    10.4487,
+    13.6382
+   ],
+   "dia_ultimo_cuaderno": 20,
+   "k_estrella_real": null,
+   "pruebas_botiquin_real": 6,
+   "curva_real": [
+    6.2088,
+    6.139,
+    9.19,
+    10.8411,
+    8.1408,
+    11.2226
+   ],
+   "habituacion_final": null,
+   "recuperaciones": []
+  },
+  "APRENDE_p s2 a11": {
+   "variante": "APRENDE_p",
+   "serie": 2,
+   "asiento": 11,
+   "dias": 20,
+   "cierres": [
+    [
+     1,
+     "first_aid",
+     {}
+    ],
+    [
+     2,
+     "first_aid",
+     {}
+    ],
+    [
+     3,
+     "first_aid",
+     {}
+    ],
+    [
+     4,
+     "first_aid",
+     {}
+    ],
+    [
+     5,
+     "first_aid",
+     {}
+    ],
+    [
+     6,
+     "first_aid",
+     {}
+    ],
+    [
+     7,
+     "first_aid",
+     {}
+    ],
+    [
+     8,
+     "first_aid",
+     {}
+    ],
+    [
+     9,
+     "first_aid",
+     {}
+    ],
+    [
+     10,
+     "first_aid",
+     {}
+    ],
+    [
+     11,
+     "first_aid",
+     {}
+    ],
+    [
+     12,
+     "first_aid",
+     {}
+    ],
+    [
+     13,
+     "camouflage",
+     {}
+    ],
+    [
+     14,
+     "camouflage",
+     {}
+    ],
+    [
+     15,
+     "net",
+     {}
+    ],
+    [
+     16,
+     "rations",
+     {}
+    ],
+    [
+     17,
+     "rations",
+     {}
+    ],
+    [
+     18,
+     "rations",
+     {}
+    ],
+    [
+     19,
+     "rations",
+     {}
+    ],
+    [
+     20,
+     "camouflage",
+     {}
+    ]
+   ],
+   "h_por_dia": {
+    "1": {},
+    "2": {},
+    "3": {},
+    "4": {},
+    "5": {},
+    "6": {},
+    "7": {},
+    "8": {},
+    "9": {},
+    "10": {},
+    "11": {},
+    "12": {},
+    "13": {},
+    "14": {},
+    "15": {},
+    "16": {},
+    "17": {},
+    "18": {},
+    "19": {},
+    "20": {}
+   },
+   "recuerdos_nuevos_por_dia": {
+    "1": {
+     "first_aid": 1,
+     "rations": 0,
+     "net": 0,
+     "camouflage": 0
+    },
+    "2": {
+     "first_aid": 1,
+     "rations": 6,
+     "net": 0,
+     "camouflage": 1
+    },
+    "3": {
+     "first_aid": 0,
+     "rations": 1,
+     "net": 0,
+     "camouflage": 0
+    },
+    "4": {
+     "first_aid": 2,
+     "rations": 1,
+     "net": 0,
+     "camouflage": 0
+    },
+    "5": {
+     "first_aid": 1,
+     "rations": 1,
+     "net": 1,
+     "camouflage": 1
+    },
+    "6": {
+     "first_aid": 0,
+     "rations": 0,
+     "net": 1,
+     "camouflage": 1
+    },
+    "7": {
+     "first_aid": 1,
+     "rations": 0,
+     "net": 1,
+     "camouflage": 1
+    },
+    "8": {
+     "first_aid": 0,
+     "rations": 2,
+     "net": 0,
+     "camouflage": 1
+    },
+    "9": {
+     "first_aid": 2,
+     "rations": 0,
+     "net": 0,
+     "camouflage": 0
+    },
+    "10": {
+     "first_aid": 1,
+     "rations": 3,
+     "net": 0,
+     "camouflage": 0
+    },
+    "11": {
+     "first_aid": 0,
+     "rations": 0,
+     "net": 0,
+     "camouflage": 0
+    },
+    "12": {
+     "first_aid": 0,
+     "rations": 1,
+     "net": 1,
+     "camouflage": 1
+    },
+    "13": {
+     "first_aid": 3,
+     "rations": 0,
+     "net": 1,
+     "camouflage": 0
+    },
+    "14": {
+     "first_aid": 1,
+     "rations": 0,
+     "net": 1,
+     "camouflage": 0
+    },
+    "15": {
+     "first_aid": 0,
+     "rations": 3,
+     "net": 1,
+     "camouflage": 0
+    },
+    "16": {
+     "first_aid": 1,
+     "rations": 1,
+     "net": 0,
+     "camouflage": 0
+    },
+    "17": {
+     "first_aid": 1,
+     "rations": 0,
+     "net": 1,
+     "camouflage": 0
+    },
+    "18": {
+     "first_aid": 0,
+     "rations": 1,
+     "net": 1,
+     "camouflage": 0
+    },
+    "19": {
+     "first_aid": 1,
+     "rations": 1,
+     "net": 0,
+     "camouflage": 0
+    },
+    "20": {
+     "first_aid": 2,
+     "rations": 2,
+     "net": 0,
+     "camouflage": 1
+    }
+   },
+   "k_estrella": 4,
+   "pruebas_botiquin": 18,
+   "curva": [
+    3.3333,
+    7.7536,
+    9.4809,
+    40.0
+   ],
+   "dia_ultimo_cuaderno": 20,
+   "k_estrella_real": 4,
+   "pruebas_botiquin_real": 18,
+   "curva_real": [
+    2.5461,
+    6.1073,
+    8.2942,
+    30.6853
+   ],
+   "habituacion_final": null,
+   "recuperaciones": []
+  },
+  "APRENDE_p s3 a10": {
+   "variante": "APRENDE_p",
+   "serie": 3,
+   "asiento": 10,
+   "dias": 20,
+   "cierres": [
+    [
+     1,
+     "first_aid",
+     {}
+    ],
+    [
+     2,
+     "rations",
+     {}
+    ],
+    [
+     3,
+     "rations",
+     {}
+    ],
+    [
+     4,
+     "camouflage",
+     {}
+    ],
+    [
+     5,
+     "camouflage",
+     {}
+    ],
+    [
+     6,
+     "camouflage",
+     {}
+    ],
+    [
+     7,
+     "camouflage",
+     {}
+    ],
+    [
+     8,
+     "camouflage",
+     {}
+    ],
+    [
+     9,
+     "first_aid",
+     {}
+    ],
+    [
+     10,
+     "first_aid",
+     {}
+    ],
+    [
+     11,
+     "first_aid",
+     {}
+    ],
+    [
+     12,
+     "first_aid",
+     {}
+    ],
+    [
+     13,
+     "first_aid",
+     {}
+    ],
+    [
+     14,
+     "first_aid",
+     {}
+    ],
+    [
+     15,
+     "first_aid",
+     {}
+    ],
+    [
+     16,
+     "first_aid",
+     {}
+    ],
+    [
+     17,
+     "first_aid",
+     {}
+    ],
+    [
+     18,
+     "first_aid",
+     {}
+    ],
+    [
+     19,
+     "first_aid",
+     {}
+    ],
+    [
+     20,
+     "first_aid",
+     {}
+    ]
+   ],
+   "h_por_dia": {
+    "1": {},
+    "2": {},
+    "3": {},
+    "4": {},
+    "5": {},
+    "6": {},
+    "7": {},
+    "8": {},
+    "9": {},
+    "10": {},
+    "11": {},
+    "12": {},
+    "13": {},
+    "14": {},
+    "15": {},
+    "16": {},
+    "17": {},
+    "18": {},
+    "19": {},
+    "20": {}
+   },
+   "recuerdos_nuevos_por_dia": {
+    "1": {
+     "first_aid": 0,
+     "rations": 0,
+     "net": 1,
+     "camouflage": 1
+    },
+    "2": {
+     "first_aid": 2,
+     "rations": 0,
+     "net": 0,
+     "camouflage": 0
+    },
+    "3": {
+     "first_aid": 1,
+     "rations": 1,
+     "net": 0,
+     "camouflage": 0
+    },
+    "4": {
+     "first_aid": 1,
+     "rations": 1,
+     "net": 0,
+     "camouflage": 1
+    },
+    "5": {
+     "first_aid": 0,
+     "rations": 0,
+     "net": 1,
+     "camouflage": 0
+    },
+    "6": {
+     "first_aid": 2,
+     "rations": 2,
+     "net": 0,
+     "camouflage": 0
+    },
+    "7": {
+     "first_aid": 1,
+     "rations": 0,
+     "net": 1,
+     "camouflage": 0
+    },
+    "8": {
+     "first_aid": 0,
+     "rations": 3,
+     "net": 1,
+     "camouflage": 1
+    },
+    "9": {
+     "first_aid": 0,
+     "rations": 1,
+     "net": 0,
+     "camouflage": 1
+    },
+    "10": {
+     "first_aid": 1,
+     "rations": 3,
+     "net": 1,
+     "camouflage": 1
+    },
+    "11": {
+     "first_aid": 0,
+     "rations": 3,
+     "net": 1,
+     "camouflage": 0
+    },
+    "12": {
+     "first_aid": 2,
+     "rations": 0,
+     "net": 1,
+     "camouflage": 2
+    },
+    "13": {
+     "first_aid": 2,
+     "rations": 4,
+     "net": 0,
+     "camouflage": 0
+    },
+    "14": {
+     "first_aid": 0,
+     "rations": 0,
+     "net": 1,
+     "camouflage": 0
+    },
+    "15": {
+     "first_aid": 0,
+     "rations": 0,
+     "net": 1,
+     "camouflage": 0
+    },
+    "16": {
+     "first_aid": 0,
+     "rations": 1,
+     "net": 0,
+     "camouflage": 1
+    },
+    "17": {
+     "first_aid": 1,
+     "rations": 1,
+     "net": 1,
+     "camouflage": 1
+    },
+    "18": {
+     "first_aid": 0,
+     "rations": 3,
+     "net": 0,
+     "camouflage": 0
+    },
+    "19": {
+     "first_aid": 1,
+     "rations": 3,
+     "net": 0,
+     "camouflage": 1
+    },
+    "20": {
+     "first_aid": 0,
+     "rations": 0,
+     "net": 0,
+     "camouflage": 1
+    }
+   },
+   "k_estrella": 5,
+   "pruebas_botiquin": 14,
+   "curva": [
+    17.6,
+    14.75,
+    13.2746,
+    17.9804,
+    40.0
+   ],
+   "dia_ultimo_cuaderno": 20,
+   "k_estrella_real": 5,
+   "pruebas_botiquin_real": 14,
+   "curva_real": [
+    14.5998,
+    13.2739,
+    12.0533,
+    17.4251,
+    33.1384
+   ],
+   "habituacion_final": null,
+   "recuperaciones": []
+  },
+  "APRENDE_p s3 a11": {
+   "variante": "APRENDE_p",
+   "serie": 3,
+   "asiento": 11,
+   "dias": 20,
+   "cierres": [
+    [
+     1,
+     "first_aid",
+     {}
+    ],
+    [
+     2,
+     "first_aid",
+     {}
+    ],
+    [
+     3,
+     "first_aid",
+     {}
+    ],
+    [
+     4,
+     "first_aid",
+     {}
+    ],
+    [
+     5,
+     "rations",
+     {}
+    ],
+    [
+     6,
+     "first_aid",
+     {}
+    ],
+    [
+     7,
+     "net",
+     {}
+    ],
+    [
+     8,
+     "net",
+     {}
+    ],
+    [
+     9,
+     "first_aid",
+     {}
+    ],
+    [
+     10,
+     "first_aid",
+     {}
+    ],
+    [
+     11,
+     "first_aid",
+     {}
+    ],
+    [
+     12,
+     "first_aid",
+     {}
+    ],
+    [
+     13,
+     "first_aid",
+     {}
+    ],
+    [
+     14,
+     "first_aid",
+     {}
+    ],
+    [
+     15,
+     "first_aid",
+     {}
+    ],
+    [
+     16,
+     "first_aid",
+     {}
+    ],
+    [
+     17,
+     "first_aid",
+     {}
+    ],
+    [
+     18,
+     "first_aid",
+     {}
+    ],
+    [
+     19,
+     "first_aid",
+     {}
+    ],
+    [
+     20,
+     "first_aid",
+     {}
+    ]
+   ],
+   "h_por_dia": {
+    "1": {},
+    "2": {},
+    "3": {},
+    "4": {},
+    "5": {},
+    "6": {},
+    "7": {},
+    "8": {},
+    "9": {},
+    "10": {},
+    "11": {},
+    "12": {},
+    "13": {},
+    "14": {},
+    "15": {},
+    "16": {},
+    "17": {},
+    "18": {},
+    "19": {},
+    "20": {}
+   },
+   "recuerdos_nuevos_por_dia": {
+    "1": {
+     "first_aid": 1,
+     "rations": 0,
+     "net": 0,
+     "camouflage": 0
+    },
+    "2": {
+     "first_aid": 0,
+     "rations": 0,
+     "net": 1,
+     "camouflage": 0
+    },
+    "3": {
+     "first_aid": 0,
+     "rations": 0,
+     "net": 0,
+     "camouflage": 0
+    },
+    "4": {
+     "first_aid": 0,
+     "rations": 0,
+     "net": 0,
+     "camouflage": 0
+    },
+    "5": {
+     "first_aid": 2,
+     "rations": 1,
+     "net": 0,
+     "camouflage": 1
+    },
+    "6": {
+     "first_aid": 0,
+     "rations": 1,
+     "net": 1,
+     "camouflage": 0
+    },
+    "7": {
+     "first_aid": 2,
+     "rations": 0,
+     "net": 1,
+     "camouflage": 0
+    },
+    "8": {
+     "first_aid": 1,
+     "rations": 0,
+     "net": 0,
+     "camouflage": 0
+    },
+    "9": {
+     "first_aid": 1,
+     "rations": 5,
+     "net": 0,
+     "camouflage": 0
+    },
+    "10": {
+     "first_aid": 0,
+     "rations": 0,
+     "net": 0,
+     "camouflage": 0
+    },
+    "11": {
+     "first_aid": 0,
+     "rations": 4,
+     "net": 1,
+     "camouflage": 1
+    },
+    "12": {
+     "first_aid": 0,
+     "rations": 3,
+     "net": 0,
+     "camouflage": 0
+    },
+    "13": {
+     "first_aid": 0,
+     "rations": 1,
+     "net": 1,
+     "camouflage": 1
+    },
+    "14": {
+     "first_aid": 2,
+     "rations": 3,
+     "net": 0,
+     "camouflage": 1
+    },
+    "15": {
+     "first_aid": 3,
+     "rations": 0,
+     "net": 0,
+     "camouflage": 1
+    },
+    "16": {
+     "first_aid": 0,
+     "rations": 2,
+     "net": 1,
+     "camouflage": 0
+    },
+    "17": {
+     "first_aid": 0,
+     "rations": 1,
+     "net": 1,
+     "camouflage": 0
+    },
+    "18": {
+     "first_aid": 2,
+     "rations": 0,
+     "net": 1,
+     "camouflage": 0
+    },
+    "19": {
+     "first_aid": 2,
+     "rations": 8,
+     "net": 1,
+     "camouflage": 0
+    },
+    "20": {
+     "first_aid": 0,
+     "rations": 0,
+     "net": 0,
+     "camouflage": 0
+    }
+   },
+   "k_estrella": 7,
+   "pruebas_botiquin": 16,
+   "curva": [
+    9.3333,
+    9.6324,
+    6.9833,
+    6.7183,
+    8.545,
+    11.0122,
+    35.9692
+   ],
+   "dia_ultimo_cuaderno": 20,
+   "k_estrella_real": 7,
+   "pruebas_botiquin_real": 16,
+   "curva_real": [
+    7.9731,
+    8.6546,
+    6.8523,
+    6.5615,
+    8.3696,
+    10.4701,
+    28.9748
+   ],
+   "habituacion_final": null,
+   "recuperaciones": []
+  }
+ },
+ "H1": {
+  "cierres": 240,
+  "inutil_manda": 33,
+  "pct": 13.8,
+  "d15_20_cierres": 72,
+  "d15_20_inutil": 2,
+  "d15_20_pct": 2.8,
+  "pasa": true,
+  "por_variante": {
+   "APRENDE_v": {
+    "cierres": 120,
+    "inutil": 17,
+    "d15_20_inutil": 0,
+    "d15_20": 36
+   },
+   "APRENDE_p": {
+    "cierres": 120,
+    "inutil": 16,
+    "d15_20_inutil": 2,
+    "d15_20": 36
+   }
+  },
+  "manda_por_clase": {
+   "first_aid": 173,
+   "rations": 34,
+   "net": 11,
+   "camouflage": 22
+  },
+  "por_dia_inutil": {
+   "1": 0,
+   "2": 1,
+   "3": 2,
+   "4": 3,
+   "5": 3,
+   "6": 4,
+   "7": 5,
+   "8": 3,
+   "9": 1,
+   "10": 2,
+   "11": 2,
+   "12": 2,
+   "13": 2,
+   "14": 1,
+   "15": 1,
+   "16": 0,
+   "17": 0,
+   "18": 0,
+   "19": 0,
+   "20": 1
+  }
+ },
+ "H2": {
+  "momentos": 436,
+  "coger": 154,
+  "ir_curioso": 183,
+  "fraccion_coger": 0.353,
+  "pasa": false,
+  "diario_coger_momentos": 243,
+  "aperturas": 195,
+  "por_variante": {
+   "APRENDE_v": {
+    "momentos": 205,
+    "coger": 66
+   },
+   "APRENDE_p": {
+    "momentos": 231,
+    "coger": 88
+   }
+  },
+  "elegidos": {
+   "coger": 154,
+   "noop": 95,
+   "ir_curioso": 183,
+   "ir_objeto": 1,
+   "hacer_sitio_first_aid_por_rations": 1,
+   "usar_botiquin": 1,
+   "atacar_S": 1
+  }
+ },
+ "H3": {
+  "cierres": 129,
+  "racion_mayor": 75,
+  "fraccion": 0.581,
+  "pasa": false,
+  "detalle": [
+   {
+    "criatura": "APRENDE_v s1 a10",
+    "dia": 10,
+    "racion": 0.00911,
+    "red": 0.52868,
+    "mayor": false
+   },
+   {
+    "criatura": "APRENDE_v s1 a10",
+    "dia": 11,
+    "racion": 0.10104,
+    "red": 0.52868,
+    "mayor": false
+   },
+   {
+    "criatura": "APRENDE_v s1 a10",
+    "dia": 12,
+    "racion": 0.10104,
+    "red": 0.5854,
+    "mayor": false
+   },
+   {
+    "criatura": "APRENDE_v s1 a10",
+    "dia": 13,
+    "racion": 0.10184,
+    "red": 0.5854,
+    "mayor": false
+   },
+   {
+    "criatura": "APRENDE_v s1 a10",
+    "dia": 14,
+    "racion": 0.10746,
+    "red": 0.5854,
+    "mayor": false
+   },
+   {
+    "criatura": "APRENDE_v s1 a10",
+    "dia": 15,
+    "racion": 0.10746,
+    "red": 0.63975,
+    "mayor": false
+   },
+   {
+    "criatura": "APRENDE_v s1 a10",
+    "dia": 16,
+    "racion": 0.1315,
+    "red": 0.66185,
+    "mayor": false
+   },
+   {
+    "criatura": "APRENDE_v s1 a10",
+    "dia": 17,
+    "racion": 0.1315,
+    "red": 0.77597,
+    "mayor": false
+   },
+   {
+    "criatura": "APRENDE_v s1 a10",
+    "dia": 18,
+    "racion": 0.1034,
+    "red": 0.93267,
+    "mayor": false
+   },
+   {
+    "criatura": "APRENDE_v s1 a10",
+    "dia": 19,
+    "racion": 0.07912,
+    "red": 0.93267,
+    "mayor": false
+   },
+   {
+    "criatura": "APRENDE_v s1 a10",
+    "dia": 20,
+    "racion": 0.07952,
+    "red": 0.7996,
+    "mayor": false
+   },
+   {
+    "criatura": "APRENDE_v s1 a11",
+    "dia": 10,
+    "racion": 1.12849,
+    "red": 1.0574,
+    "mayor": true
+   },
+   {
+    "criatura": "APRENDE_v s1 a11",
+    "dia": 11,
+    "racion": 1.12849,
+    "red": 1.0574,
+    "mayor": true
+   },
+   {
+    "criatura": "APRENDE_v s1 a11",
+    "dia": 12,
+    "racion": 1.12849,
+    "red": 1.0574,
+    "mayor": true
+   },
+   {
+    "criatura": "APRENDE_v s1 a11",
+    "dia": 13,
+    "racion": 1.17685,
+    "red": 0.85378,
+    "mayor": true
+   },
+   {
+    "criatura": "APRENDE_v s1 a11",
+    "dia": 14,
+    "racion": 1.83022,
+    "red": 0.65632,
+    "mayor": true
+   },
+   {
+    "criatura": "APRENDE_v s1 a11",
+    "dia": 15,
+    "racion": 1.96556,
+    "red": 0.65632,
+    "mayor": true
+   },
+   {
+    "criatura": "APRENDE_v s1 a11",
+    "dia": 16,
+    "racion": 1.96556,
+    "red": 0.65632,
+    "mayor": true
+   },
+   {
+    "criatura": "APRENDE_v s1 a11",
+    "dia": 17,
+    "racion": 1.96556,
+    "red": 0.38037,
+    "mayor": true
+   },
+   {
+    "criatura": "APRENDE_v s1 a11",
+    "dia": 18,
+    "racion": 1.9208,
+    "red": 0.38037,
+    "mayor": true
+   },
+   {
+    "criatura": "APRENDE_v s1 a11",
+    "dia": 19,
+    "racion": 1.9208,
+    "red": 0.38037,
+    "mayor": true
+   },
+   {
+    "criatura": "APRENDE_v s1 a11",
+    "dia": 20,
+    "racion": 1.9208,
+    "red": 0.38037,
+    "mayor": true
+   },
+   {
+    "criatura": "APRENDE_v s2 a10",
+    "dia": 10,
+    "racion": 0.73134,
+    "red": 0.12584,
+    "mayor": true
+   },
+   {
+    "criatura": "APRENDE_v s2 a10",
+    "dia": 11,
+    "racion": 0.74121,
+    "red": 0.12584,
+    "mayor": true
+   },
+   {
+    "criatura": "APRENDE_v s2 a10",
+    "dia": 12,
+    "racion": 0.74121,
+    "red": 0.12584,
+    "mayor": true
+   },
+   {
+    "criatura": "APRENDE_v s2 a10",
+    "dia": 13,
+    "racion": 0.61343,
+    "red": 0.12584,
+    "mayor": true
+   },
+   {
+    "criatura": "APRENDE_v s2 a10",
+    "dia": 14,
+    "racion": 0.84331,
+    "red": 0.12584,
+    "mayor": true
+   },
+   {
+    "criatura": "APRENDE_v s2 a10",
+    "dia": 15,
+    "racion": 0.84331,
+    "red": 0.1021,
+    "mayor": true
+   },
+   {
+    "criatura": "APRENDE_v s2 a10",
+    "dia": 16,
+    "racion": 0.84331,
+    "red": 0.1021,
+    "mayor": true
+   },
+   {
+    "criatura": "APRENDE_v s2 a10",
+    "dia": 17,
+    "racion": 0.84331,
+    "red": 0.1021,
+    "mayor": true
+   },
+   {
+    "criatura": "APRENDE_v s2 a10",
+    "dia": 18,
+    "racion": 0.73187,
+    "red": 0.1021,
+    "mayor": true
+   },
+   {
+    "criatura": "APRENDE_v s2 a10",
+    "dia": 19,
+    "racion": 0.87694,
+    "red": 0.1021,
+    "mayor": true
+   },
+   {
+    "criatura": "APRENDE_v s2 a10",
+    "dia": 20,
+    "racion": 0.78406,
+    "red": 0.1021,
+    "mayor": true
+   },
+   {
+    "criatura": "APRENDE_v s2 a11",
+    "dia": 13,
+    "racion": 0.04264,
+    "red": 0.61377,
+    "mayor": false
+   },
+   {
+    "criatura": "APRENDE_v s2 a11",
+    "dia": 14,
+    "racion": 0.10595,
+    "red": 0.32839,
+    "mayor": false
+   },
+   {
+    "criatura": "APRENDE_v s2 a11",
+    "dia": 15,
+    "racion": 0.118,
+    "red": 0.32839,
+    "mayor": false
+   },
+   {
+    "criatura": "APRENDE_v s2 a11",
+    "dia": 16,
+    "racion": 0.118,
+    "red": 0.46272,
+    "mayor": false
+   },
+   {
+    "criatura": "APRENDE_v s2 a11",
+    "dia": 17,
+    "racion": 0.118,
+    "red": 0.3489,
+    "mayor": false
+   },
+   {
+    "criatura": "APRENDE_v s2 a11",
+    "dia": 18,
+    "racion": 0.1062,
+    "red": 0.26737,
+    "mayor": false
+   },
+   {
+    "criatura": "APRENDE_v s2 a11",
+    "dia": 19,
+    "racion": 0.10538,
+    "red": 0.26737,
+    "mayor": false
+   },
+   {
+    "criatura": "APRENDE_v s2 a11",
+    "dia": 20,
+    "racion": 0.12817,
+    "red": 0.26737,
+    "mayor": false
+   },
+   {
+    "criatura": "APRENDE_v s3 a10",
+    "dia": 10,
+    "racion": 0.01396,
+    "red": 0.22425,
+    "mayor": false
+   },
+   {
+    "criatura": "APRENDE_v s3 a10",
+    "dia": 11,
+    "racion": 0.00711,
+    "red": 0.22425,
+    "mayor": false
+   },
+   {
+    "criatura": "APRENDE_v s3 a10",
+    "dia": 12,
+    "racion": 0.00722,
+    "red": 0.22425,
+    "mayor": false
+   },
+   {
+    "criatura": "APRENDE_v s3 a10",
+    "dia": 13,
+    "racion": 0.6745,
+    "red": 0.22425,
+    "mayor": true
+   },
+   {
+    "criatura": "APRENDE_v s3 a10",
+    "dia": 14,
+    "racion": 0.67411,
+    "red": 0.3487,
+    "mayor": true
+   },
+   {
+    "criatura": "APRENDE_v s3 a10",
+    "dia": 15,
+    "racion": 0.62958,
+    "red": 0.3487,
+    "mayor": true
+   },
+   {
+    "criatura": "APRENDE_v s3 a10",
+    "dia": 16,
+    "racion": 0.62958,
+    "red": 0.52694,
+    "mayor": true
+   },
+   {
+    "criatura": "APRENDE_v s3 a10",
+    "dia": 17,
+    "racion": 0.62958,
+    "red": 0.52694,
+    "mayor": true
+   },
+   {
+    "criatura": "APRENDE_v s3 a10",
+    "dia": 18,
+    "racion": 0.62809,
+    "red": 0.52694,
+    "mayor": true
+   },
+   {
+    "criatura": "APRENDE_v s3 a10",
+    "dia": 19,
+    "racion": 0.62809,
+    "red": 0.52694,
+    "mayor": true
+   },
+   {
+    "criatura": "APRENDE_v s3 a10",
+    "dia": 20,
+    "racion": 0.5759,
+    "red": 0.52694,
+    "mayor": true
+   },
+   {
+    "criatura": "APRENDE_v s3 a11",
+    "dia": 10,
+    "racion": 0.39147,
+    "red": 1.06665,
+    "mayor": false
+   },
+   {
+    "criatura": "APRENDE_v s3 a11",
+    "dia": 11,
+    "racion": 0.39147,
+    "red": 0.63697,
+    "mayor": false
+   },
+   {
+    "criatura": "APRENDE_v s3 a11",
+    "dia": 12,
+    "racion": 1.36283,
+    "red": 0.63697,
+    "mayor": true
+   },
+   {
+    "criatura": "APRENDE_v s3 a11",
+    "dia": 13,
+    "racion": 0.85237,
+    "red": 0.42723,
+    "mayor": true
+   },
+   {
+    "criatura": "APRENDE_v s3 a11",
+    "dia": 14,
+    "racion": 0.86232,
+    "red": 0.42723,
+    "mayor": true
+   },
+   {
+    "criatura": "APRENDE_v s3 a11",
+    "dia": 15,
+    "racion": 0.16614,
+    "red": 0.42723,
+    "mayor": false
+   },
+   {
+    "criatura": "APRENDE_v s3 a11",
+    "dia": 16,
+    "racion": 0.14519,
+    "red": 0.42723,
+    "mayor": false
+   },
+   {
+    "criatura": "APRENDE_v s3 a11",
+    "dia": 17,
+    "racion": 0.14519,
+    "red": 0.42723,
+    "mayor": false
+   },
+   {
+    "criatura": "APRENDE_v s3 a11",
+    "dia": 18,
+    "racion": 0.14519,
+    "red": 0.06408,
+    "mayor": true
+   },
+   {
+    "criatura": "APRENDE_v s3 a11",
+    "dia": 19,
+    "racion": 0.66647,
+    "red": 0.06408,
+    "mayor": true
+   },
+   {
+    "criatura": "APRENDE_v s3 a11",
+    "dia": 20,
+    "racion": 1.09916,
+    "red": 0.08836,
+    "mayor": true
+   },
+   {
+    "criatura": "APRENDE_p s1 a10",
+    "dia": 10,
+    "racion": 0.2529,
+    "red": 0.52146,
+    "mayor": false
+   },
+   {
+    "criatura": "APRENDE_p s1 a10",
+    "dia": 11,
+    "racion": 0.22597,
+    "red": 0.52146,
+    "mayor": false
+   },
+   {
+    "criatura": "APRENDE_p s1 a10",
+    "dia": 12,
+    "racion": 0.22765,
+    "red": 0.52146,
+    "mayor": false
+   },
+   {
+    "criatura": "APRENDE_p s1 a10",
+    "dia": 13,
+    "racion": 0.2052,
+    "red": 0.52146,
+    "mayor": false
+   },
+   {
+    "criatura": "APRENDE_p s1 a10",
+    "dia": 14,
+    "racion": 0.16341,
+    "red": 0.52146,
+    "mayor": false
+   },
+   {
+    "criatura": "APRENDE_p s1 a10",
+    "dia": 15,
+    "racion": 0.21104,
+    "red": 1.81574,
+    "mayor": false
+   },
+   {
+    "criatura": "APRENDE_p s1 a10",
+    "dia": 16,
+    "racion": 0.36929,
+    "red": 1.81574,
+    "mayor": false
+   },
+   {
+    "criatura": "APRENDE_p s1 a10",
+    "dia": 17,
+    "racion": 0.3733,
+    "red": 1.47342,
+    "mayor": false
+   },
+   {
+    "criatura": "APRENDE_p s1 a10",
+    "dia": 18,
+    "racion": 0.33464,
+    "red": 1.53194,
+    "mayor": false
+   },
+   {
+    "criatura": "APRENDE_p s1 a10",
+    "dia": 19,
+    "racion": 0.37558,
+    "red": 1.53194,
+    "mayor": false
+   },
+   {
+    "criatura": "APRENDE_p s1 a10",
+    "dia": 20,
+    "racion": 0.40638,
+    "red": 1.20474,
+    "mayor": false
+   },
+   {
+    "criatura": "APRENDE_p s1 a11",
+    "dia": 10,
+    "racion": 0.43527,
+    "red": 0.01554,
+    "mayor": true
+   },
+   {
+    "criatura": "APRENDE_p s1 a11",
+    "dia": 11,
+    "racion": 0.21991,
+    "red": 0.01554,
+    "mayor": true
+   },
+   {
+    "criatura": "APRENDE_p s1 a11",
+    "dia": 12,
+    "racion": 0.21991,
+    "red": 0.03188,
+    "mayor": true
+   },
+   {
+    "criatura": "APRENDE_p s1 a11",
+    "dia": 13,
+    "racion": 0.21991,
+    "red": 0.03188,
+    "mayor": true
+   },
+   {
+    "criatura": "APRENDE_p s1 a11",
+    "dia": 14,
+    "racion": 0.21991,
+    "red": 0.03188,
+    "mayor": true
+   },
+   {
+    "criatura": "APRENDE_p s1 a11",
+    "dia": 15,
+    "racion": 0.21991,
+    "red": 0.30181,
+    "mayor": false
+   },
+   {
+    "criatura": "APRENDE_p s1 a11",
+    "dia": 16,
+    "racion": 0.33348,
+    "red": 0.30181,
+    "mayor": true
+   },
+   {
+    "criatura": "APRENDE_p s1 a11",
+    "dia": 17,
+    "racion": 0.33348,
+    "red": 0.75336,
+    "mayor": false
+   },
+   {
+    "criatura": "APRENDE_p s1 a11",
+    "dia": 18,
+    "racion": 0.33446,
+    "red": 0.75336,
+    "mayor": false
+   },
+   {
+    "criatura": "APRENDE_p s1 a11",
+    "dia": 19,
+    "racion": 3.00721,
+    "red": 0.75336,
+    "mayor": true
+   },
+   {
+    "criatura": "APRENDE_p s1 a11",
+    "dia": 20,
+    "racion": 3.01227,
+    "red": 0.75336,
+    "mayor": true
+   },
+   {
+    "criatura": "APRENDE_p s2 a10",
+    "dia": 10,
+    "racion": 1.56578,
+    "red": 0.15415,
+    "mayor": true
+   },
+   {
+    "criatura": "APRENDE_p s2 a10",
+    "dia": 11,
+    "racion": 1.58624,
+    "red": 0.15415,
+    "mayor": true
+   },
+   {
+    "criatura": "APRENDE_p s2 a10",
+    "dia": 12,
+    "racion": 0.25461,
+    "red": 0.15415,
+    "mayor": true
+   },
+   {
+    "criatura": "APRENDE_p s2 a10",
+    "dia": 13,
+    "racion": 0.2548,
+    "red": 0.15415,
+    "mayor": true
+   },
+   {
+    "criatura": "APRENDE_p s2 a10",
+    "dia": 14,
+    "racion": 0.22709,
+    "red": 0.15415,
+    "mayor": true
+   },
+   {
+    "criatura": "APRENDE_p s2 a10",
+    "dia": 15,
+    "racion": 0.22709,
+    "red": 0.15415,
+    "mayor": true
+   },
+   {
+    "criatura": "APRENDE_p s2 a10",
+    "dia": 16,
+    "racion": 0.22709,
+    "red": 0.12507,
+    "mayor": true
+   },
+   {
+    "criatura": "APRENDE_p s2 a10",
+    "dia": 17,
+    "racion": 0.22709,
+    "red": 0.12507,
+    "mayor": true
+   },
+   {
+    "criatura": "APRENDE_p s2 a10",
+    "dia": 18,
+    "racion": 0.04187,
+    "red": 0.12507,
+    "mayor": false
+   },
+   {
+    "criatura": "APRENDE_p s2 a10",
+    "dia": 19,
+    "racion": 0.08632,
+    "red": 0.12507,
+    "mayor": false
+   },
+   {
+    "criatura": "APRENDE_p s2 a10",
+    "dia": 20,
+    "racion": 0.18327,
+    "red": 0.08063,
+    "mayor": true
+   },
+   {
+    "criatura": "APRENDE_p s2 a11",
+    "dia": 10,
+    "racion": 0.2231,
+    "red": 0.13179,
+    "mayor": true
+   },
+   {
+    "criatura": "APRENDE_p s2 a11",
+    "dia": 11,
+    "racion": 0.25296,
+    "red": 0.13179,
+    "mayor": true
+   },
+   {
+    "criatura": "APRENDE_p s2 a11",
+    "dia": 12,
+    "racion": 0.22287,
+    "red": 0.1515,
+    "mayor": true
+   },
+   {
+    "criatura": "APRENDE_p s2 a11",
+    "dia": 13,
+    "racion": 0.22464,
+    "red": 0.12551,
+    "mayor": true
+   },
+   {
+    "criatura": "APRENDE_p s2 a11",
+    "dia": 14,
+    "racion": 0.22464,
+    "red": 0.04055,
+    "mayor": true
+   },
+   {
+    "criatura": "APRENDE_p s2 a11",
+    "dia": 15,
+    "racion": 0.25438,
+    "red": 0.28041,
+    "mayor": false
+   },
+   {
+    "criatura": "APRENDE_p s2 a11",
+    "dia": 16,
+    "racion": 0.40572,
+    "red": 0.28041,
+    "mayor": true
+   },
+   {
+    "criatura": "APRENDE_p s2 a11",
+    "dia": 17,
+    "racion": 0.40572,
+    "red": 0.29655,
+    "mayor": true
+   },
+   {
+    "criatura": "APRENDE_p s2 a11",
+    "dia": 18,
+    "racion": 0.41205,
+    "red": 0.26588,
+    "mayor": true
+   },
+   {
+    "criatura": "APRENDE_p s2 a11",
+    "dia": 19,
+    "racion": 0.38128,
+    "red": 0.26588,
+    "mayor": true
+   },
+   {
+    "criatura": "APRENDE_p s2 a11",
+    "dia": 20,
+    "racion": 0.39231,
+    "red": 0.26588,
+    "mayor": true
+   },
+   {
+    "criatura": "APRENDE_p s3 a10",
+    "dia": 10,
+    "racion": 0.0056,
+    "red": 0.01679,
+    "mayor": false
+   },
+   {
+    "criatura": "APRENDE_p s3 a10",
+    "dia": 11,
+    "racion": 0.00589,
+    "red": 0.03354,
+    "mayor": false
+   },
+   {
+    "criatura": "APRENDE_p s3 a10",
+    "dia": 12,
+    "racion": 0.00589,
+    "red": 0.03391,
+    "mayor": false
+   },
+   {
+    "criatura": "APRENDE_p s3 a10",
+    "dia": 13,
+    "racion": 1.6172,
+    "red": 0.04003,
+    "mayor": true
+   },
+   {
+    "criatura": "APRENDE_p s3 a10",
+    "dia": 14,
+    "racion": 1.90207,
+    "red": 0.07494,
+    "mayor": true
+   },
+   {
+    "criatura": "APRENDE_p s3 a10",
+    "dia": 15,
+    "racion": 1.90207,
+    "red": 0.10074,
+    "mayor": true
+   },
+   {
+    "criatura": "APRENDE_p s3 a10",
+    "dia": 16,
+    "racion": 1.71315,
+    "red": 0.10074,
+    "mayor": true
+   },
+   {
+    "criatura": "APRENDE_p s3 a10",
+    "dia": 17,
+    "racion": 1.71658,
+    "red": 0.17212,
+    "mayor": true
+   },
+   {
+    "criatura": "APRENDE_p s3 a10",
+    "dia": 18,
+    "racion": 1.61749,
+    "red": 0.17212,
+    "mayor": true
+   },
+   {
+    "criatura": "APRENDE_p s3 a10",
+    "dia": 19,
+    "racion": 4.691,
+    "red": 0.17212,
+    "mayor": true
+   },
+   {
+    "criatura": "APRENDE_p s3 a10",
+    "dia": 20,
+    "racion": 4.691,
+    "red": 0.17212,
+    "mayor": true
+   },
+   {
+    "criatura": "APRENDE_p s3 a11",
+    "dia": 10,
+    "racion": 3.4558,
+    "red": 3.31659,
+    "mayor": true
+   },
+   {
+    "criatura": "APRENDE_p s3 a11",
+    "dia": 11,
+    "racion": 0.32579,
+    "red": 3.37319,
+    "mayor": false
+   },
+   {
+    "criatura": "APRENDE_p s3 a11",
+    "dia": 12,
+    "racion": 0.0436,
+    "red": 3.37319,
+    "mayor": false
+   },
+   {
+    "criatura": "APRENDE_p s3 a11",
+    "dia": 13,
+    "racion": 0.03851,
+    "red": 2.34815,
+    "mayor": false
+   },
+   {
+    "criatura": "APRENDE_p s3 a11",
+    "dia": 14,
+    "racion": 0.0423,
+    "red": 2.34815,
+    "mayor": false
+   },
+   {
+    "criatura": "APRENDE_p s3 a11",
+    "dia": 15,
+    "racion": 0.04477,
+    "red": 2.34815,
+    "mayor": false
+   },
+   {
+    "criatura": "APRENDE_p s3 a11",
+    "dia": 16,
+    "racion": 0.04635,
+    "red": 0.51302,
+    "mayor": false
+   },
+   {
+    "criatura": "APRENDE_p s3 a11",
+    "dia": 17,
+    "racion": 0.35559,
+    "red": 0.74682,
+    "mayor": false
+   },
+   {
+    "criatura": "APRENDE_p s3 a11",
+    "dia": 18,
+    "racion": 0.78761,
+    "red": 0.64739,
+    "mayor": true
+   },
+   {
+    "criatura": "APRENDE_p s3 a11",
+    "dia": 19,
+    "racion": 0.86264,
+    "red": 0.57254,
+    "mayor": true
+   },
+   {
+    "criatura": "APRENDE_p s3 a11",
+    "dia": 20,
+    "racion": 0.92367,
+    "red": 0.57254,
+    "mayor": true
+   }
+  ]
+ },
+ "H4": {
+  "pasa": null
+ },
+ "curiosidad_por_dia": {
+  "1": {
+   "first_aid": 2.046,
+   "rations": 1.048,
+   "net": 0.892,
+   "camouflage": 0.99
+  },
+  "2": {
+   "first_aid": 1.561,
+   "rations": 1.382,
+   "net": 0.793,
+   "camouflage": 0.81
+  },
+  "3": {
+   "first_aid": 4.671,
+   "rations": 1.107,
+   "net": 0.661,
+   "camouflage": 0.585
+  },
+  "4": {
+   "first_aid": 2.432,
+   "rations": 1.054,
+   "net": 0.548,
+   "camouflage": 1.297
+  },
+  "5": {
+   "first_aid": 5.176,
+   "rations": 1.899,
+   "net": 0.497,
+   "camouflage": 1.164
+  },
+  "6": {
+   "first_aid": 6.042,
+   "rations": 0.993,
+   "net": 0.554,
+   "camouflage": 1.155
+  },
+  "7": {
+   "first_aid": 6.657,
+   "rations": 1.06,
+   "net": 0.736,
+   "camouflage": 1.052
+  },
+  "8": {
+   "first_aid": 7.303,
+   "rations": 1.471,
+   "net": 0.875,
+   "camouflage": 0.774
+  },
+  "9": {
+   "first_aid": 5.917,
+   "rations": 0.709,
+   "net": 0.748,
+   "camouflage": 0.568
+  },
+  "10": {
+   "first_aid": 10.305,
+   "rations": 0.686,
+   "net": 0.68,
+   "camouflage": 6.158
+  },
+  "11": {
+   "first_aid": 12.214,
+   "rations": 0.417,
+   "net": 0.65,
+   "camouflage": 6.196
+  },
+  "12": {
+   "first_aid": 17.819,
+   "rations": 0.363,
+   "net": 0.647,
+   "camouflage": 3.799
+  },
+  "13": {
+   "first_aid": 18.874,
+   "rations": 0.502,
+   "net": 0.504,
+   "camouflage": 0.944
+  },
+  "14": {
+   "first_aid": 18.319,
+   "rations": 0.6,
+   "net": 0.47,
+   "camouflage": 0.71
+  },
+  "15": {
+   "first_aid": 17.209,
+   "rations": 0.557,
+   "net": 0.625,
+   "camouflage": 0.667
+  },
+  "16": {
+   "first_aid": 20.534,
+   "rations": 0.577,
+   "net": 0.498,
+   "camouflage": 0.488
+  },
+  "17": {
+   "first_aid": 19.433,
+   "rations": 0.604,
+   "net": 0.511,
+   "camouflage": 0.574
+  },
+  "18": {
+   "first_aid": 20.968,
+   "rations": 0.597,
+   "net": 0.481,
+   "camouflage": 0.661
+  },
+  "19": {
+   "first_aid": 20.765,
+   "rations": 1.14,
+   "net": 0.475,
+   "camouflage": 0.638
+  },
+  "20": {
+   "first_aid": 20.646,
+   "rations": 1.183,
+   "net": 0.435,
+   "camouflage": 2.124
+  }
+ },
+ "apaga_botiquin": {
+  "APRENDE_v s1 a10": null,
+  "APRENDE_v s1 a11": null,
+  "APRENDE_v s2 a10": null,
+  "APRENDE_v s2 a11": null,
+  "APRENDE_v s3 a10": null,
+  "APRENDE_v s3 a11": null,
+  "APRENDE_p s1 a10": null,
+  "APRENDE_p s1 a11": null,
+  "APRENDE_p s2 a10": null,
+  "APRENDE_p s2 a11": null,
+  "APRENDE_p s3 a10": null,
+  "APRENDE_p s3 a11": null
+ },
+ "fidelidad": {
+  "igual": 2335412,
+  "difiere": 804650
+ },
+ "habituaciones": 0,
+ "pruebas_con_efecto": 0,
+ "errores": [],
+ "pasa_sello": false
+}

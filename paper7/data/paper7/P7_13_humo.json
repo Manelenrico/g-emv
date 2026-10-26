@@ -1,0 +1,386 @@
+{
+ "s1_d1_APRENDE_10": {
+  "serie": 1,
+  "dia": 1,
+  "slot": 10,
+  "semilla": 31676377,
+  "pide_encendido": true,
+  "brazo": "APRENDE",
+  "errores_P7": 0,
+  "partes": 237,
+  "partes_con_pedido": 3,
+  "partes_voz": 237,
+  "voz_con_campo": 3,
+  "largo_max": 34,
+  "pedidos_abiertos": 1,
+  "pedidos_cerrados": 1,
+  "cierres": [
+   {
+    "tick": 625,
+    "motivo": "lo ve",
+    "coge_en": 637,
+    "lo_habia_soltado_el_hermano": false
+   }
+  ],
+  "abierto_al_final": false,
+  "sin_botiquin_y_viendo_uno": 1,
+  "sin_botiquin_y_promesa_0": 0,
+  "regalos": [],
+  "regalos_n": 0,
+  "regalos_con_pedido": 0,
+  "coge_botiquines": 1,
+  "coge_los_que_solto_el_hermano": 0,
+  "usos": 0,
+  "tics": 11376,
+  "tics_yendo_a_por_botiquin": 44,
+  "puesto": 11,
+  "hp_final": 6.0,
+  "motivo": "eliminated",
+  "muerte": "ir a por un objeto sin cogerlo",
+  "ocasiones": {
+   "tics": 11376,
+   "hermano_pide": 4751,
+   "hermano_pide_y_llevo_1_o_mas": 4596,
+   "hermano_pide_y_llevo_2_o_mas": 0,
+   "con_candidato_de_regalar": 4643,
+   "hermano_pide_y_candidato_de_regalar": 4594,
+   "elegido_regalar": 0,
+   "hermano_pide_y_lo_veo": 4564,
+   "hermano_pide_llevo_y_lo_veo": 4443,
+   "hermano_b0_y_llevo_minimo": 4644,
+   "d_regalar_menos_la_mejor_otra": {
+    "n": 4594,
+    "min": 0.19102,
+    "mediana": 0.19387,
+    "negativas": 0
+   }
+  }
+ },
+ "s1_d1_APRENDE_11": {
+  "serie": 1,
+  "dia": 1,
+  "slot": 11,
+  "semilla": 31676377,
+  "pide_encendido": true,
+  "brazo": "APRENDE",
+  "errores_P7": 0,
+  "partes": 261,
+  "partes_con_pedido": 99,
+  "partes_voz": 261,
+  "voz_con_campo": 99,
+  "largo_max": 36,
+  "pedidos_abiertos": 2,
+  "pedidos_cerrados": 2,
+  "cierres": [
+   {
+    "tick": 4849,
+    "motivo": "lo ve",
+    "coge_en": 4851,
+    "lo_habia_soltado_el_hermano": false
+   },
+   {
+    "tick": 11857,
+    "motivo": "lo ve",
+    "coge_en": null,
+    "lo_habia_soltado_el_hermano": null
+   }
+  ],
+  "abierto_al_final": false,
+  "sin_botiquin_y_viendo_uno": 12,
+  "sin_botiquin_y_promesa_0": 0,
+  "regalos": [],
+  "regalos_n": 0,
+  "regalos_con_pedido": 0,
+  "coge_botiquines": 3,
+  "coge_los_que_solto_el_hermano": 0,
+  "usos": 3,
+  "tics": 12504,
+  "tics_yendo_a_por_botiquin": 3612,
+  "puesto": 6,
+  "hp_final": 1.0,
+  "motivo": "eliminated",
+  "muerte": "botin o coger",
+  "ocasiones": {
+   "tics": 12504,
+   "hermano_pide": 144,
+   "hermano_pide_y_llevo_1_o_mas": 0,
+   "hermano_pide_y_llevo_2_o_mas": 0,
+   "con_candidato_de_regalar": 0,
+   "hermano_pide_y_candidato_de_regalar": 0,
+   "elegido_regalar": 0,
+   "hermano_pide_y_lo_veo": 121,
+   "hermano_pide_llevo_y_lo_veo": 0,
+   "hermano_b0_y_llevo_minimo": 0,
+   "d_regalar_menos_la_mejor_otra": {
+    "n": 0,
+    "min": null,
+    "mediana": null,
+    "negativas": 0
+   }
+  }
+ },
+ "s1_d2_APRENDE_10": {
+  "serie": 1,
+  "dia": 2,
+  "slot": 10,
+  "semilla": 31781106,
+  "pide_encendido": true,
+  "brazo": "APRENDE",
+  "errores_P7": 0,
+  "partes": 304,
+  "partes_con_pedido": 2,
+  "partes_voz": 304,
+  "voz_con_campo": 2,
+  "largo_max": 34,
+  "pedidos_abiertos": 1,
+  "pedidos_cerrados": 1,
+  "cierres": [
+   {
+    "tick": 577,
+    "motivo": "lo ve",
+    "coge_en": 593,
+    "lo_habia_soltado_el_hermano": false
+   }
+  ],
+  "abierto_al_final": false,
+  "sin_botiquin_y_viendo_uno": 1,
+  "sin_botiquin_y_promesa_0": 0,
+  "regalos": [],
+  "regalos_n": 0,
+  "regalos_con_pedido": 0,
+  "coge_botiquines": 1,
+  "coge_los_que_solto_el_hermano": 0,
+  "usos": 0,
+  "tics": 14568,
+  "tics_yendo_a_por_botiquin": 20,
+  "puesto": 1,
+  "hp_final": 1.0,
+  "motivo": "match_over",
+  "muerte": "quieto",
+  "ocasiones": {
+   "tics": 14568,
+   "hermano_pide": 4176,
+   "hermano_pide_y_llevo_1_o_mas": 4080,
+   "hermano_pide_y_llevo_2_o_mas": 0,
+   "con_candidato_de_regalar": 5000,
+   "hermano_pide_y_candidato_de_regalar": 4080,
+   "elegido_regalar": 0,
+   "hermano_pide_y_lo_veo": 2611,
+   "hermano_pide_llevo_y_lo_veo": 2515,
+   "hermano_b0_y_llevo_minimo": 5096,
+   "d_regalar_menos_la_mejor_otra": {
+    "n": 4080,
+    "min": 0.19077,
+    "mediana": 0.19109,
+    "negativas": 0
+   }
+  }
+ },
+ "s1_d2_APRENDE_11": {
+  "serie": 1,
+  "dia": 2,
+  "slot": 11,
+  "semilla": 31781106,
+  "pide_encendido": true,
+  "brazo": "APRENDE",
+  "errores_P7": 0,
+  "partes": 304,
+  "partes_con_pedido": 87,
+  "partes_voz": 304,
+  "voz_con_campo": 87,
+  "largo_max": 43,
+  "pedidos_abiertos": 2,
+  "pedidos_cerrados": 2,
+  "cierres": [
+   {
+    "tick": 577,
+    "motivo": "lo ve",
+    "coge_en": null,
+    "lo_habia_soltado_el_hermano": null
+   },
+   {
+    "tick": 4849,
+    "motivo": "lo ve",
+    "coge_en": 4859,
+    "lo_habia_soltado_el_hermano": false
+   }
+  ],
+  "abierto_al_final": false,
+  "sin_botiquin_y_viendo_uno": 22,
+  "sin_botiquin_y_promesa_0": 0,
+  "regalos": [],
+  "regalos_n": 0,
+  "regalos_con_pedido": 0,
+  "coge_botiquines": 2,
+  "coge_los_que_solto_el_hermano": 0,
+  "usos": 2,
+  "tics": 14568,
+  "tics_yendo_a_por_botiquin": 3266,
+  "puesto": 2,
+  "hp_final": 16.0,
+  "motivo": "match_over",
+  "muerte": "ir al centro",
+  "ocasiones": {
+   "tics": 14568,
+   "hermano_pide": 96,
+   "hermano_pide_y_llevo_1_o_mas": 0,
+   "hermano_pide_y_llevo_2_o_mas": 0,
+   "con_candidato_de_regalar": 0,
+   "hermano_pide_y_candidato_de_regalar": 0,
+   "elegido_regalar": 0,
+   "hermano_pide_y_lo_veo": 96,
+   "hermano_pide_llevo_y_lo_veo": 0,
+   "hermano_b0_y_llevo_minimo": 0,
+   "d_regalar_menos_la_mejor_otra": {
+    "n": 0,
+    "min": null,
+    "mediana": null,
+    "negativas": 0
+   }
+  }
+ },
+ "s1_d3_APRENDE_10": {
+  "serie": 1,
+  "dia": 3,
+  "slot": 10,
+  "semilla": 31885835,
+  "pide_encendido": true,
+  "brazo": "APRENDE",
+  "errores_P7": 0,
+  "partes": 302,
+  "partes_con_pedido": 22,
+  "partes_voz": 302,
+  "voz_con_campo": 22,
+  "largo_max": 45,
+  "pedidos_abiertos": 3,
+  "pedidos_cerrados": 2,
+  "cierres": [
+   {
+    "tick": 673,
+    "motivo": "lo ve",
+    "coge_en": 737,
+    "lo_habia_soltado_el_hermano": false
+   },
+   {
+    "tick": 14017,
+    "motivo": "lo ve",
+    "coge_en": null,
+    "lo_habia_soltado_el_hermano": null
+   }
+  ],
+  "abierto_al_final": true,
+  "sin_botiquin_y_viendo_uno": 34,
+  "sin_botiquin_y_promesa_0": 0,
+  "regalos": [],
+  "regalos_n": 0,
+  "regalos_con_pedido": 0,
+  "coge_botiquines": 2,
+  "coge_los_que_solto_el_hermano": 0,
+  "usos": 2,
+  "tics": 14496,
+  "tics_yendo_a_por_botiquin": 1158,
+  "puesto": 2,
+  "hp_final": 15.0,
+  "motivo": "match_over",
+  "muerte": "quieto",
+  "ocasiones": {
+   "tics": 14496,
+   "hermano_pide": 5711,
+   "hermano_pide_y_llevo_1_o_mas": 4080,
+   "hermano_pide_y_llevo_2_o_mas": 0,
+   "con_candidato_de_regalar": 9930,
+   "hermano_pide_y_candidato_de_regalar": 3880,
+   "elegido_regalar": 0,
+   "hermano_pide_y_lo_veo": 5688,
+   "hermano_pide_llevo_y_lo_veo": 4069,
+   "hermano_b0_y_llevo_minimo": 10246,
+   "d_regalar_menos_la_mejor_otra": {
+    "n": 3880,
+    "min": 0.10354,
+    "mediana": 0.15814,
+    "negativas": 0
+   }
+  }
+ },
+ "s1_d3_APRENDE_11": {
+  "serie": 1,
+  "dia": 3,
+  "slot": 11,
+  "semilla": 31885835,
+  "pide_encendido": true,
+  "brazo": "APRENDE",
+  "errores_P7": 0,
+  "partes": 302,
+  "partes_con_pedido": 119,
+  "partes_voz": 302,
+  "voz_con_campo": 119,
+  "largo_max": 44,
+  "pedidos_abiertos": 5,
+  "pedidos_cerrados": 4,
+  "cierres": [
+   {
+    "tick": 625,
+    "motivo": "lo ve",
+    "coge_en": 648,
+    "lo_habia_soltado_el_hermano": false
+   },
+   {
+    "tick": 4801,
+    "motivo": "lo ve",
+    "coge_en": null,
+    "lo_habia_soltado_el_hermano": null
+   },
+   {
+    "tick": 11665,
+    "motivo": "lo ve",
+    "coge_en": null,
+    "lo_habia_soltado_el_hermano": null
+   },
+   {
+    "tick": 13201,
+    "motivo": "lo ve",
+    "coge_en": null,
+    "lo_habia_soltado_el_hermano": null
+   }
+  ],
+  "abierto_al_final": true,
+  "sin_botiquin_y_viendo_uno": 149,
+  "sin_botiquin_y_promesa_0": 0,
+  "regalos": [],
+  "regalos_n": 0,
+  "regalos_con_pedido": 0,
+  "coge_botiquines": 1,
+  "coge_los_que_solto_el_hermano": 0,
+  "usos": 0,
+  "tics": 14496,
+  "tics_yendo_a_por_botiquin": 42,
+  "puesto": 1,
+  "hp_final": 60.0,
+  "motivo": "winner",
+  "muerte": "ir al centro",
+  "ocasiones": {
+   "tics": 14496,
+   "hermano_pide": 1055,
+   "hermano_pide_y_llevo_1_o_mas": 26,
+   "hermano_pide_y_llevo_2_o_mas": 0,
+   "con_candidato_de_regalar": 122,
+   "hermano_pide_y_candidato_de_regalar": 25,
+   "elegido_regalar": 0,
+   "hermano_pide_y_lo_veo": 1000,
+   "hermano_pide_llevo_y_lo_veo": 5,
+   "hermano_b0_y_llevo_minimo": 123,
+   "d_regalar_menos_la_mejor_otra": {
+    "n": 25,
+    "min": 0.14616,
+    "mediana": 0.14616,
+    "negativas": 0
+   }
+  }
+ },
+ "_constantes": {
+  "PROVISION_B_MIN": 1,
+  "PROVISION_M": 0.3,
+  "CADA": 48,
+  "CADUCIDAD": 96
+ }
+}

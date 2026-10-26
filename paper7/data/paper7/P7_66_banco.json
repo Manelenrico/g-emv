@@ -1,0 +1,118 @@
+{
+ "por_brazo_y_hermana": {
+  "MIENTE · valiente": {
+   "vidas_dia": 4,
+   "aceptadas": 103,
+   "llegadas": 2,
+   "aciertos": 0,
+   "interrumpidas": 100,
+   "no_llego": 1,
+   "fraccion_llegada": 0.019,
+   "tics_hasta_interrupcion_mediana": 11.0,
+   "interrumpidas_en_24_tics_o_menos": 85,
+   "distancia_al_aceptar_mediana": 10
+  },
+  "MIENTE · prudente": {
+   "vidas_dia": 4,
+   "aceptadas": 79,
+   "llegadas": 5,
+   "aciertos": 0,
+   "interrumpidas": 71,
+   "no_llego": 3,
+   "fraccion_llegada": 0.063,
+   "tics_hasta_interrupcion_mediana": 11,
+   "interrumpidas_en_24_tics_o_menos": 54,
+   "distancia_al_aceptar_mediana": 10
+  },
+  "HONESTA · valiente": {
+   "vidas_dia": 4,
+   "aceptadas": 103,
+   "llegadas": 0,
+   "aciertos": 0,
+   "interrumpidas": 103,
+   "no_llego": 0,
+   "fraccion_llegada": 0.0,
+   "tics_hasta_interrupcion_mediana": 11,
+   "interrumpidas_en_24_tics_o_menos": 101,
+   "distancia_al_aceptar_mediana": 6
+  },
+  "HONESTA · prudente": {
+   "vidas_dia": 4,
+   "aceptadas": 57,
+   "llegadas": 3,
+   "aciertos": 0,
+   "interrumpidas": 53,
+   "no_llego": 0,
+   "fraccion_llegada": 0.053,
+   "tics_hasta_interrupcion_mediana": 11,
+   "interrumpidas_en_24_tics_o_menos": 38,
+   "distancia_al_aceptar_mediana": 9
+  },
+  "MIENTE · las dos": {
+   "vidas_dia": 8,
+   "aceptadas": 182,
+   "llegadas": 7,
+   "aciertos": 0,
+   "interrumpidas": 171,
+   "no_llego": 4,
+   "fraccion_llegada": 0.038,
+   "llegadas_por_vida_dia": 0.875,
+   "evaluaciones_por_serie_estimadas": 22.8
+  },
+  "HONESTA · las dos": {
+   "vidas_dia": 8,
+   "aceptadas": 160,
+   "llegadas": 3,
+   "aciertos": 0,
+   "interrumpidas": 156,
+   "no_llego": 0,
+   "fraccion_llegada": 0.019,
+   "llegadas_por_vida_dia": 0.375,
+   "evaluaciones_por_serie_estimadas": 9.8
+  }
+ },
+ "gifs": [
+  {
+   "gif": "P7_66_gif_miente.gif",
+   "dia": "d1",
+   "asiento": "11",
+   "brazo": "MIENTE",
+   "hermana": "prudente",
+   "destino": [
+    18,
+    9
+   ],
+   "tic_aceptada": 385,
+   "tic_juicio": 484,
+   "tics": 99,
+   "acierto_recursos": 0,
+   "fotogramas": 51
+  },
+  {
+   "gif": "P7_66_gif_honesta.gif",
+   "dia": "d2",
+   "asiento": "13",
+   "brazo": "HONESTA",
+   "hermana": "prudente",
+   "destino": [
+    27,
+    23
+   ],
+   "tic_aceptada": 5438,
+   "tic_juicio": 5445,
+   "tics": 7,
+   "acierto_recursos": 0,
+   "fotogramas": 5
+  }
+ ],
+ "calma_centro_P7_65": {
+  "vidas": 240,
+  "fraccion_de_la_vida_cerca_del_centro": 0.992,
+  "fraccion_de_la_calma_que_es_cerca_del_centro": 0.919,
+  "fraccion_del_tiempo_cerca_del_centro_que_es_calma": 0.352,
+  "tics_de_calma_cerca_del_centro_por_vida_mediana": 4190.0,
+  "vidas_sin_calma_cerca_del_centro": 10,
+  "tramos_de_calma_cerca_del_centro_por_vida_mediana": 103.0
+ },
+ "dias": 4
+}

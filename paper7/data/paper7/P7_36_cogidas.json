@@ -1,0 +1,5122 @@
+{
+ "vidas": [
+  {
+   "serie": 1,
+   "dia": 10,
+   "brazo": "APRENDE",
+   "asiento": 10,
+   "carpeta": "P734_s1_d10_APRENDE_42254006",
+   "cogidas": []
+  },
+  {
+   "serie": 1,
+   "dia": 10,
+   "brazo": "APRENDE",
+   "asiento": 11,
+   "carpeta": "P734_s1_d10_APRENDE_42254006",
+   "cogidas": [
+    {
+     "tick_entra": 10389,
+     "tick_decide": 10388,
+     "cosa": "camouflage",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.51892,
+     "d_noop": 3.52288,
+     "d_coger": 3.51892,
+     "n_cand": 2,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.0039599999999997415,
+     "empata_con_otro": []
+    }
+   ]
+  },
+  {
+   "serie": 1,
+   "dia": 10,
+   "brazo": "BORRADO",
+   "asiento": 10,
+   "carpeta": "P734_s1_d10_BORRADO_42254006",
+   "cogidas": []
+  },
+  {
+   "serie": 1,
+   "dia": 10,
+   "brazo": "BORRADO",
+   "asiento": 11,
+   "carpeta": "P734_s1_d10_BORRADO_42254006",
+   "cogidas": []
+  },
+  {
+   "serie": 1,
+   "dia": 10,
+   "brazo": "TECHO",
+   "asiento": 10,
+   "carpeta": "P734_s1_d10_TECHO_42254006",
+   "cogidas": [
+    {
+     "tick_entra": 9520,
+     "tick_decide": 9519,
+     "cosa": "camouflage",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.79552,
+     "d_noop": 3.79552,
+     "d_coger": 3.79552,
+     "n_cand": 2,
+     "empate_exacto_con_noop": true,
+     "degenerado": true,
+     "coger_gana_a_noop_por": 0.0,
+     "empata_con_otro": [
+      "noop"
+     ]
+    }
+   ]
+  },
+  {
+   "serie": 1,
+   "dia": 10,
+   "brazo": "TECHO",
+   "asiento": 11,
+   "carpeta": "P734_s1_d10_TECHO_42254006",
+   "cogidas": []
+  },
+  {
+   "serie": 1,
+   "dia": 11,
+   "brazo": "APRENDE",
+   "asiento": 10,
+   "carpeta": "P734_s1_d11_APRENDE_42358735",
+   "cogidas": []
+  },
+  {
+   "serie": 1,
+   "dia": 11,
+   "brazo": "APRENDE",
+   "asiento": 11,
+   "carpeta": "P734_s1_d11_APRENDE_42358735",
+   "cogidas": [
+    {
+     "tick_entra": 604,
+     "tick_decide": 603,
+     "cosa": "net",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 2.74149,
+     "d_noop": 2.74707,
+     "d_coger": 2.74149,
+     "n_cand": 2,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.005579999999999696,
+     "empata_con_otro": []
+    },
+    {
+     "tick_entra": 626,
+     "tick_decide": 625,
+     "cosa": "camouflage",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 2.73511,
+     "d_noop": 2.74066,
+     "d_coger": 2.73511,
+     "n_cand": 2,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.005549999999999944,
+     "empata_con_otro": []
+    }
+   ]
+  },
+  {
+   "serie": 1,
+   "dia": 11,
+   "brazo": "BORRADO",
+   "asiento": 10,
+   "carpeta": "P734_s1_d11_BORRADO_42358735",
+   "cogidas": [
+    {
+     "tick_entra": 593,
+     "tick_decide": 592,
+     "cosa": "net",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.16388,
+     "d_noop": 3.18526,
+     "d_coger": 3.16388,
+     "n_cand": 3,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.021380000000000177,
+     "empata_con_otro": [
+      "ir_curioso"
+     ]
+    },
+    {
+     "tick_entra": 615,
+     "tick_decide": 614,
+     "cosa": "camouflage",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.14255,
+     "d_noop": 3.16388,
+     "d_coger": 3.14255,
+     "n_cand": 3,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.02132999999999985,
+     "empata_con_otro": [
+      "ir_curioso"
+     ]
+    }
+   ]
+  },
+  {
+   "serie": 1,
+   "dia": 11,
+   "brazo": "BORRADO",
+   "asiento": 11,
+   "carpeta": "P734_s1_d11_BORRADO_42358735",
+   "cogidas": []
+  },
+  {
+   "serie": 1,
+   "dia": 11,
+   "brazo": "TECHO",
+   "asiento": 10,
+   "carpeta": "P734_s1_d11_TECHO_42358735",
+   "cogidas": []
+  },
+  {
+   "serie": 1,
+   "dia": 11,
+   "brazo": "TECHO",
+   "asiento": 11,
+   "carpeta": "P734_s1_d11_TECHO_42358735",
+   "cogidas": [
+    {
+     "tick_entra": 604,
+     "tick_decide": 603,
+     "cosa": "net",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 2.81544,
+     "d_noop": 2.88807,
+     "d_coger": 2.81544,
+     "n_cand": 2,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.07262999999999975,
+     "empata_con_otro": []
+    }
+   ]
+  },
+  {
+   "serie": 1,
+   "dia": 12,
+   "brazo": "APRENDE",
+   "asiento": 10,
+   "carpeta": "P734_s1_d12_APRENDE_42463464",
+   "cogidas": []
+  },
+  {
+   "serie": 1,
+   "dia": 12,
+   "brazo": "APRENDE",
+   "asiento": 11,
+   "carpeta": "P734_s1_d12_APRENDE_42463464",
+   "cogidas": []
+  },
+  {
+   "serie": 1,
+   "dia": 12,
+   "brazo": "BORRADO",
+   "asiento": 10,
+   "carpeta": "P734_s1_d12_BORRADO_42463464",
+   "cogidas": []
+  },
+  {
+   "serie": 1,
+   "dia": 12,
+   "brazo": "BORRADO",
+   "asiento": 11,
+   "carpeta": "P734_s1_d12_BORRADO_42463464",
+   "cogidas": []
+  },
+  {
+   "serie": 1,
+   "dia": 12,
+   "brazo": "TECHO",
+   "asiento": 10,
+   "carpeta": "P734_s1_d12_TECHO_42463464",
+   "cogidas": []
+  },
+  {
+   "serie": 1,
+   "dia": 12,
+   "brazo": "TECHO",
+   "asiento": 11,
+   "carpeta": "P734_s1_d12_TECHO_42463464",
+   "cogidas": []
+  },
+  {
+   "serie": 1,
+   "dia": 13,
+   "brazo": "APRENDE",
+   "asiento": 10,
+   "carpeta": "P734_s1_d13_APRENDE_42568193",
+   "cogidas": [
+    {
+     "tick_entra": 604,
+     "tick_decide": 603,
+     "cosa": "net",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.11175,
+     "d_noop": 3.1171,
+     "d_coger": 3.11175,
+     "n_cand": 3,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.00535000000000041,
+     "empata_con_otro": []
+    },
+    {
+     "tick_entra": 648,
+     "tick_decide": 647,
+     "cosa": "camouflage",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.10677,
+     "d_noop": 3.11169,
+     "d_coger": 3.10677,
+     "n_cand": 2,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.004919999999999813,
+     "empata_con_otro": []
+    }
+   ]
+  },
+  {
+   "serie": 1,
+   "dia": 13,
+   "brazo": "APRENDE",
+   "asiento": 11,
+   "carpeta": "P734_s1_d13_APRENDE_42568193",
+   "cogidas": [
+    {
+     "tick_entra": 527,
+     "tick_decide": 526,
+     "cosa": "net",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.24759,
+     "d_noop": 3.25255,
+     "d_coger": 3.24759,
+     "n_cand": 3,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.004959999999999631,
+     "empata_con_otro": [
+      "ir_curioso"
+     ]
+    }
+   ]
+  },
+  {
+   "serie": 1,
+   "dia": 13,
+   "brazo": "BORRADO",
+   "asiento": 10,
+   "carpeta": "P734_s1_d13_BORRADO_42568193",
+   "cogidas": [
+    {
+     "tick_entra": 593,
+     "tick_decide": 592,
+     "cosa": "net",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.1716,
+     "d_noop": 3.193,
+     "d_coger": 3.1716,
+     "n_cand": 3,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.021399999999999864,
+     "empata_con_otro": []
+    }
+   ]
+  },
+  {
+   "serie": 1,
+   "dia": 13,
+   "brazo": "BORRADO",
+   "asiento": 11,
+   "carpeta": "P734_s1_d13_BORRADO_42568193",
+   "cogidas": []
+  },
+  {
+   "serie": 1,
+   "dia": 13,
+   "brazo": "TECHO",
+   "asiento": 10,
+   "carpeta": "P734_s1_d13_TECHO_42568193",
+   "cogidas": [
+    {
+     "tick_entra": 593,
+     "tick_decide": 592,
+     "cosa": "net",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.11002,
+     "d_noop": 3.18526,
+     "d_coger": 3.11002,
+     "n_cand": 2,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.07523999999999997,
+     "empata_con_otro": []
+    },
+    {
+     "tick_entra": 10564,
+     "tick_decide": 10563,
+     "cosa": "camouflage",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 4.18604,
+     "d_noop": 4.18604,
+     "d_coger": 4.18604,
+     "n_cand": 2,
+     "empate_exacto_con_noop": true,
+     "degenerado": true,
+     "coger_gana_a_noop_por": 0.0,
+     "empata_con_otro": [
+      "noop"
+     ]
+    }
+   ]
+  },
+  {
+   "serie": 1,
+   "dia": 13,
+   "brazo": "TECHO",
+   "asiento": 11,
+   "carpeta": "P734_s1_d13_TECHO_42568193",
+   "cogidas": [
+    {
+     "tick_entra": 527,
+     "tick_decide": 526,
+     "cosa": "net",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.18582,
+     "d_noop": 3.26065,
+     "d_coger": 3.18582,
+     "n_cand": 2,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.07482999999999995,
+     "empata_con_otro": []
+    }
+   ]
+  },
+  {
+   "serie": 1,
+   "dia": 14,
+   "brazo": "APRENDE",
+   "asiento": 10,
+   "carpeta": "P734_s1_d14_APRENDE_42672922",
+   "cogidas": [
+    {
+     "tick_entra": 604,
+     "tick_decide": 603,
+     "cosa": "net",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.11188,
+     "d_noop": 3.11626,
+     "d_coger": 3.11188,
+     "n_cand": 3,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.0043799999999998285,
+     "empata_con_otro": []
+    },
+    {
+     "tick_entra": 615,
+     "tick_decide": 614,
+     "cosa": "camouflage",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.10757,
+     "d_noop": 3.11168,
+     "d_coger": 3.10757,
+     "n_cand": 2,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.004109999999999836,
+     "empata_con_otro": []
+    },
+    {
+     "tick_entra": 11675,
+     "tick_decide": 11674,
+     "cosa": "net",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.85026,
+     "d_noop": 3.85026,
+     "d_coger": 3.85026,
+     "n_cand": 2,
+     "empate_exacto_con_noop": true,
+     "degenerado": true,
+     "coger_gana_a_noop_por": 0.0,
+     "empata_con_otro": [
+      "noop"
+     ]
+    }
+   ]
+  },
+  {
+   "serie": 1,
+   "dia": 14,
+   "brazo": "APRENDE",
+   "asiento": 11,
+   "carpeta": "P734_s1_d14_APRENDE_42672922",
+   "cogidas": []
+  },
+  {
+   "serie": 1,
+   "dia": 14,
+   "brazo": "BORRADO",
+   "asiento": 10,
+   "carpeta": "P734_s1_d14_BORRADO_42672922",
+   "cogidas": [
+    {
+     "tick_entra": 604,
+     "tick_decide": 603,
+     "cosa": "camouflage",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.16388,
+     "d_noop": 3.18526,
+     "d_coger": 3.16388,
+     "n_cand": 3,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.021380000000000177,
+     "empata_con_otro": [
+      "ir_curioso"
+     ]
+    }
+   ]
+  },
+  {
+   "serie": 1,
+   "dia": 14,
+   "brazo": "BORRADO",
+   "asiento": 11,
+   "carpeta": "P734_s1_d14_BORRADO_42672922",
+   "cogidas": [
+    {
+     "tick_entra": 604,
+     "tick_decide": 603,
+     "cosa": "net",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.16388,
+     "d_noop": 3.18526,
+     "d_coger": 3.16388,
+     "n_cand": 3,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.021380000000000177,
+     "empata_con_otro": [
+      "ir_curioso"
+     ]
+    }
+   ]
+  },
+  {
+   "serie": 1,
+   "dia": 14,
+   "brazo": "TECHO",
+   "asiento": 10,
+   "carpeta": "P734_s1_d14_TECHO_42672922",
+   "cogidas": [
+    {
+     "tick_entra": 604,
+     "tick_decide": 603,
+     "cosa": "camouflage",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.18526,
+     "d_noop": 3.18526,
+     "d_coger": 3.18526,
+     "n_cand": 2,
+     "empate_exacto_con_noop": true,
+     "degenerado": true,
+     "coger_gana_a_noop_por": 0.0,
+     "empata_con_otro": [
+      "noop"
+     ]
+    }
+   ]
+  },
+  {
+   "serie": 1,
+   "dia": 14,
+   "brazo": "TECHO",
+   "asiento": 11,
+   "carpeta": "P734_s1_d14_TECHO_42672922",
+   "cogidas": [
+    {
+     "tick_entra": 615,
+     "tick_decide": 614,
+     "cosa": "net",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.11002,
+     "d_noop": 3.18526,
+     "d_coger": 3.11002,
+     "n_cand": 2,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.07523999999999997,
+     "empata_con_otro": []
+    }
+   ]
+  },
+  {
+   "serie": 1,
+   "dia": 15,
+   "brazo": "APRENDE",
+   "asiento": 10,
+   "carpeta": "P734_s1_d15_APRENDE_42777651",
+   "cogidas": [
+    {
+     "tick_entra": 715,
+     "tick_decide": 714,
+     "cosa": "net",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 2.98992,
+     "d_noop": 2.99348,
+     "d_coger": 2.98992,
+     "n_cand": 4,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.0035599999999997856,
+     "empata_con_otro": []
+    }
+   ]
+  },
+  {
+   "serie": 1,
+   "dia": 15,
+   "brazo": "APRENDE",
+   "asiento": 11,
+   "carpeta": "P734_s1_d15_APRENDE_42777651",
+   "cogidas": [
+    {
+     "tick_entra": 648,
+     "tick_decide": 647,
+     "cosa": "camouflage",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 2.75257,
+     "d_noop": 2.75768,
+     "d_coger": 2.75257,
+     "n_cand": 2,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.00511000000000017,
+     "empata_con_otro": []
+    }
+   ]
+  },
+  {
+   "serie": 1,
+   "dia": 15,
+   "brazo": "BORRADO",
+   "asiento": 10,
+   "carpeta": "P734_s1_d15_BORRADO_42777651",
+   "cogidas": [
+    {
+     "tick_entra": 615,
+     "tick_decide": 614,
+     "cosa": "camouflage",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.16388,
+     "d_noop": 3.18526,
+     "d_coger": 3.16388,
+     "n_cand": 3,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.021380000000000177,
+     "empata_con_otro": [
+      "ir_curioso"
+     ]
+    },
+    {
+     "tick_entra": 1009,
+     "tick_decide": 1008,
+     "cosa": "net",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 2.28385,
+     "d_noop": 2.30182,
+     "d_coger": 2.28385,
+     "n_cand": 3,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.01797000000000004,
+     "empata_con_otro": []
+    }
+   ]
+  },
+  {
+   "serie": 1,
+   "dia": 15,
+   "brazo": "BORRADO",
+   "asiento": 11,
+   "carpeta": "P734_s1_d15_BORRADO_42777651",
+   "cogidas": []
+  },
+  {
+   "serie": 1,
+   "dia": 15,
+   "brazo": "TECHO",
+   "asiento": 10,
+   "carpeta": "P734_s1_d15_TECHO_42777651",
+   "cogidas": [
+    {
+     "tick_entra": 1817,
+     "tick_decide": 1816,
+     "cosa": "camouflage",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 2.93805,
+     "d_noop": 2.93805,
+     "d_coger": 2.93805,
+     "n_cand": 2,
+     "empate_exacto_con_noop": true,
+     "degenerado": true,
+     "coger_gana_a_noop_por": 0.0,
+     "empata_con_otro": [
+      "noop"
+     ]
+    }
+   ]
+  },
+  {
+   "serie": 1,
+   "dia": 15,
+   "brazo": "TECHO",
+   "asiento": 11,
+   "carpeta": "P734_s1_d15_TECHO_42777651",
+   "cogidas": []
+  },
+  {
+   "serie": 1,
+   "dia": 16,
+   "brazo": "APRENDE",
+   "asiento": 10,
+   "carpeta": "P734_s1_d16_APRENDE_42882380",
+   "cogidas": [
+    {
+     "tick_entra": 681,
+     "tick_decide": 680,
+     "cosa": "camouflage",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 2.38348,
+     "d_noop": 2.38666,
+     "d_coger": 2.38348,
+     "n_cand": 2,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.0031799999999999606,
+     "empata_con_otro": []
+    },
+    {
+     "tick_entra": 725,
+     "tick_decide": 724,
+     "cosa": "net",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 2.38064,
+     "d_noop": 2.38341,
+     "d_coger": 2.38064,
+     "n_cand": 3,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.002769999999999939,
+     "empata_con_otro": []
+    },
+    {
+     "tick_entra": 9845,
+     "tick_decide": 9844,
+     "cosa": "net",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.18797,
+     "d_noop": 3.18944,
+     "d_coger": 3.18797,
+     "n_cand": 4,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.0014699999999998603,
+     "empata_con_otro": []
+    }
+   ]
+  },
+  {
+   "serie": 1,
+   "dia": 16,
+   "brazo": "APRENDE",
+   "asiento": 11,
+   "carpeta": "P734_s1_d16_APRENDE_42882380",
+   "cogidas": []
+  },
+  {
+   "serie": 1,
+   "dia": 16,
+   "brazo": "BORRADO",
+   "asiento": 10,
+   "carpeta": "P734_s1_d16_BORRADO_42882380",
+   "cogidas": [
+    {
+     "tick_entra": 637,
+     "tick_decide": 636,
+     "cosa": "camouflage",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 2.70312,
+     "d_noop": 2.7233,
+     "d_coger": 2.70312,
+     "n_cand": 4,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.020179999999999865,
+     "empata_con_otro": []
+    },
+    {
+     "tick_entra": 692,
+     "tick_decide": 691,
+     "cosa": "net",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 2.68301,
+     "d_noop": 2.70312,
+     "d_coger": 2.68301,
+     "n_cand": 5,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.020110000000000294,
+     "empata_con_otro": []
+    }
+   ]
+  },
+  {
+   "serie": 1,
+   "dia": 16,
+   "brazo": "BORRADO",
+   "asiento": 11,
+   "carpeta": "P734_s1_d16_BORRADO_42882380",
+   "cogidas": []
+  },
+  {
+   "serie": 1,
+   "dia": 16,
+   "brazo": "TECHO",
+   "asiento": 10,
+   "carpeta": "P734_s1_d16_TECHO_42882380",
+   "cogidas": []
+  },
+  {
+   "serie": 1,
+   "dia": 16,
+   "brazo": "TECHO",
+   "asiento": 11,
+   "carpeta": "P734_s1_d16_TECHO_42882380",
+   "cogidas": []
+  },
+  {
+   "serie": 1,
+   "dia": 17,
+   "brazo": "APRENDE",
+   "asiento": 10,
+   "carpeta": "P734_s1_d17_APRENDE_42987109",
+   "cogidas": [
+    {
+     "tick_entra": 659,
+     "tick_decide": 658,
+     "cosa": "camouflage",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 2.95118,
+     "d_noop": 2.95436,
+     "d_coger": 2.95118,
+     "n_cand": 3,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.0031799999999999606,
+     "empata_con_otro": []
+    }
+   ]
+  },
+  {
+   "serie": 1,
+   "dia": 17,
+   "brazo": "APRENDE",
+   "asiento": 11,
+   "carpeta": "P734_s1_d17_APRENDE_42987109",
+   "cogidas": [
+    {
+     "tick_entra": 681,
+     "tick_decide": 680,
+     "cosa": "net",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 2.75916,
+     "d_noop": 2.76363,
+     "d_coger": 2.75916,
+     "n_cand": 3,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.004469999999999974,
+     "empata_con_otro": []
+    }
+   ]
+  },
+  {
+   "serie": 1,
+   "dia": 17,
+   "brazo": "BORRADO",
+   "asiento": 10,
+   "carpeta": "P734_s1_d17_BORRADO_42987109",
+   "cogidas": [
+    {
+     "tick_entra": 1294,
+     "tick_decide": 1293,
+     "cosa": "camouflage",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.14255,
+     "d_noop": 3.16388,
+     "d_coger": 3.14255,
+     "n_cand": 4,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.02132999999999985,
+     "empata_con_otro": [
+      "ir_curioso"
+     ]
+    },
+    {
+     "tick_entra": 1305,
+     "tick_decide": 1304,
+     "cosa": "net",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.12127,
+     "d_noop": 3.14255,
+     "d_coger": 3.12127,
+     "n_cand": 4,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.021279999999999966,
+     "empata_con_otro": []
+    }
+   ]
+  },
+  {
+   "serie": 1,
+   "dia": 17,
+   "brazo": "BORRADO",
+   "asiento": 11,
+   "carpeta": "P734_s1_d17_BORRADO_42987109",
+   "cogidas": []
+  },
+  {
+   "serie": 1,
+   "dia": 17,
+   "brazo": "TECHO",
+   "asiento": 10,
+   "carpeta": "P734_s1_d17_TECHO_42987109",
+   "cogidas": []
+  },
+  {
+   "serie": 1,
+   "dia": 17,
+   "brazo": "TECHO",
+   "asiento": 11,
+   "carpeta": "P734_s1_d17_TECHO_42987109",
+   "cogidas": []
+  },
+  {
+   "serie": 1,
+   "dia": 18,
+   "brazo": "APRENDE",
+   "asiento": 10,
+   "carpeta": "P734_s1_d18_APRENDE_43091838",
+   "cogidas": []
+  },
+  {
+   "serie": 1,
+   "dia": 18,
+   "brazo": "APRENDE",
+   "asiento": 11,
+   "carpeta": "P734_s1_d18_APRENDE_43091838",
+   "cogidas": []
+  },
+  {
+   "serie": 1,
+   "dia": 18,
+   "brazo": "BORRADO",
+   "asiento": 10,
+   "carpeta": "P734_s1_d18_BORRADO_43091838",
+   "cogidas": [
+    {
+     "tick_entra": 8325,
+     "tick_decide": 8324,
+     "cosa": "net",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 4.39904,
+     "d_noop": 4.41041,
+     "d_coger": 4.39904,
+     "n_cand": 4,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.011369999999999436,
+     "empata_con_otro": [
+      "usar_botiquin"
+     ]
+    }
+   ]
+  },
+  {
+   "serie": 1,
+   "dia": 18,
+   "brazo": "BORRADO",
+   "asiento": 11,
+   "carpeta": "P734_s1_d18_BORRADO_43091838",
+   "cogidas": []
+  },
+  {
+   "serie": 1,
+   "dia": 18,
+   "brazo": "TECHO",
+   "asiento": 10,
+   "carpeta": "P734_s1_d18_TECHO_43091838",
+   "cogidas": []
+  },
+  {
+   "serie": 1,
+   "dia": 18,
+   "brazo": "TECHO",
+   "asiento": 11,
+   "carpeta": "P734_s1_d18_TECHO_43091838",
+   "cogidas": [
+    {
+     "tick_entra": 1924,
+     "tick_decide": 1923,
+     "cosa": "camouflage",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.40734,
+     "d_noop": 3.40734,
+     "d_coger": 3.40734,
+     "n_cand": 2,
+     "empate_exacto_con_noop": true,
+     "degenerado": true,
+     "coger_gana_a_noop_por": 0.0,
+     "empata_con_otro": [
+      "noop"
+     ]
+    }
+   ]
+  },
+  {
+   "serie": 1,
+   "dia": 19,
+   "brazo": "APRENDE",
+   "asiento": 10,
+   "carpeta": "P734_s1_d19_APRENDE_43196567",
+   "cogidas": []
+  },
+  {
+   "serie": 1,
+   "dia": 19,
+   "brazo": "APRENDE",
+   "asiento": 11,
+   "carpeta": "P734_s1_d19_APRENDE_43196567",
+   "cogidas": [
+    {
+     "tick_entra": 681,
+     "tick_decide": 680,
+     "cosa": "camouflage",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.47517,
+     "d_noop": 3.47786,
+     "d_coger": 3.47517,
+     "n_cand": 3,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.0026900000000003033,
+     "empata_con_otro": []
+    },
+    {
+     "tick_entra": 11568,
+     "tick_decide": 11567,
+     "cosa": "net",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 4.03338,
+     "d_noop": 4.03539,
+     "d_coger": 4.03338,
+     "n_cand": 4,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.002009999999999401,
+     "empata_con_otro": [
+      "ir_curioso"
+     ]
+    }
+   ]
+  },
+  {
+   "serie": 1,
+   "dia": 19,
+   "brazo": "BORRADO",
+   "asiento": 10,
+   "carpeta": "P734_s1_d19_BORRADO_43196567",
+   "cogidas": []
+  },
+  {
+   "serie": 1,
+   "dia": 19,
+   "brazo": "BORRADO",
+   "asiento": 11,
+   "carpeta": "P734_s1_d19_BORRADO_43196567",
+   "cogidas": [
+    {
+     "tick_entra": 857,
+     "tick_decide": 856,
+     "cosa": "camouflage",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 2.73992,
+     "d_noop": 2.76018,
+     "d_coger": 2.73992,
+     "n_cand": 4,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.020259999999999945,
+     "empata_con_otro": []
+    }
+   ]
+  },
+  {
+   "serie": 1,
+   "dia": 19,
+   "brazo": "TECHO",
+   "asiento": 10,
+   "carpeta": "P734_s1_d19_TECHO_43196567",
+   "cogidas": []
+  },
+  {
+   "serie": 1,
+   "dia": 19,
+   "brazo": "TECHO",
+   "asiento": 11,
+   "carpeta": "P734_s1_d19_TECHO_43196567",
+   "cogidas": []
+  },
+  {
+   "serie": 1,
+   "dia": 1,
+   "brazo": "APRENDE",
+   "asiento": 10,
+   "carpeta": "P734_s1_d1_APRENDE_41311445",
+   "cogidas": [
+    {
+     "tick_entra": 593,
+     "tick_decide": 592,
+     "cosa": "net",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.16388,
+     "d_noop": 3.18526,
+     "d_coger": 3.16388,
+     "n_cand": 3,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.021380000000000177,
+     "empata_con_otro": [
+      "ir_curioso"
+     ]
+    },
+    {
+     "tick_entra": 626,
+     "tick_decide": 625,
+     "cosa": "camouflage",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.12127,
+     "d_noop": 3.14255,
+     "d_coger": 3.12127,
+     "n_cand": 4,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.021279999999999966,
+     "empata_con_otro": []
+    }
+   ]
+  },
+  {
+   "serie": 1,
+   "dia": 1,
+   "brazo": "APRENDE",
+   "asiento": 11,
+   "carpeta": "P734_s1_d1_APRENDE_41311445",
+   "cogidas": []
+  },
+  {
+   "serie": 1,
+   "dia": 1,
+   "brazo": "BORRADO",
+   "asiento": 10,
+   "carpeta": "P734_s1_d1_BORRADO_41311445",
+   "cogidas": [
+    {
+     "tick_entra": 593,
+     "tick_decide": 592,
+     "cosa": "net",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.16388,
+     "d_noop": 3.18526,
+     "d_coger": 3.16388,
+     "n_cand": 3,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.021380000000000177,
+     "empata_con_otro": [
+      "ir_curioso"
+     ]
+    },
+    {
+     "tick_entra": 626,
+     "tick_decide": 625,
+     "cosa": "camouflage",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.12127,
+     "d_noop": 3.14255,
+     "d_coger": 3.12127,
+     "n_cand": 4,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.021279999999999966,
+     "empata_con_otro": []
+    }
+   ]
+  },
+  {
+   "serie": 1,
+   "dia": 1,
+   "brazo": "BORRADO",
+   "asiento": 11,
+   "carpeta": "P734_s1_d1_BORRADO_41311445",
+   "cogidas": []
+  },
+  {
+   "serie": 1,
+   "dia": 1,
+   "brazo": "TECHO",
+   "asiento": 10,
+   "carpeta": "P734_s1_d1_TECHO_41311445",
+   "cogidas": [
+    {
+     "tick_entra": 593,
+     "tick_decide": 592,
+     "cosa": "net",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 2.81544,
+     "d_noop": 2.88807,
+     "d_coger": 2.81544,
+     "n_cand": 2,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.07262999999999975,
+     "empata_con_otro": []
+    }
+   ]
+  },
+  {
+   "serie": 1,
+   "dia": 1,
+   "brazo": "TECHO",
+   "asiento": 11,
+   "carpeta": "P734_s1_d1_TECHO_41311445",
+   "cogidas": [
+    {
+     "tick_entra": 857,
+     "tick_decide": 856,
+     "cosa": "camouflage",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 2.88807,
+     "d_noop": 2.88807,
+     "d_coger": 2.88807,
+     "n_cand": 2,
+     "empate_exacto_con_noop": true,
+     "degenerado": true,
+     "coger_gana_a_noop_por": 0.0,
+     "empata_con_otro": [
+      "noop"
+     ]
+    }
+   ]
+  },
+  {
+   "serie": 1,
+   "dia": 20,
+   "brazo": "APRENDE",
+   "asiento": 10,
+   "carpeta": "P734_s1_d20_APRENDE_43301296",
+   "cogidas": [
+    {
+     "tick_entra": 648,
+     "tick_decide": 647,
+     "cosa": "camouflage",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 2.83848,
+     "d_noop": 2.84146,
+     "d_coger": 2.83848,
+     "n_cand": 3,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.0029799999999999827,
+     "empata_con_otro": []
+    },
+    {
+     "tick_entra": 1786,
+     "tick_decide": 1785,
+     "cosa": "camouflage",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.36602,
+     "d_noop": 3.36738,
+     "d_coger": 3.36602,
+     "n_cand": 4,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.0013600000000000279,
+     "empata_con_otro": []
+    },
+    {
+     "tick_entra": 14767,
+     "tick_decide": 14766,
+     "cosa": "camouflage",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.63264,
+     "d_noop": 3.63375,
+     "d_coger": 3.63264,
+     "n_cand": 3,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.0011100000000001664,
+     "empata_con_otro": []
+    }
+   ]
+  },
+  {
+   "serie": 1,
+   "dia": 20,
+   "brazo": "APRENDE",
+   "asiento": 11,
+   "carpeta": "P734_s1_d20_APRENDE_43301296",
+   "cogidas": []
+  },
+  {
+   "serie": 1,
+   "dia": 20,
+   "brazo": "BORRADO",
+   "asiento": 10,
+   "carpeta": "P734_s1_d20_BORRADO_43301296",
+   "cogidas": [
+    {
+     "tick_entra": 628,
+     "tick_decide": 627,
+     "cosa": "camouflage",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 2.7527,
+     "d_noop": 2.773,
+     "d_coger": 2.7527,
+     "n_cand": 3,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.020300000000000207,
+     "empata_con_otro": [
+      "ir_curioso"
+     ]
+    }
+   ]
+  },
+  {
+   "serie": 1,
+   "dia": 20,
+   "brazo": "BORRADO",
+   "asiento": 11,
+   "carpeta": "P734_s1_d20_BORRADO_43301296",
+   "cogidas": []
+  },
+  {
+   "serie": 1,
+   "dia": 20,
+   "brazo": "TECHO",
+   "asiento": 10,
+   "carpeta": "P734_s1_d20_TECHO_43301296",
+   "cogidas": []
+  },
+  {
+   "serie": 1,
+   "dia": 20,
+   "brazo": "TECHO",
+   "asiento": 11,
+   "carpeta": "P734_s1_d20_TECHO_43301296",
+   "cogidas": []
+  },
+  {
+   "serie": 1,
+   "dia": 2,
+   "brazo": "APRENDE",
+   "asiento": 10,
+   "carpeta": "P734_s1_d2_APRENDE_41416174",
+   "cogidas": [
+    {
+     "tick_entra": 637,
+     "tick_decide": 636,
+     "cosa": "camouflage",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 2.96296,
+     "d_noop": 2.97363,
+     "d_coger": 2.96296,
+     "n_cand": 2,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.01067000000000018,
+     "empata_con_otro": []
+    }
+   ]
+  },
+  {
+   "serie": 1,
+   "dia": 2,
+   "brazo": "APRENDE",
+   "asiento": 11,
+   "carpeta": "P734_s1_d2_APRENDE_41416174",
+   "cogidas": [
+    {
+     "tick_entra": 626,
+     "tick_decide": 625,
+     "cosa": "net",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 2.81719,
+     "d_noop": 2.83771,
+     "d_coger": 2.81719,
+     "n_cand": 3,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.02051999999999987,
+     "empata_con_otro": [
+      "ir_curioso"
+     ]
+    }
+   ]
+  },
+  {
+   "serie": 1,
+   "dia": 2,
+   "brazo": "BORRADO",
+   "asiento": 10,
+   "carpeta": "P734_s1_d2_BORRADO_41416174",
+   "cogidas": [
+    {
+     "tick_entra": 700,
+     "tick_decide": 699,
+     "cosa": "camouflage",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.14255,
+     "d_noop": 3.16388,
+     "d_coger": 3.14255,
+     "n_cand": 4,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.02132999999999985,
+     "empata_con_otro": []
+    },
+    {
+     "tick_entra": 799,
+     "tick_decide": 798,
+     "cosa": "net",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.47627,
+     "d_noop": 3.48759,
+     "d_coger": 3.47627,
+     "n_cand": 4,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.011319999999999997,
+     "empata_con_otro": []
+    }
+   ]
+  },
+  {
+   "serie": 1,
+   "dia": 2,
+   "brazo": "BORRADO",
+   "asiento": 11,
+   "carpeta": "P734_s1_d2_BORRADO_41416174",
+   "cogidas": []
+  },
+  {
+   "serie": 1,
+   "dia": 2,
+   "brazo": "TECHO",
+   "asiento": 10,
+   "carpeta": "P734_s1_d2_TECHO_41416174",
+   "cogidas": [
+    {
+     "tick_entra": 593,
+     "tick_decide": 592,
+     "cosa": "net",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.22699,
+     "d_noop": 3.30276,
+     "d_coger": 3.22699,
+     "n_cand": 2,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.07577000000000034,
+     "empata_con_otro": []
+    },
+    {
+     "tick_entra": 791,
+     "tick_decide": 790,
+     "cosa": "camouflage",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.24242,
+     "d_noop": 3.24242,
+     "d_coger": 3.24242,
+     "n_cand": 2,
+     "empate_exacto_con_noop": true,
+     "degenerado": true,
+     "coger_gana_a_noop_por": 0.0,
+     "empata_con_otro": [
+      "noop"
+     ]
+    }
+   ]
+  },
+  {
+   "serie": 1,
+   "dia": 2,
+   "brazo": "TECHO",
+   "asiento": 11,
+   "carpeta": "P734_s1_d2_TECHO_41416174",
+   "cogidas": []
+  },
+  {
+   "serie": 1,
+   "dia": 3,
+   "brazo": "APRENDE",
+   "asiento": 10,
+   "carpeta": "P734_s1_d3_APRENDE_41520903",
+   "cogidas": []
+  },
+  {
+   "serie": 1,
+   "dia": 3,
+   "brazo": "APRENDE",
+   "asiento": 11,
+   "carpeta": "P734_s1_d3_APRENDE_41520903",
+   "cogidas": [
+    {
+     "tick_entra": 692,
+     "tick_decide": 691,
+     "cosa": "camouflage",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.21066,
+     "d_noop": 3.23214,
+     "d_coger": 3.21066,
+     "n_cand": 2,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.021479999999999944,
+     "empata_con_otro": []
+    },
+    {
+     "tick_entra": 1066,
+     "tick_decide": 1065,
+     "cosa": "net",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.21426,
+     "d_noop": 3.21864,
+     "d_coger": 3.21426,
+     "n_cand": 3,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.0043800000000002726,
+     "empata_con_otro": []
+    },
+    {
+     "tick_entra": 12766,
+     "tick_decide": 12765,
+     "cosa": "net",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.32163,
+     "d_noop": 3.32163,
+     "d_coger": 3.32163,
+     "n_cand": 3,
+     "empate_exacto_con_noop": true,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.0,
+     "empata_con_otro": [
+      "noop"
+     ]
+    }
+   ]
+  },
+  {
+   "serie": 1,
+   "dia": 3,
+   "brazo": "BORRADO",
+   "asiento": 10,
+   "carpeta": "P734_s1_d3_BORRADO_41520903",
+   "cogidas": []
+  },
+  {
+   "serie": 1,
+   "dia": 3,
+   "brazo": "BORRADO",
+   "asiento": 11,
+   "carpeta": "P734_s1_d3_BORRADO_41520903",
+   "cogidas": []
+  },
+  {
+   "serie": 1,
+   "dia": 3,
+   "brazo": "TECHO",
+   "asiento": 10,
+   "carpeta": "P734_s1_d3_TECHO_41520903",
+   "cogidas": []
+  },
+  {
+   "serie": 1,
+   "dia": 3,
+   "brazo": "TECHO",
+   "asiento": 11,
+   "carpeta": "P734_s1_d3_TECHO_41520903",
+   "cogidas": []
+  },
+  {
+   "serie": 1,
+   "dia": 4,
+   "brazo": "APRENDE",
+   "asiento": 10,
+   "carpeta": "P734_s1_d4_APRENDE_41625632",
+   "cogidas": [
+    {
+     "tick_entra": 12890,
+     "tick_decide": 12889,
+     "cosa": "net",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 5.52017,
+     "d_noop": 5.52652,
+     "d_coger": 5.52017,
+     "n_cand": 3,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.006349999999999412,
+     "empata_con_otro": [
+      "ir_curioso"
+     ]
+    }
+   ]
+  },
+  {
+   "serie": 1,
+   "dia": 4,
+   "brazo": "APRENDE",
+   "asiento": 11,
+   "carpeta": "P734_s1_d4_APRENDE_41625632",
+   "cogidas": [
+    {
+     "tick_entra": 10600,
+     "tick_decide": 10599,
+     "cosa": "net",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.71725,
+     "d_noop": 3.7205,
+     "d_coger": 3.71725,
+     "n_cand": 2,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.003249999999999975,
+     "empata_con_otro": []
+    }
+   ]
+  },
+  {
+   "serie": 1,
+   "dia": 4,
+   "brazo": "BORRADO",
+   "asiento": 10,
+   "carpeta": "P734_s1_d4_BORRADO_41625632",
+   "cogidas": [
+    {
+     "tick_entra": 1055,
+     "tick_decide": 1054,
+     "cosa": "camouflage",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 2.83063,
+     "d_noop": 2.84067,
+     "d_coger": 2.83063,
+     "n_cand": 3,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.010039999999999605,
+     "empata_con_otro": []
+    }
+   ]
+  },
+  {
+   "serie": 1,
+   "dia": 4,
+   "brazo": "BORRADO",
+   "asiento": 11,
+   "carpeta": "P734_s1_d4_BORRADO_41625632",
+   "cogidas": []
+  },
+  {
+   "serie": 1,
+   "dia": 4,
+   "brazo": "TECHO",
+   "asiento": 10,
+   "carpeta": "P734_s1_d4_TECHO_41625632",
+   "cogidas": []
+  },
+  {
+   "serie": 1,
+   "dia": 4,
+   "brazo": "TECHO",
+   "asiento": 11,
+   "carpeta": "P734_s1_d4_TECHO_41625632",
+   "cogidas": []
+  },
+  {
+   "serie": 1,
+   "dia": 5,
+   "brazo": "APRENDE",
+   "asiento": 10,
+   "carpeta": "P734_s1_d5_APRENDE_41730361",
+   "cogidas": [
+    {
+     "tick_entra": 593,
+     "tick_decide": 592,
+     "cosa": "net",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.00098,
+     "d_noop": 3.01239,
+     "d_coger": 3.00098,
+     "n_cand": 2,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.011409999999999698,
+     "empata_con_otro": []
+    },
+    {
+     "tick_entra": 648,
+     "tick_decide": 647,
+     "cosa": "camouflage",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 2.99389,
+     "d_noop": 3.00104,
+     "d_coger": 2.99389,
+     "n_cand": 2,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.007150000000000212,
+     "empata_con_otro": []
+    }
+   ]
+  },
+  {
+   "serie": 1,
+   "dia": 5,
+   "brazo": "APRENDE",
+   "asiento": 11,
+   "carpeta": "P734_s1_d5_APRENDE_41730361",
+   "cogidas": []
+  },
+  {
+   "serie": 1,
+   "dia": 5,
+   "brazo": "BORRADO",
+   "asiento": 10,
+   "carpeta": "P734_s1_d5_BORRADO_41730361",
+   "cogidas": [
+    {
+     "tick_entra": 4859,
+     "tick_decide": 4858,
+     "cosa": "net",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.36756,
+     "d_noop": 3.37842,
+     "d_coger": 3.36756,
+     "n_cand": 4,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.010860000000000092,
+     "empata_con_otro": []
+    }
+   ]
+  },
+  {
+   "serie": 1,
+   "dia": 5,
+   "brazo": "BORRADO",
+   "asiento": 11,
+   "carpeta": "P734_s1_d5_BORRADO_41730361",
+   "cogidas": []
+  },
+  {
+   "serie": 1,
+   "dia": 5,
+   "brazo": "TECHO",
+   "asiento": 10,
+   "carpeta": "P734_s1_d5_TECHO_41730361",
+   "cogidas": [
+    {
+     "tick_entra": 593,
+     "tick_decide": 592,
+     "cosa": "net",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 2.9614,
+     "d_noop": 3.03539,
+     "d_coger": 2.9614,
+     "n_cand": 2,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.07399000000000022,
+     "empata_con_otro": []
+    }
+   ]
+  },
+  {
+   "serie": 1,
+   "dia": 5,
+   "brazo": "TECHO",
+   "asiento": 11,
+   "carpeta": "P734_s1_d5_TECHO_41730361",
+   "cogidas": [
+    {
+     "tick_entra": 846,
+     "tick_decide": 845,
+     "cosa": "camouflage",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.71762,
+     "d_noop": 3.71762,
+     "d_coger": 3.71762,
+     "n_cand": 2,
+     "empate_exacto_con_noop": true,
+     "degenerado": true,
+     "coger_gana_a_noop_por": 0.0,
+     "empata_con_otro": [
+      "noop"
+     ]
+    }
+   ]
+  },
+  {
+   "serie": 1,
+   "dia": 6,
+   "brazo": "APRENDE",
+   "asiento": 10,
+   "carpeta": "P734_s1_d6_APRENDE_41835090",
+   "cogidas": [
+    {
+     "tick_entra": 593,
+     "tick_decide": 592,
+     "cosa": "net",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 2.95079,
+     "d_noop": 2.95837,
+     "d_coger": 2.95079,
+     "n_cand": 3,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.00757999999999992,
+     "empata_con_otro": []
+    },
+    {
+     "tick_entra": 615,
+     "tick_decide": 614,
+     "cosa": "camouflage",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 2.9429,
+     "d_noop": 2.95024,
+     "d_coger": 2.9429,
+     "n_cand": 2,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.007340000000000124,
+     "empata_con_otro": []
+    }
+   ]
+  },
+  {
+   "serie": 1,
+   "dia": 6,
+   "brazo": "APRENDE",
+   "asiento": 11,
+   "carpeta": "P734_s1_d6_APRENDE_41835090",
+   "cogidas": []
+  },
+  {
+   "serie": 1,
+   "dia": 6,
+   "brazo": "BORRADO",
+   "asiento": 10,
+   "carpeta": "P734_s1_d6_BORRADO_41835090",
+   "cogidas": [
+    {
+     "tick_entra": 594,
+     "tick_decide": 593,
+     "cosa": "net",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.14255,
+     "d_noop": 3.16388,
+     "d_coger": 3.14255,
+     "n_cand": 3,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.02132999999999985,
+     "empata_con_otro": [
+      "ir_curioso"
+     ]
+    },
+    {
+     "tick_entra": 616,
+     "tick_decide": 615,
+     "cosa": "camouflage",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.12127,
+     "d_noop": 3.14255,
+     "d_coger": 3.12127,
+     "n_cand": 3,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.021279999999999966,
+     "empata_con_otro": [
+      "ir_curioso"
+     ]
+    }
+   ]
+  },
+  {
+   "serie": 1,
+   "dia": 6,
+   "brazo": "BORRADO",
+   "asiento": 11,
+   "carpeta": "P734_s1_d6_BORRADO_41835090",
+   "cogidas": []
+  },
+  {
+   "serie": 1,
+   "dia": 6,
+   "brazo": "TECHO",
+   "asiento": 10,
+   "carpeta": "P734_s1_d6_TECHO_41835090",
+   "cogidas": [
+    {
+     "tick_entra": 593,
+     "tick_decide": 592,
+     "cosa": "net",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 2.81544,
+     "d_noop": 2.88807,
+     "d_coger": 2.81544,
+     "n_cand": 2,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.07262999999999975,
+     "empata_con_otro": []
+    }
+   ]
+  },
+  {
+   "serie": 1,
+   "dia": 6,
+   "brazo": "TECHO",
+   "asiento": 11,
+   "carpeta": "P734_s1_d6_TECHO_41835090",
+   "cogidas": [
+    {
+     "tick_entra": 968,
+     "tick_decide": 967,
+     "cosa": "camouflage",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.36915,
+     "d_noop": 3.36915,
+     "d_coger": 3.36915,
+     "n_cand": 2,
+     "empate_exacto_con_noop": true,
+     "degenerado": true,
+     "coger_gana_a_noop_por": 0.0,
+     "empata_con_otro": [
+      "noop"
+     ]
+    }
+   ]
+  },
+  {
+   "serie": 1,
+   "dia": 7,
+   "brazo": "APRENDE",
+   "asiento": 10,
+   "carpeta": "P734_s1_d7_APRENDE_41939819",
+   "cogidas": []
+  },
+  {
+   "serie": 1,
+   "dia": 7,
+   "brazo": "APRENDE",
+   "asiento": 11,
+   "carpeta": "P734_s1_d7_APRENDE_41939819",
+   "cogidas": []
+  },
+  {
+   "serie": 1,
+   "dia": 7,
+   "brazo": "BORRADO",
+   "asiento": 10,
+   "carpeta": "P734_s1_d7_BORRADO_41939819",
+   "cogidas": [
+    {
+     "tick_entra": 12441,
+     "tick_decide": 12440,
+     "cosa": "net",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 4.37137,
+     "d_noop": 4.38996,
+     "d_coger": 4.37137,
+     "n_cand": 3,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.01859000000000055,
+     "empata_con_otro": []
+    }
+   ]
+  },
+  {
+   "serie": 1,
+   "dia": 7,
+   "brazo": "BORRADO",
+   "asiento": 11,
+   "carpeta": "P734_s1_d7_BORRADO_41939819",
+   "cogidas": []
+  },
+  {
+   "serie": 1,
+   "dia": 7,
+   "brazo": "TECHO",
+   "asiento": 10,
+   "carpeta": "P734_s1_d7_TECHO_41939819",
+   "cogidas": []
+  },
+  {
+   "serie": 1,
+   "dia": 7,
+   "brazo": "TECHO",
+   "asiento": 11,
+   "carpeta": "P734_s1_d7_TECHO_41939819",
+   "cogidas": []
+  },
+  {
+   "serie": 1,
+   "dia": 8,
+   "brazo": "APRENDE",
+   "asiento": 10,
+   "carpeta": "P734_s1_d8_APRENDE_42044548",
+   "cogidas": []
+  },
+  {
+   "serie": 1,
+   "dia": 8,
+   "brazo": "APRENDE",
+   "asiento": 11,
+   "carpeta": "P734_s1_d8_APRENDE_42044548",
+   "cogidas": [
+    {
+     "tick_entra": 901,
+     "tick_decide": 900,
+     "cosa": "camouflage",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.4554,
+     "d_noop": 3.46132,
+     "d_coger": 3.4554,
+     "n_cand": 2,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.005920000000000147,
+     "empata_con_otro": []
+    }
+   ]
+  },
+  {
+   "serie": 1,
+   "dia": 8,
+   "brazo": "BORRADO",
+   "asiento": 10,
+   "carpeta": "P734_s1_d8_BORRADO_42044548",
+   "cogidas": [
+    {
+     "tick_entra": 681,
+     "tick_decide": 680,
+     "cosa": "net",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 2.7233,
+     "d_noop": 2.74354,
+     "d_coger": 2.7233,
+     "n_cand": 3,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.020239999999999814,
+     "empata_con_otro": [
+      "ir_curioso"
+     ]
+    }
+   ]
+  },
+  {
+   "serie": 1,
+   "dia": 8,
+   "brazo": "BORRADO",
+   "asiento": 11,
+   "carpeta": "P734_s1_d8_BORRADO_42044548",
+   "cogidas": [
+    {
+     "tick_entra": 659,
+     "tick_decide": 658,
+     "cosa": "camouflage",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.16388,
+     "d_noop": 3.18526,
+     "d_coger": 3.16388,
+     "n_cand": 3,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.021380000000000177,
+     "empata_con_otro": [
+      "ir_curioso"
+     ]
+    }
+   ]
+  },
+  {
+   "serie": 1,
+   "dia": 8,
+   "brazo": "TECHO",
+   "asiento": 10,
+   "carpeta": "P734_s1_d8_TECHO_42044548",
+   "cogidas": [
+    {
+     "tick_entra": 2451,
+     "tick_decide": 2450,
+     "cosa": "camouflage",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.62623,
+     "d_noop": 3.62623,
+     "d_coger": 3.62623,
+     "n_cand": 2,
+     "empate_exacto_con_noop": true,
+     "degenerado": true,
+     "coger_gana_a_noop_por": 0.0,
+     "empata_con_otro": [
+      "noop"
+     ]
+    }
+   ]
+  },
+  {
+   "serie": 1,
+   "dia": 8,
+   "brazo": "TECHO",
+   "asiento": 11,
+   "carpeta": "P734_s1_d8_TECHO_42044548",
+   "cogidas": []
+  },
+  {
+   "serie": 1,
+   "dia": 9,
+   "brazo": "APRENDE",
+   "asiento": 10,
+   "carpeta": "P734_s1_d9_APRENDE_42149277",
+   "cogidas": [
+    {
+     "tick_entra": 604,
+     "tick_decide": 603,
+     "cosa": "camouflage",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.37133,
+     "d_noop": 3.37434,
+     "d_coger": 3.37133,
+     "n_cand": 3,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.003010000000000179,
+     "empata_con_otro": []
+    },
+    {
+     "tick_entra": 11691,
+     "tick_decide": 11690,
+     "cosa": "net",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 2.77996,
+     "d_noop": 2.7829,
+     "d_coger": 2.77996,
+     "n_cand": 2,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.0029400000000001647,
+     "empata_con_otro": []
+    },
+    {
+     "tick_entra": 11899,
+     "tick_decide": 11898,
+     "cosa": "net",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 2.77986,
+     "d_noop": 2.77986,
+     "d_coger": 2.77986,
+     "n_cand": 2,
+     "empate_exacto_con_noop": true,
+     "degenerado": true,
+     "coger_gana_a_noop_por": 0.0,
+     "empata_con_otro": [
+      "noop"
+     ]
+    }
+   ]
+  },
+  {
+   "serie": 1,
+   "dia": 9,
+   "brazo": "APRENDE",
+   "asiento": 11,
+   "carpeta": "P734_s1_d9_APRENDE_42149277",
+   "cogidas": []
+  },
+  {
+   "serie": 1,
+   "dia": 9,
+   "brazo": "BORRADO",
+   "asiento": 10,
+   "carpeta": "P734_s1_d9_BORRADO_42149277",
+   "cogidas": [
+    {
+     "tick_entra": 604,
+     "tick_decide": 603,
+     "cosa": "camouflage",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.58374,
+     "d_noop": 3.59515,
+     "d_coger": 3.58374,
+     "n_cand": 3,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.011409999999999698,
+     "empata_con_otro": []
+    },
+    {
+     "tick_entra": 2075,
+     "tick_decide": 2074,
+     "cosa": "net",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.56555,
+     "d_noop": 3.57693,
+     "d_coger": 3.56555,
+     "n_cand": 3,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.011379999999999946,
+     "empata_con_otro": []
+    }
+   ]
+  },
+  {
+   "serie": 1,
+   "dia": 9,
+   "brazo": "BORRADO",
+   "asiento": 11,
+   "carpeta": "P734_s1_d9_BORRADO_42149277",
+   "cogidas": []
+  },
+  {
+   "serie": 1,
+   "dia": 9,
+   "brazo": "TECHO",
+   "asiento": 10,
+   "carpeta": "P734_s1_d9_TECHO_42149277",
+   "cogidas": [
+    {
+     "tick_entra": 1511,
+     "tick_decide": 1510,
+     "cosa": "camouflage",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.47596,
+     "d_noop": 3.47596,
+     "d_coger": 3.47596,
+     "n_cand": 2,
+     "empate_exacto_con_noop": true,
+     "degenerado": true,
+     "coger_gana_a_noop_por": 0.0,
+     "empata_con_otro": [
+      "noop"
+     ]
+    }
+   ]
+  },
+  {
+   "serie": 1,
+   "dia": 9,
+   "brazo": "TECHO",
+   "asiento": 11,
+   "carpeta": "P734_s1_d9_TECHO_42149277",
+   "cogidas": [
+    {
+     "tick_entra": 1533,
+     "tick_decide": 1532,
+     "cosa": "net",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.68603,
+     "d_noop": 3.76518,
+     "d_coger": 3.68603,
+     "n_cand": 2,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.07914999999999983,
+     "empata_con_otro": []
+    }
+   ]
+  },
+  {
+   "serie": 2,
+   "dia": 10,
+   "brazo": "APRENDE",
+   "asiento": 10,
+   "carpeta": "P734_s2_d10_APRENDE_42358735",
+   "cogidas": []
+  },
+  {
+   "serie": 2,
+   "dia": 10,
+   "brazo": "APRENDE",
+   "asiento": 11,
+   "carpeta": "P734_s2_d10_APRENDE_42358735",
+   "cogidas": [
+    {
+     "tick_entra": 626,
+     "tick_decide": 625,
+     "cosa": "camouflage",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 2.77484,
+     "d_noop": 2.78282,
+     "d_coger": 2.77484,
+     "n_cand": 2,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.007979999999999876,
+     "empata_con_otro": []
+    },
+    {
+     "tick_entra": 648,
+     "tick_decide": 647,
+     "cosa": "net",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 2.76926,
+     "d_noop": 2.77464,
+     "d_coger": 2.76926,
+     "n_cand": 2,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.005380000000000162,
+     "empata_con_otro": []
+    }
+   ]
+  },
+  {
+   "serie": 2,
+   "dia": 10,
+   "brazo": "BORRADO",
+   "asiento": 10,
+   "carpeta": "P734_s2_d10_BORRADO_42358735",
+   "cogidas": [
+    {
+     "tick_entra": 593,
+     "tick_decide": 592,
+     "cosa": "net",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.16388,
+     "d_noop": 3.18526,
+     "d_coger": 3.16388,
+     "n_cand": 3,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.021380000000000177,
+     "empata_con_otro": [
+      "ir_curioso"
+     ]
+    },
+    {
+     "tick_entra": 615,
+     "tick_decide": 614,
+     "cosa": "camouflage",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.14255,
+     "d_noop": 3.16388,
+     "d_coger": 3.14255,
+     "n_cand": 3,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.02132999999999985,
+     "empata_con_otro": [
+      "ir_curioso"
+     ]
+    }
+   ]
+  },
+  {
+   "serie": 2,
+   "dia": 10,
+   "brazo": "BORRADO",
+   "asiento": 11,
+   "carpeta": "P734_s2_d10_BORRADO_42358735",
+   "cogidas": []
+  },
+  {
+   "serie": 2,
+   "dia": 10,
+   "brazo": "TECHO",
+   "asiento": 10,
+   "carpeta": "P734_s2_d10_TECHO_42358735",
+   "cogidas": []
+  },
+  {
+   "serie": 2,
+   "dia": 10,
+   "brazo": "TECHO",
+   "asiento": 11,
+   "carpeta": "P734_s2_d10_TECHO_42358735",
+   "cogidas": [
+    {
+     "tick_entra": 604,
+     "tick_decide": 603,
+     "cosa": "net",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 2.81544,
+     "d_noop": 2.88807,
+     "d_coger": 2.81544,
+     "n_cand": 2,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.07262999999999975,
+     "empata_con_otro": []
+    }
+   ]
+  },
+  {
+   "serie": 2,
+   "dia": 11,
+   "brazo": "APRENDE",
+   "asiento": 10,
+   "carpeta": "P734_s2_d11_APRENDE_42254006",
+   "cogidas": [
+    {
+     "tick_entra": 2386,
+     "tick_decide": 2385,
+     "cosa": "camouflage",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.45128,
+     "d_noop": 3.45352,
+     "d_coger": 3.45128,
+     "n_cand": 2,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.0022400000000000198,
+     "empata_con_otro": []
+    }
+   ]
+  },
+  {
+   "serie": 2,
+   "dia": 11,
+   "brazo": "APRENDE",
+   "asiento": 11,
+   "carpeta": "P734_s2_d11_APRENDE_42254006",
+   "cogidas": [
+    {
+     "tick_entra": 11441,
+     "tick_decide": 11440,
+     "cosa": "net",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.85445,
+     "d_noop": 3.85696,
+     "d_coger": 3.85445,
+     "n_cand": 5,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.0025100000000000122,
+     "empata_con_otro": []
+    }
+   ]
+  },
+  {
+   "serie": 2,
+   "dia": 11,
+   "brazo": "BORRADO",
+   "asiento": 10,
+   "carpeta": "P734_s2_d11_BORRADO_42254006",
+   "cogidas": []
+  },
+  {
+   "serie": 2,
+   "dia": 11,
+   "brazo": "BORRADO",
+   "asiento": 11,
+   "carpeta": "P734_s2_d11_BORRADO_42254006",
+   "cogidas": [
+    {
+     "tick_entra": 5267,
+     "tick_decide": 5266,
+     "cosa": "camouflage",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 2.85501,
+     "d_noop": 2.87554,
+     "d_coger": 2.85501,
+     "n_cand": 3,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.020529999999999937,
+     "empata_con_otro": []
+    },
+    {
+     "tick_entra": 5284,
+     "tick_decide": 5283,
+     "cosa": "net",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.26269,
+     "d_noop": 3.27387,
+     "d_coger": 3.26269,
+     "n_cand": 4,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.011179999999999968,
+     "empata_con_otro": []
+    },
+    {
+     "tick_entra": 5922,
+     "tick_decide": 5921,
+     "cosa": "camouflage",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 4.45603,
+     "d_noop": 4.46782,
+     "d_coger": 4.45603,
+     "n_cand": 3,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.011789999999999523,
+     "empata_con_otro": []
+    },
+    {
+     "tick_entra": 6094,
+     "tick_decide": 6093,
+     "cosa": "camouflage",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 5.56737,
+     "d_noop": 5.57066,
+     "d_coger": 5.56737,
+     "n_cand": 3,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.003289999999999793,
+     "empata_con_otro": []
+    }
+   ]
+  },
+  {
+   "serie": 2,
+   "dia": 11,
+   "brazo": "TECHO",
+   "asiento": 10,
+   "carpeta": "P734_s2_d11_TECHO_42254006",
+   "cogidas": []
+  },
+  {
+   "serie": 2,
+   "dia": 11,
+   "brazo": "TECHO",
+   "asiento": 11,
+   "carpeta": "P734_s2_d11_TECHO_42254006",
+   "cogidas": []
+  },
+  {
+   "serie": 2,
+   "dia": 12,
+   "brazo": "APRENDE",
+   "asiento": 10,
+   "carpeta": "P734_s2_d12_APRENDE_42149277",
+   "cogidas": []
+  },
+  {
+   "serie": 2,
+   "dia": 12,
+   "brazo": "APRENDE",
+   "asiento": 11,
+   "carpeta": "P734_s2_d12_APRENDE_42149277",
+   "cogidas": [
+    {
+     "tick_entra": 616,
+     "tick_decide": 615,
+     "cosa": "camouflage",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.73523,
+     "d_noop": 3.73873,
+     "d_coger": 3.73523,
+     "n_cand": 2,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.0034999999999998366,
+     "empata_con_otro": []
+    }
+   ]
+  },
+  {
+   "serie": 2,
+   "dia": 12,
+   "brazo": "BORRADO",
+   "asiento": 10,
+   "carpeta": "P734_s2_d12_BORRADO_42149277",
+   "cogidas": [
+    {
+     "tick_entra": 608,
+     "tick_decide": 607,
+     "cosa": "camouflage",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.58374,
+     "d_noop": 3.59515,
+     "d_coger": 3.58374,
+     "n_cand": 3,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.011409999999999698,
+     "empata_con_otro": []
+    },
+    {
+     "tick_entra": 10667,
+     "tick_decide": 10666,
+     "cosa": "net",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.47714,
+     "d_noop": 3.48864,
+     "d_coger": 3.47714,
+     "n_cand": 4,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.011500000000000288,
+     "empata_con_otro": []
+    }
+   ]
+  },
+  {
+   "serie": 2,
+   "dia": 12,
+   "brazo": "BORRADO",
+   "asiento": 11,
+   "carpeta": "P734_s2_d12_BORRADO_42149277",
+   "cogidas": [
+    {
+     "tick_entra": 14177,
+     "tick_decide": 14176,
+     "cosa": "net",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 4.09608,
+     "d_noop": 4.1072,
+     "d_coger": 4.09608,
+     "n_cand": 3,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.011120000000000019,
+     "empata_con_otro": []
+    },
+    {
+     "tick_entra": 14178,
+     "tick_decide": 14177,
+     "cosa": "camouflage",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 4.08354,
+     "d_noop": 4.09463,
+     "d_coger": 4.08354,
+     "n_cand": 2,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.011090000000000266,
+     "empata_con_otro": []
+    }
+   ]
+  },
+  {
+   "serie": 2,
+   "dia": 12,
+   "brazo": "TECHO",
+   "asiento": 10,
+   "carpeta": "P734_s2_d12_TECHO_42149277",
+   "cogidas": [
+    {
+     "tick_entra": 2576,
+     "tick_decide": 2575,
+     "cosa": "net",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.29897,
+     "d_noop": 3.37493,
+     "d_coger": 3.29897,
+     "n_cand": 2,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.0759599999999998,
+     "empata_con_otro": []
+    }
+   ]
+  },
+  {
+   "serie": 2,
+   "dia": 12,
+   "brazo": "TECHO",
+   "asiento": 11,
+   "carpeta": "P734_s2_d12_TECHO_42149277",
+   "cogidas": [
+    {
+     "tick_entra": 1165,
+     "tick_decide": 1164,
+     "cosa": "camouflage",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.78324,
+     "d_noop": 3.78324,
+     "d_coger": 3.78324,
+     "n_cand": 2,
+     "empate_exacto_con_noop": true,
+     "degenerado": true,
+     "coger_gana_a_noop_por": 0.0,
+     "empata_con_otro": [
+      "noop"
+     ]
+    }
+   ]
+  },
+  {
+   "serie": 2,
+   "dia": 13,
+   "brazo": "APRENDE",
+   "asiento": 10,
+   "carpeta": "P734_s2_d13_APRENDE_42044548",
+   "cogidas": [
+    {
+     "tick_entra": 1177,
+     "tick_decide": 1176,
+     "cosa": "net",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.28836,
+     "d_noop": 3.29195,
+     "d_coger": 3.28836,
+     "n_cand": 2,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.003589999999999982,
+     "empata_con_otro": []
+    },
+    {
+     "tick_entra": 1309,
+     "tick_decide": 1308,
+     "cosa": "camouflage",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 2.91051,
+     "d_noop": 2.91415,
+     "d_coger": 2.91051,
+     "n_cand": 2,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.0036399999999998656,
+     "empata_con_otro": []
+    }
+   ]
+  },
+  {
+   "serie": 2,
+   "dia": 13,
+   "brazo": "APRENDE",
+   "asiento": 11,
+   "carpeta": "P734_s2_d13_APRENDE_42044548",
+   "cogidas": []
+  },
+  {
+   "serie": 2,
+   "dia": 13,
+   "brazo": "BORRADO",
+   "asiento": 10,
+   "carpeta": "P734_s2_d13_BORRADO_42044548",
+   "cogidas": [
+    {
+     "tick_entra": 681,
+     "tick_decide": 680,
+     "cosa": "net",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 2.7233,
+     "d_noop": 2.74354,
+     "d_coger": 2.7233,
+     "n_cand": 3,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.020239999999999814,
+     "empata_con_otro": [
+      "ir_curioso"
+     ]
+    }
+   ]
+  },
+  {
+   "serie": 2,
+   "dia": 13,
+   "brazo": "BORRADO",
+   "asiento": 11,
+   "carpeta": "P734_s2_d13_BORRADO_42044548",
+   "cogidas": [
+    {
+     "tick_entra": 659,
+     "tick_decide": 658,
+     "cosa": "camouflage",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.16388,
+     "d_noop": 3.18526,
+     "d_coger": 3.16388,
+     "n_cand": 3,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.021380000000000177,
+     "empata_con_otro": [
+      "ir_curioso"
+     ]
+    }
+   ]
+  },
+  {
+   "serie": 2,
+   "dia": 13,
+   "brazo": "TECHO",
+   "asiento": 10,
+   "carpeta": "P734_s2_d13_TECHO_42044548",
+   "cogidas": [
+    {
+     "tick_entra": 9288,
+     "tick_decide": 9287,
+     "cosa": "camouflage",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.11152,
+     "d_noop": 3.11152,
+     "d_coger": 3.11152,
+     "n_cand": 2,
+     "empate_exacto_con_noop": true,
+     "degenerado": true,
+     "coger_gana_a_noop_por": 0.0,
+     "empata_con_otro": [
+      "noop"
+     ]
+    }
+   ]
+  },
+  {
+   "serie": 2,
+   "dia": 13,
+   "brazo": "TECHO",
+   "asiento": 11,
+   "carpeta": "P734_s2_d13_TECHO_42044548",
+   "cogidas": []
+  },
+  {
+   "serie": 2,
+   "dia": 14,
+   "brazo": "APRENDE",
+   "asiento": 10,
+   "carpeta": "P734_s2_d14_APRENDE_41939819",
+   "cogidas": []
+  },
+  {
+   "serie": 2,
+   "dia": 14,
+   "brazo": "APRENDE",
+   "asiento": 11,
+   "carpeta": "P734_s2_d14_APRENDE_41939819",
+   "cogidas": []
+  },
+  {
+   "serie": 2,
+   "dia": 14,
+   "brazo": "BORRADO",
+   "asiento": 10,
+   "carpeta": "P734_s2_d14_BORRADO_41939819",
+   "cogidas": []
+  },
+  {
+   "serie": 2,
+   "dia": 14,
+   "brazo": "BORRADO",
+   "asiento": 11,
+   "carpeta": "P734_s2_d14_BORRADO_41939819",
+   "cogidas": []
+  },
+  {
+   "serie": 2,
+   "dia": 14,
+   "brazo": "TECHO",
+   "asiento": 10,
+   "carpeta": "P734_s2_d14_TECHO_41939819",
+   "cogidas": []
+  },
+  {
+   "serie": 2,
+   "dia": 14,
+   "brazo": "TECHO",
+   "asiento": 11,
+   "carpeta": "P734_s2_d14_TECHO_41939819",
+   "cogidas": [
+    {
+     "tick_entra": 8348,
+     "tick_decide": 8347,
+     "cosa": "net",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 4.61051,
+     "d_noop": 4.6937,
+     "d_coger": 4.61051,
+     "n_cand": 2,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.0831900000000001,
+     "empata_con_otro": []
+    }
+   ]
+  },
+  {
+   "serie": 2,
+   "dia": 15,
+   "brazo": "APRENDE",
+   "asiento": 10,
+   "carpeta": "P734_s2_d15_APRENDE_41835090",
+   "cogidas": [
+    {
+     "tick_entra": 615,
+     "tick_decide": 614,
+     "cosa": "camouflage",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.20401,
+     "d_noop": 3.20573,
+     "d_coger": 3.20401,
+     "n_cand": 3,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.0017200000000001658,
+     "empata_con_otro": []
+    },
+    {
+     "tick_entra": 681,
+     "tick_decide": 680,
+     "cosa": "net",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 2.97552,
+     "d_noop": 2.98011,
+     "d_coger": 2.97552,
+     "n_cand": 4,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.004589999999999872,
+     "empata_con_otro": []
+    }
+   ]
+  },
+  {
+   "serie": 2,
+   "dia": 15,
+   "brazo": "APRENDE",
+   "asiento": 11,
+   "carpeta": "P734_s2_d15_APRENDE_41835090",
+   "cogidas": []
+  },
+  {
+   "serie": 2,
+   "dia": 15,
+   "brazo": "BORRADO",
+   "asiento": 10,
+   "carpeta": "P734_s2_d15_BORRADO_41835090",
+   "cogidas": [
+    {
+     "tick_entra": 597,
+     "tick_decide": 596,
+     "cosa": "net",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.14255,
+     "d_noop": 3.16388,
+     "d_coger": 3.14255,
+     "n_cand": 3,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.02132999999999985,
+     "empata_con_otro": [
+      "ir_curioso"
+     ]
+    },
+    {
+     "tick_entra": 620,
+     "tick_decide": 619,
+     "cosa": "camouflage",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.12127,
+     "d_noop": 3.14255,
+     "d_coger": 3.12127,
+     "n_cand": 3,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.021279999999999966,
+     "empata_con_otro": [
+      "ir_curioso"
+     ]
+    }
+   ]
+  },
+  {
+   "serie": 2,
+   "dia": 15,
+   "brazo": "BORRADO",
+   "asiento": 11,
+   "carpeta": "P734_s2_d15_BORRADO_41835090",
+   "cogidas": []
+  },
+  {
+   "serie": 2,
+   "dia": 15,
+   "brazo": "TECHO",
+   "asiento": 10,
+   "carpeta": "P734_s2_d15_TECHO_41835090",
+   "cogidas": [
+    {
+     "tick_entra": 593,
+     "tick_decide": 592,
+     "cosa": "net",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 2.81544,
+     "d_noop": 2.88807,
+     "d_coger": 2.81544,
+     "n_cand": 2,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.07262999999999975,
+     "empata_con_otro": []
+    }
+   ]
+  },
+  {
+   "serie": 2,
+   "dia": 15,
+   "brazo": "TECHO",
+   "asiento": 11,
+   "carpeta": "P734_s2_d15_TECHO_41835090",
+   "cogidas": [
+    {
+     "tick_entra": 2101,
+     "tick_decide": 2100,
+     "cosa": "camouflage",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.39165,
+     "d_noop": 3.39165,
+     "d_coger": 3.39165,
+     "n_cand": 2,
+     "empate_exacto_con_noop": true,
+     "degenerado": true,
+     "coger_gana_a_noop_por": 0.0,
+     "empata_con_otro": [
+      "noop"
+     ]
+    }
+   ]
+  },
+  {
+   "serie": 2,
+   "dia": 16,
+   "brazo": "APRENDE",
+   "asiento": 10,
+   "carpeta": "P734_s2_d16_APRENDE_41730361",
+   "cogidas": [
+    {
+     "tick_entra": 1064,
+     "tick_decide": 1063,
+     "cosa": "net",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.68752,
+     "d_noop": 3.69111,
+     "d_coger": 3.68752,
+     "n_cand": 2,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.003589999999999982,
+     "empata_con_otro": []
+    }
+   ]
+  },
+  {
+   "serie": 2,
+   "dia": 16,
+   "brazo": "APRENDE",
+   "asiento": 11,
+   "carpeta": "P734_s2_d16_APRENDE_41730361",
+   "cogidas": [
+    {
+     "tick_entra": 1022,
+     "tick_decide": 1021,
+     "cosa": "camouflage",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.64072,
+     "d_noop": 3.64376,
+     "d_coger": 3.64072,
+     "n_cand": 2,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.0030399999999999316,
+     "empata_con_otro": []
+    }
+   ]
+  },
+  {
+   "serie": 2,
+   "dia": 16,
+   "brazo": "BORRADO",
+   "asiento": 10,
+   "carpeta": "P734_s2_d16_BORRADO_41730361",
+   "cogidas": [
+    {
+     "tick_entra": 946,
+     "tick_decide": 945,
+     "cosa": "net",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 2.7233,
+     "d_noop": 2.74354,
+     "d_coger": 2.7233,
+     "n_cand": 3,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.020239999999999814,
+     "empata_con_otro": []
+    },
+    {
+     "tick_entra": 968,
+     "tick_decide": 967,
+     "cosa": "camouflage",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 2.71768,
+     "d_noop": 2.73789,
+     "d_coger": 2.71768,
+     "n_cand": 3,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.02021000000000006,
+     "empata_con_otro": []
+    }
+   ]
+  },
+  {
+   "serie": 2,
+   "dia": 16,
+   "brazo": "BORRADO",
+   "asiento": 11,
+   "carpeta": "P734_s2_d16_BORRADO_41730361",
+   "cogidas": []
+  },
+  {
+   "serie": 2,
+   "dia": 16,
+   "brazo": "TECHO",
+   "asiento": 10,
+   "carpeta": "P734_s2_d16_TECHO_41730361",
+   "cogidas": [
+    {
+     "tick_entra": 593,
+     "tick_decide": 592,
+     "cosa": "net",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 2.9614,
+     "d_noop": 3.03539,
+     "d_coger": 2.9614,
+     "n_cand": 2,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.07399000000000022,
+     "empata_con_otro": []
+    }
+   ]
+  },
+  {
+   "serie": 2,
+   "dia": 16,
+   "brazo": "TECHO",
+   "asiento": 11,
+   "carpeta": "P734_s2_d16_TECHO_41730361",
+   "cogidas": [
+    {
+     "tick_entra": 1891,
+     "tick_decide": 1890,
+     "cosa": "camouflage",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.8007,
+     "d_noop": 3.8007,
+     "d_coger": 3.8007,
+     "n_cand": 2,
+     "empate_exacto_con_noop": true,
+     "degenerado": true,
+     "coger_gana_a_noop_por": 0.0,
+     "empata_con_otro": [
+      "noop"
+     ]
+    },
+    {
+     "tick_entra": 11686,
+     "tick_decide": 11685,
+     "cosa": "camouflage",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.82198,
+     "d_noop": 3.82198,
+     "d_coger": 3.82198,
+     "n_cand": 2,
+     "empate_exacto_con_noop": true,
+     "degenerado": true,
+     "coger_gana_a_noop_por": 0.0,
+     "empata_con_otro": [
+      "noop"
+     ]
+    },
+    {
+     "tick_entra": 12220,
+     "tick_decide": 12219,
+     "cosa": "camouflage",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.49438,
+     "d_noop": 3.49438,
+     "d_coger": 3.49438,
+     "n_cand": 2,
+     "empate_exacto_con_noop": true,
+     "degenerado": true,
+     "coger_gana_a_noop_por": 0.0,
+     "empata_con_otro": [
+      "noop"
+     ]
+    },
+    {
+     "tick_entra": 12609,
+     "tick_decide": 12608,
+     "cosa": "camouflage",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.49769,
+     "d_noop": 3.49769,
+     "d_coger": 3.49769,
+     "n_cand": 2,
+     "empate_exacto_con_noop": true,
+     "degenerado": true,
+     "coger_gana_a_noop_por": 0.0,
+     "empata_con_otro": [
+      "noop"
+     ]
+    }
+   ]
+  },
+  {
+   "serie": 2,
+   "dia": 17,
+   "brazo": "APRENDE",
+   "asiento": 10,
+   "carpeta": "P734_s2_d17_APRENDE_41625632",
+   "cogidas": [
+    {
+     "tick_entra": 1209,
+     "tick_decide": 1208,
+     "cosa": "camouflage",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.40083,
+     "d_noop": 3.40243,
+     "d_coger": 3.40083,
+     "n_cand": 2,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.0015999999999998238,
+     "empata_con_otro": []
+    }
+   ]
+  },
+  {
+   "serie": 2,
+   "dia": 17,
+   "brazo": "APRENDE",
+   "asiento": 11,
+   "carpeta": "P734_s2_d17_APRENDE_41625632",
+   "cogidas": []
+  },
+  {
+   "serie": 2,
+   "dia": 17,
+   "brazo": "BORRADO",
+   "asiento": 10,
+   "carpeta": "P734_s2_d17_BORRADO_41625632",
+   "cogidas": [
+    {
+     "tick_entra": 1183,
+     "tick_decide": 1182,
+     "cosa": "camouflage",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 2.93109,
+     "d_noop": 2.94106,
+     "d_coger": 2.93109,
+     "n_cand": 3,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.00996999999999959,
+     "empata_con_otro": []
+    }
+   ]
+  },
+  {
+   "serie": 2,
+   "dia": 17,
+   "brazo": "BORRADO",
+   "asiento": 11,
+   "carpeta": "P734_s2_d17_BORRADO_41625632",
+   "cogidas": []
+  },
+  {
+   "serie": 2,
+   "dia": 17,
+   "brazo": "TECHO",
+   "asiento": 10,
+   "carpeta": "P734_s2_d17_TECHO_41625632",
+   "cogidas": [
+    {
+     "tick_entra": 10908,
+     "tick_decide": 10907,
+     "cosa": "camouflage",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.1373,
+     "d_noop": 3.1373,
+     "d_coger": 3.1373,
+     "n_cand": 2,
+     "empate_exacto_con_noop": true,
+     "degenerado": true,
+     "coger_gana_a_noop_por": 0.0,
+     "empata_con_otro": [
+      "noop"
+     ]
+    }
+   ]
+  },
+  {
+   "serie": 2,
+   "dia": 17,
+   "brazo": "TECHO",
+   "asiento": 11,
+   "carpeta": "P734_s2_d17_TECHO_41625632",
+   "cogidas": []
+  },
+  {
+   "serie": 2,
+   "dia": 18,
+   "brazo": "APRENDE",
+   "asiento": 10,
+   "carpeta": "P734_s2_d18_APRENDE_41520903",
+   "cogidas": []
+  },
+  {
+   "serie": 2,
+   "dia": 18,
+   "brazo": "APRENDE",
+   "asiento": 11,
+   "carpeta": "P734_s2_d18_APRENDE_41520903",
+   "cogidas": [
+    {
+     "tick_entra": 1154,
+     "tick_decide": 1153,
+     "cosa": "camouflage",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.60116,
+     "d_noop": 3.60365,
+     "d_coger": 3.60116,
+     "n_cand": 3,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.002489999999999881,
+     "empata_con_otro": []
+    },
+    {
+     "tick_entra": 1264,
+     "tick_decide": 1263,
+     "cosa": "net",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.30479,
+     "d_noop": 3.31011,
+     "d_coger": 3.30479,
+     "n_cand": 3,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.005319999999999769,
+     "empata_con_otro": []
+    },
+    {
+     "tick_entra": 13232,
+     "tick_decide": 13231,
+     "cosa": "net",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 4.56204,
+     "d_noop": 4.56204,
+     "d_coger": 4.56204,
+     "n_cand": 3,
+     "empate_exacto_con_noop": true,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.0,
+     "empata_con_otro": [
+      "noop"
+     ]
+    }
+   ]
+  },
+  {
+   "serie": 2,
+   "dia": 18,
+   "brazo": "BORRADO",
+   "asiento": 10,
+   "carpeta": "P734_s2_d18_BORRADO_41520903",
+   "cogidas": [
+    {
+     "tick_entra": 13349,
+     "tick_decide": 13348,
+     "cosa": "net",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.81923,
+     "d_noop": 3.82987,
+     "d_coger": 3.81923,
+     "n_cand": 4,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.010639999999999983,
+     "empata_con_otro": [
+      "ir_curioso"
+     ]
+    }
+   ]
+  },
+  {
+   "serie": 2,
+   "dia": 18,
+   "brazo": "BORRADO",
+   "asiento": 11,
+   "carpeta": "P734_s2_d18_BORRADO_41520903",
+   "cogidas": []
+  },
+  {
+   "serie": 2,
+   "dia": 18,
+   "brazo": "TECHO",
+   "asiento": 10,
+   "carpeta": "P734_s2_d18_TECHO_41520903",
+   "cogidas": []
+  },
+  {
+   "serie": 2,
+   "dia": 18,
+   "brazo": "TECHO",
+   "asiento": 11,
+   "carpeta": "P734_s2_d18_TECHO_41520903",
+   "cogidas": []
+  },
+  {
+   "serie": 2,
+   "dia": 19,
+   "brazo": "APRENDE",
+   "asiento": 10,
+   "carpeta": "P734_s2_d19_APRENDE_41416174",
+   "cogidas": [
+    {
+     "tick_entra": 593,
+     "tick_decide": 592,
+     "cosa": "net",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 2.73038,
+     "d_noop": 2.73395,
+     "d_coger": 2.73038,
+     "n_cand": 2,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.003570000000000295,
+     "empata_con_otro": []
+    }
+   ]
+  },
+  {
+   "serie": 2,
+   "dia": 19,
+   "brazo": "APRENDE",
+   "asiento": 11,
+   "carpeta": "P734_s2_d19_APRENDE_41416174",
+   "cogidas": [
+    {
+     "tick_entra": 704,
+     "tick_decide": 703,
+     "cosa": "camouflage",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.03138,
+     "d_noop": 3.03537,
+     "d_coger": 3.03138,
+     "n_cand": 3,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.003989999999999938,
+     "empata_con_otro": []
+    }
+   ]
+  },
+  {
+   "serie": 2,
+   "dia": 19,
+   "brazo": "BORRADO",
+   "asiento": 10,
+   "carpeta": "P734_s2_d19_BORRADO_41416174",
+   "cogidas": []
+  },
+  {
+   "serie": 2,
+   "dia": 19,
+   "brazo": "BORRADO",
+   "asiento": 11,
+   "carpeta": "P734_s2_d19_BORRADO_41416174",
+   "cogidas": [
+    {
+     "tick_entra": 703,
+     "tick_decide": 702,
+     "cosa": "camouflage",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.14255,
+     "d_noop": 3.16388,
+     "d_coger": 3.14255,
+     "n_cand": 4,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.02132999999999985,
+     "empata_con_otro": []
+    },
+    {
+     "tick_entra": 802,
+     "tick_decide": 801,
+     "cosa": "net",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.47161,
+     "d_noop": 3.48307,
+     "d_coger": 3.47161,
+     "n_cand": 4,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.011460000000000026,
+     "empata_con_otro": []
+    }
+   ]
+  },
+  {
+   "serie": 2,
+   "dia": 19,
+   "brazo": "TECHO",
+   "asiento": 10,
+   "carpeta": "P734_s2_d19_TECHO_41416174",
+   "cogidas": [
+    {
+     "tick_entra": 593,
+     "tick_decide": 592,
+     "cosa": "net",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.22699,
+     "d_noop": 3.30276,
+     "d_coger": 3.22699,
+     "n_cand": 2,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.07577000000000034,
+     "empata_con_otro": []
+    },
+    {
+     "tick_entra": 769,
+     "tick_decide": 768,
+     "cosa": "camouflage",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.24242,
+     "d_noop": 3.24242,
+     "d_coger": 3.24242,
+     "n_cand": 2,
+     "empate_exacto_con_noop": true,
+     "degenerado": true,
+     "coger_gana_a_noop_por": 0.0,
+     "empata_con_otro": [
+      "noop"
+     ]
+    }
+   ]
+  },
+  {
+   "serie": 2,
+   "dia": 19,
+   "brazo": "TECHO",
+   "asiento": 11,
+   "carpeta": "P734_s2_d19_TECHO_41416174",
+   "cogidas": []
+  },
+  {
+   "serie": 2,
+   "dia": 1,
+   "brazo": "APRENDE",
+   "asiento": 10,
+   "carpeta": "P734_s2_d1_APRENDE_43301296",
+   "cogidas": [
+    {
+     "tick_entra": 626,
+     "tick_decide": 625,
+     "cosa": "camouflage",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 2.74527,
+     "d_noop": 2.76556,
+     "d_coger": 2.74527,
+     "n_cand": 3,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.020289999999999697,
+     "empata_con_otro": [
+      "ir_curioso"
+     ]
+    }
+   ]
+  },
+  {
+   "serie": 2,
+   "dia": 1,
+   "brazo": "APRENDE",
+   "asiento": 11,
+   "carpeta": "P734_s2_d1_APRENDE_43301296",
+   "cogidas": []
+  },
+  {
+   "serie": 2,
+   "dia": 1,
+   "brazo": "BORRADO",
+   "asiento": 10,
+   "carpeta": "P734_s2_d1_BORRADO_43301296",
+   "cogidas": [
+    {
+     "tick_entra": 626,
+     "tick_decide": 625,
+     "cosa": "camouflage",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 2.74527,
+     "d_noop": 2.76556,
+     "d_coger": 2.74527,
+     "n_cand": 3,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.020289999999999697,
+     "empata_con_otro": [
+      "ir_curioso"
+     ]
+    },
+    {
+     "tick_entra": 2199,
+     "tick_decide": 2198,
+     "cosa": "net",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.20999,
+     "d_noop": 3.22129,
+     "d_coger": 3.20999,
+     "n_cand": 4,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.01130000000000031,
+     "empata_con_otro": []
+    }
+   ]
+  },
+  {
+   "serie": 2,
+   "dia": 1,
+   "brazo": "BORRADO",
+   "asiento": 11,
+   "carpeta": "P734_s2_d1_BORRADO_43301296",
+   "cogidas": []
+  },
+  {
+   "serie": 2,
+   "dia": 1,
+   "brazo": "TECHO",
+   "asiento": 10,
+   "carpeta": "P734_s2_d1_TECHO_43301296",
+   "cogidas": []
+  },
+  {
+   "serie": 2,
+   "dia": 1,
+   "brazo": "TECHO",
+   "asiento": 11,
+   "carpeta": "P734_s2_d1_TECHO_43301296",
+   "cogidas": [
+    {
+     "tick_entra": 4905,
+     "tick_decide": 4904,
+     "cosa": "camouflage",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.48319,
+     "d_noop": 3.48319,
+     "d_coger": 3.48319,
+     "n_cand": 3,
+     "empate_exacto_con_noop": true,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.0,
+     "empata_con_otro": [
+      "noop"
+     ]
+    }
+   ]
+  },
+  {
+   "serie": 2,
+   "dia": 20,
+   "brazo": "APRENDE",
+   "asiento": 10,
+   "carpeta": "P734_s2_d20_APRENDE_41311445",
+   "cogidas": [
+    {
+     "tick_entra": 606,
+     "tick_decide": 605,
+     "cosa": "net",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 2.74302,
+     "d_noop": 2.74604,
+     "d_coger": 2.74302,
+     "n_cand": 3,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.0030199999999998006,
+     "empata_con_otro": []
+    },
+    {
+     "tick_entra": 925,
+     "tick_decide": 924,
+     "cosa": "camouflage",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 2.9671,
+     "d_noop": 2.97006,
+     "d_coger": 2.9671,
+     "n_cand": 3,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.0029600000000002957,
+     "empata_con_otro": []
+    }
+   ]
+  },
+  {
+   "serie": 2,
+   "dia": 20,
+   "brazo": "APRENDE",
+   "asiento": 11,
+   "carpeta": "P734_s2_d20_APRENDE_41311445",
+   "cogidas": []
+  },
+  {
+   "serie": 2,
+   "dia": 20,
+   "brazo": "BORRADO",
+   "asiento": 10,
+   "carpeta": "P734_s2_d20_BORRADO_41311445",
+   "cogidas": [
+    {
+     "tick_entra": 593,
+     "tick_decide": 592,
+     "cosa": "net",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.16388,
+     "d_noop": 3.18526,
+     "d_coger": 3.16388,
+     "n_cand": 3,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.021380000000000177,
+     "empata_con_otro": [
+      "ir_curioso"
+     ]
+    },
+    {
+     "tick_entra": 626,
+     "tick_decide": 625,
+     "cosa": "camouflage",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.12127,
+     "d_noop": 3.14255,
+     "d_coger": 3.12127,
+     "n_cand": 4,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.021279999999999966,
+     "empata_con_otro": []
+    }
+   ]
+  },
+  {
+   "serie": 2,
+   "dia": 20,
+   "brazo": "BORRADO",
+   "asiento": 11,
+   "carpeta": "P734_s2_d20_BORRADO_41311445",
+   "cogidas": []
+  },
+  {
+   "serie": 2,
+   "dia": 20,
+   "brazo": "TECHO",
+   "asiento": 10,
+   "carpeta": "P734_s2_d20_TECHO_41311445",
+   "cogidas": [
+    {
+     "tick_entra": 593,
+     "tick_decide": 592,
+     "cosa": "net",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 2.81544,
+     "d_noop": 2.88807,
+     "d_coger": 2.81544,
+     "n_cand": 2,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.07262999999999975,
+     "empata_con_otro": []
+    }
+   ]
+  },
+  {
+   "serie": 2,
+   "dia": 20,
+   "brazo": "TECHO",
+   "asiento": 11,
+   "carpeta": "P734_s2_d20_TECHO_41311445",
+   "cogidas": []
+  },
+  {
+   "serie": 2,
+   "dia": 2,
+   "brazo": "APRENDE",
+   "asiento": 10,
+   "carpeta": "P734_s2_d2_APRENDE_43196567",
+   "cogidas": []
+  },
+  {
+   "serie": 2,
+   "dia": 2,
+   "brazo": "APRENDE",
+   "asiento": 11,
+   "carpeta": "P734_s2_d2_APRENDE_43196567",
+   "cogidas": []
+  },
+  {
+   "serie": 2,
+   "dia": 2,
+   "brazo": "BORRADO",
+   "asiento": 10,
+   "carpeta": "P734_s2_d2_BORRADO_43196567",
+   "cogidas": []
+  },
+  {
+   "serie": 2,
+   "dia": 2,
+   "brazo": "BORRADO",
+   "asiento": 11,
+   "carpeta": "P734_s2_d2_BORRADO_43196567",
+   "cogidas": []
+  },
+  {
+   "serie": 2,
+   "dia": 2,
+   "brazo": "TECHO",
+   "asiento": 10,
+   "carpeta": "P734_s2_d2_TECHO_43196567",
+   "cogidas": []
+  },
+  {
+   "serie": 2,
+   "dia": 2,
+   "brazo": "TECHO",
+   "asiento": 11,
+   "carpeta": "P734_s2_d2_TECHO_43196567",
+   "cogidas": [
+    {
+     "tick_entra": 681,
+     "tick_decide": 680,
+     "cosa": "camouflage",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.46689,
+     "d_noop": 3.46689,
+     "d_coger": 3.46689,
+     "n_cand": 3,
+     "empate_exacto_con_noop": true,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.0,
+     "empata_con_otro": [
+      "noop"
+     ]
+    }
+   ]
+  },
+  {
+   "serie": 2,
+   "dia": 3,
+   "brazo": "APRENDE",
+   "asiento": 10,
+   "carpeta": "P734_s2_d3_APRENDE_43091838",
+   "cogidas": []
+  },
+  {
+   "serie": 2,
+   "dia": 3,
+   "brazo": "APRENDE",
+   "asiento": 11,
+   "carpeta": "P734_s2_d3_APRENDE_43091838",
+   "cogidas": []
+  },
+  {
+   "serie": 2,
+   "dia": 3,
+   "brazo": "BORRADO",
+   "asiento": 10,
+   "carpeta": "P734_s2_d3_BORRADO_43091838",
+   "cogidas": []
+  },
+  {
+   "serie": 2,
+   "dia": 3,
+   "brazo": "BORRADO",
+   "asiento": 11,
+   "carpeta": "P734_s2_d3_BORRADO_43091838",
+   "cogidas": []
+  },
+  {
+   "serie": 2,
+   "dia": 3,
+   "brazo": "TECHO",
+   "asiento": 10,
+   "carpeta": "P734_s2_d3_TECHO_43091838",
+   "cogidas": [
+    {
+     "tick_entra": 1804,
+     "tick_decide": 1803,
+     "cosa": "camouflage",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.63564,
+     "d_noop": 3.63564,
+     "d_coger": 3.63564,
+     "n_cand": 2,
+     "empate_exacto_con_noop": true,
+     "degenerado": true,
+     "coger_gana_a_noop_por": 0.0,
+     "empata_con_otro": [
+      "noop"
+     ]
+    },
+    {
+     "tick_entra": 2065,
+     "tick_decide": 2064,
+     "cosa": "net",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.42025,
+     "d_noop": 3.49766,
+     "d_coger": 3.42025,
+     "n_cand": 2,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.07741000000000042,
+     "empata_con_otro": []
+    }
+   ]
+  },
+  {
+   "serie": 2,
+   "dia": 3,
+   "brazo": "TECHO",
+   "asiento": 11,
+   "carpeta": "P734_s2_d3_TECHO_43091838",
+   "cogidas": []
+  },
+  {
+   "serie": 2,
+   "dia": 4,
+   "brazo": "APRENDE",
+   "asiento": 10,
+   "carpeta": "P734_s2_d4_APRENDE_42987109",
+   "cogidas": []
+  },
+  {
+   "serie": 2,
+   "dia": 4,
+   "brazo": "APRENDE",
+   "asiento": 11,
+   "carpeta": "P734_s2_d4_APRENDE_42987109",
+   "cogidas": [
+    {
+     "tick_entra": 1044,
+     "tick_decide": 1043,
+     "cosa": "camouflage",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.59144,
+     "d_noop": 3.60264,
+     "d_coger": 3.59144,
+     "n_cand": 3,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.011200000000000099,
+     "empata_con_otro": []
+    },
+    {
+     "tick_entra": 1513,
+     "tick_decide": 1512,
+     "cosa": "net",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.43033,
+     "d_noop": 3.4418,
+     "d_coger": 3.43033,
+     "n_cand": 3,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.011470000000000091,
+     "empata_con_otro": []
+    }
+   ]
+  },
+  {
+   "serie": 2,
+   "dia": 4,
+   "brazo": "BORRADO",
+   "asiento": 10,
+   "carpeta": "P734_s2_d4_BORRADO_42987109",
+   "cogidas": []
+  },
+  {
+   "serie": 2,
+   "dia": 4,
+   "brazo": "BORRADO",
+   "asiento": 11,
+   "carpeta": "P734_s2_d4_BORRADO_42987109",
+   "cogidas": [
+    {
+     "tick_entra": 1069,
+     "tick_decide": 1068,
+     "cosa": "camouflage",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.56293,
+     "d_noop": 3.57443,
+     "d_coger": 3.56293,
+     "n_cand": 3,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.011499999999999844,
+     "empata_con_otro": []
+    },
+    {
+     "tick_entra": 1080,
+     "tick_decide": 1079,
+     "cosa": "net",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.46679,
+     "d_noop": 3.47822,
+     "d_coger": 3.46679,
+     "n_cand": 3,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.01142999999999983,
+     "empata_con_otro": []
+    }
+   ]
+  },
+  {
+   "serie": 2,
+   "dia": 4,
+   "brazo": "TECHO",
+   "asiento": 10,
+   "carpeta": "P734_s2_d4_TECHO_42987109",
+   "cogidas": []
+  },
+  {
+   "serie": 2,
+   "dia": 4,
+   "brazo": "TECHO",
+   "asiento": 11,
+   "carpeta": "P734_s2_d4_TECHO_42987109",
+   "cogidas": []
+  },
+  {
+   "serie": 2,
+   "dia": 5,
+   "brazo": "APRENDE",
+   "asiento": 10,
+   "carpeta": "P734_s2_d5_APRENDE_42882380",
+   "cogidas": [
+    {
+     "tick_entra": 692,
+     "tick_decide": 691,
+     "cosa": "camouflage",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 2.36521,
+     "d_noop": 2.38347,
+     "d_coger": 2.36521,
+     "n_cand": 3,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.018260000000000165,
+     "empata_con_otro": [
+      "ir_curioso"
+     ]
+    },
+    {
+     "tick_entra": 11740,
+     "tick_decide": 11739,
+     "cosa": "camouflage",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.31322,
+     "d_noop": 3.31725,
+     "d_coger": 3.31322,
+     "n_cand": 4,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.0040300000000002,
+     "empata_con_otro": []
+    }
+   ]
+  },
+  {
+   "serie": 2,
+   "dia": 5,
+   "brazo": "APRENDE",
+   "asiento": 11,
+   "carpeta": "P734_s2_d5_APRENDE_42882380",
+   "cogidas": [
+    {
+     "tick_entra": 716,
+     "tick_decide": 715,
+     "cosa": "net",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 2.60809,
+     "d_noop": 2.61781,
+     "d_coger": 2.60809,
+     "n_cand": 2,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.009720000000000173,
+     "empata_con_otro": []
+    }
+   ]
+  },
+  {
+   "serie": 2,
+   "dia": 5,
+   "brazo": "BORRADO",
+   "asiento": 10,
+   "carpeta": "P734_s2_d5_BORRADO_42882380",
+   "cogidas": [
+    {
+     "tick_entra": 637,
+     "tick_decide": 636,
+     "cosa": "camouflage",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 2.70312,
+     "d_noop": 2.7233,
+     "d_coger": 2.70312,
+     "n_cand": 4,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.020179999999999865,
+     "empata_con_otro": []
+    },
+    {
+     "tick_entra": 692,
+     "tick_decide": 691,
+     "cosa": "net",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 2.68301,
+     "d_noop": 2.70312,
+     "d_coger": 2.68301,
+     "n_cand": 5,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.020110000000000294,
+     "empata_con_otro": []
+    }
+   ]
+  },
+  {
+   "serie": 2,
+   "dia": 5,
+   "brazo": "BORRADO",
+   "asiento": 11,
+   "carpeta": "P734_s2_d5_BORRADO_42882380",
+   "cogidas": []
+  },
+  {
+   "serie": 2,
+   "dia": 5,
+   "brazo": "TECHO",
+   "asiento": 10,
+   "carpeta": "P734_s2_d5_TECHO_42882380",
+   "cogidas": []
+  },
+  {
+   "serie": 2,
+   "dia": 5,
+   "brazo": "TECHO",
+   "asiento": 11,
+   "carpeta": "P734_s2_d5_TECHO_42882380",
+   "cogidas": [
+    {
+     "tick_entra": 11517,
+     "tick_decide": 11516,
+     "cosa": "camouflage",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 4.75088,
+     "d_noop": 4.75088,
+     "d_coger": 4.75088,
+     "n_cand": 2,
+     "empate_exacto_con_noop": true,
+     "degenerado": true,
+     "coger_gana_a_noop_por": 0.0,
+     "empata_con_otro": [
+      "noop"
+     ]
+    }
+   ]
+  },
+  {
+   "serie": 2,
+   "dia": 6,
+   "brazo": "APRENDE",
+   "asiento": 10,
+   "carpeta": "P734_s2_d6_APRENDE_42777651",
+   "cogidas": [
+    {
+     "tick_entra": 659,
+     "tick_decide": 658,
+     "cosa": "net",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.13599,
+     "d_noop": 3.15731,
+     "d_coger": 3.13599,
+     "n_cand": 3,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.021319999999999784,
+     "empata_con_otro": []
+    }
+   ]
+  },
+  {
+   "serie": 2,
+   "dia": 6,
+   "brazo": "APRENDE",
+   "asiento": 11,
+   "carpeta": "P734_s2_d6_APRENDE_42777651",
+   "cogidas": [
+    {
+     "tick_entra": 648,
+     "tick_decide": 647,
+     "cosa": "camouflage",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 2.79798,
+     "d_noop": 2.80869,
+     "d_coger": 2.79798,
+     "n_cand": 2,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.010709999999999997,
+     "empata_con_otro": []
+    }
+   ]
+  },
+  {
+   "serie": 2,
+   "dia": 6,
+   "brazo": "BORRADO",
+   "asiento": 10,
+   "carpeta": "P734_s2_d6_BORRADO_42777651",
+   "cogidas": [
+    {
+     "tick_entra": 615,
+     "tick_decide": 614,
+     "cosa": "camouflage",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.16388,
+     "d_noop": 3.18526,
+     "d_coger": 3.16388,
+     "n_cand": 3,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.021380000000000177,
+     "empata_con_otro": [
+      "ir_curioso"
+     ]
+    },
+    {
+     "tick_entra": 11620,
+     "tick_decide": 11619,
+     "cosa": "net",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.32637,
+     "d_noop": 3.33695,
+     "d_coger": 3.32637,
+     "n_cand": 3,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.010580000000000034,
+     "empata_con_otro": []
+    }
+   ]
+  },
+  {
+   "serie": 2,
+   "dia": 6,
+   "brazo": "BORRADO",
+   "asiento": 11,
+   "carpeta": "P734_s2_d6_BORRADO_42777651",
+   "cogidas": []
+  },
+  {
+   "serie": 2,
+   "dia": 6,
+   "brazo": "TECHO",
+   "asiento": 10,
+   "carpeta": "P734_s2_d6_TECHO_42777651",
+   "cogidas": [
+    {
+     "tick_entra": 527,
+     "tick_decide": 526,
+     "cosa": "net",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.60548,
+     "d_noop": 3.68347,
+     "d_coger": 3.60548,
+     "n_cand": 2,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.07798999999999978,
+     "empata_con_otro": []
+    },
+    {
+     "tick_entra": 12981,
+     "tick_decide": 12980,
+     "cosa": "net",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.36729,
+     "d_noop": 3.36729,
+     "d_coger": 3.36729,
+     "n_cand": 3,
+     "empate_exacto_con_noop": true,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.0,
+     "empata_con_otro": [
+      "noop"
+     ]
+    }
+   ]
+  },
+  {
+   "serie": 2,
+   "dia": 6,
+   "brazo": "TECHO",
+   "asiento": 11,
+   "carpeta": "P734_s2_d6_TECHO_42777651",
+   "cogidas": []
+  },
+  {
+   "serie": 2,
+   "dia": 7,
+   "brazo": "APRENDE",
+   "asiento": 10,
+   "carpeta": "P734_s2_d7_APRENDE_42672922",
+   "cogidas": [
+    {
+     "tick_entra": 604,
+     "tick_decide": 603,
+     "cosa": "net",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.12516,
+     "d_noop": 3.13554,
+     "d_coger": 3.12516,
+     "n_cand": 3,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.010380000000000056,
+     "empata_con_otro": []
+    },
+    {
+     "tick_entra": 615,
+     "tick_decide": 614,
+     "cosa": "camouflage",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.11903,
+     "d_noop": 3.12513,
+     "d_coger": 3.11903,
+     "n_cand": 2,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.006099999999999994,
+     "empata_con_otro": []
+    }
+   ]
+  },
+  {
+   "serie": 2,
+   "dia": 7,
+   "brazo": "APRENDE",
+   "asiento": 11,
+   "carpeta": "P734_s2_d7_APRENDE_42672922",
+   "cogidas": []
+  },
+  {
+   "serie": 2,
+   "dia": 7,
+   "brazo": "BORRADO",
+   "asiento": 10,
+   "carpeta": "P734_s2_d7_BORRADO_42672922",
+   "cogidas": [
+    {
+     "tick_entra": 604,
+     "tick_decide": 603,
+     "cosa": "camouflage",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.16388,
+     "d_noop": 3.18526,
+     "d_coger": 3.16388,
+     "n_cand": 3,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.021380000000000177,
+     "empata_con_otro": [
+      "ir_curioso"
+     ]
+    }
+   ]
+  },
+  {
+   "serie": 2,
+   "dia": 7,
+   "brazo": "BORRADO",
+   "asiento": 11,
+   "carpeta": "P734_s2_d7_BORRADO_42672922",
+   "cogidas": [
+    {
+     "tick_entra": 609,
+     "tick_decide": 608,
+     "cosa": "net",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.16388,
+     "d_noop": 3.18526,
+     "d_coger": 3.16388,
+     "n_cand": 3,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.021380000000000177,
+     "empata_con_otro": [
+      "ir_curioso"
+     ]
+    }
+   ]
+  },
+  {
+   "serie": 2,
+   "dia": 7,
+   "brazo": "TECHO",
+   "asiento": 10,
+   "carpeta": "P734_s2_d7_TECHO_42672922",
+   "cogidas": [
+    {
+     "tick_entra": 604,
+     "tick_decide": 603,
+     "cosa": "camouflage",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.18526,
+     "d_noop": 3.18526,
+     "d_coger": 3.18526,
+     "n_cand": 2,
+     "empate_exacto_con_noop": true,
+     "degenerado": true,
+     "coger_gana_a_noop_por": 0.0,
+     "empata_con_otro": [
+      "noop"
+     ]
+    }
+   ]
+  },
+  {
+   "serie": 2,
+   "dia": 7,
+   "brazo": "TECHO",
+   "asiento": 11,
+   "carpeta": "P734_s2_d7_TECHO_42672922",
+   "cogidas": [
+    {
+     "tick_entra": 615,
+     "tick_decide": 614,
+     "cosa": "net",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.11002,
+     "d_noop": 3.18526,
+     "d_coger": 3.11002,
+     "n_cand": 2,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.07523999999999997,
+     "empata_con_otro": []
+    }
+   ]
+  },
+  {
+   "serie": 2,
+   "dia": 8,
+   "brazo": "APRENDE",
+   "asiento": 10,
+   "carpeta": "P734_s2_d8_APRENDE_42568193",
+   "cogidas": [
+    {
+     "tick_entra": 604,
+     "tick_decide": 603,
+     "cosa": "net",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.11958,
+     "d_noop": 3.12664,
+     "d_coger": 3.11958,
+     "n_cand": 3,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.007060000000000066,
+     "empata_con_otro": []
+    },
+    {
+     "tick_entra": 648,
+     "tick_decide": 647,
+     "cosa": "camouflage",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.1147,
+     "d_noop": 3.11956,
+     "d_coger": 3.1147,
+     "n_cand": 2,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.004859999999999864,
+     "empata_con_otro": []
+    }
+   ]
+  },
+  {
+   "serie": 2,
+   "dia": 8,
+   "brazo": "APRENDE",
+   "asiento": 11,
+   "carpeta": "P734_s2_d8_APRENDE_42568193",
+   "cogidas": [
+    {
+     "tick_entra": 527,
+     "tick_decide": 526,
+     "cosa": "net",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.28394,
+     "d_noop": 3.29192,
+     "d_coger": 3.28394,
+     "n_cand": 3,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.00798000000000032,
+     "empata_con_otro": [
+      "ir_curioso"
+     ]
+    }
+   ]
+  },
+  {
+   "serie": 2,
+   "dia": 8,
+   "brazo": "BORRADO",
+   "asiento": 10,
+   "carpeta": "P734_s2_d8_BORRADO_42568193",
+   "cogidas": [
+    {
+     "tick_entra": 593,
+     "tick_decide": 592,
+     "cosa": "net",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.1716,
+     "d_noop": 3.193,
+     "d_coger": 3.1716,
+     "n_cand": 3,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.021399999999999864,
+     "empata_con_otro": []
+    },
+    {
+     "tick_entra": 1770,
+     "tick_decide": 1769,
+     "cosa": "camouflage",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.81316,
+     "d_noop": 3.82473,
+     "d_coger": 3.81316,
+     "n_cand": 3,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.011570000000000302,
+     "empata_con_otro": []
+    }
+   ]
+  },
+  {
+   "serie": 2,
+   "dia": 8,
+   "brazo": "BORRADO",
+   "asiento": 11,
+   "carpeta": "P734_s2_d8_BORRADO_42568193",
+   "cogidas": []
+  },
+  {
+   "serie": 2,
+   "dia": 8,
+   "brazo": "TECHO",
+   "asiento": 10,
+   "carpeta": "P734_s2_d8_TECHO_42568193",
+   "cogidas": [
+    {
+     "tick_entra": 593,
+     "tick_decide": 592,
+     "cosa": "net",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.11002,
+     "d_noop": 3.18526,
+     "d_coger": 3.11002,
+     "n_cand": 2,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.07523999999999997,
+     "empata_con_otro": []
+    }
+   ]
+  },
+  {
+   "serie": 2,
+   "dia": 8,
+   "brazo": "TECHO",
+   "asiento": 11,
+   "carpeta": "P734_s2_d8_TECHO_42568193",
+   "cogidas": []
+  },
+  {
+   "serie": 2,
+   "dia": 9,
+   "brazo": "APRENDE",
+   "asiento": 10,
+   "carpeta": "P734_s2_d9_APRENDE_42463464",
+   "cogidas": [
+    {
+     "tick_entra": 6149,
+     "tick_decide": 6148,
+     "cosa": "net",
+     "elegido": "coger",
+     "tipo": "coger",
+     "intencion": "pickup",
+     "d_elegido": 3.50604,
+     "d_noop": 3.50887,
+     "d_coger": 3.50604,
+     "n_cand": 2,
+     "empate_exacto_con_noop": false,
+     "degenerado": false,
+     "coger_gana_a_noop_por": 0.002829999999999888,
+     "empata_con_otro": []
+    }
+   ]
+  },
+  {
+   "serie": 2,
+   "dia": 9,
+   "brazo": "APRENDE",
+   "asiento": 11,
+   "carpeta": "P734_s2_d9_APRENDE_42463464",
+   "cogidas": []
+  },
+  {
+   "serie": 2,
+   "dia": 9,
+   "brazo": "BORRADO",
+   "asiento": 10,
+   "carpeta": "P734_s2_d9_BORRADO_42463464",
+   "cogidas": []
+  },
+  {
+   "serie": 2,
+   "dia": 9,
+   "brazo": "BORRADO",
+   "asiento": 11,
+   "carpeta": "P734_s2_d9_BORRADO_42463464",
+   "cogidas": []
+  },
+  {
+   "serie": 2,
+   "dia": 9,
+   "brazo": "TECHO",
+   "asiento": 10,
+   "carpeta": "P734_s2_d9_TECHO_42463464",
+   "cogidas": []
+  },
+  {
+   "serie": 2,
+   "dia": 9,
+   "brazo": "TECHO",
+   "asiento": 11,
+   "carpeta": "P734_s2_d9_TECHO_42463464",
+   "cogidas": []
+  }
+ ],
+ "resumen": {
+  "TECHO": {
+   "cogidas": 46,
+   "por_tipo": {
+    "coger": 46
+   },
+   "por_elegido": {
+    "coger": 46
+   },
+   "empate_exacto_con_noop": 26,
+   "degenerado": 23,
+   "empate_exacto_o_degenerado": 26,
+   "coger_gana_a_noop_por_cuartiles": [
+    0.0,
+    0.0,
+    0.0,
+    0.07482999999999995,
+    0.0831900000000001
+   ],
+   "gana_a_noop_por_menos_de_0_01": 26,
+   "sin_noop_en_candidatos": 0,
+   "sin_coger_en_candidatos": 0,
+   "empata_con_otro": [
+    [
+     "noop",
+     26
+    ]
+   ],
+   "intencion": {
+    "pickup": 46
+   }
+  },
+  "BORRADO": {
+   "cogidas": 61,
+   "por_tipo": {
+    "coger": 61
+   },
+   "por_elegido": {
+    "coger": 61
+   },
+   "empate_exacto_con_noop": 0,
+   "degenerado": 0,
+   "empate_exacto_o_degenerado": 0,
+   "coger_gana_a_noop_por_cuartiles": [
+    0.003289999999999793,
+    0.01142999999999983,
+    0.020239999999999814,
+    0.02132999999999985,
+    0.021399999999999864
+   ],
+   "gana_a_noop_por_menos_de_0_01": 2,
+   "sin_noop_en_candidatos": 0,
+   "sin_coger_en_candidatos": 0,
+   "empata_con_otro": [
+    [
+     "ir_curioso",
+     24
+    ],
+    [
+     "usar_botiquin",
+     1
+    ]
+   ],
+   "intencion": {
+    "pickup": 61
+   }
+  },
+  "APRENDE": {
+   "cogidas": 71,
+   "por_tipo": {
+    "coger": 71
+   },
+   "por_elegido": {
+    "coger": 71
+   },
+   "empate_exacto_con_noop": 4,
+   "degenerado": 2,
+   "empate_exacto_o_degenerado": 4,
+   "coger_gana_a_noop_por_cuartiles": [
+    0.0,
+    0.0029600000000002957,
+    0.0043799999999998285,
+    0.007340000000000124,
+    0.021479999999999944
+   ],
+   "gana_a_noop_por_menos_de_0_01": 58,
+   "sin_noop_en_candidatos": 0,
+   "sin_coger_en_candidatos": 0,
+   "empata_con_otro": [
+    [
+     "ir_curioso",
+     8
+    ],
+    [
+     "noop",
+     4
+    ]
+   ],
+   "intencion": {
+    "pickup": 71
+   }
+  }
+ }
+}

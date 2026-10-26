@@ -1,0 +1,514 @@
+{
+ "vidas": [
+  {
+   "dia": 21,
+   "vida": "P624_t1_A4_24450076/10",
+   "fidelidad": {
+    "igual": 12636,
+    "difiere": 12
+   },
+   "primer_uso": {
+    "t": 12961,
+    "situacion": "fuera",
+    "heal_imaginado": 0.0224,
+    "esperado": 0.0224,
+    "R-ACOPIO_en_el_uso": null,
+    "W_botiquin": null,
+    "k": 0.470274,
+    "k_esperado": 0.4703,
+    "W_TARGET_usado": 2.470274,
+    "R-NOVEDAD": {},
+    "n_comparados": 0,
+    "todos_coinciden": null,
+    "primero": null,
+    "coincide_heal": null,
+    "coincide_k": true
+   },
+   "huellas": 3,
+   "cuaderno_fin": {
+    "dia": 21,
+    "usos": 32,
+    "creencias": {
+     "first_aid": {
+      "fuera": {
+       "cuerpo": 0.0041,
+       "recursos": -0.0233,
+       "vinculo": 0.3271
+      },
+      "dentro": {
+       "cuerpo": 19.8856,
+       "recursos": -0.8774,
+       "vinculo": -0.4521
+      },
+      "usos": 32
+     }
+    }
+   },
+   "usos_comparados": [],
+   "inicio": {
+    "t": 481,
+    "R-ACOPIO": 0.08465,
+    "R-CARENCIA": 1.0,
+    "W": 0.0,
+    "W_botiquin": null,
+    "R-NOVEDAD": null,
+    "k": 0.470274,
+    "R_ACOPIO_esperado": 0.084649,
+    "coincide_acopio": true
+   }
+  },
+  {
+   "dia": 22,
+   "vida": "P624_t1_A4_24554805/10",
+   "fidelidad": {
+    "igual": 13226,
+    "difiere": 144
+   },
+   "primer_uso": {
+    "t": 10759,
+    "situacion": "dentro",
+    "heal_imaginado": 19.8856,
+    "esperado": 19.8856,
+    "R-ACOPIO_en_el_uso": null,
+    "W_botiquin": null,
+    "k": 0.397712,
+    "k_esperado": 0.3977,
+    "W_TARGET_usado": 2.397712,
+    "R-NOVEDAD": {},
+    "n_comparados": 1,
+    "todos_coinciden": true,
+    "primero": {
+     "t": 10759,
+     "situacion": "dentro",
+     "heal": 19.8856,
+     "esperado": 19.8856,
+     "ok": true
+    },
+    "coincide_heal": true,
+    "coincide_k": true
+   },
+   "huellas": 2,
+   "cuaderno_fin": {
+    "dia": 22,
+    "usos": 34,
+    "creencias": {
+     "first_aid": {
+      "fuera": {
+       "cuerpo": 0.0041,
+       "recursos": -0.0232,
+       "vinculo": 0.3261
+      },
+      "dentro": {
+       "cuerpo": 24.713,
+       "recursos": -0.4968,
+       "vinculo": 0.0203
+      },
+      "usos": 34
+     }
+    }
+   },
+   "usos_comparados": [
+    {
+     "t": 10759,
+     "situacion": "dentro",
+     "heal": 19.8856,
+     "esperado": 19.8856,
+     "ok": true
+    }
+   ],
+   "inicio": {
+    "t": 481,
+    "R-ACOPIO": 0.07159,
+    "R-CARENCIA": 1.0,
+    "W": 0.0,
+    "W_botiquin": null,
+    "R-NOVEDAD": null,
+    "k": 0.397712,
+    "R_ACOPIO_esperado": 0.071588,
+    "coincide_acopio": true
+   }
+  },
+  {
+   "dia": 24,
+   "vida": "P624_t1_A4_24764263/10",
+   "fidelidad": {
+    "igual": 14071,
+    "difiere": 161
+   },
+   "primer_uso": {
+    "t": 1865,
+    "situacion": "dentro",
+    "heal_imaginado": 24.713,
+    "esperado": 24.713,
+    "R-ACOPIO_en_el_uso": null,
+    "W_botiquin": null,
+    "k": 0.49426000000000003,
+    "k_esperado": 0.4943,
+    "W_TARGET_usado": 2.49426,
+    "R-NOVEDAD": {},
+    "n_comparados": 3,
+    "todos_coinciden": true,
+    "primero": {
+     "t": 1865,
+     "situacion": "dentro",
+     "heal": 24.713,
+     "esperado": 24.713,
+     "ok": true
+    },
+    "coincide_heal": true,
+    "coincide_k": true
+   },
+   "huellas": 3,
+   "cuaderno_fin": {
+    "dia": 23,
+    "usos": 37,
+    "creencias": {
+     "first_aid": {
+      "fuera": {
+       "cuerpo": 0.0041,
+       "recursos": -0.0231,
+       "vinculo": 0.3252
+      },
+      "dentro": {
+       "cuerpo": 20.9104,
+       "recursos": -0.4616,
+       "vinculo": -0.4798
+      },
+      "usos": 37
+     }
+    }
+   },
+   "usos_comparados": [
+    {
+     "t": 1865,
+     "situacion": "dentro",
+     "heal": 24.713,
+     "esperado": 24.713,
+     "ok": true
+    },
+    {
+     "t": 1914,
+     "situacion": "dentro",
+     "heal": 22.5074,
+     "esperado": 22.5074,
+     "ok": true
+    },
+    {
+     "t": 10754,
+     "situacion": "dentro",
+     "heal": 22.7668,
+     "esperado": 22.7668,
+     "ok": true
+    }
+   ],
+   "inicio": {
+    "t": 481,
+    "R-ACOPIO": 0.08897,
+    "R-CARENCIA": 1.0,
+    "W": 0.0,
+    "W_botiquin": null,
+    "R-NOVEDAD": null,
+    "k": 0.49426000000000003,
+    "R_ACOPIO_esperado": 0.088967,
+    "coincide_acopio": true
+   }
+  },
+  {
+   "dia": 21,
+   "vida": "P624_t1_A4_24450076/11",
+   "fidelidad": {
+    "igual": 12465,
+    "difiere": 63
+   },
+   "primer_uso": {
+    "t": 12649,
+    "situacion": "fuera",
+    "heal_imaginado": 8.5969,
+    "esperado": 8.5969,
+    "R-ACOPIO_en_el_uso": null,
+    "W_botiquin": null,
+    "k": 0.40824800000000006,
+    "k_esperado": 0.4082,
+    "W_TARGET_usado": 2.408248,
+    "R-NOVEDAD": {},
+    "n_comparados": 8,
+    "todos_coinciden": true,
+    "primero": {
+     "t": 12649,
+     "situacion": "fuera",
+     "heal": 8.5969,
+     "esperado": 8.5969,
+     "ok": true
+    },
+    "coincide_heal": true,
+    "coincide_k": true
+   },
+   "huellas": 7,
+   "cuaderno_fin": {
+    "dia": 21,
+    "usos": 43,
+    "creencias": {
+     "first_aid": {
+      "dentro": {
+       "cuerpo": 20.3178,
+       "recursos": -1.0346,
+       "vinculo": -0.1037
+      },
+      "fuera": {
+       "cuerpo": 5.3073,
+       "recursos": -0.2337,
+       "vinculo": 0.0248
+      },
+      "usos": 43
+     }
+    }
+   },
+   "usos_comparados": [
+    {
+     "t": 12649,
+     "situacion": "fuera",
+     "heal": 8.5969,
+     "esperado": 8.5969,
+     "ok": true
+    },
+    {
+     "t": 12698,
+     "situacion": "fuera",
+     "heal": 7.8558,
+     "esperado": 7.8558,
+     "ok": true
+    },
+    {
+     "t": 12747,
+     "situacion": "fuera",
+     "heal": 7.148,
+     "esperado": 7.148,
+     "ok": true
+    },
+    {
+     "t": 12796,
+     "situacion": "fuera",
+     "heal": 6.5048,
+     "esperado": 6.5048,
+     "ok": true
+    },
+    {
+     "t": 12845,
+     "situacion": "fuera",
+     "heal": 6.1259,
+     "esperado": 6.1259,
+     "ok": true
+    },
+    {
+     "t": 12894,
+     "situacion": "fuera",
+     "heal": 5.8362,
+     "esperado": 5.8362,
+     "ok": true
+    },
+    {
+     "t": 12943,
+     "situacion": "fuera",
+     "heal": 5.5716,
+     "esperado": 5.5716,
+     "ok": true
+    },
+    {
+     "t": 12992,
+     "situacion": "fuera",
+     "heal": 5.3197,
+     "esperado": 5.3197,
+     "ok": true
+    }
+   ],
+   "inicio": {
+    "t": 481,
+    "R-ACOPIO": 0.07348,
+    "R-CARENCIA": 1.0,
+    "W": 0.0,
+    "W_botiquin": null,
+    "R-NOVEDAD": null,
+    "k": 0.40824800000000006,
+    "R_ACOPIO_esperado": 0.073485,
+    "coincide_acopio": true
+   }
+  },
+  {
+   "dia": 22,
+   "vida": "P624_t1_A4_24554805/11",
+   "fidelidad": {
+    "igual": 13828,
+    "difiere": 139
+   },
+   "primer_uso": {
+    "t": 10503,
+    "situacion": "dentro",
+    "heal_imaginado": 20.3178,
+    "esperado": 20.3178,
+    "R-ACOPIO_en_el_uso": null,
+    "W_botiquin": null,
+    "k": 0.40635599999999994,
+    "k_esperado": 0.4064,
+    "W_TARGET_usado": 2.4063559999999997,
+    "R-NOVEDAD": {},
+    "n_comparados": 2,
+    "todos_coinciden": true,
+    "primero": {
+     "t": 10503,
+     "situacion": "dentro",
+     "heal": 20.3178,
+     "esperado": 20.3178,
+     "ok": true
+    },
+    "coincide_heal": true,
+    "coincide_k": true
+   },
+   "huellas": 3,
+   "cuaderno_fin": {
+    "dia": 22,
+    "usos": 46,
+    "creencias": {
+     "first_aid": {
+      "dentro": {
+       "cuerpo": 18.5773,
+       "recursos": -1.1806,
+       "vinculo": 0.112
+      },
+      "fuera": {
+       "cuerpo": 5.2944,
+       "recursos": -0.2332,
+       "vinculo": 0.0247
+      },
+      "usos": 46
+     }
+    }
+   },
+   "usos_comparados": [
+    {
+     "t": 10503,
+     "situacion": "dentro",
+     "heal": 20.3178,
+     "esperado": 20.3178,
+     "ok": true
+    },
+    {
+     "t": 10553,
+     "situacion": "dentro",
+     "heal": 18.3335,
+     "esperado": 18.3335,
+     "ok": true
+    }
+   ],
+   "inicio": {
+    "t": 481,
+    "R-ACOPIO": 0.07314,
+    "R-CARENCIA": 1.0,
+    "W": 0.0,
+    "W_botiquin": null,
+    "R-NOVEDAD": null,
+    "k": 0.40635599999999994,
+    "R_ACOPIO_esperado": 0.073144,
+    "coincide_acopio": true
+   }
+  },
+  {
+   "dia": 23,
+   "vida": "P624_t1_A4_24659534/11",
+   "fidelidad": {
+    "igual": 11690,
+    "difiere": 876
+   },
+   "primer_uso": {
+    "t": 12649,
+    "situacion": "fuera",
+    "heal_imaginado": null,
+    "esperado": 5.2944,
+    "R-ACOPIO_en_el_uso": null,
+    "W_botiquin": null,
+    "k": 0.37154600000000004,
+    "k_esperado": 0.3715,
+    "W_TARGET_usado": 2.371546,
+    "R-NOVEDAD": {},
+    "n_comparados": 0,
+    "todos_coinciden": null,
+    "primero": null,
+    "coincide_heal": null,
+    "coincide_k": true
+   },
+   "huellas": 8,
+   "cuaderno_fin": {
+    "dia": 23,
+    "usos": 54,
+    "creencias": {
+     "first_aid": {
+      "dentro": {
+       "cuerpo": 20.0136,
+       "recursos": -1.0801,
+       "vinculo": 0.0103
+      },
+      "fuera": {
+       "cuerpo": 3.8897,
+       "recursos": -0.1705,
+       "vinculo": 0.2102
+      },
+      "usos": 54
+     }
+    }
+   },
+   "usos_comparados": [],
+   "inicio": {
+    "t": 481,
+    "R-ACOPIO": 0.06688,
+    "R-CARENCIA": 1.0,
+    "W": 0.0,
+    "W_botiquin": null,
+    "R-NOVEDAD": null,
+    "k": 0.37154600000000004,
+    "R_ACOPIO_esperado": 0.066878,
+    "coincide_acopio": true
+   }
+  }
+ ],
+ "cuadernos": {
+  "10": {
+   "ruta": "cantera/paper7/_P7_5_tmp/F2/cuad_10/cuaderno_P7_10.json",
+   "recuerdos": 28,
+   "creencias": {
+    "first_aid": {
+     "fuera": {
+      "cuerpo": 0.0224,
+      "recursos": -0.0273,
+      "vinculo": 0.1528
+     },
+     "dentro": {
+      "cuerpo": 23.5137,
+      "recursos": -1.039,
+      "vinculo": -0.5354
+     },
+     "usos": 28
+    }
+   },
+   "usos": 28
+  },
+  "11": {
+   "ruta": "cantera/paper7/_P7_5_tmp/F2/cuad_11/cuaderno_P7_11.json",
+   "recuerdos": 35,
+   "creencias": {
+    "first_aid": {
+     "dentro": {
+      "cuerpo": 20.4124,
+      "recursos": -1.0394,
+      "vinculo": -0.1042
+     },
+     "fuera": {
+      "cuerpo": 8.5969,
+      "recursos": -0.3771,
+      "vinculo": 0.1043
+     },
+     "usos": 35
+    }
+   },
+   "usos": 35
+  }
+ }
+}

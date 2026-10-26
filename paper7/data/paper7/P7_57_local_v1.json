@@ -1,0 +1,6798 @@
+{
+ "d1": {
+  "vidas": {
+   "0": {
+    "tics": 6336,
+    "t_ult": 6576,
+    "murio": true,
+    "ms_mediana": 7.757,
+    "ms_p95": 11.974,
+    "sobre_tic_pct": 0.015782828282828284,
+    "bloqueados_pct": 1.7363851617995265,
+    "huellas": 0,
+    "huellas_por_objeto": {
+     "botiquin": 0,
+     "racion": 0,
+     "red": 0,
+     "camuflaje": 0
+    },
+    "huellas_corte": 0,
+    "forzadas": 0,
+    "no_cabe_objeto_ya_no_esta": 0,
+    "forzadas_por_tipo": {
+     "ir": 0,
+     "usar": 0
+    },
+    "fines": {},
+    "vias": {
+     "recoger": 0,
+     "hacer_sitio": 0,
+     "coger_puesto": 0
+    },
+    "piezas": null,
+    "brazo": null,
+    "P7_57": {
+     "arranque": {
+      "k": "P7_57_arranque",
+      "slot": 0,
+      "invitaciones": 0,
+      "falsas": 0,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     },
+     "aceptadas": [],
+     "evaluadas": [],
+     "contrastes": [],
+     "cierre": {
+      "k": "P7_57_cierre",
+      "contrastes": 0,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     }
+    }
+   },
+   "1": {
+    "tics": 7368,
+    "t_ult": 7608,
+    "murio": true,
+    "ms_mediana": 2.3194999999999997,
+    "ms_p95": 11.12,
+    "sobre_tic_pct": 0.0,
+    "bloqueados_pct": 1.5151515151515151,
+    "huellas": 1,
+    "huellas_por_objeto": {
+     "botiquin": 0,
+     "racion": 0,
+     "red": 1,
+     "camuflaje": 0
+    },
+    "huellas_corte": 0,
+    "forzadas": 0,
+    "no_cabe_objeto_ya_no_esta": 0,
+    "forzadas_por_tipo": {
+     "ir": 0,
+     "usar": 0
+    },
+    "fines": {},
+    "vias": {
+     "recoger": 0,
+     "hacer_sitio": 0,
+     "coger_puesto": 0
+    },
+    "piezas": null,
+    "brazo": null,
+    "P7_57": {
+     "arranque": {
+      "k": "P7_57_arranque",
+      "slot": 1,
+      "invitaciones": 0,
+      "falsas": 0,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     },
+     "aceptadas": [],
+     "evaluadas": [],
+     "contrastes": [],
+     "cierre": {
+      "k": "P7_57_cierre",
+      "contrastes": 0,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     }
+    }
+   },
+   "10": {
+    "tics": 4392,
+    "t_ult": 4632,
+    "murio": true,
+    "ms_mediana": 2.7155,
+    "ms_p95": 8.947,
+    "sobre_tic_pct": 0.022768670309653915,
+    "bloqueados_pct": 5.687203791469194,
+    "huellas": 0,
+    "huellas_por_objeto": {
+     "botiquin": 0,
+     "racion": 0,
+     "red": 0,
+     "camuflaje": 0
+    },
+    "huellas_corte": 0,
+    "forzadas": 0,
+    "no_cabe_objeto_ya_no_esta": 0,
+    "forzadas_por_tipo": {
+     "ir": 0,
+     "usar": 0
+    },
+    "fines": {},
+    "vias": {
+     "recoger": 0,
+     "hacer_sitio": 0,
+     "coger_puesto": 0
+    },
+    "piezas": null,
+    "brazo": null,
+    "P7_57": {
+     "arranque": {
+      "k": "P7_57_arranque",
+      "slot": 10,
+      "invitaciones": 0,
+      "falsas": 0,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     },
+     "aceptadas": [],
+     "evaluadas": [],
+     "contrastes": [],
+     "cierre": {
+      "k": "P7_57_cierre",
+      "contrastes": 0,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     }
+    }
+   },
+   "11": {
+    "tics": 5760,
+    "t_ult": 6000,
+    "murio": true,
+    "ms_mediana": 2.378,
+    "ms_p95": 8.99,
+    "sobre_tic_pct": 0.0,
+    "bloqueados_pct": 0.19047619047619047,
+    "huellas": 0,
+    "huellas_por_objeto": {
+     "botiquin": 0,
+     "racion": 0,
+     "red": 0,
+     "camuflaje": 0
+    },
+    "huellas_corte": 0,
+    "forzadas": 0,
+    "no_cabe_objeto_ya_no_esta": 0,
+    "forzadas_por_tipo": {
+     "ir": 0,
+     "usar": 0
+    },
+    "fines": {},
+    "vias": {
+     "recoger": 0,
+     "hacer_sitio": 0,
+     "coger_puesto": 0
+    },
+    "piezas": null,
+    "brazo": null,
+    "P7_57": {
+     "arranque": {
+      "k": "P7_57_arranque",
+      "slot": 11,
+      "invitaciones": 0,
+      "falsas": 0,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     },
+     "aceptadas": [],
+     "evaluadas": [],
+     "contrastes": [],
+     "cierre": {
+      "k": "P7_57_cierre",
+      "contrastes": 0,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     }
+    }
+   },
+   "12": {
+    "tics": 4320,
+    "t_ult": 4560,
+    "murio": true,
+    "ms_mediana": 1.562,
+    "ms_p95": 8.078,
+    "sobre_tic_pct": 0.023148148148148147,
+    "bloqueados_pct": 2.729528535980149,
+    "huellas": 0,
+    "huellas_por_objeto": {
+     "botiquin": 0,
+     "racion": 0,
+     "red": 0,
+     "camuflaje": 0
+    },
+    "huellas_corte": 0,
+    "forzadas": 0,
+    "no_cabe_objeto_ya_no_esta": 0,
+    "forzadas_por_tipo": {
+     "ir": 0,
+     "usar": 0
+    },
+    "fines": {},
+    "vias": {
+     "recoger": 0,
+     "hacer_sitio": 0,
+     "coger_puesto": 0
+    },
+    "piezas": null,
+    "brazo": null,
+    "P7_57": {
+     "arranque": {
+      "k": "P7_57_arranque",
+      "slot": 12,
+      "invitaciones": 0,
+      "falsas": 0,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     },
+     "aceptadas": [],
+     "evaluadas": [],
+     "contrastes": [],
+     "cierre": {
+      "k": "P7_57_cierre",
+      "contrastes": 0,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     }
+    }
+   },
+   "13": {
+    "tics": 4944,
+    "t_ult": 5184,
+    "murio": true,
+    "ms_mediana": 1.11,
+    "ms_p95": 7.766,
+    "sobre_tic_pct": 0.020226537216828478,
+    "bloqueados_pct": 0.22123893805309736,
+    "huellas": 2,
+    "huellas_por_objeto": {
+     "botiquin": 0,
+     "racion": 2,
+     "red": 0,
+     "camuflaje": 0
+    },
+    "huellas_corte": 0,
+    "forzadas": 0,
+    "no_cabe_objeto_ya_no_esta": 0,
+    "forzadas_por_tipo": {
+     "ir": 0,
+     "usar": 0
+    },
+    "fines": {},
+    "vias": {
+     "recoger": 0,
+     "hacer_sitio": 0,
+     "coger_puesto": 0
+    },
+    "piezas": null,
+    "brazo": null,
+    "P7_57": {
+     "arranque": {
+      "k": "P7_57_arranque",
+      "slot": 13,
+      "invitaciones": 0,
+      "falsas": 0,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     },
+     "aceptadas": [],
+     "evaluadas": [],
+     "contrastes": [],
+     "cierre": {
+      "k": "P7_57_cierre",
+      "contrastes": 0,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     }
+    }
+   },
+   "14": {
+    "tics": 7416,
+    "t_ult": 7656,
+    "murio": true,
+    "ms_mediana": 4.262,
+    "ms_p95": 11.668,
+    "sobre_tic_pct": 0.01348435814455232,
+    "bloqueados_pct": 7.290015847860539,
+    "huellas": 0,
+    "huellas_por_objeto": {
+     "botiquin": 0,
+     "racion": 0,
+     "red": 0,
+     "camuflaje": 0
+    },
+    "huellas_corte": 0,
+    "forzadas": 0,
+    "no_cabe_objeto_ya_no_esta": 0,
+    "forzadas_por_tipo": {
+     "ir": 0,
+     "usar": 0
+    },
+    "fines": {},
+    "vias": {
+     "recoger": 0,
+     "hacer_sitio": 0,
+     "coger_puesto": 0
+    },
+    "piezas": null,
+    "brazo": null,
+    "P7_57": {
+     "arranque": {
+      "k": "P7_57_arranque",
+      "slot": 14,
+      "invitaciones": 0,
+      "falsas": 0,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     },
+     "aceptadas": [],
+     "evaluadas": [],
+     "contrastes": [],
+     "cierre": {
+      "k": "P7_57_cierre",
+      "contrastes": 0,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     }
+    }
+   },
+   "15": {
+    "tics": 7416,
+    "t_ult": 7656,
+    "murio": true,
+    "ms_mediana": 2.5164999999999997,
+    "ms_p95": 10.729,
+    "sobre_tic_pct": 0.01348435814455232,
+    "bloqueados_pct": 1.3958125623130608,
+    "huellas": 3,
+    "huellas_por_objeto": {
+     "botiquin": 2,
+     "racion": 0,
+     "red": 0,
+     "camuflaje": 1
+    },
+    "huellas_corte": 2,
+    "forzadas": 0,
+    "no_cabe_objeto_ya_no_esta": 0,
+    "forzadas_por_tipo": {
+     "ir": 0,
+     "usar": 0
+    },
+    "fines": {},
+    "vias": {
+     "recoger": 0,
+     "hacer_sitio": 0,
+     "coger_puesto": 0
+    },
+    "piezas": null,
+    "brazo": null,
+    "P7_57": {
+     "arranque": {
+      "k": "P7_57_arranque",
+      "slot": 15,
+      "invitaciones": 0,
+      "falsas": 0,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     },
+     "aceptadas": [],
+     "evaluadas": [],
+     "contrastes": [],
+     "cierre": {
+      "k": "P7_57_cierre",
+      "contrastes": 0,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     }
+    }
+   },
+   "2": {
+    "tics": 4728,
+    "t_ult": 4968,
+    "murio": true,
+    "ms_mediana": 3.562,
+    "ms_p95": 13.172,
+    "sobre_tic_pct": 0.0,
+    "bloqueados_pct": 0.0,
+    "huellas": 0,
+    "huellas_por_objeto": {
+     "botiquin": 0,
+     "racion": 0,
+     "red": 0,
+     "camuflaje": 0
+    },
+    "huellas_corte": 0,
+    "forzadas": 0,
+    "no_cabe_objeto_ya_no_esta": 0,
+    "forzadas_por_tipo": {
+     "ir": 0,
+     "usar": 0
+    },
+    "fines": {},
+    "vias": {
+     "recoger": 0,
+     "hacer_sitio": 0,
+     "coger_puesto": 0
+    },
+    "piezas": null,
+    "brazo": null,
+    "P7_57": {
+     "arranque": {
+      "k": "P7_57_arranque",
+      "slot": 2,
+      "invitaciones": 0,
+      "falsas": 0,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     },
+     "aceptadas": [],
+     "evaluadas": [],
+     "contrastes": [],
+     "cierre": {
+      "k": "P7_57_cierre",
+      "contrastes": 0,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     }
+    }
+   },
+   "3": {
+    "tics": 4896,
+    "t_ult": 5136,
+    "murio": true,
+    "ms_mediana": 2.8194999999999997,
+    "ms_p95": 11.795,
+    "sobre_tic_pct": 0.02042483660130719,
+    "bloqueados_pct": 0.6681514476614699,
+    "huellas": 2,
+    "huellas_por_objeto": {
+     "botiquin": 0,
+     "racion": 2,
+     "red": 0,
+     "camuflaje": 0
+    },
+    "huellas_corte": 0,
+    "forzadas": 0,
+    "no_cabe_objeto_ya_no_esta": 0,
+    "forzadas_por_tipo": {
+     "ir": 0,
+     "usar": 0
+    },
+    "fines": {},
+    "vias": {
+     "recoger": 0,
+     "hacer_sitio": 0,
+     "coger_puesto": 0
+    },
+    "piezas": null,
+    "brazo": null,
+    "P7_57": {
+     "arranque": {
+      "k": "P7_57_arranque",
+      "slot": 3,
+      "invitaciones": 0,
+      "falsas": 0,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     },
+     "aceptadas": [],
+     "evaluadas": [],
+     "contrastes": [],
+     "cierre": {
+      "k": "P7_57_cierre",
+      "contrastes": 0,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     }
+    }
+   },
+   "4": {
+    "tics": 4656,
+    "t_ult": 4896,
+    "murio": true,
+    "ms_mediana": 5.2285,
+    "ms_p95": 12.256,
+    "sobre_tic_pct": 0.0429553264604811,
+    "bloqueados_pct": 3.4324942791762014,
+    "huellas": 0,
+    "huellas_por_objeto": {
+     "botiquin": 0,
+     "racion": 0,
+     "red": 0,
+     "camuflaje": 0
+    },
+    "huellas_corte": 0,
+    "forzadas": 0,
+    "no_cabe_objeto_ya_no_esta": 0,
+    "forzadas_por_tipo": {
+     "ir": 0,
+     "usar": 0
+    },
+    "fines": {},
+    "vias": {
+     "recoger": 0,
+     "hacer_sitio": 0,
+     "coger_puesto": 0
+    },
+    "piezas": null,
+    "brazo": null,
+    "P7_57": {
+     "arranque": {
+      "k": "P7_57_arranque",
+      "slot": 4,
+      "invitaciones": 0,
+      "falsas": 0,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     },
+     "aceptadas": [],
+     "evaluadas": [],
+     "contrastes": [],
+     "cierre": {
+      "k": "P7_57_cierre",
+      "contrastes": 0,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     }
+    }
+   },
+   "5": {
+    "tics": 5568,
+    "t_ult": 5808,
+    "murio": true,
+    "ms_mediana": 4.185,
+    "ms_p95": 11.768,
+    "sobre_tic_pct": 0.0,
+    "bloqueados_pct": 6.111111111111111,
+    "huellas": 2,
+    "huellas_por_objeto": {
+     "botiquin": 0,
+     "racion": 2,
+     "red": 0,
+     "camuflaje": 0
+    },
+    "huellas_corte": 0,
+    "forzadas": 0,
+    "no_cabe_objeto_ya_no_esta": 0,
+    "forzadas_por_tipo": {
+     "ir": 0,
+     "usar": 0
+    },
+    "fines": {},
+    "vias": {
+     "recoger": 0,
+     "hacer_sitio": 0,
+     "coger_puesto": 0
+    },
+    "piezas": null,
+    "brazo": null,
+    "P7_57": {
+     "arranque": {
+      "k": "P7_57_arranque",
+      "slot": 5,
+      "invitaciones": 0,
+      "falsas": 0,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     },
+     "aceptadas": [],
+     "evaluadas": [],
+     "contrastes": [],
+     "cierre": {
+      "k": "P7_57_cierre",
+      "contrastes": 0,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     }
+    }
+   },
+   "6": {
+    "tics": 5784,
+    "t_ult": 6024,
+    "murio": true,
+    "ms_mediana": 4.9670000000000005,
+    "ms_p95": 12.253,
+    "sobre_tic_pct": 0.017289073305670817,
+    "bloqueados_pct": 0.0,
+    "huellas": 1,
+    "huellas_por_objeto": {
+     "botiquin": 0,
+     "racion": 0,
+     "red": 1,
+     "camuflaje": 0
+    },
+    "huellas_corte": 0,
+    "forzadas": 0,
+    "no_cabe_objeto_ya_no_esta": 0,
+    "forzadas_por_tipo": {
+     "ir": 0,
+     "usar": 0
+    },
+    "fines": {},
+    "vias": {
+     "recoger": 0,
+     "hacer_sitio": 0,
+     "coger_puesto": 0
+    },
+    "piezas": null,
+    "brazo": null,
+    "P7_57": {
+     "arranque": {
+      "k": "P7_57_arranque",
+      "slot": 6,
+      "invitaciones": 0,
+      "falsas": 0,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     },
+     "aceptadas": [],
+     "evaluadas": [],
+     "contrastes": [],
+     "cierre": {
+      "k": "P7_57_cierre",
+      "contrastes": 0,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     }
+    }
+   },
+   "7": {
+    "tics": 5520,
+    "t_ult": 5760,
+    "murio": true,
+    "ms_mediana": 2.874,
+    "ms_p95": 12.947,
+    "sobre_tic_pct": 0.0,
+    "bloqueados_pct": 4.761904761904762,
+    "huellas": 5,
+    "huellas_por_objeto": {
+     "botiquin": 2,
+     "racion": 3,
+     "red": 0,
+     "camuflaje": 0
+    },
+    "huellas_corte": 1,
+    "forzadas": 0,
+    "no_cabe_objeto_ya_no_esta": 0,
+    "forzadas_por_tipo": {
+     "ir": 0,
+     "usar": 0
+    },
+    "fines": {},
+    "vias": {
+     "recoger": 0,
+     "hacer_sitio": 0,
+     "coger_puesto": 0
+    },
+    "piezas": null,
+    "brazo": null,
+    "P7_57": {
+     "arranque": {
+      "k": "P7_57_arranque",
+      "slot": 7,
+      "invitaciones": 0,
+      "falsas": 0,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     },
+     "aceptadas": [],
+     "evaluadas": [],
+     "contrastes": [],
+     "cierre": {
+      "k": "P7_57_cierre",
+      "contrastes": 0,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     }
+    }
+   },
+   "8": {
+    "tics": 4104,
+    "t_ult": 4344,
+    "murio": true,
+    "ms_mediana": 4.6145,
+    "ms_p95": 12.244,
+    "sobre_tic_pct": 0.0,
+    "bloqueados_pct": 0.7978723404255319,
+    "huellas": 0,
+    "huellas_por_objeto": {
+     "botiquin": 0,
+     "racion": 0,
+     "red": 0,
+     "camuflaje": 0
+    },
+    "huellas_corte": 0,
+    "forzadas": 0,
+    "no_cabe_objeto_ya_no_esta": 0,
+    "forzadas_por_tipo": {
+     "ir": 0,
+     "usar": 0
+    },
+    "fines": {},
+    "vias": {
+     "recoger": 0,
+     "hacer_sitio": 0,
+     "coger_puesto": 0
+    },
+    "piezas": null,
+    "brazo": null,
+    "P7_57": {
+     "arranque": {
+      "k": "P7_57_arranque",
+      "slot": 8,
+      "invitaciones": 0,
+      "falsas": 0,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     },
+     "aceptadas": [],
+     "evaluadas": [],
+     "contrastes": [],
+     "cierre": {
+      "k": "P7_57_cierre",
+      "contrastes": 0,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     }
+    }
+   },
+   "9": {
+    "tics": 7392,
+    "t_ult": 7632,
+    "murio": true,
+    "ms_mediana": 3.2195,
+    "ms_p95": 10.355,
+    "sobre_tic_pct": 0.0,
+    "bloqueados_pct": 2.3875114784205693,
+    "huellas": 2,
+    "huellas_por_objeto": {
+     "botiquin": 1,
+     "racion": 0,
+     "red": 1,
+     "camuflaje": 0
+    },
+    "huellas_corte": 0,
+    "forzadas": 0,
+    "no_cabe_objeto_ya_no_esta": 0,
+    "forzadas_por_tipo": {
+     "ir": 0,
+     "usar": 0
+    },
+    "fines": {},
+    "vias": {
+     "recoger": 0,
+     "hacer_sitio": 0,
+     "coger_puesto": 0
+    },
+    "piezas": null,
+    "brazo": null,
+    "P7_57": {
+     "arranque": {
+      "k": "P7_57_arranque",
+      "slot": 9,
+      "invitaciones": 0,
+      "falsas": 0,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     },
+     "aceptadas": [],
+     "evaluadas": [],
+     "contrastes": [],
+     "cierre": {
+      "k": "P7_57_cierre",
+      "contrastes": 0,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     }
+    }
+   }
+  },
+  "resumen": {
+   "vidas_con_diario": 16,
+   "tics_media": 5662.5,
+   "mueren": 16,
+   "huellas_por_vida": 1.125,
+   "huellas_ee": 0.3637192140465866,
+   "huellas_por_objeto_total": {
+    "botiquin": 5,
+    "racion": 9,
+    "red": 3,
+    "camuflaje": 1
+   },
+   "forzadas_total": 0,
+   "forzadas_por_vida": 0.0,
+   "acaban": 0,
+   "acaban_pct": null,
+   "fines_total": {
+    "cogida": 0,
+    "usada": 0,
+    "caduca": 0,
+    "no cabe": 0
+   },
+   "no_cabe_objeto_ya_no_esta": 0,
+   "vias_total": {
+    "recoger": 0,
+    "hacer_sitio": 0,
+    "coger_puesto": 0
+   },
+   "ms_mediana_media": 3.50565625,
+   "ms_p95_max": 13.172,
+   "sobre_tic_pct_media": 0.011847758538376411,
+   "bloqueados_pct_media": 2.432803622612682,
+   "piezas": null
+  },
+  "imagen": "gemv-anima:P7_57_local_d1",
+  "segundos": 350
+ },
+ "razon": [
+  {
+   "dia": 1,
+   "slot": 10,
+   "tokens_entrada": 4863,
+   "tokens_salida": 2111,
+   "usd_supuesto": 0.0463,
+   "invitaciones": 7,
+   "falsa_en": 5
+  },
+  {
+   "dia": 1,
+   "slot": 11,
+   "tokens_entrada": 5057,
+   "tokens_salida": 2026,
+   "usd_supuesto": 0.0456,
+   "invitaciones": 7,
+   "falsa_en": 1
+  },
+  {
+   "dia": 1,
+   "slot": 12,
+   "tokens_entrada": 5408,
+   "tokens_salida": 1807,
+   "usd_supuesto": 0.0433,
+   "invitaciones": 6,
+   "falsa_en": 1
+  },
+  {
+   "dia": 1,
+   "slot": 13,
+   "tokens_entrada": 7286,
+   "tokens_salida": 1758,
+   "usd_supuesto": 0.0482,
+   "invitaciones": 5,
+   "falsa_en": null
+  },
+  {
+   "dia": 2,
+   "slot": 10,
+   "tokens_entrada": 9645,
+   "tokens_salida": 2050,
+   "usd_supuesto": 0.0597,
+   "invitaciones": 7,
+   "falsa_en": 4
+  },
+  {
+   "dia": 2,
+   "slot": 11,
+   "tokens_entrada": 13949,
+   "tokens_salida": 2115,
+   "usd_supuesto": 0.0736,
+   "invitaciones": 7,
+   "falsa_en": 0
+  },
+  {
+   "dia": 2,
+   "slot": 12,
+   "tokens_entrada": 9390,
+   "tokens_salida": 2100,
+   "usd_supuesto": 0.0597,
+   "invitaciones": 7,
+   "falsa_en": 0
+  },
+  {
+   "dia": 2,
+   "slot": 13,
+   "tokens_entrada": 12275,
+   "tokens_salida": 2076,
+   "usd_supuesto": 0.068,
+   "invitaciones": 6,
+   "falsa_en": null
+  }
+ ],
+ "d2": {
+  "vidas": {
+   "0": {
+    "tics": 7320,
+    "t_ult": 7560,
+    "murio": true,
+    "ms_mediana": 3.851,
+    "ms_p95": 11.133,
+    "sobre_tic_pct": 0.0546448087431694,
+    "bloqueados_pct": 4.315789473684211,
+    "huellas": 3,
+    "huellas_por_objeto": {
+     "botiquin": 0,
+     "racion": 3,
+     "red": 0,
+     "camuflaje": 0
+    },
+    "huellas_corte": 0,
+    "forzadas": 0,
+    "no_cabe_objeto_ya_no_esta": 0,
+    "forzadas_por_tipo": {
+     "ir": 0,
+     "usar": 0
+    },
+    "fines": {},
+    "vias": {
+     "recoger": 0,
+     "hacer_sitio": 0,
+     "coger_puesto": 0
+    },
+    "piezas": null,
+    "brazo": null,
+    "P7_57": {
+     "arranque": {
+      "k": "P7_57_arranque",
+      "slot": 0,
+      "invitaciones": 0,
+      "falsas": 0,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     },
+     "aceptadas": [],
+     "evaluadas": [],
+     "contrastes": [],
+     "cierre": {
+      "k": "P7_57_cierre",
+      "contrastes": 0,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     }
+    }
+   },
+   "1": {
+    "tics": 7200,
+    "t_ult": 7440,
+    "murio": true,
+    "ms_mediana": 2.098,
+    "ms_p95": 10.16,
+    "sobre_tic_pct": 0.013888888888888888,
+    "bloqueados_pct": 9.866962305986696,
+    "huellas": 0,
+    "huellas_por_objeto": {
+     "botiquin": 0,
+     "racion": 0,
+     "red": 0,
+     "camuflaje": 0
+    },
+    "huellas_corte": 0,
+    "forzadas": 0,
+    "no_cabe_objeto_ya_no_esta": 0,
+    "forzadas_por_tipo": {
+     "ir": 0,
+     "usar": 0
+    },
+    "fines": {},
+    "vias": {
+     "recoger": 0,
+     "hacer_sitio": 0,
+     "coger_puesto": 0
+    },
+    "piezas": null,
+    "brazo": null,
+    "P7_57": {
+     "arranque": {
+      "k": "P7_57_arranque",
+      "slot": 1,
+      "invitaciones": 0,
+      "falsas": 0,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     },
+     "aceptadas": [],
+     "evaluadas": [],
+     "contrastes": [],
+     "cierre": {
+      "k": "P7_57_cierre",
+      "contrastes": 0,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     }
+    }
+   },
+   "10": {
+    "tics": 7296,
+    "t_ult": 7536,
+    "murio": true,
+    "ms_mediana": 4.004,
+    "ms_p95": 12.443,
+    "sobre_tic_pct": 0.013706140350877192,
+    "bloqueados_pct": 2.2087244616234125,
+    "huellas": 1,
+    "huellas_por_objeto": {
+     "botiquin": 1,
+     "racion": 0,
+     "red": 0,
+     "camuflaje": 0
+    },
+    "huellas_corte": 0,
+    "forzadas": 0,
+    "no_cabe_objeto_ya_no_esta": 0,
+    "forzadas_por_tipo": {
+     "ir": 0,
+     "usar": 0
+    },
+    "fines": {},
+    "vias": {
+     "recoger": 0,
+     "hacer_sitio": 0,
+     "coger_puesto": 0
+    },
+    "piezas": null,
+    "brazo": null,
+    "P7_57": {
+     "arranque": {
+      "k": "P7_57_arranque",
+      "slot": 10,
+      "invitaciones": 7,
+      "falsas": 1,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     },
+     "aceptadas": [
+      {
+       "k": "P7_54_aceptada",
+       "tick": 251,
+       "n": 3,
+       "accion": "COGER_BOTIQUIN",
+       "elegido": "ir_objeto",
+       "confianza": {
+        "cuerpo": 0.5,
+        "recursos": 0.5,
+        "vinculo": 0.5
+       }
+      },
+      {
+       "k": "P7_54_aceptada",
+       "tick": 841,
+       "n": 3,
+       "accion": "COGER_BOTIQUIN",
+       "elegido": "ir_objeto",
+       "confianza": {
+        "cuerpo": 0.5449999999999999,
+        "recursos": 0.35,
+        "vinculo": 0.6499999999999999
+       }
+      },
+      {
+       "k": "P7_54_aceptada",
+       "tick": 1114,
+       "n": 6,
+       "accion": "QUEDARSE_QUIETA",
+       "elegido": "noop",
+       "confianza": {
+        "cuerpo": 0.5449999999999999,
+        "recursos": 0.35,
+        "vinculo": 0.6499999999999999
+       }
+      },
+      {
+       "k": "P7_54_aceptada",
+       "tick": 1355,
+       "n": 6,
+       "accion": "QUEDARSE_QUIETA",
+       "elegido": "noop",
+       "confianza": {
+        "cuerpo": 0.77705,
+        "recursos": 0.4714999999999999,
+        "vinculo": 0.5284999999999999
+       }
+      },
+      {
+       "k": "P7_54_aceptada",
+       "tick": 1728,
+       "n": 3,
+       "accion": "COGER_BOTIQUIN",
+       "elegido": "ir_objeto",
+       "confianza": {
+        "cuerpo": 0.8439349999999999,
+        "recursos": 0.6300499999999999,
+        "vinculo": 0.3699499999999999
+       }
+      },
+      {
+       "k": "P7_54_aceptada",
+       "tick": 2925,
+       "n": 3,
+       "accion": "COGER_BOTIQUIN",
+       "elegido": "ir_objeto",
+       "confianza": {
+        "cuerpo": 0.8907544999999999,
+        "recursos": 0.4410349999999999,
+        "vinculo": 0.5589649999999999
+       }
+      },
+      {
+       "k": "P7_54_aceptada",
+       "tick": 4844,
+       "n": 6,
+       "accion": "QUEDARSE_QUIETA",
+       "elegido": "noop",
+       "confianza": {
+        "cuerpo": 0.9235281499999999,
+        "recursos": 0.3087244999999999,
+        "vinculo": 0.6912754999999999
+       }
+      },
+      {
+       "k": "P7_54_aceptada",
+       "tick": 5092,
+       "n": 6,
+       "accion": "QUEDARSE_QUIETA",
+       "elegido": "noop",
+       "confianza": {
+        "cuerpo": 0.9464697049999999,
+        "recursos": 0.5161071499999998,
+        "vinculo": 0.48389284999999993
+       }
+      },
+      {
+       "k": "P7_54_aceptada",
+       "tick": 5333,
+       "n": 6,
+       "accion": "QUEDARSE_QUIETA",
+       "elegido": "noop",
+       "confianza": {
+        "cuerpo": 0.9625287935,
+        "recursos": 0.6612750049999998,
+        "vinculo": 0.3387249949999999
+       }
+      },
+      {
+       "k": "P7_54_aceptada",
+       "tick": 7442,
+       "n": 1,
+       "accion": "COGER_RACION",
+       "elegido": "coger",
+       "confianza": {
+        "cuerpo": 0.97377015545,
+        "recursos": 0.7628925034999998,
+        "vinculo": 0.23710749649999993
+       }
+      }
+     ],
+     "evaluadas": [
+      {
+       "k": "P7_54_evaluada",
+       "tick": 731,
+       "n": 3,
+       "accion": "COGER_BOTIQUIN",
+       "fuente": "sin huella (480 tics)",
+       "prometido": {
+        "cuerpo": 0.0,
+        "recursos": 0.2,
+        "vinculo": 0.0
+       },
+       "vivido": {
+        "cuerpo": 0.0,
+        "recursos": 0.0,
+        "vinculo": 0.55
+       },
+       "acierto": {
+        "cuerpo": 1,
+        "recursos": 0,
+        "vinculo": 1
+       },
+       "confianza_antes": {
+        "cuerpo": 0.35,
+        "recursos": 0.5,
+        "vinculo": 0.5
+       },
+       "confianza_despues": {
+        "cuerpo": 0.5449999999999999,
+        "recursos": 0.35,
+        "vinculo": 0.6499999999999999
+       }
+      },
+      {
+       "k": "P7_54_evaluada",
+       "tick": 1321,
+       "n": 3,
+       "accion": "COGER_BOTIQUIN",
+       "fuente": "sin huella (480 tics)",
+       "prometido": {
+        "cuerpo": 0.0,
+        "recursos": 0.2,
+        "vinculo": 0.0
+       },
+       "vivido": {
+        "cuerpo": 0.0,
+        "recursos": 0.0,
+        "vinculo": 0.0
+       },
+       "acierto": {
+        "cuerpo": 1,
+        "recursos": 0,
+        "vinculo": 1
+       },
+       "confianza_antes": {
+        "cuerpo": 0.5449999999999999,
+        "recursos": 0.35,
+        "vinculo": 0.6499999999999999
+       },
+       "confianza_despues": {
+        "cuerpo": 0.6815,
+        "recursos": 0.24499999999999997,
+        "vinculo": 0.7549999999999999
+       }
+      },
+      {
+       "k": "P7_54_evaluada",
+       "tick": 1354,
+       "n": 6,
+       "accion": "QUEDARSE_QUIETA",
+       "fuente": "ventana de 240 tics",
+       "prometido": {
+        "cuerpo": 0.0,
+        "recursos": 0.0,
+        "vinculo": 0.05
+       },
+       "vivido": {
+        "cuerpo": 0.0,
+        "recursos": 0.0,
+        "vinculo": 0.0
+       },
+       "acierto": {
+        "cuerpo": 1,
+        "recursos": 1,
+        "vinculo": 0
+       },
+       "confianza_antes": {
+        "cuerpo": 0.6815,
+        "recursos": 0.24499999999999997,
+        "vinculo": 0.7549999999999999
+       },
+       "confianza_despues": {
+        "cuerpo": 0.77705,
+        "recursos": 0.4714999999999999,
+        "vinculo": 0.5284999999999999
+       }
+      },
+      {
+       "k": "P7_54_evaluada",
+       "tick": 1595,
+       "n": 6,
+       "accion": "QUEDARSE_QUIETA",
+       "fuente": "ventana de 240 tics",
+       "prometido": {
+        "cuerpo": 0.0,
+        "recursos": 0.0,
+        "vinculo": 0.05
+       },
+       "vivido": {
+        "cuerpo": 0.0,
+        "recursos": 0.0,
+        "vinculo": 0.0
+       },
+       "acierto": {
+        "cuerpo": 1,
+        "recursos": 1,
+        "vinculo": 0
+       },
+       "confianza_antes": {
+        "cuerpo": 0.77705,
+        "recursos": 0.4714999999999999,
+        "vinculo": 0.5284999999999999
+       },
+       "confianza_despues": {
+        "cuerpo": 0.8439349999999999,
+        "recursos": 0.6300499999999999,
+        "vinculo": 0.3699499999999999
+       }
+      },
+      {
+       "k": "P7_54_evaluada",
+       "tick": 2208,
+       "n": 3,
+       "accion": "COGER_BOTIQUIN",
+       "fuente": "sin huella (480 tics)",
+       "prometido": {
+        "cuerpo": 0.0,
+        "recursos": 0.2,
+        "vinculo": 0.0
+       },
+       "vivido": {
+        "cuerpo": 0.0,
+        "recursos": 0.0,
+        "vinculo": 0.0
+       },
+       "acierto": {
+        "cuerpo": 1,
+        "recursos": 0,
+        "vinculo": 1
+       },
+       "confianza_antes": {
+        "cuerpo": 0.8439349999999999,
+        "recursos": 0.6300499999999999,
+        "vinculo": 0.3699499999999999
+       },
+       "confianza_despues": {
+        "cuerpo": 0.8907544999999999,
+        "recursos": 0.4410349999999999,
+        "vinculo": 0.5589649999999999
+       }
+      },
+      {
+       "k": "P7_54_evaluada",
+       "tick": 3405,
+       "n": 3,
+       "accion": "COGER_BOTIQUIN",
+       "fuente": "sin huella (480 tics)",
+       "prometido": {
+        "cuerpo": 0.0,
+        "recursos": 0.2,
+        "vinculo": 0.0
+       },
+       "vivido": {
+        "cuerpo": 0.0,
+        "recursos": 0.0,
+        "vinculo": 0.0
+       },
+       "acierto": {
+        "cuerpo": 1,
+        "recursos": 0,
+        "vinculo": 1
+       },
+       "confianza_antes": {
+        "cuerpo": 0.8907544999999999,
+        "recursos": 0.4410349999999999,
+        "vinculo": 0.5589649999999999
+       },
+       "confianza_despues": {
+        "cuerpo": 0.9235281499999999,
+        "recursos": 0.3087244999999999,
+        "vinculo": 0.6912754999999999
+       }
+      },
+      {
+       "k": "P7_54_evaluada",
+       "tick": 5084,
+       "n": 6,
+       "accion": "QUEDARSE_QUIETA",
+       "fuente": "ventana de 240 tics",
+       "prometido": {
+        "cuerpo": 0.0,
+        "recursos": 0.0,
+        "vinculo": 0.05
+       },
+       "vivido": {
+        "cuerpo": 0.0,
+        "recursos": 0.0,
+        "vinculo": 0.0
+       },
+       "acierto": {
+        "cuerpo": 1,
+        "recursos": 1,
+        "vinculo": 0
+       },
+       "confianza_antes": {
+        "cuerpo": 0.9235281499999999,
+        "recursos": 0.3087244999999999,
+        "vinculo": 0.6912754999999999
+       },
+       "confianza_despues": {
+        "cuerpo": 0.9464697049999999,
+        "recursos": 0.5161071499999998,
+        "vinculo": 0.48389284999999993
+       }
+      },
+      {
+       "k": "P7_54_evaluada",
+       "tick": 5332,
+       "n": 6,
+       "accion": "QUEDARSE_QUIETA",
+       "fuente": "ventana de 240 tics",
+       "prometido": {
+        "cuerpo": 0.0,
+        "recursos": 0.0,
+        "vinculo": 0.05
+       },
+       "vivido": {
+        "cuerpo": 0.0,
+        "recursos": 0.0,
+        "vinculo": 0.0
+       },
+       "acierto": {
+        "cuerpo": 1,
+        "recursos": 1,
+        "vinculo": 0
+       },
+       "confianza_antes": {
+        "cuerpo": 0.9464697049999999,
+        "recursos": 0.5161071499999998,
+        "vinculo": 0.48389284999999993
+       },
+       "confianza_despues": {
+        "cuerpo": 0.9625287935,
+        "recursos": 0.6612750049999998,
+        "vinculo": 0.3387249949999999
+       }
+      },
+      {
+       "k": "P7_54_evaluada",
+       "tick": 5573,
+       "n": 6,
+       "accion": "QUEDARSE_QUIETA",
+       "fuente": "ventana de 240 tics",
+       "prometido": {
+        "cuerpo": 0.0,
+        "recursos": 0.0,
+        "vinculo": 0.05
+       },
+       "vivido": {
+        "cuerpo": 0.0,
+        "recursos": 0.0,
+        "vinculo": 0.0
+       },
+       "acierto": {
+        "cuerpo": 1,
+        "recursos": 1,
+        "vinculo": 0
+       },
+       "confianza_antes": {
+        "cuerpo": 0.9625287935,
+        "recursos": 0.6612750049999998,
+        "vinculo": 0.3387249949999999
+       },
+       "confianza_despues": {
+        "cuerpo": 0.97377015545,
+        "recursos": 0.7628925034999998,
+        "vinculo": 0.23710749649999993
+       }
+      }
+     ],
+     "contrastes": [
+      {
+       "k": "P7_57_contraste",
+       "tick": 518,
+       "objeto": "net",
+       "origen": "contado",
+       "via": "canal",
+       "efecto_contado": 0.0,
+       "peso": 1.545,
+       "invitacion": 5,
+       "accion": "EMPUNAR_RED",
+       "falsa": true,
+       "promesa": 40.0,
+       "acierto": 0,
+       "eta": 0.3,
+       "confianza_antes": 0.5,
+       "confianza_despues": 0.35
+      },
+      {
+       "k": "P7_57_contraste",
+       "tick": 7493,
+       "objeto": "first_aid",
+       "origen": "contado",
+       "via": "canal",
+       "efecto_contado": 50.0,
+       "peso": 4.0,
+       "invitacion": 4,
+       "accion": "USAR_BOTIQUIN",
+       "falsa": false,
+       "promesa": 10.0,
+       "acierto": 1,
+       "eta": 0.3,
+       "confianza_antes": 0.9738,
+       "confianza_despues": 0.9816
+      }
+     ],
+     "cierre": {
+      "k": "P7_57_cierre",
+      "contrastes": 2,
+      "confianza": {
+       "cuerpo": 0.981639108815,
+       "recursos": 0.7628925034999998,
+       "vinculo": 0.23710749649999993
+      }
+     }
+    }
+   },
+   "11": {
+    "tics": 7368,
+    "t_ult": 7608,
+    "murio": true,
+    "ms_mediana": 2.245,
+    "ms_p95": 10.207,
+    "sobre_tic_pct": 0.02714440825190011,
+    "bloqueados_pct": 11.406844106463879,
+    "huellas": 4,
+    "huellas_por_objeto": {
+     "botiquin": 3,
+     "racion": 0,
+     "red": 1,
+     "camuflaje": 0
+    },
+    "huellas_corte": 2,
+    "forzadas": 0,
+    "no_cabe_objeto_ya_no_esta": 0,
+    "forzadas_por_tipo": {
+     "ir": 0,
+     "usar": 0
+    },
+    "fines": {},
+    "vias": {
+     "recoger": 0,
+     "hacer_sitio": 0,
+     "coger_puesto": 0
+    },
+    "piezas": null,
+    "brazo": null,
+    "P7_57": {
+     "arranque": {
+      "k": "P7_57_arranque",
+      "slot": 11,
+      "invitaciones": 7,
+      "falsas": 1,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     },
+     "aceptadas": [
+      {
+       "k": "P7_54_aceptada",
+       "tick": 375,
+       "n": 3,
+       "accion": "COGER_BOTIQUIN",
+       "elegido": "coger",
+       "confianza": {
+        "cuerpo": 0.5,
+        "recursos": 0.5,
+        "vinculo": 0.5
+       }
+      },
+      {
+       "k": "P7_54_aceptada",
+       "tick": 880,
+       "n": 3,
+       "accion": "COGER_BOTIQUIN",
+       "elegido": "ir_objeto",
+       "confianza": {
+        "cuerpo": 0.6499999999999999,
+        "recursos": 0.6499999999999999,
+        "vinculo": 0.6499999999999999
+       }
+      },
+      {
+       "k": "P7_54_aceptada",
+       "tick": 2287,
+       "n": 5,
+       "accion": "COGER_RACION",
+       "elegido": "coger",
+       "confianza": {
+        "cuerpo": 0.7549999999999999,
+        "recursos": 0.4549999999999999,
+        "vinculo": 0.7549999999999999
+       }
+      },
+      {
+       "k": "P7_54_aceptada",
+       "tick": 2289,
+       "n": 3,
+       "accion": "COGER_BOTIQUIN",
+       "elegido": "coger",
+       "confianza": {
+        "cuerpo": 0.7549999999999999,
+        "recursos": 0.4549999999999999,
+        "vinculo": 0.7549999999999999
+       }
+      },
+      {
+       "k": "P7_54_aceptada",
+       "tick": 2573,
+       "n": 2,
+       "accion": "QUEDARSE_QUIETA",
+       "elegido": "noop",
+       "confianza": {
+        "cuerpo": 0.7549999999999999,
+        "recursos": 0.4549999999999999,
+        "vinculo": 0.7549999999999999
+       }
+      },
+      {
+       "k": "P7_54_aceptada",
+       "tick": 2777,
+       "n": 6,
+       "accion": "ACERCARSE_HERMANA",
+       "elegido": "ir_pareja",
+       "confianza": {
+        "cuerpo": 0.8799499999999998,
+        "recursos": 0.2229499999999999,
+        "vinculo": 0.8799499999999998
+       }
+      },
+      {
+       "k": "P7_54_aceptada",
+       "tick": 2975,
+       "n": 3,
+       "accion": "COGER_BOTIQUIN",
+       "elegido": "ir_objeto",
+       "confianza": {
+        "cuerpo": 0.9159649999999997,
+        "recursos": 0.45606499999999994,
+        "vinculo": 0.9159649999999997
+       }
+      },
+      {
+       "k": "P7_54_aceptada",
+       "tick": 3011,
+       "n": 2,
+       "accion": "QUEDARSE_QUIETA",
+       "elegido": "noop",
+       "confianza": {
+        "cuerpo": 0.9159649999999997,
+        "recursos": 0.45606499999999994,
+        "vinculo": 0.9159649999999997
+       }
+      },
+      {
+       "k": "P7_54_aceptada",
+       "tick": 3144,
+       "n": 5,
+       "accion": "COGER_RACION",
+       "elegido": "ir_objeto",
+       "confianza": {
+        "cuerpo": 0.9411754999999997,
+        "recursos": 0.6192454999999999,
+        "vinculo": 0.6411754999999998
+       }
+      },
+      {
+       "k": "P7_54_aceptada",
+       "tick": 3387,
+       "n": 6,
+       "accion": "ACERCARSE_HERMANA",
+       "elegido": "ir_pareja",
+       "confianza": {
+        "cuerpo": 0.9588228499999998,
+        "recursos": 0.7334718499999999,
+        "vinculo": 0.7488228499999998
+       }
+      },
+      {
+       "k": "P7_54_aceptada",
+       "tick": 4104,
+       "n": 2,
+       "accion": "QUEDARSE_QUIETA",
+       "elegido": "noop",
+       "confianza": {
+        "cuerpo": 0.9858762375499999,
+        "recursos": 0.5515808445499999,
+        "vinculo": 0.6138462375499998
+       }
+      },
+      {
+       "k": "P7_54_aceptada",
+       "tick": 4461,
+       "n": 5,
+       "accion": "COGER_RACION",
+       "elegido": "ir_objeto",
+       "confianza": {
+        "cuerpo": 0.9901133662849999,
+        "recursos": 0.686106591185,
+        "vinculo": 0.7296923662849999
+       }
+      },
+      {
+       "k": "P7_54_aceptada",
+       "tick": 5503,
+       "n": 3,
+       "accion": "COGER_BOTIQUIN",
+       "elegido": "coger",
+       "confianza": {
+        "cuerpo": 0.9930793563995,
+        "recursos": 0.48027461382949993,
+        "vinculo": 0.8107846563994998
+       }
+      },
+      {
+       "k": "P7_54_aceptada",
+       "tick": 5505,
+       "n": 5,
+       "accion": "COGER_RACION",
+       "elegido": "coger",
+       "confianza": {
+        "cuerpo": 0.9930793563995,
+        "recursos": 0.48027461382949993,
+        "vinculo": 0.8107846563994998
+       }
+      },
+      {
+       "k": "P7_54_aceptada",
+       "tick": 6579,
+       "n": 6,
+       "accion": "ACERCARSE_HERMANA",
+       "elegido": "ir_pareja",
+       "confianza": {
+        "cuerpo": 0.996608884635755,
+        "recursos": 0.23533456077645493,
+        "vinculo": 0.9072844816357548
+       }
+      },
+      {
+       "k": "P7_54_aceptada",
+       "tick": 7603,
+       "n": 3,
+       "accion": "COGER_BOTIQUIN",
+       "elegido": "coger",
+       "confianza": {
+        "cuerpo": 0.9983383534715199,
+        "recursos": 0.46473419254351844,
+        "vinculo": 0.6350991371450283
+       }
+      },
+      {
+       "k": "P7_54_aceptada",
+       "tick": 7606,
+       "n": 5,
+       "accion": "COGER_RACION",
+       "elegido": "coger",
+       "confianza": {
+        "cuerpo": 0.9983383534715199,
+        "recursos": 0.46473419254351844,
+        "vinculo": 0.6350991371450283
+       }
+      }
+     ],
+     "evaluadas": [
+      {
+       "k": "P7_54_evaluada",
+       "tick": 855,
+       "n": 3,
+       "accion": "COGER_BOTIQUIN",
+       "fuente": "sin huella (480 tics)",
+       "prometido": {
+        "cuerpo": 0.0,
+        "recursos": 0.1,
+        "vinculo": 0.0
+       },
+       "vivido": {
+        "cuerpo": 0.0,
+        "recursos": 1.0,
+        "vinculo": 0.425
+       },
+       "acierto": {
+        "cuerpo": 1,
+        "recursos": 1,
+        "vinculo": 1
+       },
+       "confianza_antes": {
+        "cuerpo": 0.5,
+        "recursos": 0.5,
+        "vinculo": 0.5
+       },
+       "confianza_despues": {
+        "cuerpo": 0.6499999999999999,
+        "recursos": 0.6499999999999999,
+        "vinculo": 0.6499999999999999
+       }
+      },
+      {
+       "k": "P7_54_evaluada",
+       "tick": 1360,
+       "n": 3,
+       "accion": "COGER_BOTIQUIN",
+       "fuente": "sin huella (480 tics)",
+       "prometido": {
+        "cuerpo": 0.0,
+        "recursos": 0.1,
+        "vinculo": 0.0
+       },
+       "vivido": {
+        "cuerpo": 0.0,
+        "recursos": 0.0,
+        "vinculo": 0.0
+       },
+       "acierto": {
+        "cuerpo": 1,
+        "recursos": 0,
+        "vinculo": 1
+       },
+       "confianza_antes": {
+        "cuerpo": 0.6499999999999999,
+        "recursos": 0.6499999999999999,
+        "vinculo": 0.6499999999999999
+       },
+       "confianza_despues": {
+        "cuerpo": 0.7549999999999999,
+        "recursos": 0.4549999999999999,
+        "vinculo": 0.7549999999999999
+       }
+      },
+      {
+       "k": "P7_54_evaluada",
+       "tick": 2767,
+       "n": 5,
+       "accion": "COGER_RACION",
+       "fuente": "sin huella (480 tics)",
+       "prometido": {
+        "cuerpo": 0.0,
+        "recursos": 0.1,
+        "vinculo": 0.0
+       },
+       "vivido": {
+        "cuerpo": 0.0,
+        "recursos": 0.0,
+        "vinculo": 0.0
+       },
+       "acierto": {
+        "cuerpo": 1,
+        "recursos": 0,
+        "vinculo": 1
+       },
+       "confianza_antes": {
+        "cuerpo": 0.7549999999999999,
+        "recursos": 0.4549999999999999,
+        "vinculo": 0.7549999999999999
+       },
+       "confianza_despues": {
+        "cuerpo": 0.8284999999999998,
+        "recursos": 0.3184999999999999,
+        "vinculo": 0.8284999999999998
+       }
+      },
+      {
+       "k": "P7_54_evaluada",
+       "tick": 2769,
+       "n": 3,
+       "accion": "COGER_BOTIQUIN",
+       "fuente": "sin huella (480 tics)",
+       "prometido": {
+        "cuerpo": 0.0,
+        "recursos": 0.1,
+        "vinculo": 0.0
+       },
+       "vivido": {
+        "cuerpo": 0.0,
+        "recursos": 0.0,
+        "vinculo": 0.0
+       },
+       "acierto": {
+        "cuerpo": 1,
+        "recursos": 0,
+        "vinculo": 1
+       },
+       "confianza_antes": {
+        "cuerpo": 0.8284999999999998,
+        "recursos": 0.3184999999999999,
+        "vinculo": 0.8284999999999998
+       },
+       "confianza_despues": {
+        "cuerpo": 0.8799499999999998,
+        "recursos": 0.2229499999999999,
+        "vinculo": 0.8799499999999998
+       }
+      },
+      {
+       "k": "P7_54_evaluada",
+       "tick": 2813,
+       "n": 2,
+       "accion": "QUEDARSE_QUIETA",
+       "fuente": "ventana de 240 tics",
+       "prometido": {
+        "cuerpo": 0.0,
+        "recursos": 0.0,
+        "vinculo": 0.0
+       },
+       "vivido": {
+        "cuerpo": 0.0,
+        "recursos": 0.0,
+        "vinculo": 0.0
+       },
+       "acierto": {
+        "cuerpo": 1,
+        "recursos": 1,
+        "vinculo": 1
+       },
+       "confianza_antes": {
+        "cuerpo": 0.8799499999999998,
+        "recursos": 0.2229499999999999,
+        "vinculo": 0.8799499999999998
+       },
+       "confianza_despues": {
+        "cuerpo": 0.9159649999999997,
+        "recursos": 0.45606499999999994,
+        "vinculo": 0.9159649999999997
+       }
+      },
+      {
+       "k": "P7_54_evaluada",
+       "tick": 3017,
+       "n": 6,
+       "accion": "ACERCARSE_HERMANA",
+       "fuente": "ventana de 240 tics",
+       "prometido": {
+        "cuerpo": 0.0,
+        "recursos": 0.0,
+        "vinculo": 0.1
+       },
+       "vivido": {
+        "cuerpo": 0.0,
+        "recursos": 0.0,
+        "vinculo": 0.0
+       },
+       "acierto": {
+        "cuerpo": 1,
+        "recursos": 1,
+        "vinculo": 0
+       },
+       "confianza_antes": {
+        "cuerpo": 0.9159649999999997,
+        "recursos": 0.45606499999999994,
+        "vinculo": 0.9159649999999997
+       },
+       "confianza_despues": {
+        "cuerpo": 0.9411754999999997,
+        "recursos": 0.6192454999999999,
+        "vinculo": 0.6411754999999998
+       }
+      },
+      {
+       "k": "P7_54_evaluada",
+       "tick": 3251,
+       "n": 2,
+       "accion": "QUEDARSE_QUIETA",
+       "fuente": "ventana de 240 tics",
+       "prometido": {
+        "cuerpo": 0.0,
+        "recursos": 0.0,
+        "vinculo": 0.0
+       },
+       "vivido": {
+        "cuerpo": 0.0,
+        "recursos": 0.0,
+        "vinculo": 0.0
+       },
+       "acierto": {
+        "cuerpo": 1,
+        "recursos": 1,
+        "vinculo": 1
+       },
+       "confianza_antes": {
+        "cuerpo": 0.9411754999999997,
+        "recursos": 0.6192454999999999,
+        "vinculo": 0.6411754999999998
+       },
+       "confianza_despues": {
+        "cuerpo": 0.9588228499999998,
+        "recursos": 0.7334718499999999,
+        "vinculo": 0.7488228499999998
+       }
+      },
+      {
+       "k": "P7_54_evaluada",
+       "tick": 3455,
+       "n": 3,
+       "accion": "COGER_BOTIQUIN",
+       "fuente": "sin huella (480 tics)",
+       "prometido": {
+        "cuerpo": 0.0,
+        "recursos": 0.1,
+        "vinculo": 0.0
+       },
+       "vivido": {
+        "cuerpo": 0.0,
+        "recursos": 0.0,
+        "vinculo": 0.0
+       },
+       "acierto": {
+        "cuerpo": 1,
+        "recursos": 0,
+        "vinculo": 1
+       },
+       "confianza_antes": {
+        "cuerpo": 0.9588228499999998,
+        "recursos": 0.7334718499999999,
+        "vinculo": 0.7488228499999998
+       },
+       "confianza_despues": {
+        "cuerpo": 0.9711759949999998,
+        "recursos": 0.5134302949999999,
+        "vinculo": 0.8241759949999998
+       }
+      },
+      {
+       "k": "P7_54_evaluada",
+       "tick": 3624,
+       "n": 5,
+       "accion": "COGER_RACION",
+       "fuente": "sin huella (480 tics)",
+       "prometido": {
+        "cuerpo": 0.0,
+        "recursos": 0.1,
+        "vinculo": 0.0
+       },
+       "vivido": {
+        "cuerpo": 0.0,
+        "recursos": 0.0,
+        "vinculo": 0.0
+       },
+       "acierto": {
+        "cuerpo": 1,
+        "recursos": 0,
+        "vinculo": 1
+       },
+       "confianza_antes": {
+        "cuerpo": 0.9711759949999998,
+        "recursos": 0.5134302949999999,
+        "vinculo": 0.8241759949999998
+       },
+       "confianza_despues": {
+        "cuerpo": 0.9798231964999999,
+        "recursos": 0.3594012064999999,
+        "vinculo": 0.8769231964999997
+       }
+      },
+      {
+       "k": "P7_54_evaluada",
+       "tick": 3627,
+       "n": 6,
+       "accion": "ACERCARSE_HERMANA",
+       "fuente": "ventana de 240 tics",
+       "prometido": {
+        "cuerpo": 0.0,
+        "recursos": 0.0,
+        "vinculo": 0.1
+       },
+       "vivido": {
+        "cuerpo": 0.0,
+        "recursos": 0.0,
+        "vinculo": 0.0
+       },
+       "acierto": {
+        "cuerpo": 1,
+        "recursos": 1,
+        "vinculo": 0
+       },
+       "confianza_antes": {
+        "cuerpo": 0.9798231964999999,
+        "recursos": 0.3594012064999999,
+        "vinculo": 0.8769231964999997
+       },
+       "confianza_despues": {
+        "cuerpo": 0.9858762375499999,
+        "recursos": 0.5515808445499999,
+        "vinculo": 0.6138462375499998
+       }
+      },
+      {
+       "k": "P7_54_evaluada",
+       "tick": 4344,
+       "n": 2,
+       "accion": "QUEDARSE_QUIETA",
+       "fuente": "ventana de 240 tics",
+       "prometido": {
+        "cuerpo": 0.0,
+        "recursos": 0.0,
+        "vinculo": 0.0
+       },
+       "vivido": {
+        "cuerpo": 0.0,
+        "recursos": 0.0,
+        "vinculo": 0.0
+       },
+       "acierto": {
+        "cuerpo": 1,
+        "recursos": 1,
+        "vinculo": 1
+       },
+       "confianza_antes": {
+        "cuerpo": 0.9858762375499999,
+        "recursos": 0.5515808445499999,
+        "vinculo": 0.6138462375499998
+       },
+       "confianza_despues": {
+        "cuerpo": 0.9901133662849999,
+        "recursos": 0.686106591185,
+        "vinculo": 0.7296923662849999
+       }
+      },
+      {
+       "k": "P7_54_evaluada",
+       "tick": 4941,
+       "n": 5,
+       "accion": "COGER_RACION",
+       "fuente": "sin huella (480 tics)",
+       "prometido": {
+        "cuerpo": 0.0,
+        "recursos": 0.1,
+        "vinculo": 0.0
+       },
+       "vivido": {
+        "cuerpo": 0.0,
+        "recursos": 0.0,
+        "vinculo": 0.0
+       },
+       "acierto": {
+        "cuerpo": 1,
+        "recursos": 0,
+        "vinculo": 1
+       },
+       "confianza_antes": {
+        "cuerpo": 0.9901133662849999,
+        "recursos": 0.686106591185,
+        "vinculo": 0.7296923662849999
+       },
+       "confianza_despues": {
+        "cuerpo": 0.9930793563995,
+        "recursos": 0.48027461382949993,
+        "vinculo": 0.8107846563994998
+       }
+      },
+      {
+       "k": "P7_54_evaluada",
+       "tick": 5983,
+       "n": 3,
+       "accion": "COGER_BOTIQUIN",
+       "fuente": "sin huella (480 tics)",
+       "prometido": {
+        "cuerpo": 0.0,
+        "recursos": 0.1,
+        "vinculo": 0.0
+       },
+       "vivido": {
+        "cuerpo": 0.0,
+        "recursos": 0.0,
+        "vinculo": 0.0
+       },
+       "acierto": {
+        "cuerpo": 1,
+        "recursos": 0,
+        "vinculo": 1
+       },
+       "confianza_antes": {
+        "cuerpo": 0.9930793563995,
+        "recursos": 0.48027461382949993,
+        "vinculo": 0.8107846563994998
+       },
+       "confianza_despues": {
+        "cuerpo": 0.99515554947965,
+        "recursos": 0.33619222968064993,
+        "vinculo": 0.8675492594796499
+       }
+      },
+      {
+       "k": "P7_54_evaluada",
+       "tick": 5985,
+       "n": 5,
+       "accion": "COGER_RACION",
+       "fuente": "sin huella (480 tics)",
+       "prometido": {
+        "cuerpo": 0.0,
+        "recursos": 0.1,
+        "vinculo": 0.0
+       },
+       "vivido": {
+        "cuerpo": 0.0,
+        "recursos": 0.0,
+        "vinculo": 0.0
+       },
+       "acierto": {
+        "cuerpo": 1,
+        "recursos": 0,
+        "vinculo": 1
+       },
+       "confianza_antes": {
+        "cuerpo": 0.99515554947965,
+        "recursos": 0.33619222968064993,
+        "vinculo": 0.8675492594796499
+       },
+       "confianza_despues": {
+        "cuerpo": 0.996608884635755,
+        "recursos": 0.23533456077645493,
+        "vinculo": 0.9072844816357548
+       }
+      },
+      {
+       "k": "P7_54_evaluada",
+       "tick": 6819,
+       "n": 6,
+       "accion": "ACERCARSE_HERMANA",
+       "fuente": "ventana de 240 tics",
+       "prometido": {
+        "cuerpo": 0.0,
+        "recursos": 0.0,
+        "vinculo": 0.1
+       },
+       "vivido": {
+        "cuerpo": 0.0,
+        "recursos": 0.0,
+        "vinculo": 0.0
+       },
+       "acierto": {
+        "cuerpo": 1,
+        "recursos": 1,
+        "vinculo": 0
+       },
+       "confianza_antes": {
+        "cuerpo": 0.996608884635755,
+        "recursos": 0.23533456077645493,
+        "vinculo": 0.9072844816357548
+       },
+       "confianza_despues": {
+        "cuerpo": 0.9976262192450285,
+        "recursos": 0.46473419254351844,
+        "vinculo": 0.6350991371450283
+       }
+      }
+     ],
+     "contrastes": [
+      {
+       "k": "P7_57_contraste",
+       "tick": 7318,
+       "objeto": "first_aid",
+       "origen": "contado",
+       "via": "canal",
+       "efecto_contado": 20.0,
+       "peso": 2.695,
+       "invitacion": 4,
+       "accion": "USAR_BOTIQUIN",
+       "falsa": false,
+       "promesa": 15.0,
+       "acierto": 1,
+       "eta": 0.3,
+       "confianza_antes": 0.9976,
+       "confianza_despues": 0.9983
+      }
+     ],
+     "cierre": {
+      "k": "P7_57_cierre",
+      "contrastes": 1,
+      "confianza": {
+       "cuerpo": 0.9983383534715199,
+       "recursos": 0.46473419254351844,
+       "vinculo": 0.6350991371450283
+      }
+     }
+    }
+   },
+   "12": {
+    "tics": 7296,
+    "t_ult": 7536,
+    "murio": true,
+    "ms_mediana": 3.99,
+    "ms_p95": 11.609,
+    "sobre_tic_pct": 0.08223684210526316,
+    "bloqueados_pct": 1.6711590296495957,
+    "huellas": 1,
+    "huellas_por_objeto": {
+     "botiquin": 1,
+     "racion": 0,
+     "red": 0,
+     "camuflaje": 0
+    },
+    "huellas_corte": 0,
+    "forzadas": 0,
+    "no_cabe_objeto_ya_no_esta": 0,
+    "forzadas_por_tipo": {
+     "ir": 0,
+     "usar": 0
+    },
+    "fines": {},
+    "vias": {
+     "recoger": 0,
+     "hacer_sitio": 0,
+     "coger_puesto": 0
+    },
+    "piezas": null,
+    "brazo": null,
+    "P7_57": {
+     "arranque": {
+      "k": "P7_57_arranque",
+      "slot": 12,
+      "invitaciones": 6,
+      "falsas": 1,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     },
+     "aceptadas": [
+      {
+       "k": "P7_54_aceptada",
+       "tick": 252,
+       "n": 0,
+       "accion": "QUEDARSE_QUIETA",
+       "elegido": "noop",
+       "confianza": {
+        "cuerpo": 0.87995,
+        "recursos": 0.5,
+        "vinculo": 0.5
+       }
+      },
+      {
+       "k": "P7_54_aceptada",
+       "tick": 493,
+       "n": 0,
+       "accion": "QUEDARSE_QUIETA",
+       "elegido": "noop",
+       "confianza": {
+        "cuerpo": 0.615965,
+        "recursos": 0.6499999999999999,
+        "vinculo": 0.6499999999999999
+       }
+      },
+      {
+       "k": "P7_54_aceptada",
+       "tick": 734,
+       "n": 0,
+       "accion": "QUEDARSE_QUIETA",
+       "elegido": "noop",
+       "confianza": {
+        "cuerpo": 0.4311755,
+        "recursos": 0.7549999999999999,
+        "vinculo": 0.7549999999999999
+       }
+      },
+      {
+       "k": "P7_54_aceptada",
+       "tick": 975,
+       "n": 0,
+       "accion": "QUEDARSE_QUIETA",
+       "elegido": "noop",
+       "confianza": {
+        "cuerpo": 0.30182285,
+        "recursos": 0.8284999999999998,
+        "vinculo": 0.8284999999999998
+       }
+      },
+      {
+       "k": "P7_54_aceptada",
+       "tick": 1216,
+       "n": 0,
+       "accion": "QUEDARSE_QUIETA",
+       "elegido": "noop",
+       "confianza": {
+        "cuerpo": 0.21127599499999997,
+        "recursos": 0.8799499999999998,
+        "vinculo": 0.8799499999999998
+       }
+      },
+      {
+       "k": "P7_54_aceptada",
+       "tick": 1457,
+       "n": 0,
+       "accion": "QUEDARSE_QUIETA",
+       "elegido": "noop",
+       "confianza": {
+        "cuerpo": 0.14789319649999996,
+        "recursos": 0.9159649999999997,
+        "vinculo": 0.9159649999999997
+       }
+      },
+      {
+       "k": "P7_54_aceptada",
+       "tick": 1699,
+       "n": 0,
+       "accion": "QUEDARSE_QUIETA",
+       "elegido": "noop",
+       "confianza": {
+        "cuerpo": 0.10352523754999997,
+        "recursos": 0.9411754999999997,
+        "vinculo": 0.9411754999999997
+       }
+      },
+      {
+       "k": "P7_54_aceptada",
+       "tick": 1940,
+       "n": 0,
+       "accion": "QUEDARSE_QUIETA",
+       "elegido": "noop",
+       "confianza": {
+        "cuerpo": 0.07246766628499997,
+        "recursos": 0.9588228499999998,
+        "vinculo": 0.9588228499999998
+       }
+      },
+      {
+       "k": "P7_54_aceptada",
+       "tick": 2231,
+       "n": 0,
+       "accion": "QUEDARSE_QUIETA",
+       "elegido": "noop",
+       "confianza": {
+        "cuerpo": 0.05072736639949998,
+        "recursos": 0.9711759949999998,
+        "vinculo": 0.9711759949999998
+       }
+      },
+      {
+       "k": "P7_54_aceptada",
+       "tick": 2495,
+       "n": 0,
+       "accion": "QUEDARSE_QUIETA",
+       "elegido": "noop",
+       "confianza": {
+        "cuerpo": 0.03550915647964998,
+        "recursos": 0.9798231964999999,
+        "vinculo": 0.9798231964999999
+       }
+      },
+      {
+       "k": "P7_54_aceptada",
+       "tick": 2505,
+       "n": 4,
+       "accion": "ACERCARSE_HERMANA",
+       "elegido": "ir_pareja",
+       "confianza": {
+        "cuerpo": 0.03550915647964998,
+        "recursos": 0.9798231964999999,
+        "vinculo": 0.9798231964999999
+       }
+      },
+      {
+       "k": "P7_54_aceptada",
+       "tick": 2737,
+       "n": 0,
+       "accion": "QUEDARSE_QUIETA",
+       "elegido": "noop",
+       "confianza": {
+        "cuerpo": 0.024856409535754985,
+        "recursos": 0.9858762375499999,
+        "vinculo": 0.9858762375499999
+       }
+      },
+      {
+       "k": "P7_54_aceptada",
+       "tick": 2758,
+       "n": 2,
+       "accion": "COGER_RACION",
+       "elegido": "ir_objeto",
+       "confianza": {
+        "cuerpo": 0.3173994866750285,
+        "recursos": 0.9901133662849999,
+        "vinculo": 0.6901133662849999
+       }
+      },
+      {
+       "k": "P7_54_aceptada",
+       "tick": 2990,
+       "n": 0,
+       "accion": "QUEDARSE_QUIETA",
+       "elegido": "noop",
+       "confianza": {
+        "cuerpo": 0.2221796406725199,
+        "recursos": 0.9930793563995,
+        "vinculo": 0.7830793563994999
+       }
+      },
+      {
+       "k": "P7_54_aceptada",
+       "tick": 3232,
+       "n": 0,
+       "accion": "QUEDARSE_QUIETA",
+       "elegido": "noop",
+       "confianza": {
+        "cuerpo": 0.15552574847076392,
+        "recursos": 0.99515554947965,
+        "vinculo": 0.8481555494796498
+       }
+      },
+      {
+       "k": "P7_54_aceptada",
+       "tick": 3286,
+       "n": 2,
+       "accion": "COGER_RACION",
+       "elegido": "ir_objeto",
+       "confianza": {
+        "cuerpo": 0.10886802392953474,
+        "recursos": 0.996608884635755,
+        "vinculo": 0.8937088846357548
+       }
+      },
+      {
+       "k": "P7_54_aceptada",
+       "tick": 3496,
+       "n": 0,
+       "accion": "QUEDARSE_QUIETA",
+       "elegido": "noop",
+       "confianza": {
+        "cuerpo": 0.0762076167506743,
+        "recursos": 0.9976262192450285,
+        "vinculo": 0.9255962192450282
+       }
+      },
+      {
+       "k": "P7_54_aceptada",
+       "tick": 3807,
+       "n": 0,
+       "accion": "QUEDARSE_QUIETA",
+       "elegido": "noop",
+       "confianza": {
+        "cuerpo": 0.03734173220783041,
+        "recursos": 0.9988368474300637,
+        "vinculo": 0.9635421474300638
+       }
+      },
+      {
+       "k": "P7_54_aceptada",
+       "tick": 3968,
+       "n": 2,
+       "accion": "COGER_RACION",
+       "elegido": "ir_objeto",
+       "confianza": {
+        "cuerpo": 0.03734173220783041,
+        "recursos": 0.9988368474300637,
+        "vinculo": 0.9635421474300638
+       }
+      },
+      {
+       "k": "P7_54_aceptada",
+       "tick": 4048,
+       "n": 0,
+       "accion": "QUEDARSE_QUIETA",
+       "elegido": "noop",
+       "confianza": {
+        "cuerpo": 0.026139212545481284,
+        "recursos": 0.9991857932010446,
+        "vinculo": 0.9744795032010447
+       }
+      },
+      {
+       "k": "P7_54_aceptada",
+       "tick": 4289,
+       "n": 0,
+       "accion": "QUEDARSE_QUIETA",
+       "elegido": "noop",
+       "confianza": {
+        "cuerpo": 0.018297448781836898,
+        "recursos": 0.9994300552407311,
+        "vinculo": 0.9821356522407312
+       }
+      },
+      {
+       "k": "P7_54_aceptada",
+       "tick": 4530,
+       "n": 0,
+       "accion": "QUEDARSE_QUIETA",
+       "elegido": "noop",
+       "confianza": {
+        "cuerpo": 0.00896574990310008,
+        "recursos": 0.9997207270679582,
+        "vinculo": 0.9912464695979581
+       }
+      },
+      {
+       "k": "P7_54_aceptada",
+       "tick": 4795,
+       "n": 0,
+       "accion": "QUEDARSE_QUIETA",
+       "elegido": "noop",
+       "confianza": {
+        "cuerpo": 0.006276024932170055,
+        "recursos": 0.9998045089475707,
+        "vinculo": 0.9938725287185706
+       }
+      },
+      {
+       "k": "P7_54_aceptada",
+       "tick": 5037,
+       "n": 0,
+       "accion": "QUEDARSE_QUIETA",
+       "elegido": "noop",
+       "confianza": {
+        "cuerpo": 0.004393217452519038,
+        "recursos": 0.9998631562632994,
+        "vinculo": 0.9957107701029992
+       }
+      },
+      {
+       "k": "P7_54_aceptada",
+       "tick": 5278,
+       "n": 0,
+       "accion": "QUEDARSE_QUIETA",
+       "elegido": "noop",
+       "confianza": {
+        "cuerpo": 0.0030752522167633266,
+        "recursos": 0.9999042093843096,
+        "vinculo": 0.9969975390720993
+       }
+      },
+      {
+       "k": "P7_54_aceptada",
+       "tick": 5519,
+       "n": 0,
+       "accion": "QUEDARSE_QUIETA",
+       "elegido": "noop",
+       "confianza": {
+        "cuerpo": 0.0021526765517343284,
+        "recursos": 0.9999329465690165,
+        "vinculo": 0.9978982773504694
+       }
+      },
+      {
+       "k": "P7_54_aceptada",
+       "tick": 5760,
+       "n": 0,
+       "accion": "QUEDARSE_QUIETA",
+       "elegido": "noop",
+       "confianza": {
+        "cuerpo": 0.35773836805724485,
+        "recursos": 0.9999530625983115,
+        "vinculo": 0.9985287941453285
+       }
+      },
+      {
+       "k": "P7_54_aceptada",
+       "tick": 6001,
+       "n": 0,
+       "accion": "QUEDARSE_QUIETA",
+       "elegido": "noop",
+       "confianza": {
+        "cuerpo": 0.2504168576400714,
+        "recursos": 0.999967143818818,
+        "vinculo": 0.9989701559017299
+       }
+      },
+      {
+       "k": "P7_54_aceptada",
+       "tick": 6242,
+       "n": 0,
+       "accion": "QUEDARSE_QUIETA",
+       "elegido": "noop",
+       "confianza": {
+        "cuerpo": 0.5740175612635668,
+        "recursos": 0.9999770006731725,
+        "vinculo": 0.9992791091312108
+       }
+      },
+      {
+       "k": "P7_54_aceptada",
+       "tick": 6483,
+       "n": 0,
+       "accion": "QUEDARSE_QUIETA",
+       "elegido": "noop",
+       "confianza": {
+        "cuerpo": 0.40181229288449677,
+        "recursos": 0.9999839004712208,
+        "vinculo": 0.9994953763918475
+       }
+      },
+      {
+       "k": "P7_54_aceptada",
+       "tick": 6724,
+       "n": 0,
+       "accion": "QUEDARSE_QUIETA",
+       "elegido": "noop",
+       "confianza": {
+        "cuerpo": 0.28126860501914774,
+        "recursos": 0.9999887303298545,
+        "vinculo": 0.9996467634742932
+       }
+      },
+      {
+       "k": "P7_54_aceptada",
+       "tick": 6966,
+       "n": 0,
+       "accion": "QUEDARSE_QUIETA",
+       "elegido": "noop",
+       "confianza": {
+        "cuerpo": 0.1968880235134034,
+        "recursos": 0.999992111230898,
+        "vinculo": 0.9997527344320052
+       }
+      },
+      {
+       "k": "P7_54_aceptada",
+       "tick": 7233,
+       "n": 0,
+       "accion": "QUEDARSE_QUIETA",
+       "elegido": "noop",
+       "confianza": {
+        "cuerpo": 0.13782161645938237,
+        "recursos": 0.9999944778616285,
+        "vinculo": 0.9998269141024037
+       }
+      },
+      {
+       "k": "P7_54_aceptada",
+       "tick": 7474,
+       "n": 0,
+       "accion": "QUEDARSE_QUIETA",
+       "elegido": "noop",
+       "confianza": {
+        "cuerpo": 0.09647513152156766,
+        "recursos": 0.9999961345031398,
+        "vinculo": 0.9998788398716825
+       }
+      }
+     ],
+     "evaluadas": [
+      {
+       "k": "P7_54_evaluada",
+       "tick": 492,
+       "n": 0,
+       "accion": "QUEDARSE_QUIETA",
+       "fuente": "ventana de 240 tics",
+       "prometido": {
+        "cuerpo": 2.0,
+        "recursos": 0.0,
+        "vinculo": 0.0
+       },
+       "vivido": {
+        "cuerpo": 0.0,
+        "recursos": 0.014,
+        "vinculo": 0.21
+       },
+       "acierto": {
+        "cuerpo": 0,
+        "recursos": 1,
+        "vinculo": 1
+       },
+       "confianza_antes": {
+        "cuerpo": 0.87995,
+        "recursos": 0.5,
+        "vinculo": 0.5
+       },
+       "confianza_despues": {
+        "cuerpo": 0.615965,
+        "recursos": 0.6499999999999999,
+        "vinculo": 0.6499999999999999
+       }
+      },
+      {
+       "k": "P7_54_evaluada",
+       "tick": 733,
+       "n": 0,
+       "accion": "QUEDARSE_QUIETA",
+       "fuente": "ventana de 240 tics",
+       "prometido": {
+        "cuerpo": 2.0,
+        "recursos": 0.0,
+        "vinculo": 0.0
+       },
+       "vivido": {
+        "cuerpo": 0.0,
+        "recursos": 0.0,
+        "vinculo": 0.083
+       },
+       "acierto": {
+        "cuerpo": 0,
+        "recursos": 1,
+        "vinculo": 1
+       },
+       "confianza_antes": {
+        "cuerpo": 0.615965,
+        "recursos": 0.6499999999999999,
+        "vinculo": 0.6499999999999999
+       },
+       "confianza_despues": {
+        "cuerpo": 0.4311755,
+        "recursos": 0.7549999999999999,
+        "vinculo": 0.7549999999999999
+       }
+      },
+      {
+       "k": "P7_54_evaluada",
+       "tick": 974,
+       "n": 0,
+       "accion": "QUEDARSE_QUIETA",
+       "fuente": "ventana de 240 tics",
+       "prometido": {
+        "cuerpo": 2.0,
+        "recursos": 0.0,
+        "vinculo": 0.0
+       },
+       "vivido": {
+        "cuerpo": 0.0,
+        "recursos": 0.0,
+        "vinculo": 0.083
+       },
+       "acierto": {
+        "cuerpo": 0,
+        "recursos": 1,
+        "vinculo": 1
+       },
+       "confianza_antes": {
+        "cuerpo": 0.4311755,
+        "recursos": 0.7549999999999999,
+        "vinculo": 0.7549999999999999
+       },
+       "confianza_despues": {
+        "cuerpo": 0.30182285,
+        "recursos": 0.8284999999999998,
+        "vinculo": 0.8284999999999998
+       }
+      },
+      {
+       "k": "P7_54_evaluada",
+       "tick": 1215,
+       "n": 0,
+       "accion": "QUEDARSE_QUIETA",
+       "fuente": "ventana de 240 tics",
+       "prometido": {
+        "cuerpo": 2.0,
+        "recursos": 0.0,
+        "vinculo": 0.0
+       },
+       "vivido": {
+        "cuerpo": 0.0,
+        "recursos": -0.0,
+        "vinculo": 0.083
+       },
+       "acierto": {
+        "cuerpo": 0,
+        "recursos": 1,
+        "vinculo": 1
+       },
+       "confianza_antes": {
+        "cuerpo": 0.30182285,
+        "recursos": 0.8284999999999998,
+        "vinculo": 0.8284999999999998
+       },
+       "confianza_despues": {
+        "cuerpo": 0.21127599499999997,
+        "recursos": 0.8799499999999998,
+        "vinculo": 0.8799499999999998
+       }
+      },
+      {
+       "k": "P7_54_evaluada",
+       "tick": 1456,
+       "n": 0,
+       "accion": "QUEDARSE_QUIETA",
+       "fuente": "ventana de 240 tics",
+       "prometido": {
+        "cuerpo": 2.0,
+        "recursos": 0.0,
+        "vinculo": 0.0
+       },
+       "vivido": {
+        "cuerpo": 0.0,
+        "recursos": -0.0,
+        "vinculo": 0.083
+       },
+       "acierto": {
+        "cuerpo": 0,
+        "recursos": 1,
+        "vinculo": 1
+       },
+       "confianza_antes": {
+        "cuerpo": 0.21127599499999997,
+        "recursos": 0.8799499999999998,
+        "vinculo": 0.8799499999999998
+       },
+       "confianza_despues": {
+        "cuerpo": 0.14789319649999996,
+        "recursos": 0.9159649999999997,
+        "vinculo": 0.9159649999999997
+       }
+      },
+      {
+       "k": "P7_54_evaluada",
+       "tick": 1697,
+       "n": 0,
+       "accion": "QUEDARSE_QUIETA",
+       "fuente": "ventana de 240 tics",
+       "prometido": {
+        "cuerpo": 2.0,
+        "recursos": 0.0,
+        "vinculo": 0.0
+       },
+       "vivido": {
+        "cuerpo": 0.0,
+        "recursos": 0.0,
+        "vinculo": 0.003
+       },
+       "acierto": {
+        "cuerpo": 0,
+        "recursos": 1,
+        "vinculo": 1
+       },
+       "confianza_antes": {
+        "cuerpo": 0.14789319649999996,
+        "recursos": 0.9159649999999997,
+        "vinculo": 0.9159649999999997
+       },
+       "confianza_despues": {
+        "cuerpo": 0.10352523754999997,
+        "recursos": 0.9411754999999997,
+        "vinculo": 0.9411754999999997
+       }
+      },
+      {
+       "k": "P7_54_evaluada",
+       "tick": 1939,
+       "n": 0,
+       "accion": "QUEDARSE_QUIETA",
+       "fuente": "ventana de 240 tics",
+       "prometido": {
+        "cuerpo": 2.0,
+        "recursos": 0.0,
+        "vinculo": 0.0
+       },
+       "vivido": {
+        "cuerpo": 0.0,
+        "recursos": 0.0,
+        "vinculo": 0.0
+       },
+       "acierto": {
+        "cuerpo": 0,
+        "recursos": 1,
+        "vinculo": 1
+       },
+       "confianza_antes": {
+        "cuerpo": 0.10352523754999997,
+        "recursos": 0.9411754999999997,
+        "vinculo": 0.9411754999999997
+       },
+       "confianza_despues": {
+        "cuerpo": 0.07246766628499997,
+        "recursos": 0.9588228499999998,
+        "vinculo": 0.9588228499999998
+       }
+      },
+      {
+       "k": "P7_54_evaluada",
+       "tick": 2180,
+       "n": 0,
+       "accion": "QUEDARSE_QUIETA",
+       "fuente": "ventana de 240 tics",
+       "prometido": {
+        "cuerpo": 2.0,
+        "recursos": 0.0,
+        "vinculo": 0.0
+       },
+       "vivido": {
+        "cuerpo": 0.0,
+        "recursos": 0.0,
+        "vinculo": 0.0
+       },
+       "acierto": {
+        "cuerpo": 0,
+        "recursos": 1,
+        "vinculo": 1
+       },
+       "confianza_antes": {
+        "cuerpo": 0.07246766628499997,
+        "recursos": 0.9588228499999998,
+        "vinculo": 0.9588228499999998
+       },
+       "confianza_despues": {
+        "cuerpo": 0.05072736639949998,
+        "recursos": 0.9711759949999998,
+        "vinculo": 0.9711759949999998
+       }
+      },
+      {
+       "k": "P7_54_evaluada",
+       "tick": 2471,
+       "n": 0,
+       "accion": "QUEDARSE_QUIETA",
+       "fuente": "ventana de 240 tics",
+       "prometido": {
+        "cuerpo": 2.0,
+        "recursos": 0.0,
+        "vinculo": 0.0
+       },
+       "vivido": {
+        "cuerpo": 0.0,
+        "recursos": 0.001,
+        "vinculo": 0.0
+       },
+       "acierto": {
+        "cuerpo": 0,
+        "recursos": 1,
+        "vinculo": 1
+       },
+       "confianza_antes": {
+        "cuerpo": 0.05072736639949998,
+        "recursos": 0.9711759949999998,
+        "vinculo": 0.9711759949999998
+       },
+       "confianza_despues": {
+        "cuerpo": 0.03550915647964998,
+        "recursos": 0.9798231964999999,
+        "vinculo": 0.9798231964999999
+       }
+      },
+      {
+       "k": "P7_54_evaluada",
+       "tick": 2735,
+       "n": 0,
+       "accion": "QUEDARSE_QUIETA",
+       "fuente": "ventana de 240 tics",
+       "prometido": {
+        "cuerpo": 2.0,
+        "recursos": 0.0,
+        "vinculo": 0.0
+       },
+       "vivido": {
+        "cuerpo": 0.0,
+        "recursos": -0.0,
+        "vinculo": 0.0
+       },
+       "acierto": {
+        "cuerpo": 0,
+        "recursos": 1,
+        "vinculo": 1
+       },
+       "confianza_antes": {
+        "cuerpo": 0.03550915647964998,
+        "recursos": 0.9798231964999999,
+        "vinculo": 0.9798231964999999
+       },
+       "confianza_despues": {
+        "cuerpo": 0.024856409535754985,
+        "recursos": 0.9858762375499999,
+        "vinculo": 0.9858762375499999
+       }
+      },
+      {
+       "k": "P7_54_evaluada",
+       "tick": 2745,
+       "n": 4,
+       "accion": "ACERCARSE_HERMANA",
+       "fuente": "ventana de 240 tics",
+       "prometido": {
+        "cuerpo": 0.0,
+        "recursos": 0.0,
+        "vinculo": 0.1
+       },
+       "vivido": {
+        "cuerpo": 0.0,
+        "recursos": -0.0,
+        "vinculo": 0.0
+       },
+       "acierto": {
+        "cuerpo": 1,
+        "recursos": 1,
+        "vinculo": 0
+       },
+       "confianza_antes": {
+        "cuerpo": 0.024856409535754985,
+        "recursos": 0.9858762375499999,
+        "vinculo": 0.9858762375499999
+       },
+       "confianza_despues": {
+        "cuerpo": 0.3173994866750285,
+        "recursos": 0.9901133662849999,
+        "vinculo": 0.6901133662849999
+       }
+      },
+      {
+       "k": "P7_54_evaluada",
+       "tick": 2977,
+       "n": 0,
+       "accion": "QUEDARSE_QUIETA",
+       "fuente": "ventana de 240 tics",
+       "prometido": {
+        "cuerpo": 2.0,
+        "recursos": 0.0,
+        "vinculo": 0.0
+       },
+       "vivido": {
+        "cuerpo": 0.0,
+        "recursos": -0.002,
+        "vinculo": 0.0
+       },
+       "acierto": {
+        "cuerpo": 0,
+        "recursos": 1,
+        "vinculo": 1
+       },
+       "confianza_antes": {
+        "cuerpo": 0.3173994866750285,
+        "recursos": 0.9901133662849999,
+        "vinculo": 0.6901133662849999
+       },
+       "confianza_despues": {
+        "cuerpo": 0.2221796406725199,
+        "recursos": 0.9930793563995,
+        "vinculo": 0.7830793563994999
+       }
+      },
+      {
+       "k": "P7_54_evaluada",
+       "tick": 3230,
+       "n": 0,
+       "accion": "QUEDARSE_QUIETA",
+       "fuente": "ventana de 240 tics",
+       "prometido": {
+        "cuerpo": 2.0,
+        "recursos": 0.0,
+        "vinculo": 0.0
+       },
+       "vivido": {
+        "cuerpo": 0.0,
+        "recursos": -0.0,
+        "vinculo": 0.0
+       },
+       "acierto": {
+        "cuerpo": 0,
+        "recursos": 1,
+        "vinculo": 1
+       },
+       "confianza_antes": {
+        "cuerpo": 0.2221796406725199,
+        "recursos": 0.9930793563995,
+        "vinculo": 0.7830793563994999
+       },
+       "confianza_despues": {
+        "cuerpo": 0.15552574847076392,
+        "recursos": 0.99515554947965,
+        "vinculo": 0.8481555494796498
+       }
+      },
+      {
+       "k": "P7_54_evaluada",
+       "tick": 3238,
+       "n": 2,
+       "accion": "COGER_RACION",
+       "fuente": "sin huella (480 tics)",
+       "prometido": {
+        "cuerpo": 4.0,
+        "recursos": 0.0,
+        "vinculo": 0.0
+       },
+       "vivido": {
+        "cuerpo": 0.0,
+        "recursos": 0.0,
+        "vinculo": 0.0
+       },
+       "acierto": {
+        "cuerpo": 0,
+        "recursos": 1,
+        "vinculo": 1
+       },
+       "confianza_antes": {
+        "cuerpo": 0.15552574847076392,
+        "recursos": 0.99515554947965,
+        "vinculo": 0.8481555494796498
+       },
+       "confianza_despues": {
+        "cuerpo": 0.10886802392953474,
+        "recursos": 0.996608884635755,
+        "vinculo": 0.8937088846357548
+       }
+      },
+      {
+       "k": "P7_54_evaluada",
+       "tick": 3472,
+       "n": 0,
+       "accion": "QUEDARSE_QUIETA",
+       "fuente": "ventana de 240 tics",
+       "prometido": {
+        "cuerpo": 2.0,
+        "recursos": 0.0,
+        "vinculo": 0.0
+       },
+       "vivido": {
+        "cuerpo": 0.0,
+        "recursos": 0.0,
+        "vinculo": 0.0
+       },
+       "acierto": {
+        "cuerpo": 0,
+        "recursos": 1,
+        "vinculo": 1
+       },
+       "confianza_antes": {
+        "cuerpo": 0.10886802392953474,
+        "recursos": 0.996608884635755,
+        "vinculo": 0.8937088846357548
+       },
+       "confianza_despues": {
+        "cuerpo": 0.0762076167506743,
+        "recursos": 0.9976262192450285,
+        "vinculo": 0.9255962192450282
+       }
+      },
+      {
+       "k": "P7_54_evaluada",
+       "tick": 3736,
+       "n": 0,
+       "accion": "QUEDARSE_QUIETA",
+       "fuente": "ventana de 240 tics",
+       "prometido": {
+        "cuerpo": 2.0,
+        "recursos": 0.0,
+        "vinculo": 0.0
+       },
+       "vivido": {
+        "cuerpo": 0.0,
+        "recursos": -0.0,
+        "vinculo": 0.0
+       },
+       "acierto": {
+        "cuerpo": 0,
+        "recursos": 1,
+        "vinculo": 1
+       },
+       "confianza_antes": {
+        "cuerpo": 0.0762076167506743,
+        "recursos": 0.9976262192450285,
+        "vinculo": 0.9255962192450282
+       },
+       "confianza_despues": {
+        "cuerpo": 0.05334533172547201,
+        "recursos": 0.9983383534715198,
+        "vinculo": 0.9479173534715197
+       }
+      },
+      {
+       "k": "P7_54_evaluada",
+       "tick": 3766,
+       "n": 2,
+       "accion": "COGER_RACION",
+       "fuente": "sin huella (480 tics)",
+       "prometido": {
+        "cuerpo": 4.0,
+        "recursos": 0.0,
+        "vinculo": 0.0
+       },
+       "vivido": {
+        "cuerpo": 0.0,
+        "recursos": -0.003,
+        "vinculo": 0.0
+       },
+       "acierto": {
+        "cuerpo": 0,
+        "recursos": 1,
+        "vinculo": 1
+       },
+       "confianza_antes": {
+        "cuerpo": 0.05334533172547201,
+        "recursos": 0.9983383534715198,
+        "vinculo": 0.9479173534715197
+       },
+       "confianza_despues": {
+        "cuerpo": 0.03734173220783041,
+        "recursos": 0.9988368474300637,
+        "vinculo": 0.9635421474300638
+       }
+      },
+      {
+       "k": "P7_54_evaluada",
+       "tick": 4047,
+       "n": 0,
+       "accion": "QUEDARSE_QUIETA",
+       "fuente": "ventana de 240 tics",
+       "prometido": {
+        "cuerpo": 2.0,
+        "recursos": 0.0,
+        "vinculo": 0.0
+       },
+       "vivido": {
+        "cuerpo": 0.0,
+        "recursos": 0.001,
+        "vinculo": 0.0
+       },
+       "acierto": {
+        "cuerpo": 0,
+        "recursos": 1,
+        "vinculo": 1
+       },
+       "confianza_antes": {
+        "cuerpo": 0.03734173220783041,
+        "recursos": 0.9988368474300637,
+        "vinculo": 0.9635421474300638
+       },
+       "confianza_despues": {
+        "cuerpo": 0.026139212545481284,
+        "recursos": 0.9991857932010446,
+        "vinculo": 0.9744795032010447
+       }
+      },
+      {
+       "k": "P7_54_evaluada",
+       "tick": 4288,
+       "n": 0,
+       "accion": "QUEDARSE_QUIETA",
+       "fuente": "ventana de 240 tics",
+       "prometido": {
+        "cuerpo": 2.0,
+        "recursos": 0.0,
+        "vinculo": 0.0
+       },
+       "vivido": {
+        "cuerpo": 0.0,
+        "recursos": 0.001,
+        "vinculo": 0.0
+       },
+       "acierto": {
+        "cuerpo": 0,
+        "recursos": 1,
+        "vinculo": 1
+       },
+       "confianza_antes": {
+        "cuerpo": 0.026139212545481284,
+        "recursos": 0.9991857932010446,
+        "vinculo": 0.9744795032010447
+       },
+       "confianza_despues": {
+        "cuerpo": 0.018297448781836898,
+        "recursos": 0.9994300552407311,
+        "vinculo": 0.9821356522407312
+       }
+      },
+      {
+       "k": "P7_54_evaluada",
+       "tick": 4448,
+       "n": 2,
+       "accion": "COGER_RACION",
+       "fuente": "sin huella (480 tics)",
+       "prometido": {
+        "cuerpo": 4.0,
+        "recursos": 0.0,
+        "vinculo": 0.0
+       },
+       "vivido": {
+        "cuerpo": 0.0,
+        "recursos": 0.002,
+        "vinculo": 0.0
+       },
+       "acierto": {
+        "cuerpo": 0,
+        "recursos": 1,
+        "vinculo": 1
+       },
+       "confianza_antes": {
+        "cuerpo": 0.018297448781836898,
+        "recursos": 0.9994300552407311,
+        "vinculo": 0.9821356522407312
+       },
+       "confianza_despues": {
+        "cuerpo": 0.012808214147285828,
+        "recursos": 0.9996010386685117,
+        "vinculo": 0.9874949565685118
+       }
+      },
+      {
+       "k": "P7_54_evaluada",
+       "tick": 4529,
+       "n": 0,
+       "accion": "QUEDARSE_QUIETA",
+       "fuente": "ventana de 240 tics",
+       "prometido": {
+        "cuerpo": 2.0,
+        "recursos": 0.0,
+        "vinculo": 0.0
+       },
+       "vivido": {
+        "cuerpo": 0.0,
+        "recursos": -0.0,
+        "vinculo": 0.0
+       },
+       "acierto": {
+        "cuerpo": 0,
+        "recursos": 1,
+        "vinculo": 1
+       },
+       "confianza_antes": {
+        "cuerpo": 0.012808214147285828,
+        "recursos": 0.9996010386685117,
+        "vinculo": 0.9874949565685118
+       },
+       "confianza_despues": {
+        "cuerpo": 0.00896574990310008,
+        "recursos": 0.9997207270679582,
+        "vinculo": 0.9912464695979581
+       }
+      },
+      {
+       "k": "P7_54_evaluada",
+       "tick": 4770,
+       "n": 0,
+       "accion": "QUEDARSE_QUIETA",
+       "fuente": "ventana de 240 tics",
+       "prometido": {
+        "cuerpo": 2.0,
+        "recursos": 0.0,
+        "vinculo": 0.0
+       },
+       "vivido": {
+        "cuerpo": 0.0,
+        "recursos": 0.186,
+        "vinculo": 0.0
+       },
+       "acierto": {
+        "cuerpo": 0,
+        "recursos": 1,
+        "vinculo": 1
+       },
+       "confianza_antes": {
+        "cuerpo": 0.00896574990310008,
+        "recursos": 0.9997207270679582,
+        "vinculo": 0.9912464695979581
+       },
+       "confianza_despues": {
+        "cuerpo": 0.006276024932170055,
+        "recursos": 0.9998045089475707,
+        "vinculo": 0.9938725287185706
+       }
+      },
+      {
+       "k": "P7_54_evaluada",
+       "tick": 5035,
+       "n": 0,
+       "accion": "QUEDARSE_QUIETA",
+       "fuente": "ventana de 240 tics",
+       "prometido": {
+        "cuerpo": 2.0,
+        "recursos": 0.0,
+        "vinculo": 0.0
+       },
+       "vivido": {
+        "cuerpo": 0.0,
+        "recursos": 0.0,
+        "vinculo": 0.0
+       },
+       "acierto": {
+        "cuerpo": 0,
+        "recursos": 1,
+        "vinculo": 1
+       },
+       "confianza_antes": {
+        "cuerpo": 0.006276024932170055,
+        "recursos": 0.9998045089475707,
+        "vinculo": 0.9938725287185706
+       },
+       "confianza_despues": {
+        "cuerpo": 0.004393217452519038,
+        "recursos": 0.9998631562632994,
+        "vinculo": 0.9957107701029992
+       }
+      },
+      {
+       "k": "P7_54_evaluada",
+       "tick": 5277,
+       "n": 0,
+       "accion": "QUEDARSE_QUIETA",
+       "fuente": "ventana de 240 tics",
+       "prometido": {
+        "cuerpo": 2.0,
+        "recursos": 0.0,
+        "vinculo": 0.0
+       },
+       "vivido": {
+        "cuerpo": 0.0,
+        "recursos": -0.0,
+        "vinculo": 0.0
+       },
+       "acierto": {
+        "cuerpo": 0,
+        "recursos": 1,
+        "vinculo": 1
+       },
+       "confianza_antes": {
+        "cuerpo": 0.004393217452519038,
+        "recursos": 0.9998631562632994,
+        "vinculo": 0.9957107701029992
+       },
+       "confianza_despues": {
+        "cuerpo": 0.0030752522167633266,
+        "recursos": 0.9999042093843096,
+        "vinculo": 0.9969975390720993
+       }
+      },
+      {
+       "k": "P7_54_evaluada",
+       "tick": 5518,
+       "n": 0,
+       "accion": "QUEDARSE_QUIETA",
+       "fuente": "ventana de 240 tics",
+       "prometido": {
+        "cuerpo": 2.0,
+        "recursos": 0.0,
+        "vinculo": 0.0
+       },
+       "vivido": {
+        "cuerpo": 0.0,
+        "recursos": 0.0,
+        "vinculo": 0.0
+       },
+       "acierto": {
+        "cuerpo": 0,
+        "recursos": 1,
+        "vinculo": 1
+       },
+       "confianza_antes": {
+        "cuerpo": 0.0030752522167633266,
+        "recursos": 0.9999042093843096,
+        "vinculo": 0.9969975390720993
+       },
+       "confianza_despues": {
+        "cuerpo": 0.0021526765517343284,
+        "recursos": 0.9999329465690165,
+        "vinculo": 0.9978982773504694
+       }
+      },
+      {
+       "k": "P7_54_evaluada",
+       "tick": 5759,
+       "n": 0,
+       "accion": "QUEDARSE_QUIETA",
+       "fuente": "ventana de 240 tics",
+       "prometido": {
+        "cuerpo": 2.0,
+        "recursos": 0.0,
+        "vinculo": 0.0
+       },
+       "vivido": {
+        "cuerpo": 0.0,
+        "recursos": -0.044,
+        "vinculo": 0.0
+       },
+       "acierto": {
+        "cuerpo": 0,
+        "recursos": 1,
+        "vinculo": 1
+       },
+       "confianza_antes": {
+        "cuerpo": 0.5110548115103498,
+        "recursos": 0.9999329465690165,
+        "vinculo": 0.9978982773504694
+       },
+       "confianza_despues": {
+        "cuerpo": 0.35773836805724485,
+        "recursos": 0.9999530625983115,
+        "vinculo": 0.9985287941453285
+       }
+      },
+      {
+       "k": "P7_54_evaluada",
+       "tick": 6000,
+       "n": 0,
+       "accion": "QUEDARSE_QUIETA",
+       "fuente": "ventana de 240 tics",
+       "prometido": {
+        "cuerpo": 2.0,
+        "recursos": 0.0,
+        "vinculo": 0.0
+       },
+       "vivido": {
+        "cuerpo": 0.0,
+        "recursos": 0.001,
+        "vinculo": 0.0
+       },
+       "acierto": {
+        "cuerpo": 0,
+        "recursos": 1,
+        "vinculo": 1
+       },
+       "confianza_antes": {
+        "cuerpo": 0.35773836805724485,
+        "recursos": 0.9999530625983115,
+        "vinculo": 0.9985287941453285
+       },
+       "confianza_despues": {
+        "cuerpo": 0.2504168576400714,
+        "recursos": 0.999967143818818,
+        "vinculo": 0.9989701559017299
+       }
+      },
+      {
+       "k": "P7_54_evaluada",
+       "tick": 6241,
+       "n": 0,
+       "accion": "QUEDARSE_QUIETA",
+       "fuente": "ventana de 240 tics",
+       "prometido": {
+        "cuerpo": 2.0,
+        "recursos": 0.0,
+        "vinculo": 0.0
+       },
+       "vivido": {
+        "cuerpo": 0.0,
+        "recursos": 0.157,
+        "vinculo": 0.0
+       },
+       "acierto": {
+        "cuerpo": 0,
+        "recursos": 1,
+        "vinculo": 1
+       },
+       "confianza_antes": {
+        "cuerpo": 0.8200250875193812,
+        "recursos": 0.999967143818818,
+        "vinculo": 0.9989701559017299
+       },
+       "confianza_despues": {
+        "cuerpo": 0.5740175612635668,
+        "recursos": 0.9999770006731725,
+        "vinculo": 0.9992791091312108
+       }
+      },
+      {
+       "k": "P7_54_evaluada",
+       "tick": 6482,
+       "n": 0,
+       "accion": "QUEDARSE_QUIETA",
+       "fuente": "ventana de 240 tics",
+       "prometido": {
+        "cuerpo": 2.0,
+        "recursos": 0.0,
+        "vinculo": 0.0
+       },
+       "vivido": {
+        "cuerpo": 0.0,
+        "recursos": -0.001,
+        "vinculo": 0.0
+       },
+       "acierto": {
+        "cuerpo": 0,
+        "recursos": 1,
+        "vinculo": 1
+       },
+       "confianza_antes": {
+        "cuerpo": 0.5740175612635668,
+        "recursos": 0.9999770006731725,
+        "vinculo": 0.9992791091312108
+       },
+       "confianza_despues": {
+        "cuerpo": 0.40181229288449677,
+        "recursos": 0.9999839004712208,
+        "vinculo": 0.9994953763918475
+       }
+      },
+      {
+       "k": "P7_54_evaluada",
+       "tick": 6723,
+       "n": 0,
+       "accion": "QUEDARSE_QUIETA",
+       "fuente": "ventana de 240 tics",
+       "prometido": {
+        "cuerpo": 2.0,
+        "recursos": 0.0,
+        "vinculo": 0.0
+       },
+       "vivido": {
+        "cuerpo": 0.0,
+        "recursos": 0.001,
+        "vinculo": 0.0
+       },
+       "acierto": {
+        "cuerpo": 0,
+        "recursos": 1,
+        "vinculo": 1
+       },
+       "confianza_antes": {
+        "cuerpo": 0.40181229288449677,
+        "recursos": 0.9999839004712208,
+        "vinculo": 0.9994953763918475
+       },
+       "confianza_despues": {
+        "cuerpo": 0.28126860501914774,
+        "recursos": 0.9999887303298545,
+        "vinculo": 0.9996467634742932
+       }
+      },
+      {
+       "k": "P7_54_evaluada",
+       "tick": 6964,
+       "n": 0,
+       "accion": "QUEDARSE_QUIETA",
+       "fuente": "ventana de 240 tics",
+       "prometido": {
+        "cuerpo": 2.0,
+        "recursos": 0.0,
+        "vinculo": 0.0
+       },
+       "vivido": {
+        "cuerpo": 0.0,
+        "recursos": 0.019,
+        "vinculo": 0.0
+       },
+       "acierto": {
+        "cuerpo": 0,
+        "recursos": 1,
+        "vinculo": 1
+       },
+       "confianza_antes": {
+        "cuerpo": 0.28126860501914774,
+        "recursos": 0.9999887303298545,
+        "vinculo": 0.9996467634742932
+       },
+       "confianza_despues": {
+        "cuerpo": 0.1968880235134034,
+        "recursos": 0.999992111230898,
+        "vinculo": 0.9997527344320052
+       }
+      },
+      {
+       "k": "P7_54_evaluada",
+       "tick": 7206,
+       "n": 0,
+       "accion": "QUEDARSE_QUIETA",
+       "fuente": "ventana de 240 tics",
+       "prometido": {
+        "cuerpo": 2.0,
+        "recursos": 0.0,
+        "vinculo": 0.0
+       },
+       "vivido": {
+        "cuerpo": 0.0,
+        "recursos": -0.033,
+        "vinculo": 0.0
+       },
+       "acierto": {
+        "cuerpo": 0,
+        "recursos": 1,
+        "vinculo": 1
+       },
+       "confianza_antes": {
+        "cuerpo": 0.1968880235134034,
+        "recursos": 0.999992111230898,
+        "vinculo": 0.9997527344320052
+       },
+       "confianza_despues": {
+        "cuerpo": 0.13782161645938237,
+        "recursos": 0.9999944778616285,
+        "vinculo": 0.9998269141024037
+       }
+      },
+      {
+       "k": "P7_54_evaluada",
+       "tick": 7473,
+       "n": 0,
+       "accion": "QUEDARSE_QUIETA",
+       "fuente": "ventana de 240 tics",
+       "prometido": {
+        "cuerpo": 2.0,
+        "recursos": 0.0,
+        "vinculo": 0.0
+       },
+       "vivido": {
+        "cuerpo": -79.0,
+        "recursos": -0.287,
+        "vinculo": 0.0
+       },
+       "acierto": {
+        "cuerpo": 0,
+        "recursos": 1,
+        "vinculo": 1
+       },
+       "confianza_antes": {
+        "cuerpo": 0.13782161645938237,
+        "recursos": 0.9999944778616285,
+        "vinculo": 0.9998269141024037
+       },
+       "confianza_despues": {
+        "cuerpo": 0.09647513152156766,
+        "recursos": 0.9999961345031398,
+        "vinculo": 0.9998788398716825
+       }
+      }
+     ],
+     "contrastes": [
+      {
+       "k": "P7_57_contraste",
+       "tick": 241,
+       "objeto": "rations",
+       "origen": "contado",
+       "via": "canal",
+       "efecto_contado": 4.0,
+       "peso": 2.0,
+       "invitacion": 2,
+       "accion": "COGER_RACION",
+       "falsa": false,
+       "promesa": 4.0,
+       "acierto": 1,
+       "eta": 0.3,
+       "confianza_antes": 0.5,
+       "confianza_despues": 0.65
+      },
+      {
+       "k": "P7_57_contraste",
+       "tick": 241,
+       "objeto": "rations",
+       "origen": "contado",
+       "via": "canal",
+       "efecto_contado": 4.0,
+       "peso": 2.0,
+       "invitacion": 3,
+       "accion": "USAR_RACION",
+       "falsa": false,
+       "promesa": 4.0,
+       "acierto": 1,
+       "eta": 0.3,
+       "confianza_antes": 0.65,
+       "confianza_despues": 0.755
+      },
+      {
+       "k": "P7_57_contraste",
+       "tick": 241,
+       "objeto": "rations",
+       "origen": "contado",
+       "via": "noche",
+       "efecto_contado": 14.92,
+       "peso": 2.663,
+       "invitacion": 2,
+       "accion": "COGER_RACION",
+       "falsa": false,
+       "promesa": 4.0,
+       "acierto": 1,
+       "eta": 0.3,
+       "confianza_antes": 0.755,
+       "confianza_despues": 0.8285
+      },
+      {
+       "k": "P7_57_contraste",
+       "tick": 241,
+       "objeto": "rations",
+       "origen": "contado",
+       "via": "noche",
+       "efecto_contado": 14.92,
+       "peso": 2.663,
+       "invitacion": 3,
+       "accion": "USAR_RACION",
+       "falsa": false,
+       "promesa": 4.0,
+       "acierto": 1,
+       "eta": 0.3,
+       "confianza_antes": 0.8285,
+       "confianza_despues": 0.88
+      },
+      {
+       "k": "P7_57_contraste",
+       "tick": 5743,
+       "objeto": "rations",
+       "origen": "contado",
+       "via": "canal",
+       "efecto_contado": 7.0,
+       "peso": 1.478,
+       "invitacion": 2,
+       "accion": "COGER_RACION",
+       "falsa": false,
+       "promesa": 4.0,
+       "acierto": 1,
+       "eta": 0.3,
+       "confianza_antes": 0.0022,
+       "confianza_despues": 0.3015
+      },
+      {
+       "k": "P7_57_contraste",
+       "tick": 5743,
+       "objeto": "rations",
+       "origen": "contado",
+       "via": "canal",
+       "efecto_contado": 7.0,
+       "peso": 1.478,
+       "invitacion": 3,
+       "accion": "USAR_RACION",
+       "falsa": false,
+       "promesa": 4.0,
+       "acierto": 1,
+       "eta": 0.3,
+       "confianza_antes": 0.3015,
+       "confianza_despues": 0.5111
+      },
+      {
+       "k": "P7_57_contraste",
+       "tick": 6068,
+       "objeto": "rations",
+       "origen": "contado",
+       "via": "canal",
+       "efecto_contado": 13.56,
+       "peso": 2.558,
+       "invitacion": 2,
+       "accion": "COGER_RACION",
+       "falsa": false,
+       "promesa": 4.0,
+       "acierto": 1,
+       "eta": 0.3,
+       "confianza_antes": 0.2504,
+       "confianza_despues": 0.4753
+      },
+      {
+       "k": "P7_57_contraste",
+       "tick": 6068,
+       "objeto": "rations",
+       "origen": "contado",
+       "via": "canal",
+       "efecto_contado": 13.56,
+       "peso": 2.558,
+       "invitacion": 3,
+       "accion": "USAR_RACION",
+       "falsa": false,
+       "promesa": 4.0,
+       "acierto": 1,
+       "eta": 0.3,
+       "confianza_antes": 0.4753,
+       "confianza_despues": 0.6327
+      },
+      {
+       "k": "P7_57_contraste",
+       "tick": 6118,
+       "objeto": "rations",
+       "origen": "contado",
+       "via": "canal",
+       "efecto_contado": 13.56,
+       "peso": 1.516,
+       "invitacion": 2,
+       "accion": "COGER_RACION",
+       "falsa": false,
+       "promesa": 4.0,
+       "acierto": 1,
+       "eta": 0.3,
+       "confianza_antes": 0.6327,
+       "confianza_despues": 0.7429
+      },
+      {
+       "k": "P7_57_contraste",
+       "tick": 6118,
+       "objeto": "rations",
+       "origen": "contado",
+       "via": "canal",
+       "efecto_contado": 13.56,
+       "peso": 1.516,
+       "invitacion": 3,
+       "accion": "USAR_RACION",
+       "falsa": false,
+       "promesa": 4.0,
+       "acierto": 1,
+       "eta": 0.3,
+       "confianza_antes": 0.7429,
+       "confianza_despues": 0.82
+      }
+     ],
+     "cierre": {
+      "k": "P7_57_cierre",
+      "contrastes": 10,
+      "confianza": {
+       "cuerpo": 0.09647513152156766,
+       "recursos": 0.9999961345031398,
+       "vinculo": 0.9998788398716825
+      }
+     }
+    }
+   },
+   "13": {
+    "tics": 7200,
+    "t_ult": 7440,
+    "murio": true,
+    "ms_mediana": 2.8514999999999997,
+    "ms_p95": 9.463,
+    "sobre_tic_pct": 0.0,
+    "bloqueados_pct": 0.3401360544217687,
+    "huellas": 8,
+    "huellas_por_objeto": {
+     "botiquin": 5,
+     "racion": 3,
+     "red": 0,
+     "camuflaje": 0
+    },
+    "huellas_corte": 4,
+    "forzadas": 0,
+    "no_cabe_objeto_ya_no_esta": 0,
+    "forzadas_por_tipo": {
+     "ir": 0,
+     "usar": 0
+    },
+    "fines": {},
+    "vias": {
+     "recoger": 0,
+     "hacer_sitio": 0,
+     "coger_puesto": 0
+    },
+    "piezas": null,
+    "brazo": null,
+    "P7_57": {
+     "arranque": {
+      "k": "P7_57_arranque",
+      "slot": 13,
+      "invitaciones": 5,
+      "falsas": 0,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     },
+     "aceptadas": [],
+     "evaluadas": [],
+     "contrastes": [
+      {
+       "k": "P7_57_contraste",
+       "tick": 7318,
+       "objeto": "first_aid",
+       "origen": "contado",
+       "via": "canal",
+       "efecto_contado": 20.0,
+       "peso": 2.0,
+       "invitacion": 3,
+       "accion": "USAR_BOTIQUIN",
+       "falsa": false,
+       "promesa": 10.0,
+       "acierto": 1,
+       "eta": 0.3,
+       "confianza_antes": 0.5,
+       "confianza_despues": 0.65
+      }
+     ],
+     "cierre": {
+      "k": "P7_57_cierre",
+      "contrastes": 1,
+      "confianza": {
+       "cuerpo": 0.65,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     }
+    }
+   },
+   "14": {
+    "tics": 7176,
+    "t_ult": 7416,
+    "murio": true,
+    "ms_mediana": 2.652,
+    "ms_p95": 9.398,
+    "sobre_tic_pct": 0.013935340022296544,
+    "bloqueados_pct": 7.493540051679586,
+    "huellas": 2,
+    "huellas_por_objeto": {
+     "botiquin": 0,
+     "racion": 1,
+     "red": 1,
+     "camuflaje": 0
+    },
+    "huellas_corte": 0,
+    "forzadas": 0,
+    "no_cabe_objeto_ya_no_esta": 0,
+    "forzadas_por_tipo": {
+     "ir": 0,
+     "usar": 0
+    },
+    "fines": {},
+    "vias": {
+     "recoger": 0,
+     "hacer_sitio": 0,
+     "coger_puesto": 0
+    },
+    "piezas": null,
+    "brazo": null,
+    "P7_57": {
+     "arranque": {
+      "k": "P7_57_arranque",
+      "slot": 14,
+      "invitaciones": 0,
+      "falsas": 0,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     },
+     "aceptadas": [],
+     "evaluadas": [],
+     "contrastes": [],
+     "cierre": {
+      "k": "P7_57_cierre",
+      "contrastes": 0,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     }
+    }
+   },
+   "15": {
+    "tics": 7296,
+    "t_ult": 7536,
+    "murio": true,
+    "ms_mediana": 2.847,
+    "ms_p95": 9.566,
+    "sobre_tic_pct": 0.013706140350877192,
+    "bloqueados_pct": 16.213389121338913,
+    "huellas": 0,
+    "huellas_por_objeto": {
+     "botiquin": 0,
+     "racion": 0,
+     "red": 0,
+     "camuflaje": 0
+    },
+    "huellas_corte": 0,
+    "forzadas": 0,
+    "no_cabe_objeto_ya_no_esta": 0,
+    "forzadas_por_tipo": {
+     "ir": 0,
+     "usar": 0
+    },
+    "fines": {},
+    "vias": {
+     "recoger": 0,
+     "hacer_sitio": 0,
+     "coger_puesto": 0
+    },
+    "piezas": null,
+    "brazo": null,
+    "P7_57": {
+     "arranque": {
+      "k": "P7_57_arranque",
+      "slot": 15,
+      "invitaciones": 0,
+      "falsas": 0,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     },
+     "aceptadas": [],
+     "evaluadas": [],
+     "contrastes": [],
+     "cierre": {
+      "k": "P7_57_cierre",
+      "contrastes": 0,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     }
+    }
+   },
+   "2": {
+    "tics": 7368,
+    "t_ult": 7608,
+    "murio": true,
+    "ms_mediana": 3.0285,
+    "ms_p95": 11.019,
+    "sobre_tic_pct": 0.0,
+    "bloqueados_pct": 9.908536585365853,
+    "huellas": 2,
+    "huellas_por_objeto": {
+     "botiquin": 1,
+     "racion": 0,
+     "red": 1,
+     "camuflaje": 0
+    },
+    "huellas_corte": 1,
+    "forzadas": 0,
+    "no_cabe_objeto_ya_no_esta": 0,
+    "forzadas_por_tipo": {
+     "ir": 0,
+     "usar": 0
+    },
+    "fines": {},
+    "vias": {
+     "recoger": 0,
+     "hacer_sitio": 0,
+     "coger_puesto": 0
+    },
+    "piezas": null,
+    "brazo": null,
+    "P7_57": {
+     "arranque": {
+      "k": "P7_57_arranque",
+      "slot": 2,
+      "invitaciones": 0,
+      "falsas": 0,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     },
+     "aceptadas": [],
+     "evaluadas": [],
+     "contrastes": [],
+     "cierre": {
+      "k": "P7_57_cierre",
+      "contrastes": 0,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     }
+    }
+   },
+   "3": {
+    "tics": 7344,
+    "t_ult": 7584,
+    "murio": true,
+    "ms_mediana": 1.874,
+    "ms_p95": 10.251,
+    "sobre_tic_pct": 0.0,
+    "bloqueados_pct": 15.640096618357488,
+    "huellas": 7,
+    "huellas_por_objeto": {
+     "botiquin": 2,
+     "racion": 4,
+     "red": 0,
+     "camuflaje": 1
+    },
+    "huellas_corte": 2,
+    "forzadas": 0,
+    "no_cabe_objeto_ya_no_esta": 0,
+    "forzadas_por_tipo": {
+     "ir": 0,
+     "usar": 0
+    },
+    "fines": {},
+    "vias": {
+     "recoger": 0,
+     "hacer_sitio": 0,
+     "coger_puesto": 0
+    },
+    "piezas": null,
+    "brazo": null,
+    "P7_57": {
+     "arranque": {
+      "k": "P7_57_arranque",
+      "slot": 3,
+      "invitaciones": 0,
+      "falsas": 0,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     },
+     "aceptadas": [],
+     "evaluadas": [],
+     "contrastes": [],
+     "cierre": {
+      "k": "P7_57_cierre",
+      "contrastes": 0,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     }
+    }
+   },
+   "4": {
+    "tics": 7272,
+    "t_ult": 7512,
+    "murio": true,
+    "ms_mediana": 3.673,
+    "ms_p95": 10.769,
+    "sobre_tic_pct": 0.041254125412541254,
+    "bloqueados_pct": 1.5835777126099706,
+    "huellas": 2,
+    "huellas_por_objeto": {
+     "botiquin": 1,
+     "racion": 1,
+     "red": 0,
+     "camuflaje": 0
+    },
+    "huellas_corte": 0,
+    "forzadas": 0,
+    "no_cabe_objeto_ya_no_esta": 0,
+    "forzadas_por_tipo": {
+     "ir": 0,
+     "usar": 0
+    },
+    "fines": {},
+    "vias": {
+     "recoger": 0,
+     "hacer_sitio": 0,
+     "coger_puesto": 0
+    },
+    "piezas": null,
+    "brazo": null,
+    "P7_57": {
+     "arranque": {
+      "k": "P7_57_arranque",
+      "slot": 4,
+      "invitaciones": 0,
+      "falsas": 0,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     },
+     "aceptadas": [],
+     "evaluadas": [],
+     "contrastes": [],
+     "cierre": {
+      "k": "P7_57_cierre",
+      "contrastes": 0,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     }
+    }
+   },
+   "5": {
+    "tics": 7104,
+    "t_ult": 7344,
+    "murio": true,
+    "ms_mediana": 3.6775,
+    "ms_p95": 11.452,
+    "sobre_tic_pct": 0.04222972972972973,
+    "bloqueados_pct": 4.181184668989547,
+    "huellas": 3,
+    "huellas_por_objeto": {
+     "botiquin": 2,
+     "racion": 1,
+     "red": 0,
+     "camuflaje": 0
+    },
+    "huellas_corte": 1,
+    "forzadas": 0,
+    "no_cabe_objeto_ya_no_esta": 0,
+    "forzadas_por_tipo": {
+     "ir": 0,
+     "usar": 0
+    },
+    "fines": {},
+    "vias": {
+     "recoger": 0,
+     "hacer_sitio": 0,
+     "coger_puesto": 0
+    },
+    "piezas": null,
+    "brazo": null,
+    "P7_57": {
+     "arranque": {
+      "k": "P7_57_arranque",
+      "slot": 5,
+      "invitaciones": 0,
+      "falsas": 0,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     },
+     "aceptadas": [],
+     "evaluadas": [],
+     "contrastes": [],
+     "cierre": {
+      "k": "P7_57_cierre",
+      "contrastes": 0,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     }
+    }
+   },
+   "6": {
+    "tics": 6648,
+    "t_ult": 6888,
+    "murio": true,
+    "ms_mediana": 1.888,
+    "ms_p95": 8.976,
+    "sobre_tic_pct": 0.0,
+    "bloqueados_pct": 1.113861386138614,
+    "huellas": 5,
+    "huellas_por_objeto": {
+     "botiquin": 4,
+     "racion": 1,
+     "red": 0,
+     "camuflaje": 0
+    },
+    "huellas_corte": 3,
+    "forzadas": 0,
+    "no_cabe_objeto_ya_no_esta": 0,
+    "forzadas_por_tipo": {
+     "ir": 0,
+     "usar": 0
+    },
+    "fines": {},
+    "vias": {
+     "recoger": 0,
+     "hacer_sitio": 0,
+     "coger_puesto": 0
+    },
+    "piezas": null,
+    "brazo": null,
+    "P7_57": {
+     "arranque": {
+      "k": "P7_57_arranque",
+      "slot": 6,
+      "invitaciones": 0,
+      "falsas": 0,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     },
+     "aceptadas": [],
+     "evaluadas": [],
+     "contrastes": [],
+     "cierre": {
+      "k": "P7_57_cierre",
+      "contrastes": 0,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     }
+    }
+   },
+   "7": {
+    "tics": 5424,
+    "t_ult": 5664,
+    "murio": true,
+    "ms_mediana": 1.948,
+    "ms_p95": 9.215,
+    "sobre_tic_pct": 0.07374631268436578,
+    "bloqueados_pct": 0.7226738934056007,
+    "huellas": 1,
+    "huellas_por_objeto": {
+     "botiquin": 1,
+     "racion": 0,
+     "red": 0,
+     "camuflaje": 0
+    },
+    "huellas_corte": 0,
+    "forzadas": 0,
+    "no_cabe_objeto_ya_no_esta": 0,
+    "forzadas_por_tipo": {
+     "ir": 0,
+     "usar": 0
+    },
+    "fines": {},
+    "vias": {
+     "recoger": 0,
+     "hacer_sitio": 0,
+     "coger_puesto": 0
+    },
+    "piezas": null,
+    "brazo": null,
+    "P7_57": {
+     "arranque": {
+      "k": "P7_57_arranque",
+      "slot": 7,
+      "invitaciones": 0,
+      "falsas": 0,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     },
+     "aceptadas": [],
+     "evaluadas": [],
+     "contrastes": [],
+     "cierre": {
+      "k": "P7_57_cierre",
+      "contrastes": 0,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     }
+    }
+   },
+   "8": {
+    "tics": 7248,
+    "t_ult": 7488,
+    "murio": true,
+    "ms_mediana": 2.824,
+    "ms_p95": 9.75,
+    "sobre_tic_pct": 0.0,
+    "bloqueados_pct": 16.153846153846153,
+    "huellas": 3,
+    "huellas_por_objeto": {
+     "botiquin": 0,
+     "racion": 3,
+     "red": 0,
+     "camuflaje": 0
+    },
+    "huellas_corte": 1,
+    "forzadas": 0,
+    "no_cabe_objeto_ya_no_esta": 0,
+    "forzadas_por_tipo": {
+     "ir": 0,
+     "usar": 0
+    },
+    "fines": {},
+    "vias": {
+     "recoger": 0,
+     "hacer_sitio": 0,
+     "coger_puesto": 0
+    },
+    "piezas": null,
+    "brazo": null,
+    "P7_57": {
+     "arranque": {
+      "k": "P7_57_arranque",
+      "slot": 8,
+      "invitaciones": 0,
+      "falsas": 0,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     },
+     "aceptadas": [],
+     "evaluadas": [],
+     "contrastes": [],
+     "cierre": {
+      "k": "P7_57_cierre",
+      "contrastes": 0,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     }
+    }
+   },
+   "9": {
+    "tics": 5784,
+    "t_ult": 6024,
+    "murio": true,
+    "ms_mediana": 2.991,
+    "ms_p95": 10.381,
+    "sobre_tic_pct": 0.06915629322268327,
+    "bloqueados_pct": 21.071428571428573,
+    "huellas": 2,
+    "huellas_por_objeto": {
+     "botiquin": 2,
+     "racion": 0,
+     "red": 0,
+     "camuflaje": 0
+    },
+    "huellas_corte": 1,
+    "forzadas": 0,
+    "no_cabe_objeto_ya_no_esta": 0,
+    "forzadas_por_tipo": {
+     "ir": 0,
+     "usar": 0
+    },
+    "fines": {},
+    "vias": {
+     "recoger": 0,
+     "hacer_sitio": 0,
+     "coger_puesto": 0
+    },
+    "piezas": null,
+    "brazo": null,
+    "P7_57": {
+     "arranque": {
+      "k": "P7_57_arranque",
+      "slot": 9,
+      "invitaciones": 0,
+      "falsas": 0,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     },
+     "aceptadas": [],
+     "evaluadas": [],
+     "contrastes": [],
+     "cierre": {
+      "k": "P7_57_cierre",
+      "contrastes": 0,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     }
+    }
+   }
+  },
+  "resumen": {
+   "vidas_con_diario": 16,
+   "tics_media": 7021.5,
+   "mueren": 16,
+   "huellas_por_vida": 2.75,
+   "huellas_ee": 0.5737304826019501,
+   "huellas_por_objeto_total": {
+    "botiquin": 23,
+    "racion": 17,
+    "red": 3,
+    "camuflaje": 1
+   },
+   "forzadas_total": 0,
+   "forzadas_por_vida": 0.0,
+   "acaban": 0,
+   "acaban_pct": null,
+   "fines_total": {
+    "cogida": 0,
+    "usada": 0,
+    "caduca": 0,
+    "no cabe": 0
+   },
+   "no_cabe_objeto_ya_no_esta": 0,
+   "vias_total": {
+    "recoger": 0,
+    "hacer_sitio": 0,
+    "coger_puesto": 0
+   },
+   "ms_mediana_media": 2.90265625,
+   "ms_p95_max": 12.443,
+   "sobre_tic_pct_media": 0.027853064360162032,
+   "bloqueados_pct_media": 7.743234387186867,
+   "piezas": null
+  },
+  "imagen": "gemv-anima:P7_57_local_d2",
+  "segundos": 345
+ },
+ "d3": {
+  "vidas": {
+   "0": {
+    "tics": 4704,
+    "t_ult": 4944,
+    "murio": true,
+    "ms_mediana": 2.6544999999999996,
+    "ms_p95": 9.036,
+    "sobre_tic_pct": 0.1488095238095238,
+    "bloqueados_pct": 0.34305317324185247,
+    "huellas": 0,
+    "huellas_por_objeto": {
+     "botiquin": 0,
+     "racion": 0,
+     "red": 0,
+     "camuflaje": 0
+    },
+    "huellas_corte": 0,
+    "forzadas": 0,
+    "no_cabe_objeto_ya_no_esta": 0,
+    "forzadas_por_tipo": {
+     "ir": 0,
+     "usar": 0
+    },
+    "fines": {},
+    "vias": {
+     "recoger": 0,
+     "hacer_sitio": 0,
+     "coger_puesto": 0
+    },
+    "piezas": null,
+    "brazo": null,
+    "P7_57": {
+     "arranque": {
+      "k": "P7_57_arranque",
+      "slot": 0,
+      "invitaciones": 0,
+      "falsas": 0,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     },
+     "aceptadas": [],
+     "evaluadas": [],
+     "contrastes": [],
+     "cierre": {
+      "k": "P7_57_cierre",
+      "contrastes": 0,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     }
+    }
+   },
+   "1": {
+    "tics": 4272,
+    "t_ult": 4512,
+    "murio": true,
+    "ms_mediana": 2.24,
+    "ms_p95": 9.275,
+    "sobre_tic_pct": 0.0702247191011236,
+    "bloqueados_pct": 2.1634615384615383,
+    "huellas": 1,
+    "huellas_por_objeto": {
+     "botiquin": 1,
+     "racion": 0,
+     "red": 0,
+     "camuflaje": 0
+    },
+    "huellas_corte": 0,
+    "forzadas": 0,
+    "no_cabe_objeto_ya_no_esta": 0,
+    "forzadas_por_tipo": {
+     "ir": 0,
+     "usar": 0
+    },
+    "fines": {},
+    "vias": {
+     "recoger": 0,
+     "hacer_sitio": 0,
+     "coger_puesto": 0
+    },
+    "piezas": null,
+    "brazo": null,
+    "P7_57": {
+     "arranque": {
+      "k": "P7_57_arranque",
+      "slot": 1,
+      "invitaciones": 0,
+      "falsas": 0,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     },
+     "aceptadas": [],
+     "evaluadas": [],
+     "contrastes": [],
+     "cierre": {
+      "k": "P7_57_cierre",
+      "contrastes": 0,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     }
+    }
+   },
+   "10": {
+    "tics": 7320,
+    "t_ult": 7560,
+    "murio": true,
+    "ms_mediana": 3.84,
+    "ms_p95": 10.516,
+    "sobre_tic_pct": 0.0273224043715847,
+    "bloqueados_pct": 3.2638259292837715,
+    "huellas": 3,
+    "huellas_por_objeto": {
+     "botiquin": 0,
+     "racion": 3,
+     "red": 0,
+     "camuflaje": 0
+    },
+    "huellas_corte": 0,
+    "forzadas": 0,
+    "no_cabe_objeto_ya_no_esta": 0,
+    "forzadas_por_tipo": {
+     "ir": 0,
+     "usar": 0
+    },
+    "fines": {},
+    "vias": {
+     "recoger": 0,
+     "hacer_sitio": 0,
+     "coger_puesto": 0
+    },
+    "piezas": null,
+    "brazo": null,
+    "P7_57": {
+     "arranque": {
+      "k": "P7_57_arranque",
+      "slot": 10,
+      "invitaciones": 7,
+      "falsas": 1,
+      "confianza": {
+       "cuerpo": 0.9816,
+       "recursos": 0.7629,
+       "vinculo": 0.2371
+      }
+     },
+     "aceptadas": [
+      {
+       "k": "P7_54_aceptada",
+       "tick": 595,
+       "n": 3,
+       "accion": "ACERCARSE_HERMANA",
+       "elegido": "ir_pareja",
+       "confianza": {
+        "cuerpo": 0.8795087432400001,
+        "recursos": 0.7629,
+        "vinculo": 0.2371
+       }
+      },
+      {
+       "k": "P7_54_aceptada",
+       "tick": 1323,
+       "n": 3,
+       "accion": "ACERCARSE_HERMANA",
+       "elegido": "ir_pareja",
+       "confianza": {
+        "cuerpo": 0.915656120268,
+        "recursos": 0.83403,
+        "vinculo": 0.16597
+       }
+      },
+      {
+       "k": "P7_54_aceptada",
+       "tick": 1934,
+       "n": 3,
+       "accion": "ACERCARSE_HERMANA",
+       "elegido": "ir_pareja",
+       "confianza": {
+        "cuerpo": 0.9409592841876,
+        "recursos": 0.883821,
+        "vinculo": 0.11617899999999999
+       }
+      },
+      {
+       "k": "P7_54_aceptada",
+       "tick": 2259,
+       "n": 2,
+       "accion": "COGER_RACION",
+       "elegido": "ir_objeto",
+       "confianza": {
+        "cuerpo": 0.9586714989313199,
+        "recursos": 0.9186747,
+        "vinculo": 0.08132529999999999
+       }
+      },
+      {
+       "k": "P7_54_aceptada",
+       "tick": 2743,
+       "n": 2,
+       "accion": "COGER_RACION",
+       "elegido": "ir_objeto",
+       "confianza": {
+        "cuerpo": 0.9710700492519238,
+        "recursos": 0.9430722899999999,
+        "vinculo": 0.35692770999999995
+       }
+      },
+      {
+       "k": "P7_54_aceptada",
+       "tick": 2886,
+       "n": 3,
+       "accion": "ACERCARSE_HERMANA",
+       "elegido": "ir_pareja",
+       "confianza": {
+        "cuerpo": 0.9710700492519238,
+        "recursos": 0.9430722899999999,
+        "vinculo": 0.35692770999999995
+       }
+      },
+      {
+       "k": "P7_54_aceptada",
+       "tick": 3227,
+       "n": 2,
+       "accion": "COGER_RACION",
+       "elegido": "ir_objeto",
+       "confianza": {
+        "cuerpo": 0.9858243241334426,
+        "recursos": 0.6721054220999999,
+        "vinculo": 0.47489457789999995
+       }
+      },
+      {
+       "k": "P7_54_aceptada",
+       "tick": 3436,
+       "n": 3,
+       "accion": "ACERCARSE_HERMANA",
+       "elegido": "ir_pareja",
+       "confianza": {
+        "cuerpo": 0.9858243241334426,
+        "recursos": 0.6721054220999999,
+        "vinculo": 0.47489457789999995
+       }
+      },
+      {
+       "k": "P7_54_aceptada",
+       "tick": 3711,
+       "n": 2,
+       "accion": "COGER_RACION",
+       "elegido": "ir_objeto",
+       "confianza": {
+        "cuerpo": 0.9930539188253868,
+        "recursos": 0.5393316568289999,
+        "vinculo": 0.532698343171
+       }
+      },
+      {
+       "k": "P7_54_aceptada",
+       "tick": 4195,
+       "n": 2,
+       "accion": "COGER_RACION",
+       "elegido": "ir_objeto",
+       "confianza": {
+        "cuerpo": 0.9951377431777708,
+        "recursos": 0.37753215978029986,
+        "vinculo": 0.6728888402197
+       }
+      },
+      {
+       "k": "P7_54_aceptada",
+       "tick": 4679,
+       "n": 2,
+       "accion": "COGER_RACION",
+       "elegido": "ir_objeto",
+       "confianza": {
+        "cuerpo": 0.9965964202244395,
+        "recursos": 0.26427251184620987,
+        "vinculo": 0.77102218815379
+       }
+      },
+      {
+       "k": "P7_54_aceptada",
+       "tick": 4756,
+       "n": 3,
+       "accion": "ACERCARSE_HERMANA",
+       "elegido": "ir_pareja",
+       "confianza": {
+        "cuerpo": 0.9965964202244395,
+        "recursos": 0.26427251184620987,
+        "vinculo": 0.77102218815379
+       }
+      },
+      {
+       "k": "P7_54_aceptada",
+       "tick": 5086,
+       "n": 3,
+       "accion": "ACERCARSE_HERMANA",
+       "elegido": "ir_pareja",
+       "confianza": {
+        "cuerpo": 0.9976174941571077,
+        "recursos": 0.4849907582923469,
+        "vinculo": 0.539715531707653
+       }
+      },
+      {
+       "k": "P7_54_aceptada",
+       "tick": 5163,
+       "n": 2,
+       "accion": "COGER_RACION",
+       "elegido": "ir_objeto",
+       "confianza": {
+        "cuerpo": 0.9983322459099753,
+        "recursos": 0.3394935308046428,
+        "vinculo": 0.677800872195357
+       }
+      },
+      {
+       "k": "P7_54_aceptada",
+       "tick": 5328,
+       "n": 3,
+       "accion": "ACERCARSE_HERMANA",
+       "elegido": "ir_pareja",
+       "confianza": {
+        "cuerpo": 0.9988325721369826,
+        "recursos": 0.5376454715632499,
+        "vinculo": 0.47446061053674987
+       }
+      }
+     ],
+     "evaluadas": [
+      {
+       "k": "P7_54_evaluada",
+       "tick": 835,
+       "n": 3,
+       "accion": "ACERCARSE_HERMANA",
+       "fuente": "ventana de 240 tics",
+       "prometido": {
+        "cuerpo": 0.0,
+        "recursos": 0.0,
+        "vinculo": 1.0
+       },
+       "vivido": {
+        "cuerpo": 0.0,
+        "recursos": 0.0,
+        "vinculo": 0.118
+       },
+       "acierto": {
+        "cuerpo": 1,
+        "recursos": 1,
+        "vinculo": 0
+       },
+       "confianza_antes": {
+        "cuerpo": 0.8795087432400001,
+        "recursos": 0.7629,
+        "vinculo": 0.2371
+       },
+       "confianza_despues": {
+        "cuerpo": 0.915656120268,
+        "recursos": 0.83403,
+        "vinculo": 0.16597
+       }
+      },
+      {
+       "k": "P7_54_evaluada",
+       "tick": 1563,
+       "n": 3,
+       "accion": "ACERCARSE_HERMANA",
+       "fuente": "ventana de 240 tics",
+       "prometido": {
+        "cuerpo": 0.0,
+        "recursos": 0.0,
+        "vinculo": 1.0
+       },
+       "vivido": {
+        "cuerpo": 0.0,
+        "recursos": 0.0,
+        "vinculo": 0.0
+       },
+       "acierto": {
+        "cuerpo": 1,
+        "recursos": 1,
+        "vinculo": 0
+       },
+       "confianza_antes": {
+        "cuerpo": 0.915656120268,
+        "recursos": 0.83403,
+        "vinculo": 0.16597
+       },
+       "confianza_despues": {
+        "cuerpo": 0.9409592841876,
+        "recursos": 0.883821,
+        "vinculo": 0.11617899999999999
+       }
+      },
+      {
+       "k": "P7_54_evaluada",
+       "tick": 2174,
+       "n": 3,
+       "accion": "ACERCARSE_HERMANA",
+       "fuente": "ventana de 240 tics",
+       "prometido": {
+        "cuerpo": 0.0,
+        "recursos": 0.0,
+        "vinculo": 1.0
+       },
+       "vivido": {
+        "cuerpo": 0.0,
+        "recursos": 0.0,
+        "vinculo": 0.0
+       },
+       "acierto": {
+        "cuerpo": 1,
+        "recursos": 1,
+        "vinculo": 0
+       },
+       "confianza_antes": {
+        "cuerpo": 0.9409592841876,
+        "recursos": 0.883821,
+        "vinculo": 0.11617899999999999
+       },
+       "confianza_despues": {
+        "cuerpo": 0.9586714989313199,
+        "recursos": 0.9186747,
+        "vinculo": 0.08132529999999999
+       }
+      },
+      {
+       "k": "P7_54_evaluada",
+       "tick": 2739,
+       "n": 2,
+       "accion": "COGER_RACION",
+       "fuente": "sin huella (480 tics)",
+       "prometido": {
+        "cuerpo": 0.0,
+        "recursos": 1.0,
+        "vinculo": 0.0
+       },
+       "vivido": {
+        "cuerpo": 0.0,
+        "recursos": 1.341,
+        "vinculo": 0.0
+       },
+       "acierto": {
+        "cuerpo": 1,
+        "recursos": 1,
+        "vinculo": 1
+       },
+       "confianza_antes": {
+        "cuerpo": 0.9586714989313199,
+        "recursos": 0.9186747,
+        "vinculo": 0.08132529999999999
+       },
+       "confianza_despues": {
+        "cuerpo": 0.9710700492519238,
+        "recursos": 0.9430722899999999,
+        "vinculo": 0.35692770999999995
+       }
+      },
+      {
+       "k": "P7_54_evaluada",
+       "tick": 3126,
+       "n": 3,
+       "accion": "ACERCARSE_HERMANA",
+       "fuente": "ventana de 240 tics",
+       "prometido": {
+        "cuerpo": 0.0,
+        "recursos": 0.0,
+        "vinculo": 1.0
+       },
+       "vivido": {
+        "cuerpo": 0.0,
+        "recursos": -0.0,
+        "vinculo": 0.0
+       },
+       "acierto": {
+        "cuerpo": 1,
+        "recursos": 1,
+        "vinculo": 0
+       },
+       "confianza_antes": {
+        "cuerpo": 0.9710700492519238,
+        "recursos": 0.9430722899999999,
+        "vinculo": 0.35692770999999995
+       },
+       "confianza_despues": {
+        "cuerpo": 0.9797490344763466,
+        "recursos": 0.960150603,
+        "vinculo": 0.24984939699999995
+       }
+      },
+      {
+       "k": "P7_54_evaluada",
+       "tick": 3223,
+       "n": 2,
+       "accion": "COGER_RACION",
+       "fuente": "sin huella (480 tics)",
+       "prometido": {
+        "cuerpo": 0.0,
+        "recursos": 1.0,
+        "vinculo": 0.0
+       },
+       "vivido": {
+        "cuerpo": 0.0,
+        "recursos": 0.0,
+        "vinculo": 0.0
+       },
+       "acierto": {
+        "cuerpo": 1,
+        "recursos": 0,
+        "vinculo": 1
+       },
+       "confianza_antes": {
+        "cuerpo": 0.9797490344763466,
+        "recursos": 0.960150603,
+        "vinculo": 0.24984939699999995
+       },
+       "confianza_despues": {
+        "cuerpo": 0.9858243241334426,
+        "recursos": 0.6721054220999999,
+        "vinculo": 0.47489457789999995
+       }
+      },
+      {
+       "k": "P7_54_evaluada",
+       "tick": 3676,
+       "n": 3,
+       "accion": "ACERCARSE_HERMANA",
+       "fuente": "ventana de 240 tics",
+       "prometido": {
+        "cuerpo": 0.0,
+        "recursos": 0.0,
+        "vinculo": 1.0
+       },
+       "vivido": {
+        "cuerpo": 0.0,
+        "recursos": -0.0,
+        "vinculo": 0.0
+       },
+       "acierto": {
+        "cuerpo": 1,
+        "recursos": 1,
+        "vinculo": 0
+       },
+       "confianza_antes": {
+        "cuerpo": 0.9858243241334426,
+        "recursos": 0.6721054220999999,
+        "vinculo": 0.47489457789999995
+       },
+       "confianza_despues": {
+        "cuerpo": 0.9900770268934098,
+        "recursos": 0.7704737954699998,
+        "vinculo": 0.33242620452999994
+       }
+      },
+      {
+       "k": "P7_54_evaluada",
+       "tick": 3707,
+       "n": 2,
+       "accion": "COGER_RACION",
+       "fuente": "sin huella (480 tics)",
+       "prometido": {
+        "cuerpo": 0.0,
+        "recursos": 1.0,
+        "vinculo": 0.0
+       },
+       "vivido": {
+        "cuerpo": 0.0,
+        "recursos": 0.0,
+        "vinculo": 0.0
+       },
+       "acierto": {
+        "cuerpo": 1,
+        "recursos": 0,
+        "vinculo": 1
+       },
+       "confianza_antes": {
+        "cuerpo": 0.9900770268934098,
+        "recursos": 0.7704737954699998,
+        "vinculo": 0.33242620452999994
+       },
+       "confianza_despues": {
+        "cuerpo": 0.9930539188253868,
+        "recursos": 0.5393316568289999,
+        "vinculo": 0.532698343171
+       }
+      },
+      {
+       "k": "P7_54_evaluada",
+       "tick": 4191,
+       "n": 2,
+       "accion": "COGER_RACION",
+       "fuente": "sin huella (480 tics)",
+       "prometido": {
+        "cuerpo": 0.0,
+        "recursos": 1.0,
+        "vinculo": 0.0
+       },
+       "vivido": {
+        "cuerpo": 0.0,
+        "recursos": -0.0,
+        "vinculo": 0.0
+       },
+       "acierto": {
+        "cuerpo": 1,
+        "recursos": 0,
+        "vinculo": 1
+       },
+       "confianza_antes": {
+        "cuerpo": 0.9930539188253868,
+        "recursos": 0.5393316568289999,
+        "vinculo": 0.532698343171
+       },
+       "confianza_despues": {
+        "cuerpo": 0.9951377431777708,
+        "recursos": 0.37753215978029986,
+        "vinculo": 0.6728888402197
+       }
+      },
+      {
+       "k": "P7_54_evaluada",
+       "tick": 4675,
+       "n": 2,
+       "accion": "COGER_RACION",
+       "fuente": "sin huella (480 tics)",
+       "prometido": {
+        "cuerpo": 0.0,
+        "recursos": 1.0,
+        "vinculo": 0.0
+       },
+       "vivido": {
+        "cuerpo": 0.0,
+        "recursos": -0.0,
+        "vinculo": 0.0
+       },
+       "acierto": {
+        "cuerpo": 1,
+        "recursos": 0,
+        "vinculo": 1
+       },
+       "confianza_antes": {
+        "cuerpo": 0.9951377431777708,
+        "recursos": 0.37753215978029986,
+        "vinculo": 0.6728888402197
+       },
+       "confianza_despues": {
+        "cuerpo": 0.9965964202244395,
+        "recursos": 0.26427251184620987,
+        "vinculo": 0.77102218815379
+       }
+      },
+      {
+       "k": "P7_54_evaluada",
+       "tick": 4996,
+       "n": 3,
+       "accion": "ACERCARSE_HERMANA",
+       "fuente": "ventana de 240 tics",
+       "prometido": {
+        "cuerpo": 0.0,
+        "recursos": 0.0,
+        "vinculo": 1.0
+       },
+       "vivido": {
+        "cuerpo": 0.0,
+        "recursos": -0.0,
+        "vinculo": 0.0
+       },
+       "acierto": {
+        "cuerpo": 1,
+        "recursos": 1,
+        "vinculo": 0
+       },
+       "confianza_antes": {
+        "cuerpo": 0.9965964202244395,
+        "recursos": 0.26427251184620987,
+        "vinculo": 0.77102218815379
+       },
+       "confianza_despues": {
+        "cuerpo": 0.9976174941571077,
+        "recursos": 0.4849907582923469,
+        "vinculo": 0.539715531707653
+       }
+      },
+      {
+       "k": "P7_54_evaluada",
+       "tick": 5159,
+       "n": 2,
+       "accion": "COGER_RACION",
+       "fuente": "sin huella (480 tics)",
+       "prometido": {
+        "cuerpo": 0.0,
+        "recursos": 1.0,
+        "vinculo": 0.0
+       },
+       "vivido": {
+        "cuerpo": 0.0,
+        "recursos": -0.0,
+        "vinculo": 0.0
+       },
+       "acierto": {
+        "cuerpo": 1,
+        "recursos": 0,
+        "vinculo": 1
+       },
+       "confianza_antes": {
+        "cuerpo": 0.9976174941571077,
+        "recursos": 0.4849907582923469,
+        "vinculo": 0.539715531707653
+       },
+       "confianza_despues": {
+        "cuerpo": 0.9983322459099753,
+        "recursos": 0.3394935308046428,
+        "vinculo": 0.677800872195357
+       }
+      },
+      {
+       "k": "P7_54_evaluada",
+       "tick": 5326,
+       "n": 3,
+       "accion": "ACERCARSE_HERMANA",
+       "fuente": "ventana de 240 tics",
+       "prometido": {
+        "cuerpo": 0.0,
+        "recursos": 0.0,
+        "vinculo": 1.0
+       },
+       "vivido": {
+        "cuerpo": 0.0,
+        "recursos": 0.0,
+        "vinculo": 0.0
+       },
+       "acierto": {
+        "cuerpo": 1,
+        "recursos": 1,
+        "vinculo": 0
+       },
+       "confianza_antes": {
+        "cuerpo": 0.9983322459099753,
+        "recursos": 0.3394935308046428,
+        "vinculo": 0.677800872195357
+       },
+       "confianza_despues": {
+        "cuerpo": 0.9988325721369826,
+        "recursos": 0.5376454715632499,
+        "vinculo": 0.47446061053674987
+       }
+      },
+      {
+       "k": "P7_54_evaluada",
+       "tick": 5568,
+       "n": 3,
+       "accion": "ACERCARSE_HERMANA",
+       "fuente": "ventana de 240 tics",
+       "prometido": {
+        "cuerpo": 0.0,
+        "recursos": 0.0,
+        "vinculo": 1.0
+       },
+       "vivido": {
+        "cuerpo": -7.0,
+        "recursos": 1.235,
+        "vinculo": 0.0
+       },
+       "acierto": {
+        "cuerpo": 0,
+        "recursos": 0,
+        "vinculo": 0
+       },
+       "confianza_antes": {
+        "cuerpo": 0.9988325721369826,
+        "recursos": 0.5376454715632499,
+        "vinculo": 0.47446061053674987
+       },
+       "confianza_despues": {
+        "cuerpo": 0.6991828004958878,
+        "recursos": 0.3763518300942749,
+        "vinculo": 0.3321224273757249
+       }
+      },
+      {
+       "k": "P7_54_evaluada",
+       "tick": 5593,
+       "n": 2,
+       "accion": "COGER_RACION",
+       "fuente": "huella",
+       "prometido": {
+        "cuerpo": 0.0,
+        "recursos": 1.0,
+        "vinculo": 0.0
+       },
+       "vivido": {
+        "cuerpo": 13.56,
+        "recursos": -1.0,
+        "vinculo": -1.323
+       },
+       "acierto": {
+        "cuerpo": 0,
+        "recursos": 0,
+        "vinculo": 0
+       },
+       "confianza_antes": {
+        "cuerpo": 0.6991828004958878,
+        "recursos": 0.3763518300942749,
+        "vinculo": 0.3321224273757249
+       },
+       "confianza_despues": {
+        "cuerpo": 0.4894279603471214,
+        "recursos": 0.26344628106599244,
+        "vinculo": 0.2324856991630074
+       }
+      }
+     ],
+     "contrastes": [
+      {
+       "k": "P7_57_contraste",
+       "tick": 241,
+       "objeto": "net",
+       "origen": "contado",
+       "via": "canal",
+       "efecto_contado": 0.0,
+       "peso": 0.773,
+       "invitacion": 4,
+       "accion": "EMPUNAR_RED",
+       "falsa": true,
+       "promesa": 40.0,
+       "acierto": 0,
+       "eta": 0.232,
+       "confianza_antes": 0.9816,
+       "confianza_despues": 0.7541
+      },
+      {
+       "k": "P7_57_contraste",
+       "tick": 241,
+       "objeto": "first_aid",
+       "origen": "contado",
+       "via": "canal",
+       "efecto_contado": 50.0,
+       "peso": 2.0,
+       "invitacion": 0,
+       "accion": "USAR_BOTIQUIN",
+       "falsa": false,
+       "promesa": 20.0,
+       "acierto": 1,
+       "eta": 0.3,
+       "confianza_antes": 0.7541,
+       "confianza_despues": 0.8279
+      },
+      {
+       "k": "P7_57_contraste",
+       "tick": 241,
+       "objeto": "first_aid",
+       "origen": "contado",
+       "via": "canal",
+       "efecto_contado": 50.0,
+       "peso": 2.0,
+       "invitacion": 6,
+       "accion": "COGER_BOTIQUIN",
+       "falsa": false,
+       "promesa": 20.0,
+       "acierto": 1,
+       "eta": 0.3,
+       "confianza_antes": 0.8279,
+       "confianza_despues": 0.8795
+      }
+     ],
+     "cierre": {
+      "k": "P7_57_cierre",
+      "contrastes": 3,
+      "confianza": {
+       "cuerpo": 0.4894279603471214,
+       "recursos": 0.26344628106599244,
+       "vinculo": 0.2324856991630074
+      }
+     }
+    }
+   },
+   "11": {
+    "tics": 7344,
+    "t_ult": 7584,
+    "murio": true,
+    "ms_mediana": 2.3289999999999997,
+    "ms_p95": 9.156,
+    "sobre_tic_pct": 0.054466230936819175,
+    "bloqueados_pct": 2.999062792877226,
+    "huellas": 1,
+    "huellas_por_objeto": {
+     "botiquin": 0,
+     "racion": 0,
+     "red": 0,
+     "camuflaje": 1
+    },
+    "huellas_corte": 0,
+    "forzadas": 0,
+    "no_cabe_objeto_ya_no_esta": 0,
+    "forzadas_por_tipo": {
+     "ir": 0,
+     "usar": 0
+    },
+    "fines": {},
+    "vias": {
+     "recoger": 0,
+     "hacer_sitio": 0,
+     "coger_puesto": 0
+    },
+    "piezas": null,
+    "brazo": null,
+    "P7_57": {
+     "arranque": {
+      "k": "P7_57_arranque",
+      "slot": 11,
+      "invitaciones": 7,
+      "falsas": 1,
+      "confianza": {
+       "cuerpo": 0.9983,
+       "recursos": 0.4647,
+       "vinculo": 0.6351
+      }
+     },
+     "aceptadas": [],
+     "evaluadas": [],
+     "contrastes": [
+      {
+       "k": "P7_57_contraste",
+       "tick": 241,
+       "objeto": "first_aid",
+       "origen": "contado",
+       "via": "canal",
+       "efecto_contado": 20.0,
+       "peso": 1.347,
+       "invitacion": 2,
+       "accion": "USAR_BOTIQUIN",
+       "falsa": false,
+       "promesa": 20.0,
+       "acierto": 1,
+       "eta": 0.3,
+       "confianza_antes": 0.9983,
+       "confianza_despues": 0.9988
+      },
+      {
+       "k": "P7_57_contraste",
+       "tick": 5618,
+       "objeto": "rations",
+       "origen": "contado",
+       "via": "canal",
+       "efecto_contado": 13.56,
+       "peso": 1.0,
+       "invitacion": 4,
+       "accion": "USAR_RACION",
+       "falsa": false,
+       "promesa": 10.0,
+       "acierto": 1,
+       "eta": 0.3,
+       "confianza_antes": 0.9988,
+       "confianza_despues": 0.9992
+      },
+      {
+       "k": "P7_57_contraste",
+       "tick": 7418,
+       "objeto": "rations",
+       "origen": "contado",
+       "via": "canal",
+       "efecto_contado": 14.68,
+       "peso": 0.887,
+       "invitacion": 4,
+       "accion": "USAR_RACION",
+       "falsa": false,
+       "promesa": 10.0,
+       "acierto": 1,
+       "eta": 0.266,
+       "confianza_antes": 0.9992,
+       "confianza_despues": 0.9994
+      },
+      {
+       "k": "P7_57_contraste",
+       "tick": 7468,
+       "objeto": "rations",
+       "origen": "contado",
+       "via": "canal",
+       "efecto_contado": 15.0,
+       "peso": 1.434,
+       "invitacion": 4,
+       "accion": "USAR_RACION",
+       "falsa": false,
+       "promesa": 10.0,
+       "acierto": 1,
+       "eta": 0.3,
+       "confianza_antes": 0.9994,
+       "confianza_despues": 0.9996
+      }
+     ],
+     "cierre": {
+      "k": "P7_57_cierre",
+      "contrastes": 4,
+      "confianza": {
+       "cuerpo": 0.999572150375,
+       "recursos": 0.4647,
+       "vinculo": 0.6351
+      }
+     }
+    }
+   },
+   "12": {
+    "tics": 7272,
+    "t_ult": 7512,
+    "murio": true,
+    "ms_mediana": 4.389,
+    "ms_p95": 11.209,
+    "sobre_tic_pct": 0.027502750275027504,
+    "bloqueados_pct": 2.54149377593361,
+    "huellas": 4,
+    "huellas_por_objeto": {
+     "botiquin": 3,
+     "racion": 0,
+     "red": 1,
+     "camuflaje": 0
+    },
+    "huellas_corte": 3,
+    "forzadas": 0,
+    "no_cabe_objeto_ya_no_esta": 0,
+    "forzadas_por_tipo": {
+     "ir": 0,
+     "usar": 0
+    },
+    "fines": {},
+    "vias": {
+     "recoger": 0,
+     "hacer_sitio": 0,
+     "coger_puesto": 0
+    },
+    "piezas": null,
+    "brazo": null,
+    "P7_57": {
+     "arranque": {
+      "k": "P7_57_arranque",
+      "slot": 12,
+      "invitaciones": 7,
+      "falsas": 1,
+      "confianza": {
+       "cuerpo": 0.0965,
+       "recursos": 1.0,
+       "vinculo": 0.9999
+      }
+     },
+     "aceptadas": [
+      {
+       "k": "P7_54_aceptada",
+       "tick": 372,
+       "n": 3,
+       "accion": "COGER_RACION",
+       "elegido": "ir_objeto",
+       "confianza": {
+        "cuerpo": 0.81365231100071,
+        "recursos": 1.0,
+        "vinculo": 0.9999
+       }
+      },
+      {
+       "k": "P7_54_aceptada",
+       "tick": 4139,
+       "n": 6,
+       "accion": "ACERCARSE_HERMANA",
+       "elegido": "ir_pareja",
+       "confianza": {
+        "cuerpo": 0.869556617700497,
+        "recursos": 0.7,
+        "vinculo": 0.99993
+       }
+      },
+      {
+       "k": "P7_54_aceptada",
+       "tick": 4908,
+       "n": 3,
+       "accion": "COGER_RACION",
+       "elegido": "coger",
+       "confianza": {
+        "cuerpo": 0.9086896323903477,
+        "recursos": 0.7899999999999999,
+        "vinculo": 0.699951
+       }
+      }
+     ],
+     "evaluadas": [
+      {
+       "k": "P7_54_evaluada",
+       "tick": 852,
+       "n": 3,
+       "accion": "COGER_RACION",
+       "fuente": "sin huella (480 tics)",
+       "prometido": {
+        "cuerpo": 0.0,
+        "recursos": 1.0,
+        "vinculo": 0.0
+       },
+       "vivido": {
+        "cuerpo": 0.0,
+        "recursos": 0.0,
+        "vinculo": 0.326
+       },
+       "acierto": {
+        "cuerpo": 1,
+        "recursos": 0,
+        "vinculo": 1
+       },
+       "confianza_antes": {
+        "cuerpo": 0.81365231100071,
+        "recursos": 1.0,
+        "vinculo": 0.9999
+       },
+       "confianza_despues": {
+        "cuerpo": 0.869556617700497,
+        "recursos": 0.7,
+        "vinculo": 0.99993
+       }
+      },
+      {
+       "k": "P7_54_evaluada",
+       "tick": 4379,
+       "n": 6,
+       "accion": "ACERCARSE_HERMANA",
+       "fuente": "ventana de 240 tics",
+       "prometido": {
+        "cuerpo": 0.0,
+        "recursos": 0.0,
+        "vinculo": 0.1
+       },
+       "vivido": {
+        "cuerpo": 0.0,
+        "recursos": -0.001,
+        "vinculo": 0.0
+       },
+       "acierto": {
+        "cuerpo": 1,
+        "recursos": 1,
+        "vinculo": 0
+       },
+       "confianza_antes": {
+        "cuerpo": 0.869556617700497,
+        "recursos": 0.7,
+        "vinculo": 0.99993
+       },
+       "confianza_despues": {
+        "cuerpo": 0.9086896323903477,
+        "recursos": 0.7899999999999999,
+        "vinculo": 0.699951
+       }
+      },
+      {
+       "k": "P7_54_evaluada",
+       "tick": 5388,
+       "n": 3,
+       "accion": "COGER_RACION",
+       "fuente": "sin huella (480 tics)",
+       "prometido": {
+        "cuerpo": 0.0,
+        "recursos": 1.0,
+        "vinculo": 0.0
+       },
+       "vivido": {
+        "cuerpo": 0.0,
+        "recursos": 0.262,
+        "vinculo": 0.0
+       },
+       "acierto": {
+        "cuerpo": 1,
+        "recursos": 0,
+        "vinculo": 1
+       },
+       "confianza_antes": {
+        "cuerpo": 0.9086896323903477,
+        "recursos": 0.7899999999999999,
+        "vinculo": 0.699951
+       },
+       "confianza_despues": {
+        "cuerpo": 0.9360827426732434,
+        "recursos": 0.5529999999999999,
+        "vinculo": 0.7899657
+       }
+      }
+     ],
+     "contrastes": [
+      {
+       "k": "P7_57_contraste",
+       "tick": 241,
+       "objeto": "rations",
+       "origen": "contado",
+       "via": "noche",
+       "efecto_contado": 14.92,
+       "peso": 1.331,
+       "invitacion": 2,
+       "accion": "USAR_RACION",
+       "falsa": false,
+       "promesa": 7.0,
+       "acierto": 1,
+       "eta": 0.3,
+       "confianza_antes": 0.0965,
+       "confianza_despues": 0.3675
+      },
+      {
+       "k": "P7_57_contraste",
+       "tick": 241,
+       "objeto": "rations",
+       "origen": "contado",
+       "via": "canal",
+       "efecto_contado": 13.56,
+       "peso": 1.279,
+       "invitacion": 2,
+       "accion": "USAR_RACION",
+       "falsa": false,
+       "promesa": 7.0,
+       "acierto": 1,
+       "eta": 0.3,
+       "confianza_antes": 0.3675,
+       "confianza_despues": 0.5573
+      },
+      {
+       "k": "P7_57_contraste",
+       "tick": 241,
+       "objeto": "rations",
+       "origen": "contado",
+       "via": "canal",
+       "efecto_contado": 13.56,
+       "peso": 0.758,
+       "invitacion": 2,
+       "accion": "USAR_RACION",
+       "falsa": false,
+       "promesa": 7.0,
+       "acierto": 1,
+       "eta": 0.227,
+       "confianza_antes": 0.5573,
+       "confianza_despues": 0.658
+      },
+      {
+       "k": "P7_57_contraste",
+       "tick": 241,
+       "objeto": "rations",
+       "origen": "contado",
+       "via": "canal",
+       "efecto_contado": 7.0,
+       "peso": 0.739,
+       "invitacion": 2,
+       "accion": "USAR_RACION",
+       "falsa": false,
+       "promesa": 7.0,
+       "acierto": 1,
+       "eta": 0.222,
+       "confianza_antes": 0.658,
+       "confianza_despues": 0.7338
+      },
+      {
+       "k": "P7_57_contraste",
+       "tick": 241,
+       "objeto": "first_aid",
+       "origen": "contado",
+       "via": "canal",
+       "efecto_contado": 50.0,
+       "peso": 1.546,
+       "invitacion": 1,
+       "accion": "USAR_BOTIQUIN",
+       "falsa": false,
+       "promesa": 20.0,
+       "acierto": 1,
+       "eta": 0.3,
+       "confianza_antes": 0.7338,
+       "confianza_despues": 0.8137
+      },
+      {
+       "k": "P7_57_contraste",
+       "tick": 7468,
+       "objeto": "rations",
+       "origen": "contado",
+       "via": "canal",
+       "efecto_contado": 14.68,
+       "peso": 0.59,
+       "invitacion": 2,
+       "accion": "USAR_RACION",
+       "falsa": false,
+       "promesa": 7.0,
+       "acierto": 1,
+       "eta": 0.177,
+       "confianza_antes": 0.9361,
+       "confianza_despues": 0.9474
+      }
+     ],
+     "cierre": {
+      "k": "P7_57_cierre",
+      "contrastes": 6,
+      "confianza": {
+       "cuerpo": 0.9473865096314803,
+       "recursos": 0.5529999999999999,
+       "vinculo": 0.7899657
+      }
+     }
+    }
+   },
+   "13": {
+    "tics": 7344,
+    "t_ult": 7584,
+    "murio": true,
+    "ms_mediana": 2.973,
+    "ms_p95": 10.151,
+    "sobre_tic_pct": 0.06808278867102396,
+    "bloqueados_pct": 19.444444444444443,
+    "huellas": 4,
+    "huellas_por_objeto": {
+     "botiquin": 2,
+     "racion": 2,
+     "red": 0,
+     "camuflaje": 0
+    },
+    "huellas_corte": 2,
+    "forzadas": 0,
+    "no_cabe_objeto_ya_no_esta": 0,
+    "forzadas_por_tipo": {
+     "ir": 0,
+     "usar": 0
+    },
+    "fines": {},
+    "vias": {
+     "recoger": 0,
+     "hacer_sitio": 0,
+     "coger_puesto": 0
+    },
+    "piezas": null,
+    "brazo": null,
+    "P7_57": {
+     "arranque": {
+      "k": "P7_57_arranque",
+      "slot": 13,
+      "invitaciones": 6,
+      "falsas": 0,
+      "confianza": {
+       "cuerpo": 0.65,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     },
+     "aceptadas": [
+      {
+       "k": "P7_54_aceptada",
+       "tick": 461,
+       "n": 4,
+       "accion": "ACERCARSE_HERMANA",
+       "elegido": "ir_pareja",
+       "confianza": {
+        "cuerpo": 0.65,
+        "recursos": 0.5,
+        "vinculo": 0.5
+       }
+      },
+      {
+       "k": "P7_54_aceptada",
+       "tick": 5089,
+       "n": 4,
+       "accion": "ACERCARSE_HERMANA",
+       "elegido": "ir_pareja",
+       "confianza": {
+        "cuerpo": 0.7549999999999999,
+        "recursos": 0.6499999999999999,
+        "vinculo": 0.6499999999999999
+       }
+      }
+     ],
+     "evaluadas": [
+      {
+       "k": "P7_54_evaluada",
+       "tick": 701,
+       "n": 4,
+       "accion": "ACERCARSE_HERMANA",
+       "fuente": "ventana de 240 tics",
+       "prometido": {
+        "cuerpo": 0.0,
+        "recursos": 0.0,
+        "vinculo": 0.1
+       },
+       "vivido": {
+        "cuerpo": 0.0,
+        "recursos": 0.102,
+        "vinculo": 0.171
+       },
+       "acierto": {
+        "cuerpo": 1,
+        "recursos": 1,
+        "vinculo": 1
+       },
+       "confianza_antes": {
+        "cuerpo": 0.65,
+        "recursos": 0.5,
+        "vinculo": 0.5
+       },
+       "confianza_despues": {
+        "cuerpo": 0.7549999999999999,
+        "recursos": 0.6499999999999999,
+        "vinculo": 0.6499999999999999
+       }
+      },
+      {
+       "k": "P7_54_evaluada",
+       "tick": 5329,
+       "n": 4,
+       "accion": "ACERCARSE_HERMANA",
+       "fuente": "ventana de 240 tics",
+       "prometido": {
+        "cuerpo": 0.0,
+        "recursos": 0.0,
+        "vinculo": 0.1
+       },
+       "vivido": {
+        "cuerpo": 0.0,
+        "recursos": 0.006,
+        "vinculo": 0.0
+       },
+       "acierto": {
+        "cuerpo": 1,
+        "recursos": 1,
+        "vinculo": 0
+       },
+       "confianza_antes": {
+        "cuerpo": 0.7549999999999999,
+        "recursos": 0.6499999999999999,
+        "vinculo": 0.6499999999999999
+       },
+       "confianza_despues": {
+        "cuerpo": 0.8284999999999998,
+        "recursos": 0.7549999999999999,
+        "vinculo": 0.4549999999999999
+       }
+      }
+     ],
+     "contrastes": [],
+     "cierre": {
+      "k": "P7_57_cierre",
+      "contrastes": 0,
+      "confianza": {
+       "cuerpo": 0.8284999999999998,
+       "recursos": 0.7549999999999999,
+       "vinculo": 0.4549999999999999
+      }
+     }
+    }
+   },
+   "14": {
+    "tics": 7344,
+    "t_ult": 7584,
+    "murio": true,
+    "ms_mediana": 2.4585,
+    "ms_p95": 8.67,
+    "sobre_tic_pct": 0.06808278867102396,
+    "bloqueados_pct": 5.149812734082397,
+    "huellas": 1,
+    "huellas_por_objeto": {
+     "botiquin": 0,
+     "racion": 0,
+     "red": 1,
+     "camuflaje": 0
+    },
+    "huellas_corte": 0,
+    "forzadas": 0,
+    "no_cabe_objeto_ya_no_esta": 0,
+    "forzadas_por_tipo": {
+     "ir": 0,
+     "usar": 0
+    },
+    "fines": {},
+    "vias": {
+     "recoger": 0,
+     "hacer_sitio": 0,
+     "coger_puesto": 0
+    },
+    "piezas": null,
+    "brazo": null,
+    "P7_57": {
+     "arranque": {
+      "k": "P7_57_arranque",
+      "slot": 14,
+      "invitaciones": 0,
+      "falsas": 0,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     },
+     "aceptadas": [],
+     "evaluadas": [],
+     "contrastes": [],
+     "cierre": {
+      "k": "P7_57_cierre",
+      "contrastes": 0,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     }
+    }
+   },
+   "15": {
+    "tics": 7344,
+    "t_ult": 7584,
+    "murio": true,
+    "ms_mediana": 2.4165,
+    "ms_p95": 8.305,
+    "sobre_tic_pct": 0.04084967320261438,
+    "bloqueados_pct": 21.984216459977453,
+    "huellas": 4,
+    "huellas_por_objeto": {
+     "botiquin": 0,
+     "racion": 4,
+     "red": 0,
+     "camuflaje": 0
+    },
+    "huellas_corte": 0,
+    "forzadas": 0,
+    "no_cabe_objeto_ya_no_esta": 0,
+    "forzadas_por_tipo": {
+     "ir": 0,
+     "usar": 0
+    },
+    "fines": {},
+    "vias": {
+     "recoger": 0,
+     "hacer_sitio": 0,
+     "coger_puesto": 0
+    },
+    "piezas": null,
+    "brazo": null,
+    "P7_57": {
+     "arranque": {
+      "k": "P7_57_arranque",
+      "slot": 15,
+      "invitaciones": 0,
+      "falsas": 0,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     },
+     "aceptadas": [],
+     "evaluadas": [],
+     "contrastes": [],
+     "cierre": {
+      "k": "P7_57_cierre",
+      "contrastes": 0,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     }
+    }
+   },
+   "2": {
+    "tics": 4176,
+    "t_ult": 4416,
+    "murio": true,
+    "ms_mediana": 3.2945,
+    "ms_p95": 11.214,
+    "sobre_tic_pct": 0.11973180076628352,
+    "bloqueados_pct": 5.325443786982248,
+    "huellas": 0,
+    "huellas_por_objeto": {
+     "botiquin": 0,
+     "racion": 0,
+     "red": 0,
+     "camuflaje": 0
+    },
+    "huellas_corte": 0,
+    "forzadas": 0,
+    "no_cabe_objeto_ya_no_esta": 0,
+    "forzadas_por_tipo": {
+     "ir": 0,
+     "usar": 0
+    },
+    "fines": {},
+    "vias": {
+     "recoger": 0,
+     "hacer_sitio": 0,
+     "coger_puesto": 0
+    },
+    "piezas": null,
+    "brazo": null,
+    "P7_57": {
+     "arranque": {
+      "k": "P7_57_arranque",
+      "slot": 2,
+      "invitaciones": 0,
+      "falsas": 0,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     },
+     "aceptadas": [],
+     "evaluadas": [],
+     "contrastes": [],
+     "cierre": {
+      "k": "P7_57_cierre",
+      "contrastes": 0,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     }
+    }
+   },
+   "3": {
+    "tics": 7296,
+    "t_ult": 7536,
+    "murio": true,
+    "ms_mediana": 3.4604999999999997,
+    "ms_p95": 10.271,
+    "sobre_tic_pct": 0.08223684210526316,
+    "bloqueados_pct": 3.173076923076923,
+    "huellas": 6,
+    "huellas_por_objeto": {
+     "botiquin": 6,
+     "racion": 0,
+     "red": 0,
+     "camuflaje": 0
+    },
+    "huellas_corte": 5,
+    "forzadas": 0,
+    "no_cabe_objeto_ya_no_esta": 0,
+    "forzadas_por_tipo": {
+     "ir": 0,
+     "usar": 0
+    },
+    "fines": {},
+    "vias": {
+     "recoger": 0,
+     "hacer_sitio": 0,
+     "coger_puesto": 0
+    },
+    "piezas": null,
+    "brazo": null,
+    "P7_57": {
+     "arranque": {
+      "k": "P7_57_arranque",
+      "slot": 3,
+      "invitaciones": 0,
+      "falsas": 0,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     },
+     "aceptadas": [],
+     "evaluadas": [],
+     "contrastes": [],
+     "cierre": {
+      "k": "P7_57_cierre",
+      "contrastes": 0,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     }
+    }
+   },
+   "4": {
+    "tics": 4536,
+    "t_ult": 4776,
+    "murio": true,
+    "ms_mediana": 3.4355,
+    "ms_p95": 10.674,
+    "sobre_tic_pct": 0.02204585537918871,
+    "bloqueados_pct": 0.0,
+    "huellas": 3,
+    "huellas_por_objeto": {
+     "botiquin": 0,
+     "racion": 3,
+     "red": 0,
+     "camuflaje": 0
+    },
+    "huellas_corte": 0,
+    "forzadas": 0,
+    "no_cabe_objeto_ya_no_esta": 0,
+    "forzadas_por_tipo": {
+     "ir": 0,
+     "usar": 0
+    },
+    "fines": {},
+    "vias": {
+     "recoger": 0,
+     "hacer_sitio": 0,
+     "coger_puesto": 0
+    },
+    "piezas": null,
+    "brazo": null,
+    "P7_57": {
+     "arranque": {
+      "k": "P7_57_arranque",
+      "slot": 4,
+      "invitaciones": 0,
+      "falsas": 0,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     },
+     "aceptadas": [],
+     "evaluadas": [],
+     "contrastes": [],
+     "cierre": {
+      "k": "P7_57_cierre",
+      "contrastes": 0,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     }
+    }
+   },
+   "5": {
+    "tics": 5832,
+    "t_ult": 6072,
+    "murio": true,
+    "ms_mediana": 2.7675,
+    "ms_p95": 10.177,
+    "sobre_tic_pct": 0.08573388203017833,
+    "bloqueados_pct": 3.1545741324921135,
+    "huellas": 3,
+    "huellas_por_objeto": {
+     "botiquin": 1,
+     "racion": 2,
+     "red": 0,
+     "camuflaje": 0
+    },
+    "huellas_corte": 0,
+    "forzadas": 0,
+    "no_cabe_objeto_ya_no_esta": 0,
+    "forzadas_por_tipo": {
+     "ir": 0,
+     "usar": 0
+    },
+    "fines": {},
+    "vias": {
+     "recoger": 0,
+     "hacer_sitio": 0,
+     "coger_puesto": 0
+    },
+    "piezas": null,
+    "brazo": null,
+    "P7_57": {
+     "arranque": {
+      "k": "P7_57_arranque",
+      "slot": 5,
+      "invitaciones": 0,
+      "falsas": 0,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     },
+     "aceptadas": [],
+     "evaluadas": [],
+     "contrastes": [],
+     "cierre": {
+      "k": "P7_57_cierre",
+      "contrastes": 0,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     }
+    }
+   },
+   "6": {
+    "tics": 5712,
+    "t_ult": 5952,
+    "murio": true,
+    "ms_mediana": 2.68,
+    "ms_p95": 8.524,
+    "sobre_tic_pct": 0.0700280112044818,
+    "bloqueados_pct": 0.17482517482517482,
+    "huellas": 6,
+    "huellas_por_objeto": {
+     "botiquin": 6,
+     "racion": 0,
+     "red": 0,
+     "camuflaje": 0
+    },
+    "huellas_corte": 6,
+    "forzadas": 0,
+    "no_cabe_objeto_ya_no_esta": 0,
+    "forzadas_por_tipo": {
+     "ir": 0,
+     "usar": 0
+    },
+    "fines": {},
+    "vias": {
+     "recoger": 0,
+     "hacer_sitio": 0,
+     "coger_puesto": 0
+    },
+    "piezas": null,
+    "brazo": null,
+    "P7_57": {
+     "arranque": {
+      "k": "P7_57_arranque",
+      "slot": 6,
+      "invitaciones": 0,
+      "falsas": 0,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     },
+     "aceptadas": [],
+     "evaluadas": [],
+     "contrastes": [],
+     "cierre": {
+      "k": "P7_57_cierre",
+      "contrastes": 0,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     }
+    }
+   },
+   "7": {
+    "tics": 4536,
+    "t_ult": 4776,
+    "murio": true,
+    "ms_mediana": 2.816,
+    "ms_p95": 10.605,
+    "sobre_tic_pct": 0.04409171075837742,
+    "bloqueados_pct": 3.23943661971831,
+    "huellas": 0,
+    "huellas_por_objeto": {
+     "botiquin": 0,
+     "racion": 0,
+     "red": 0,
+     "camuflaje": 0
+    },
+    "huellas_corte": 0,
+    "forzadas": 0,
+    "no_cabe_objeto_ya_no_esta": 0,
+    "forzadas_por_tipo": {
+     "ir": 0,
+     "usar": 0
+    },
+    "fines": {},
+    "vias": {
+     "recoger": 0,
+     "hacer_sitio": 0,
+     "coger_puesto": 0
+    },
+    "piezas": null,
+    "brazo": null,
+    "P7_57": {
+     "arranque": {
+      "k": "P7_57_arranque",
+      "slot": 7,
+      "invitaciones": 0,
+      "falsas": 0,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     },
+     "aceptadas": [],
+     "evaluadas": [],
+     "contrastes": [],
+     "cierre": {
+      "k": "P7_57_cierre",
+      "contrastes": 0,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     }
+    }
+   },
+   "8": {
+    "tics": 4176,
+    "t_ult": 4416,
+    "murio": true,
+    "ms_mediana": 2.2015000000000002,
+    "ms_p95": 9.147,
+    "sobre_tic_pct": 0.04789272030651341,
+    "bloqueados_pct": 0.0,
+    "huellas": 0,
+    "huellas_por_objeto": {
+     "botiquin": 0,
+     "racion": 0,
+     "red": 0,
+     "camuflaje": 0
+    },
+    "huellas_corte": 0,
+    "forzadas": 0,
+    "no_cabe_objeto_ya_no_esta": 0,
+    "forzadas_por_tipo": {
+     "ir": 0,
+     "usar": 0
+    },
+    "fines": {},
+    "vias": {
+     "recoger": 0,
+     "hacer_sitio": 0,
+     "coger_puesto": 0
+    },
+    "piezas": null,
+    "brazo": null,
+    "P7_57": {
+     "arranque": {
+      "k": "P7_57_arranque",
+      "slot": 8,
+      "invitaciones": 0,
+      "falsas": 0,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     },
+     "aceptadas": [],
+     "evaluadas": [],
+     "contrastes": [],
+     "cierre": {
+      "k": "P7_57_cierre",
+      "contrastes": 0,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     }
+    }
+   },
+   "9": {
+    "tics": 7320,
+    "t_ult": 7560,
+    "murio": true,
+    "ms_mediana": 1.85,
+    "ms_p95": 7.467,
+    "sobre_tic_pct": 0.0273224043715847,
+    "bloqueados_pct": 1.8207282913165266,
+    "huellas": 10,
+    "huellas_por_objeto": {
+     "botiquin": 10,
+     "racion": 0,
+     "red": 0,
+     "camuflaje": 0
+    },
+    "huellas_corte": 8,
+    "forzadas": 0,
+    "no_cabe_objeto_ya_no_esta": 0,
+    "forzadas_por_tipo": {
+     "ir": 0,
+     "usar": 0
+    },
+    "fines": {},
+    "vias": {
+     "recoger": 0,
+     "hacer_sitio": 0,
+     "coger_puesto": 0
+    },
+    "piezas": null,
+    "brazo": null,
+    "P7_57": {
+     "arranque": {
+      "k": "P7_57_arranque",
+      "slot": 9,
+      "invitaciones": 0,
+      "falsas": 0,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     },
+     "aceptadas": [],
+     "evaluadas": [],
+     "contrastes": [],
+     "cierre": {
+      "k": "P7_57_cierre",
+      "contrastes": 0,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     }
+    }
+   }
+  },
+  "resumen": {
+   "vidas_con_diario": 16,
+   "tics_media": 6033,
+   "mueren": 16,
+   "huellas_por_vida": 2.875,
+   "huellas_ee": 0.700446286306095,
+   "huellas_por_objeto_total": {
+    "botiquin": 29,
+    "racion": 14,
+    "red": 2,
+    "camuflaje": 1
+   },
+   "forzadas_total": 0,
+   "forzadas_por_vida": 0.0,
+   "acaban": 0,
+   "acaban_pct": null,
+   "fines_total": {
+    "cogida": 0,
+    "usada": 0,
+    "caduca": 0,
+    "no cabe": 0
+   },
+   "no_cabe_objeto_ya_no_esta": 0,
+   "vias_total": {
+    "recoger": 0,
+    "hacer_sitio": 0,
+    "coger_puesto": 0
+   },
+   "ms_mediana_media": 2.862875,
+   "ms_p95_max": 11.214,
+   "sobre_tic_pct_media": 0.06277650662253825,
+   "bloqueados_pct_media": 4.6735909860446,
+   "piezas": null
+  },
+  "imagen": "gemv-anima:P7_57_local_d3",
+  "segundos": 349
+ }
+}

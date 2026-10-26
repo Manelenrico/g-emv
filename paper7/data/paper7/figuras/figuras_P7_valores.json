@@ -1,0 +1,1564 @@
+{
+ "fig5_2": {
+  "llegadas": {
+   "MIENTE": [
+    73,
+    16,
+    15,
+    2
+   ],
+   "CONGELADA": [
+    112,
+    143,
+    153,
+    113
+   ]
+  },
+  "ofertas": {
+   "MIENTE d1-5": {
+    "criatura_dias": 160,
+    "con_oferta": 160,
+    "aceptaciones": 160,
+    "llegadas": 73,
+    "dias_sin_oferta": []
+   },
+   "MIENTE d6-10": {
+    "criatura_dias": 160,
+    "con_oferta": 159,
+    "aceptaciones": 157,
+    "llegadas": 16,
+    "dias_sin_oferta": [
+     8
+    ]
+   },
+   "MIENTE d11-15": {
+    "criatura_dias": 160,
+    "con_oferta": 160,
+    "aceptaciones": 160,
+    "llegadas": 15,
+    "dias_sin_oferta": []
+   },
+   "MIENTE d16-20": {
+    "criatura_dias": 160,
+    "con_oferta": 130,
+    "aceptaciones": 129,
+    "llegadas": 2,
+    "dias_sin_oferta": [
+     19
+    ]
+   },
+   "CONGELADA d1-5": {
+    "criatura_dias": 160,
+    "con_oferta": 160,
+    "aceptaciones": 160,
+    "llegadas": 112,
+    "dias_sin_oferta": []
+   },
+   "CONGELADA d6-10": {
+    "criatura_dias": 160,
+    "con_oferta": 159,
+    "aceptaciones": 159,
+    "llegadas": 143,
+    "dias_sin_oferta": [
+     8
+    ]
+   },
+   "CONGELADA d11-15": {
+    "criatura_dias": 160,
+    "con_oferta": 160,
+    "aceptaciones": 160,
+    "llegadas": 153,
+    "dias_sin_oferta": []
+   },
+   "CONGELADA d16-20": {
+    "criatura_dias": 160,
+    "con_oferta": 130,
+    "aceptaciones": 130,
+    "llegadas": 113,
+    "dias_sin_oferta": [
+     19
+    ]
+   },
+   "HONESTA d1-5": {
+    "criatura_dias": 160,
+    "con_oferta": 160,
+    "aceptaciones": 160,
+    "llegadas": 133,
+    "dias_sin_oferta": []
+   },
+   "HONESTA d6-10": {
+    "criatura_dias": 160,
+    "con_oferta": 160,
+    "aceptaciones": 160,
+    "llegadas": 159,
+    "dias_sin_oferta": []
+   },
+   "HONESTA d11-15": {
+    "criatura_dias": 160,
+    "con_oferta": 160,
+    "aceptaciones": 160,
+    "llegadas": 160,
+    "dias_sin_oferta": []
+   },
+   "HONESTA d16-20": {
+    "criatura_dias": 160,
+    "con_oferta": 160,
+    "aceptaciones": 160,
+    "llegadas": 160,
+    "dias_sin_oferta": []
+   }
+  }
+ },
+ "fig5_3": {
+  "MIENTE d1": {
+   "media": 0.5,
+   "n_criaturas": 32,
+   "n_series": 16,
+   "ee_serie": 0.0
+  },
+  "MIENTE d2": {
+   "media": 0.4578,
+   "n_criaturas": 32,
+   "n_series": 16,
+   "ee_serie": 0.0167
+  },
+  "MIENTE d3": {
+   "media": 0.3598,
+   "n_criaturas": 32,
+   "n_series": 16,
+   "ee_serie": 0.0212
+  },
+  "MIENTE d4": {
+   "media": 0.3411,
+   "n_criaturas": 32,
+   "n_series": 16,
+   "ee_serie": 0.0162
+  },
+  "MIENTE d5": {
+   "media": 0.2709,
+   "n_criaturas": 32,
+   "n_series": 16,
+   "ee_serie": 0.0129
+  },
+  "MIENTE d6": {
+   "media": 0.229,
+   "n_criaturas": 32,
+   "n_series": 16,
+   "ee_serie": 0.0121
+  },
+  "MIENTE d7": {
+   "media": 0.2021,
+   "n_criaturas": 32,
+   "n_series": 16,
+   "ee_serie": 0.0058
+  },
+  "MIENTE d8": {
+   "media": 0.1998,
+   "n_criaturas": 32,
+   "n_series": 16,
+   "ee_serie": 0.0061
+  },
+  "MIENTE d9": {
+   "media": 0.1998,
+   "n_criaturas": 32,
+   "n_series": 16,
+   "ee_serie": 0.0061
+  },
+  "MIENTE d10": {
+   "media": 0.1883,
+   "n_criaturas": 32,
+   "n_series": 16,
+   "ee_serie": 0.0046
+  },
+  "MIENTE d11": {
+   "media": 0.1883,
+   "n_criaturas": 32,
+   "n_series": 16,
+   "ee_serie": 0.0046
+  },
+  "MIENTE d12": {
+   "media": 0.1883,
+   "n_criaturas": 32,
+   "n_series": 16,
+   "ee_serie": 0.0046
+  },
+  "MIENTE d13": {
+   "media": 0.1812,
+   "n_criaturas": 32,
+   "n_series": 16,
+   "ee_serie": 0.0053
+  },
+  "MIENTE d14": {
+   "media": 0.1812,
+   "n_criaturas": 32,
+   "n_series": 16,
+   "ee_serie": 0.0053
+  },
+  "MIENTE d15": {
+   "media": 0.1607,
+   "n_criaturas": 32,
+   "n_series": 16,
+   "ee_serie": 0.0059
+  },
+  "MIENTE d16": {
+   "media": 0.1607,
+   "n_criaturas": 32,
+   "n_series": 16,
+   "ee_serie": 0.0059
+  },
+  "MIENTE d17": {
+   "media": 0.1591,
+   "n_criaturas": 32,
+   "n_series": 16,
+   "ee_serie": 0.0064
+  },
+  "MIENTE d18": {
+   "media": 0.1591,
+   "n_criaturas": 32,
+   "n_series": 16,
+   "ee_serie": 0.0064
+  },
+  "MIENTE d19": {
+   "media": 0.1568,
+   "n_criaturas": 32,
+   "n_series": 16,
+   "ee_serie": 0.0055
+  },
+  "MIENTE d20": {
+   "media": 0.1568,
+   "n_criaturas": 32,
+   "n_series": 16,
+   "ee_serie": 0.0055
+  },
+  "CONGELADA d1": {
+   "media": 0.5,
+   "n_criaturas": 32,
+   "n_series": 16,
+   "ee_serie": 0.0
+  },
+  "CONGELADA d2": {
+   "media": 0.5,
+   "n_criaturas": 32,
+   "n_series": 16,
+   "ee_serie": 0.0
+  },
+  "CONGELADA d3": {
+   "media": 0.5,
+   "n_criaturas": 32,
+   "n_series": 16,
+   "ee_serie": 0.0
+  },
+  "CONGELADA d4": {
+   "media": 0.5,
+   "n_criaturas": 32,
+   "n_series": 16,
+   "ee_serie": 0.0
+  },
+  "CONGELADA d5": {
+   "media": 0.5,
+   "n_criaturas": 32,
+   "n_series": 16,
+   "ee_serie": 0.0
+  },
+  "CONGELADA d6": {
+   "media": 0.5,
+   "n_criaturas": 32,
+   "n_series": 16,
+   "ee_serie": 0.0
+  },
+  "CONGELADA d7": {
+   "media": 0.5,
+   "n_criaturas": 32,
+   "n_series": 16,
+   "ee_serie": 0.0
+  },
+  "CONGELADA d8": {
+   "media": 0.5,
+   "n_criaturas": 32,
+   "n_series": 16,
+   "ee_serie": 0.0
+  },
+  "CONGELADA d9": {
+   "media": 0.5,
+   "n_criaturas": 32,
+   "n_series": 16,
+   "ee_serie": 0.0
+  },
+  "CONGELADA d10": {
+   "media": 0.5,
+   "n_criaturas": 32,
+   "n_series": 16,
+   "ee_serie": 0.0
+  },
+  "CONGELADA d11": {
+   "media": 0.5,
+   "n_criaturas": 32,
+   "n_series": 16,
+   "ee_serie": 0.0
+  },
+  "CONGELADA d12": {
+   "media": 0.5,
+   "n_criaturas": 32,
+   "n_series": 16,
+   "ee_serie": 0.0
+  },
+  "CONGELADA d13": {
+   "media": 0.5,
+   "n_criaturas": 32,
+   "n_series": 16,
+   "ee_serie": 0.0
+  },
+  "CONGELADA d14": {
+   "media": 0.5,
+   "n_criaturas": 32,
+   "n_series": 16,
+   "ee_serie": 0.0
+  },
+  "CONGELADA d15": {
+   "media": 0.5,
+   "n_criaturas": 32,
+   "n_series": 16,
+   "ee_serie": 0.0
+  },
+  "CONGELADA d16": {
+   "media": 0.5,
+   "n_criaturas": 32,
+   "n_series": 16,
+   "ee_serie": 0.0
+  },
+  "CONGELADA d17": {
+   "media": 0.5,
+   "n_criaturas": 32,
+   "n_series": 16,
+   "ee_serie": 0.0
+  },
+  "CONGELADA d18": {
+   "media": 0.5,
+   "n_criaturas": 32,
+   "n_series": 16,
+   "ee_serie": 0.0
+  },
+  "CONGELADA d19": {
+   "media": 0.5,
+   "n_criaturas": 32,
+   "n_series": 16,
+   "ee_serie": 0.0
+  },
+  "CONGELADA d20": {
+   "media": 0.5,
+   "n_criaturas": 32,
+   "n_series": 16,
+   "ee_serie": 0.0
+  },
+  "HONESTA d1": {
+   "media": 0.5,
+   "n_criaturas": 32,
+   "n_series": 16,
+   "ee_serie": 0.0
+  },
+  "HONESTA d2": {
+   "media": 0.5188,
+   "n_criaturas": 32,
+   "n_series": 16,
+   "ee_serie": 0.0232
+  },
+  "HONESTA d3": {
+   "media": 0.5853,
+   "n_criaturas": 32,
+   "n_series": 16,
+   "ee_serie": 0.0267
+  },
+  "HONESTA d4": {
+   "media": 0.6019,
+   "n_criaturas": 32,
+   "n_series": 16,
+   "ee_serie": 0.0411
+  },
+  "HONESTA d5": {
+   "media": 0.6425,
+   "n_criaturas": 32,
+   "n_series": 16,
+   "ee_serie": 0.0441
+  },
+  "HONESTA d6": {
+   "media": 0.7404,
+   "n_criaturas": 32,
+   "n_series": 16,
+   "ee_serie": 0.0326
+  },
+  "HONESTA d7": {
+   "media": 0.8183,
+   "n_criaturas": 32,
+   "n_series": 16,
+   "ee_serie": 0.0228
+  },
+  "HONESTA d8": {
+   "media": 0.8165,
+   "n_criaturas": 32,
+   "n_series": 16,
+   "ee_serie": 0.0305
+  },
+  "HONESTA d9": {
+   "media": 0.8007,
+   "n_criaturas": 32,
+   "n_series": 16,
+   "ee_serie": 0.0364
+  },
+  "HONESTA d10": {
+   "media": 0.8136,
+   "n_criaturas": 32,
+   "n_series": 16,
+   "ee_serie": 0.0356
+  },
+  "HONESTA d11": {
+   "media": 0.8133,
+   "n_criaturas": 32,
+   "n_series": 16,
+   "ee_serie": 0.0474
+  },
+  "HONESTA d12": {
+   "media": 0.8693,
+   "n_criaturas": 32,
+   "n_series": 16,
+   "ee_serie": 0.0332
+  },
+  "HONESTA d13": {
+   "media": 0.9085,
+   "n_criaturas": 32,
+   "n_series": 16,
+   "ee_serie": 0.0232
+  },
+  "HONESTA d14": {
+   "media": 0.8235,
+   "n_criaturas": 32,
+   "n_series": 16,
+   "ee_serie": 0.0382
+  },
+  "HONESTA d15": {
+   "media": 0.8764,
+   "n_criaturas": 32,
+   "n_series": 16,
+   "ee_serie": 0.0267
+  },
+  "HONESTA d16": {
+   "media": 0.9135,
+   "n_criaturas": 32,
+   "n_series": 16,
+   "ee_serie": 0.0187
+  },
+  "HONESTA d17": {
+   "media": 0.9394,
+   "n_criaturas": 32,
+   "n_series": 16,
+   "ee_serie": 0.0131
+  },
+  "HONESTA d18": {
+   "media": 0.8263,
+   "n_criaturas": 32,
+   "n_series": 16,
+   "ee_serie": 0.0424
+  },
+  "HONESTA d19": {
+   "media": 0.8222,
+   "n_criaturas": 32,
+   "n_series": 16,
+   "ee_serie": 0.0338
+  },
+  "HONESTA d20": {
+   "media": 0.838,
+   "n_criaturas": 32,
+   "n_series": 16,
+   "ee_serie": 0.033
+  }
+ },
+ "fig3_1": {
+  "antigua_prudente": [
+   [
+    1,
+    1.273,
+    6
+   ],
+   [
+    2,
+    6.446,
+    6
+   ],
+   [
+    3,
+    8.474,
+    6
+   ],
+   [
+    4,
+    8.659,
+    6
+   ],
+   [
+    5,
+    8.659,
+    6
+   ],
+   [
+    6,
+    8.361,
+    6
+   ],
+   [
+    7,
+    8.114,
+    6
+   ],
+   [
+    8,
+    7.803,
+    6
+   ],
+   [
+    9,
+    7.936,
+    6
+   ],
+   [
+    10,
+    7.803,
+    6
+   ],
+   [
+    11,
+    11.066,
+    6
+   ],
+   [
+    12,
+    7.921,
+    6
+   ],
+   [
+    13,
+    16.469,
+    6
+   ],
+   [
+    14,
+    18.354,
+    6
+   ],
+   [
+    15,
+    9.525,
+    6
+   ],
+   [
+    16,
+    10.47,
+    5
+   ],
+   [
+    17,
+    28.975,
+    5
+   ],
+   [
+    18,
+    27.081,
+    5
+   ],
+   [
+    19,
+    27.081,
+    5
+   ],
+   [
+    20,
+    27.081,
+    5
+   ],
+   [
+    21,
+    27.081,
+    5
+   ],
+   [
+    22,
+    27.081,
+    5
+   ],
+   [
+    23,
+    27.081,
+    5
+   ],
+   [
+    24,
+    27.081,
+    5
+   ],
+   [
+    25,
+    27.081,
+    5
+   ],
+   [
+    26,
+    20.477,
+    4
+   ],
+   [
+    27,
+    25.208,
+    4
+   ],
+   [
+    28,
+    31.367,
+    3
+   ]
+  ],
+  "antigua_valiente": [
+   [
+    1,
+    5.834,
+    6
+   ],
+   [
+    2,
+    5.95,
+    6
+   ],
+   [
+    3,
+    6.617,
+    6
+   ],
+   [
+    4,
+    8.476,
+    6
+   ],
+   [
+    5,
+    8.279,
+    6
+   ],
+   [
+    6,
+    11.216,
+    6
+   ],
+   [
+    7,
+    11.216,
+    6
+   ],
+   [
+    8,
+    11.932,
+    6
+   ],
+   [
+    9,
+    11.662,
+    6
+   ],
+   [
+    10,
+    14.792,
+    6
+   ],
+   [
+    11,
+    16.509,
+    6
+   ],
+   [
+    12,
+    19.911,
+    6
+   ],
+   [
+    13,
+    20.958,
+    6
+   ],
+   [
+    14,
+    18.424,
+    6
+   ],
+   [
+    15,
+    18.424,
+    6
+   ],
+   [
+    16,
+    15.623,
+    6
+   ],
+   [
+    17,
+    18.665,
+    6
+   ],
+   [
+    18,
+    17.885,
+    6
+   ],
+   [
+    19,
+    16.874,
+    6
+   ],
+   [
+    20,
+    16.945,
+    6
+   ],
+   [
+    21,
+    17.872,
+    6
+   ],
+   [
+    22,
+    16.548,
+    6
+   ],
+   [
+    23,
+    18.521,
+    6
+   ],
+   [
+    24,
+    18.943,
+    6
+   ],
+   [
+    25,
+    17.821,
+    6
+   ],
+   [
+    26,
+    17.55,
+    6
+   ],
+   [
+    27,
+    18.672,
+    6
+   ],
+   [
+    28,
+    18.778,
+    6
+   ],
+   [
+    29,
+    18.739,
+    6
+   ],
+   [
+    30,
+    25.864,
+    6
+   ],
+   [
+    31,
+    22.049,
+    5
+   ],
+   [
+    32,
+    20.295,
+    4
+   ],
+   [
+    33,
+    21.181,
+    4
+   ]
+  ],
+  "propia": [
+   [
+    1,
+    8.8,
+    12
+   ],
+   [
+    2,
+    11.855,
+    12
+   ],
+   [
+    3,
+    14.883,
+    12
+   ],
+   [
+    4,
+    19.361,
+    12
+   ],
+   [
+    5,
+    19.777,
+    12
+   ],
+   [
+    6,
+    19.843,
+    12
+   ],
+   [
+    7,
+    19.873,
+    11
+   ],
+   [
+    8,
+    27.405,
+    11
+   ],
+   [
+    9,
+    40.0,
+    10
+   ],
+   [
+    10,
+    32.215,
+    9
+   ],
+   [
+    11,
+    39.405,
+    7
+   ],
+   [
+    12,
+    39.405,
+    7
+   ],
+   [
+    13,
+    39.028,
+    7
+   ],
+   [
+    14,
+    40.291,
+    5
+   ],
+   [
+    15,
+    38.91,
+    4
+   ],
+   [
+    16,
+    39.338,
+    4
+   ],
+   [
+    17,
+    36.509,
+    3
+   ]
+  ],
+  "propia_valiente_no_dibujada": [
+   [
+    1,
+    8.8,
+    6
+   ],
+   [
+    2,
+    13.852,
+    6
+   ],
+   [
+    3,
+    19.079,
+    6
+   ],
+   [
+    4,
+    21.573,
+    6
+   ],
+   [
+    5,
+    20.468,
+    6
+   ],
+   [
+    6,
+    19.843,
+    6
+   ],
+   [
+    7,
+    18.768,
+    6
+   ],
+   [
+    8,
+    21.171,
+    6
+   ],
+   [
+    9,
+    30.385,
+    6
+   ],
+   [
+    10,
+    21.273,
+    5
+   ],
+   [
+    11,
+    22.008,
+    3
+   ],
+   [
+    12,
+    22.987,
+    3
+   ],
+   [
+    13,
+    24.526,
+    3
+   ]
+  ],
+  "propia_prudente_no_dibujada": [
+   [
+    1,
+    8.69,
+    6
+   ],
+   [
+    2,
+    8.759,
+    6
+   ],
+   [
+    3,
+    10.919,
+    6
+   ],
+   [
+    4,
+    15.637,
+    6
+   ],
+   [
+    5,
+    15.294,
+    6
+   ],
+   [
+    6,
+    21.408,
+    6
+   ],
+   [
+    7,
+    35.969,
+    5
+   ],
+   [
+    8,
+    38.798,
+    5
+   ],
+   [
+    9,
+    40.995,
+    4
+   ],
+   [
+    10,
+    40.282,
+    4
+   ],
+   [
+    11,
+    40.282,
+    4
+   ],
+   [
+    12,
+    40.282,
+    4
+   ],
+   [
+    13,
+    39.659,
+    4
+   ],
+   [
+    14,
+    40.291,
+    3
+   ]
+  ],
+  "cruces": {
+   "antigua_prudente": 17,
+   "antigua_valiente": 30,
+   "propia": 8
+  },
+  "cruces_propia_por_personalidad_no_dibujadas": {
+   "valiente": 9,
+   "prudente": 7
+  },
+  "mediana_de_cruces_P7_47_H3": 8.5
+ },
+ "fig3_1_revision": {
+  "antigua_prudente_sin_cortadas": [
+   [
+    1,
+    6.225,
+    6
+   ],
+   [
+    2,
+    7.652,
+    6
+   ],
+   [
+    3,
+    8.742,
+    6
+   ],
+   [
+    4,
+    12.099,
+    6
+   ],
+   [
+    5,
+    10.145,
+    6
+   ],
+   [
+    6,
+    16.945,
+    6
+   ],
+   [
+    7,
+    15.879,
+    6
+   ],
+   [
+    8,
+    21.194,
+    6
+   ],
+   [
+    9,
+    33.205,
+    4
+   ],
+   [
+    10,
+    33.078,
+    4
+   ],
+   [
+    11,
+    33.929,
+    4
+   ],
+   [
+    12,
+    33.929,
+    4
+   ],
+   [
+    13,
+    33.0,
+    4
+   ],
+   [
+    14,
+    23.606,
+    4
+   ],
+   [
+    15,
+    34.743,
+    3
+   ],
+   [
+    16,
+    27.503,
+    3
+   ]
+  ],
+  "antigua_valiente_sin_cortadas": [
+   [
+    1,
+    5.834,
+    6
+   ],
+   [
+    2,
+    9.678,
+    6
+   ],
+   [
+    3,
+    13.114,
+    6
+   ],
+   [
+    4,
+    16.02,
+    6
+   ],
+   [
+    5,
+    18.761,
+    6
+   ],
+   [
+    6,
+    18.477,
+    6
+   ],
+   [
+    7,
+    17.11,
+    6
+   ],
+   [
+    8,
+    16.874,
+    6
+   ],
+   [
+    9,
+    24.688,
+    6
+   ],
+   [
+    10,
+    26.469,
+    6
+   ],
+   [
+    11,
+    21.17,
+    5
+   ],
+   [
+    12,
+    18.893,
+    4
+   ],
+   [
+    13,
+    23.025,
+    3
+   ],
+   [
+    14,
+    24.379,
+    3
+   ]
+  ],
+  "cruces": {
+   "antigua_prudente": 9,
+   "antigua_valiente": 10,
+   "propia": 8
+  },
+  "cortadas": {
+   "APRENDE_p": {
+    "criaturas": {
+     "s1 a10": {
+      "pruebas": 15,
+      "cortadas": 7
+     },
+     "s1 a11": {
+      "pruebas": 27,
+      "cortadas": 13
+     },
+     "s2 a10": {
+      "pruebas": 25,
+      "cortadas": 17
+     },
+     "s2 a11": {
+      "pruebas": 39,
+      "cortadas": 21
+     },
+     "s3 a10": {
+      "pruebas": 28,
+      "cortadas": 12
+     },
+     "s3 a11": {
+      "pruebas": 36,
+      "cortadas": 20
+     }
+    },
+    "pruebas": 170,
+    "cortadas": 90,
+    "cortadas_con_creencia": 53,
+    "cortadas_que_mueven_la_creencia": 21
+   },
+   "APRENDE_v": {
+    "criaturas": {
+     "s1 a10": {
+      "pruebas": 33,
+      "cortadas": 22
+     },
+     "s1 a11": {
+      "pruebas": 30,
+      "cortadas": 9
+     },
+     "s2 a10": {
+      "pruebas": 33,
+      "cortadas": 19
+     },
+     "s2 a11": {
+      "pruebas": 33,
+      "cortadas": 15
+     },
+     "s3 a10": {
+      "pruebas": 33,
+      "cortadas": 21
+     },
+     "s3 a11": {
+      "pruebas": 31,
+      "cortadas": 21
+     }
+    },
+    "pruebas": 193,
+    "cortadas": 107,
+    "cortadas_con_creencia": 73,
+    "cortadas_que_mueven_la_creencia": 35
+   }
+  },
+  "habituacion_final_por_criatura": {
+   "APRENDE_v s1 a10": [
+    "camouflage",
+    "net"
+   ],
+   "APRENDE_v s1 a11": [
+    "net"
+   ],
+   "APRENDE_v s2 a10": [
+    "camouflage",
+    "net"
+   ],
+   "APRENDE_v s2 a11": [
+    "camouflage",
+    "net"
+   ],
+   "APRENDE_v s3 a10": [
+    "camouflage",
+    "net"
+   ],
+   "APRENDE_v s3 a11": [
+    "camouflage",
+    "net"
+   ],
+   "APRENDE_p s1 a10": [
+    "camouflage",
+    "net"
+   ],
+   "APRENDE_p s1 a11": [
+    "camouflage",
+    "net"
+   ],
+   "APRENDE_p s2 a10": [
+    "camouflage"
+   ],
+   "APRENDE_p s2 a11": [
+    "camouflage",
+    "net"
+   ],
+   "APRENDE_p s3 a10": [
+    "camouflage",
+    "net"
+   ],
+   "APRENDE_p s3 a11": [
+    "net"
+   ]
+  },
+  "propia_con_intensidad_P7_40_no_dibujada": [
+   [
+    1,
+    6.145,
+    12
+   ],
+   [
+    2,
+    10.233,
+    12
+   ],
+   [
+    3,
+    12.639,
+    12
+   ],
+   [
+    4,
+    16.808,
+    12
+   ],
+   [
+    5,
+    15.741,
+    12
+   ],
+   [
+    6,
+    17.323,
+    12
+   ],
+   [
+    7,
+    18.234,
+    11
+   ],
+   [
+    8,
+    22.981,
+    11
+   ],
+   [
+    9,
+    30.67,
+    10
+   ],
+   [
+    10,
+    26.899,
+    9
+   ],
+   [
+    11,
+    31.367,
+    7
+   ],
+   [
+    12,
+    31.367,
+    7
+   ],
+   [
+    13,
+    30.802,
+    7
+   ],
+   [
+    14,
+    34.943,
+    5
+   ],
+   [
+    15,
+    30.795,
+    4
+   ],
+   [
+    16,
+    30.39,
+    4
+   ],
+   [
+    17,
+    26.211,
+    3
+   ]
+  ],
+  "cruce_propia_con_intensidad_P7_40": 9,
+  "recuerdos_sin_intensidad_P7_40": 1
+ },
+ "fig3_1_intensidades_11_17": {
+  "por_prueba": {
+   "11": {
+    "n": 7,
+    "mediana_propia": 39.4047,
+    "mediana_antigua": 31.3671,
+    "dif_media": 4.1982,
+    "dif_ee": 1.1626,
+    "criaturas": [
+     "APRENDE_p s1 a11",
+     "APRENDE_p s2 a11",
+     "APRENDE_p s3 a10",
+     "APRENDE_p s3 a11",
+     "APRENDE_v s1 a11",
+     "APRENDE_v s2 a10",
+     "APRENDE_v s2 a11"
+    ]
+   },
+   "12": {
+    "n": 7,
+    "mediana_propia": 39.4047,
+    "mediana_antigua": 31.3671,
+    "dif_media": 4.3955,
+    "dif_ee": 1.1321,
+    "criaturas": [
+     "APRENDE_p s1 a11",
+     "APRENDE_p s2 a11",
+     "APRENDE_p s3 a10",
+     "APRENDE_p s3 a11",
+     "APRENDE_v s1 a11",
+     "APRENDE_v s2 a10",
+     "APRENDE_v s2 a11"
+    ]
+   },
+   "13": {
+    "n": 7,
+    "mediana_propia": 39.0275,
+    "mediana_antigua": 30.8022,
+    "dif_media": 4.8139,
+    "dif_ee": 1.1287,
+    "criaturas": [
+     "APRENDE_p s1 a11",
+     "APRENDE_p s2 a11",
+     "APRENDE_p s3 a10",
+     "APRENDE_p s3 a11",
+     "APRENDE_v s1 a11",
+     "APRENDE_v s2 a10",
+     "APRENDE_v s2 a11"
+    ]
+   },
+   "14": {
+    "n": 5,
+    "mediana_propia": 40.2905,
+    "mediana_antigua": 34.9431,
+    "dif_media": 6.4432,
+    "dif_ee": 1.345,
+    "criaturas": [
+     "APRENDE_p s2 a11",
+     "APRENDE_p s3 a10",
+     "APRENDE_p s3 a11",
+     "APRENDE_v s1 a11",
+     "APRENDE_v s2 a11"
+    ]
+   },
+   "15": {
+    "n": 4,
+    "mediana_propia": 38.9096,
+    "mediana_antigua": 30.7952,
+    "dif_media": 6.5793,
+    "dif_ee": 1.763,
+    "criaturas": [
+     "APRENDE_p s2 a11",
+     "APRENDE_p s3 a11",
+     "APRENDE_v s1 a11",
+     "APRENDE_v s2 a11"
+    ]
+   },
+   "16": {
+    "n": 4,
+    "mediana_propia": 39.338,
+    "mediana_antigua": 30.3896,
+    "dif_media": 6.0928,
+    "dif_ee": 1.8844,
+    "criaturas": [
+     "APRENDE_p s2 a11",
+     "APRENDE_p s3 a11",
+     "APRENDE_v s1 a11",
+     "APRENDE_v s2 a11"
+    ]
+   },
+   "17": {
+    "n": 3,
+    "mediana_propia": 36.5087,
+    "mediana_antigua": 26.2114,
+    "dif_media": 6.9213,
+    "dif_ee": 2.7386,
+    "criaturas": [
+     "APRENDE_p s2 a11",
+     "APRENDE_v s1 a11",
+     "APRENDE_v s2 a11"
+    ]
+   }
+  },
+  "por_criatura": {
+   "APRENDE_p s1 a11": {
+    "pruebas": 3,
+    "dif_media": 2.6985
+   },
+   "APRENDE_p s2 a11": {
+    "pruebas": 7,
+    "dif_media": 9.1719
+   },
+   "APRENDE_p s3 a10": {
+    "pruebas": 4,
+    "dif_media": 6.1432
+   },
+   "APRENDE_p s3 a11": {
+    "pruebas": 6,
+    "dif_media": 4.8478
+   },
+   "APRENDE_v s1 a11": {
+    "pruebas": 7,
+    "dif_media": 8.2567
+   },
+   "APRENDE_v s2 a10": {
+    "pruebas": 3,
+    "dif_media": 0.0249
+   },
+   "APRENDE_v s2 a11": {
+    "pruebas": 7,
+    "dif_media": 1.9558
+   }
+  },
+  "resumen_por_criatura": {
+   "n": 7,
+   "media": 4.7284,
+   "ee": 1.2737
+  },
+  "habituacion_en_cuadernos_diarios": {
+   "cuadernos": 240,
+   "objetos": {
+    "net": 169,
+    "camouflage": 143
+   }
+  }
+ },
+ "huellas_sha256": {
+  "fig5_2_es": {
+   "png": "f0168addfafe119a4e4ef4728265fa8f319be0a929bde0ebf0e54e076911b4fc",
+   "pdf": "01d9f585670bce7a88e819865a59cece07dfa96ca73dbe50e31fd4d363c0e1a4"
+  },
+  "fig5_3_es": {
+   "png": "6935aca42eb5bda6f1b7bebe772732052d0e5a32c5ae26af470bf0cc3efd8b08",
+   "pdf": "b48cadd931a905fe89096a0f8467d66c4fb6be38cffe23d6351597931e161c6d"
+  },
+  "fig3_1_es_anterior": {
+   "png": "78d046d69acc79d0969701c3849d22cf4e077ee73133f8533766cdc92e9bfcff",
+   "pdf": "951bae45124d0a98267e53021880f47bdd46507e9f980a1cdd21772125ec573b"
+  },
+  "fig3_1_es": {
+   "png": "0e6d15c970ddcb104d70852ea1f9674079d7c94a07b7dd73dece2e5d7f327499",
+   "pdf": "e92e0ff781be640c4837be0c4f46095cde11f134f18a8298b0bdcedf1ab3119d"
+  },
+  "fig5_2_en": {
+   "png": "654aa77ce16da5491468679bbb1799fd05ff814db68b631d5424023f7115da5b",
+   "pdf": "3bc62751799bbb70c4becce3a02bbfe4b89154c36c09a778907013fb6ec608b5"
+  },
+  "fig5_3_en": {
+   "png": "2877de9c8a5f0c9df9c088cc38826856da608099cb2ebfe7862842c126b3cdb5",
+   "pdf": "92a9dec0fe78d1ed24ab19eb656b3ffeadcdd7796c4e91c81294aed370abce5b"
+  },
+  "fig3_1_en_anterior": {
+   "png": "c955f7d976b5443b0050158c29ae7fe1a36444e0570c04b8758982fe8754005b",
+   "pdf": "5b125271a31312a0abd8b8ef33ed0db96b2ae212125cffe0aeaf744671bce3ab"
+  },
+  "fig3_1_en": {
+   "png": "f9fd9198bf9c84002dba78c6db0ffd638304c14752f29e3f78b91eab63088624",
+   "pdf": "5c138df0b82abfa223727c1e67a5a425f15704cfde6b5a66815326811c8a8b87"
+  }
+ }
+}

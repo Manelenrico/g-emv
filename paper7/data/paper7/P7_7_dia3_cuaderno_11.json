@@ -1,0 +1,124 @@
+{
+ "criatura": 11,
+ "dia": 3,
+ "objetos": {
+  "first_aid": {
+   "situaciones": {
+    "dentro": [
+     {
+      "dia": 2,
+      "tick": 12759,
+      "efecto": {
+       "cuerpo": 18.0,
+       "recursos": -1.0,
+       "vinculo": 0.7639
+      },
+      "importancia": {
+       "cuerpo": -0.192,
+       "recursos": 0.0244,
+       "vinculo": -0.1376
+      },
+      "intensidad": 1.236,
+      "creencia_antes": null,
+      "al_menos": true
+     },
+     {
+      "dia": 2,
+      "tick": 12945,
+      "efecto": {
+       "cuerpo": 7.0,
+       "recursos": -1.0,
+       "vinculo": 1.2361
+      },
+      "importancia": {
+       "cuerpo": -0.1706,
+       "recursos": -0.0905,
+       "vinculo": -0.1597
+      },
+      "intensidad": 1.2805,
+      "creencia_antes": {
+       "cuerpo": 9.9499,
+       "recursos": -0.5528,
+       "vinculo": 0.4223
+      },
+      "al_menos": true
+     },
+     {
+      "dia": 3,
+      "tick": 4851,
+      "efecto": {
+       "cuerpo": 6.0,
+       "recursos": -1.0,
+       "vinculo": -2.0
+      },
+      "importancia": {
+       "cuerpo": -0.1447,
+       "recursos": -0.0274,
+       "vinculo": -0.1057
+      },
+      "intensidad": 1.1852,
+      "creencia_antes": {
+       "cuerpo": 8.7448,
+       "recursos": -0.7051,
+       "vinculo": 0.708
+      },
+      "al_menos": true
+     },
+     {
+      "dia": 3,
+      "tick": 14047,
+      "efecto": {
+       "cuerpo": 50.0,
+       "recursos": -1.0,
+       "vinculo": 0.0
+      },
+      "importancia": {
+       "cuerpo": -0.5704,
+       "recursos": -0.0707,
+       "vinculo": -0.0508
+      },
+      "intensidad": 1.4613,
+      "creencia_antes": {
+       "cuerpo": 8.0339,
+       "recursos": -0.7815,
+       "vinculo": 0.0066
+      },
+      "al_menos": false
+     },
+     {
+      "dia": 3,
+      "tick": 14096,
+      "efecto": {
+       "cuerpo": 36.0,
+       "recursos": -1.0,
+       "vinculo": 0.0
+      },
+      "importancia": {
+       "cuerpo": -0.2004,
+       "recursos": 0.2216,
+       "vinculo": 0.0355
+      },
+      "intensidad": 1.305,
+      "creencia_antes": {
+       "cuerpo": 29.6855,
+       "recursos": -0.8344,
+       "vinculo": 0.005
+      },
+      "al_menos": true
+     }
+    ]
+   }
+  }
+ },
+ "creencias": {
+  "first_aid": {
+   "dentro": {
+    "cuerpo": 31.4342,
+    "recursos": -0.8577,
+    "vinculo": 0.0041
+   },
+   "ignorancia": 0.1423,
+   "pesos_vividos": 6.0251
+  }
+ }
+}

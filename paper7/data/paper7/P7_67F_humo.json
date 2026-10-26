@@ -1,0 +1,618 @@
+{
+ "partidas": 9,
+ "completadas": 9,
+ "reintentos": 0,
+ "asientos": [
+  {
+   "nivel": "1",
+   "brazo": "CONGELADA",
+   "asiento": 10,
+   "estado": "completed",
+   "p95_ms": 10.39,
+   "sobre_el_tic": 0.0,
+   "guarda_pasa": true,
+   "regla_dura": false,
+   "diario": true,
+   "cuaderno_fin": true,
+   "activos": [
+    4
+   ],
+   "P7_67b": true,
+   "congela_arranque": true,
+   "eventos": {
+    "P7_66_aceptada": 1,
+    "P7_66_no_llego": 1
+   },
+   "aciertos_bien": 0,
+   "aciertos_mal": 0,
+   "conf_cierre": {
+    "cuerpo": 0.5,
+    "recursos": 0.5,
+    "vinculo": 0.5
+   },
+   "congela_fijadas": 0,
+   "pasa": true
+  },
+  {
+   "nivel": "1",
+   "brazo": "CONGELADA",
+   "asiento": 11,
+   "estado": "completed",
+   "p95_ms": 10.51,
+   "sobre_el_tic": 0.0,
+   "guarda_pasa": true,
+   "regla_dura": false,
+   "diario": true,
+   "cuaderno_fin": true,
+   "activos": [
+    4
+   ],
+   "P7_67b": true,
+   "congela_arranque": true,
+   "eventos": {
+    "P7_66_aceptada": 1,
+    "P7_66_no_llego": 1
+   },
+   "aciertos_bien": 0,
+   "aciertos_mal": 0,
+   "conf_cierre": {
+    "cuerpo": 0.5,
+    "recursos": 0.5,
+    "vinculo": 0.5
+   },
+   "congela_fijadas": 0,
+   "pasa": true
+  },
+  {
+   "nivel": "1",
+   "brazo": "HONESTA",
+   "asiento": 10,
+   "estado": "completed",
+   "p95_ms": 14.13,
+   "sobre_el_tic": 0.0,
+   "guarda_pasa": true,
+   "regla_dura": false,
+   "diario": true,
+   "cuaderno_fin": true,
+   "activos": [
+    4
+   ],
+   "P7_67b": true,
+   "congela_arranque": false,
+   "eventos": {
+    "P7_66_aceptada": 1,
+    "P7_66_no_llego": 1
+   },
+   "aciertos_bien": 0,
+   "aciertos_mal": 0,
+   "conf_cierre": {
+    "cuerpo": 0.5,
+    "recursos": 0.5,
+    "vinculo": 0.5
+   },
+   "congela_fijadas": 0,
+   "pasa": true
+  },
+  {
+   "nivel": "1",
+   "brazo": "HONESTA",
+   "asiento": 11,
+   "estado": "completed",
+   "p95_ms": 11.6,
+   "sobre_el_tic": 0.0,
+   "guarda_pasa": true,
+   "regla_dura": false,
+   "diario": true,
+   "cuaderno_fin": true,
+   "activos": [
+    4
+   ],
+   "P7_67b": true,
+   "congela_arranque": false,
+   "eventos": {
+    "P7_66_aceptada": 1,
+    "P7_66_llegada": 1
+   },
+   "aciertos_bien": 1,
+   "aciertos_mal": 0,
+   "conf_cierre": {
+    "cuerpo": 0.5,
+    "recursos": 0.6499999999999999,
+    "vinculo": 0.5
+   },
+   "congela_fijadas": 0,
+   "pasa": true
+  },
+  {
+   "nivel": "1",
+   "brazo": "MIENTE",
+   "asiento": 10,
+   "estado": "completed",
+   "p95_ms": 10.07,
+   "sobre_el_tic": 0.0,
+   "guarda_pasa": true,
+   "regla_dura": false,
+   "diario": true,
+   "cuaderno_fin": true,
+   "activos": [
+    4
+   ],
+   "P7_67b": true,
+   "congela_arranque": false,
+   "eventos": {
+    "P7_66_aceptada": 1,
+    "P7_66_no_llego": 1
+   },
+   "aciertos_bien": 0,
+   "aciertos_mal": 0,
+   "conf_cierre": {
+    "cuerpo": 0.5,
+    "recursos": 0.5,
+    "vinculo": 0.5
+   },
+   "congela_fijadas": 0,
+   "pasa": true
+  },
+  {
+   "nivel": "1",
+   "brazo": "MIENTE",
+   "asiento": 11,
+   "estado": "completed",
+   "p95_ms": 10.18,
+   "sobre_el_tic": 0.0,
+   "guarda_pasa": true,
+   "regla_dura": false,
+   "diario": true,
+   "cuaderno_fin": true,
+   "activos": [
+    4
+   ],
+   "P7_67b": true,
+   "congela_arranque": false,
+   "eventos": {
+    "P7_66_aceptada": 1,
+    "P7_66_no_llego": 1
+   },
+   "aciertos_bien": 0,
+   "aciertos_mal": 0,
+   "conf_cierre": {
+    "cuerpo": 0.5,
+    "recursos": 0.5,
+    "vinculo": 0.5
+   },
+   "congela_fijadas": 0,
+   "pasa": true
+  },
+  {
+   "nivel": "2",
+   "brazo": "HONESTA",
+   "asiento": 10,
+   "estado": "completed",
+   "p95_ms": 13.6,
+   "sobre_el_tic": 0.0,
+   "guarda_pasa": true,
+   "regla_dura": false,
+   "diario": true,
+   "cuaderno_fin": true,
+   "activos": [
+    4,
+    12
+   ],
+   "P7_67b": true,
+   "congela_arranque": false,
+   "eventos": {
+    "P7_66_aceptada": 1,
+    "P7_66_no_llego": 1
+   },
+   "aciertos_bien": 0,
+   "aciertos_mal": 0,
+   "conf_cierre": {
+    "cuerpo": 0.5,
+    "recursos": 0.5,
+    "vinculo": 0.5
+   },
+   "congela_fijadas": 0,
+   "pasa": true
+  },
+  {
+   "nivel": "2",
+   "brazo": "HONESTA",
+   "asiento": 11,
+   "estado": "completed",
+   "p95_ms": 11.65,
+   "sobre_el_tic": 0.0,
+   "guarda_pasa": true,
+   "regla_dura": false,
+   "diario": true,
+   "cuaderno_fin": true,
+   "activos": [
+    4,
+    12
+   ],
+   "P7_67b": true,
+   "congela_arranque": false,
+   "eventos": {
+    "P7_66_aceptada": 1,
+    "P7_66_no_llego": 1
+   },
+   "aciertos_bien": 0,
+   "aciertos_mal": 0,
+   "conf_cierre": {
+    "cuerpo": 0.5,
+    "recursos": 0.5,
+    "vinculo": 0.5
+   },
+   "congela_fijadas": 0,
+   "pasa": true
+  },
+  {
+   "nivel": "2",
+   "brazo": "MIENTE",
+   "asiento": 10,
+   "estado": "completed",
+   "p95_ms": 11.46,
+   "sobre_el_tic": 0.0,
+   "guarda_pasa": true,
+   "regla_dura": false,
+   "diario": true,
+   "cuaderno_fin": true,
+   "activos": [
+    4,
+    12
+   ],
+   "P7_67b": true,
+   "congela_arranque": false,
+   "eventos": {
+    "P7_66_aceptada": 1,
+    "P7_66_no_llego": 1
+   },
+   "aciertos_bien": 0,
+   "aciertos_mal": 0,
+   "conf_cierre": {
+    "cuerpo": 0.5,
+    "recursos": 0.5,
+    "vinculo": 0.5
+   },
+   "congela_fijadas": 0,
+   "pasa": true
+  },
+  {
+   "nivel": "2",
+   "brazo": "MIENTE",
+   "asiento": 11,
+   "estado": "completed",
+   "p95_ms": 6.49,
+   "sobre_el_tic": 0.0,
+   "guarda_pasa": true,
+   "regla_dura": false,
+   "diario": true,
+   "cuaderno_fin": true,
+   "activos": [
+    4,
+    12
+   ],
+   "P7_67b": true,
+   "congela_arranque": false,
+   "eventos": {
+    "P7_66_aceptada": 1,
+    "P7_66_no_llego": 1
+   },
+   "aciertos_bien": 0,
+   "aciertos_mal": 0,
+   "conf_cierre": {
+    "cuerpo": 0.5,
+    "recursos": 0.5,
+    "vinculo": 0.5
+   },
+   "congela_fijadas": 0,
+   "pasa": true
+  },
+  {
+   "nivel": "3",
+   "brazo": "HONESTA",
+   "asiento": 10,
+   "estado": "completed",
+   "p95_ms": 13.76,
+   "sobre_el_tic": 0.0001,
+   "guarda_pasa": true,
+   "regla_dura": false,
+   "diario": true,
+   "cuaderno_fin": true,
+   "activos": [
+    2,
+    4,
+    12
+   ],
+   "P7_67b": true,
+   "congela_arranque": false,
+   "eventos": {
+    "P7_66_aceptada": 1,
+    "P7_66_no_llego": 1
+   },
+   "aciertos_bien": 0,
+   "aciertos_mal": 0,
+   "conf_cierre": {
+    "cuerpo": 0.5,
+    "recursos": 0.5,
+    "vinculo": 0.5
+   },
+   "congela_fijadas": 0,
+   "pasa": true
+  },
+  {
+   "nivel": "3",
+   "brazo": "HONESTA",
+   "asiento": 11,
+   "estado": "completed",
+   "p95_ms": 13.34,
+   "sobre_el_tic": 0.0001,
+   "guarda_pasa": true,
+   "regla_dura": false,
+   "diario": true,
+   "cuaderno_fin": true,
+   "activos": [
+    2,
+    4,
+    12
+   ],
+   "P7_67b": true,
+   "congela_arranque": false,
+   "eventos": {
+    "P7_66_aceptada": 1,
+    "P7_66_no_llego": 1
+   },
+   "aciertos_bien": 0,
+   "aciertos_mal": 0,
+   "conf_cierre": {
+    "cuerpo": 0.5,
+    "recursos": 0.5,
+    "vinculo": 0.5
+   },
+   "congela_fijadas": 0,
+   "pasa": true
+  },
+  {
+   "nivel": "3",
+   "brazo": "MIENTE",
+   "asiento": 10,
+   "estado": "completed",
+   "p95_ms": 11.69,
+   "sobre_el_tic": 0.0,
+   "guarda_pasa": true,
+   "regla_dura": false,
+   "diario": true,
+   "cuaderno_fin": true,
+   "activos": [
+    2,
+    4,
+    12
+   ],
+   "P7_67b": true,
+   "congela_arranque": false,
+   "eventos": {
+    "P7_66_aceptada": 1,
+    "P7_66_no_llego": 1
+   },
+   "aciertos_bien": 0,
+   "aciertos_mal": 0,
+   "conf_cierre": {
+    "cuerpo": 0.5,
+    "recursos": 0.5,
+    "vinculo": 0.5
+   },
+   "congela_fijadas": 0,
+   "pasa": true
+  },
+  {
+   "nivel": "3",
+   "brazo": "MIENTE",
+   "asiento": 11,
+   "estado": "completed",
+   "p95_ms": 8.85,
+   "sobre_el_tic": 0.0,
+   "guarda_pasa": true,
+   "regla_dura": false,
+   "diario": true,
+   "cuaderno_fin": true,
+   "activos": [
+    2,
+    4,
+    12
+   ],
+   "P7_67b": true,
+   "congela_arranque": false,
+   "eventos": {
+    "P7_66_aceptada": 1,
+    "P7_66_no_llego": 1
+   },
+   "aciertos_bien": 0,
+   "aciertos_mal": 0,
+   "conf_cierre": {
+    "cuerpo": 0.5,
+    "recursos": 0.5,
+    "vinculo": 0.5
+   },
+   "congela_fijadas": 0,
+   "pasa": true
+  },
+  {
+   "nivel": "14",
+   "brazo": "HONESTA",
+   "asiento": 10,
+   "estado": "completed",
+   "p95_ms": 11.23,
+   "sobre_el_tic": 0.0,
+   "guarda_pasa": true,
+   "regla_dura": false,
+   "diario": true,
+   "cuaderno_fin": true,
+   "activos": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    12,
+    13,
+    14,
+    15
+   ],
+   "P7_67b": true,
+   "congela_arranque": false,
+   "eventos": {
+    "P7_66_aceptada": 1,
+    "P7_66_interrumpida": 1
+   },
+   "aciertos_bien": 0,
+   "aciertos_mal": 0,
+   "conf_cierre": {
+    "cuerpo": 0.5,
+    "recursos": 0.5,
+    "vinculo": 0.5
+   },
+   "congela_fijadas": 0,
+   "pasa": true
+  },
+  {
+   "nivel": "14",
+   "brazo": "HONESTA",
+   "asiento": 11,
+   "estado": "completed",
+   "p95_ms": 10.7,
+   "sobre_el_tic": 0.0,
+   "guarda_pasa": true,
+   "regla_dura": false,
+   "diario": true,
+   "cuaderno_fin": true,
+   "activos": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    12,
+    13,
+    14,
+    15
+   ],
+   "P7_67b": true,
+   "congela_arranque": false,
+   "eventos": {
+    "P7_66_aceptada": 2,
+    "P7_66_interrumpida": 1,
+    "P7_66_llegada": 1
+   },
+   "aciertos_bien": 1,
+   "aciertos_mal": 0,
+   "conf_cierre": {
+    "cuerpo": 0.5,
+    "recursos": 0.6499999999999999,
+    "vinculo": 0.5
+   },
+   "congela_fijadas": 0,
+   "pasa": true
+  },
+  {
+   "nivel": "14",
+   "brazo": "MIENTE",
+   "asiento": 10,
+   "estado": "completed",
+   "p95_ms": 6.38,
+   "sobre_el_tic": 0.0,
+   "guarda_pasa": true,
+   "regla_dura": false,
+   "diario": true,
+   "cuaderno_fin": true,
+   "activos": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    12,
+    13,
+    14,
+    15
+   ],
+   "P7_67b": true,
+   "congela_arranque": false,
+   "eventos": {
+    "P7_66_aceptada": 1,
+    "P7_66_llegada": 1
+   },
+   "aciertos_bien": 1,
+   "aciertos_mal": 0,
+   "conf_cierre": {
+    "cuerpo": 0.5,
+    "recursos": 0.35,
+    "vinculo": 0.5
+   },
+   "congela_fijadas": 0,
+   "pasa": true
+  },
+  {
+   "nivel": "14",
+   "brazo": "MIENTE",
+   "asiento": 11,
+   "estado": "completed",
+   "p95_ms": 12.52,
+   "sobre_el_tic": 0.0011,
+   "guarda_pasa": true,
+   "regla_dura": false,
+   "diario": true,
+   "cuaderno_fin": true,
+   "activos": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    12,
+    13,
+    14,
+    15
+   ],
+   "P7_67b": true,
+   "congela_arranque": false,
+   "eventos": {
+    "P7_66_aceptada": 1,
+    "P7_66_llegada": 1
+   },
+   "aciertos_bien": 1,
+   "aciertos_mal": 0,
+   "conf_cierre": {
+    "cuerpo": 0.5,
+    "recursos": 0.35,
+    "vinculo": 0.5
+   },
+   "congela_fijadas": 0,
+   "pasa": true
+  }
+ ],
+ "no_pasan": [],
+ "guarda_marcadas": [],
+ "p95_max": 14.13,
+ "analisis_corre": true,
+ "analisis_salida": "principal | P1 NO CALCULABLE None None dentro 0 fuera 1 | P2 NO CALCULABLE None None | P3 NO PASA 0.23279670112762535 0.11500218753738177 filas 8 niveles ['1', '2', '3', '14']\nrobustez_sin_marcadas | P1 NO CALCULABLE None None dentro 0 fuera 1 | P2 NO CALCULABLE None None | P3 NO PASA 0.23279670112762535 0.11500218753738177 filas 8 niveles ['1', '2', '3', '14']\nrobustez_por_criatura | P1 NO CALCULABLE None None dentro 0 fuera 2 | P2 NO CALCULABLE None None | P3 NO PASA 0.23279670112762538 0.10216467109294003 filas 16 niveles ['1', '2', '3', '14']\ncriatura-dias 18 marcadas 0 anomalias 0 -> P7_67_analisis.json\n",
+ "humo_pasa": true
+}

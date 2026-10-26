@@ -1,0 +1,8 @@
+P1 nivel criatura-dia, MIENTE, y=llegada ~ B:
+  coef -0.2204 ee[serie] 0.0135 z -16.37
+  coef -0.2204 ee[dia] 0.0900 z -2.45
+  coef -0.2204 ee[dos vias] 0.0831 z -2.65
+P2: y ~ MIENTE + B + MIENTE*B (coef interaccion):
+  coef -0.3382 ee[serie] 0.0360 z -9.39
+  coef -0.3382 ee[dia] 0.1173 z -2.88
+  coef -0.3382 ee[dos vias] 0.1141 z -2.97

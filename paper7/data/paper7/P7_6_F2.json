@@ -1,0 +1,1221 @@
+{
+ "vidas": [
+  {
+   "dia_P7_5": 1,
+   "vida": "P75_humo_APRENDE_26544656/10",
+   "escenas": 375,
+   "registradas": 375,
+   "clases": {
+    "otra": 351,
+    "ir al objeto": 1,
+    "coger": 2,
+    "hacer sitio": 21
+   },
+   "suelta": {
+    "rations": 21
+   },
+   "con_candidato_hacer_sitio": 23,
+   "con_coger": 2,
+   "por_situacion": {
+    "encima=False,libre=True": {
+     "otra": 10,
+     "ir al objeto": 1,
+     "coger": 2
+    },
+    "encima=True,libre=False": {
+     "hacer sitio": 21,
+     "otra": 2
+    },
+    "encima=False,libre=False": {
+     "otra": 339
+    }
+   },
+   "ejemplos": [
+    {
+     "t": 647,
+     "encima": false,
+     "ranura_libre": true,
+     "pack": [
+      "rations",
+      null
+     ],
+     "campo": "noop",
+     "replica": "noop",
+     "clase": "otra",
+     "suelta": null,
+     "d_mejor": [
+      [
+       "noop",
+       2.50814
+      ]
+     ],
+     "hay_hacer_sitio": false,
+     "hay_coger": false
+    },
+    {
+     "t": 648,
+     "encima": false,
+     "ranura_libre": true,
+     "pack": [
+      "rations",
+      null
+     ],
+     "campo": "noop",
+     "replica": "noop",
+     "clase": "otra",
+     "suelta": null,
+     "d_mejor": [
+      [
+       "noop",
+       2.50814
+      ]
+     ],
+     "hay_hacer_sitio": false,
+     "hay_coger": false
+    },
+    {
+     "t": 649,
+     "encima": false,
+     "ranura_libre": true,
+     "pack": [
+      "rations",
+      null
+     ],
+     "campo": "noop",
+     "replica": "noop",
+     "clase": "otra",
+     "suelta": null,
+     "d_mejor": [
+      [
+       "noop",
+       2.50814
+      ]
+     ],
+     "hay_hacer_sitio": false,
+     "hay_coger": false
+    },
+    {
+     "t": 658,
+     "encima": false,
+     "ranura_libre": true,
+     "pack": [
+      "rations",
+      null
+     ],
+     "campo": "coger",
+     "replica": "coger",
+     "clase": "coger",
+     "suelta": null,
+     "d_mejor": [
+      [
+       "noop",
+       2.50814
+      ],
+      [
+       "coger",
+       2.50814
+      ]
+     ],
+     "hay_hacer_sitio": false,
+     "hay_coger": true
+    },
+    {
+     "t": 713,
+     "encima": true,
+     "ranura_libre": false,
+     "pack": [
+      "rations",
+      "knives"
+     ],
+     "campo": "noop",
+     "replica": "hacer_sitio_rations_por_first_aid",
+     "clase": "hacer sitio",
+     "suelta": "rations",
+     "d_mejor": [
+      [
+       "noop",
+       2.59976
+      ],
+      [
+       "hacer_sitio_rations_por_first_aid",
+       2.59976
+      ]
+     ],
+     "hay_hacer_sitio": true,
+     "hay_coger": false
+    },
+    {
+     "t": 714,
+     "encima": true,
+     "ranura_libre": false,
+     "pack": [
+      "rations",
+      "knives"
+     ],
+     "campo": "noop",
+     "replica": "hacer_sitio_rations_por_first_aid",
+     "clase": "hacer sitio",
+     "suelta": "rations",
+     "d_mejor": [
+      [
+       "noop",
+       2.59976
+      ],
+      [
+       "hacer_sitio_rations_por_first_aid",
+       2.59976
+      ]
+     ],
+     "hay_hacer_sitio": true,
+     "hay_coger": false
+    },
+    {
+     "t": 715,
+     "encima": true,
+     "ranura_libre": false,
+     "pack": [
+      "rations",
+      "knives"
+     ],
+     "campo": "noop",
+     "replica": "hacer_sitio_rations_por_first_aid",
+     "clase": "hacer sitio",
+     "suelta": "rations",
+     "d_mejor": [
+      [
+       "noop",
+       2.59976
+      ],
+      [
+       "hacer_sitio_rations_por_first_aid",
+       2.59976
+      ]
+     ],
+     "hay_hacer_sitio": true,
+     "hay_coger": false
+    }
+   ],
+   "fidelidad_al_campo": {
+    "igual": 11977,
+    "difiere": 143
+   },
+   "huellas": 0
+  },
+  {
+   "dia_P7_5": 1,
+   "vida": "P75_humo_APRENDE_26544656/11",
+   "escenas": 4293,
+   "registradas": 4293,
+   "clases": {
+    "coger": 96,
+    "otra": 4171,
+    "ir al objeto": 26
+   },
+   "suelta": {},
+   "con_candidato_hacer_sitio": 0,
+   "con_coger": 96,
+   "por_situacion": {
+    "encima=False,libre=True": {
+     "coger": 1,
+     "otra": 21
+    },
+    "encima=True,libre=False": {
+     "otra": 506
+    },
+    "encima=True,libre=True": {
+     "coger": 95
+    },
+    "encima=False,libre=False": {
+     "otra": 3644,
+     "ir al objeto": 26
+    }
+   },
+   "ejemplos": [
+    {
+     "t": 603,
+     "encima": false,
+     "ranura_libre": true,
+     "pack": [
+      null,
+      null
+     ],
+     "campo": "coger",
+     "replica": "coger",
+     "clase": "coger",
+     "suelta": null,
+     "d_mejor": [
+      [
+       "coger",
+       3.07263
+      ],
+      [
+       "noop",
+       3.18526
+      ]
+     ],
+     "hay_hacer_sitio": false,
+     "hay_coger": true
+    },
+    {
+     "t": 604,
+     "encima": false,
+     "ranura_libre": true,
+     "pack": [
+      null,
+      null
+     ],
+     "campo": "noop",
+     "replica": "noop",
+     "clase": "otra",
+     "suelta": null,
+     "d_mejor": [
+      [
+       "noop",
+       3.07263
+      ]
+     ],
+     "hay_hacer_sitio": false,
+     "hay_coger": false
+    },
+    {
+     "t": 605,
+     "encima": false,
+     "ranura_libre": true,
+     "pack": [
+      null,
+      null
+     ],
+     "campo": "noop",
+     "replica": "noop",
+     "clase": "otra",
+     "suelta": null,
+     "d_mejor": [
+      [
+       "noop",
+       3.07263
+      ]
+     ],
+     "hay_hacer_sitio": false,
+     "hay_coger": false
+    },
+    {
+     "t": 603,
+     "encima": false,
+     "ranura_libre": true,
+     "pack": [
+      null,
+      null
+     ],
+     "campo": "coger",
+     "replica": "coger",
+     "clase": "coger",
+     "suelta": null,
+     "d_mejor": [
+      [
+       "coger",
+       3.07263
+      ],
+      [
+       "noop",
+       3.18526
+      ]
+     ],
+     "hay_hacer_sitio": false,
+     "hay_coger": true
+    },
+    {
+     "t": 614,
+     "encima": true,
+     "ranura_libre": true,
+     "pack": [
+      null,
+      null
+     ],
+     "campo": "noop",
+     "replica": "coger",
+     "clase": "coger",
+     "suelta": null,
+     "d_mejor": [
+      [
+       "coger",
+       2.98844
+      ],
+      [
+       "noop",
+       3.07263
+      ]
+     ],
+     "hay_hacer_sitio": false,
+     "hay_coger": true
+    },
+    {
+     "t": 615,
+     "encima": true,
+     "ranura_libre": true,
+     "pack": [
+      null,
+      null
+     ],
+     "campo": "noop",
+     "replica": "coger",
+     "clase": "coger",
+     "suelta": null,
+     "d_mejor": [
+      [
+       "coger",
+       2.98844
+      ],
+      [
+       "noop",
+       3.07263
+      ]
+     ],
+     "hay_hacer_sitio": false,
+     "hay_coger": true
+    },
+    {
+     "t": 616,
+     "encima": true,
+     "ranura_libre": true,
+     "pack": [
+      null,
+      null
+     ],
+     "campo": "noop",
+     "replica": "coger",
+     "clase": "coger",
+     "suelta": null,
+     "d_mejor": [
+      [
+       "coger",
+       2.98844
+      ],
+      [
+       "noop",
+       3.07263
+      ]
+     ],
+     "hay_hacer_sitio": false,
+     "hay_coger": true
+    }
+   ],
+   "fidelidad_al_campo": {
+    "igual": 10346,
+    "difiere": 348
+   },
+   "huellas": 0
+  },
+  {
+   "dia_P7_5": 2,
+   "vida": "P75_humo_APRENDE_26649385/10",
+   "escenas": 6693,
+   "registradas": 6693,
+   "clases": {
+    "otra": 6670,
+    "ir al objeto": 2,
+    "coger": 21
+   },
+   "suelta": {},
+   "con_candidato_hacer_sitio": 0,
+   "con_coger": 22,
+   "por_situacion": {
+    "encima=False,libre=True": {
+     "otra": 31,
+     "ir al objeto": 2
+    },
+    "encima=True,libre=False": {
+     "otra": 125
+    },
+    "encima=True,libre=True": {
+     "coger": 21,
+     "otra": 1
+    },
+    "encima=False,libre=False": {
+     "otra": 6513
+    }
+   },
+   "ejemplos": [
+    {
+     "t": 603,
+     "encima": false,
+     "ranura_libre": true,
+     "pack": [
+      null,
+      null
+     ],
+     "campo": "noop",
+     "replica": "noop",
+     "clase": "otra",
+     "suelta": null,
+     "d_mejor": [
+      [
+       "noop",
+       3.18526
+      ]
+     ],
+     "hay_hacer_sitio": false,
+     "hay_coger": false
+    },
+    {
+     "t": 604,
+     "encima": false,
+     "ranura_libre": true,
+     "pack": [
+      null,
+      null
+     ],
+     "campo": "noop",
+     "replica": "noop",
+     "clase": "otra",
+     "suelta": null,
+     "d_mejor": [
+      [
+       "noop",
+       3.18526
+      ]
+     ],
+     "hay_hacer_sitio": false,
+     "hay_coger": false
+    },
+    {
+     "t": 605,
+     "encima": false,
+     "ranura_libre": true,
+     "pack": [
+      null,
+      null
+     ],
+     "campo": "noop",
+     "replica": "noop",
+     "clase": "otra",
+     "suelta": null,
+     "d_mejor": [
+      [
+       "noop",
+       3.18526
+      ]
+     ],
+     "hay_hacer_sitio": false,
+     "hay_coger": false
+    },
+    {
+     "t": 614,
+     "encima": true,
+     "ranura_libre": true,
+     "pack": [
+      null,
+      null
+     ],
+     "campo": "noop",
+     "replica": "coger",
+     "clase": "coger",
+     "suelta": null,
+     "d_mejor": [
+      [
+       "coger",
+       3.10003
+      ],
+      [
+       "noop",
+       3.18526
+      ]
+     ],
+     "hay_hacer_sitio": false,
+     "hay_coger": true
+    },
+    {
+     "t": 615,
+     "encima": true,
+     "ranura_libre": true,
+     "pack": [
+      null,
+      null
+     ],
+     "campo": "noop",
+     "replica": "coger",
+     "clase": "coger",
+     "suelta": null,
+     "d_mejor": [
+      [
+       "coger",
+       3.10003
+      ],
+      [
+       "noop",
+       3.18526
+      ]
+     ],
+     "hay_hacer_sitio": false,
+     "hay_coger": true
+    },
+    {
+     "t": 616,
+     "encima": true,
+     "ranura_libre": true,
+     "pack": [
+      null,
+      null
+     ],
+     "campo": "noop",
+     "replica": "coger",
+     "clase": "coger",
+     "suelta": null,
+     "d_mejor": [
+      [
+       "coger",
+       3.10003
+      ],
+      [
+       "noop",
+       3.18526
+      ]
+     ],
+     "hay_hacer_sitio": false,
+     "hay_coger": true
+    },
+    {
+     "t": 617,
+     "encima": true,
+     "ranura_libre": true,
+     "pack": [
+      null,
+      null
+     ],
+     "campo": "noop",
+     "replica": "coger",
+     "clase": "coger",
+     "suelta": null,
+     "d_mejor": [
+      [
+       "coger",
+       3.10003
+      ],
+      [
+       "noop",
+       3.18526
+      ]
+     ],
+     "hay_hacer_sitio": false,
+     "hay_coger": true
+    }
+   ],
+   "fidelidad_al_campo": {
+    "igual": 12369,
+    "difiere": 244
+   },
+   "huellas": 0
+  },
+  {
+   "dia_P7_5": 2,
+   "vida": "P75_humo_APRENDE_26649385/11",
+   "escenas": 6089,
+   "registradas": 6089,
+   "clases": {
+    "otra": 6067,
+    "ir al objeto": 2,
+    "coger": 20
+   },
+   "suelta": {},
+   "con_candidato_hacer_sitio": 0,
+   "con_coger": 22,
+   "por_situacion": {
+    "encima=False,libre=True": {
+     "otra": 31,
+     "ir al objeto": 2
+    },
+    "encima=True,libre=False": {
+     "otra": 225
+    },
+    "encima=True,libre=True": {
+     "coger": 20,
+     "otra": 2
+    },
+    "encima=False,libre=False": {
+     "otra": 5809
+    }
+   },
+   "ejemplos": [
+    {
+     "t": 615,
+     "encima": false,
+     "ranura_libre": true,
+     "pack": [
+      null,
+      null
+     ],
+     "campo": "noop",
+     "replica": "noop",
+     "clase": "otra",
+     "suelta": null,
+     "d_mejor": [
+      [
+       "noop",
+       3.18526
+      ]
+     ],
+     "hay_hacer_sitio": false,
+     "hay_coger": false
+    },
+    {
+     "t": 616,
+     "encima": false,
+     "ranura_libre": true,
+     "pack": [
+      null,
+      null
+     ],
+     "campo": "noop",
+     "replica": "noop",
+     "clase": "otra",
+     "suelta": null,
+     "d_mejor": [
+      [
+       "noop",
+       3.18526
+      ]
+     ],
+     "hay_hacer_sitio": false,
+     "hay_coger": false
+    },
+    {
+     "t": 617,
+     "encima": false,
+     "ranura_libre": true,
+     "pack": [
+      null,
+      null
+     ],
+     "campo": "noop",
+     "replica": "noop",
+     "clase": "otra",
+     "suelta": null,
+     "d_mejor": [
+      [
+       "noop",
+       3.18526
+      ]
+     ],
+     "hay_hacer_sitio": false,
+     "hay_coger": false
+    },
+    {
+     "t": 626,
+     "encima": true,
+     "ranura_libre": true,
+     "pack": [
+      null,
+      null
+     ],
+     "campo": "noop",
+     "replica": "coger",
+     "clase": "coger",
+     "suelta": null,
+     "d_mejor": [
+      [
+       "coger",
+       3.10003
+      ],
+      [
+       "noop",
+       3.18526
+      ]
+     ],
+     "hay_hacer_sitio": false,
+     "hay_coger": true
+    },
+    {
+     "t": 627,
+     "encima": true,
+     "ranura_libre": true,
+     "pack": [
+      null,
+      null
+     ],
+     "campo": "noop",
+     "replica": "coger",
+     "clase": "coger",
+     "suelta": null,
+     "d_mejor": [
+      [
+       "coger",
+       3.10003
+      ],
+      [
+       "noop",
+       3.18526
+      ]
+     ],
+     "hay_hacer_sitio": false,
+     "hay_coger": true
+    },
+    {
+     "t": 628,
+     "encima": true,
+     "ranura_libre": true,
+     "pack": [
+      null,
+      null
+     ],
+     "campo": "noop",
+     "replica": "coger",
+     "clase": "coger",
+     "suelta": null,
+     "d_mejor": [
+      [
+       "coger",
+       3.47231
+      ],
+      [
+       "noop",
+       3.51932
+      ]
+     ],
+     "hay_hacer_sitio": false,
+     "hay_coger": true
+    },
+    {
+     "t": 629,
+     "encima": true,
+     "ranura_libre": true,
+     "pack": [
+      null,
+      null
+     ],
+     "campo": "noop",
+     "replica": "coger",
+     "clase": "coger",
+     "suelta": null,
+     "d_mejor": [
+      [
+       "coger",
+       3.47231
+      ],
+      [
+       "noop",
+       3.51932
+      ]
+     ],
+     "hay_hacer_sitio": false,
+     "hay_coger": true
+    }
+   ],
+   "fidelidad_al_campo": {
+    "igual": 13727,
+    "difiere": 121
+   },
+   "huellas": 0
+  },
+  {
+   "dia_P7_5": 3,
+   "vida": "P75_humo_APRENDE_26754114/10",
+   "escenas": 1771,
+   "registradas": 1771,
+   "clases": {
+    "otra": 1465,
+    "ir al objeto": 38,
+    "coger": 268
+   },
+   "suelta": {},
+   "con_candidato_hacer_sitio": 0,
+   "con_coger": 272,
+   "por_situacion": {
+    "encima=False,libre=True": {
+     "otra": 921,
+     "ir al objeto": 25,
+     "coger": 4
+    },
+    "encima=True,libre=True": {
+     "coger": 264,
+     "otra": 136,
+     "ir al objeto": 13
+    },
+    "encima=False,libre=False": {
+     "otra": 408
+    }
+   },
+   "ejemplos": [
+    {
+     "t": 614,
+     "encima": false,
+     "ranura_libre": true,
+     "pack": [
+      null,
+      null
+     ],
+     "campo": "noop",
+     "replica": "noop",
+     "clase": "otra",
+     "suelta": null,
+     "d_mejor": [
+      [
+       "noop",
+       3.18526
+      ]
+     ],
+     "hay_hacer_sitio": false,
+     "hay_coger": false
+    },
+    {
+     "t": 615,
+     "encima": false,
+     "ranura_libre": true,
+     "pack": [
+      null,
+      null
+     ],
+     "campo": "noop",
+     "replica": "noop",
+     "clase": "otra",
+     "suelta": null,
+     "d_mejor": [
+      [
+       "noop",
+       3.18526
+      ]
+     ],
+     "hay_hacer_sitio": false,
+     "hay_coger": false
+    },
+    {
+     "t": 616,
+     "encima": false,
+     "ranura_libre": true,
+     "pack": [
+      null,
+      null
+     ],
+     "campo": "noop",
+     "replica": "noop",
+     "clase": "otra",
+     "suelta": null,
+     "d_mejor": [
+      [
+       "noop",
+       3.18526
+      ]
+     ],
+     "hay_hacer_sitio": false,
+     "hay_coger": false
+    },
+    {
+     "t": 625,
+     "encima": true,
+     "ranura_libre": true,
+     "pack": [
+      null,
+      null
+     ],
+     "campo": "noop",
+     "replica": "coger",
+     "clase": "coger",
+     "suelta": null,
+     "d_mejor": [
+      [
+       "coger",
+       3.10003
+      ],
+      [
+       "noop",
+       3.18526
+      ]
+     ],
+     "hay_hacer_sitio": false,
+     "hay_coger": true
+    },
+    {
+     "t": 626,
+     "encima": true,
+     "ranura_libre": true,
+     "pack": [
+      null,
+      null
+     ],
+     "campo": "noop",
+     "replica": "coger",
+     "clase": "coger",
+     "suelta": null,
+     "d_mejor": [
+      [
+       "coger",
+       3.10003
+      ],
+      [
+       "noop",
+       3.18526
+      ]
+     ],
+     "hay_hacer_sitio": false,
+     "hay_coger": true
+    },
+    {
+     "t": 627,
+     "encima": true,
+     "ranura_libre": true,
+     "pack": [
+      null,
+      null
+     ],
+     "campo": "noop",
+     "replica": "coger",
+     "clase": "coger",
+     "suelta": null,
+     "d_mejor": [
+      [
+       "coger",
+       3.10003
+      ],
+      [
+       "noop",
+       3.18526
+      ]
+     ],
+     "hay_hacer_sitio": false,
+     "hay_coger": true
+    },
+    {
+     "t": 628,
+     "encima": true,
+     "ranura_libre": true,
+     "pack": [
+      null,
+      null
+     ],
+     "campo": "noop",
+     "replica": "coger",
+     "clase": "coger",
+     "suelta": null,
+     "d_mejor": [
+      [
+       "coger",
+       3.10003
+      ],
+      [
+       "noop",
+       3.18526
+      ]
+     ],
+     "hay_hacer_sitio": false,
+     "hay_coger": true
+    }
+   ],
+   "fidelidad_al_campo": {
+    "igual": 14034,
+    "difiere": 438
+   },
+   "huellas": 1
+  },
+  {
+   "dia_P7_5": 3,
+   "vida": "P75_humo_APRENDE_26754114/11",
+   "escenas": 6199,
+   "registradas": 6199,
+   "clases": {
+    "otra": 5761,
+    "ir al objeto": 219,
+    "coger": 219
+   },
+   "suelta": {},
+   "con_candidato_hacer_sitio": 0,
+   "con_coger": 221,
+   "por_situacion": {
+    "encima=False,libre=True": {
+     "otra": 144,
+     "ir al objeto": 11
+    },
+    "encima=True,libre=False": {
+     "otra": 377
+    },
+    "encima=True,libre=True": {
+     "coger": 219,
+     "otra": 2
+    },
+    "encima=False,libre=False": {
+     "otra": 5238,
+     "ir al objeto": 208
+    }
+   },
+   "ejemplos": [
+    {
+     "t": 636,
+     "encima": false,
+     "ranura_libre": true,
+     "pack": [
+      null,
+      null
+     ],
+     "campo": "noop",
+     "replica": "noop",
+     "clase": "otra",
+     "suelta": null,
+     "d_mejor": [
+      [
+       "noop",
+       3.18526
+      ]
+     ],
+     "hay_hacer_sitio": false,
+     "hay_coger": false
+    },
+    {
+     "t": 637,
+     "encima": false,
+     "ranura_libre": true,
+     "pack": [
+      null,
+      null
+     ],
+     "campo": "noop",
+     "replica": "noop",
+     "clase": "otra",
+     "suelta": null,
+     "d_mejor": [
+      [
+       "noop",
+       3.18526
+      ]
+     ],
+     "hay_hacer_sitio": false,
+     "hay_coger": false
+    },
+    {
+     "t": 638,
+     "encima": false,
+     "ranura_libre": true,
+     "pack": [
+      null,
+      null
+     ],
+     "campo": "noop",
+     "replica": "noop",
+     "clase": "otra",
+     "suelta": null,
+     "d_mejor": [
+      [
+       "noop",
+       3.18526
+      ]
+     ],
+     "hay_hacer_sitio": false,
+     "hay_coger": false
+    },
+    {
+     "t": 648,
+     "encima": true,
+     "ranura_libre": true,
+     "pack": [
+      null,
+      null
+     ],
+     "campo": "noop",
+     "replica": "coger",
+     "clase": "coger",
+     "suelta": null,
+     "d_mejor": [
+      [
+       "coger",
+       3.10003
+      ],
+      [
+       "noop",
+       3.18526
+      ]
+     ],
+     "hay_hacer_sitio": false,
+     "hay_coger": true
+    },
+    {
+     "t": 649,
+     "encima": true,
+     "ranura_libre": true,
+     "pack": [
+      null,
+      null
+     ],
+     "campo": "noop",
+     "replica": "coger",
+     "clase": "coger",
+     "suelta": null,
+     "d_mejor": [
+      [
+       "coger",
+       3.10003
+      ],
+      [
+       "noop",
+       3.18526
+      ]
+     ],
+     "hay_hacer_sitio": false,
+     "hay_coger": true
+    },
+    {
+     "t": 650,
+     "encima": true,
+     "ranura_libre": true,
+     "pack": [
+      null,
+      null
+     ],
+     "campo": "noop",
+     "replica": "coger",
+     "clase": "coger",
+     "suelta": null,
+     "d_mejor": [
+      [
+       "coger",
+       3.10003
+      ],
+      [
+       "noop",
+       3.18526
+      ]
+     ],
+     "hay_hacer_sitio": false,
+     "hay_coger": true
+    },
+    {
+     "t": 651,
+     "encima": true,
+     "ranura_libre": true,
+     "pack": [
+      null,
+      null
+     ],
+     "campo": "noop",
+     "replica": "coger",
+     "clase": "coger",
+     "suelta": null,
+     "d_mejor": [
+      [
+       "coger",
+       3.10003
+      ],
+      [
+       "noop",
+       3.18526
+      ]
+     ],
+     "hay_hacer_sitio": false,
+     "hay_coger": true
+    }
+   ],
+   "fidelidad_al_campo": {
+    "igual": 14075,
+    "difiere": 397
+   },
+   "huellas": 0
+  }
+ ],
+ "resumen": {
+  "escenas": 25420,
+  "clases": {
+   "otra": 24485,
+   "ir al objeto": 288,
+   "coger": 626,
+   "hacer sitio": 21
+  },
+  "suelta": {
+   "rations": 21
+  }
+ }
+}

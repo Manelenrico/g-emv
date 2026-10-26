@@ -1,0 +1,356 @@
+[
+ {
+  "serie": 1,
+  "slot": 10,
+  "a": "APRENDE",
+  "b": "BORRADO",
+  "tics_comparados": 34,
+  "primer_tic_vista_distinta": 482,
+  "campos_distintos": [
+   "ve_agentes"
+  ],
+  "detalle": {
+   "ve_agentes": [
+    "[{\"slot\": 9, \"team\": \"E\", \"pos\": [9, 18], \"hp_band\": \"healthy\", \"hand\": \"none\", \"body\": null, \"netted\": false, \"poisoned\": false, \"channeling\": false}, {\"slot\": 11, \"team\": \"F\", \"pos\": [19, 10], \"hp_band\": \"healthy\", \"hand\": \"none\", \"body\": null, \"netted\": false, \"poisoned\": false, \"channeling\": fal",
+    "[{\"slot\": 9, \"team\": \"E\", \"pos\": [10, 17], \"hp_band\": \"healthy\", \"hand\": \"none\", \"body\": null, \"netted\": false, \"poisoned\": false, \"channeling\": false}, {\"slot\": 11, \"team\": \"F\", \"pos\": [19, 10], \"hp_band\": \"healthy\", \"hand\": \"none\", \"body\": null, \"netted\": false, \"poisoned\": false, \"channeling\": fa"
+   ]
+  },
+  "primer_tic_elegido_distinto": 514,
+  "elegidos_en_ese_tic": [
+   "ir_objeto",
+   "ir_botin"
+  ],
+  "tics_iguales_antes": 1,
+  "decisiones_identicas_antes_de_la_vista_distinta": true,
+  "d_identicas_antes": true,
+  "primer_tic": [
+   481,
+   481
+  ],
+  "agentes_distintos": [
+   9
+  ]
+ },
+ {
+  "serie": 1,
+  "slot": 10,
+  "a": "SUELO",
+  "b": "TECHO",
+  "tics_comparados": 3,
+  "primer_tic_vista_distinta": 483,
+  "campos_distintos": [
+   "chat"
+  ],
+  "detalle": {
+   "chat": [
+    "[{\"tick\": 481, \"from\": 0, \"channel\": \"broadcast\", \"to\": null, \"text\": \"blood pays little here. stay out of my way and we all place\"}, {\"tick\": 481, \"from\": 1, \"channel\": \"broadcast\", \"to\": null, \"text\": \"blood pays little here. stay out of my way and we all place\"}, {\"tick\": 481, \"from\": 2, \"channel",
+    "[{\"tick\": 481, \"from\": 0, \"channel\": \"broadcast\", \"to\": null, \"text\": \"blood pays little here. stay out of my way and we all place\"}, {\"tick\": 481, \"from\": 1, \"channel\": \"broadcast\", \"to\": null, \"text\": \"blood pays little here. stay out of my way and we all place\"}, {\"tick\": 481, \"from\": 4, \"channel"
+   ]
+  },
+  "primer_tic_elegido_distinto": 481,
+  "elegidos_en_ese_tic": [
+   "ir_objeto",
+   "ir_botin"
+  ],
+  "tics_iguales_antes": 2,
+  "decisiones_identicas_antes_de_la_vista_distinta": false,
+  "d_identicas_antes": false,
+  "primer_tic": [
+   481,
+   481
+  ]
+ },
+ {
+  "serie": 1,
+  "slot": 10,
+  "a": "BORRADO",
+  "b": "SUELO",
+  "tics_comparados": 34,
+  "primer_tic_vista_distinta": 483,
+  "campos_distintos": [
+   "chat"
+  ],
+  "detalle": {
+   "chat": [
+    "[{\"tick\": 481, \"from\": 9, \"channel\": \"broadcast\", \"to\": null, \"text\": \"blood pays nothing here. stay out of my way and we all place\"}, {\"tick\": 481, \"from\": 6, \"channel\": \"broadcast\", \"to\": null, \"text\": \"blood pays nothing here. stay out of my way and we all place\"}, {\"tick\": 481, \"from\": 5, \"chann",
+    "[{\"tick\": 481, \"from\": 0, \"channel\": \"broadcast\", \"to\": null, \"text\": \"blood pays little here. stay out of my way and we all place\"}, {\"tick\": 481, \"from\": 1, \"channel\": \"broadcast\", \"to\": null, \"text\": \"blood pays little here. stay out of my way and we all place\"}, {\"tick\": 481, \"from\": 2, \"channel"
+   ]
+  },
+  "primer_tic_elegido_distinto": 514,
+  "elegidos_en_ese_tic": [
+   "ir_botin",
+   "ir_objeto"
+  ],
+  "tics_iguales_antes": 2,
+  "decisiones_identicas_antes_de_la_vista_distinta": true,
+  "d_identicas_antes": false,
+  "primer_tic": [
+   481,
+   481
+  ]
+ },
+ {
+  "serie": 1,
+  "slot": 11,
+  "a": "APRENDE",
+  "b": "BORRADO",
+  "tics_comparados": 78,
+  "primer_tic_vista_distinta": 483,
+  "campos_distintos": [
+   "chat"
+  ],
+  "detalle": {
+   "chat": [
+    "[{\"tick\": 481, \"from\": 4, \"channel\": \"broadcast\", \"to\": null, \"text\": \"blood pays little here. stay out of my way and we all place\"}, {\"tick\": 481, \"from\": 2, \"channel\": \"broadcast\", \"to\": null, \"text\": \"blood pays little here. stay out of my way and we all place\"}, {\"tick\": 481, \"from\": 0, \"channel",
+    "[{\"tick\": 481, \"from\": 9, \"channel\": \"broadcast\", \"to\": null, \"text\": \"blood pays nothing here. stay out of my way and we all place\"}, {\"tick\": 481, \"from\": 6, \"channel\": \"broadcast\", \"to\": null, \"text\": \"blood pays nothing here. stay out of my way and we all place\"}, {\"tick\": 481, \"from\": 5, \"chann"
+   ]
+  },
+  "primer_tic_elegido_distinto": 558,
+  "elegidos_en_ese_tic": [
+   "ir_curioso",
+   "ir_objeto"
+  ],
+  "tics_iguales_antes": 2,
+  "decisiones_identicas_antes_de_la_vista_distinta": true,
+  "d_identicas_antes": true,
+  "primer_tic": [
+   481,
+   481
+  ]
+ },
+ {
+  "serie": 1,
+  "slot": 11,
+  "a": "SUELO",
+  "b": "TECHO",
+  "tics_comparados": 78,
+  "primer_tic_vista_distinta": 483,
+  "campos_distintos": [
+   "chat"
+  ],
+  "detalle": {
+   "chat": [
+    "[{\"tick\": 481, \"from\": 0, \"channel\": \"broadcast\", \"to\": null, \"text\": \"blood pays little here. stay out of my way and we all place\"}, {\"tick\": 481, \"from\": 1, \"channel\": \"broadcast\", \"to\": null, \"text\": \"blood pays little here. stay out of my way and we all place\"}, {\"tick\": 481, \"from\": 2, \"channel",
+    "[{\"tick\": 481, \"from\": 0, \"channel\": \"broadcast\", \"to\": null, \"text\": \"blood pays little here. stay out of my way and we all place\"}, {\"tick\": 481, \"from\": 1, \"channel\": \"broadcast\", \"to\": null, \"text\": \"blood pays little here. stay out of my way and we all place\"}, {\"tick\": 481, \"from\": 4, \"channel"
+   ]
+  },
+  "primer_tic_elegido_distinto": 558,
+  "elegidos_en_ese_tic": [
+   "ir_objeto",
+   "move_SE"
+  ],
+  "tics_iguales_antes": 2,
+  "decisiones_identicas_antes_de_la_vista_distinta": true,
+  "d_identicas_antes": false,
+  "primer_tic": [
+   481,
+   481
+  ]
+ },
+ {
+  "serie": 1,
+  "slot": 11,
+  "a": "BORRADO",
+  "b": "SUELO",
+  "tics_comparados": 57,
+  "primer_tic_vista_distinta": 483,
+  "campos_distintos": [
+   "chat"
+  ],
+  "detalle": {
+   "chat": [
+    "[{\"tick\": 481, \"from\": 9, \"channel\": \"broadcast\", \"to\": null, \"text\": \"blood pays nothing here. stay out of my way and we all place\"}, {\"tick\": 481, \"from\": 6, \"channel\": \"broadcast\", \"to\": null, \"text\": \"blood pays nothing here. stay out of my way and we all place\"}, {\"tick\": 481, \"from\": 5, \"chann",
+    "[{\"tick\": 481, \"from\": 0, \"channel\": \"broadcast\", \"to\": null, \"text\": \"blood pays little here. stay out of my way and we all place\"}, {\"tick\": 481, \"from\": 1, \"channel\": \"broadcast\", \"to\": null, \"text\": \"blood pays little here. stay out of my way and we all place\"}, {\"tick\": 481, \"from\": 2, \"channel"
+   ]
+  },
+  "primer_tic_elegido_distinto": 537,
+  "elegidos_en_ese_tic": [
+   "ir_curioso",
+   "noop"
+  ],
+  "tics_iguales_antes": 2,
+  "decisiones_identicas_antes_de_la_vista_distinta": true,
+  "d_identicas_antes": false,
+  "primer_tic": [
+   481,
+   481
+  ]
+ },
+ {
+  "serie": 2,
+  "slot": 10,
+  "a": "APRENDE",
+  "b": "BORRADO",
+  "tics_comparados": 496,
+  "primer_tic_vista_distinta": 482,
+  "campos_distintos": [
+   "ve_agentes"
+  ],
+  "detalle": {
+   "ve_agentes": [
+    "[{\"slot\": 9, \"team\": \"E\", \"pos\": [9, 18], \"hp_band\": \"healthy\", \"hand\": \"none\", \"body\": null, \"netted\": false, \"poisoned\": false, \"channeling\": false}, {\"slot\": 11, \"team\": \"F\", \"pos\": [19, 10], \"hp_band\": \"healthy\", \"hand\": \"none\", \"body\": null, \"netted\": false, \"poisoned\": false, \"channeling\": fal",
+    "[{\"slot\": 9, \"team\": \"E\", \"pos\": [10, 18], \"hp_band\": \"healthy\", \"hand\": \"none\", \"body\": null, \"netted\": false, \"poisoned\": false, \"channeling\": false}, {\"slot\": 11, \"team\": \"F\", \"pos\": [19, 10], \"hp_band\": \"healthy\", \"hand\": \"none\", \"body\": null, \"netted\": false, \"poisoned\": false, \"channeling\": fa"
+   ]
+  },
+  "primer_tic_elegido_distinto": 976,
+  "elegidos_en_ese_tic": [
+   "move_W",
+   "paso_S"
+  ],
+  "tics_iguales_antes": 1,
+  "decisiones_identicas_antes_de_la_vista_distinta": true,
+  "d_identicas_antes": true,
+  "primer_tic": [
+   481,
+   481
+  ],
+  "agentes_distintos": [
+   9
+  ]
+ },
+ {
+  "serie": 2,
+  "slot": 10,
+  "a": "SUELO",
+  "b": "TECHO",
+  "tics_comparados": 122,
+  "primer_tic_vista_distinta": 483,
+  "campos_distintos": [
+   "chat"
+  ],
+  "detalle": {
+   "chat": [
+    "[{\"tick\": 481, \"from\": 5, \"channel\": \"broadcast\", \"to\": null, \"text\": \"blood pays nothing here. stay out of my way and we all place\"}, {\"tick\": 481, \"from\": 0, \"channel\": \"broadcast\", \"to\": null, \"text\": \"blood pays little here. stay out of my way and we all place\"}, {\"tick\": 481, \"from\": 2, \"channe",
+    "[{\"tick\": 481, \"from\": 2, \"channel\": \"broadcast\", \"to\": null, \"text\": \"blood pays little here. stay out of my way and we all place\"}, {\"tick\": 481, \"from\": 0, \"channel\": \"broadcast\", \"to\": null, \"text\": \"blood pays little here. stay out of my way and we all place\"}, {\"tick\": 481, \"from\": 7, \"channel"
+   ]
+  },
+  "primer_tic_elegido_distinto": 602,
+  "elegidos_en_ese_tic": [
+   "paso_SW",
+   "paso_SE"
+  ],
+  "tics_iguales_antes": 2,
+  "decisiones_identicas_antes_de_la_vista_distinta": true,
+  "d_identicas_antes": false,
+  "primer_tic": [
+   481,
+   481
+  ]
+ },
+ {
+  "serie": 2,
+  "slot": 10,
+  "a": "BORRADO",
+  "b": "SUELO",
+  "tics_comparados": 122,
+  "primer_tic_vista_distinta": 483,
+  "campos_distintos": [
+   "chat"
+  ],
+  "detalle": {
+   "chat": [
+    "[{\"tick\": 481, \"from\": 1, \"channel\": \"broadcast\", \"to\": null, \"text\": \"blood pays little here. stay out of my way and we all place\"}, {\"tick\": 481, \"from\": 6, \"channel\": \"broadcast\", \"to\": null, \"text\": \"blood pays nothing here. stay out of my way and we all place\"}, {\"tick\": 481, \"from\": 2, \"channe",
+    "[{\"tick\": 481, \"from\": 5, \"channel\": \"broadcast\", \"to\": null, \"text\": \"blood pays nothing here. stay out of my way and we all place\"}, {\"tick\": 481, \"from\": 0, \"channel\": \"broadcast\", \"to\": null, \"text\": \"blood pays little here. stay out of my way and we all place\"}, {\"tick\": 481, \"from\": 2, \"channe"
+   ]
+  },
+  "primer_tic_elegido_distinto": 602,
+  "elegidos_en_ese_tic": [
+   "paso_SE",
+   "paso_SW"
+  ],
+  "tics_iguales_antes": 2,
+  "decisiones_identicas_antes_de_la_vista_distinta": true,
+  "d_identicas_antes": false,
+  "primer_tic": [
+   481,
+   481
+  ]
+ },
+ {
+  "serie": 2,
+  "slot": 11,
+  "a": "APRENDE",
+  "b": "BORRADO",
+  "tics_comparados": 442,
+  "primer_tic_vista_distinta": 483,
+  "campos_distintos": [
+   "chat"
+  ],
+  "detalle": {
+   "chat": [
+    "[{\"tick\": 481, \"from\": 3, \"channel\": \"broadcast\", \"to\": null, \"text\": \"blood pays little here. stay out of my way and we all place\"}, {\"tick\": 481, \"from\": 5, \"channel\": \"broadcast\", \"to\": null, \"text\": \"blood pays nothing here. stay out of my way and we all place\"}, {\"tick\": 481, \"from\": 8, \"channe",
+    "[{\"tick\": 481, \"from\": 1, \"channel\": \"broadcast\", \"to\": null, \"text\": \"blood pays little here. stay out of my way and we all place\"}, {\"tick\": 481, \"from\": 6, \"channel\": \"broadcast\", \"to\": null, \"text\": \"blood pays nothing here. stay out of my way and we all place\"}, {\"tick\": 481, \"from\": 2, \"channe"
+   ]
+  },
+  "primer_tic_elegido_distinto": 922,
+  "elegidos_en_ese_tic": [
+   "ir_pareja",
+   "ir_objeto"
+  ],
+  "tics_iguales_antes": 2,
+  "decisiones_identicas_antes_de_la_vista_distinta": true,
+  "d_identicas_antes": true,
+  "primer_tic": [
+   481,
+   481
+  ]
+ },
+ {
+  "serie": 2,
+  "slot": 11,
+  "a": "SUELO",
+  "b": "TECHO",
+  "tics_comparados": 100,
+  "primer_tic_vista_distinta": 483,
+  "campos_distintos": [
+   "chat"
+  ],
+  "detalle": {
+   "chat": [
+    "[{\"tick\": 481, \"from\": 5, \"channel\": \"broadcast\", \"to\": null, \"text\": \"blood pays nothing here. stay out of my way and we all place\"}, {\"tick\": 481, \"from\": 0, \"channel\": \"broadcast\", \"to\": null, \"text\": \"blood pays little here. stay out of my way and we all place\"}, {\"tick\": 481, \"from\": 2, \"channe",
+    "[{\"tick\": 481, \"from\": 2, \"channel\": \"broadcast\", \"to\": null, \"text\": \"blood pays little here. stay out of my way and we all place\"}, {\"tick\": 481, \"from\": 0, \"channel\": \"broadcast\", \"to\": null, \"text\": \"blood pays little here. stay out of my way and we all place\"}, {\"tick\": 481, \"from\": 7, \"channel"
+   ]
+  },
+  "primer_tic_elegido_distinto": 580,
+  "elegidos_en_ese_tic": [
+   "ir_objeto",
+   "ir_centro"
+  ],
+  "tics_iguales_antes": 2,
+  "decisiones_identicas_antes_de_la_vista_distinta": true,
+  "d_identicas_antes": false,
+  "primer_tic": [
+   481,
+   481
+  ]
+ },
+ {
+  "serie": 2,
+  "slot": 11,
+  "a": "BORRADO",
+  "b": "SUELO",
+  "tics_comparados": 35,
+  "primer_tic_vista_distinta": 483,
+  "campos_distintos": [
+   "chat"
+  ],
+  "detalle": {
+   "chat": [
+    "[{\"tick\": 481, \"from\": 1, \"channel\": \"broadcast\", \"to\": null, \"text\": \"blood pays little here. stay out of my way and we all place\"}, {\"tick\": 481, \"from\": 6, \"channel\": \"broadcast\", \"to\": null, \"text\": \"blood pays nothing here. stay out of my way and we all place\"}, {\"tick\": 481, \"from\": 2, \"channe",
+    "[{\"tick\": 481, \"from\": 5, \"channel\": \"broadcast\", \"to\": null, \"text\": \"blood pays nothing here. stay out of my way and we all place\"}, {\"tick\": 481, \"from\": 0, \"channel\": \"broadcast\", \"to\": null, \"text\": \"blood pays little here. stay out of my way and we all place\"}, {\"tick\": 481, \"from\": 2, \"channe"
+   ]
+  },
+  "primer_tic_elegido_distinto": 515,
+  "elegidos_en_ese_tic": [
+   "ir_curioso",
+   "noop"
+  ],
+  "tics_iguales_antes": 2,
+  "decisiones_identicas_antes_de_la_vista_distinta": true,
+  "d_identicas_antes": false,
+  "primer_tic": [
+   481,
+   481
+  ]
+ }
+]

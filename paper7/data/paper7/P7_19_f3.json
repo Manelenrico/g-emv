@@ -1,0 +1,1303 @@
+{
+ "escenas": 40,
+ "sin_apartarse_en_F2": [
+  {
+   "vida_del_que_dio": "s2_d14_TECHO_10",
+   "t0": 637,
+   "por_que": "no elige un paso sino `coger`"
+  }
+ ],
+ "pedidas": 39,
+ "f3": [
+  {
+   "vida_del_que_dio": "s1_d18_TECHO_10",
+   "t_regalo": 1539,
+   "t": 1541,
+   "regalo": [
+    27,
+    21
+   ],
+   "pos": [
+    26,
+    21
+   ],
+   "dist": 1,
+   "hermano_movido": true,
+   "ve_el_botiquin": true,
+   "botiquines": 0,
+   "cabe": true,
+   "n_cand": 12,
+   "elegido": "move_E",
+   "accion": {
+    "type": "action",
+    "do": "move",
+    "dir": "E"
+   },
+   "hay_coger": false,
+   "candidatos_hacia_el_regalo": [],
+   "elige_ir_a_por_el": false,
+   "el_paso_va_hacia_el": true,
+   "el_paso_entra_en_la_casilla": true,
+   "d_elegido": 3.64353,
+   "d_del_mejor_hacia_el": null,
+   "pedia": true
+  },
+  {
+   "vida_del_que_dio": "s1_d18_TECHO_10",
+   "t_regalo": 1826,
+   "t": 1829,
+   "regalo": [
+    27,
+    21
+   ],
+   "pos": [
+    26,
+    21
+   ],
+   "dist": 1,
+   "hermano_movido": true,
+   "ve_el_botiquin": true,
+   "botiquines": 0,
+   "cabe": true,
+   "n_cand": 12,
+   "elegido": "move_E",
+   "accion": {
+    "type": "action",
+    "do": "move",
+    "dir": "E"
+   },
+   "hay_coger": false,
+   "candidatos_hacia_el_regalo": [],
+   "elige_ir_a_por_el": false,
+   "el_paso_va_hacia_el": true,
+   "el_paso_entra_en_la_casilla": true,
+   "d_elegido": 3.64353,
+   "d_del_mejor_hacia_el": null,
+   "pedia": true
+  },
+  {
+   "vida_del_que_dio": "s1_d18_TECHO_10",
+   "t_regalo": 2114,
+   "t": 2117,
+   "regalo": [
+    27,
+    21
+   ],
+   "pos": [
+    26,
+    21
+   ],
+   "dist": 1,
+   "hermano_movido": true,
+   "ve_el_botiquin": true,
+   "botiquines": 0,
+   "cabe": true,
+   "n_cand": 12,
+   "elegido": "move_E",
+   "accion": {
+    "type": "action",
+    "do": "move",
+    "dir": "E"
+   },
+   "hay_coger": false,
+   "candidatos_hacia_el_regalo": [],
+   "elige_ir_a_por_el": false,
+   "el_paso_va_hacia_el": true,
+   "el_paso_entra_en_la_casilla": true,
+   "d_elegido": 3.70987,
+   "d_del_mejor_hacia_el": null,
+   "pedia": true
+  },
+  {
+   "vida_del_que_dio": "s1_d19_APRENDE_11",
+   "t_regalo": 966,
+   "t": 977,
+   "regalo": [
+    25,
+    21
+   ],
+   "pos": [
+    25,
+    22
+   ],
+   "dist": 1,
+   "hermano_movido": false,
+   "ve_el_botiquin": true,
+   "botiquines": 0,
+   "cabe": true,
+   "n_cand": 2,
+   "elegido": "ir_curioso",
+   "accion": {
+    "type": "action",
+    "do": "move",
+    "dir": "N"
+   },
+   "hay_coger": false,
+   "candidatos_hacia_el_regalo": [
+    "ir_curioso"
+   ],
+   "elige_ir_a_por_el": true,
+   "el_paso_va_hacia_el": true,
+   "el_paso_entra_en_la_casilla": true,
+   "d_elegido": 2.46433,
+   "d_del_mejor_hacia_el": 2.46433,
+   "pedia": true
+  },
+  {
+   "vida_del_que_dio": "s1_d19_APRENDE_11",
+   "t_regalo": 1298,
+   "t": 1307,
+   "regalo": [
+    25,
+    21
+   ],
+   "pos": [
+    27,
+    21
+   ],
+   "dist": 2,
+   "hermano_movido": false,
+   "ve_el_botiquin": true,
+   "botiquines": 0,
+   "cabe": true,
+   "n_cand": 2,
+   "elegido": "ir_curioso",
+   "accion": {
+    "type": "action",
+    "do": "move",
+    "dir": "SW"
+   },
+   "hay_coger": false,
+   "candidatos_hacia_el_regalo": [],
+   "elige_ir_a_por_el": false,
+   "el_paso_va_hacia_el": true,
+   "el_paso_entra_en_la_casilla": false,
+   "d_elegido": 2.89237,
+   "d_del_mejor_hacia_el": null,
+   "pedia": true
+  },
+  {
+   "vida_del_que_dio": "s1_d19_APRENDE_11",
+   "t_regalo": 1586,
+   "t": 1593,
+   "regalo": [
+    25,
+    21
+   ],
+   "pos": [
+    27,
+    21
+   ],
+   "dist": 2,
+   "hermano_movido": false,
+   "ve_el_botiquin": true,
+   "botiquines": 0,
+   "cabe": true,
+   "n_cand": 2,
+   "elegido": "ir_curioso",
+   "accion": {
+    "type": "action",
+    "do": "move",
+    "dir": "SW"
+   },
+   "hay_coger": false,
+   "candidatos_hacia_el_regalo": [],
+   "elige_ir_a_por_el": false,
+   "el_paso_va_hacia_el": true,
+   "el_paso_entra_en_la_casilla": false,
+   "d_elegido": 2.98762,
+   "d_del_mejor_hacia_el": null,
+   "pedia": true
+  },
+  {
+   "vida_del_que_dio": "s1_d19_APRENDE_11",
+   "t_regalo": 1874,
+   "t": 1879,
+   "regalo": [
+    25,
+    21
+   ],
+   "pos": [
+    27,
+    21
+   ],
+   "dist": 2,
+   "hermano_movido": false,
+   "ve_el_botiquin": true,
+   "botiquines": 0,
+   "cabe": true,
+   "n_cand": 2,
+   "elegido": "ir_curioso",
+   "accion": {
+    "type": "action",
+    "do": "move",
+    "dir": "SW"
+   },
+   "hay_coger": false,
+   "candidatos_hacia_el_regalo": [],
+   "elige_ir_a_por_el": false,
+   "el_paso_va_hacia_el": true,
+   "el_paso_entra_en_la_casilla": false,
+   "d_elegido": 2.95665,
+   "d_del_mejor_hacia_el": null,
+   "pedia": true
+  },
+  {
+   "vida_del_que_dio": "s1_d19_APRENDE_11",
+   "t_regalo": 2162,
+   "t": 2165,
+   "regalo": [
+    25,
+    21
+   ],
+   "pos": [
+    27,
+    21
+   ],
+   "dist": 2,
+   "hermano_movido": false,
+   "ve_el_botiquin": true,
+   "botiquines": 0,
+   "cabe": true,
+   "n_cand": 2,
+   "elegido": "ir_curioso",
+   "accion": {
+    "type": "action",
+    "do": "move",
+    "dir": "SW"
+   },
+   "hay_coger": false,
+   "candidatos_hacia_el_regalo": [],
+   "elige_ir_a_por_el": false,
+   "el_paso_va_hacia_el": true,
+   "el_paso_entra_en_la_casilla": false,
+   "d_elegido": 2.98042,
+   "d_del_mejor_hacia_el": null,
+   "pedia": true
+  },
+  {
+   "vida_del_que_dio": "s1_d19_APRENDE_11",
+   "t_regalo": 2474,
+   "t": 2494,
+   "regalo": [
+    26,
+    21
+   ],
+   "pos": [
+    26,
+    22
+   ],
+   "dist": 1,
+   "hermano_movido": false,
+   "ve_el_botiquin": true,
+   "botiquines": 0,
+   "cabe": true,
+   "n_cand": 18,
+   "elegido": "move_NE",
+   "accion": {
+    "type": "action",
+    "do": "move",
+    "dir": "NE"
+   },
+   "hay_coger": false,
+   "candidatos_hacia_el_regalo": [],
+   "elige_ir_a_por_el": false,
+   "el_paso_va_hacia_el": false,
+   "el_paso_entra_en_la_casilla": false,
+   "d_elegido": 3.39986,
+   "d_del_mejor_hacia_el": null,
+   "pedia": true
+  },
+  {
+   "vida_del_que_dio": "s1_d19_APRENDE_11",
+   "t_regalo": 2786,
+   "t": 2789,
+   "regalo": [
+    27,
+    21
+   ],
+   "pos": [
+    26,
+    22
+   ],
+   "dist": 1,
+   "hermano_movido": true,
+   "ve_el_botiquin": true,
+   "botiquines": 0,
+   "cabe": true,
+   "n_cand": 18,
+   "elegido": "move_NE",
+   "accion": {
+    "type": "action",
+    "do": "move",
+    "dir": "NE"
+   },
+   "hay_coger": false,
+   "candidatos_hacia_el_regalo": [],
+   "elige_ir_a_por_el": false,
+   "el_paso_va_hacia_el": true,
+   "el_paso_entra_en_la_casilla": true,
+   "d_elegido": 3.39109,
+   "d_del_mejor_hacia_el": null,
+   "pedia": true
+  },
+  {
+   "vida_del_que_dio": "s1_d19_APRENDE_11",
+   "t_regalo": 3074,
+   "t": 3077,
+   "regalo": [
+    27,
+    21
+   ],
+   "pos": [
+    26,
+    22
+   ],
+   "dist": 1,
+   "hermano_movido": true,
+   "ve_el_botiquin": true,
+   "botiquines": 0,
+   "cabe": true,
+   "n_cand": 18,
+   "elegido": "move_NE",
+   "accion": {
+    "type": "action",
+    "do": "move",
+    "dir": "NE"
+   },
+   "hay_coger": false,
+   "candidatos_hacia_el_regalo": [],
+   "elige_ir_a_por_el": false,
+   "el_paso_va_hacia_el": true,
+   "el_paso_entra_en_la_casilla": true,
+   "d_elegido": 3.39109,
+   "d_del_mejor_hacia_el": null,
+   "pedia": true
+  },
+  {
+   "vida_del_que_dio": "s1_d19_APRENDE_11",
+   "t_regalo": 3362,
+   "t": 3365,
+   "regalo": [
+    27,
+    21
+   ],
+   "pos": [
+    26,
+    22
+   ],
+   "dist": 1,
+   "hermano_movido": true,
+   "ve_el_botiquin": true,
+   "botiquines": 0,
+   "cabe": true,
+   "n_cand": 18,
+   "elegido": "move_NE",
+   "accion": {
+    "type": "action",
+    "do": "move",
+    "dir": "NE"
+   },
+   "hay_coger": false,
+   "candidatos_hacia_el_regalo": [],
+   "elige_ir_a_por_el": false,
+   "el_paso_va_hacia_el": true,
+   "el_paso_entra_en_la_casilla": true,
+   "d_elegido": 3.39109,
+   "d_del_mejor_hacia_el": null,
+   "pedia": true
+  },
+  {
+   "vida_del_que_dio": "s1_d19_APRENDE_11",
+   "t_regalo": 3650,
+   "t": 3653,
+   "regalo": [
+    27,
+    21
+   ],
+   "pos": [
+    26,
+    22
+   ],
+   "dist": 1,
+   "hermano_movido": true,
+   "ve_el_botiquin": true,
+   "botiquines": 0,
+   "cabe": true,
+   "n_cand": 18,
+   "elegido": "move_NE",
+   "accion": {
+    "type": "action",
+    "do": "move",
+    "dir": "NE"
+   },
+   "hay_coger": false,
+   "candidatos_hacia_el_regalo": [],
+   "elige_ir_a_por_el": false,
+   "el_paso_va_hacia_el": true,
+   "el_paso_entra_en_la_casilla": true,
+   "d_elegido": 3.39109,
+   "d_del_mejor_hacia_el": null,
+   "pedia": true
+  },
+  {
+   "vida_del_que_dio": "s1_d19_APRENDE_11",
+   "t_regalo": 3938,
+   "t": 3941,
+   "regalo": [
+    27,
+    21
+   ],
+   "pos": [
+    26,
+    22
+   ],
+   "dist": 1,
+   "hermano_movido": true,
+   "ve_el_botiquin": true,
+   "botiquines": 0,
+   "cabe": true,
+   "n_cand": 18,
+   "elegido": "move_NE",
+   "accion": {
+    "type": "action",
+    "do": "move",
+    "dir": "NE"
+   },
+   "hay_coger": false,
+   "candidatos_hacia_el_regalo": [],
+   "elige_ir_a_por_el": false,
+   "el_paso_va_hacia_el": true,
+   "el_paso_entra_en_la_casilla": true,
+   "d_elegido": 3.39109,
+   "d_del_mejor_hacia_el": null,
+   "pedia": true
+  },
+  {
+   "vida_del_que_dio": "s1_d19_APRENDE_11",
+   "t_regalo": 4226,
+   "t": 4229,
+   "regalo": [
+    27,
+    21
+   ],
+   "pos": [
+    26,
+    22
+   ],
+   "dist": 1,
+   "hermano_movido": true,
+   "ve_el_botiquin": true,
+   "botiquines": 0,
+   "cabe": true,
+   "n_cand": 18,
+   "elegido": "move_NE",
+   "accion": {
+    "type": "action",
+    "do": "move",
+    "dir": "NE"
+   },
+   "hay_coger": false,
+   "candidatos_hacia_el_regalo": [],
+   "elige_ir_a_por_el": false,
+   "el_paso_va_hacia_el": true,
+   "el_paso_entra_en_la_casilla": true,
+   "d_elegido": 3.39109,
+   "d_del_mejor_hacia_el": null,
+   "pedia": true
+  },
+  {
+   "vida_del_que_dio": "s1_d19_APRENDE_11",
+   "t_regalo": 4514,
+   "t": 4517,
+   "regalo": [
+    27,
+    21
+   ],
+   "pos": [
+    26,
+    22
+   ],
+   "dist": 1,
+   "hermano_movido": true,
+   "ve_el_botiquin": true,
+   "botiquines": 0,
+   "cabe": true,
+   "n_cand": 18,
+   "elegido": "move_NE",
+   "accion": {
+    "type": "action",
+    "do": "move",
+    "dir": "NE"
+   },
+   "hay_coger": false,
+   "candidatos_hacia_el_regalo": [],
+   "elige_ir_a_por_el": false,
+   "el_paso_va_hacia_el": true,
+   "el_paso_entra_en_la_casilla": true,
+   "d_elegido": 3.39109,
+   "d_del_mejor_hacia_el": null,
+   "pedia": true
+  },
+  {
+   "vida_del_que_dio": "s1_d19_TECHO_11",
+   "t_regalo": 12235,
+   "t": 12246,
+   "regalo": [
+    17,
+    25
+   ],
+   "pos": [
+    16,
+    24
+   ],
+   "dist": 1,
+   "hermano_movido": false,
+   "ve_el_botiquin": true,
+   "botiquines": 0,
+   "cabe": true,
+   "n_cand": 2,
+   "elegido": "noop",
+   "accion": {
+    "type": "action",
+    "do": "none"
+   },
+   "hay_coger": false,
+   "candidatos_hacia_el_regalo": [],
+   "elige_ir_a_por_el": false,
+   "el_paso_va_hacia_el": false,
+   "el_paso_entra_en_la_casilla": false,
+   "d_elegido": 4.68017,
+   "d_del_mejor_hacia_el": null,
+   "pedia": true
+  },
+  {
+   "vida_del_que_dio": "s1_d3_TECHO_11",
+   "t_regalo": 9363,
+   "t": 9365,
+   "regalo": [
+    21,
+    27
+   ],
+   "pos": [
+    22,
+    26
+   ],
+   "dist": 1,
+   "hermano_movido": true,
+   "ve_el_botiquin": true,
+   "botiquines": 0,
+   "cabe": true,
+   "n_cand": 18,
+   "elegido": "move_SW",
+   "accion": {
+    "type": "action",
+    "do": "move",
+    "dir": "SW"
+   },
+   "hay_coger": false,
+   "candidatos_hacia_el_regalo": [],
+   "elige_ir_a_por_el": false,
+   "el_paso_va_hacia_el": true,
+   "el_paso_entra_en_la_casilla": true,
+   "d_elegido": 3.42853,
+   "d_del_mejor_hacia_el": null,
+   "pedia": true
+  },
+  {
+   "vida_del_que_dio": "s1_d4_BORRADO_10",
+   "t_regalo": 13423,
+   "t": 13434,
+   "regalo": [
+    23,
+    24
+   ],
+   "pos": [
+    21,
+    24
+   ],
+   "dist": 2,
+   "hermano_movido": false,
+   "ve_el_botiquin": true,
+   "botiquines": 0,
+   "cabe": false,
+   "n_cand": 18,
+   "elegido": "noop",
+   "accion": {
+    "type": "action",
+    "do": "none"
+   },
+   "hay_coger": false,
+   "candidatos_hacia_el_regalo": [],
+   "elige_ir_a_por_el": false,
+   "el_paso_va_hacia_el": false,
+   "el_paso_entra_en_la_casilla": false,
+   "d_elegido": 3.07357,
+   "d_del_mejor_hacia_el": null,
+   "pedia": true
+  },
+  {
+   "vida_del_que_dio": "s1_d7_BORRADO_10",
+   "t_regalo": 12627,
+   "t": 12636,
+   "regalo": [
+    18,
+    21
+   ],
+   "pos": [
+    17,
+    18
+   ],
+   "dist": 3,
+   "hermano_movido": false,
+   "ve_el_botiquin": true,
+   "botiquines": 0,
+   "cabe": true,
+   "n_cand": 2,
+   "elegido": "noop",
+   "accion": {
+    "type": "action",
+    "do": "none"
+   },
+   "hay_coger": false,
+   "candidatos_hacia_el_regalo": [],
+   "elige_ir_a_por_el": false,
+   "el_paso_va_hacia_el": false,
+   "el_paso_entra_en_la_casilla": false,
+   "d_elegido": 3.95935,
+   "d_del_mejor_hacia_el": null,
+   "pedia": true
+  },
+  {
+   "vida_del_que_dio": "s1_d7_TECHO_10",
+   "t_regalo": 963,
+   "t": 977,
+   "regalo": [
+    26,
+    21
+   ],
+   "pos": [
+    26,
+    24
+   ],
+   "dist": 3,
+   "hermano_movido": false,
+   "ve_el_botiquin": true,
+   "botiquines": 0,
+   "cabe": true,
+   "n_cand": 20,
+   "elegido": "ir_objeto",
+   "accion": {
+    "type": "action",
+    "do": "move",
+    "dir": "N"
+   },
+   "hay_coger": false,
+   "candidatos_hacia_el_regalo": [],
+   "elige_ir_a_por_el": false,
+   "el_paso_va_hacia_el": true,
+   "el_paso_entra_en_la_casilla": false,
+   "d_elegido": 3.55725,
+   "d_del_mejor_hacia_el": null,
+   "pedia": true
+  },
+  {
+   "vida_del_que_dio": "s1_d7_TECHO_10",
+   "t_regalo": 1298,
+   "t": 1307,
+   "regalo": [
+    27,
+    22
+   ],
+   "pos": [
+    27,
+    24
+   ],
+   "dist": 2,
+   "hermano_movido": true,
+   "ve_el_botiquin": true,
+   "botiquines": 0,
+   "cabe": true,
+   "n_cand": 17,
+   "elegido": "ir_objeto",
+   "accion": {
+    "type": "action",
+    "do": "move",
+    "dir": "N"
+   },
+   "hay_coger": false,
+   "candidatos_hacia_el_regalo": [
+    "ir_objeto"
+   ],
+   "elige_ir_a_por_el": true,
+   "el_paso_va_hacia_el": true,
+   "el_paso_entra_en_la_casilla": false,
+   "d_elegido": 3.09132,
+   "d_del_mejor_hacia_el": 3.09132,
+   "pedia": true
+  },
+  {
+   "vida_del_que_dio": "s1_d7_TECHO_10",
+   "t_regalo": 1634,
+   "t": 1637,
+   "regalo": [
+    27,
+    22
+   ],
+   "pos": [
+    27,
+    24
+   ],
+   "dist": 2,
+   "hermano_movido": true,
+   "ve_el_botiquin": true,
+   "botiquines": 0,
+   "cabe": true,
+   "n_cand": 17,
+   "elegido": "ir_objeto",
+   "accion": {
+    "type": "action",
+    "do": "move",
+    "dir": "N"
+   },
+   "hay_coger": false,
+   "candidatos_hacia_el_regalo": [
+    "ir_objeto"
+   ],
+   "elige_ir_a_por_el": true,
+   "el_paso_va_hacia_el": true,
+   "el_paso_entra_en_la_casilla": false,
+   "d_elegido": 3.09132,
+   "d_del_mejor_hacia_el": 3.09132,
+   "pedia": true
+  },
+  {
+   "vida_del_que_dio": "s1_d7_TECHO_10",
+   "t_regalo": 2307,
+   "t": 2313,
+   "regalo": [
+    27,
+    25
+   ],
+   "pos": [
+    27,
+    24
+   ],
+   "dist": 1,
+   "hermano_movido": true,
+   "ve_el_botiquin": true,
+   "botiquines": 0,
+   "cabe": true,
+   "n_cand": 18,
+   "elegido": "ir_objeto",
+   "accion": {
+    "type": "action",
+    "do": "move",
+    "dir": "N"
+   },
+   "hay_coger": false,
+   "candidatos_hacia_el_regalo": [],
+   "elige_ir_a_por_el": false,
+   "el_paso_va_hacia_el": false,
+   "el_paso_entra_en_la_casilla": false,
+   "d_elegido": 3.24028,
+   "d_del_mejor_hacia_el": null,
+   "pedia": true
+  },
+  {
+   "vida_del_que_dio": "s1_d7_TECHO_10",
+   "t_regalo": 2594,
+   "t": 2599,
+   "regalo": [
+    27,
+    25
+   ],
+   "pos": [
+    27,
+    24
+   ],
+   "dist": 1,
+   "hermano_movido": true,
+   "ve_el_botiquin": true,
+   "botiquines": 0,
+   "cabe": true,
+   "n_cand": 18,
+   "elegido": "ir_objeto",
+   "accion": {
+    "type": "action",
+    "do": "move",
+    "dir": "N"
+   },
+   "hay_coger": false,
+   "candidatos_hacia_el_regalo": [],
+   "elige_ir_a_por_el": false,
+   "el_paso_va_hacia_el": false,
+   "el_paso_entra_en_la_casilla": false,
+   "d_elegido": 3.24155,
+   "d_del_mejor_hacia_el": null,
+   "pedia": true
+  },
+  {
+   "vida_del_que_dio": "s1_d7_TECHO_10",
+   "t_regalo": 2882,
+   "t": 2885,
+   "regalo": [
+    27,
+    25
+   ],
+   "pos": [
+    27,
+    24
+   ],
+   "dist": 1,
+   "hermano_movido": true,
+   "ve_el_botiquin": true,
+   "botiquines": 0,
+   "cabe": true,
+   "n_cand": 18,
+   "elegido": "ir_objeto",
+   "accion": {
+    "type": "action",
+    "do": "move",
+    "dir": "N"
+   },
+   "hay_coger": false,
+   "candidatos_hacia_el_regalo": [],
+   "elige_ir_a_por_el": false,
+   "el_paso_va_hacia_el": false,
+   "el_paso_entra_en_la_casilla": false,
+   "d_elegido": 3.24155,
+   "d_del_mejor_hacia_el": null,
+   "pedia": true
+  },
+  {
+   "vida_del_que_dio": "s1_d7_TECHO_10",
+   "t_regalo": 3170,
+   "t": 3182,
+   "regalo": [
+    27,
+    25
+   ],
+   "pos": [
+    27,
+    23
+   ],
+   "dist": 2,
+   "hermano_movido": true,
+   "ve_el_botiquin": true,
+   "botiquines": 0,
+   "cabe": true,
+   "n_cand": 17,
+   "elegido": "move_S",
+   "accion": {
+    "type": "action",
+    "do": "move",
+    "dir": "S"
+   },
+   "hay_coger": false,
+   "candidatos_hacia_el_regalo": [],
+   "elige_ir_a_por_el": false,
+   "el_paso_va_hacia_el": true,
+   "el_paso_entra_en_la_casilla": false,
+   "d_elegido": 3.64742,
+   "d_del_mejor_hacia_el": null,
+   "pedia": true
+  },
+  {
+   "vida_del_que_dio": "s1_d7_TECHO_10",
+   "t_regalo": 3458,
+   "t": 3468,
+   "regalo": [
+    27,
+    25
+   ],
+   "pos": [
+    27,
+    23
+   ],
+   "dist": 2,
+   "hermano_movido": true,
+   "ve_el_botiquin": true,
+   "botiquines": 0,
+   "cabe": true,
+   "n_cand": 17,
+   "elegido": "move_S",
+   "accion": {
+    "type": "action",
+    "do": "move",
+    "dir": "S"
+   },
+   "hay_coger": false,
+   "candidatos_hacia_el_regalo": [],
+   "elige_ir_a_por_el": false,
+   "el_paso_va_hacia_el": true,
+   "el_paso_entra_en_la_casilla": false,
+   "d_elegido": 3.64532,
+   "d_del_mejor_hacia_el": null,
+   "pedia": true
+  },
+  {
+   "vida_del_que_dio": "s1_d7_TECHO_10",
+   "t_regalo": 3794,
+   "t": 3798,
+   "regalo": [
+    27,
+    25
+   ],
+   "pos": [
+    27,
+    23
+   ],
+   "dist": 2,
+   "hermano_movido": true,
+   "ve_el_botiquin": true,
+   "botiquines": 0,
+   "cabe": true,
+   "n_cand": 17,
+   "elegido": "move_S",
+   "accion": {
+    "type": "action",
+    "do": "move",
+    "dir": "S"
+   },
+   "hay_coger": false,
+   "candidatos_hacia_el_regalo": [],
+   "elige_ir_a_por_el": false,
+   "el_paso_va_hacia_el": true,
+   "el_paso_entra_en_la_casilla": false,
+   "d_elegido": 3.64915,
+   "d_del_mejor_hacia_el": null,
+   "pedia": true
+  },
+  {
+   "vida_del_que_dio": "s1_d7_TECHO_10",
+   "t_regalo": 4130,
+   "t": 4139,
+   "regalo": [
+    27,
+    25
+   ],
+   "pos": [
+    27,
+    24
+   ],
+   "dist": 1,
+   "hermano_movido": true,
+   "ve_el_botiquin": true,
+   "botiquines": 0,
+   "cabe": true,
+   "n_cand": 18,
+   "elegido": "ir_objeto",
+   "accion": {
+    "type": "action",
+    "do": "move",
+    "dir": "N"
+   },
+   "hay_coger": false,
+   "candidatos_hacia_el_regalo": [],
+   "elige_ir_a_por_el": false,
+   "el_paso_va_hacia_el": false,
+   "el_paso_entra_en_la_casilla": false,
+   "d_elegido": 3.24028,
+   "d_del_mejor_hacia_el": null,
+   "pedia": true
+  },
+  {
+   "vida_del_que_dio": "s1_d7_TECHO_10",
+   "t_regalo": 4418,
+   "t": 4425,
+   "regalo": [
+    27,
+    25
+   ],
+   "pos": [
+    27,
+    24
+   ],
+   "dist": 1,
+   "hermano_movido": true,
+   "ve_el_botiquin": true,
+   "botiquines": 0,
+   "cabe": true,
+   "n_cand": 18,
+   "elegido": "ir_objeto",
+   "accion": {
+    "type": "action",
+    "do": "move",
+    "dir": "N"
+   },
+   "hay_coger": false,
+   "candidatos_hacia_el_regalo": [],
+   "elige_ir_a_por_el": false,
+   "el_paso_va_hacia_el": false,
+   "el_paso_entra_en_la_casilla": false,
+   "d_elegido": 3.24028,
+   "d_del_mejor_hacia_el": null,
+   "pedia": true
+  },
+  {
+   "vida_del_que_dio": "s1_d7_TECHO_10",
+   "t_regalo": 4706,
+   "t": 4711,
+   "regalo": [
+    27,
+    25
+   ],
+   "pos": [
+    27,
+    24
+   ],
+   "dist": 1,
+   "hermano_movido": true,
+   "ve_el_botiquin": true,
+   "botiquines": 0,
+   "cabe": true,
+   "n_cand": 18,
+   "elegido": "ir_objeto",
+   "accion": {
+    "type": "action",
+    "do": "move",
+    "dir": "N"
+   },
+   "hay_coger": false,
+   "candidatos_hacia_el_regalo": [],
+   "elige_ir_a_por_el": false,
+   "el_paso_va_hacia_el": false,
+   "el_paso_entra_en_la_casilla": false,
+   "d_elegido": 3.24155,
+   "d_del_mejor_hacia_el": null,
+   "pedia": true
+  },
+  {
+   "vida_del_que_dio": "s2_d14_APRENDE_10",
+   "t_regalo": 13934,
+   "t": 13938,
+   "regalo": [
+    23,
+    25
+   ],
+   "pos": [
+    23,
+    23
+   ],
+   "dist": 2,
+   "hermano_movido": false,
+   "ve_el_botiquin": true,
+   "botiquines": 0,
+   "cabe": true,
+   "n_cand": 3,
+   "elegido": "ir_curioso",
+   "accion": {
+    "type": "action",
+    "do": "move",
+    "dir": "NE"
+   },
+   "hay_coger": false,
+   "candidatos_hacia_el_regalo": [],
+   "elige_ir_a_por_el": false,
+   "el_paso_va_hacia_el": false,
+   "el_paso_entra_en_la_casilla": false,
+   "d_elegido": 4.60147,
+   "d_del_mejor_hacia_el": null,
+   "pedia": true
+  },
+  {
+   "vida_del_que_dio": "s2_d18_TECHO_11",
+   "t_regalo": 2355,
+   "t": 2373,
+   "regalo": [
+    21,
+    26
+   ],
+   "pos": [
+    21,
+    25
+   ],
+   "dist": 1,
+   "hermano_movido": false,
+   "ve_el_botiquin": true,
+   "botiquines": 0,
+   "cabe": true,
+   "n_cand": 16,
+   "elegido": "ir_objeto",
+   "accion": {
+    "type": "action",
+    "do": "move",
+    "dir": "N"
+   },
+   "hay_coger": false,
+   "candidatos_hacia_el_regalo": [],
+   "elige_ir_a_por_el": false,
+   "el_paso_va_hacia_el": false,
+   "el_paso_entra_en_la_casilla": false,
+   "d_elegido": 3.00686,
+   "d_del_mejor_hacia_el": null,
+   "pedia": true
+  },
+  {
+   "vida_del_que_dio": "s2_d18_TECHO_11",
+   "t_regalo": 2690,
+   "t": 2703,
+   "regalo": [
+    21,
+    26
+   ],
+   "pos": [
+    21,
+    25
+   ],
+   "dist": 1,
+   "hermano_movido": false,
+   "ve_el_botiquin": true,
+   "botiquines": 0,
+   "cabe": true,
+   "n_cand": 16,
+   "elegido": "ir_objeto",
+   "accion": {
+    "type": "action",
+    "do": "move",
+    "dir": "N"
+   },
+   "hay_coger": false,
+   "candidatos_hacia_el_regalo": [],
+   "elige_ir_a_por_el": false,
+   "el_paso_va_hacia_el": false,
+   "el_paso_entra_en_la_casilla": false,
+   "d_elegido": 2.97325,
+   "d_del_mejor_hacia_el": null,
+   "pedia": true
+  },
+  {
+   "vida_del_que_dio": "s2_d18_TECHO_11",
+   "t_regalo": 3026,
+   "t": 3044,
+   "regalo": [
+    21,
+    27
+   ],
+   "pos": [
+    21,
+    24
+   ],
+   "dist": 3,
+   "hermano_movido": true,
+   "ve_el_botiquin": true,
+   "botiquines": 0,
+   "cabe": true,
+   "n_cand": 17,
+   "elegido": "move_S",
+   "accion": {
+    "type": "action",
+    "do": "move",
+    "dir": "S"
+   },
+   "hay_coger": false,
+   "candidatos_hacia_el_regalo": [],
+   "elige_ir_a_por_el": false,
+   "el_paso_va_hacia_el": true,
+   "el_paso_entra_en_la_casilla": false,
+   "d_elegido": 3.28304,
+   "d_del_mejor_hacia_el": null,
+   "pedia": true
+  },
+  {
+   "vida_del_que_dio": "s2_d18_TECHO_11",
+   "t_regalo": 3362,
+   "t": 3374,
+   "regalo": [
+    21,
+    27
+   ],
+   "pos": [
+    21,
+    24
+   ],
+   "dist": 3,
+   "hermano_movido": true,
+   "ve_el_botiquin": true,
+   "botiquines": 0,
+   "cabe": true,
+   "n_cand": 17,
+   "elegido": "move_S",
+   "accion": {
+    "type": "action",
+    "do": "move",
+    "dir": "S"
+   },
+   "hay_coger": false,
+   "candidatos_hacia_el_regalo": [],
+   "elige_ir_a_por_el": false,
+   "el_paso_va_hacia_el": true,
+   "el_paso_entra_en_la_casilla": false,
+   "d_elegido": 3.28304,
+   "d_del_mejor_hacia_el": null,
+   "pedia": true
+  },
+  {
+   "vida_del_que_dio": "s2_d18_TECHO_11",
+   "t_regalo": 3699,
+   "t": 3715,
+   "regalo": [
+    21,
+    26
+   ],
+   "pos": [
+    21,
+    25
+   ],
+   "dist": 1,
+   "hermano_movido": false,
+   "ve_el_botiquin": true,
+   "botiquines": 0,
+   "cabe": true,
+   "n_cand": 16,
+   "elegido": "ir_objeto",
+   "accion": {
+    "type": "action",
+    "do": "move",
+    "dir": "N"
+   },
+   "hay_coger": false,
+   "candidatos_hacia_el_regalo": [],
+   "elige_ir_a_por_el": false,
+   "el_paso_va_hacia_el": false,
+   "el_paso_entra_en_la_casilla": false,
+   "d_elegido": 3.0286,
+   "d_del_mejor_hacia_el": null,
+   "pedia": true
+  },
+  {
+   "vida_del_que_dio": "s2_d8_APRENDE_11",
+   "t_regalo": 2163,
+   "t": 2165,
+   "regalo": [
+    23,
+    25
+   ],
+   "pos": [
+    23,
+    27
+   ],
+   "dist": 2,
+   "hermano_movido": false,
+   "ve_el_botiquin": true,
+   "botiquines": 0,
+   "cabe": true,
+   "n_cand": 2,
+   "elegido": "ir_curioso",
+   "accion": {
+    "type": "action",
+    "do": "move",
+    "dir": "E"
+   },
+   "hay_coger": false,
+   "candidatos_hacia_el_regalo": [],
+   "elige_ir_a_por_el": false,
+   "el_paso_va_hacia_el": false,
+   "el_paso_entra_en_la_casilla": false,
+   "d_elegido": 2.93577,
+   "d_del_mejor_hacia_el": null,
+   "pedia": true
+  }
+ ]
+}

@@ -1,0 +1,589 @@
+[
+ {
+  "i": 1,
+  "vida": "P611_t1_A4_20260916/10",
+  "decisiones": 7,
+  "fieles": 7,
+  "campos_antes": 0,
+  "campos_despues": 47,
+  "id_mundo_reusado": false,
+  "infieles": [],
+  "fiel_ejemplo": []
+ },
+ {
+  "i": 2,
+  "vida": "P611_t1_A4_20260916/11",
+  "decisiones": 8,
+  "fieles": 8,
+  "campos_antes": 1,
+  "campos_despues": 53,
+  "id_mundo_reusado": false,
+  "infieles": [],
+  "fiel_ejemplo": []
+ },
+ {
+  "i": 3,
+  "vida": "P611_t1_A4_20470374/11",
+  "decisiones": 174,
+  "fieles": 160,
+  "campos_antes": 1,
+  "campos_despues": 48,
+  "id_mundo_reusado": false,
+  "infieles": [
+   {
+    "t": 11976,
+    "diario": "atacar_N",
+    "replica": "noop",
+    "sonda": {
+     "parte_fresco": "{'slot': 10, 't': 11956, 'pos': (21, 25), 'hp': 90.0, 'veneno': False, 'botiquin': 0, 'agresor': False, 'agresor_slot': None, 'agresor_pos': None}",
+     "agresor_hermana": "None",
+     "agresores_mem": "{5: 111, 7: 82, 9: 2}",
+     "attack_ready_in": "0",
+     "hand": "{'id': 'bow'}",
+     "candidatos": [
+      "noop",
+      "move_N",
+      "move_NE",
+      "move_E",
+      "move_SE",
+      "move_S",
+      "paso_N",
+      "paso_NE",
+      "paso_E",
+      "paso_SE",
+      "ir_centro",
+      "ir_pareja",
+      "usar_racion"
+     ],
+     "pareja_muerta": "False",
+     "visibles": "[(0, [23, 25]), (1, [25, 22]), (3, [24, 25]), (5, [23, 22]), (6, [27, 24]), (7, [26, 23]), (9, [21, 24]), (10, [21, 27]), (14, [26, 25]), (4, [25, 26])]"
+    }
+   },
+   {
+    "t": 11998,
+    "diario": "atacar_NE",
+    "replica": "noop",
+    "sonda": {
+     "parte_fresco": "{'slot': 10, 't': 11981, 'pos': (21, 27), 'hp': 90.0, 'veneno': False, 'botiquin': 0, 'agresor': False, 'agresor_slot': None, 'agresor_pos': None}",
+     "agresor_hermana": "None",
+     "agresores_mem": "{5: 133, 7: 104, 9: 24}",
+     "attack_ready_in": "0",
+     "hand": "{'id': 'bow'}",
+     "candidatos": [
+      "noop",
+      "move_N",
+      "move_NE",
+      "move_E",
+      "move_SE",
+      "move_S",
+      "paso_N",
+      "paso_SE",
+      "paso_S",
+      "ir_centro",
+      "ir_pareja",
+      "usar_racion"
+     ],
+     "pareja_muerta": "False",
+     "visibles": "[(0, [23, 26]), (1, [21, 24]), (3, [25, 24]), (5, [22, 25]), (6, [26, 23]), (7, [23, 22]), (9, [23, 24]), (10, [22, 26]), (14, [25, 25])]"
+    }
+   },
+   {
+    "t": 11999,
+    "diario": "atacar_NE",
+    "replica": "noop",
+    "sonda": {
+     "parte_fresco": "{'slot': 10, 't': 11981, 'pos': (21, 27), 'hp': 90.0, 'veneno': False, 'botiquin': 0, 'agresor': False, 'agresor_slot': None, 'agresor_pos': None}",
+     "agresor_hermana": "None",
+     "agresores_mem": "{5: 134, 7: 105, 9: 25}",
+     "attack_ready_in": "0",
+     "hand": "{'id': 'bow'}",
+     "candidatos": [
+      "noop",
+      "move_N",
+      "move_NE",
+      "move_E",
+      "move_SE",
+      "move_S",
+      "paso_N",
+      "paso_SE",
+      "paso_S",
+      "ir_centro",
+      "ir_pareja",
+      "usar_racion"
+     ],
+     "pareja_muerta": "False",
+     "visibles": "[(0, [23, 26]), (1, [21, 24]), (3, [26, 23]), (5, [22, 25]), (6, [26, 22]), (7, [24, 21]), (9, [23, 24]), (10, [22, 26]), (14, [25, 25])]"
+    }
+   }
+  ],
+  "fiel_ejemplo": [
+   {
+    "t": 11584,
+    "sonda": {
+     "parte_fresco": "{'slot': 10, 't': 11581, 'pos': (24, 24), 'hp': 78.0, 'veneno': False, 'botiquin': 0, 'agresor': True, 'agresor_slot': 8, 'agresor_pos': (23, 26)}",
+     "agresor_hermana": "8",
+     "agresores_mem": "{}",
+     "attack_ready_in": "0",
+     "hand": "{'id': 'bow'}",
+     "candidatos": [
+      "noop",
+      "move_N",
+      "move_NE",
+      "move_E",
+      "move_SE",
+      "move_S",
+      "move_SW",
+      "move_W",
+      "move_NW",
+      "paso_NE",
+      "paso_SE",
+      "paso_S",
+      "paso_SW",
+      "paso_W",
+      "paso_NW",
+      "ir_objeto",
+      "ir_centro",
+      "ir_pareja",
+      "atacar_E"
+     ],
+     "pareja_muerta": "False",
+     "visibles": "[(0, [26, 23]), (1, [21, 24]), (2, [25, 26]), (4, [19, 22]), (5, [23, 22]), (6, [22, 25]), (8, [23, 26]), (9, [28, 24]), (10, [24, 24]), (12, [25, 32]), (13, [26, 30]), (14, [24, 26])]"
+    }
+   }
+  ]
+ },
+ {
+  "i": 4,
+  "vida": "P611_t1_A4_20575103/11",
+  "decisiones": 3,
+  "fieles": 3,
+  "campos_antes": 1,
+  "campos_despues": 5,
+  "id_mundo_reusado": false,
+  "infieles": [],
+  "fiel_ejemplo": []
+ },
+ {
+  "i": 5,
+  "vida": "P611_t1_A4_20679832/11",
+  "decisiones": 5,
+  "fieles": 5,
+  "campos_antes": 1,
+  "campos_despues": 32,
+  "id_mundo_reusado": false,
+  "infieles": [],
+  "fiel_ejemplo": [
+   {
+    "t": 10380,
+    "sonda": {
+     "parte_fresco": "{'slot': 10, 't': 10356, 'pos': (26, 21), 'hp': 100.0, 'veneno': False, 'botiquin': 0, 'agresor': False, 'agresor_slot': None, 'agresor_pos': None}",
+     "agresor_hermana": "None",
+     "agresores_mem": "{14: 0}",
+     "attack_ready_in": "0",
+     "hand": "{'id': 'bow'}",
+     "candidatos": [
+      "noop",
+      "move_N",
+      "move_NE",
+      "move_E",
+      "move_S",
+      "move_SW",
+      "move_W",
+      "move_NW",
+      "paso_N",
+      "paso_NE",
+      "paso_E",
+      "paso_S",
+      "paso_SW",
+      "paso_W",
+      "paso_NW",
+      "ir_objeto",
+      "ir_centro",
+      "ir_pareja",
+      "atacar_E"
+     ],
+     "pareja_muerta": "False",
+     "visibles": "[(3, [18, 24]), (4, [23, 25]), (9, [23, 28]), (10, [27, 21]), (14, [29, 24]), (15, [34, 25]), (5, [19, 18])]"
+    }
+   }
+  ]
+ },
+ {
+  "i": 6,
+  "vida": "P611_t1_A4_20889290/10",
+  "decisiones": 73,
+  "fieles": 66,
+  "campos_antes": 2,
+  "campos_despues": 10,
+  "id_mundo_reusado": false,
+  "infieles": [
+   {
+    "t": 11539,
+    "diario": "atacar_SE",
+    "replica": "noop",
+    "sonda": {
+     "parte_fresco": "{'slot': 11, 't': 11531, 'pos': (24, 23), 'hp': 81.0, 'veneno': False, 'botiquin': 3, 'agresor': True, 'agresor_slot': 9, 'agresor_pos': (27, 24)}",
+     "agresor_hermana": "9",
+     "agresores_mem": "{}",
+     "attack_ready_in": "0",
+     "hand": "{'id': 'bow'}",
+     "candidatos": [
+      "noop",
+      "move_N",
+      "move_NE",
+      "move_E",
+      "move_SE",
+      "move_S",
+      "move_SW",
+      "move_NW",
+      "paso_N",
+      "paso_NE",
+      "paso_E",
+      "paso_SE",
+      "paso_S",
+      "paso_SW",
+      "ir_botin",
+      "ir_objeto",
+      "ir_centro",
+      "ir_pareja"
+     ],
+     "pareja_muerta": "False",
+     "visibles": "[(2, [23, 26]), (3, [22, 19]), (4, [22, 22]), (6, [25, 22]), (8, [25, 26]), (9, [27, 24]), (11, [23, 24]), (12, [28, 24]), (13, [23, 28]), (14, [20, 24])]"
+    }
+   },
+   {
+    "t": 11552,
+    "diario": "atacar_SE",
+    "replica": "noop",
+    "sonda": {
+     "parte_fresco": "{'slot': 11, 't': 11531, 'pos': (24, 23), 'hp': 81.0, 'veneno': False, 'botiquin': 3, 'agresor': True, 'agresor_slot': 9, 'agresor_pos': (27, 24)}",
+     "agresor_hermana": "9",
+     "agresores_mem": "{}",
+     "attack_ready_in": "0",
+     "hand": "{'id': 'bow'}",
+     "candidatos": [
+      "noop",
+      "move_NE",
+      "move_E",
+      "move_SE",
+      "move_S",
+      "move_SW",
+      "move_W",
+      "paso_NE",
+      "paso_E",
+      "paso_SE",
+      "paso_S",
+      "paso_SW",
+      "paso_W",
+      "ir_objeto",
+      "ir_centro",
+      "ir_pareja"
+     ],
+     "pareja_muerta": "False",
+     "visibles": "[(2, [22, 26]), (4, [21, 24]), (6, [25, 22]), (8, [25, 26]), (9, [26, 25]), (11, [23, 23]), (12, [28, 24]), (13, [24, 28]), (14, [22, 24])]"
+    }
+   },
+   {
+    "t": 11553,
+    "diario": "atacar_SE",
+    "replica": "noop",
+    "sonda": {
+     "parte_fresco": "{'slot': 11, 't': 11531, 'pos': (24, 23), 'hp': 81.0, 'veneno': False, 'botiquin': 3, 'agresor': True, 'agresor_slot': 9, 'agresor_pos': (27, 24)}",
+     "agresor_hermana": "9",
+     "agresores_mem": "{}",
+     "attack_ready_in": "0",
+     "hand": "{'id': 'bow'}",
+     "candidatos": [
+      "noop",
+      "move_NE",
+      "move_E",
+      "move_SE",
+      "move_S",
+      "move_SW",
+      "move_W",
+      "paso_NE",
+      "paso_E",
+      "paso_SE",
+      "paso_S",
+      "paso_SW",
+      "paso_W",
+      "ir_objeto",
+      "ir_centro",
+      "ir_pareja"
+     ],
+     "pareja_muerta": "False",
+     "visibles": "[(2, [22, 26]), (4, [21, 24]), (6, [26, 22]), (8, [25, 26]), (9, [26, 25]), (11, [23, 23]), (12, [28, 24]), (13, [25, 27]), (14, [22, 24])]"
+    }
+   }
+  ],
+  "fiel_ejemplo": [
+   {
+    "t": 1983,
+    "sonda": {
+     "parte_fresco": "{'slot': 11, 't': 1981, 'pos': (26, 25), 'hp': 92.0, 'veneno': False, 'botiquin': 0, 'agresor': True, 'agresor_slot': 13, 'agresor_pos': (28, 24)}",
+     "agresor_hermana": "13",
+     "agresores_mem": "{}",
+     "attack_ready_in": "0",
+     "hand": "{'id': 'bow'}",
+     "candidatos": [
+      "noop",
+      "move_N",
+      "move_NE",
+      "move_E",
+      "move_SE",
+      "move_S",
+      "move_SW",
+      "move_W",
+      "move_NW",
+      "paso_NE",
+      "paso_E",
+      "paso_SE",
+      "paso_S",
+      "paso_SW",
+      "paso_W",
+      "paso_NW",
+      "ir_objeto",
+      "ir_centro",
+      "ir_pareja",
+      "atacar_NE"
+     ],
+     "pareja_muerta": "False",
+     "visibles": "[(1, [22, 21]), (3, [21, 30]), (11, [26, 25]), (12, [31, 20]), (13, [28, 24])]"
+    }
+   }
+  ]
+ },
+ {
+  "i": 7,
+  "vida": "P611_t1_A4_20889290/11",
+  "decisiones": 5,
+  "fieles": 5,
+  "campos_antes": 1,
+  "campos_despues": 35,
+  "id_mundo_reusado": false,
+  "infieles": [],
+  "fiel_ejemplo": []
+ },
+ {
+  "i": 8,
+  "vida": "P611_t1_A4_20994019/10",
+  "decisiones": 4,
+  "fieles": 4,
+  "campos_antes": 1,
+  "campos_despues": 49,
+  "id_mundo_reusado": false,
+  "infieles": [],
+  "fiel_ejemplo": []
+ },
+ {
+  "i": 9,
+  "vida": "P611_t1_A4_20994019/11",
+  "decisiones": 18,
+  "fieles": 14,
+  "campos_antes": 1,
+  "campos_despues": 49,
+  "id_mundo_reusado": false,
+  "infieles": [
+   {
+    "t": 11659,
+    "diario": "atacar_S",
+    "replica": "noop",
+    "sonda": {
+     "parte_fresco": "{'slot': 10, 't': 11656, 'pos': (22, 25), 'hp': 78.0, 'veneno': False, 'botiquin': 1, 'agresor': True, 'agresor_slot': 9, 'agresor_pos': (22, 26)}",
+     "agresor_hermana": "9",
+     "agresores_mem": "{}",
+     "attack_ready_in": "0",
+     "hand": "{'id': 'blowgun'}",
+     "candidatos": [
+      "noop",
+      "move_N",
+      "move_NE",
+      "move_E",
+      "move_SE",
+      "move_S",
+      "move_SW",
+      "move_W",
+      "move_NW",
+      "paso_NE",
+      "paso_SE",
+      "paso_S",
+      "paso_SW",
+      "paso_W",
+      "paso_NW",
+      "ir_centro",
+      "ir_pareja"
+     ],
+     "pareja_muerta": "False",
+     "visibles": "[(0, [26, 25]), (1, [22, 23]), (3, [25, 26]), (4, [27, 24]), (6, [26, 23]), (8, [24, 21]), (9, [22, 26]), (10, [23, 24]), (14, [24, 26])]"
+    }
+   },
+   {
+    "t": 11693,
+    "diario": "atacar_SE",
+    "replica": "noop",
+    "sonda": {
+     "parte_fresco": "{'slot': 10, 't': 11681, 'pos': (24, 23), 'hp': 78.0, 'veneno': False, 'botiquin': 1, 'agresor': True, 'agresor_slot': 9, 'agresor_pos': (23, 26)}",
+     "agresor_hermana": "9",
+     "agresores_mem": "{}",
+     "attack_ready_in": "0",
+     "hand": "{'id': 'blowgun'}",
+     "candidatos": [
+      "noop",
+      "move_N",
+      "move_NE",
+      "move_E",
+      "move_SE",
+      "move_S",
+      "move_SW",
+      "paso_N",
+      "paso_NE",
+      "paso_E",
+      "paso_S",
+      "paso_SW",
+      "ir_objeto",
+      "ir_centro",
+      "ir_pareja"
+     ],
+     "pareja_muerta": "False",
+     "visibles": "[(0, [26, 23]), (1, [22, 23]), (2, [23, 20]), (6, [25, 22]), (8, [24, 21]), (9, [25, 26]), (10, [25, 23]), (14, [26, 24]), (3, [26, 25]), (15, [31, 25])]"
+    }
+   },
+   {
+    "t": 11717,
+    "diario": "atacar_E",
+    "replica": "noop",
+    "sonda": {
+     "parte_fresco": "{'slot': 10, 't': 11706, 'pos': (24, 23), 'hp': 71.0, 'veneno': False, 'botiquin': 1, 'agresor': True, 'agresor_slot': 6, 'agresor_pos': (25, 22)}",
+     "agresor_hermana": "6",
+     "agresores_mem": "{}",
+     "attack_ready_in": "0",
+     "hand": "{'id': 'blowgun'}",
+     "candidatos": [
+      "noop",
+      "move_N",
+      "move_NE",
+      "move_E",
+      "move_SE",
+      "move_S",
+      "move_SW",
+      "paso_N",
+      "paso_NE",
+      "paso_E",
+      "paso_SE",
+      "paso_S",
+      "paso_SW",
+      "ir_objeto",
+      "ir_centro",
+      "ir_pareja"
+     ],
+     "pareja_muerta": "False",
+     "visibles": "[(0, [26, 25]), (1, [22, 25]), (2, [23, 20]), (6, [25, 22]), (8, [24, 21]), (9, [25, 26]), (10, [24, 24]), (14, [25, 27]), (15, [31, 25])]"
+    }
+   }
+  ],
+  "fiel_ejemplo": [
+   {
+    "t": 13808,
+    "sonda": {
+     "parte_fresco": "{'slot': 10, 't': 13806, 'pos': (21, 24), 'hp': 41.0, 'veneno': False, 'botiquin': 2, 'agresor': True, 'agresor_slot': 14, 'agresor_pos': (24, 24)}",
+     "agresor_hermana": "14",
+     "agresores_mem": "{}",
+     "attack_ready_in": "0",
+     "hand": "{'id': 'blowgun'}",
+     "candidatos": [
+      "noop",
+      "move_N",
+      "move_NE",
+      "move_E",
+      "move_SE",
+      "move_S",
+      "move_SW",
+      "move_W",
+      "move_NW",
+      "paso_N",
+      "paso_NE",
+      "paso_E",
+      "paso_SE",
+      "paso_S",
+      "paso_SW",
+      "paso_NW",
+      "ir_centro",
+      "ir_pareja",
+      "soltar_rations",
+      "atacar_E"
+     ],
+     "pareja_muerta": "False",
+     "visibles": "[(10, [21, 24]), (14, [24, 24])]"
+    }
+   }
+  ]
+ },
+ {
+  "i": 10,
+  "vida": "P611_t1_A4_21098748/10",
+  "decisiones": 1,
+  "fieles": 1,
+  "campos_antes": 1,
+  "campos_despues": 48,
+  "id_mundo_reusado": false,
+  "infieles": [],
+  "fiel_ejemplo": []
+ },
+ {
+  "i": 11,
+  "vida": "P611_t1_A4_21098748/11",
+  "decisiones": 7,
+  "fieles": 7,
+  "campos_antes": 1,
+  "campos_despues": 41,
+  "id_mundo_reusado": false,
+  "infieles": [],
+  "fiel_ejemplo": []
+ },
+ {
+  "i": 12,
+  "vida": "P611_t2_A4_21308206/10",
+  "decisiones": 162,
+  "fieles": 162,
+  "campos_antes": 1,
+  "campos_despues": 56,
+  "id_mundo_reusado": false,
+  "infieles": [],
+  "fiel_ejemplo": [
+   {
+    "t": 2365,
+    "sonda": {
+     "parte_fresco": "{'slot': 11, 't': 2356, 'pos': (22, 25), 'hp': 92.0, 'veneno': False, 'botiquin': 1, 'agresor': False, 'agresor_slot': None, 'agresor_pos': None}",
+     "agresor_hermana": "None",
+     "agresores_mem": "{15: 0}",
+     "attack_ready_in": "0",
+     "hand": "{'id': 'bow'}",
+     "candidatos": [
+      "noop",
+      "move_N",
+      "move_NE",
+      "move_E",
+      "move_S",
+      "move_SW",
+      "move_W",
+      "move_NW",
+      "paso_N",
+      "paso_E",
+      "paso_S",
+      "paso_SW",
+      "paso_W",
+      "paso_NW",
+      "ir_objeto",
+      "ir_centro",
+      "ir_pareja",
+      "usar_racion",
+      "usar_botiquin",
+      "atacar_NE"
+     ],
+     "pareja_muerta": "False",
+     "visibles": "[(8, [24, 20]), (11, [21, 26]), (12, [31, 21]), (15, [28, 23])]"
+    }
+   }
+  ]
+ }
+]

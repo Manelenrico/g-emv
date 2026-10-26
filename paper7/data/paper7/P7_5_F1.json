@@ -1,0 +1,72 @@
+{
+ "apagado": {
+  "vidas": 80,
+  "fidelidad": {
+   "igual": 1007274,
+   "difiere": 2
+  },
+  "desacuerdos": [
+   {
+    "vida": "P611_t2_A4_21622393/10",
+    "t": 1832,
+    "diario": "move_SW",
+    "replica": "move_W"
+   },
+   {
+    "vida": "P611_t2_A4_21622393/10",
+    "t": 2041,
+    "diario": "move_NW",
+    "replica": "paso_NE"
+   }
+  ],
+  "segundos": 199.5,
+  "hecho": {
+   "P7": false
+  }
+ },
+ "TECHO": {
+  "vidas": 80,
+  "fidelidad": {
+   "igual": 1007274,
+   "difiere": 2
+  },
+  "desacuerdos": [
+   {
+    "vida": "P611_t2_A4_21622393/10",
+    "t": 1832,
+    "diario": "move_SW",
+    "replica": "move_W"
+   },
+   {
+    "vida": "P611_t2_A4_21622393/10",
+    "t": 2041,
+    "diario": "move_NW",
+    "replica": "paso_NE"
+   }
+  ],
+  "segundos": 211.1,
+  "hecho": {
+   "P7": true,
+   "ON": true,
+   "SABE": true,
+   "CUADERNO": false,
+   "BORRADO": false,
+   "NOVEDAD": false,
+   "ACOPIO_M0": 0.18,
+   "W_TARGET0": 3.0,
+   "REPARTO_NOV": [
+    0.1,
+    0.8,
+    0.1
+   ],
+   "FOTO_USA": 1.5,
+   "CALMA_FILAS": [
+    "F-4-ALCANCE",
+    "S-7-AGRESOR",
+    "F-HERMANO-AMENAZA",
+    "F-HERMANO-GOLPE",
+    "F-ANTICIPACION"
+   ]
+  }
+ }
+}

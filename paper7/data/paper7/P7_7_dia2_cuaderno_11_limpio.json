@@ -1,0 +1,61 @@
+{
+ "criatura": 11,
+ "dia": 2,
+ "objetos": {
+  "first_aid": {
+   "situaciones": {
+    "dentro": [
+     {
+      "dia": 2,
+      "tick": 12759,
+      "efecto": {
+       "cuerpo": 18.0,
+       "recursos": -1.0,
+       "vinculo": 0.7639
+      },
+      "importancia": {
+       "cuerpo": -0.192,
+       "recursos": 0.0244,
+       "vinculo": -0.1376
+      },
+      "intensidad": 1.236,
+      "creencia_antes": null,
+      "al_menos": true
+     },
+     {
+      "dia": 2,
+      "tick": 12945,
+      "efecto": {
+       "cuerpo": 7.0,
+       "recursos": -1.0,
+       "vinculo": 1.2361
+      },
+      "importancia": {
+       "cuerpo": -0.1706,
+       "recursos": -0.0905,
+       "vinculo": -0.1597
+      },
+      "intensidad": 1.2805,
+      "creencia_antes": {
+       "cuerpo": 9.9499,
+       "recursos": -0.5528,
+       "vinculo": 0.4223
+      },
+      "al_menos": true
+     }
+    ]
+   }
+  }
+ },
+ "creencias": {
+  "first_aid": {
+   "dentro": {
+    "cuerpo": 8.7448,
+    "recursos": -0.7051,
+    "vinculo": 0.708
+   },
+   "ignorancia": 0.2949,
+   "pesos_vividos": 2.3907
+  }
+ }
+}

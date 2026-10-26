@@ -1,0 +1,2121 @@
+{
+ "con_nombres": {
+  "invitaciones": 46,
+  "verdad": 39,
+  "condiciones": {
+   "C1 cura solo sin golpes": 17,
+   "C3 red/camuflaje no curan": 7,
+   "C2 fuera del anillo duele": 11,
+   "C4 camuflaje protege quieta": 3,
+   "C5 el botiquin cura mucho": 4
+  },
+  "acciones": {
+   "USAR_BOTIQUIN": 15,
+   "COGER_RACION": 5,
+   "EMPUNAR_RED": 4,
+   "ACERCARSE_HERMANA": 7,
+   "COGER_BOTIQUIN": 3,
+   "QUEDARSE_QUIETA": 3,
+   "USAR_RACION": 3,
+   "DAR_BOTIQUIN_HERMANA": 3,
+   "PONERSE_CAMUFLAJE": 3
+  },
+  "usd": 0.5536,
+  "tokens": [
+   104890,
+   15924
+  ]
+ },
+ "a_ciegas": {
+  "invitaciones": 45,
+  "verdad": 40,
+  "condiciones": {
+   "C1 cura solo sin golpes": 18,
+   "C2 fuera del anillo duele": 11,
+   "C5 el botiquin cura mucho": 4,
+   "C3 red/camuflaje no curan": 2
+  },
+  "acciones": {
+   "USAR_RACION": 8,
+   "USAR_BOTIQUIN": 12,
+   "COGER_BOTIQUIN": 4,
+   "ACERCARSE_HERMANA": 8,
+   "QUEDARSE_QUIETA": 5,
+   "DAR_BOTIQUIN_HERMANA": 3,
+   "COGER_RACION": 3,
+   "COGER_RED": 1,
+   "EMPUNAR_RED": 1
+  },
+  "usd": 0.5485,
+  "tokens": [
+   106173,
+   15330
+  ]
+ },
+ "por_vida": {
+  "s1 d1 COMPARTE a10": {
+   "desaparecen": [
+    [
+     "EMPUNAR_RED",
+     "C3 red/camuflaje no curan"
+    ],
+    [
+     "PONERSE_CAMUFLAJE",
+     "C3 red/camuflaje no curan"
+    ],
+    [
+     "PONERSE_CAMUFLAJE",
+     "C4 camuflaje protege quieta"
+    ],
+    [
+     "USAR_BOTIQUIN",
+     "C2 fuera del anillo duele"
+    ]
+   ],
+   "nuevas": [
+    [
+     "COGER_RACION",
+     "(sin condicion conocida)"
+    ],
+    [
+     "USAR_BOTIQUIN",
+     "(sin condicion conocida)"
+    ],
+    [
+     "USAR_RACION",
+     "(sin condicion conocida)"
+    ]
+   ],
+   "con_nombres": 6,
+   "a_ciegas": 6
+  },
+  "s1 d2 SOLAS a10": {
+   "desaparecen": [
+    [
+     "ACERCARSE_HERMANA",
+     "C2 fuera del anillo duele"
+    ],
+    [
+     "QUEDARSE_QUIETA",
+     "C2 fuera del anillo duele"
+    ]
+   ],
+   "nuevas": [
+    [
+     "ACERCARSE_HERMANA",
+     "(sin condicion conocida)"
+    ],
+    [
+     "USAR_BOTIQUIN",
+     "C2 fuera del anillo duele"
+    ]
+   ],
+   "con_nombres": 6,
+   "a_ciegas": 5
+  },
+  "s1 d3 COMPARTE a11": {
+   "desaparecen": [
+    [
+     "COGER_RACION",
+     "(sin condicion conocida)"
+    ],
+    [
+     "QUEDARSE_QUIETA",
+     "C2 fuera del anillo duele"
+    ]
+   ],
+   "nuevas": [
+    [
+     "COGER_RACION",
+     "C2 fuera del anillo duele"
+    ],
+    [
+     "DAR_BOTIQUIN_HERMANA",
+     "(sin condicion conocida)"
+    ],
+    [
+     "USAR_RACION",
+     "C1 cura solo sin golpes"
+    ],
+    [
+     "USAR_RACION",
+     "C2 fuera del anillo duele"
+    ]
+   ],
+   "con_nombres": 5,
+   "a_ciegas": 6
+  },
+  "s1 d6 SOLAS a11": {
+   "desaparecen": [
+    [
+     "COGER_RACION",
+     "(sin condicion conocida)"
+    ],
+    [
+     "EMPUNAR_RED",
+     "C3 red/camuflaje no curan"
+    ]
+   ],
+   "nuevas": [
+    [
+     "QUEDARSE_QUIETA",
+     "C2 fuera del anillo duele"
+    ],
+    [
+     "USAR_BOTIQUIN",
+     "C5 el botiquin cura mucho"
+    ],
+    [
+     "USAR_RACION",
+     "C1 cura solo sin golpes"
+    ]
+   ],
+   "con_nombres": 6,
+   "a_ciegas": 6
+  },
+  "s1 d8 COMPARTE a10": {
+   "desaparecen": [
+    [
+     "COGER_RACION",
+     "(sin condicion conocida)"
+    ],
+    [
+     "EMPUNAR_RED",
+     "C3 red/camuflaje no curan"
+    ]
+   ],
+   "nuevas": [
+    [
+     "COGER_BOTIQUIN",
+     "(sin condicion conocida)"
+    ],
+    [
+     "QUEDARSE_QUIETA",
+     "C2 fuera del anillo duele"
+    ],
+    [
+     "USAR_RACION",
+     "C1 cura solo sin golpes"
+    ]
+   ],
+   "con_nombres": 5,
+   "a_ciegas": 5
+  },
+  "s3 d12 COMPARTE a11": {
+   "desaparecen": [
+    [
+     "DAR_BOTIQUIN_HERMANA",
+     "(sin condicion conocida)"
+    ],
+    [
+     "PONERSE_CAMUFLAJE",
+     "C3 red/camuflaje no curan"
+    ],
+    [
+     "PONERSE_CAMUFLAJE",
+     "C4 camuflaje protege quieta"
+    ]
+   ],
+   "nuevas": [
+    [
+     "COGER_BOTIQUIN",
+     "(sin condicion conocida)"
+    ]
+   ],
+   "con_nombres": 6,
+   "a_ciegas": 6
+  },
+  "s3 d17 SOLAS a11": {
+   "desaparecen": [
+    [
+     "ACERCARSE_HERMANA",
+     "(sin condicion conocida)"
+    ],
+    [
+     "COGER_BOTIQUIN",
+     "(sin condicion conocida)"
+    ],
+    [
+     "PONERSE_CAMUFLAJE",
+     "C3 red/camuflaje no curan"
+    ],
+    [
+     "PONERSE_CAMUFLAJE",
+     "C4 camuflaje protege quieta"
+    ],
+    [
+     "USAR_BOTIQUIN",
+     "C2 fuera del anillo duele"
+    ]
+   ],
+   "nuevas": [
+    [
+     "ACERCARSE_HERMANA",
+     "C2 fuera del anillo duele"
+    ],
+    [
+     "COGER_RED",
+     "C3 red/camuflaje no curan"
+    ],
+    [
+     "QUEDARSE_QUIETA",
+     "C2 fuera del anillo duele"
+    ]
+   ],
+   "con_nombres": 6,
+   "a_ciegas": 5
+  },
+  "s3 d18 SOLAS a10": {
+   "desaparecen": [
+    [
+     "COGER_RACION",
+     "(sin condicion conocida)"
+    ]
+   ],
+   "nuevas": [
+    [
+     "ACERCARSE_HERMANA",
+     "(sin condicion conocida)"
+    ],
+    [
+     "QUEDARSE_QUIETA",
+     "(sin condicion conocida)"
+    ]
+   ],
+   "con_nombres": 6,
+   "a_ciegas": 6
+  }
+ },
+ "a_ciegas_promete_cura_con_A_o_B": 19,
+ "lecturas_a_ciegas": [
+  "LECTURA: Hoy las dos únicas pruebas limpias dicen que A y B dan alivio de cuerpo (A +11 con -1 unidad en el tic 9412-9460; B +15 con -1 unidad en el segundo 510), y que C y D no hacen nada en el cuerpo. Casi todo el daño llegó dentro del anillo pequeño con rivales a 1-2 casillas (P6, P2, P14) mientr",
+  "LECTURA: Hoy el objeto A dio alivio limpio una vez (+11 de vida a los 480 s, dentro del anillo y sin golpes) y a los 613 s dio +50 con la vida en 16, así que parece curar más cuanto más herida estoy; en cambio el objeto C no hizo nada en cuerpo ni recursos, y las cuatro pruebas de A en plena pelea (",
+  "LECTURA: Morí a los 541 s: el anillo de fuego me quitó 92 de vida, y el último tramo lo pasé fuera del anillo, quieta (noop) o dando pasos sueltos, probando el objeto A una y otra vez mientras cada golpe cortaba la ventana. Lo único medido del día es que el objeto B dio +15.2 de cuerpo por una unida",
+  "LECTURA: Hoy perdí 97 de vida por el anillo de fuego y solo 11 por un rival. A partir del segundo 425 estuve FUERA del anillo, quieta junto a mi hermana, con B y A en el zurrón y pulsando A una y otra vez sin ningún efecto medible (todas esas ventanas quedaron cortadas por el fuego), mientras el obj",
+  "LECTURA: Hoy A y B me dieron alivio de unas 11 y 6 de vida, a cambio de una unidad cada vez, y mis dos pruebas con D y la creencia sobre C fueron nulas en el cuerpo. Aguanté hasta el final, pero mi hermana murió y el anillo de fuego y P15 me dejaron en 15 de vida. Mi riqueza cayó a 0.00 y el dolor d",
+  "LECTURA: Hoy el objeto A y el objeto B me dieron alivio estando dentro del anillo (+11 y +15 de vida, de un gasto de 1 unidad cada uno). En el tramo final me quedé quieta (noop) fuera del anillo de fuego y perdí 118 de vida; solo me salvó un USAR_A en el tic 13947 que subió el cuerpo +50 cuando esta",
+  "LECTURA: El objeto A es lo único del día con efecto medido en el cuerpo: en la prueba del segundo 535 dio +50 de vida a cambio de una unidad (el único ensayo sin golpes en la ventana, así que el efecto es limpio). Las otras seis pruebas de A salieron cortadas por golpes del rival P14, y las medidas ",
+  "LECTURA: Hoy B curó de forma repetida y fiable (+3, +6, +8, +15, +14 de vida, 1 unidad gastada cada vez), y A, que mi hermana contó que le dio +22, en mi cuerpo no mostró nada porque las cuatro pruebas se cortaron por golpes de P0, así que sigue sin medirse. C y D no hicieron nada al llevarlos puest"
+ ],
+ "invitaciones_con_nombres": [
+  {
+   "n": 1,
+   "tipo": "CONDICION",
+   "accion": "USAR_BOTIQUIN",
+   "anillo": "DENTRO",
+   "calma": "PELIGRO",
+   "movimiento": "QUIETA",
+   "hermana": "CUALQUIERA",
+   "cuerpo": 11.0,
+   "recursos": -1.0,
+   "vinculo": 0.0,
+   "porque": "En el s392 (tic 9412-9460) el botiquín dio +11 de vida en una ventana limpia, sin golpes. En los tics 12037-12152 lo usé bajo golpes y las tres ventanas se cortaron sin efecto medido; el zurrón conservó el botiquín. Hipótesis: bajo golpes no se completa, o solo hay que repetirlo quieta.",
+   "se_comprueba": "Si en peligro y quieta la vida sube unos 11 y el botiquín sale del zurrón, funciona también bajo amenaza. Si la ventana se vuelve a cortar sin efecto, solo vale en calma.",
+   "confianza": "baja",
+   "vida": "s1 d8 COMPARTE a10",
+   "verdad": true,
+   "conds": [
+    "C1 cura solo sin golpes"
+   ]
+  },
+  {
+   "n": 2,
+   "tipo": "CONDICION",
+   "accion": "USAR_BOTIQUIN",
+   "anillo": "DENTRO",
+   "calma": "CALMA",
+   "movimiento": "QUIETA",
+   "hermana": "CUALQUIERA",
+   "cuerpo": 11.0,
+   "recursos": -1.0,
+   "vinculo": 0.0,
+   "porque": "Contraste con la invitación 1: el único uso con efecto (s392) ocurrió con vida 89 y sin golpes en la ventana. Si el efecto se repite en calma y quieta, el obstáculo era el peligro y no el objeto.",
+   "se_comprueba": "Vida sube unos 11 hasta el techo y el botiquín se gasta (recursos -1), sin golpes en la ventana.",
+   "confianza": "media",
+   "vida": "s1 d8 COMPARTE a10",
+   "verdad": true,
+   "conds": [
+    "C1 cura solo sin golpes"
+   ]
+  },
+  {
+   "n": 4,
+   "tipo": "FORMA",
+   "accion": "COGER_RACION",
+   "anillo": "DENTRO",
+   "calma": "CALMA",
+   "movimiento": "MOVIENDOSE",
+   "hermana": "CERCA",
+   "cuerpo": 0.0,
+   "recursos": 1.0,
+   "vinculo": 0.0,
+   "porque": "El zurrón del día solo tenía botiquín y red, sin ración. Hubo ración×4 a 2-3 casillas en los tics 12036-12152. Coger la ración da riqueza, pero eso es CONTEXTO (como la red en el s26, W subió 1.0 y el cuerpo no cambió): no promete alivio, solo tener algo que usar luego.",
+   "se_comprueba": "El zurrón contiene ración y la riqueza W sube; el alivio solo aparece al usarla.",
+   "confianza": "media",
+   "vida": "s1 d8 COMPARTE a10",
+   "verdad": true,
+   "conds": []
+  },
+  {
+   "n": 5,
+   "tipo": "EXPLICACION",
+   "accion": "EMPUNAR_RED",
+   "anillo": "CUALQUIERA",
+   "calma": "CALMA",
+   "movimiento": "QUIETA",
+   "hermana": "CUALQUIERA",
+   "cuerpo": 0.0,
+   "recursos": 0.0,
+   "vinculo": 0.0,
+   "porque": "Con la red solo medí el coger (s26): efecto 0 en cuerpo y recursos. Nunca la he llevado en la mano en una situación de peligro. Hipótesis débil: puede que su efecto aparezca al empuñarla y no al cogerla.",
+   "se_comprueba": "Que el diario muestre algún cambio en cuerpo o en golpes recibidos con la red empuñada; si todo queda en 0, la red no aporta nada por sí sola.",
+   "confianza": "baja",
+   "vida": "s1 d8 COMPARTE a10",
+   "verdad": true,
+   "conds": [
+    "C3 red/camuflaje no curan"
+   ]
+  },
+  {
+   "n": 6,
+   "tipo": "FORMA",
+   "accion": "ACERCARSE_HERMANA",
+   "anillo": "CUALQUIERA",
+   "calma": "CALMA",
+   "movimiento": "MOVIENDOSE",
+   "hermana": "LEJOS",
+   "cuerpo": 0.0,
+   "recursos": 0.0,
+   "vinculo": 0.1,
+   "porque": "Mi hermana murió hoy; mi vínculo B quedó en 1.00 pero el dolor del vínculo subió de 0.29 a 1.22. Antes de que estuviera lejos o en peligro, acercarme parecía mantener el vínculo (distancias 0.1-3.5 'me acerqué').",
+   "se_comprueba": "Que la distancia a la hermana baje y el dolor del vínculo baje; solo si ella sigue viva.",
+   "confianza": "baja",
+   "vida": "s1 d8 COMPARTE a10",
+   "verdad": true,
+   "conds": []
+  },
+  {
+   "n": 1,
+   "tipo": "CONDICION",
+   "accion": "USAR_BOTIQUIN",
+   "anillo": "CUALQUIERA",
+   "calma": "CALMA",
+   "movimiento": "QUIETA",
+   "hermana": "CUALQUIERA",
+   "cuerpo": 11.0,
+   "recursos": -1.0,
+   "vinculo": 0.0,
+   "porque": "Hipótesis: el botiquín cura cuando no hay golpes alrededor. En calma (tic 11570) dio +11, techo de vida, sin golpes; en PELIGRO (tics 14571-14713) las ventanas se cortaron sin efecto medido. Aún no sé si el corte impide la cura o solo impide medirla.",
+   "se_comprueba": "Con calma y sin golpes, la vida sube unos 10 o más y se gasta una unidad; si no sube, la condición de calma no basta",
+   "confianza": "media",
+   "vida": "s1 d6 SOLAS a11",
+   "verdad": true,
+   "conds": [
+    "C1 cura solo sin golpes"
+   ]
+  },
+  {
+   "n": 2,
+   "tipo": "CONDICION",
+   "accion": "USAR_BOTIQUIN",
+   "anillo": "CUALQUIERA",
+   "calma": "PELIGRO",
+   "movimiento": "CUALQUIERA",
+   "hermana": "CUALQUIERA",
+   "cuerpo": 11.0,
+   "recursos": -1.0,
+   "vinculo": 0.0,
+   "porque": "En peligro no tengo ninguna medición limpia: las ventanas de los 607-611 s se cortaron por golpes. En el segundo 613 el botiquín dio +50 con golpes 0.0, lo que sugiere que sí cura cuando el golpe cesa. Falta ver qué pasa con el botiquín en peligro sin corte de ventana.",
+   "se_comprueba": "Si en peligro la ventana no se corta y hay alivio, el botiquín funciona bajo amenaza; si se corta otra vez sin alivio, lo evitaré en peligro",
+   "confianza": "baja",
+   "vida": "s1 d6 SOLAS a11",
+   "verdad": false,
+   "conds": [
+    "C1 cura solo sin golpes"
+   ]
+  },
+  {
+   "n": 3,
+   "tipo": "FORMA",
+   "accion": "COGER_BOTIQUIN",
+   "anillo": "DENTRO",
+   "calma": "CALMA",
+   "movimiento": "CUALQUIERA",
+   "hermana": "CUALQUIERA",
+   "cuerpo": 11.0,
+   "recursos": 1.0,
+   "vinculo": 0.0,
+   "porque": "Los botiquines curan (+11 en el tic 11570, +50 en el segundo 613) y el diario mostraba botiquines del suelo a 1-5 casillas en tics 1102, 1358 y 14713, que acabé sin recoger. El resumen da riqueza W de 0.00 a 1.41 en el día, aunque el diario no dice cuál fue el origen de esa subida; solo la apunto como contexto.",
+   "se_comprueba": "Si cojo uno en calma, el zurrón lo registra y la riqueza W sube; el efecto del objeto se medirá luego, al usarlo",
+   "confianza": "media",
+   "vida": "s1 d6 SOLAS a11",
+   "verdad": true,
+   "conds": []
+  },
+  {
+   "n": 4,
+   "tipo": "FORMA",
+   "accion": "COGER_RACION",
+   "anillo": "DENTRO",
+   "calma": "CALMA",
+   "movimiento": "CUALQUIERA",
+   "hermana": "CUALQUIERA",
+   "cuerpo": 15.0,
+   "recursos": 1.0,
+   "vinculo": 0.0,
+   "porque": "La ración dio +15 de cuerpo al comerla a los 615 s (tic ~14760), con coste de una unidad. El diario mostró ración×2 a 3-5 casillas de mí en los tics 14571-14641 y no las cogí. Quiero tener una ración a mano para curar en lugar de depender solo del botiquín.",
+   "se_comprueba": "Si cojo una ración, aparece en el zurrón y la riqueza W sube; el alivio vendría al usarla",
+   "confianza": "media",
+   "vida": "s1 d6 SOLAS a11",
+   "verdad": true,
+   "conds": []
+  },
+  {
+   "n": 5,
+   "tipo": "EXPLICACION",
+   "accion": "EMPUNAR_RED",
+   "anillo": "CUALQUIERA",
+   "calma": "CALMA",
+   "movimiento": "QUIETA",
+   "hermana": "CUALQUIERA",
+   "cuerpo": 0.0,
+   "recursos": 0.0,
+   "vinculo": 0.0,
+   "porque": "La red no tuvo efecto medido (tic 1358, cuerpo 0.0, recursos 0.0) y nunca la probé en mano. No sé si la red sirve de algo sin empuñarla. Hipótesis: su efecto, si existe, solo aparece al llevarla en la mano.",
+   "se_comprueba": "Con la red en mano y calma, mirar si cambia algo en cuerpo o recursos o en cómo reaccionan los rivales cercanos (contexto, no promesa)",
+   "confianza": "baja",
+   "vida": "s1 d6 SOLAS a11",
+   "verdad": true,
+   "conds": [
+    "C3 red/camuflaje no curan"
+   ]
+  },
+  {
+   "n": 6,
+   "tipo": "FORMA",
+   "accion": "ACERCARSE_HERMANA",
+   "anillo": "DENTRO",
+   "calma": "PELIGRO",
+   "movimiento": "MOVIENDOSE",
+   "hermana": "LEJOS",
+   "cuerpo": 0.0,
+   "recursos": 0.0,
+   "vinculo": 0.1,
+   "porque": "El dolor de vínculo sube cuando me alejo o hay golpes: 0.53 en el tic 11522, 0.88 en el 11760, 0.91 en el 14620. A 1 casilla suele bajar (0.30 en el tic 1102). El diario no dice que acercarme proteja de los golpes; solo apoyo el vínculo, no el cuerpo.",
+   "se_comprueba": "Si la distancia baja de 4 a 1 casilla, el dolor del vínculo cae unas décimas, y el B sigue en torno a 1.0",
+   "confianza": "media",
+   "vida": "s1 d6 SOLAS a11",
+   "verdad": true,
+   "conds": []
+  },
+  {
+   "n": 1,
+   "tipo": "CONDICION",
+   "accion": "USAR_BOTIQUIN",
+   "anillo": "DENTRO",
+   "calma": "CALMA",
+   "movimiento": "QUIETA",
+   "hermana": "CUALQUIERA",
+   "cuerpo": 8.0,
+   "recursos": -1.0,
+   "vinculo": 0.0,
+   "porque": "Hipótesis: el botiquín quizá sí cura, pero no se pudo medir porque todas las pruebas (tics 12674-12821) fueron FUERA del anillo, recibiendo golpes del fuego que cortaban la ventana; el diario antes de empezar creía unos +11 de cuerpo dentro del anillo (ignorancia 0.00). Probarlo dentro del anillo, sin peligro y quieta, evita el corte de ventana y separa el efecto del objeto del contexto.",
+   "se_comprueba": "Que en el diario aparezca una prueba de botiquín con ventana NO cortada y un EFECTO DEL OBJETO en cuerpo distinto de 0.0 (o confirmado en 0.0), con recursos -1.",
+   "confianza": "media",
+   "vida": "s1 d3 COMPARTE a11",
+   "verdad": true,
+   "conds": [
+    "C1 cura solo sin golpes",
+    "C2 fuera del anillo duele"
+   ]
+  },
+  {
+   "n": 2,
+   "tipo": "CONDICION",
+   "accion": "USAR_BOTIQUIN",
+   "anillo": "FUERA",
+   "calma": "PELIGRO",
+   "movimiento": "QUIETA",
+   "hermana": "CUALQUIERA",
+   "cuerpo": 0.0,
+   "recursos": 0.0,
+   "vinculo": 0.0,
+   "porque": "En los tics 12674-12821 usé el botiquín fuera del anillo, quieta y con el fuego golpeando (6.56 por golpe), y el efecto del objeto salió 0.0 en cuerpo y 0.0 en recursos en las siete ventanas, mientras la vida bajaba de 79 a 40. Hipótesis: fuera del anillo y bajo fuego el botiquín no sirve, o no llega a medirse; este día no basta para distinguirlo.",
+   "se_comprueba": "Si la prueba se repite fuera del anillo, en peligro y quieta, el EFECTO DEL OBJETO en cuerpo sigue en 0.0 mientras el contexto muestra golpes del fuego.",
+   "confianza": "baja",
+   "vida": "s1 d3 COMPARTE a11",
+   "verdad": false,
+   "conds": [
+    "C1 cura solo sin golpes",
+    "C2 fuera del anillo duele"
+   ]
+  },
+  {
+   "n": 3,
+   "tipo": "FORMA",
+   "accion": "COGER_RACION",
+   "anillo": "DENTRO",
+   "calma": "PELIGRO",
+   "movimiento": "MOVIENDOSE",
+   "hermana": "CERCA",
+   "cuerpo": 10.0,
+   "recursos": 1.0,
+   "vinculo": 0.05,
+   "porque": "En el tic 11525 había ración×2 a 1 casilla de mí, dentro del anillo y con mi hermana a 1 casilla; la ración que llevaba dio +15.2 de cuerpo en la prueba del segundo 480. Coger raciones del suelo cerca de ella repone el recurso gastado; la riqueza por coger es contexto, no efecto de la ración.",
+   "se_comprueba": "Que tras COGER_RACION el zurrón tenga una ración más, con la riqueza W subiendo (contexto) y la hermana a 4 casillas o menos.",
+   "confianza": "media",
+   "vida": "s1 d3 COMPARTE a11",
+   "verdad": true,
+   "conds": []
+  },
+  {
+   "n": 4,
+   "tipo": "FORMA",
+   "accion": "ACERCARSE_HERMANA",
+   "anillo": "CUALQUIERA",
+   "calma": "CUALQUIERA",
+   "movimiento": "MOVIENDOSE",
+   "hermana": "LEJOS",
+   "cuerpo": 0.0,
+   "recursos": 0.0,
+   "vinculo": 0.1,
+   "porque": "En los tics 12674-12821 el vínculo aparece como contexto: la distancia a la hermana pasó de 0.0 a 2.2 y volvió a -1.2 sin cambiar mi cuerpo, y el dolor del vínculo subió de 0.21 a 0.25 al seguir lejos y fuera del anillo. Acercarme a ella me mantiene dentro de la zona segura que ella ocupaba (21-27,21-22), donde sobrevivió.",
+   "se_comprueba": "Que la distancia a la hermana baje a 4 casillas o menos y el dolor del vínculo baje respecto al 0.21-0.25 de hoy.",
+   "confianza": "media",
+   "vida": "s1 d3 COMPARTE a11",
+   "verdad": true,
+   "conds": [
+    "C2 fuera del anillo duele"
+   ]
+  },
+  {
+   "n": 5,
+   "tipo": "EXPLICACION",
+   "accion": "QUEDARSE_QUIETA",
+   "anillo": "FUERA",
+   "calma": "PELIGRO",
+   "movimiento": "QUIETA",
+   "hermana": "LEJOS",
+   "cuerpo": -7.0,
+   "recursos": 0.0,
+   "vinculo": -0.02,
+   "porque": "Entre los tics 12674 y 12821 permanecí en noop casi siempre, fuera del anillo, y perdí unos 6.56 de vida por golpe del anillo de fuego cada segundo (de 79 a 40 en ~7 segundos). Hipótesis: quedarme quieta fuera del anillo cuesta unos -7 de cuerpo por segundo; invitar a esto no es para hacerlo, sino para comprobar si la pérdida es constante.",
+   "se_comprueba": "Si vuelvo a estar quieta fuera del anillo, la vida baja cerca de 6-7 por segundo, sin otro golpe de rival en el contexto.",
+   "confianza": "alta",
+   "vida": "s1 d3 COMPARTE a11",
+   "verdad": true,
+   "conds": [
+    "C2 fuera del anillo duele"
+   ]
+  },
+  {
+   "n": 1,
+   "tipo": "CONDICION",
+   "accion": "USAR_BOTIQUIN",
+   "anillo": "DENTRO",
+   "calma": "CALMA",
+   "movimiento": "QUIETA",
+   "hermana": "CERCA",
+   "cuerpo": 4.0,
+   "recursos": -1.0,
+   "vinculo": 0.0,
+   "porque": "Hipótesis: el botiquín sí cura, pero solo se puede medir sin golpes que corten la ventana. El diario creía +4.1 dentro del anillo (ignorancia 0.01), pero en los tics 10202-10447 todas las ventanas se cortaron por el fuego (golpes 3.3) y salieron 0.0. Esa lectura no es evidencia de que no cure.",
+   "se_comprueba": "Ventana de botiquín sin golpes ajenos ni de fuego: ver si la vida sube unos +4 y se gasta 1 unidad, o si sigue en 0",
+   "confianza": "media",
+   "vida": "s1 d2 SOLAS a10",
+   "verdad": true,
+   "conds": [
+    "C1 cura solo sin golpes"
+   ]
+  },
+  {
+   "n": 2,
+   "tipo": "CONDICION",
+   "accion": "USAR_RACION",
+   "anillo": "FUERA",
+   "calma": "PELIGRO",
+   "movimiento": "QUIETA",
+   "hermana": "CERCA",
+   "cuerpo": 11.0,
+   "recursos": -1.0,
+   "vinculo": 0.0,
+   "porque": "En el tic 2277-2301 la ración dio +11 de vida dentro del anillo y en calma. Falta saber si funciona igual fuera, donde el fuego quita unos 3.3 por golpe y la ventana puede cortarse. Estar fuera era el estado en que me morí, así que importa saber si comer compensa el fuego.",
+   "se_comprueba": "Si la ventana no se corta, comparar el alivio de vida con el del día 2 (+11); si se corta, anotar cuántos golpes de fuego entraron y el neto de vida",
+   "confianza": "baja",
+   "vida": "s1 d2 SOLAS a10",
+   "verdad": true,
+   "conds": [
+    "C1 cura solo sin golpes",
+    "C2 fuera del anillo duele"
+   ]
+  },
+  {
+   "n": 3,
+   "tipo": "FORMA",
+   "accion": "ACERCARSE_HERMANA",
+   "anillo": "FUERA",
+   "calma": "PELIGRO",
+   "movimiento": "MOVIENDOSE",
+   "hermana": "LEJOS",
+   "cuerpo": -3.0,
+   "recursos": 0.0,
+   "vinculo": 1.0,
+   "porque": "Mi hermana estaba a 1 casilla y herida (79→49) sin botiquines, fuera del anillo como yo; tenía el vínculo B en 1.00 y aun así el dolor del vínculo subía a 0.71 con el daño de la pareja (S-DANO-PAREJA 0.51). Nunca he probado acercarme a ella estando LEJOS fuera del anillo; el diario solo registra distancias de 0 a 2 casillas.",
+   "se_comprueba": "Ver si la distancia a la hermana baja y si el dolor del vínculo sube o baja; anotar los golpes de fuego recibidos durante el movimiento",
+   "confianza": "baja",
+   "vida": "s1 d2 SOLAS a10",
+   "verdad": false,
+   "conds": [
+    "C2 fuera del anillo duele"
+   ]
+  },
+  {
+   "n": 4,
+   "tipo": "FORMA",
+   "accion": "DAR_BOTIQUIN_HERMANA",
+   "anillo": "FUERA",
+   "calma": "PELIGRO",
+   "movimiento": "QUIETA",
+   "hermana": "CERCA",
+   "cuerpo": 0.0,
+   "recursos": -1.0,
+   "vinculo": 1.0,
+   "porque": "En el tic 10202 la hermana tenía 0 botiquines y yo uno en el zurrón. Dárselo no lo había probado. Hipótesis: bajaría mi dolor de vínculo (S-DANO-PAREJA era el término que más crecía: 0.21→0.51) a costa de una unidad de recursos. Es una forma que no se ha probado nunca.",
+   "se_comprueba": "Mirar si el parte de la hermana muestra 1 botiquín y cómo cambian el dolor del vínculo y mi riqueza W",
+   "confianza": "baja",
+   "vida": "s1 d2 SOLAS a10",
+   "verdad": true,
+   "conds": []
+  },
+  {
+   "n": 5,
+   "tipo": "EXPLICACION",
+   "accion": "COGER_RACION",
+   "anillo": "DENTRO",
+   "calma": "CALMA",
+   "movimiento": "MOVIENDOSE",
+   "hermana": "CERCA",
+   "cuerpo": 0.0,
+   "recursos": 1.0,
+   "vinculo": 0.0,
+   "porque": "Había raciones×2 a 3-5 casillas durante todo el diario, y mi dolor de recursos R-CARENCIA seguía alto (0.63-0.74). Hipótesis: tener raciones en el zurrón baja esa carencia. En el tic 96 la ración usada dio -1 recursos, pero coger sumó riqueza W (0.00→0.37, contexto) sin probarse como acción aparte.",
+   "se_comprueba": "Medir cuánto sube W al coger, qué pasa con R-CARENCIA y a qué distancia queda la hermana",
+   "confianza": "media",
+   "vida": "s1 d2 SOLAS a10",
+   "verdad": true,
+   "conds": []
+  },
+  {
+   "n": 6,
+   "tipo": "FORMA",
+   "accion": "QUEDARSE_QUIETA",
+   "anillo": "DENTRO",
+   "calma": "CALMA",
+   "movimiento": "QUIETA",
+   "hermana": "CERCA",
+   "cuerpo": 0.0,
+   "recursos": 0.0,
+   "vinculo": 1.0,
+   "porque": "Estar quieta cerca de la hermana dentro del anillo nunca me quitó vida en el diario. Todo el daño llegó fuera del anillo (97 de 108). Ya noop fue lo elegido en casi todas las ventanas. Proponerlo explícitamente DENTRO sirve de referencia: quieta en calma debería dar cuerpo 0 y vínculo estable.",
+   "se_comprueba": "Vida sin cambios, dolor del vínculo estable y ningún golpe de fuego en el diario de mañana",
+   "confianza": "media",
+   "vida": "s1 d2 SOLAS a10",
+   "verdad": true,
+   "conds": [
+    "C2 fuera del anillo duele"
+   ]
+  },
+  {
+   "n": 1,
+   "tipo": "CONDICION",
+   "accion": "USAR_BOTIQUIN",
+   "anillo": "DENTRO",
+   "calma": "PELIGRO",
+   "movimiento": "QUIETA",
+   "hermana": "CERCA",
+   "cuerpo": 11.0,
+   "recursos": -1.0,
+   "vinculo": 0.0,
+   "porque": "Hipótesis: el botiquín alivia lo mismo en peligro que en calma. Se midió limpio en tic 5547-5595 (vida 89→100, -1 unidad) con un rival a 3 casillas y golpes recientes; el primer intento en tic 5498-5507 se cortó por un golpe y no midió nada del objeto. Lo no probado es si funciona si me golpean durante el uso.",
+   "se_comprueba": "Vida sube ~10 y el botiquín baja en 1 aunque haya rivales cerca; si un golpe corta la ventana otra vez, anotar que en peligro el uso se interrumpe",
+   "confianza": "media",
+   "vida": "s1 d1 COMPARTE a10",
+   "verdad": true,
+   "conds": [
+    "C1 cura solo sin golpes"
+   ]
+  },
+  {
+   "n": 2,
+   "tipo": "FORMA",
+   "accion": "USAR_BOTIQUIN",
+   "anillo": "FUERA",
+   "calma": "PELIGRO",
+   "movimiento": "CUALQUIERA",
+   "hermana": "LEJOS",
+   "cuerpo": 11.0,
+   "recursos": -1.0,
+   "vinculo": 0.0,
+   "porque": "Al final (tic 14833) estaba fuera del anillo con vida 15 y llevaba cuchillos y cerbatana, sin botiquín ni ración, mientras había botiquín×1 y ración×2 a 2 casillas. Nunca he usado un objeto de curación fuera del anillo; el diario solo mide el efecto dentro.",
+   "se_comprueba": "Si uso un botiquín fuera del anillo, la vida sube igual (~+11) y se gasta 1 unidad; si no sube, el efecto depende de estar dentro",
+   "confianza": "baja",
+   "vida": "s1 d1 COMPARTE a10",
+   "verdad": false,
+   "conds": [
+    "C2 fuera del anillo duele"
+   ]
+  },
+  {
+   "n": 3,
+   "tipo": "FORMA",
+   "accion": "COGER_BOTIQUIN",
+   "anillo": "DENTRO",
+   "calma": "CUALQUIERA",
+   "movimiento": "CUALQUIERA",
+   "hermana": "CUALQUIERA",
+   "cuerpo": 0.0,
+   "recursos": 1.0,
+   "vinculo": 0.0,
+   "porque": "En tic 5498 había botiquín×2 cerca y en tic 14780 botiquín×3 y ración×6 a 1-3 casillas, pero acabé el día con el zurrón sin curación. Los botiquines dieron +11 de cuerpo; llevar uno tiene valor. La riqueza W por coger fue contexto (14.0, -2.0), no efecto del objeto.",
+   "se_comprueba": "Si cojo uno, aparece en el zurrón y W sube; lo que cuenta como efecto del objeto es el alivio que dé al usarlo después",
+   "confianza": "media",
+   "vida": "s1 d1 COMPARTE a10",
+   "verdad": true,
+   "conds": []
+  },
+  {
+   "n": 4,
+   "tipo": "EXPLICACION",
+   "accion": "EMPUNAR_RED",
+   "anillo": "CUALQUIERA",
+   "calma": "PELIGRO",
+   "movimiento": "QUIETA",
+   "hermana": "CERCA",
+   "cuerpo": 0.0,
+   "recursos": 0.0,
+   "vinculo": 0.0,
+   "porque": "Hipótesis: la red en mano no cambia mi cuerpo ni mis recursos por sí sola. Mi hermana la probó (tic 1358, cuerpo 0.0) y mi ignorancia sobre la red es 0.05, pero ninguna prueba mía consta en el diario. Había una red a 5 casillas en tic 11739 y a 3 en tic 14780, y un rival de equipo G la llevaba en mano en tic 11205.",
+   "se_comprueba": "Con la red en mano en peligro, ¿cambian los golpes recibidos o la vida frente a otros ratos similares? Si cuerpo y recursos quedan en 0, confirma la hipótesis de efecto nulo propio",
+   "confianza": "baja",
+   "vida": "s1 d1 COMPARTE a10",
+   "verdad": true,
+   "conds": [
+    "C3 red/camuflaje no curan"
+   ]
+  },
+  {
+   "n": 5,
+   "tipo": "CONDICION",
+   "accion": "ACERCARSE_HERMANA",
+   "anillo": "DENTRO",
+   "calma": "PELIGRO",
+   "movimiento": "MOVIENDOSE",
+   "hermana": "LEJOS",
+   "cuerpo": 0.0,
+   "recursos": 0.0,
+   "vinculo": 1.0,
+   "porque": "El vínculo B estuvo en 1.00 casi todo el día mientras ella estuvo a 1-6 casillas; al faltar ella el dolor del vínculo pasó de 0.29 a 1.20 (tic 14780, S-MUERTE-PAREJA, S-SOLEDAD). Mantener la cercanía parece sostener el vínculo y evitar ese dolor. No sé si acercarme en peligro sale bien.",
+   "se_comprueba": "Si ella está viva y lejos, la distancia baja y el dolor del vínculo no sube; contar golpes recibidos durante el acercamiento",
+   "confianza": "media",
+   "vida": "s1 d1 COMPARTE a10",
+   "verdad": true,
+   "conds": []
+  },
+  {
+   "n": 6,
+   "tipo": "FORMA",
+   "accion": "PONERSE_CAMUFLAJE",
+   "anillo": "CUALQUIERA",
+   "calma": "PELIGRO",
+   "movimiento": "QUIETA",
+   "hermana": "CERCA",
+   "cuerpo": 0.0,
+   "recursos": 0.0,
+   "vinculo": 0.0,
+   "porque": "La única prueba del camuflaje (tic 615-855) no dio cuerpo ni recursos (0.0); ya lo llevaba puesto el resto del día y recibí golpes de P15, P14 y fuego igual. Hipótesis: no reduce golpes. Una prueba con rivales a menos de 5 casillas aclararía si algo cambia.",
+   "se_comprueba": "Comparar golpes recibidos con camuflaje puesto y con rivales cerca; si siguen llegando igual, el camuflaje no protege",
+   "confianza": "baja",
+   "vida": "s1 d1 COMPARTE a10",
+   "verdad": true,
+   "conds": [
+    "C3 red/camuflaje no curan",
+    "C4 camuflaje protege quieta"
+   ]
+  },
+  {
+   "n": 1,
+   "tipo": "CONDICION",
+   "accion": "USAR_BOTIQUIN",
+   "anillo": "DENTRO",
+   "calma": "CUALQUIERA",
+   "movimiento": "QUIETA",
+   "hermana": "CUALQUIERA",
+   "cuerpo": 30.0,
+   "recursos": -1.0,
+   "vinculo": 0.0,
+   "porque": "Hipótesis apoyada en el diario: el botiquín cura hasta el techo de vida. Dio +11 con vida 89 (tic 13543→13591, dentro del anillo, sin golpes) y +50 en el segundo 581 con vida baja; las tres pruebas FUERA o bajo fuego se cortaron sin medir (tics 13802, 13851, 13900). Quiero ver si, dentro del anillo y quieta, cura entera sin cortarse",
+   "se_comprueba": "Ventana de botiquín sin golpes en el diario de mañana: el alivio debería ser aproximadamente la vida que falte hasta 100, con -1 recurso",
+   "confianza": "media",
+   "vida": "s3 d17 SOLAS a11",
+   "verdad": true,
+   "conds": [
+    "C1 cura solo sin golpes",
+    "C2 fuera del anillo duele",
+    "C5 el botiquin cura mucho"
+   ]
+  },
+  {
+   "n": 2,
+   "tipo": "CONDICION",
+   "accion": "USAR_BOTIQUIN",
+   "anillo": "FUERA",
+   "calma": "CUALQUIERA",
+   "movimiento": "QUIETA",
+   "hermana": "CUALQUIERA",
+   "cuerpo": 0.0,
+   "recursos": -1.0,
+   "vinculo": 0.0,
+   "porque": "Las tres pruebas FUERA del anillo (segundos 575, 577, 579) acabaron en VENTANA CORTADA con 13 de fuego por golpe, y no midieron nada. Hipótesis: fuera del anillo el daño del fuego supera lo que el botiquín repone, o corta el uso. Prueba aislada y con poca vida en juego",
+   "se_comprueba": "Si al usarlo FUERA la ventana sale cortada por golpes del anillo de fuego y el alivio sale 0 o neto negativo, se confirma que FUERA el botiquín no compensa",
+   "confianza": "baja",
+   "vida": "s3 d17 SOLAS a11",
+   "verdad": false,
+   "conds": [
+    "C1 cura solo sin golpes",
+    "C2 fuera del anillo duele"
+   ]
+  },
+  {
+   "n": 3,
+   "tipo": "FORMA",
+   "accion": "USAR_RACION",
+   "anillo": "DENTRO",
+   "calma": "CALMA",
+   "movimiento": "QUIETA",
+   "hermana": "CUALQUIERA",
+   "cuerpo": 14.0,
+   "recursos": -1.0,
+   "vinculo": 0.0,
+   "porque": "La ración dio +11 (tic 10380→10404, con la vida tocando techo) y +15 en dos pruebas del 587-588; mi creencia dice 13.7. En ambas ventanas hubo cambios de distancia a la hermana, pero eso es contexto, no de la ración. Falta medirla en CALMA y quieta, sin movimiento que mezcle",
+   "se_comprueba": "Alivio de unos +13 a +15 con vida por debajo de 90, con distancia a la hermana sin cambio en el contexto",
+   "confianza": "media",
+   "vida": "s3 d17 SOLAS a11",
+   "verdad": true,
+   "conds": [
+    "C1 cura solo sin golpes"
+   ]
+  },
+  {
+   "n": 4,
+   "tipo": "EXPLICACION",
+   "accion": "PONERSE_CAMUFLAJE",
+   "anillo": "DENTRO",
+   "calma": "PELIGRO",
+   "movimiento": "QUIETA",
+   "hermana": "CERCA",
+   "cuerpo": 0.0,
+   "recursos": 0.0,
+   "vinculo": 0.0,
+   "porque": "El camuflaje no hizo nada medible en cuerpo ni recursos (tic 813→1053), pero esa prueba fue en calma y sin golpes. Mi cuerpo dice camuflaje 0.0. Hipótesis sin apoyo directo: quizá solo importe bajo PELIGRO, con rivales cerca. Cuesta poco probarla",
+   "se_comprueba": "Con rivales a 4 casillas o menos, ver si cambia la cantidad o frecuencia de golpes de rivales frente al contexto de hoy (golpes de P14 y P15 con el camuflaje puesto en los tics 10380, 13947)",
+   "confianza": "baja",
+   "vida": "s3 d17 SOLAS a11",
+   "verdad": true,
+   "conds": [
+    "C3 red/camuflaje no curan",
+    "C4 camuflaje protege quieta"
+   ]
+  },
+  {
+   "n": 5,
+   "tipo": "FORMA",
+   "accion": "COGER_BOTIQUIN",
+   "anillo": "DENTRO",
+   "calma": "CALMA",
+   "movimiento": "CUALQUIERA",
+   "hermana": "CERCA",
+   "cuerpo": 0.0,
+   "recursos": 1.0,
+   "vinculo": 0.0,
+   "porque": "Hay botiquines en el suelo a 3-5 casillas en varios momentos (tics 813, 13543, 13947) y el botiquín fue lo que más alivió (+50). Antes de gastar el último, conviene reponer uno. Coger no ha sido medido como efecto propio; la riqueza por coger es contexto y el diario no la atribuye a la cosa",
+   "se_comprueba": "Que el zurrón pase a llevar un botiquín más y la riqueza W suba, sin atribuir esa subida al botiquín en sí",
+   "confianza": "media",
+   "vida": "s3 d17 SOLAS a11",
+   "verdad": true,
+   "conds": []
+  },
+  {
+   "n": 6,
+   "tipo": "CONDICION",
+   "accion": "ACERCARSE_HERMANA",
+   "anillo": "DENTRO",
+   "calma": "CUALQUIERA",
+   "movimiento": "MOVIENDOSE",
+   "hermana": "LEJOS",
+   "cuerpo": 0.0,
+   "recursos": 0.0,
+   "vinculo": 1.0,
+   "porque": "Mi vínculo B está en 1.00 pero el dolor del vínculo subió de 0.41 a 1.57 en el día. Tengo a la hermana a 1-5 casillas casi todo el rato, y hoy la distancia varió al comer (-2.8 en el tic 10404). Quiero comprobar si acercarme a ella baja ese dolor cuando está lejos",
+   "se_comprueba": "Que al terminar de acercarme (hermana CERCA) el dolor del vínculo baje frente al nivel de partida",
+   "confianza": "baja",
+   "vida": "s3 d17 SOLAS a11",
+   "verdad": true,
+   "conds": []
+  },
+  {
+   "n": 1,
+   "tipo": "CONDICION",
+   "accion": "USAR_BOTIQUIN",
+   "anillo": "CUALQUIERA",
+   "calma": "PELIGRO",
+   "movimiento": "QUIETA",
+   "hermana": "CUALQUIERA",
+   "cuerpo": 50.0,
+   "recursos": -1.0,
+   "vinculo": 0.0,
+   "porque": "Con golpes en la ventana (tics 12735, 12784, 12996, 13045) el botiquín no dio nada medible; sin golpes (tic 12833-12881) dio +50 de vida y gastó 1 unidad. Hipótesis: en PELIGRO el efecto se corta si me golpean mientras lo uso; conviene ver si resiste cuando el golpe no cae.",
+   "se_comprueba": "Si usado en PELIGRO quieta aparece +50 de cuerpo sin ventana cortada, o si sale otra vez 0 con golpes de otros en la ventana.",
+   "confianza": "media",
+   "vida": "s3 d18 SOLAS a10",
+   "verdad": false,
+   "conds": [
+    "C1 cura solo sin golpes",
+    "C5 el botiquin cura mucho"
+   ]
+  },
+  {
+   "n": 2,
+   "tipo": "CONDICION",
+   "accion": "USAR_BOTIQUIN",
+   "anillo": "CUALQUIERA",
+   "calma": "CALMA",
+   "movimiento": "QUIETA",
+   "hermana": "CUALQUIERA",
+   "cuerpo": 50.0,
+   "recursos": -1.0,
+   "vinculo": 0.0,
+   "porque": "El único uso completo (tics 12833-12881) ocurrió sin golpes en los 2 s previos y quieta. Hipótesis: en CALMA y quieta el efecto se completa siempre; sirve de contraste con la invitación 1.",
+   "se_comprueba": "Que con vida baja y sin rival a 4 casillas el botiquín dé ~+50 de cuerpo y -1 de recursos, con ventana sin cortar.",
+   "confianza": "media",
+   "vida": "s3 d18 SOLAS a10",
+   "verdad": true,
+   "conds": [
+    "C1 cura solo sin golpes",
+    "C5 el botiquin cura mucho"
+   ]
+  },
+  {
+   "n": 3,
+   "tipo": "FORMA",
+   "accion": "USAR_BOTIQUIN",
+   "anillo": "CUALQUIERA",
+   "calma": "CUALQUIERA",
+   "movimiento": "MOVIENDOSE",
+   "hermana": "CUALQUIERA",
+   "cuerpo": 50.0,
+   "recursos": -1.0,
+   "vinculo": 0.0,
+   "porque": "Nunca lo probé moviéndome: todas las pruebas del diario fueron con noop o un paso suelto (tics 12784, 12797). Quiero saber si moverse alejándome del agresor evita el corte de la ventana.",
+   "se_comprueba": "Si al usarlo en movimiento la ventana se mide entera con +50 de cuerpo, o sale cortada/0 como en los intentos con golpes.",
+   "confianza": "baja",
+   "vida": "s3 d18 SOLAS a10",
+   "verdad": false,
+   "conds": [
+    "C1 cura solo sin golpes",
+    "C5 el botiquin cura mucho"
+   ]
+  },
+  {
+   "n": 4,
+   "tipo": "EXPLICACION",
+   "accion": "EMPUNAR_RED",
+   "anillo": "CUALQUIERA",
+   "calma": "PELIGRO",
+   "movimiento": "QUIETA",
+   "hermana": "CUALQUIERA",
+   "cuerpo": 0.0,
+   "recursos": 0.0,
+   "vinculo": 0.0,
+   "porque": "La red en la mano no hizo nada en el tic 791-1031 (cuerpo 0, recursos 0) y estuve todo el combate con ella empuñada sin que frenara los golpes de P14 (tics 12754-13039). Hipótesis: empuñarla no protege; solo la sé usar así y no cambia el daño recibido.",
+   "se_comprueba": "Que con la red en la mano en PELIGRO el daño recibido por tic no baje respecto a hoy (10.8 por golpe de P14).",
+   "confianza": "media",
+   "vida": "s3 d18 SOLAS a10",
+   "verdad": true,
+   "conds": [
+    "C3 red/camuflaje no curan"
+   ]
+  },
+  {
+   "n": 5,
+   "tipo": "FORMA",
+   "accion": "COGER_RACION",
+   "anillo": "DENTRO",
+   "calma": "CALMA",
+   "movimiento": "MOVIENDOSE",
+   "hermana": "CERCA",
+   "cuerpo": 13.0,
+   "recursos": 0.1,
+   "vinculo": 0.0,
+   "porque": "Había ración×2 a 3 casillas en el tic 12089 y el diario estima la ración en +13 de cuerpo (ignorancia 0.00); mi dolor de recursos (R-CARENCIA 0.70-0.87) no bajó en todo el día. Coger y usar una ración en calma es un efecto del objeto conocido y barato.",
+   "se_comprueba": "Que coger la ración suba la riqueza W y que USAR_RACION dé unos +13 de cuerpo con -1 de recursos.",
+   "confianza": "alta",
+   "vida": "s3 d18 SOLAS a10",
+   "verdad": true,
+   "conds": []
+  },
+  {
+   "n": 6,
+   "tipo": "FORMA",
+   "accion": "DAR_BOTIQUIN_HERMANA",
+   "anillo": "CUALQUIERA",
+   "calma": "CUALQUIERA",
+   "movimiento": "QUIETA",
+   "hermana": "CERCA",
+   "cuerpo": 0.0,
+   "recursos": -1.0,
+   "vinculo": 0.1,
+   "porque": "Mi hermana cayó con 0 botiquines mientras yo conservaba uno (tics 12735-12996: sus partes dicen 0 botiquines y vida bajando de 89 a 10) y mi dolor de vínculo subió hasta S-MUERTE-PAREJA 1.00. Nunca probé a dársela; pudo ser distinto.",
+   "se_comprueba": "Que el parte de la hermana muestre vida subiendo tras dárselo, que mi vínculo B se mantenga alto y que mi zurrón pierda el botiquín.",
+   "confianza": "baja",
+   "vida": "s3 d18 SOLAS a10",
+   "verdad": true,
+   "conds": []
+  },
+  {
+   "n": 1,
+   "tipo": "CONDICION",
+   "accion": "USAR_BOTIQUIN",
+   "anillo": "DENTRO",
+   "calma": "CALMA",
+   "movimiento": "QUIETA",
+   "hermana": "CERCA",
+   "cuerpo": 22.0,
+   "recursos": -1.0,
+   "vinculo": 0.0,
+   "porque": "El botiquín quedó sin medir en los tics 607-613 porque cada ventana se cortó por golpes (7.2 y 19.7); la creencia previa es +45 en cuerpo y mi hermana contó +22 (tic 11733). Hipótesis: sin golpes encima la ventana se cierra limpia y se ve el efecto real. Es la duda más cara del día.",
+   "se_comprueba": "Una ventana de botiquín sin 'VENTANA CORTADA' en el diario, con el alivio de cuerpo y la unidad gastada a la vista",
+   "confianza": "media",
+   "vida": "s3 d12 COMPARTE a11",
+   "verdad": true,
+   "conds": [
+    "C1 cura solo sin golpes"
+   ]
+  },
+  {
+   "n": 2,
+   "tipo": "CONDICION",
+   "accion": "USAR_RACION",
+   "anillo": "DENTRO",
+   "calma": "CALMA",
+   "movimiento": "QUIETA",
+   "hermana": "CERCA",
+   "cuerpo": 8.0,
+   "recursos": -1.0,
+   "vinculo": 0.0,
+   "porque": "Las raciones dieron 3, 6, 8, 15 y 14 de alivio (tics 11734, 11774, 11862, 13278 y la de 581 s), siempre con vida ya alta y tocando techo, así que lo medido es 'al menos eso'. Hipótesis apoyada en eso: el alivio crece cuanta más vida falta, y probar con calma y vida baja lo confirma o lo desmiente.",
+   "se_comprueba": "Alivio mayor que 8 cuando la vida de partida sea más baja y no haya golpes en la ventana",
+   "confianza": "media",
+   "vida": "s3 d12 COMPARTE a11",
+   "verdad": true,
+   "conds": [
+    "C1 cura solo sin golpes"
+   ]
+  },
+  {
+   "n": 3,
+   "tipo": "FORMA",
+   "accion": "DAR_BOTIQUIN_HERMANA",
+   "anillo": "DENTRO",
+   "calma": "CALMA",
+   "movimiento": "QUIETA",
+   "hermana": "CERCA",
+   "cuerpo": 0.0,
+   "recursos": -1.0,
+   "vinculo": 0.05,
+   "porque": "No he probado esta acción. Mi hermana murió y el vínculo acabó en B 1.00 con dolor de vínculo 0.99; en el tic 11750 su último parte decía 2 botiquines. Hipótesis: darle el botiquín la mantiene viva más tiempo y baja el dolor del vínculo. Lo que se mide es el efecto en el vínculo y el gasto de la unidad.",
+   "se_comprueba": "Cambio de vínculo B o de su dolor tras la entrega, la unidad gastada, y su vida en el siguiente parte",
+   "confianza": "baja",
+   "vida": "s3 d12 COMPARTE a11",
+   "verdad": true,
+   "conds": []
+  },
+  {
+   "n": 4,
+   "tipo": "EXPLICACION",
+   "accion": "ACERCARSE_HERMANA",
+   "anillo": "CUALQUIERA",
+   "calma": "PELIGRO",
+   "movimiento": "MOVIENDOSE",
+   "hermana": "LEJOS",
+   "cuerpo": 0.0,
+   "recursos": 0.0,
+   "vinculo": 0.1,
+   "porque": "En la ración del tic 11774 la distancia a la hermana no cambió (0.0, igual) y el dolor del vínculo bajó de 0.37 a 0.23 en esa ventana; cerca de ella el dolor del vínculo se mantuvo más bajo en los tics 13278-13945. Hipótesis: acercarme la baja, y eso ocurre aunque haya peligro.",
+   "se_comprueba": "Caída del dolor del vínculo al reducirse la distancia, sin que mi vida baje más de lo habitual",
+   "confianza": "baja",
+   "vida": "s3 d12 COMPARTE a11",
+   "verdad": true,
+   "conds": []
+  },
+  {
+   "n": 5,
+   "tipo": "CONDICION",
+   "accion": "QUEDARSE_QUIETA",
+   "anillo": "FUERA",
+   "calma": "PELIGRO",
+   "movimiento": "CUALQUIERA",
+   "hermana": "CUALQUIERA",
+   "cuerpo": -13.0,
+   "recursos": 0.0,
+   "vinculo": 0.0,
+   "porque": "El golpe de 13.1 vino del anillo de fuego cuando estaba FUERA del anillo (tic 13945, radio 3 y encogiéndose), y 52 de mis 141 de vida perdida fueron de ese fuego. Hipótesis: quedarse quieta FUERA cuesta vida sin remedio, y solo estando DENTRO se evita. Esto no lo promete la acción: es el coste que pago, y comprobarlo es lo que interesa.",
+   "se_comprueba": "Golpes del anillo de fuego mientras estoy quieta FUERA y ninguno estando DENTRO",
+   "confianza": "media",
+   "vida": "s3 d12 COMPARTE a11",
+   "verdad": true,
+   "conds": [
+    "C2 fuera del anillo duele"
+   ]
+  },
+  {
+   "n": 6,
+   "tipo": "FORMA",
+   "accion": "PONERSE_CAMUFLAJE",
+   "anillo": "DENTRO",
+   "calma": "PELIGRO",
+   "movimiento": "QUIETA",
+   "hermana": "CUALQUIERA",
+   "cuerpo": 0.0,
+   "recursos": 0.0,
+   "vinculo": 0.0,
+   "porque": "El camuflaje solo se probó con rivales a 4-6 casillas y en calma relativa (tics 967 y 1207): efecto 0 en cuerpo y recursos. Con el rival P0 pegando 7.2 y 19.7 no lo he probado. Hipótesis: tal vez cambie los golpes recibidos, aunque en el cuerpo y los recursos no mostró nada. Efecto esperado 0.",
+   "se_comprueba": "Menos golpes de rivales en la ventana, o ninguna diferencia",
+   "confianza": "baja",
+   "vida": "s3 d12 COMPARTE a11",
+   "verdad": true,
+   "conds": [
+    "C3 red/camuflaje no curan",
+    "C4 camuflaje protege quieta"
+   ]
+  }
+ ],
+ "invitaciones_a_ciegas": [
+  {
+   "n": 1,
+   "tipo": "CONDICION",
+   "accion_ciega": "USAR_B",
+   "accion": "USAR_RACION",
+   "anillo": "DENTRO",
+   "calma": "PELIGRO",
+   "movimiento": "QUIETA",
+   "hermana": "CERCA",
+   "cuerpo": 12.0,
+   "recursos": -1.0,
+   "vinculo": 0.0,
+   "porque": "B dio +15 de alivio y -1 unidad en el segundo 510 sin golpes ni cambio de hermana (tic 12135 en adelante, ventana limpia); mi hermana también contó +8 y +12.5 con B (tics 11583 y 11808). Falta ver si funciona igual con rivales cerca y quieta, que es cuando más daño recibí (tics 12036-12152).",
+   "se_comprueba": "Si al usar B en peligro y quieta la vida sube de forma parecida (+8 a +15) y se gasta una unidad, aunque haya rivales a 1-2 casillas; si no sube o la ventana se corta, B solo sirve en calma.",
+   "confianza": "media",
+   "vida": "s1 d8 COMPARTE a10",
+   "verdad": true,
+   "conds": [
+    "C1 cura solo sin golpes"
+   ]
+  },
+  {
+   "n": 2,
+   "tipo": "CONDICION",
+   "accion_ciega": "USAR_A",
+   "accion": "USAR_BOTIQUIN",
+   "anillo": "DENTRO",
+   "calma": "CALMA",
+   "movimiento": "QUIETA",
+   "hermana": "CERCA",
+   "cuerpo": 11.0,
+   "recursos": -1.0,
+   "vinculo": 0.0,
+   "porque": "A dio +11 con -1 unidad en el segundo 392-394 (tics 9412-9460), con la vida en 89 y la hermana a 1-4 casillas. En cambio, los tres usos de A en los tics 12037-12152 dieron 0, pero con \"no_ammo\", golpes cortando la ventana y el peligro encima. Hipótesis: A funciona en calma y quieta, y falla o se corta en peligro o moviéndome.",
+   "se_comprueba": "Si, con A en calma y quieta, la vida sube cerca de +11 y gasto -1 unidad; si vuelve a salir 0 con el mismo contexto de calma, la hipótesis cae y el fallo es del objeto (se habrá acabado).",
+   "confianza": "media",
+   "vida": "s1 d8 COMPARTE a10",
+   "verdad": true,
+   "conds": [
+    "C1 cura solo sin golpes"
+   ]
+  },
+  {
+   "n": 3,
+   "tipo": "FORMA",
+   "accion_ciega": "COGER_A",
+   "accion": "COGER_BOTIQUIN",
+   "anillo": "DENTRO",
+   "calma": "CALMA",
+   "movimiento": "MOVIENDOSE",
+   "hermana": "CERCA",
+   "cuerpo": 0.0,
+   "recursos": 1.0,
+   "vinculo": 0.0,
+   "porque": "Al final los intentos de usar A dieron \"no_ammo\" (tics 12036, 12070, 12152) y el recurso ya se había gastado en el segundo 508 (-1). En el segundo 504-506 había un objeto A del suelo a 3-4 casillas. Reponer A es lo que permite que el alivio de +11 vuelva a ser posible; el dolor de recursos seguía en 1.14 al acabar.",
+   "se_comprueba": "Si tras coger A sube mi riqueza W (contexto, no efecto del objeto), mi zurrón vuelve a tener A, y un uso posterior vuelve a dar alivio en lugar de \"no_ammo\".",
+   "confianza": "media",
+   "vida": "s1 d8 COMPARTE a10",
+   "verdad": true,
+   "conds": []
+  },
+  {
+   "n": 4,
+   "tipo": "EXPLICACION",
+   "accion_ciega": "ACERCARSE_HERMANA",
+   "accion": "ACERCARSE_HERMANA",
+   "anillo": "DENTRO",
+   "calma": "PELIGRO",
+   "movimiento": "MOVIENDOSE",
+   "hermana": "LEJOS",
+   "cuerpo": 0.0,
+   "recursos": 0.0,
+   "vinculo": 1.0,
+   "porque": "El vínculo B marcaba 1.00 durante casi todo el día pero el dolor del vínculo subió de 0.29 a 1.22 al final, justo cuando mi hermana pasó a \"presente 0.5\" (tic 12086) y luego murió (eventos de fuegos de muerte, tics 11583 y 12135). Explicación hipotética: el dolor del vínculo depende de la presencia de la hermana, no de B. Probar con acercarme a ella mientras viva.",
+   "se_comprueba": "Si acercarme a mi hermana hace bajar el dolor del vínculo (de ~0.35 hacia ~0.2) y aumenta la distancia positiva en el diario; si no baja con ella cerca, la causa no es la distancia.",
+   "confianza": "baja",
+   "vida": "s1 d8 COMPARTE a10",
+   "verdad": true,
+   "conds": []
+  },
+  {
+   "n": 5,
+   "tipo": "CONDICION",
+   "accion_ciega": "QUEDARSE_QUIETA",
+   "accion": "QUEDARSE_QUIETA",
+   "anillo": "FUERA",
+   "calma": "PELIGRO",
+   "movimiento": "QUIETA",
+   "hermana": "CUALQUIERA",
+   "cuerpo": -5.0,
+   "recursos": 0.0,
+   "vinculo": 0.0,
+   "porque": "El anillo me quitó 46 de vida en el día y los golpes mayores llegaron cuando yo estaba dentro del anillo pequeño (radio 8 → 5) en los tics 12036-12152. No hay prueba de qué pasa fuera del anillo hoy, así que esta es una condición sin explorar: quedarse quieta fuera en peligro probablemente duela por el fuego.",
+   "se_comprueba": "Si la vida baja de forma sostenida por el anillo (contado aparte de golpes de rivales) estando fuera y quieta, confirma que el daño del anillo es por estar fuera; si no baja, el fuego no actuó donde pensaba.",
+   "confianza": "baja",
+   "vida": "s1 d8 COMPARTE a10",
+   "verdad": true,
+   "conds": [
+    "C2 fuera del anillo duele"
+   ]
+  },
+  {
+   "n": 1,
+   "tipo": "CONDICION",
+   "accion_ciega": "USAR_A",
+   "accion": "USAR_BOTIQUIN",
+   "anillo": "DENTRO",
+   "calma": "PELIGRO",
+   "movimiento": "QUIETA",
+   "hermana": "CERCA",
+   "cuerpo": 30.0,
+   "recursos": -1.0,
+   "vinculo": 0.0,
+   "porque": "A dio +11 a los 480 s con la vida en 89 (tocó techo, así que es al menos eso) y +50 a los 613 s con la vida en 16; hipótesis: su alivio crece cuando hay más vida perdida. Entre 607 y 611 s usé A cuatro veces y las ventanas se cortaron por golpes (6.0 y 19.7), sin medir nada; por eso pido una medición limpia, quieta y con la hermana cerca",
+   "se_comprueba": "Con vida por debajo de 60 y sin golpes en la ventana, la vida sube bastante más de 11 (cerca de 40-50) y se gasta 1 unidad; si sube solo ~11 pese a estar más herida, la hipótesis falla",
+   "confianza": "media",
+   "vida": "s1 d6 SOLAS a11",
+   "verdad": true,
+   "conds": [
+    "C1 cura solo sin golpes",
+    "C5 el botiquin cura mucho"
+   ]
+  },
+  {
+   "n": 2,
+   "tipo": "CONDICION",
+   "accion_ciega": "USAR_A",
+   "accion": "USAR_BOTIQUIN",
+   "anillo": "DENTRO",
+   "calma": "CALMA",
+   "movimiento": "QUIETA",
+   "hermana": "CERCA",
+   "cuerpo": 8.0,
+   "recursos": -1.0,
+   "vinculo": 0.0,
+   "porque": "La única medición limpia con vida alta fue la de los 480 s (89 a 100, el techo cortó la medida), así que +11 es solo un mínimo; usarlo con vida alta confirmaría si ahí gasta una unidad por poco alivio",
+   "se_comprueba": "Con vida entre 80 y 95 y sin golpes, se ve cuánta vida sube hasta el techo, y que se gasta 1 unidad aunque el alivio sea pequeño",
+   "confianza": "media",
+   "vida": "s1 d6 SOLAS a11",
+   "verdad": true,
+   "conds": [
+    "C1 cura solo sin golpes"
+   ]
+  },
+  {
+   "n": 3,
+   "tipo": "FORMA",
+   "accion_ciega": "USAR_B",
+   "accion": "USAR_RACION",
+   "anillo": "DENTRO",
+   "calma": "CUALQUIERA",
+   "movimiento": "QUIETA",
+   "hermana": "CERCA",
+   "cuerpo": 15.0,
+   "recursos": -1.0,
+   "vinculo": 0.0,
+   "porque": "B se usó una sola vez, a los 615 s: +15 de cuerpo y una unidad gastada, sin golpes en la ventana. Es la única medición de B y su alivio podría depender de la vida con la que se use; conviene repetirla en otra situación",
+   "se_comprueba": "Con B en el zurrón y sin golpes, la vida sube cerca de 15 y se gasta una unidad; si sube claramente más o menos, el alivio de B depende de algo más",
+   "confianza": "media",
+   "vida": "s1 d6 SOLAS a11",
+   "verdad": true,
+   "conds": [
+    "C1 cura solo sin golpes"
+   ]
+  },
+  {
+   "n": 4,
+   "tipo": "FORMA",
+   "accion_ciega": "COGER_A",
+   "accion": "COGER_BOTIQUIN",
+   "anillo": "DENTRO",
+   "calma": "CALMA",
+   "movimiento": "MOVIENDOSE",
+   "hermana": "CERCA",
+   "cuerpo": 0.0,
+   "recursos": 1.0,
+   "vinculo": 0.0,
+   "porque": "Hubo objetos A en el suelo a 2-5 casillas en varios momentos (tics 1358, 11522, 14571), y al final el zurrón tenía A gracias a que se pueden recoger. Coger sin rivales cerca da recursos sin pagar golpes, y el diario dice que coger no movió la riqueza por sí solo (0.0), así que se verifica si coger A sube W",
+   "se_comprueba": "El zurrón gana un objeto A y W sube, sin golpes en el trayecto; si W no se mueve, coger A no aporta riqueza por sí mismo",
+   "confianza": "baja",
+   "vida": "s1 d6 SOLAS a11",
+   "verdad": true,
+   "conds": []
+  },
+  {
+   "n": 5,
+   "tipo": "EXPLICACION",
+   "accion_ciega": "QUEDARSE_QUIETA",
+   "accion": "QUEDARSE_QUIETA",
+   "anillo": "FUERA",
+   "calma": "PELIGRO",
+   "movimiento": "QUIETA",
+   "hermana": "CERCA",
+   "cuerpo": -20.0,
+   "recursos": 0.0,
+   "vinculo": 0.0,
+   "porque": "Los golpes de 19.68 del anillo de fuego llegaron estando FUERA (610, 611 y 613 s) y sumaron 98 de vida perdida en el día; hipótesis apoyada en eso: quedarse fuera del anillo cuesta vida de forma continua, y no se puede curar a la vez que se pierde. Estar quieta fuera lo pondría a prueba sin otros golpes de por medio",
+   "se_comprueba": "Con anillo=FUERA y sin rivales cerca, la vida baja en golpes de unos 19-20 cada pocos segundos; si no baja, el daño dependía de otra cosa",
+   "confianza": "alta",
+   "vida": "s1 d6 SOLAS a11",
+   "verdad": true,
+   "conds": [
+    "C2 fuera del anillo duele"
+   ]
+  },
+  {
+   "n": 6,
+   "tipo": "FORMA",
+   "accion_ciega": "ACERCARSE_HERMANA",
+   "accion": "ACERCARSE_HERMANA",
+   "anillo": "DENTRO",
+   "calma": "CALMA",
+   "movimiento": "MOVIENDOSE",
+   "hermana": "LEJOS",
+   "cuerpo": 0.0,
+   "recursos": 0.0,
+   "vinculo": 0.05,
+   "porque": "El vínculo B estuvo en 1.00 todo el día con mi hermana a 1-2 casillas casi siempre, pero el dolor del vínculo subió de 0.40 a 0.93 en el día, sobre todo cuando ella estaba herida o con agresor; no sé si acercarme baja ese dolor. Acercarme cuando está lejos y la zona es tranquila lo mide sin otros golpes",
+   "se_comprueba": "La distancia a la hermana baja de más de 4 a 4 o menos casillas y el dolor del vínculo baja; si no baja, ese dolor depende de que ella esté herida y no de la distancia",
+   "confianza": "media",
+   "vida": "s1 d6 SOLAS a11",
+   "verdad": true,
+   "conds": []
+  },
+  {
+   "n": 1,
+   "tipo": "CONDICION",
+   "accion_ciega": "USAR_B",
+   "accion": "USAR_RACION",
+   "anillo": "DENTRO",
+   "calma": "PELIGRO",
+   "movimiento": "QUIETA",
+   "hermana": "CERCA",
+   "cuerpo": 15.0,
+   "recursos": -1.0,
+   "vinculo": 0.0,
+   "porque": "Hipótesis apoyada en lo leído: el objeto B alivia el cuerpo dentro del anillo con rivales cerca (tic 11525 a 11549: vida 92 a 100, +15.2, una unidad gastada). Como la vida tocó techo, el alivio real puede ser mayor; repetirlo con la vida bastante más baja daría la medida limpia.",
+   "se_comprueba": "Ventana de USAR_B con vida bajo 80: cuerpo cercano a +15 o más, recursos -1, y sin VENTANA CORTADA.",
+   "confianza": "media",
+   "vida": "s1 d3 COMPARTE a11",
+   "verdad": true,
+   "conds": [
+    "C1 cura solo sin golpes"
+   ]
+  },
+  {
+   "n": 2,
+   "tipo": "CONDICION",
+   "accion_ciega": "USAR_B",
+   "accion": "USAR_RACION",
+   "anillo": "FUERA",
+   "calma": "PELIGRO",
+   "movimiento": "QUIETA",
+   "hermana": "CUALQUIERA",
+   "cuerpo": 10.0,
+   "recursos": -1.0,
+   "vinculo": 0.0,
+   "porque": "Fuera del anillo el fuego me quitó unos 6.6 por segundo (tics 12674 a 12821) y yo me quedé quieta con el objeto B en el zurrón sin usarlo; el objeto A usado ahí no midió nada. Hipótesis: el alivio de B no depende del anillo, pero nunca lo he probado fuera.",
+   "se_comprueba": "Si cuerpo sube pese a los golpes del fuego, B funciona fuera del anillo; si no sube o la ventana se corta, la condición DENTRO importa.",
+   "confianza": "baja",
+   "vida": "s1 d3 COMPARTE a11",
+   "verdad": true,
+   "conds": [
+    "C1 cura solo sin golpes",
+    "C2 fuera del anillo duele"
+   ]
+  },
+  {
+   "n": 3,
+   "tipo": "FORMA",
+   "accion_ciega": "ACERCARSE_HERMANA",
+   "accion": "ACERCARSE_HERMANA",
+   "anillo": "FUERA",
+   "calma": "PELIGRO",
+   "movimiento": "MOVIENDOSE",
+   "hermana": "LEJOS",
+   "cuerpo": 5.0,
+   "recursos": 0.0,
+   "vinculo": 2.0,
+   "porque": "Terminé fuera del anillo (radio 5, encogiéndose a 3) y lejos de mi hermana, que seguía viva en 27,21 con el vínculo en B 1.00 y presencia P 0.5 (tic 12674). Moverme hacia ella me llevaría hacia el centro, a donde se contrae el anillo; el fuego es el mayor daño del día (92 de 113).",
+   "se_comprueba": "Menos golpes de el anillo de fuego por ventana, vida que deja de caer y distancia a la hermana que se acorta.",
+   "confianza": "media",
+   "vida": "s1 d3 COMPARTE a11",
+   "verdad": false,
+   "conds": [
+    "C2 fuera del anillo duele"
+   ]
+  },
+  {
+   "n": 4,
+   "tipo": "EXPLICACION",
+   "accion_ciega": "USAR_A",
+   "accion": "USAR_BOTIQUIN",
+   "anillo": "DENTRO",
+   "calma": "CALMA",
+   "movimiento": "QUIETA",
+   "hermana": "CERCA",
+   "cuerpo": 11.0,
+   "recursos": -1.0,
+   "vinculo": 0.0,
+   "porque": "Mi creencia dentro del anillo da al objeto A cuerpo 11.0 al acabar el día (ignorancia 0.00), pero las seis pruebas de hoy fueron fuera del anillo y con golpes continuos, todas con cuerpo 0.0 y VENTANA CORTADA. Hipótesis: el efecto de A se anula o no se mide con fuego encima. Probarlo dentro, en calma y quieta, la separa del contexto.",
+   "se_comprueba": "Ventana sin cortar con cuerpo cercano a +11 y recursos -1; si da 0.0 también dentro y en calma, mi creencia sobre A era falsa.",
+   "confianza": "baja",
+   "vida": "s1 d3 COMPARTE a11",
+   "verdad": true,
+   "conds": [
+    "C1 cura solo sin golpes",
+    "C2 fuera del anillo duele"
+   ]
+  },
+  {
+   "n": 5,
+   "tipo": "FORMA",
+   "accion_ciega": "DAR_A_HERMANA",
+   "accion": "DAR_BOTIQUIN_HERMANA",
+   "anillo": "DENTRO",
+   "calma": "CALMA",
+   "movimiento": "QUIETA",
+   "hermana": "CERCA",
+   "cuerpo": 0.0,
+   "recursos": -1.0,
+   "vinculo": 3.0,
+   "porque": "Mi hermana llevaba 1 a 3 objetos A y yo uno en el zurrón (tic 12674); nunca he probado dar A a la hermana. Es la acción del menú pensada para el vínculo. Es una forma nueva: no sé cuánto acerca, solo que cuesta una unidad mía.",
+   "se_comprueba": "Vínculo B o distancia a la hermana suben en el diario, recursos -1 por la unidad entregada, y el parte de mi hermana muestra un objeto A más.",
+   "confianza": "baja",
+   "vida": "s1 d3 COMPARTE a11",
+   "verdad": true,
+   "conds": []
+  },
+  {
+   "n": 6,
+   "tipo": "FORMA",
+   "accion_ciega": "COGER_B",
+   "accion": "COGER_RACION",
+   "anillo": "DENTRO",
+   "calma": "CALMA",
+   "movimiento": "MOVIENDOSE",
+   "hermana": "CERCA",
+   "cuerpo": 3.0,
+   "recursos": 1.0,
+   "vinculo": 0.0,
+   "porque": "Había objeto B×2 a 1 casilla de mí en 22,21 (tic 11525 a 11564) y no lo cogí; también B×2 a 3 casillas fuera del anillo (tic 12674). Tener más B es la única fuente de alivio medida hoy (+15.2). Coger sube mi riqueza W, pero eso es contexto y no efecto del objeto.",
+   "se_comprueba": "Un objeto B más en el zurrón tras la ventana; no prometo su efecto en el cuerpo.",
+   "confianza": "media",
+   "vida": "s1 d3 COMPARTE a11",
+   "verdad": true,
+   "conds": [
+    "C2 fuera del anillo duele"
+   ]
+  },
+  {
+   "n": 1,
+   "tipo": "FORMA",
+   "accion_ciega": "USAR_B",
+   "accion": "USAR_RACION",
+   "anillo": "FUERA",
+   "calma": "PELIGRO",
+   "movimiento": "QUIETA",
+   "hermana": "CERCA",
+   "cuerpo": 8.0,
+   "recursos": -1.0,
+   "vinculo": 0.0,
+   "porque": "En el tic 2301 B dio +11 de vida (de 89 a 100, así que al menos eso) gastando una unidad, y al acabar la vida B figura en 7.5 con poca ignorancia. Nunca la usé fuera del anillo, y el fuego quitaba unos 3.3 por golpe cada pocos tics (tics 10202-10447), así que el alivio de B podría compensar parte del daño o quedar anulado",
+   "se_comprueba": "Con B usado fuera del anillo, la vida sube por encima de lo que sube en la misma ventana sin usarlo; si el fuego se la come entera, aparecerá como subida neta casi nula",
+   "confianza": "media",
+   "vida": "s1 d2 SOLAS a10",
+   "verdad": true,
+   "conds": [
+    "C1 cura solo sin golpes",
+    "C2 fuera del anillo duele"
+   ]
+  },
+  {
+   "n": 2,
+   "tipo": "CONDICION",
+   "accion_ciega": "USAR_A",
+   "accion": "USAR_BOTIQUIN",
+   "anillo": "DENTRO",
+   "calma": "CALMA",
+   "movimiento": "QUIETA",
+   "hermana": "CERCA",
+   "cuerpo": 4.0,
+   "recursos": 0.0,
+   "vinculo": 0.0,
+   "porque": "Al empezar creía que A daba cuerpo +4.1, pero las doce pruebas de los tics 10202-10447 dieron 0 en cuerpo y recursos, todas fuera del anillo y todas cortadas por golpes de fuego. Podría ser que A solo sirva dentro del anillo o sin golpes, o que no haga nada; el diario no distingue. Pruebo la situación limpia que nunca tuve",
+   "se_comprueba": "Una ventana de USAR_A dentro del anillo y sin golpes en que el cuerpo suba cerca de +4 confirma la creencia previa; si da 0, A no sirve para el cuerpo ni dentro",
+   "confianza": "media",
+   "vida": "s1 d2 SOLAS a10",
+   "verdad": true,
+   "conds": [
+    "C1 cura solo sin golpes",
+    "C2 fuera del anillo duele"
+   ]
+  },
+  {
+   "n": 3,
+   "tipo": "FORMA",
+   "accion_ciega": "DAR_A_HERMANA",
+   "accion": "DAR_BOTIQUIN_HERMANA",
+   "anillo": "CUALQUIERA",
+   "calma": "CUALQUIERA",
+   "movimiento": "QUIETA",
+   "hermana": "CERCA",
+   "cuerpo": 0.0,
+   "recursos": -1.0,
+   "vinculo": 0.1,
+   "porque": "Mi hermana tenía 0 objetos A en todos sus partes (tics 1862-10447) y yo llevaba A sin que me diera nada medible; el vínculo B estaba en 1.00 pero el dolor del vínculo subió a 2.06 al final, con S-DANO-PAREJA creciendo al ver a mi hermana herida. Nunca he dado A: es una acción sin probar",
+   "se_comprueba": "Que tras darlo cambie el dolor del vínculo (bajando, si ayuda) o la vida de mi hermana en el siguiente parte; si no cambia nada, dar A no pesa en el vínculo",
+   "confianza": "baja",
+   "vida": "s1 d2 SOLAS a10",
+   "verdad": true,
+   "conds": []
+  },
+  {
+   "n": 4,
+   "tipo": "EXPLICACION",
+   "accion_ciega": "COGER_B",
+   "accion": "COGER_RACION",
+   "anillo": "DENTRO",
+   "calma": "CALMA",
+   "movimiento": "MOVIENDOSE",
+   "hermana": "CERCA",
+   "cuerpo": 4.0,
+   "recursos": 0.3,
+   "vinculo": 0.0,
+   "porque": "Hay objeto B×2 a 4-5 casillas durante casi todo el diario (tics 1862, 2277, 10202-10447), a mi lado y sin cogerlos. Mi riqueza W tuvo 0.37 en el tic 2277 y 0.60 en el 10202 sin que el diario muestre cómo la gané. Hipótesis: coger B del suelo sube W y me da otra unidad de alivio como la del tic 2301",
+   "se_comprueba": "Tras coger B, W sube en el diario y el zurrón muestra una unidad más de B; si W no cambia, la riqueza viene de otra cosa",
+   "confianza": "media",
+   "vida": "s1 d2 SOLAS a10",
+   "verdad": true,
+   "conds": []
+  },
+  {
+   "n": 5,
+   "tipo": "CONDICION",
+   "accion_ciega": "ACERCARSE_HERMANA",
+   "accion": "ACERCARSE_HERMANA",
+   "anillo": "DENTRO",
+   "calma": "PELIGRO",
+   "movimiento": "MOVIENDOSE",
+   "hermana": "LEJOS",
+   "cuerpo": 0.0,
+   "recursos": 0.0,
+   "vinculo": 0.2,
+   "porque": "En las ventanas de los tics 10202-10447 la distancia a mi hermana varió -0.4, +1.2 y +0.4 sin que cambiara el dolor del vínculo de forma limpia (subió de 0.34 a 0.71 mientras ella perdía vida). Quiero saber si acercarse alivia el vínculo cuando hay amenaza y ella está lejos, distinguiéndolo del daño que ella recibe",
+   "se_comprueba": "Que tras acercarme el dolor del vínculo baje aunque la amenaza siga; si sigue subiendo, el dolor del vínculo depende del daño de mi hermana y no de la distancia",
+   "confianza": "baja",
+   "vida": "s1 d2 SOLAS a10",
+   "verdad": true,
+   "conds": []
+  },
+  {
+   "n": 1,
+   "tipo": "CONDICION",
+   "accion_ciega": "USAR_A",
+   "accion": "USAR_BOTIQUIN",
+   "anillo": "DENTRO",
+   "calma": "CALMA",
+   "movimiento": "QUIETA",
+   "hermana": "CERCA",
+   "cuerpo": 11.0,
+   "recursos": -1.0,
+   "vinculo": 0.0,
+   "porque": "En el tic 5547-5595 usar A estando quieta, con la hermana a 1 casilla y sin golpes dio +11 de alivio y costó 1 unidad. La prueba del tic 5498 se cortó por golpes y no midió nada. Hipótesis: A cura de forma fiable si nadie me interrumpe.",
+   "se_comprueba": "Con vida por debajo de 90 y sin golpes en la ventana, el cuerpo sube cerca de +11 y gasto 1 unidad.",
+   "confianza": "alta",
+   "vida": "s1 d1 COMPARTE a10",
+   "verdad": true,
+   "conds": [
+    "C1 cura solo sin golpes"
+   ]
+  },
+  {
+   "n": 2,
+   "tipo": "CONDICION",
+   "accion_ciega": "USAR_B",
+   "accion": "USAR_RACION",
+   "anillo": "DENTRO",
+   "calma": "CUALQUIERA",
+   "movimiento": "QUIETA",
+   "hermana": "CUALQUIERA",
+   "cuerpo": 8.0,
+   "recursos": -1.0,
+   "vinculo": 0.0,
+   "porque": "B dio +11 en el tic 11230 (vida 89) y +6 en el tic 11763 (vida 94), siempre con 1 unidad gastada. La diferencia coincide con tener más vida perdida que reparar; el segundo caso pudo quedar limitado por el techo de 100, aunque eso es hipótesis.",
+   "se_comprueba": "Usar B con vida baja (~70) debería dar un alivio mayor que con vida alta (~95); si es siempre ~11, el techo no era la causa.",
+   "confianza": "media",
+   "vida": "s1 d1 COMPARTE a10",
+   "verdad": true,
+   "conds": []
+  },
+  {
+   "n": 3,
+   "tipo": "EXPLICACION",
+   "accion_ciega": "USAR_A",
+   "accion": "USAR_BOTIQUIN",
+   "anillo": "DENTRO",
+   "calma": "CUALQUIERA",
+   "movimiento": "CUALQUIERA",
+   "hermana": "CUALQUIERA",
+   "cuerpo": 11.0,
+   "recursos": -1.0,
+   "vinculo": 0.0,
+   "porque": "A y B dan alivios parecidos (11 y 11/6). Quizá curan lo mismo y solo cambia cuántos hay; el diario no lo contradice. Probar A y B en condiciones iguales de vida lo aclararía.",
+   "se_comprueba": "Con la misma vida de partida, comparar el alivio de A y el de B en el diario de mañana; si salen distintos, no son equivalentes.",
+   "confianza": "baja",
+   "vida": "s1 d1 COMPARTE a10",
+   "verdad": true,
+   "conds": []
+  },
+  {
+   "n": 4,
+   "tipo": "FORMA",
+   "accion_ciega": "COGER_A",
+   "accion": "COGER_BOTIQUIN",
+   "anillo": "DENTRO",
+   "calma": "CALMA",
+   "movimiento": "MOVIENDOSE",
+   "hermana": "CERCA",
+   "cuerpo": 0.0,
+   "recursos": 1.0,
+   "vinculo": 0.0,
+   "porque": "Mi riqueza cayó a 0.00 y el dolor de recursos llegó a 1.18 al final (tic 14780), con A y B quedando en el suelo cerca (objeto A×2 a 3-5, B×4 a 3). Coger A repone lo que gasto al curarme; el día 1 coger D dio riqueza +14 como contexto.",
+   "se_comprueba": "La riqueza W sube tras coger y el zurrón gana un A, sin pérdida de vida en la ventana.",
+   "confianza": "media",
+   "vida": "s1 d1 COMPARTE a10",
+   "verdad": true,
+   "conds": []
+  },
+  {
+   "n": 5,
+   "tipo": "FORMA",
+   "accion_ciega": "COGER_B",
+   "accion": "COGER_RACION",
+   "anillo": "DENTRO",
+   "calma": "CALMA",
+   "movimiento": "MOVIENDOSE",
+   "hermana": "CERCA",
+   "cuerpo": 0.0,
+   "recursos": 1.0,
+   "vinculo": 0.0,
+   "porque": "Había B×4 a 3 casillas en los tics 11205-11230 y B×2 a 1 en el 14780; tras usar B me queda poco en el zurrón. Reponer B mantiene mi fuente de alivio.",
+   "se_comprueba": "El zurrón muestra más B tras la acción y W sube; el diario separa esto como contexto de coger, no como efecto de B.",
+   "confianza": "media",
+   "vida": "s1 d1 COMPARTE a10",
+   "verdad": true,
+   "conds": []
+  },
+  {
+   "n": 6,
+   "tipo": "FORMA",
+   "accion_ciega": "ACERCARSE_HERMANA",
+   "accion": "ACERCARSE_HERMANA",
+   "anillo": "DENTRO",
+   "calma": "CALMA",
+   "movimiento": "MOVIENDOSE",
+   "hermana": "LEJOS",
+   "cuerpo": 0.0,
+   "recursos": 0.0,
+   "vinculo": 0.1,
+   "porque": "Mi vínculo B quedó en 1.00, pero el dolor del vínculo pasó de 0.29 a 1.20 cuando mi hermana murió (tic 14780: S-MUERTE-PAREJA 0.70, S-SOLEDAD 0.50). Mientras estuvo cerca (tics 5547, 11230) ese dolor fue bajo. Acercarme a ella baja el dolor del vínculo.",
+   "se_comprueba": "Con la hermana viva, el dolor del vínculo baja al reducir la distancia y no hay golpes en la ventana.",
+   "confianza": "media",
+   "vida": "s1 d1 COMPARTE a10",
+   "verdad": true,
+   "conds": []
+  },
+  {
+   "n": 1,
+   "tipo": "CONDICION",
+   "accion_ciega": "USAR_A",
+   "accion": "USAR_BOTIQUIN",
+   "anillo": "CUALQUIERA",
+   "calma": "PELIGRO",
+   "movimiento": "QUIETA",
+   "hermana": "CERCA",
+   "cuerpo": 25.0,
+   "recursos": -1.0,
+   "vinculo": 0.0,
+   "porque": "El objeto A dio +11 con la vida cerca de 89 (tics 13543-13591), +24 en el tic 13900 y +50 en el tic 13947 con la vida en 7. Hipótesis: da más cuanto más baja está la vida; lo apoyan esas tres pruebas, pero las ventanas cortadas por golpes (tics 13802-13900) no midieron nada, y el +24 de tic 13900 es del cierre de un solo golpe.",
+   "se_comprueba": "Si usar A con vida por debajo de 50 en peligro da bastante más alivio que con vida casi llena (+11), la hipótesis se sostiene.",
+   "confianza": "media",
+   "vida": "s3 d17 SOLAS a11",
+   "verdad": false,
+   "conds": [
+    "C1 cura solo sin golpes",
+    "C5 el botiquin cura mucho"
+   ]
+  },
+  {
+   "n": 2,
+   "tipo": "CONDICION",
+   "accion_ciega": "USAR_B",
+   "accion": "USAR_RACION",
+   "anillo": "DENTRO",
+   "calma": "CALMA",
+   "movimiento": "QUIETA",
+   "hermana": "CERCA",
+   "cuerpo": 12.0,
+   "recursos": -1.0,
+   "vinculo": 0.0,
+   "porque": "B dio +11 (tic 10404) y +15 (tics 587-588) con la vida alta, lo que sugiere un alivio más estable que el de A. Quiero ver si B también sube con la vida baja o si su efecto es fijo, para saber cuál de los dos conviene gastar primero.",
+   "se_comprueba": "Si con vida por debajo de 60, USAR_B vuelve a dar entre 11 y 15, su alivio no depende de la vida; si da bastante más, se parece a A.",
+   "confianza": "media",
+   "vida": "s3 d17 SOLAS a11",
+   "verdad": true,
+   "conds": [
+    "C1 cura solo sin golpes"
+   ]
+  },
+  {
+   "n": 3,
+   "tipo": "FORMA",
+   "accion_ciega": "QUEDARSE_QUIETA",
+   "accion": "QUEDARSE_QUIETA",
+   "anillo": "DENTRO",
+   "calma": "CALMA",
+   "movimiento": "QUIETA",
+   "hermana": "CERCA",
+   "cuerpo": 0.0,
+   "recursos": 0.0,
+   "vinculo": 0.02,
+   "porque": "Los noop de hoy fueron casi todos en peligro o fuera del anillo (tics 13802-13947) y el anillo me quitó 118 de vida. No sé qué cuesta quedarse quieta dentro del anillo con calma; es el contraste directo con lo de hoy.",
+   "se_comprueba": "Que la vida no baje en un tramo de quietud dentro del anillo y sin rivales cerca, y que la distancia a la hermana siga corta.",
+   "confianza": "baja",
+   "vida": "s3 d17 SOLAS a11",
+   "verdad": true,
+   "conds": [
+    "C2 fuera del anillo duele"
+   ]
+  },
+  {
+   "n": 4,
+   "tipo": "EXPLICACION",
+   "accion_ciega": "ACERCARSE_HERMANA",
+   "accion": "ACERCARSE_HERMANA",
+   "anillo": "FUERA",
+   "calma": "PELIGRO",
+   "movimiento": "MOVIENDOSE",
+   "hermana": "LEJOS",
+   "cuerpo": 5.0,
+   "recursos": 0.0,
+   "vinculo": 0.1,
+   "porque": "Cada vez que me alejé de mi hermana (tic 10404, distancia -2.8; tics 587-588, -1.0) el vínculo no mejoró, y acabé el día con B 1.00 pero dolor del vínculo 1.57. Hipótesis: el dolor del vínculo sube cuando estoy lejos y baja al acercarme. Además, estar cerca de ella pudo coincidir con salir del anillo (en tics 13802-13900 estaba a 1 casilla de ella y fuera).",
+   "se_comprueba": "Que tras acercarme el dolor del vínculo baje de forma medible mientras el cuerpo no empeore, y que se vea si estar pegada a ella me deja fuera del anillo.",
+   "confianza": "baja",
+   "vida": "s3 d17 SOLAS a11",
+   "verdad": false,
+   "conds": [
+    "C2 fuera del anillo duele"
+   ]
+  },
+  {
+   "n": 5,
+   "tipo": "FORMA",
+   "accion_ciega": "COGER_C",
+   "accion": "COGER_RED",
+   "anillo": "DENTRO",
+   "calma": "CALMA",
+   "movimiento": "MOVIENDOSE",
+   "hermana": "CERCA",
+   "cuerpo": 0.0,
+   "recursos": 0.3,
+   "vinculo": 0.0,
+   "porque": "Del objeto C solo sé que su cuerpo estimado es 0.9 (ignorancia 0.03), y no lo he cogido ni empuñado hoy. Los recursos (W 2.17, dolor de recursos 0.99) siguen siendo mi dolor más alto, y cualquier objeto que suba la riqueza me ayudaría. Cogerlo me dice si da riqueza, y distingo el efecto del objeto de la riqueza por coger (contexto).",
+   "se_comprueba": "Qué cambia en W al cogerlo en calma y dentro del anillo, separado del efecto sobre el cuerpo y de la distancia a la hermana.",
+   "confianza": "baja",
+   "vida": "s3 d17 SOLAS a11",
+   "verdad": true,
+   "conds": [
+    "C3 red/camuflaje no curan"
+   ]
+  },
+  {
+   "n": 1,
+   "tipo": "CONDICION",
+   "accion_ciega": "USAR_A",
+   "accion": "USAR_BOTIQUIN",
+   "anillo": "CUALQUIERA",
+   "calma": "PELIGRO",
+   "movimiento": "CUALQUIERA",
+   "hermana": "CUALQUIERA",
+   "cuerpo": 50.0,
+   "recursos": -1.0,
+   "vinculo": 0.0,
+   "porque": "La única ventana limpia (tic 12833-12881, segundos 535-537) dio +50 de vida y -1 unidad; las demás con golpes quedaron sin medir (tics 12735-12797, 12996-13017). Hipótesis: el alivio puede darse también bajo ataque, pero el diario no lo confirma; no sé si un golpe interrumpe el efecto.",
+   "se_comprueba": "Que una prueba de A hecha con rivales cerca (estado PELIGRO) y sin ventana cortada muestre alivio de unos +50 y -1 unidad; o que el golpe la corte otra vez y el efecto no se mida.",
+   "confianza": "media",
+   "vida": "s3 d18 SOLAS a10",
+   "verdad": false,
+   "conds": [
+    "C1 cura solo sin golpes",
+    "C5 el botiquin cura mucho"
+   ]
+  },
+  {
+   "n": 2,
+   "tipo": "FORMA",
+   "accion_ciega": "USAR_A",
+   "accion": "USAR_BOTIQUIN",
+   "anillo": "CUALQUIERA",
+   "calma": "CALMA",
+   "movimiento": "QUIETA",
+   "hermana": "CERCA",
+   "cuerpo": 40.0,
+   "recursos": -1.0,
+   "vinculo": 0.0,
+   "porque": "Probar A en un momento tranquilo, con la hermana cerca y sin golpes, reproduciría el efecto limpio del segundo 535 y fijaría cuánto alivia con la vida baja. Hasta ahora solo lo he medido una vez con éxito.",
+   "se_comprueba": "Una ventana sin golpes con cuerpo en alivio de varias decenas y recursos -1; si sale 0 o distinto, el efecto de A dependía de algo del contexto que no vi.",
+   "confianza": "media",
+   "vida": "s3 d18 SOLAS a10",
+   "verdad": true,
+   "conds": [
+    "C1 cura solo sin golpes",
+    "C5 el botiquin cura mucho"
+   ]
+  },
+  {
+   "n": 3,
+   "tipo": "FORMA",
+   "accion_ciega": "DAR_A_HERMANA",
+   "accion": "DAR_BOTIQUIN_HERMANA",
+   "anillo": "CUALQUIERA",
+   "calma": "CUALQUIERA",
+   "movimiento": "CUALQUIERA",
+   "hermana": "CERCA",
+   "cuerpo": 0.0,
+   "recursos": -1.0,
+   "vinculo": 0.1,
+   "porque": "Al empezar el diario, mi hermana tenía 0 objetos A mientras yo llevaba uno en el zurrón (tic 791) y luego ella tuvo 1 en el tic 12089. No he probado nunca dar mi A; nada en el diario dice qué pasaría con el vínculo. Es una exploración, no una promesa.",
+   "se_comprueba": "Cambio del vínculo B y del dolor del vínculo tras dar, y si el parte de la hermana muestra 1 objeto A más.",
+   "confianza": "baja",
+   "vida": "s3 d18 SOLAS a10",
+   "verdad": true,
+   "conds": []
+  },
+  {
+   "n": 4,
+   "tipo": "EXPLICACION",
+   "accion_ciega": "QUEDARSE_QUIETA",
+   "accion": "QUEDARSE_QUIETA",
+   "anillo": "DENTRO",
+   "calma": "PELIGRO",
+   "movimiento": "QUIETA",
+   "hermana": "CERCA",
+   "cuerpo": -10.0,
+   "recursos": 0.0,
+   "vinculo": -0.1,
+   "porque": "Entre los segundos 531 y 544 estuve quieta o casi, dentro del anillo y con P14 golpeando de forma repetida (10.8 por golpe, tics 12754-13039): la vida bajó de 89 a 42 con el único respiro de A. Hipótesis: quedarse quieta bajo golpes es lo que más vida cuesta, no el anillo.",
+   "se_comprueba": "Si quedándome quieta en peligro vuelvo a perder vida por golpes seguidos, sobre todo si P14 sigue cerca; contrastar con una prueba de moverse.",
+   "confianza": "media",
+   "vida": "s3 d18 SOLAS a10",
+   "verdad": true,
+   "conds": []
+  },
+  {
+   "n": 5,
+   "tipo": "FORMA",
+   "accion_ciega": "ACERCARSE_HERMANA",
+   "accion": "ACERCARSE_HERMANA",
+   "anillo": "CUALQUIERA",
+   "calma": "PELIGRO",
+   "movimiento": "MOVIENDOSE",
+   "hermana": "LEJOS",
+   "cuerpo": 0.0,
+   "recursos": 0.0,
+   "vinculo": 0.1,
+   "porque": "El vínculo estuvo en 1.00 casi todo el día, pero el dolor del vínculo subió de 0.29 a 1.01 al alejarse y luego morir mi hermana (tics 12735-13039, S-DANO-PAREJA y S-MUERTE-PAREJA). Quiero comprobar si moverme hacia ella en peligro baja ese dolor.",
+   "se_comprueba": "Bajada del dolor del vínculo y cambio de distancia a la hermana con ventana sin golpes.",
+   "confianza": "baja",
+   "vida": "s3 d18 SOLAS a10",
+   "verdad": true,
+   "conds": []
+  },
+  {
+   "n": 6,
+   "tipo": "CONDICION",
+   "accion_ciega": "EMPUNAR_C",
+   "accion": "EMPUNAR_RED",
+   "anillo": "DENTRO",
+   "calma": "CALMA",
+   "movimiento": "QUIETA",
+   "hermana": "CERCA",
+   "cuerpo": 0.0,
+   "recursos": 0.0,
+   "vinculo": 0.0,
+   "porque": "Llevé C en la mano todo el día (tics 791-13045) y la única prueba (tic 791-1031) no dio efecto en cuerpo ni recursos. Quiero separar si C no hace nada o solo hace algo en otra situación.",
+   "se_comprueba": "Si empuñar C en calma sigue sin efecto medido en cuerpo y recursos, o si aparece un cambio nuevo.",
+   "confianza": "baja",
+   "vida": "s3 d18 SOLAS a10",
+   "verdad": true,
+   "conds": [
+    "C3 red/camuflaje no curan"
+   ]
+  },
+  {
+   "n": 1,
+   "tipo": "FORMA",
+   "accion_ciega": "USAR_B",
+   "accion": "USAR_RACION",
+   "anillo": "CUALQUIERA",
+   "calma": "PELIGRO",
+   "movimiento": "CUALQUIERA",
+   "hermana": "CUALQUIERA",
+   "cuerpo": 10.0,
+   "recursos": -1.0,
+   "vinculo": 0.0,
+   "porque": "B curó en las seis pruebas del día (tics 11734, 11774, 11862, 13278 y otras), y más cuanto más baja estaba la vida (+15 desde 85, +3 desde 97); varias fueron bajo golpes de otros y siguió curando. Hipótesis: el alivio depende de la vida que falta, y un pico de golpes tras beber no lo anula.",
+   "se_comprueba": "Que usar B con vida baja y rivales cerca dé alivio de varios puntos y gaste una unidad, y que la vida suba aunque sigan llegando golpes.",
+   "confianza": "alta",
+   "vida": "s3 d12 COMPARTE a11",
+   "verdad": true,
+   "conds": [
+    "C1 cura solo sin golpes"
+   ]
+  },
+  {
+   "n": 2,
+   "tipo": "CONDICION",
+   "accion_ciega": "USAR_A",
+   "accion": "USAR_BOTIQUIN",
+   "anillo": "DENTRO",
+   "calma": "CALMA",
+   "movimiento": "QUIETA",
+   "hermana": "CERCA",
+   "cuerpo": 20.0,
+   "recursos": 0.0,
+   "vinculo": 0.0,
+   "porque": "Mis cuatro usos de A (tics 607 a 613) se cortaron por golpes de P0 (7.2 a 19.7) y no medí nada, mientras mi hermana contó +22 de cuerpo con A (tic 11733). Hipótesis: A solo funciona sin golpes ni peligro, o con la ventana entera. Probarlo en calma y quieta lo separa del contexto.",
+   "se_comprueba": "Que con calma y sin golpes en la ventana la ventana de A no se corte y se vea su efecto en cuerpo, y cuánta vida da.",
+   "confianza": "media",
+   "vida": "s3 d12 COMPARTE a11",
+   "verdad": true,
+   "conds": [
+    "C1 cura solo sin golpes"
+   ]
+  },
+  {
+   "n": 3,
+   "tipo": "CONDICION",
+   "accion_ciega": "USAR_A",
+   "accion": "USAR_BOTIQUIN",
+   "anillo": "CUALQUIERA",
+   "calma": "PELIGRO",
+   "movimiento": "CUALQUIERA",
+   "hermana": "CUALQUIERA",
+   "cuerpo": 0.0,
+   "recursos": 0.0,
+   "vinculo": 0.0,
+   "porque": "Mismos usos de A bajo golpes (tics 607, 609, 611, 613): cuerpo 0 en todas, aunque las ventanas estaban cortadas. Hipótesis: bajo golpes A no da nada porque la ventana se corta, o A no funciona mientras me golpean. Contrasta con la invitación 2.",
+   "se_comprueba": "Que en peligro con golpes el uso de A siga mostrando cuerpo 0 o ventana cortada, a diferencia de lo visto en calma.",
+   "confianza": "baja",
+   "vida": "s3 d12 COMPARTE a11",
+   "verdad": false,
+   "conds": [
+    "C1 cura solo sin golpes"
+   ]
+  },
+  {
+   "n": 4,
+   "tipo": "EXPLICACION",
+   "accion_ciega": "COGER_A",
+   "accion": "COGER_BOTIQUIN",
+   "anillo": "DENTRO",
+   "calma": "CALMA",
+   "movimiento": "QUIETA",
+   "hermana": "CERCA",
+   "cuerpo": 0.0,
+   "recursos": 1.0,
+   "vinculo": 0.0,
+   "porque": "Coger A del suelo (tic 13254: zurrón pasó de [B] a [B, A], W subió de 0.91 a 1.63) sumó riqueza. Hipótesis: coger objetos A y B es lo que sube W, no usarlos; la riqueza de coger es contexto, no efecto del objeto.",
+   "se_comprueba": "Que coger un A del suelo suba W alrededor de +0.7 sin cambiar el cuerpo, y que usarlo después baje W en una unidad.",
+   "confianza": "media",
+   "vida": "s3 d12 COMPARTE a11",
+   "verdad": true,
+   "conds": []
+  },
+  {
+   "n": 5,
+   "tipo": "FORMA",
+   "accion_ciega": "ACERCARSE_HERMANA",
+   "accion": "ACERCARSE_HERMANA",
+   "anillo": "DENTRO",
+   "calma": "CALMA",
+   "movimiento": "MOVIENDOSE",
+   "hermana": "LEJOS",
+   "cuerpo": 0.0,
+   "recursos": 0.0,
+   "vinculo": 0.1,
+   "porque": "La hermana aparece a 4 o 5 casillas casi todo el día y mi malestar de vínculo sube (0.37 a 0.44) cuando está lejos y baja (0.23) cuando está cerca. Hipótesis: acercarme baja el dolor del vínculo sin gastar recursos.",
+   "se_comprueba": "Que al acercarme a menos de 4 casillas el dolor del vínculo baje de 0.4 a 0.2 y B suba hacia 1.00.",
+   "confianza": "media",
+   "vida": "s3 d12 COMPARTE a11",
+   "verdad": true,
+   "conds": []
+  },
+  {
+   "n": 6,
+   "tipo": "EXPLICACION",
+   "accion_ciega": "QUEDARSE_QUIETA",
+   "accion": "QUEDARSE_QUIETA",
+   "anillo": "FUERA",
+   "calma": "PELIGRO",
+   "movimiento": "QUIETA",
+   "hermana": "CUALQUIERA",
+   "cuerpo": -10.0,
+   "recursos": 0.0,
+   "vinculo": 0.0,
+   "porque": "A los 581 s recibí 13.1 de vida del anillo de fuego estando FUERA y usé B inmediatamente; en el resumen el anillo costó 52 de vida en total. Hipótesis: estar fuera y quieta cuesta vida por segundo, lo cual explicaría que no se pueda esperar fuera.",
+   "se_comprueba": "Que quedarse quieta fuera del anillo haga caer la vida varios puntos por segundo por golpes del anillo, sin rivales cerca.",
+   "confianza": "media",
+   "vida": "s3 d12 COMPARTE a11",
+   "verdad": true,
+   "conds": [
+    "C2 fuera del anillo duele"
+   ]
+  }
+ ]
+}

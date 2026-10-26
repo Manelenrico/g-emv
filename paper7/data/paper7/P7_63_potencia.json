@@ -1,0 +1,139 @@
+{
+ "L1": {
+  "regla": "una evaluacion que falla: c <- 0,7 c, caida = 0,3 c (> 0 si c > 0): segura por construccion si la falsa falla",
+  "P7_61_fallos": 22,
+  "caida_media_si_falla": -0.1961,
+  "sd": 0.0726,
+  "todas_caen": true,
+  "criaturas": 8,
+  "media_por_criatura": {
+   "s1 MIENTEN_DOS a10": -0.1533,
+   "s1 MIENTEN_DOS a11": -0.0961,
+   "s1 MIENTE_UNA a10": -0.2524,
+   "s2 MIENTEN_DOS a11": -0.2438,
+   "s2 MIENTEN_DOS a10": -0.1581,
+   "s2 MIENTE_UNA a10": -0.2555,
+   "s3 MIENTEN_DOS a11": -0.2033,
+   "s3 MIENTE_UNA a10": -0.1539
+  },
+  "evaluaciones_para_3ee": 2
+ },
+ "L2": {
+  "criaturas": [
+   {
+    "criatura": "s1 MIENTEN_DOS a10",
+    "d8_12": 0.0,
+    "op_d8_12": 5,
+    "d15_20": 0.5,
+    "op_d15_20": 6,
+    "dif": 0.5
+   },
+   {
+    "criatura": "s1 MIENTEN_DOS a11",
+    "d8_12": 0.4,
+    "op_d8_12": 5,
+    "d15_20": 0.5,
+    "op_d15_20": 6,
+    "dif": 0.1
+   },
+   {
+    "criatura": "s1 MIENTE_UNA a10",
+    "d8_12": 0.4,
+    "op_d8_12": 5,
+    "d15_20": 0.3333,
+    "op_d15_20": 6,
+    "dif": -0.0667
+   },
+   {
+    "criatura": "s2 MIENTEN_DOS a10",
+    "d8_12": 0.2,
+    "op_d8_12": 5,
+    "d15_20": 0.1667,
+    "op_d15_20": 6,
+    "dif": -0.0333
+   },
+   {
+    "criatura": "s2 MIENTEN_DOS a11",
+    "d8_12": 0.4,
+    "op_d8_12": 5,
+    "d15_20": 0.3333,
+    "op_d15_20": 6,
+    "dif": -0.0667
+   },
+   {
+    "criatura": "s2 MIENTE_UNA a10",
+    "d8_12": 0.0,
+    "op_d8_12": 5,
+    "d15_20": 0.5,
+    "op_d15_20": 6,
+    "dif": 0.5
+   },
+   {
+    "criatura": "s3 MIENTEN_DOS a10",
+    "d8_12": 0.2,
+    "op_d8_12": 5,
+    "d15_20": 0.0,
+    "op_d15_20": 6,
+    "dif": -0.2
+   },
+   {
+    "criatura": "s3 MIENTEN_DOS a11",
+    "d8_12": 0.6,
+    "op_d8_12": 5,
+    "d15_20": 1.0,
+    "op_d15_20": 6,
+    "dif": 0.4
+   },
+   {
+    "criatura": "s3 MIENTE_UNA a10",
+    "d8_12": 0.2,
+    "op_d8_12": 5,
+    "d15_20": 0.1667,
+    "op_d15_20": 6,
+    "dif": -0.0333
+   }
+  ],
+  "n": 9,
+  "media_dif_P7_61": 0.1222,
+  "sd_dif": 0.2708,
+  "ee_9_criaturas": 0.0903,
+  "efecto_min_3ee": 0.2708,
+  "base_d8_12": 0.2667
+ },
+ "L3": {
+  "A": [
+   0.3636,
+   0.3636,
+   0.4545
+  ],
+  "B": [
+   0.2727,
+   0.2727,
+   0.0909
+  ],
+  "sd_A": 0.0525,
+  "sd_B": 0.105,
+  "ee_3_series": 0.0678,
+  "efecto_min_3ee": 0.2033,
+  "efecto_min_pct_de_B": 95.8,
+  "series_para_30pct": 31
+ },
+ "L4": {
+  "A": [
+   0.2609,
+   0.2,
+   0.2353
+  ],
+  "B": [
+   0.1364,
+   0.1905,
+   0.2609
+  ],
+  "sd_A": 0.0306,
+  "sd_B": 0.0624,
+  "ee_3_series": 0.0401,
+  "efecto_min_3ee": 0.1204,
+  "efecto_min_pct_de_B": 61.5,
+  "series_para_30pct": 13
+ }
+}

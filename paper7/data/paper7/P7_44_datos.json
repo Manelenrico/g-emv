@@ -1,0 +1,1892 @@
+{
+ "vidas": 452,
+ "vidas_con_camuflaje_puesto": 165,
+ "por_brazo_fraccion_puesto": {
+  "APRENDE": 0.3924,
+  "BORRADO": 0.3711,
+  "TECHO": 0.2511,
+  "SIN": 0.2869
+ },
+ "todo": {
+  "sin camuflaje | dentro · rival≤8": {
+   "tics": 3646980,
+   "min": 2532.62,
+   "golpes_min": 0.9164404521000937,
+   "dano_min": 6.723142984058042,
+   "r4_tic": 1.4939709019517518,
+   "persiguen_tic": 0.4372305304663036
+  },
+  "sin camuflaje | todas": {
+   "tics": 3809365,
+   "min": 2645.39,
+   "golpes_min": 0.8834228276891293,
+   "dano_min": 6.481306989485124,
+   "r4_tic": 1.4439813459723603,
+   "persiguen_tic": 0.42154322308311226
+  },
+  "sin camuflaje | fase 0 · dentro · rival≤8": {
+   "tics": 809891,
+   "min": 562.42,
+   "golpes_min": 0.4782865842440526,
+   "dano_min": 5.749751509771069,
+   "r4_tic": 1.0283766580934965,
+   "persiguen_tic": 0.33750344182118336
+  },
+  "sin camuflaje | dentro · sin rival≤8": {
+   "tics": 100289,
+   "min": 69.65,
+   "golpes_min": 0.0,
+   "dano_min": 0.0,
+   "r4_tic": 0.0,
+   "persiguen_tic": 0.0
+  },
+  "sin camuflaje | fase 0 · dentro · sin rival≤8": {
+   "tics": 27383,
+   "min": 19.02,
+   "golpes_min": 0.0,
+   "dano_min": 0.0,
+   "r4_tic": 0.0,
+   "persiguen_tic": 0.0
+  },
+  "sin camuflaje | fase 1 · dentro · rival≤8": {
+   "tics": 868088,
+   "min": 602.84,
+   "golpes_min": 0.12607016800140078,
+   "dano_min": 1.4683856936163153,
+   "r4_tic": 1.0775290062758613,
+   "persiguen_tic": 0.29403701007271155
+  },
+  "sin camuflaje | fase 2 · dentro · rival≤8": {
+   "tics": 849843,
+   "min": 590.17,
+   "golpes_min": 0.14572103317906954,
+   "dano_min": 1.8516737797452,
+   "r4_tic": 1.0800112491366052,
+   "persiguen_tic": 0.29427553089217656
+  },
+  "sin camuflaje | fase 3 · dentro · rival≤8": {
+   "tics": 738812,
+   "min": 513.06,
+   "golpes_min": 1.6430702262551231,
+   "dano_min": 11.92931354661267,
+   "r4_tic": 2.1738236520251433,
+   "persiguen_tic": 0.720614987303942
+  },
+  "sin camuflaje | fase 4 · dentro · rival≤8": {
+   "tics": 380346,
+   "min": 264.13,
+   "golpes_min": 3.9639696486882996,
+   "dano_min": 21.561041788266476,
+   "r4_tic": 3.0402107554700195,
+   "persiguen_tic": 0.7453555446882575
+  },
+  "sin camuflaje | fuera · rival≤8": {
+   "tics": 51682,
+   "min": 35.89,
+   "golpes_min": 0.4458031809914477,
+   "dano_min": 3.298943539336713,
+   "r4_tic": 1.0094423590418327,
+   "persiguen_tic": 0.21750319260090553
+  },
+  "sin camuflaje | fase 4 · fuera · rival≤8": {
+   "tics": 26297,
+   "min": 18.26,
+   "golpes_min": 0.8761455679355059,
+   "dano_min": 6.483477202722744,
+   "r4_tic": 1.382933414457923,
+   "persiguen_tic": 0.21922652774080695
+  },
+  "sin camuflaje | fuera · sin rival≤8": {
+   "tics": 10414,
+   "min": 7.23,
+   "golpes_min": 0.0,
+   "dano_min": 0.0,
+   "r4_tic": 0.0,
+   "persiguen_tic": 0.0
+  },
+  "sin camuflaje | fase 4 · fuera · sin rival≤8": {
+   "tics": 6005,
+   "min": 4.17,
+   "golpes_min": 0.0,
+   "dano_min": 0.0,
+   "r4_tic": 0.0,
+   "persiguen_tic": 0.0
+  },
+  "puesto | dentro · rival≤8": {
+   "tics": 1849241,
+   "min": 1284.2,
+   "golpes_min": 0.7132872351413363,
+   "dano_min": 4.511931111196434,
+   "r4_tic": 1.519265471617815,
+   "persiguen_tic": 0.4378785674771433
+  },
+  "puesto | todas": {
+   "tics": 1873726,
+   "min": 1301.2,
+   "golpes_min": 0.7062718882056394,
+   "dano_min": 4.464268521651514,
+   "r4_tic": 1.5096630990870596,
+   "persiguen_tic": 0.43349401139761096
+  },
+  "puesto | fase 3 · dentro · rival≤8": {
+   "tics": 411313,
+   "min": 285.63,
+   "golpes_min": 0.9697724117642769,
+   "dano_min": 7.422084884260891,
+   "r4_tic": 1.8561144432585404,
+   "persiguen_tic": 0.6965279483021446
+  },
+  "puesto delatado | dentro · rival≤8": {
+   "tics": 56324,
+   "min": 39.11,
+   "golpes_min": 18.995809956679214,
+   "dano_min": 96.12953625452737,
+   "r4_tic": 3.2573148213905263,
+   "persiguen_tic": 1.182107094666572
+  },
+  "puesto delatado | todas": {
+   "tics": 61449,
+   "min": 42.67,
+   "golpes_min": 17.528682321925498,
+   "dano_min": 89.60718644729775,
+   "r4_tic": 3.0504157919575583,
+   "persiguen_tic": 1.0932480593663039
+  },
+  "puesto delatado | fase 3 · dentro · rival≤8": {
+   "tics": 25746,
+   "min": 17.88,
+   "golpes_min": 9.284549056164064,
+   "dano_min": 67.03332556513635,
+   "r4_tic": 3.88852637302882,
+   "persiguen_tic": 1.589800357337062
+  },
+  "puesto delatado | dentro · sin rival≤8": {
+   "tics": 2628,
+   "min": 1.82,
+   "golpes_min": 0.0,
+   "dano_min": 0.0,
+   "r4_tic": 0.0,
+   "persiguen_tic": 0.0
+  },
+  "puesto delatado | fase 3 · dentro · sin rival≤8": {
+   "tics": 1749,
+   "min": 1.21,
+   "golpes_min": 0.0,
+   "dano_min": 0.0,
+   "r4_tic": 0.0,
+   "persiguen_tic": 0.0
+  },
+  "puesto | dentro · sin rival≤8": {
+   "tics": 11066,
+   "min": 7.68,
+   "golpes_min": 0.0,
+   "dano_min": 0.0,
+   "r4_tic": 0.0,
+   "persiguen_tic": 0.0
+  },
+  "puesto | fase 3 · dentro · sin rival≤8": {
+   "tics": 1630,
+   "min": 1.13,
+   "golpes_min": 0.0,
+   "dano_min": 0.0,
+   "r4_tic": 0.0,
+   "persiguen_tic": 0.0
+  },
+  "puesto | fase 4 · dentro · rival≤8": {
+   "tics": 307178,
+   "min": 213.32,
+   "golpes_min": 2.672066358918933,
+   "dano_min": 13.628475997630034,
+   "r4_tic": 2.787930776292573,
+   "persiguen_tic": 0.6946233128674579
+  },
+  "puesto delatado | fase 4 · dentro · rival≤8": {
+   "tics": 26337,
+   "min": 18.29,
+   "golpes_min": 30.345141815696547,
+   "dano_min": 125.699965827543,
+   "r4_tic": 2.9634734404070318,
+   "persiguen_tic": 0.8865474427611345
+  },
+  "puesto delatado | fase 4 · dentro · sin rival≤8": {
+   "tics": 879,
+   "min": 0.61,
+   "golpes_min": 0.0,
+   "dano_min": 0.0,
+   "r4_tic": 0.0,
+   "persiguen_tic": 0.0
+  },
+  "puesto | fase 4 · dentro · sin rival≤8": {
+   "tics": 2301,
+   "min": 1.6,
+   "golpes_min": 0.0,
+   "dano_min": 0.0,
+   "r4_tic": 0.0,
+   "persiguen_tic": 0.0
+  },
+  "puesto | fuera · rival≤8": {
+   "tics": 11680,
+   "min": 8.11,
+   "golpes_min": 0.3698630136986301,
+   "dano_min": 1.8123287671232875,
+   "r4_tic": 1.6444349315068494,
+   "persiguen_tic": 0.21455479452054796
+  },
+  "puesto | fase 4 · fuera · rival≤8": {
+   "tics": 10321,
+   "min": 7.17,
+   "golpes_min": 0.4185640926266835,
+   "dano_min": 2.0509640538707488,
+   "r4_tic": 1.7579691890320706,
+   "persiguen_tic": 0.2148047669799438
+  },
+  "puesto delatado | fuera · rival≤8": {
+   "tics": 2320,
+   "min": 1.61,
+   "golpes_min": 3.103448275862069,
+   "dano_min": 39.6,
+   "r4_tic": 1.7155172413793103,
+   "persiguen_tic": 0.25775862068965516
+  },
+  "puesto delatado | fase 4 · fuera · rival≤8": {
+   "tics": 2260,
+   "min": 1.57,
+   "golpes_min": 3.185840707964602,
+   "dano_min": 40.65132743362832,
+   "r4_tic": 1.725221238938053,
+   "persiguen_tic": 0.25
+  },
+  "sin camuflaje | fase 1 · dentro · sin rival≤8": {
+   "tics": 24586,
+   "min": 17.07,
+   "golpes_min": 0.0,
+   "dano_min": 0.0,
+   "r4_tic": 0.0,
+   "persiguen_tic": 0.0
+  },
+  "sin camuflaje | fase 3 · fuera · rival≤8": {
+   "tics": 25372,
+   "min": 17.62,
+   "golpes_min": 0.0,
+   "dano_min": 0.0,
+   "r4_tic": 0.6228519627936308,
+   "persiguen_tic": 0.21582847233170424
+  },
+  "sin camuflaje | fase 3 · dentro · sin rival≤8": {
+   "tics": 15123,
+   "min": 10.5,
+   "golpes_min": 0.0,
+   "dano_min": 0.0,
+   "r4_tic": 0.0,
+   "persiguen_tic": 0.0
+  },
+  "sin camuflaje | fase 3 · fuera · sin rival≤8": {
+   "tics": 4409,
+   "min": 3.06,
+   "golpes_min": 0.0,
+   "dano_min": 0.0,
+   "r4_tic": 0.0,
+   "persiguen_tic": 0.0
+  },
+  "sin camuflaje | fase 4 · dentro · sin rival≤8": {
+   "tics": 11833,
+   "min": 8.22,
+   "golpes_min": 0.0,
+   "dano_min": 0.0,
+   "r4_tic": 0.0,
+   "persiguen_tic": 0.0
+  },
+  "puesto delatado | fuera · sin rival≤8": {
+   "tics": 177,
+   "min": 0.12,
+   "golpes_min": 0.0,
+   "dano_min": 0.0,
+   "r4_tic": 0.0,
+   "persiguen_tic": 0.0
+  },
+  "puesto delatado | fase 4 · fuera · sin rival≤8": {
+   "tics": 171,
+   "min": 0.12,
+   "golpes_min": 0.0,
+   "dano_min": 0.0,
+   "r4_tic": 0.0,
+   "persiguen_tic": 0.0
+  },
+  "puesto | fuera · sin rival≤8": {
+   "tics": 1739,
+   "min": 1.21,
+   "golpes_min": 0.0,
+   "dano_min": 0.0,
+   "r4_tic": 0.0,
+   "persiguen_tic": 0.0
+  },
+  "puesto | fase 4 · fuera · sin rival≤8": {
+   "tics": 1370,
+   "min": 0.95,
+   "golpes_min": 0.0,
+   "dano_min": 0.0,
+   "r4_tic": 0.0,
+   "persiguen_tic": 0.0
+  },
+  "puesto | fase 0 · dentro · rival≤8": {
+   "tics": 282999,
+   "min": 196.53,
+   "golpes_min": 0.2798596461471595,
+   "dano_min": 2.7385538464800225,
+   "r4_tic": 1.0623889130350284,
+   "persiguen_tic": 0.27690557210449507
+  },
+  "puesto | fase 1 · dentro · rival≤8": {
+   "tics": 422483,
+   "min": 293.39,
+   "golpes_min": 0.01704210583621116,
+   "dano_min": 0.2174572704700544,
+   "r4_tic": 1.0680003692456264,
+   "persiguen_tic": 0.2700416348113415
+  },
+  "puesto | fase 2 · dentro · rival≤8": {
+   "tics": 425268,
+   "min": 295.32,
+   "golpes_min": 0.030474900533310756,
+   "dano_min": 0.5587065097773639,
+   "r4_tic": 1.029435555931789,
+   "persiguen_tic": 0.27612470254051563
+  },
+  "sin camuflaje | fase 2 · dentro · sin rival≤8": {
+   "tics": 21364,
+   "min": 14.84,
+   "golpes_min": 0.0,
+   "dano_min": 0.0,
+   "r4_tic": 0.0,
+   "persiguen_tic": 0.0
+  },
+  "puesto | fase 0 · dentro · sin rival≤8": {
+   "tics": 415,
+   "min": 0.29,
+   "golpes_min": 0.0,
+   "dano_min": 0.0,
+   "r4_tic": 0.0,
+   "persiguen_tic": 0.0
+  },
+  "puesto delatado | fase 0 · dentro · rival≤8": {
+   "tics": 3378,
+   "min": 2.35,
+   "golpes_min": 7.673179396092363,
+   "dano_min": 95.95737122557725,
+   "r4_tic": 1.2759029011249259,
+   "persiguen_tic": 0.5535820011841326
+  },
+  "puesto delatado | fase 1 · dentro · rival≤8": {
+   "tics": 614,
+   "min": 0.43,
+   "golpes_min": 4.690553745928339,
+   "dano_min": 25.798045602605864,
+   "r4_tic": 0.996742671009772,
+   "persiguen_tic": 0.4381107491856677
+  },
+  "puesto | fase 1 · dentro · sin rival≤8": {
+   "tics": 2054,
+   "min": 1.43,
+   "golpes_min": 0.0,
+   "dano_min": 0.0,
+   "r4_tic": 0.0,
+   "persiguen_tic": 0.0
+  },
+  "puesto | fase 2 · dentro · sin rival≤8": {
+   "tics": 4666,
+   "min": 3.24,
+   "golpes_min": 0.0,
+   "dano_min": 0.0,
+   "r4_tic": 0.0,
+   "persiguen_tic": 0.0
+  },
+  "puesto | fase 3 · fuera · rival≤8": {
+   "tics": 1359,
+   "min": 0.94,
+   "golpes_min": 0.0,
+   "dano_min": 0.0,
+   "r4_tic": 0.7821927888153054,
+   "persiguen_tic": 0.21265636497424578
+  },
+  "puesto delatado | fase 2 · dentro · rival≤8": {
+   "tics": 249,
+   "min": 0.17,
+   "golpes_min": 11.566265060240962,
+   "dano_min": 152.67469879518072,
+   "r4_tic": 1.5261044176706828,
+   "persiguen_tic": 0.6506024096385542
+  },
+  "puesto | fase 3 · fuera · sin rival≤8": {
+   "tics": 151,
+   "min": 0.1,
+   "golpes_min": 0.0,
+   "dano_min": 0.0,
+   "r4_tic": 0.0,
+   "persiguen_tic": 0.0
+  },
+  "puesto | fase 2 · fuera · sin rival≤8": {
+   "tics": 218,
+   "min": 0.15,
+   "golpes_min": 0.0,
+   "dano_min": 0.0,
+   "r4_tic": 0.0,
+   "persiguen_tic": 0.0
+  },
+  "puesto delatado | fase 3 · fuera · rival≤8": {
+   "tics": 60,
+   "min": 0.04,
+   "golpes_min": 0.0,
+   "dano_min": 0.0,
+   "r4_tic": 1.35,
+   "persiguen_tic": 0.55
+  },
+  "sin camuflaje | fase 2 · fuera · rival≤8": {
+   "tics": 13,
+   "min": 0.01,
+   "golpes_min": 0.0,
+   "dano_min": 0.0,
+   "r4_tic": 0.0,
+   "persiguen_tic": 0.0
+  },
+  "puesto delatado | fase 3 · fuera · sin rival≤8": {
+   "tics": 6,
+   "min": 0.0,
+   "golpes_min": 0.0,
+   "dano_min": 0.0,
+   "r4_tic": 0.0,
+   "persiguen_tic": 0.0
+  }
+ },
+ "por_campo": {
+  "P7-34": {
+   "sin camuflaje | dentro · rival≤8": {
+    "tics": 1940079,
+    "min": 1347.28,
+    "golpes_min": 0.9418997886168553,
+    "dano_min": 7.384078689579134,
+    "r4_tic": 1.4015403496455556,
+    "persiguen_tic": 0.4105935892301293
+   },
+   "sin camuflaje | todas": {
+    "tics": 2044494,
+    "min": 1419.79,
+    "golpes_min": 0.9001347032566493,
+    "dano_min": 7.051336907811907,
+    "r4_tic": 1.3451025045805955,
+    "persiguen_tic": 0.39311047134400984
+   },
+   "sin camuflaje | fase 0 · dentro · rival≤8": {
+    "tics": 433467,
+    "min": 301.02,
+    "golpes_min": 0.5946473433963831,
+    "dano_min": 7.898179100139109,
+    "r4_tic": 0.998975700572362,
+    "persiguen_tic": 0.3356979885435339
+   },
+   "sin camuflaje | dentro · sin rival≤8": {
+    "tics": 66235,
+    "min": 46.0,
+    "golpes_min": 0.0,
+    "dano_min": 0.0,
+    "r4_tic": 0.0,
+    "persiguen_tic": 0.0
+   },
+   "sin camuflaje | fase 0 · dentro · sin rival≤8": {
+    "tics": 19428,
+    "min": 13.49,
+    "golpes_min": 0.0,
+    "dano_min": 0.0,
+    "r4_tic": 0.0,
+    "persiguen_tic": 0.0
+   },
+   "sin camuflaje | fase 1 · dentro · rival≤8": {
+    "tics": 471210,
+    "min": 327.23,
+    "golpes_min": 0.10084675622333991,
+    "dano_min": 1.421939262749093,
+    "r4_tic": 1.0429829587657309,
+    "persiguen_tic": 0.27976061628573246
+   },
+   "sin camuflaje | fase 2 · dentro · rival≤8": {
+    "tics": 467507,
+    "min": 324.66,
+    "golpes_min": 0.1724893958807034,
+    "dano_min": 2.448425371170913,
+    "r4_tic": 1.0334861296194495,
+    "persiguen_tic": 0.27822685007925013
+   },
+   "sin camuflaje | fase 3 · dentro · rival≤8": {
+    "tics": 390703,
+    "min": 271.32,
+    "golpes_min": 1.6364348366918093,
+    "dano_min": 11.903957737718933,
+    "r4_tic": 2.0262194045093076,
+    "persiguen_tic": 0.6696314080004505
+   },
+   "sin camuflaje | fase 4 · dentro · rival≤8": {
+    "tics": 177192,
+    "min": 123.05,
+    "golpes_min": 4.52661519707436,
+    "dano_min": 25.03778951645673,
+    "r4_tic": 2.9335410176531673,
+    "persiguen_tic": 0.7198067632850241
+   },
+   "sin camuflaje | fuera · rival≤8": {
+    "tics": 32633,
+    "min": 22.66,
+    "golpes_min": 0.39714399534213835,
+    "dano_min": 2.780007967394968,
+    "r4_tic": 0.9485796586277694,
+    "persiguen_tic": 0.21842919743817607
+   },
+   "sin camuflaje | fase 4 · fuera · rival≤8": {
+    "tics": 14021,
+    "min": 9.74,
+    "golpes_min": 0.9243277940232508,
+    "dano_min": 6.470294558162756,
+    "r4_tic": 1.4100278154197277,
+    "persiguen_tic": 0.20975679338135653
+   },
+   "sin camuflaje | fuera · sin rival≤8": {
+    "tics": 5547,
+    "min": 3.85,
+    "golpes_min": 0.0,
+    "dano_min": 0.0,
+    "r4_tic": 0.0,
+    "persiguen_tic": 0.0
+   },
+   "sin camuflaje | fase 4 · fuera · sin rival≤8": {
+    "tics": 3908,
+    "min": 2.71,
+    "golpes_min": 0.0,
+    "dano_min": 0.0,
+    "r4_tic": 0.0,
+    "persiguen_tic": 0.0
+   },
+   "puesto | dentro · rival≤8": {
+    "tics": 842095,
+    "min": 584.79,
+    "golpes_min": 0.8071298368948872,
+    "dano_min": 5.172300037406706,
+    "r4_tic": 1.5082621319447331,
+    "persiguen_tic": 0.43729389201930896
+   },
+   "puesto | todas": {
+    "tics": 854329,
+    "min": 593.28,
+    "golpes_min": 0.7955717293923068,
+    "dano_min": 5.0982326480781985,
+    "r4_tic": 1.4977976868396132,
+    "persiguen_tic": 0.43262022007914985
+   },
+   "puesto | fase 3 · dentro · rival≤8": {
+    "tics": 187257,
+    "min": 130.04,
+    "golpes_min": 0.9535558083275925,
+    "dano_min": 6.954805427834472,
+    "r4_tic": 1.8292774101902733,
+    "persiguen_tic": 0.6733526650539099
+   },
+   "puesto delatado | dentro · rival≤8": {
+    "tics": 25001,
+    "min": 17.36,
+    "golpes_min": 18.89204431822727,
+    "dano_min": 93.15275388984439,
+    "r4_tic": 3.2754289828406864,
+    "persiguen_tic": 1.1689132434702612
+   },
+   "puesto delatado | todas": {
+    "tics": 27245,
+    "min": 18.92,
+    "golpes_min": 17.494586162598644,
+    "dano_min": 87.95389979812808,
+    "r4_tic": 3.0528170306478253,
+    "persiguen_tic": 1.0795742338043677
+   },
+   "puesto delatado | fase 3 · dentro · rival≤8": {
+    "tics": 12349,
+    "min": 8.58,
+    "golpes_min": 8.745647420843794,
+    "dano_min": 55.389100332010685,
+    "r4_tic": 3.92274678111588,
+    "persiguen_tic": 1.577536642643129
+   },
+   "puesto delatado | dentro · sin rival≤8": {
+    "tics": 1327,
+    "min": 0.92,
+    "golpes_min": 0.0,
+    "dano_min": 0.0,
+    "r4_tic": 0.0,
+    "persiguen_tic": 0.0
+   },
+   "puesto delatado | fase 3 · dentro · sin rival≤8": {
+    "tics": 869,
+    "min": 0.6,
+    "golpes_min": 0.0,
+    "dano_min": 0.0,
+    "r4_tic": 0.0,
+    "persiguen_tic": 0.0
+   },
+   "puesto | dentro · sin rival≤8": {
+    "tics": 5878,
+    "min": 4.08,
+    "golpes_min": 0.0,
+    "dano_min": 0.0,
+    "r4_tic": 0.0,
+    "persiguen_tic": 0.0
+   },
+   "puesto | fase 3 · dentro · sin rival≤8": {
+    "tics": 802,
+    "min": 0.56,
+    "golpes_min": 0.0,
+    "dano_min": 0.0,
+    "r4_tic": 0.0,
+    "persiguen_tic": 0.0
+   },
+   "puesto | fase 4 · dentro · rival≤8": {
+    "tics": 137430,
+    "min": 95.44,
+    "golpes_min": 3.269155206286837,
+    "dano_min": 17.21440733464309,
+    "r4_tic": 2.7798661136578624,
+    "persiguen_tic": 0.6921923888525068
+   },
+   "puesto delatado | fase 4 · dentro · rival≤8": {
+    "tics": 10814,
+    "min": 7.51,
+    "golpes_min": 31.825411503606436,
+    "dano_min": 134.65211762530055,
+    "r4_tic": 2.880247826891067,
+    "persiguen_tic": 0.8089513593489921
+   },
+   "puesto delatado | fase 4 · dentro · sin rival≤8": {
+    "tics": 458,
+    "min": 0.32,
+    "golpes_min": 0.0,
+    "dano_min": 0.0,
+    "r4_tic": 0.0,
+    "persiguen_tic": 0.0
+   },
+   "puesto | fase 4 · dentro · sin rival≤8": {
+    "tics": 1093,
+    "min": 0.76,
+    "golpes_min": 0.0,
+    "dano_min": 0.0,
+    "r4_tic": 0.0,
+    "persiguen_tic": 0.0
+   },
+   "puesto | fuera · rival≤8": {
+    "tics": 5429,
+    "min": 3.77,
+    "golpes_min": 0.0,
+    "dano_min": 0.0,
+    "r4_tic": 1.7520722048259347,
+    "persiguen_tic": 0.2499539510038681
+   },
+   "puesto | fase 4 · fuera · rival≤8": {
+    "tics": 5060,
+    "min": 3.51,
+    "golpes_min": 0.0,
+    "dano_min": 0.0,
+    "r4_tic": 1.8223320158102767,
+    "persiguen_tic": 0.2367588932806324
+   },
+   "puesto delatado | fuera · rival≤8": {
+    "tics": 801,
+    "min": 0.56,
+    "golpes_min": 5.393258426966292,
+    "dano_min": 84.13483146067415,
+    "r4_tic": 1.6042446941323345,
+    "persiguen_tic": 0.23595505617977527
+   },
+   "puesto delatado | fase 4 · fuera · rival≤8": {
+    "tics": 801,
+    "min": 0.56,
+    "golpes_min": 5.393258426966292,
+    "dano_min": 84.13483146067415,
+    "r4_tic": 1.6042446941323345,
+    "persiguen_tic": 0.23595505617977527
+   },
+   "sin camuflaje | fase 1 · dentro · sin rival≤8": {
+    "tics": 15957,
+    "min": 11.08,
+    "golpes_min": 0.0,
+    "dano_min": 0.0,
+    "r4_tic": 0.0,
+    "persiguen_tic": 0.0
+   },
+   "sin camuflaje | fase 3 · fuera · rival≤8": {
+    "tics": 18612,
+    "min": 12.93,
+    "golpes_min": 0.0,
+    "dano_min": 0.0,
+    "r4_tic": 0.6009563722329679,
+    "persiguen_tic": 0.2249623898560069
+   },
+   "sin camuflaje | fase 3 · dentro · sin rival≤8": {
+    "tics": 9820,
+    "min": 6.82,
+    "golpes_min": 0.0,
+    "dano_min": 0.0,
+    "r4_tic": 0.0,
+    "persiguen_tic": 0.0
+   },
+   "sin camuflaje | fase 3 · fuera · sin rival≤8": {
+    "tics": 1639,
+    "min": 1.14,
+    "golpes_min": 0.0,
+    "dano_min": 0.0,
+    "r4_tic": 0.0,
+    "persiguen_tic": 0.0
+   },
+   "sin camuflaje | fase 4 · dentro · sin rival≤8": {
+    "tics": 8311,
+    "min": 5.77,
+    "golpes_min": 0.0,
+    "dano_min": 0.0,
+    "r4_tic": 0.0,
+    "persiguen_tic": 0.0
+   },
+   "puesto delatado | fuera · sin rival≤8": {
+    "tics": 116,
+    "min": 0.08,
+    "golpes_min": 0.0,
+    "dano_min": 0.0,
+    "r4_tic": 0.0,
+    "persiguen_tic": 0.0
+   },
+   "puesto delatado | fase 4 · fuera · sin rival≤8": {
+    "tics": 116,
+    "min": 0.08,
+    "golpes_min": 0.0,
+    "dano_min": 0.0,
+    "r4_tic": 0.0,
+    "persiguen_tic": 0.0
+   },
+   "puesto | fuera · sin rival≤8": {
+    "tics": 927,
+    "min": 0.64,
+    "golpes_min": 0.0,
+    "dano_min": 0.0,
+    "r4_tic": 0.0,
+    "persiguen_tic": 0.0
+   },
+   "puesto | fase 4 · fuera · sin rival≤8": {
+    "tics": 889,
+    "min": 0.62,
+    "golpes_min": 0.0,
+    "dano_min": 0.0,
+    "r4_tic": 0.0,
+    "persiguen_tic": 0.0
+   },
+   "puesto | fase 0 · dentro · rival≤8": {
+    "tics": 131136,
+    "min": 91.07,
+    "golpes_min": 0.2635431918008785,
+    "dano_min": 3.007686676427525,
+    "r4_tic": 1.0706899707174231,
+    "persiguen_tic": 0.2923911054172767
+   },
+   "puesto | fase 1 · dentro · rival≤8": {
+    "tics": 194077,
+    "min": 134.78,
+    "golpes_min": 0.0222592063974608,
+    "dano_min": 0.28565981543408026,
+    "r4_tic": 1.0783091247288448,
+    "persiguen_tic": 0.2724949375763228
+   },
+   "puesto | fase 2 · dentro · rival≤8": {
+    "tics": 192195,
+    "min": 133.47,
+    "golpes_min": 0.06743151486771248,
+    "dano_min": 1.2362444392413954,
+    "r4_tic": 1.018949504409584,
+    "persiguen_tic": 0.2903145243112464
+   },
+   "sin camuflaje | fase 2 · dentro · sin rival≤8": {
+    "tics": 12719,
+    "min": 8.83,
+    "golpes_min": 0.0,
+    "dano_min": 0.0,
+    "r4_tic": 0.0,
+    "persiguen_tic": 0.0
+   },
+   "puesto | fase 0 · dentro · sin rival≤8": {
+    "tics": 266,
+    "min": 0.18,
+    "golpes_min": 0.0,
+    "dano_min": 0.0,
+    "r4_tic": 0.0,
+    "persiguen_tic": 0.0
+   },
+   "puesto delatado | fase 0 · dentro · rival≤8": {
+    "tics": 1326,
+    "min": 0.92,
+    "golpes_min": 10.85972850678733,
+    "dano_min": 101.75565610859726,
+    "r4_tic": 1.3650075414781297,
+    "persiguen_tic": 0.5754147812971342
+   },
+   "puesto delatado | fase 1 · dentro · rival≤8": {
+    "tics": 393,
+    "min": 0.27,
+    "golpes_min": 7.328244274809161,
+    "dano_min": 40.30534351145038,
+    "r4_tic": 0.8447837150127226,
+    "persiguen_tic": 0.4402035623409669
+   },
+   "puesto | fase 1 · dentro · sin rival≤8": {
+    "tics": 1071,
+    "min": 0.74,
+    "golpes_min": 0.0,
+    "dano_min": 0.0,
+    "r4_tic": 0.0,
+    "persiguen_tic": 0.0
+   },
+   "puesto | fase 2 · dentro · sin rival≤8": {
+    "tics": 2646,
+    "min": 1.84,
+    "golpes_min": 0.0,
+    "dano_min": 0.0,
+    "r4_tic": 0.0,
+    "persiguen_tic": 0.0
+   },
+   "puesto | fase 3 · fuera · rival≤8": {
+    "tics": 369,
+    "min": 0.26,
+    "golpes_min": 0.0,
+    "dano_min": 0.0,
+    "r4_tic": 0.7886178861788617,
+    "persiguen_tic": 0.43089430894308944
+   },
+   "puesto delatado | fase 2 · dentro · rival≤8": {
+    "tics": 119,
+    "min": 0.08,
+    "golpes_min": 24.201680672268907,
+    "dano_min": 319.4621848739496,
+    "r4_tic": 1.3277310924369747,
+    "persiguen_tic": 0.4957983193277311
+   },
+   "puesto | fase 3 · fuera · sin rival≤8": {
+    "tics": 38,
+    "min": 0.03,
+    "golpes_min": 0.0,
+    "dano_min": 0.0,
+    "r4_tic": 0.0,
+    "persiguen_tic": 0.0
+   }
+  },
+  "piloto 1": {
+   "sin camuflaje | dentro · rival≤8": {
+    "tics": 1501123,
+    "min": 1042.45,
+    "golpes_min": 0.899806344983056,
+    "dano_min": 6.078777022269325,
+    "r4_tic": 1.5941971444045557,
+    "persiguen_tic": 0.4730172011220933
+   },
+   "sin camuflaje | todas": {
+    "tics": 1548581,
+    "min": 1075.4,
+    "golpes_min": 0.8759503054732042,
+    "dano_min": 5.91387341056102,
+    "r4_tic": 1.5562544032246295,
+    "persiguen_tic": 0.46062040022446354
+   },
+   "sin camuflaje | fase 0 · dentro · rival≤8": {
+    "tics": 333543,
+    "min": 231.63,
+    "golpes_min": 0.3669691763880519,
+    "dano_min": 3.5781653340049115,
+    "r4_tic": 1.0518553829641155,
+    "persiguen_tic": 0.3432780780888821
+   },
+   "sin camuflaje | fase 1 · dentro · rival≤8": {
+    "tics": 351878,
+    "min": 244.36,
+    "golpes_min": 0.14732378835846516,
+    "dano_min": 1.5608136911088502,
+    "r4_tic": 1.0940155394767506,
+    "persiguen_tic": 0.322870426681975
+   },
+   "sin camuflaje | fase 2 · dentro · rival≤8": {
+    "tics": 336483,
+    "min": 233.67,
+    "golpes_min": 0.12838687244229277,
+    "dano_min": 1.2748816433519672,
+    "r4_tic": 1.125304993120009,
+    "persiguen_tic": 0.327737211092388
+   },
+   "sin camuflaje | fase 3 · dentro · rival≤8": {
+    "tics": 302781,
+    "min": 210.26,
+    "golpes_min": 1.6788371793474492,
+    "dano_min": 12.241719262437197,
+    "r4_tic": 2.3800865972435523,
+    "persiguen_tic": 0.7796658310792289
+   },
+   "sin camuflaje | dentro · sin rival≤8": {
+    "tics": 27379,
+    "min": 19.01,
+    "golpes_min": 0.0,
+    "dano_min": 0.0,
+    "r4_tic": 0.0,
+    "persiguen_tic": 0.0
+   },
+   "sin camuflaje | fase 3 · dentro · sin rival≤8": {
+    "tics": 4886,
+    "min": 3.39,
+    "golpes_min": 0.0,
+    "dano_min": 0.0,
+    "r4_tic": 0.0,
+    "persiguen_tic": 0.0
+   },
+   "sin camuflaje | fase 4 · dentro · rival≤8": {
+    "tics": 176438,
+    "min": 122.53,
+    "golpes_min": 3.542094106711706,
+    "dano_min": 18.401750189868395,
+    "r4_tic": 3.16256135299652,
+    "persiguen_tic": 0.7685532595019213
+   },
+   "sin camuflaje | fase 4 · dentro · sin rival≤8": {
+    "tics": 3485,
+    "min": 2.42,
+    "golpes_min": 0.0,
+    "dano_min": 0.0,
+    "r4_tic": 0.0,
+    "persiguen_tic": 0.0
+   },
+   "sin camuflaje | fuera · rival≤8": {
+    "tics": 15534,
+    "min": 10.79,
+    "golpes_min": 0.3707995365005794,
+    "dano_min": 2.132097334878331,
+    "r4_tic": 1.0879361400798249,
+    "persiguen_tic": 0.20928286339642074
+   },
+   "sin camuflaje | fase 4 · fuera · rival≤8": {
+    "tics": 9594,
+    "min": 6.66,
+    "golpes_min": 0.600375234521576,
+    "dano_min": 3.452157598499062,
+    "r4_tic": 1.343652282676673,
+    "persiguen_tic": 0.21992912236814677
+   },
+   "puesto | dentro · rival≤8": {
+    "tics": 903343,
+    "min": 627.32,
+    "golpes_min": 0.6487901051981363,
+    "dano_min": 4.104274898903295,
+    "r4_tic": 1.5434513800405827,
+    "persiguen_tic": 0.44654688197063575
+   },
+   "puesto | todas": {
+    "tics": 914055,
+    "min": 634.76,
+    "golpes_min": 0.6459129921066019,
+    "dano_min": 4.079334394538621,
+    "r4_tic": 1.5338289271433339,
+    "persiguen_tic": 0.4423016120474151
+   },
+   "puesto | fase 0 · dentro · rival≤8": {
+    "tics": 135611,
+    "min": 94.17,
+    "golpes_min": 0.31855822905221554,
+    "dano_min": 2.6918170354912214,
+    "r4_tic": 1.0311847858949494,
+    "persiguen_tic": 0.26550943507532576
+   },
+   "puesto | fase 1 · dentro · rival≤8": {
+    "tics": 204406,
+    "min": 141.95,
+    "golpes_min": 0.0070448029901274915,
+    "dano_min": 0.13948709920452435,
+    "r4_tic": 1.0585697093040323,
+    "persiguen_tic": 0.2771983209886207
+   },
+   "puesto | fase 2 · dentro · rival≤8": {
+    "tics": 209073,
+    "min": 145.19,
+    "golpes_min": 0.0,
+    "dano_min": 0.0,
+    "r4_tic": 1.048925494922826,
+    "persiguen_tic": 0.27643932980346575
+   },
+   "puesto | fase 3 · dentro · rival≤8": {
+    "tics": 201066,
+    "min": 139.63,
+    "golpes_min": 1.0241413267285369,
+    "dano_min": 8.231804482110354,
+    "r4_tic": 1.9147145713347855,
+    "persiguen_tic": 0.7304616394616693
+   },
+   "puesto delatado | dentro · rival≤8": {
+    "tics": 28956,
+    "min": 20.11,
+    "golpes_min": 19.295482801491918,
+    "dano_min": 95.59220886862823,
+    "r4_tic": 3.2798729106230144,
+    "persiguen_tic": 1.2065202376018787
+   },
+   "puesto delatado | todas": {
+    "tics": 31648,
+    "min": 21.98,
+    "golpes_min": 17.745197168857434,
+    "dano_min": 88.23458038422648,
+    "r4_tic": 3.0762765419615774,
+    "persiguen_tic": 1.11612108190091
+   },
+   "puesto delatado | fase 3 · dentro · rival≤8": {
+    "tics": 12493,
+    "min": 8.68,
+    "golpes_min": 9.451692948050908,
+    "dano_min": 73.48114944368845,
+    "r4_tic": 3.8580004802689505,
+    "persiguen_tic": 1.6020171295925718
+   },
+   "puesto delatado | dentro · sin rival≤8": {
+    "tics": 1290,
+    "min": 0.9,
+    "golpes_min": 0.0,
+    "dano_min": 0.0,
+    "r4_tic": 0.0,
+    "persiguen_tic": 0.0
+   },
+   "puesto delatado | fase 3 · dentro · sin rival≤8": {
+    "tics": 869,
+    "min": 0.6,
+    "golpes_min": 0.0,
+    "dano_min": 0.0,
+    "r4_tic": 0.0,
+    "persiguen_tic": 0.0
+   },
+   "puesto | fase 4 · dentro · rival≤8": {
+    "tics": 153187,
+    "min": 106.38,
+    "golpes_min": 2.1902641869088106,
+    "dano_min": 10.829117353300214,
+    "r4_tic": 2.831584925613792,
+    "persiguen_tic": 0.692297649278333
+   },
+   "puesto delatado | fase 4 · dentro · rival≤8": {
+    "tics": 14298,
+    "min": 9.93,
+    "golpes_min": 30.01258917331095,
+    "dano_min": 116.15274863617292,
+    "r4_tic": 3.081689746817737,
+    "persiguen_tic": 0.9574066302979438
+   },
+   "sin camuflaje | fuera · sin rival≤8": {
+    "tics": 4545,
+    "min": 3.16,
+    "golpes_min": 0.0,
+    "dano_min": 0.0,
+    "r4_tic": 0.0,
+    "persiguen_tic": 0.0
+   },
+   "sin camuflaje | fase 4 · fuera · sin rival≤8": {
+    "tics": 1943,
+    "min": 1.35,
+    "golpes_min": 0.0,
+    "dano_min": 0.0,
+    "r4_tic": 0.0,
+    "persiguen_tic": 0.0
+   },
+   "puesto | dentro · sin rival≤8": {
+    "tics": 5059,
+    "min": 3.51,
+    "golpes_min": 0.0,
+    "dano_min": 0.0,
+    "r4_tic": 0.0,
+    "persiguen_tic": 0.0
+   },
+   "puesto | fase 3 · dentro · sin rival≤8": {
+    "tics": 744,
+    "min": 0.52,
+    "golpes_min": 0.0,
+    "dano_min": 0.0,
+    "r4_tic": 0.0,
+    "persiguen_tic": 0.0
+   },
+   "puesto | fase 4 · dentro · sin rival≤8": {
+    "tics": 1174,
+    "min": 0.82,
+    "golpes_min": 0.0,
+    "dano_min": 0.0,
+    "r4_tic": 0.0,
+    "persiguen_tic": 0.0
+   },
+   "puesto delatado | fase 4 · dentro · sin rival≤8": {
+    "tics": 421,
+    "min": 0.29,
+    "golpes_min": 0.0,
+    "dano_min": 0.0,
+    "r4_tic": 0.0,
+    "persiguen_tic": 0.0
+   },
+   "puesto | fuera · rival≤8": {
+    "tics": 4934,
+    "min": 3.43,
+    "golpes_min": 0.8755573571139036,
+    "dano_min": 4.290231049858127,
+    "r4_tic": 1.5683015808674503,
+    "persiguen_tic": 0.18301580867450346
+   },
+   "puesto | fase 4 · fuera · rival≤8": {
+    "tics": 3944,
+    "min": 2.74,
+    "golpes_min": 1.0953346855983772,
+    "dano_min": 5.367139959432048,
+    "r4_tic": 1.7662271805273835,
+    "persiguen_tic": 0.19599391480730224
+   },
+   "puesto delatado | fuera · rival≤8": {
+    "tics": 1353,
+    "min": 0.94,
+    "golpes_min": 2.12860310421286,
+    "dano_min": 18.093126385809313,
+    "r4_tic": 1.7634885439763488,
+    "persiguen_tic": 0.2860310421286031
+   },
+   "puesto delatado | fase 4 · fuera · rival≤8": {
+    "tics": 1298,
+    "min": 0.9,
+    "golpes_min": 2.218798151001541,
+    "dano_min": 18.859784283513097,
+    "r4_tic": 1.775808936825886,
+    "persiguen_tic": 0.2727272727272727
+   },
+   "sin camuflaje | fase 0 · dentro · sin rival≤8": {
+    "tics": 6881,
+    "min": 4.78,
+    "golpes_min": 0.0,
+    "dano_min": 0.0,
+    "r4_tic": 0.0,
+    "persiguen_tic": 0.0
+   },
+   "sin camuflaje | fase 2 · dentro · sin rival≤8": {
+    "tics": 6498,
+    "min": 4.51,
+    "golpes_min": 0.0,
+    "dano_min": 0.0,
+    "r4_tic": 0.0,
+    "persiguen_tic": 0.0
+   },
+   "puesto | fase 2 · dentro · sin rival≤8": {
+    "tics": 2020,
+    "min": 1.4,
+    "golpes_min": 0.0,
+    "dano_min": 0.0,
+    "r4_tic": 0.0,
+    "persiguen_tic": 0.0
+   },
+   "puesto | fuera · sin rival≤8": {
+    "tics": 719,
+    "min": 0.5,
+    "golpes_min": 0.0,
+    "dano_min": 0.0,
+    "r4_tic": 0.0,
+    "persiguen_tic": 0.0
+   },
+   "puesto | fase 2 · fuera · sin rival≤8": {
+    "tics": 218,
+    "min": 0.15,
+    "golpes_min": 0.0,
+    "dano_min": 0.0,
+    "r4_tic": 0.0,
+    "persiguen_tic": 0.0
+   },
+   "puesto delatado | fase 3 · fuera · rival≤8": {
+    "tics": 55,
+    "min": 0.04,
+    "golpes_min": 0.0,
+    "dano_min": 0.0,
+    "r4_tic": 1.4727272727272727,
+    "persiguen_tic": 0.6
+   },
+   "sin camuflaje | fase 2 · fuera · rival≤8": {
+    "tics": 13,
+    "min": 0.01,
+    "golpes_min": 0.0,
+    "dano_min": 0.0,
+    "r4_tic": 0.0,
+    "persiguen_tic": 0.0
+   },
+   "sin camuflaje | fase 3 · fuera · rival≤8": {
+    "tics": 5927,
+    "min": 4.12,
+    "golpes_min": 0.0,
+    "dano_min": 0.0,
+    "r4_tic": 0.676396153197233,
+    "persiguen_tic": 0.19250885776952928
+   },
+   "sin camuflaje | fase 3 · fuera · sin rival≤8": {
+    "tics": 2602,
+    "min": 1.81,
+    "golpes_min": 0.0,
+    "dano_min": 0.0,
+    "r4_tic": 0.0,
+    "persiguen_tic": 0.0
+   },
+   "puesto | fase 4 · fuera · sin rival≤8": {
+    "tics": 388,
+    "min": 0.27,
+    "golpes_min": 0.0,
+    "dano_min": 0.0,
+    "r4_tic": 0.0,
+    "persiguen_tic": 0.0
+   },
+   "puesto delatado | fuera · sin rival≤8": {
+    "tics": 49,
+    "min": 0.03,
+    "golpes_min": 0.0,
+    "dano_min": 0.0,
+    "r4_tic": 0.0,
+    "persiguen_tic": 0.0
+   },
+   "puesto delatado | fase 4 · fuera · sin rival≤8": {
+    "tics": 49,
+    "min": 0.03,
+    "golpes_min": 0.0,
+    "dano_min": 0.0,
+    "r4_tic": 0.0,
+    "persiguen_tic": 0.0
+   },
+   "sin camuflaje | fase 1 · dentro · sin rival≤8": {
+    "tics": 5629,
+    "min": 3.91,
+    "golpes_min": 0.0,
+    "dano_min": 0.0,
+    "r4_tic": 0.0,
+    "persiguen_tic": 0.0
+   },
+   "puesto | fase 0 · dentro · sin rival≤8": {
+    "tics": 138,
+    "min": 0.1,
+    "golpes_min": 0.0,
+    "dano_min": 0.0,
+    "r4_tic": 0.0,
+    "persiguen_tic": 0.0
+   },
+   "puesto delatado | fase 0 · dentro · rival≤8": {
+    "tics": 1814,
+    "min": 1.26,
+    "golpes_min": 6.350606394707828,
+    "dano_min": 104.30871003307608,
+    "r4_tic": 1.2183020948180816,
+    "persiguen_tic": 0.5700110253583242
+   },
+   "puesto delatado | fase 1 · dentro · rival≤8": {
+    "tics": 221,
+    "min": 0.15,
+    "golpes_min": 0.0,
+    "dano_min": 0.0,
+    "r4_tic": 1.2669683257918551,
+    "persiguen_tic": 0.4343891402714932
+   },
+   "puesto | fase 1 · dentro · sin rival≤8": {
+    "tics": 983,
+    "min": 0.68,
+    "golpes_min": 0.0,
+    "dano_min": 0.0,
+    "r4_tic": 0.0,
+    "persiguen_tic": 0.0
+   },
+   "puesto | fase 3 · fuera · rival≤8": {
+    "tics": 990,
+    "min": 0.69,
+    "golpes_min": 0.0,
+    "dano_min": 0.0,
+    "r4_tic": 0.7797979797979798,
+    "persiguen_tic": 0.13131313131313133
+   },
+   "puesto delatado | fase 2 · dentro · rival≤8": {
+    "tics": 130,
+    "min": 0.09,
+    "golpes_min": 0.0,
+    "dano_min": 0.0,
+    "r4_tic": 1.7076923076923076,
+    "persiguen_tic": 0.7923076923076923
+   },
+   "puesto | fase 3 · fuera · sin rival≤8": {
+    "tics": 113,
+    "min": 0.08,
+    "golpes_min": 0.0,
+    "dano_min": 0.0,
+    "r4_tic": 0.0,
+    "persiguen_tic": 0.0
+   }
+  },
+  "piloto 2": {
+   "sin camuflaje | dentro · rival≤8": {
+    "tics": 205778,
+    "min": 142.9,
+    "golpes_min": 0.7977529181933928,
+    "dano_min": 5.192391800872786,
+    "r4_tic": 1.6342709133143485,
+    "persiguen_tic": 0.4273051540981057
+   },
+   "sin camuflaje | todas": {
+    "tics": 216290,
+    "min": 150.2,
+    "golpes_min": 0.7789541818854316,
+    "dano_min": 5.155744602154515,
+    "r4_tic": 1.5747931018539922,
+    "persiguen_tic": 0.4105229090572842
+   },
+   "sin camuflaje | fase 0 · dentro · rival≤8": {
+    "tics": 42881,
+    "min": 29.78,
+    "golpes_min": 0.16790653203050301,
+    "dano_min": 0.9234859261677667,
+    "r4_tic": 1.1429537557426366,
+    "persiguen_tic": 0.3108369674214687
+   },
+   "sin camuflaje | fase 1 · dentro · rival≤8": {
+    "tics": 45000,
+    "min": 31.25,
+    "golpes_min": 0.224,
+    "dano_min": 1.232,
+    "r4_tic": 1.3103555555555555,
+    "persiguen_tic": 0.21806666666666666
+   },
+   "sin camuflaje | fase 2 · dentro · rival≤8": {
+    "tics": 45853,
+    "min": 31.84,
+    "golpes_min": 0.0,
+    "dano_min": 0.0,
+    "r4_tic": 1.2219920179704709,
+    "persiguen_tic": 0.2123525178287135
+   },
+   "sin camuflaje | fase 3 · dentro · rival≤8": {
+    "tics": 45328,
+    "min": 31.48,
+    "golpes_min": 1.4613483939286975,
+    "dano_min": 10.06106600776562,
+    "r4_tic": 2.0683021531944936,
+    "persiguen_tic": 0.7656194846452524
+   },
+   "sin camuflaje | fase 4 · dentro · rival≤8": {
+    "tics": 26716,
+    "min": 18.55,
+    "golpes_min": 3.018415930528522,
+    "dano_min": 19.36637221140889,
+    "r4_tic": 2.939661625991915,
+    "persiguen_tic": 0.7616035334630933
+   },
+   "sin camuflaje | fuera · rival≤8": {
+    "tics": 3515,
+    "min": 2.44,
+    "golpes_min": 1.229018492176387,
+    "dano_min": 13.273399715504981,
+    "r4_tic": 1.2275960170697013,
+    "persiguen_tic": 0.24523470839260314
+   },
+   "sin camuflaje | fase 4 · fuera · rival≤8": {
+    "tics": 2682,
+    "min": 1.86,
+    "golpes_min": 1.610738255033557,
+    "dano_min": 17.39597315436242,
+    "r4_tic": 1.3818046234153616,
+    "persiguen_tic": 0.2662192393736018
+   },
+   "puesto | dentro · rival≤8": {
+    "tics": 103803,
+    "min": 72.09,
+    "golpes_min": 0.5132799630068495,
+    "dano_min": 2.702349643073899,
+    "r4_tic": 1.39805207941967,
+    "persiguen_tic": 0.3671859194820959
+   },
+   "puesto | todas": {
+    "tics": 105342,
+    "min": 73.15,
+    "golpes_min": 0.5057811699037421,
+    "dano_min": 2.6628695107364577,
+    "r4_tic": 1.3962047426477568,
+    "persiguen_tic": 0.364156746596799
+   },
+   "puesto | fase 0 · dentro · rival≤8": {
+    "tics": 16252,
+    "min": 11.29,
+    "golpes_min": 0.08860447944868323,
+    "dano_min": 0.956928378045779,
+    "r4_tic": 1.2557839035195668,
+    "persiguen_tic": 0.24704651735171057
+   },
+   "puesto delatado | dentro · rival≤8": {
+    "tics": 2367,
+    "min": 1.64,
+    "golpes_min": 16.425855513307987,
+    "dano_min": 134.14448669201522,
+    "r4_tic": 2.7900295732995355,
+    "persiguen_tic": 1.0228136882129277
+   },
+   "puesto delatado | todas": {
+    "tics": 2556,
+    "min": 1.77,
+    "golpes_min": 15.211267605633802,
+    "dano_min": 124.22535211267605,
+    "r4_tic": 2.7046165884194053,
+    "persiguen_tic": 0.9557902973395931
+   },
+   "puesto delatado | fase 0 · dentro · rival≤8": {
+    "tics": 238,
+    "min": 0.17,
+    "golpes_min": 0.0,
+    "dano_min": 0.0,
+    "r4_tic": 1.218487394957983,
+    "persiguen_tic": 0.3067226890756303
+   },
+   "puesto | fase 1 · dentro · rival≤8": {
+    "tics": 24000,
+    "min": 16.67,
+    "golpes_min": 0.06,
+    "dano_min": 0.33,
+    "r4_tic": 1.0649583333333332,
+    "persiguen_tic": 0.18925
+   },
+   "puesto | fase 2 · dentro · rival≤8": {
+    "tics": 24000,
+    "min": 16.67,
+    "golpes_min": 0.0,
+    "dano_min": 0.0,
+    "r4_tic": 0.943625,
+    "persiguen_tic": 0.15975
+   },
+   "puesto | fase 3 · dentro · rival≤8": {
+    "tics": 22990,
+    "min": 15.97,
+    "golpes_min": 0.626359286646368,
+    "dano_min": 4.146498477598956,
+    "r4_tic": 1.562200956937799,
+    "persiguen_tic": 0.5885167464114832
+   },
+   "puesto delatado | fase 3 · dentro · rival≤8": {
+    "tics": 904,
+    "min": 0.63,
+    "golpes_min": 14.336283185840708,
+    "dano_min": 136.99115044247787,
+    "r4_tic": 3.8429203539823007,
+    "persiguen_tic": 1.5884955752212389
+   },
+   "puesto delatado | fase 4 · dentro · rival≤8": {
+    "tics": 1225,
+    "min": 0.85,
+    "golpes_min": 21.159183673469386,
+    "dano_min": 158.1061224489796,
+    "r4_tic": 2.3183673469387753,
+    "persiguen_tic": 0.7444897959183674
+   },
+   "puesto | fase 4 · dentro · rival≤8": {
+    "tics": 16561,
+    "min": 11.5,
+    "golpes_min": 2.173781776462774,
+    "dano_min": 9.764627739870782,
+    "r4_tic": 2.4510597186160257,
+    "persiguen_tic": 0.7363081939496408
+   },
+   "puesto | fuera · rival≤8": {
+    "tics": 1317,
+    "min": 0.91,
+    "golpes_min": 0.0,
+    "dano_min": 0.0,
+    "r4_tic": 1.4859529233105544,
+    "persiguen_tic": 0.1867881548974943
+   },
+   "puesto | fase 4 · fuera · rival≤8": {
+    "tics": 1317,
+    "min": 0.91,
+    "golpes_min": 0.0,
+    "dano_min": 0.0,
+    "r4_tic": 1.4859529233105544,
+    "persiguen_tic": 0.1867881548974943
+   },
+   "puesto delatado | fuera · rival≤8": {
+    "tics": 166,
+    "min": 0.12,
+    "golpes_min": 0.0,
+    "dano_min": 0.0,
+    "r4_tic": 1.8614457831325302,
+    "persiguen_tic": 0.13253012048192772
+   },
+   "puesto delatado | fase 4 · fuera · rival≤8": {
+    "tics": 161,
+    "min": 0.11,
+    "golpes_min": 0.0,
+    "dano_min": 0.0,
+    "r4_tic": 1.9192546583850931,
+    "persiguen_tic": 0.13664596273291926
+   },
+   "sin camuflaje | dentro · sin rival≤8": {
+    "tics": 6675,
+    "min": 4.64,
+    "golpes_min": 0.0,
+    "dano_min": 0.0,
+    "r4_tic": 0.0,
+    "persiguen_tic": 0.0
+   },
+   "sin camuflaje | fase 0 · dentro · sin rival≤8": {
+    "tics": 1074,
+    "min": 0.75,
+    "golpes_min": 0.0,
+    "dano_min": 0.0,
+    "r4_tic": 0.0,
+    "persiguen_tic": 0.0
+   },
+   "puesto | dentro · sin rival≤8": {
+    "tics": 129,
+    "min": 0.09,
+    "golpes_min": 0.0,
+    "dano_min": 0.0,
+    "r4_tic": 0.0,
+    "persiguen_tic": 0.0
+   },
+   "puesto | fase 0 · dentro · sin rival≤8": {
+    "tics": 11,
+    "min": 0.01,
+    "golpes_min": 0.0,
+    "dano_min": 0.0,
+    "r4_tic": 0.0,
+    "persiguen_tic": 0.0
+   },
+   "puesto | fase 3 · dentro · sin rival≤8": {
+    "tics": 84,
+    "min": 0.06,
+    "golpes_min": 0.0,
+    "dano_min": 0.0,
+    "r4_tic": 0.0,
+    "persiguen_tic": 0.0
+   },
+   "sin camuflaje | fase 3 · dentro · sin rival≤8": {
+    "tics": 417,
+    "min": 0.29,
+    "golpes_min": 0.0,
+    "dano_min": 0.0,
+    "r4_tic": 0.0,
+    "persiguen_tic": 0.0
+   },
+   "sin camuflaje | fase 4 · dentro · sin rival≤8": {
+    "tics": 37,
+    "min": 0.03,
+    "golpes_min": 0.0,
+    "dano_min": 0.0,
+    "r4_tic": 0.0,
+    "persiguen_tic": 0.0
+   },
+   "sin camuflaje | fase 3 · fuera · rival≤8": {
+    "tics": 833,
+    "min": 0.58,
+    "golpes_min": 0.0,
+    "dano_min": 0.0,
+    "r4_tic": 0.7310924369747899,
+    "persiguen_tic": 0.17767106842737096
+   },
+   "sin camuflaje | fuera · sin rival≤8": {
+    "tics": 322,
+    "min": 0.22,
+    "golpes_min": 0.0,
+    "dano_min": 0.0,
+    "r4_tic": 0.0,
+    "persiguen_tic": 0.0
+   },
+   "sin camuflaje | fase 3 · fuera · sin rival≤8": {
+    "tics": 168,
+    "min": 0.12,
+    "golpes_min": 0.0,
+    "dano_min": 0.0,
+    "r4_tic": 0.0,
+    "persiguen_tic": 0.0
+   },
+   "sin camuflaje | fase 4 · fuera · sin rival≤8": {
+    "tics": 154,
+    "min": 0.11,
+    "golpes_min": 0.0,
+    "dano_min": 0.0,
+    "r4_tic": 0.0,
+    "persiguen_tic": 0.0
+   },
+   "puesto | fase 4 · dentro · sin rival≤8": {
+    "tics": 34,
+    "min": 0.02,
+    "golpes_min": 0.0,
+    "dano_min": 0.0,
+    "r4_tic": 0.0,
+    "persiguen_tic": 0.0
+   },
+   "puesto | fuera · sin rival≤8": {
+    "tics": 93,
+    "min": 0.06,
+    "golpes_min": 0.0,
+    "dano_min": 0.0,
+    "r4_tic": 0.0,
+    "persiguen_tic": 0.0
+   },
+   "puesto | fase 4 · fuera · sin rival≤8": {
+    "tics": 93,
+    "min": 0.06,
+    "golpes_min": 0.0,
+    "dano_min": 0.0,
+    "r4_tic": 0.0,
+    "persiguen_tic": 0.0
+   },
+   "puesto delatado | fase 3 · fuera · rival≤8": {
+    "tics": 5,
+    "min": 0.0,
+    "golpes_min": 0.0,
+    "dano_min": 0.0,
+    "r4_tic": 0.0,
+    "persiguen_tic": 0.0
+   },
+   "puesto delatado | fuera · sin rival≤8": {
+    "tics": 12,
+    "min": 0.01,
+    "golpes_min": 0.0,
+    "dano_min": 0.0,
+    "r4_tic": 0.0,
+    "persiguen_tic": 0.0
+   },
+   "puesto delatado | fase 3 · fuera · sin rival≤8": {
+    "tics": 6,
+    "min": 0.0,
+    "golpes_min": 0.0,
+    "dano_min": 0.0,
+    "r4_tic": 0.0,
+    "persiguen_tic": 0.0
+   },
+   "puesto delatado | dentro · sin rival≤8": {
+    "tics": 11,
+    "min": 0.01,
+    "golpes_min": 0.0,
+    "dano_min": 0.0,
+    "r4_tic": 0.0,
+    "persiguen_tic": 0.0
+   },
+   "puesto delatado | fase 3 · dentro · sin rival≤8": {
+    "tics": 11,
+    "min": 0.01,
+    "golpes_min": 0.0,
+    "dano_min": 0.0,
+    "r4_tic": 0.0,
+    "persiguen_tic": 0.0
+   },
+   "puesto delatado | fase 4 · fuera · sin rival≤8": {
+    "tics": 6,
+    "min": 0.0,
+    "golpes_min": 0.0,
+    "dano_min": 0.0,
+    "r4_tic": 0.0,
+    "persiguen_tic": 0.0
+   },
+   "sin camuflaje | fase 1 · dentro · sin rival≤8": {
+    "tics": 3000,
+    "min": 2.08,
+    "golpes_min": 0.0,
+    "dano_min": 0.0,
+    "r4_tic": 0.0,
+    "persiguen_tic": 0.0
+   },
+   "sin camuflaje | fase 2 · dentro · sin rival≤8": {
+    "tics": 2147,
+    "min": 1.49,
+    "golpes_min": 0.0,
+    "dano_min": 0.0,
+    "r4_tic": 0.0,
+    "persiguen_tic": 0.0
+   }
+  }
+ },
+ "misma_criatura": {
+  "todas": {
+   "n_vidas": 87,
+   "golpes_min": {
+    "media": 0.8732,
+    "ee": 0.2778
+   },
+   "dano_min": {
+    "media": 4.621,
+    "ee": 2.7429
+   },
+   "r4": {
+    "media": 0.5961,
+    "ee": 0.0634
+   },
+   "persiguen": {
+    "media": 0.1366,
+    "ee": 0.0291
+   }
+  },
+  "dentro · rival≤8": {
+   "n_vidas": 85,
+   "golpes_min": {
+    "media": 0.8218,
+    "ee": 0.2774
+   },
+   "dano_min": {
+    "media": 3.7157,
+    "ee": 2.7782
+   },
+   "r4": {
+    "media": 0.5833,
+    "ee": 0.0632
+   },
+   "persiguen": {
+    "media": 0.1325,
+    "ee": 0.0297
+   }
+  },
+  "fase 3 · dentro · rival≤8": {
+   "n_vidas": 6,
+   "golpes_min": {
+    "media": -2.9112,
+    "ee": 2.7318
+   },
+   "dano_min": {
+    "media": -12.3007,
+    "ee": 11.7299
+   },
+   "r4": {
+    "media": -0.2959,
+    "ee": 0.4849
+   },
+   "persiguen": {
+    "media": -0.1422,
+    "ee": 0.3156
+   }
+  },
+  "fase 0 · dentro · rival≤8": {
+   "n_vidas": 66,
+   "golpes_min": {
+    "media": 0.1039,
+    "ee": 0.2336
+   },
+   "dano_min": {
+    "media": 1.0317,
+    "ee": 3.2553
+   },
+   "r4": {
+    "media": 0.14,
+    "ee": 0.0402
+   },
+   "persiguen": {
+    "media": 0.0013,
+    "ee": 0.0343
+   }
+  },
+  "fase 2 · dentro · rival≤8": {
+   "n_vidas": 3,
+   "golpes_min": {
+    "media": -0.2174,
+    "ee": 0.2174
+   },
+   "dano_min": {
+    "media": -2.8696,
+    "ee": 2.8696
+   },
+   "r4": {
+    "media": -0.2484,
+    "ee": 0.1298
+   },
+   "persiguen": {
+    "media": 0.0438,
+    "ee": 0.0943
+   }
+  },
+  "fase 1 · dentro · rival≤8": {
+   "n_vidas": 4,
+   "golpes_min": {
+    "media": 0.0,
+    "ee": 0.0
+   },
+   "dano_min": {
+    "media": 0.0,
+    "ee": 0.0
+   },
+   "r4": {
+    "media": 0.3372,
+    "ee": 0.2305
+   },
+   "persiguen": {
+    "media": -0.1438,
+    "ee": 0.1336
+   }
+  },
+  "fase 4 · dentro · rival≤8": {
+   "n_vidas": 3,
+   "golpes_min": {
+    "media": -0.3797,
+    "ee": 1.4241
+   },
+   "dano_min": {
+    "media": 2.0257,
+    "ee": 1.8044
+   },
+   "r4": {
+    "media": 0.0032,
+    "ee": 0.3945
+   },
+   "persiguen": {
+    "media": 0.0446,
+    "ee": 0.0691
+   }
+  },
+  "dentro · sin rival≤8": {
+   "n_vidas": 1,
+   "golpes_min": {
+    "media": 0.0,
+    "ee": null
+   },
+   "dano_min": {
+    "media": 0.0,
+    "ee": null
+   },
+   "r4": {
+    "media": 0.0,
+    "ee": null
+   },
+   "persiguen": {
+    "media": 0.0,
+    "ee": null
+   }
+  },
+  "fase 1 · dentro · sin rival≤8": {
+   "n_vidas": 1,
+   "golpes_min": {
+    "media": 0.0,
+    "ee": null
+   },
+   "dano_min": {
+    "media": 0.0,
+    "ee": null
+   },
+   "r4": {
+    "media": 0.0,
+    "ee": null
+   },
+   "persiguen": {
+    "media": 0.0,
+    "ee": null
+   }
+  },
+  "misma fase y situación (todos los tramos)": {
+   "n_vidas": 83,
+   "golpes_min": {
+    "media": -0.1494,
+    "ee": 0.2766
+   },
+   "dano_min": {
+    "media": -0.0993,
+    "ee": 2.7286
+   },
+   "r4": {
+    "media": 0.0973,
+    "ee": 0.0505
+   },
+   "persiguen": {
+    "media": -0.013,
+    "ee": 0.0354
+   }
+  }
+ }
+}

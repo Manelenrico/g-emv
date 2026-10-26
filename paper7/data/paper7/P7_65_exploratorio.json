@@ -1,0 +1,130 @@
+{
+ "cortes_confianza": {
+  "baja_<": 0.3086,
+  "alta_>=": 0.6997
+ },
+ "con_rival": {
+  "(a) falsa activa · valiente": {
+   "criaturas": 6,
+   "tics": 171738,
+   "media": 0.2033,
+   "ee": 0.0199
+  },
+  "(a) falsa activa · prudente de MIENTEN_DOS": {
+   "criaturas": 3,
+   "tics": 59524,
+   "media": 0.0248,
+   "ee": 0.007
+  },
+  "(a-limpia) falsa activa, en vidas-dia sin ninguna honesta de coger cargada · valiente": {
+   "criaturas": 2,
+   "tics": 4295,
+   "media": 0.5251,
+   "ee": 0.4749
+  },
+  "(a-limpia) falsa activa, en vidas-dia sin ninguna honesta de coger cargada · prudente de MIENTEN_DOS": {
+   "criaturas": 2,
+   "tics": 2624,
+   "media": 0.025,
+   "ee": 0.0228
+  },
+  "(b1) mismas criaturas, dias 1-7, sin invitacion de coger · valiente": {
+   "criaturas": 6,
+   "tics": 4141,
+   "media": 0.244,
+   "ee": 0.1266
+  },
+  "(b1) mismas criaturas, dias 1-7, sin invitacion de coger · prudente de MIENTEN_DOS": {
+   "criaturas": 3,
+   "tics": 1141,
+   "media": 0.0705,
+   "ee": 0.0705
+  },
+  "(b2) prudente de MIENTE_UNA (razon honesta), sin invitacion de coger · prudente de MIENTE_UNA": {
+   "criaturas": 3,
+   "tics": 2296,
+   "media": 0.0199,
+   "ee": 0.0195
+  }
+ },
+ "sin_rival": {
+  "(a) falsa activa · valiente": {
+   "criaturas": 6,
+   "tics": 2089,
+   "media": 0.0924,
+   "ee": 0.0393
+  },
+  "(a) falsa activa · prudente de MIENTEN_DOS": {
+   "criaturas": 3,
+   "tics": 397,
+   "media": 0.0901,
+   "ee": 0.0603
+  },
+  "(a-limpia) falsa activa, en vidas-dia sin ninguna honesta de coger cargada · prudente de MIENTEN_DOS": {
+   "criaturas": 1,
+   "tics": 11,
+   "media": 0.0909,
+   "ee": null
+  },
+  "(b1) mismas criaturas, dias 1-7, sin invitacion de coger · valiente": {
+   "criaturas": 6,
+   "tics": 16994,
+   "media": 0.2033,
+   "ee": 0.1097
+  },
+  "(b1) mismas criaturas, dias 1-7, sin invitacion de coger · prudente de MIENTEN_DOS": {
+   "criaturas": 3,
+   "tics": 6396,
+   "media": 0.0982,
+   "ee": 0.0441
+  },
+  "(b2) prudente de MIENTE_UNA (razon honesta), sin invitacion de coger · prudente de MIENTE_UNA": {
+   "criaturas": 3,
+   "tics": 4034,
+   "media": 0.1305,
+   "ee": 0.0612
+  }
+ },
+ "tercios": {
+  "valiente · confianza alta": {
+   "criaturas": 6,
+   "tics": 51272,
+   "media": 0.212,
+   "ee": 0.0292
+  },
+  "valiente · confianza media": {
+   "criaturas": 6,
+   "tics": 58479,
+   "media": 0.1315,
+   "ee": 0.0125
+  },
+  "valiente · confianza baja": {
+   "criaturas": 6,
+   "tics": 61987,
+   "media": 0.3341,
+   "ee": 0.1202
+  },
+  "prudente de MIENTEN_DOS · confianza alta": {
+   "criaturas": 3,
+   "tics": 25854,
+   "media": 0.0244,
+   "ee": 0.0113
+  },
+  "prudente de MIENTEN_DOS · confianza media": {
+   "criaturas": 3,
+   "tics": 19126,
+   "media": 0.0351,
+   "ee": 0.0125
+  },
+  "prudente de MIENTEN_DOS · confianza baja": {
+   "criaturas": 3,
+   "tics": 14544,
+   "media": 0.021,
+   "ee": 0.0113
+  }
+ },
+ "tics_a_con_una_honesta_de_coger_cargada": {
+  "si": 224343,
+  "de": 231262
+ }
+}

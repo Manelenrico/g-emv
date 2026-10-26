@@ -1,0 +1,5623 @@
+{
+ "regla_0": {
+  "vidas": [
+   {
+    "carp": "P734_s1_d10_APRENDE_42254006",
+    "slot": 10,
+    "regla": 0,
+    "empate": {
+     "P7_36_empate": false
+    },
+    "veces_regla": 0,
+    "tics": 14184,
+    "fidelidad": {
+     "igual": 14184
+    },
+    "desacuerdos": [],
+    "en_las_cogidas": {},
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s1_d10_APRENDE_42254006",
+    "slot": 11,
+    "regla": 0,
+    "empate": {
+     "P7_36_empate": false
+    },
+    "veces_regla": 0,
+    "tics": 14208,
+    "fidelidad": {
+     "igual": 14208
+    },
+    "desacuerdos": [],
+    "en_las_cogidas": {
+     "10388": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 3.51892,
+      "d_noop": 3.52288,
+      "filas_distintas": {}
+     }
+    },
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s1_d11_APRENDE_42358735",
+    "slot": 10,
+    "regla": 0,
+    "empate": {
+     "P7_36_empate": false
+    },
+    "veces_regla": 0,
+    "tics": 11668,
+    "fidelidad": {
+     "igual": 11668
+    },
+    "desacuerdos": [],
+    "en_las_cogidas": {},
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s1_d11_APRENDE_42358735",
+    "slot": 11,
+    "regla": 0,
+    "empate": {
+     "P7_36_empate": false
+    },
+    "veces_regla": 0,
+    "tics": 11832,
+    "fidelidad": {
+     "igual": 11832
+    },
+    "desacuerdos": [],
+    "en_las_cogidas": {
+     "603": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 2.74149,
+      "d_noop": 2.74707,
+      "filas_distintas": {}
+     },
+     "625": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 2.73511,
+      "d_noop": 2.74066,
+      "filas_distintas": {}
+     }
+    },
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s1_d12_APRENDE_42463464",
+    "slot": 10,
+    "regla": 0,
+    "empate": {
+     "P7_36_empate": false
+    },
+    "veces_regla": 0,
+    "tics": 14184,
+    "fidelidad": {
+     "igual": 14184
+    },
+    "desacuerdos": [],
+    "en_las_cogidas": {},
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s1_d12_APRENDE_42463464",
+    "slot": 11,
+    "regla": 0,
+    "empate": {
+     "P7_36_empate": false
+    },
+    "veces_regla": 0,
+    "tics": 11089,
+    "fidelidad": {
+     "igual": 11089
+    },
+    "desacuerdos": [],
+    "en_las_cogidas": {},
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s1_d13_APRENDE_42568193",
+    "slot": 10,
+    "regla": 0,
+    "empate": {
+     "P7_36_empate": false
+    },
+    "veces_regla": 0,
+    "tics": 14223,
+    "fidelidad": {
+     "igual": 14223
+    },
+    "desacuerdos": [],
+    "en_las_cogidas": {
+     "603": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 3.11175,
+      "d_noop": 3.1171,
+      "filas_distintas": {}
+     },
+     "647": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 3.10677,
+      "d_noop": 3.11169,
+      "filas_distintas": {}
+     }
+    },
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s1_d13_APRENDE_42568193",
+    "slot": 11,
+    "regla": 0,
+    "empate": {
+     "P7_36_empate": false
+    },
+    "veces_regla": 0,
+    "tics": 12096,
+    "fidelidad": {
+     "igual": 12096
+    },
+    "desacuerdos": [],
+    "en_las_cogidas": {
+     "526": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 3.24759,
+      "d_noop": 3.25255,
+      "filas_distintas": {}
+     }
+    },
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s1_d14_APRENDE_42672922",
+    "slot": 10,
+    "regla": 0,
+    "empate": {
+     "P7_36_empate": false
+    },
+    "veces_regla": 0,
+    "tics": 14208,
+    "fidelidad": {
+     "igual": 14208
+    },
+    "desacuerdos": [],
+    "en_las_cogidas": {
+     "603": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 3.11188,
+      "d_noop": 3.11626,
+      "filas_distintas": {}
+     },
+     "614": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 3.10757,
+      "d_noop": 3.11168,
+      "filas_distintas": {}
+     },
+     "11674": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 3.85026,
+      "d_noop": 3.85026,
+      "filas_distintas": {}
+     }
+    },
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s1_d14_APRENDE_42672922",
+    "slot": 11,
+    "regla": 0,
+    "empate": {
+     "P7_36_empate": false
+    },
+    "veces_regla": 0,
+    "tics": 13476,
+    "fidelidad": {
+     "igual": 13476
+    },
+    "desacuerdos": [],
+    "en_las_cogidas": {},
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s1_d15_APRENDE_42777651",
+    "slot": 10,
+    "regla": 0,
+    "empate": {
+     "P7_36_empate": false
+    },
+    "veces_regla": 0,
+    "tics": 14161,
+    "fidelidad": {
+     "igual": 14161
+    },
+    "desacuerdos": [],
+    "en_las_cogidas": {
+     "714": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 2.98992,
+      "d_noop": 2.99348,
+      "filas_distintas": {}
+     }
+    },
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s1_d15_APRENDE_42777651",
+    "slot": 11,
+    "regla": 0,
+    "empate": {
+     "P7_36_empate": false
+    },
+    "veces_regla": 0,
+    "tics": 14232,
+    "fidelidad": {
+     "igual": 14232
+    },
+    "desacuerdos": [],
+    "en_las_cogidas": {
+     "647": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 2.75257,
+      "d_noop": 2.75768,
+      "filas_distintas": {}
+     }
+    },
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s1_d16_APRENDE_42882380",
+    "slot": 10,
+    "regla": 0,
+    "empate": {
+     "P7_36_empate": false
+    },
+    "veces_regla": 0,
+    "tics": 14496,
+    "fidelidad": {
+     "igual": 14496
+    },
+    "desacuerdos": [],
+    "en_las_cogidas": {
+     "680": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 2.38348,
+      "d_noop": 2.38666,
+      "filas_distintas": {}
+     },
+     "724": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 2.38064,
+      "d_noop": 2.38341,
+      "filas_distintas": {}
+     },
+     "9844": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 3.18797,
+      "d_noop": 3.18944,
+      "filas_distintas": {}
+     }
+    },
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s1_d16_APRENDE_42882380",
+    "slot": 11,
+    "regla": 0,
+    "empate": {
+     "P7_36_empate": false
+    },
+    "veces_regla": 0,
+    "tics": 11712,
+    "fidelidad": {
+     "igual": 11712
+    },
+    "desacuerdos": [],
+    "en_las_cogidas": {},
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s1_d17_APRENDE_42987109",
+    "slot": 10,
+    "regla": 0,
+    "empate": {
+     "P7_36_empate": false
+    },
+    "veces_regla": 0,
+    "tics": 11763,
+    "fidelidad": {
+     "igual": 11763
+    },
+    "desacuerdos": [],
+    "en_las_cogidas": {
+     "658": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 2.95118,
+      "d_noop": 2.95436,
+      "filas_distintas": {}
+     }
+    },
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s1_d17_APRENDE_42987109",
+    "slot": 11,
+    "regla": 0,
+    "empate": {
+     "P7_36_empate": false
+    },
+    "veces_regla": 0,
+    "tics": 12528,
+    "fidelidad": {
+     "igual": 12528
+    },
+    "desacuerdos": [],
+    "en_las_cogidas": {
+     "680": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 2.75916,
+      "d_noop": 2.76363,
+      "filas_distintas": {}
+     }
+    },
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s1_d18_APRENDE_43091838",
+    "slot": 10,
+    "regla": 0,
+    "empate": {
+     "P7_36_empate": false
+    },
+    "veces_regla": 0,
+    "tics": 11580,
+    "fidelidad": {
+     "igual": 11580
+    },
+    "desacuerdos": [],
+    "en_las_cogidas": {},
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s1_d18_APRENDE_43091838",
+    "slot": 11,
+    "regla": 0,
+    "empate": {
+     "P7_36_empate": false
+    },
+    "veces_regla": 0,
+    "tics": 11016,
+    "fidelidad": {
+     "igual": 11016
+    },
+    "desacuerdos": [],
+    "en_las_cogidas": {},
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s1_d19_APRENDE_43196567",
+    "slot": 10,
+    "regla": 0,
+    "empate": {
+     "P7_36_empate": false
+    },
+    "veces_regla": 0,
+    "tics": 10440,
+    "fidelidad": {
+     "igual": 10440
+    },
+    "desacuerdos": [],
+    "en_las_cogidas": {},
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s1_d19_APRENDE_43196567",
+    "slot": 11,
+    "regla": 0,
+    "empate": {
+     "P7_36_empate": false
+    },
+    "veces_regla": 0,
+    "tics": 12552,
+    "fidelidad": {
+     "igual": 12552
+    },
+    "desacuerdos": [],
+    "en_las_cogidas": {
+     "680": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 3.47517,
+      "d_noop": 3.47786,
+      "filas_distintas": {}
+     },
+     "11567": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 4.03338,
+      "d_noop": 4.03539,
+      "filas_distintas": {}
+     }
+    },
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s1_d1_APRENDE_41311445",
+    "slot": 10,
+    "regla": 0,
+    "empate": {
+     "P7_36_empate": false
+    },
+    "veces_regla": 0,
+    "tics": 14568,
+    "fidelidad": {
+     "igual": 14568
+    },
+    "desacuerdos": [],
+    "en_las_cogidas": {
+     "592": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 3.16388,
+      "d_noop": 3.18526,
+      "filas_distintas": {}
+     },
+     "625": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 3.12127,
+      "d_noop": 3.14255,
+      "filas_distintas": {}
+     }
+    },
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s1_d1_APRENDE_41311445",
+    "slot": 11,
+    "regla": 0,
+    "empate": {
+     "P7_36_empate": false
+    },
+    "veces_regla": 0,
+    "tics": 14568,
+    "fidelidad": {
+     "igual": 14568
+    },
+    "desacuerdos": [],
+    "en_las_cogidas": {},
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s1_d20_APRENDE_43301296",
+    "slot": 10,
+    "regla": 0,
+    "empate": {
+     "P7_36_empate": false
+    },
+    "veces_regla": 0,
+    "tics": 14472,
+    "fidelidad": {
+     "igual": 14472
+    },
+    "desacuerdos": [],
+    "en_las_cogidas": {
+     "647": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 2.83848,
+      "d_noop": 2.84146,
+      "filas_distintas": {}
+     },
+     "1785": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 3.36602,
+      "d_noop": 3.36738,
+      "filas_distintas": {}
+     },
+     "14766": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 3.63264,
+      "d_noop": 3.63375,
+      "filas_distintas": {}
+     }
+    },
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s1_d20_APRENDE_43301296",
+    "slot": 11,
+    "regla": 0,
+    "empate": {
+     "P7_36_empate": false
+    },
+    "veces_regla": 0,
+    "tics": 11328,
+    "fidelidad": {
+     "igual": 11328
+    },
+    "desacuerdos": [],
+    "en_las_cogidas": {},
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s1_d2_APRENDE_41416174",
+    "slot": 10,
+    "regla": 0,
+    "empate": {
+     "P7_36_empate": false
+    },
+    "veces_regla": 0,
+    "tics": 14472,
+    "fidelidad": {
+     "igual": 14472
+    },
+    "desacuerdos": [],
+    "en_las_cogidas": {
+     "636": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 2.96296,
+      "d_noop": 2.97363,
+      "filas_distintas": {}
+     }
+    },
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s1_d2_APRENDE_41416174",
+    "slot": 11,
+    "regla": 0,
+    "empate": {
+     "P7_36_empate": false
+    },
+    "veces_regla": 0,
+    "tics": 14472,
+    "fidelidad": {
+     "igual": 14472
+    },
+    "desacuerdos": [],
+    "en_las_cogidas": {
+     "625": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 2.81719,
+      "d_noop": 2.83771,
+      "filas_distintas": {}
+     }
+    },
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s1_d3_APRENDE_41520903",
+    "slot": 10,
+    "regla": 0,
+    "empate": {
+     "P7_36_empate": false
+    },
+    "veces_regla": 0,
+    "tics": 14328,
+    "fidelidad": {
+     "igual": 14328
+    },
+    "desacuerdos": [],
+    "en_las_cogidas": {},
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s1_d3_APRENDE_41520903",
+    "slot": 11,
+    "regla": 0,
+    "empate": {
+     "P7_36_empate": false
+    },
+    "veces_regla": 0,
+    "tics": 14148,
+    "fidelidad": {
+     "igual": 14148
+    },
+    "desacuerdos": [],
+    "en_las_cogidas": {
+     "691": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 3.21066,
+      "d_noop": 3.23214,
+      "filas_distintas": {}
+     },
+     "1065": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 3.21426,
+      "d_noop": 3.21864,
+      "filas_distintas": {}
+     },
+     "12765": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 3.32163,
+      "d_noop": 3.32163,
+      "filas_distintas": {}
+     }
+    },
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s1_d4_APRENDE_41625632",
+    "slot": 10,
+    "regla": 0,
+    "empate": {
+     "P7_36_empate": false
+    },
+    "veces_regla": 0,
+    "tics": 12456,
+    "fidelidad": {
+     "igual": 12456
+    },
+    "desacuerdos": [],
+    "en_las_cogidas": {
+     "12889": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 5.52017,
+      "d_noop": 5.52652,
+      "filas_distintas": {}
+     }
+    },
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s1_d4_APRENDE_41625632",
+    "slot": 11,
+    "regla": 0,
+    "empate": {
+     "P7_36_empate": false
+    },
+    "veces_regla": 0,
+    "tics": 12360,
+    "fidelidad": {
+     "igual": 12360
+    },
+    "desacuerdos": [],
+    "en_las_cogidas": {
+     "10599": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 3.71725,
+      "d_noop": 3.7205,
+      "filas_distintas": {}
+     }
+    },
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s1_d5_APRENDE_41730361",
+    "slot": 10,
+    "regla": 0,
+    "empate": {
+     "P7_36_empate": false
+    },
+    "veces_regla": 0,
+    "tics": 12264,
+    "fidelidad": {
+     "igual": 12264
+    },
+    "desacuerdos": [],
+    "en_las_cogidas": {
+     "592": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 3.00098,
+      "d_noop": 3.01239,
+      "filas_distintas": {}
+     },
+     "647": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 2.99389,
+      "d_noop": 3.00104,
+      "filas_distintas": {}
+     }
+    },
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s1_d5_APRENDE_41730361",
+    "slot": 11,
+    "regla": 0,
+    "empate": {
+     "P7_36_empate": false
+    },
+    "veces_regla": 0,
+    "tics": 13713,
+    "fidelidad": {
+     "igual": 13713
+    },
+    "desacuerdos": [],
+    "en_las_cogidas": {},
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s1_d6_APRENDE_41835090",
+    "slot": 10,
+    "regla": 0,
+    "empate": {
+     "P7_36_empate": false
+    },
+    "veces_regla": 0,
+    "tics": 13225,
+    "fidelidad": {
+     "igual": 13225
+    },
+    "desacuerdos": [],
+    "en_las_cogidas": {
+     "592": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 2.95079,
+      "d_noop": 2.95837,
+      "filas_distintas": {}
+     },
+     "614": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 2.9429,
+      "d_noop": 2.95024,
+      "filas_distintas": {}
+     }
+    },
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s1_d6_APRENDE_41835090",
+    "slot": 11,
+    "regla": 0,
+    "empate": {
+     "P7_36_empate": false
+    },
+    "veces_regla": 0,
+    "tics": 12288,
+    "fidelidad": {
+     "igual": 12288
+    },
+    "desacuerdos": [],
+    "en_las_cogidas": {},
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s1_d7_APRENDE_41939819",
+    "slot": 10,
+    "regla": 0,
+    "empate": {
+     "P7_36_empate": false
+    },
+    "veces_regla": 0,
+    "tics": 11616,
+    "fidelidad": {
+     "igual": 11616
+    },
+    "desacuerdos": [],
+    "en_las_cogidas": {},
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s1_d7_APRENDE_41939819",
+    "slot": 11,
+    "regla": 0,
+    "empate": {
+     "P7_36_empate": false
+    },
+    "veces_regla": 0,
+    "tics": 12120,
+    "fidelidad": {
+     "igual": 12120
+    },
+    "desacuerdos": [],
+    "en_las_cogidas": {},
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s1_d8_APRENDE_42044548",
+    "slot": 10,
+    "regla": 0,
+    "empate": {
+     "P7_36_empate": false
+    },
+    "veces_regla": 0,
+    "tics": 2386,
+    "fidelidad": {
+     "igual": 2386
+    },
+    "desacuerdos": [],
+    "en_las_cogidas": {},
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s1_d8_APRENDE_42044548",
+    "slot": 11,
+    "regla": 0,
+    "empate": {
+     "P7_36_empate": false
+    },
+    "veces_regla": 0,
+    "tics": 7673,
+    "fidelidad": {
+     "igual": 7673
+    },
+    "desacuerdos": [],
+    "en_las_cogidas": {
+     "900": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 3.4554,
+      "d_noop": 3.46132,
+      "filas_distintas": {}
+     }
+    },
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s1_d9_APRENDE_42149277",
+    "slot": 10,
+    "regla": 0,
+    "empate": {
+     "P7_36_empate": false
+    },
+    "veces_regla": 0,
+    "tics": 14568,
+    "fidelidad": {
+     "igual": 14568
+    },
+    "desacuerdos": [],
+    "en_las_cogidas": {
+     "603": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 3.37133,
+      "d_noop": 3.37434,
+      "filas_distintas": {}
+     },
+     "11690": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 2.77996,
+      "d_noop": 2.7829,
+      "filas_distintas": {}
+     },
+     "11898": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 2.77986,
+      "d_noop": 2.77986,
+      "filas_distintas": {}
+     }
+    },
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s1_d9_APRENDE_42149277",
+    "slot": 11,
+    "regla": 0,
+    "empate": {
+     "P7_36_empate": false
+    },
+    "veces_regla": 0,
+    "tics": 14568,
+    "fidelidad": {
+     "igual": 14568
+    },
+    "desacuerdos": [],
+    "en_las_cogidas": {},
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s2_d10_APRENDE_42358735",
+    "slot": 10,
+    "regla": 0,
+    "empate": {
+     "P7_36_empate": false
+    },
+    "veces_regla": 0,
+    "tics": 14160,
+    "fidelidad": {
+     "igual": 14160
+    },
+    "desacuerdos": [],
+    "en_las_cogidas": {},
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s2_d10_APRENDE_42358735",
+    "slot": 11,
+    "regla": 0,
+    "empate": {
+     "P7_36_empate": false
+    },
+    "veces_regla": 0,
+    "tics": 14448,
+    "fidelidad": {
+     "igual": 14448
+    },
+    "desacuerdos": [],
+    "en_las_cogidas": {
+     "625": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 2.77484,
+      "d_noop": 2.78282,
+      "filas_distintas": {}
+     },
+     "647": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 2.76926,
+      "d_noop": 2.77464,
+      "filas_distintas": {}
+     }
+    },
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s2_d11_APRENDE_42254006",
+    "slot": 10,
+    "regla": 0,
+    "empate": {
+     "P7_36_empate": false
+    },
+    "veces_regla": 0,
+    "tics": 14208,
+    "fidelidad": {
+     "igual": 14208
+    },
+    "desacuerdos": [],
+    "en_las_cogidas": {
+     "2385": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 3.45128,
+      "d_noop": 3.45352,
+      "filas_distintas": {}
+     }
+    },
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s2_d11_APRENDE_42254006",
+    "slot": 11,
+    "regla": 0,
+    "empate": {
+     "P7_36_empate": false
+    },
+    "veces_regla": 0,
+    "tics": 12912,
+    "fidelidad": {
+     "igual": 12912
+    },
+    "desacuerdos": [],
+    "en_las_cogidas": {
+     "11440": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 3.85445,
+      "d_noop": 3.85696,
+      "filas_distintas": {}
+     }
+    },
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s2_d12_APRENDE_42149277",
+    "slot": 10,
+    "regla": 0,
+    "empate": {
+     "P7_36_empate": false
+    },
+    "veces_regla": 0,
+    "tics": 13320,
+    "fidelidad": {
+     "igual": 13320
+    },
+    "desacuerdos": [],
+    "en_las_cogidas": {},
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s2_d12_APRENDE_42149277",
+    "slot": 11,
+    "regla": 0,
+    "empate": {
+     "P7_36_empate": false
+    },
+    "veces_regla": 0,
+    "tics": 13440,
+    "fidelidad": {
+     "igual": 13440
+    },
+    "desacuerdos": [],
+    "en_las_cogidas": {
+     "615": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 3.73523,
+      "d_noop": 3.73873,
+      "filas_distintas": {}
+     }
+    },
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s2_d13_APRENDE_42044548",
+    "slot": 10,
+    "regla": 0,
+    "empate": {
+     "P7_36_empate": false
+    },
+    "veces_regla": 0,
+    "tics": 14208,
+    "fidelidad": {
+     "igual": 14208
+    },
+    "desacuerdos": [],
+    "en_las_cogidas": {
+     "1176": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 3.28836,
+      "d_noop": 3.29195,
+      "filas_distintas": {
+       "R-CARENCIA": [
+        0.83586,
+        0.83707
+       ],
+       "R-CURIOSIDAD": [
+        0.00934,
+        0.01195
+       ]
+      }
+     },
+     "1308": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 2.91051,
+      "d_noop": 2.91415,
+      "filas_distintas": {}
+     }
+    },
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s2_d13_APRENDE_42044548",
+    "slot": 11,
+    "regla": 0,
+    "empate": {
+     "P7_36_empate": false
+    },
+    "veces_regla": 0,
+    "tics": 14276,
+    "fidelidad": {
+     "igual": 14276
+    },
+    "desacuerdos": [],
+    "en_las_cogidas": {},
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s2_d14_APRENDE_41939819",
+    "slot": 10,
+    "regla": 0,
+    "empate": {
+     "P7_36_empate": false
+    },
+    "veces_regla": 0,
+    "tics": 435,
+    "fidelidad": {
+     "difiere": 1,
+     "igual": 434
+    },
+    "desacuerdos": [
+     {
+      "t": 481,
+      "diario": "ir_curioso",
+      "replica": "ir_botin"
+     }
+    ],
+    "en_las_cogidas": {},
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s2_d14_APRENDE_41939819",
+    "slot": 11,
+    "regla": 0,
+    "empate": {
+     "P7_36_empate": false
+    },
+    "veces_regla": 0,
+    "tics": 543,
+    "fidelidad": {
+     "igual": 543
+    },
+    "desacuerdos": [],
+    "en_las_cogidas": {},
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s2_d15_APRENDE_41835090",
+    "slot": 10,
+    "regla": 0,
+    "empate": {
+     "P7_36_empate": false
+    },
+    "veces_regla": 0,
+    "tics": 14197,
+    "fidelidad": {
+     "igual": 14197
+    },
+    "desacuerdos": [],
+    "en_las_cogidas": {
+     "614": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 3.20401,
+      "d_noop": 3.20573,
+      "filas_distintas": {}
+     },
+     "680": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 2.97552,
+      "d_noop": 2.98011,
+      "filas_distintas": {}
+     }
+    },
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s2_d15_APRENDE_41835090",
+    "slot": 11,
+    "regla": 0,
+    "empate": {
+     "P7_36_empate": false
+    },
+    "veces_regla": 0,
+    "tics": 14352,
+    "fidelidad": {
+     "igual": 14352
+    },
+    "desacuerdos": [],
+    "en_las_cogidas": {},
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s2_d16_APRENDE_41730361",
+    "slot": 10,
+    "regla": 0,
+    "empate": {
+     "P7_36_empate": false
+    },
+    "veces_regla": 0,
+    "tics": 14544,
+    "fidelidad": {
+     "igual": 14544
+    },
+    "desacuerdos": [],
+    "en_las_cogidas": {
+     "1063": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 3.68752,
+      "d_noop": 3.69111,
+      "filas_distintas": {}
+     }
+    },
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s2_d16_APRENDE_41730361",
+    "slot": 11,
+    "regla": 0,
+    "empate": {
+     "P7_36_empate": false
+    },
+    "veces_regla": 0,
+    "tics": 14544,
+    "fidelidad": {
+     "igual": 14544
+    },
+    "desacuerdos": [],
+    "en_las_cogidas": {
+     "1021": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 3.64072,
+      "d_noop": 3.64376,
+      "filas_distintas": {}
+     }
+    },
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s2_d17_APRENDE_41625632",
+    "slot": 10,
+    "regla": 0,
+    "empate": {
+     "P7_36_empate": false
+    },
+    "veces_regla": 0,
+    "tics": 14280,
+    "fidelidad": {
+     "igual": 14280
+    },
+    "desacuerdos": [],
+    "en_las_cogidas": {
+     "1208": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 3.40083,
+      "d_noop": 3.40243,
+      "filas_distintas": {}
+     }
+    },
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s2_d17_APRENDE_41625632",
+    "slot": 11,
+    "regla": 0,
+    "empate": {
+     "P7_36_empate": false
+    },
+    "veces_regla": 0,
+    "tics": 10198,
+    "fidelidad": {
+     "igual": 10198
+    },
+    "desacuerdos": [],
+    "en_las_cogidas": {},
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s2_d18_APRENDE_41520903",
+    "slot": 10,
+    "regla": 0,
+    "empate": {
+     "P7_36_empate": false
+    },
+    "veces_regla": 0,
+    "tics": 11952,
+    "fidelidad": {
+     "igual": 11952
+    },
+    "desacuerdos": [],
+    "en_las_cogidas": {},
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s2_d18_APRENDE_41520903",
+    "slot": 11,
+    "regla": 0,
+    "empate": {
+     "P7_36_empate": false
+    },
+    "veces_regla": 0,
+    "tics": 14136,
+    "fidelidad": {
+     "igual": 14136
+    },
+    "desacuerdos": [],
+    "en_las_cogidas": {
+     "1153": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 3.60116,
+      "d_noop": 3.60365,
+      "filas_distintas": {}
+     },
+     "1263": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 3.30479,
+      "d_noop": 3.31011,
+      "filas_distintas": {}
+     },
+     "13231": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 4.56204,
+      "d_noop": 4.56204,
+      "filas_distintas": {}
+     }
+    },
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s2_d19_APRENDE_41416174",
+    "slot": 10,
+    "regla": 0,
+    "empate": {
+     "P7_36_empate": false
+    },
+    "veces_regla": 0,
+    "tics": 14280,
+    "fidelidad": {
+     "igual": 14280
+    },
+    "desacuerdos": [],
+    "en_las_cogidas": {
+     "592": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 2.73038,
+      "d_noop": 2.73395,
+      "filas_distintas": {}
+     }
+    },
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s2_d19_APRENDE_41416174",
+    "slot": 11,
+    "regla": 0,
+    "empate": {
+     "P7_36_empate": false
+    },
+    "veces_regla": 0,
+    "tics": 14256,
+    "fidelidad": {
+     "igual": 14256
+    },
+    "desacuerdos": [],
+    "en_las_cogidas": {
+     "703": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 3.03138,
+      "d_noop": 3.03537,
+      "filas_distintas": {}
+     }
+    },
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s2_d1_APRENDE_43301296",
+    "slot": 10,
+    "regla": 0,
+    "empate": {
+     "P7_36_empate": false
+    },
+    "veces_regla": 0,
+    "tics": 14328,
+    "fidelidad": {
+     "igual": 14328
+    },
+    "desacuerdos": [],
+    "en_las_cogidas": {
+     "625": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 2.74527,
+      "d_noop": 2.76556,
+      "filas_distintas": {}
+     }
+    },
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s2_d1_APRENDE_43301296",
+    "slot": 11,
+    "regla": 0,
+    "empate": {
+     "P7_36_empate": false
+    },
+    "veces_regla": 0,
+    "tics": 10296,
+    "fidelidad": {
+     "igual": 10296
+    },
+    "desacuerdos": [],
+    "en_las_cogidas": {},
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s2_d20_APRENDE_41311445",
+    "slot": 10,
+    "regla": 0,
+    "empate": {
+     "P7_36_empate": false
+    },
+    "veces_regla": 0,
+    "tics": 14448,
+    "fidelidad": {
+     "igual": 14448
+    },
+    "desacuerdos": [],
+    "en_las_cogidas": {
+     "605": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 2.74302,
+      "d_noop": 2.74604,
+      "filas_distintas": {}
+     },
+     "924": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 2.9671,
+      "d_noop": 2.97006,
+      "filas_distintas": {}
+     }
+    },
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s2_d20_APRENDE_41311445",
+    "slot": 11,
+    "regla": 0,
+    "empate": {
+     "P7_36_empate": false
+    },
+    "veces_regla": 0,
+    "tics": 14448,
+    "fidelidad": {
+     "igual": 14448
+    },
+    "desacuerdos": [],
+    "en_las_cogidas": {},
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s2_d2_APRENDE_43196567",
+    "slot": 10,
+    "regla": 0,
+    "empate": {
+     "P7_36_empate": false
+    },
+    "veces_regla": 0,
+    "tics": 12600,
+    "fidelidad": {
+     "igual": 12600
+    },
+    "desacuerdos": [],
+    "en_las_cogidas": {},
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s2_d2_APRENDE_43196567",
+    "slot": 11,
+    "regla": 0,
+    "empate": {
+     "P7_36_empate": false
+    },
+    "veces_regla": 0,
+    "tics": 10248,
+    "fidelidad": {
+     "igual": 10248
+    },
+    "desacuerdos": [],
+    "en_las_cogidas": {},
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s2_d3_APRENDE_43091838",
+    "slot": 10,
+    "regla": 0,
+    "empate": {
+     "P7_36_empate": false
+    },
+    "veces_regla": 0,
+    "tics": 10962,
+    "fidelidad": {
+     "igual": 10962
+    },
+    "desacuerdos": [],
+    "en_las_cogidas": {},
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s2_d3_APRENDE_43091838",
+    "slot": 11,
+    "regla": 0,
+    "empate": {
+     "P7_36_empate": false
+    },
+    "veces_regla": 0,
+    "tics": 10344,
+    "fidelidad": {
+     "igual": 10344
+    },
+    "desacuerdos": [],
+    "en_las_cogidas": {},
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s2_d4_APRENDE_42987109",
+    "slot": 10,
+    "regla": 0,
+    "empate": {
+     "P7_36_empate": false
+    },
+    "veces_regla": 0,
+    "tics": 11220,
+    "fidelidad": {
+     "igual": 11220
+    },
+    "desacuerdos": [],
+    "en_las_cogidas": {},
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s2_d4_APRENDE_42987109",
+    "slot": 11,
+    "regla": 0,
+    "empate": {
+     "P7_36_empate": false
+    },
+    "veces_regla": 0,
+    "tics": 14472,
+    "fidelidad": {
+     "igual": 14472
+    },
+    "desacuerdos": [],
+    "en_las_cogidas": {
+     "1043": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 3.59144,
+      "d_noop": 3.60264,
+      "filas_distintas": {}
+     },
+     "1512": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 3.43033,
+      "d_noop": 3.4418,
+      "filas_distintas": {
+       "R-CURIOSIDAD": [
+        0.03619,
+        0.04806
+       ]
+      }
+     }
+    },
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s2_d5_APRENDE_42882380",
+    "slot": 10,
+    "regla": 0,
+    "empate": {
+     "P7_36_empate": false
+    },
+    "veces_regla": 0,
+    "tics": 14244,
+    "fidelidad": {
+     "igual": 14244
+    },
+    "desacuerdos": [],
+    "en_las_cogidas": {
+     "691": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 2.36521,
+      "d_noop": 2.38347,
+      "filas_distintas": {}
+     },
+     "11739": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 3.31322,
+      "d_noop": 3.31725,
+      "filas_distintas": {}
+     }
+    },
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s2_d5_APRENDE_42882380",
+    "slot": 11,
+    "regla": 0,
+    "empate": {
+     "P7_36_empate": false
+    },
+    "veces_regla": 0,
+    "tics": 14378,
+    "fidelidad": {
+     "igual": 14378
+    },
+    "desacuerdos": [],
+    "en_las_cogidas": {
+     "715": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 2.60809,
+      "d_noop": 2.61781,
+      "filas_distintas": {}
+     }
+    },
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s2_d6_APRENDE_42777651",
+    "slot": 10,
+    "regla": 0,
+    "empate": {
+     "P7_36_empate": false
+    },
+    "veces_regla": 0,
+    "tics": 14424,
+    "fidelidad": {
+     "igual": 14424
+    },
+    "desacuerdos": [],
+    "en_las_cogidas": {
+     "658": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 3.13599,
+      "d_noop": 3.15731,
+      "filas_distintas": {}
+     }
+    },
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s2_d6_APRENDE_42777651",
+    "slot": 11,
+    "regla": 0,
+    "empate": {
+     "P7_36_empate": false
+    },
+    "veces_regla": 0,
+    "tics": 14424,
+    "fidelidad": {
+     "igual": 14424
+    },
+    "desacuerdos": [],
+    "en_las_cogidas": {
+     "647": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 2.79798,
+      "d_noop": 2.80869,
+      "filas_distintas": {}
+     }
+    },
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s2_d7_APRENDE_42672922",
+    "slot": 10,
+    "regla": 0,
+    "empate": {
+     "P7_36_empate": false
+    },
+    "veces_regla": 0,
+    "tics": 14280,
+    "fidelidad": {
+     "igual": 14280
+    },
+    "desacuerdos": [],
+    "en_las_cogidas": {
+     "603": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 3.12516,
+      "d_noop": 3.13554,
+      "filas_distintas": {}
+     },
+     "614": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 3.11903,
+      "d_noop": 3.12513,
+      "filas_distintas": {}
+     }
+    },
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s2_d7_APRENDE_42672922",
+    "slot": 11,
+    "regla": 0,
+    "empate": {
+     "P7_36_empate": false
+    },
+    "veces_regla": 0,
+    "tics": 14280,
+    "fidelidad": {
+     "igual": 14280
+    },
+    "desacuerdos": [],
+    "en_las_cogidas": {},
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s2_d8_APRENDE_42568193",
+    "slot": 10,
+    "regla": 0,
+    "empate": {
+     "P7_36_empate": false
+    },
+    "veces_regla": 0,
+    "tics": 10339,
+    "fidelidad": {
+     "igual": 10339
+    },
+    "desacuerdos": [],
+    "en_las_cogidas": {
+     "603": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 3.11958,
+      "d_noop": 3.12664,
+      "filas_distintas": {}
+     },
+     "647": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 3.1147,
+      "d_noop": 3.11956,
+      "filas_distintas": {}
+     }
+    },
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s2_d8_APRENDE_42568193",
+    "slot": 11,
+    "regla": 0,
+    "empate": {
+     "P7_36_empate": false
+    },
+    "veces_regla": 0,
+    "tics": 12264,
+    "fidelidad": {
+     "igual": 12264
+    },
+    "desacuerdos": [],
+    "en_las_cogidas": {
+     "526": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 3.28394,
+      "d_noop": 3.29192,
+      "filas_distintas": {}
+     }
+    },
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s2_d9_APRENDE_42463464",
+    "slot": 10,
+    "regla": 0,
+    "empate": {
+     "P7_36_empate": false
+    },
+    "veces_regla": 0,
+    "tics": 12000,
+    "fidelidad": {
+     "igual": 12000
+    },
+    "desacuerdos": [],
+    "en_las_cogidas": {
+     "6148": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 3.50604,
+      "d_noop": 3.50887,
+      "filas_distintas": {}
+     }
+    },
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s2_d9_APRENDE_42463464",
+    "slot": 11,
+    "regla": 0,
+    "empate": {
+     "P7_36_empate": false
+    },
+    "veces_regla": 0,
+    "tics": 12589,
+    "fidelidad": {
+     "igual": 12589
+    },
+    "desacuerdos": [],
+    "en_las_cogidas": {},
+    "desajustes": 0
+   }
+  ],
+  "segundos": 516.8
+ },
+ "regla_1": {
+  "vidas": [
+   {
+    "carp": "P734_s1_d10_APRENDE_42254006",
+    "slot": 10,
+    "regla": 1,
+    "empate": {
+     "P7_36_empate": true
+    },
+    "veces_regla": 7,
+    "tics": 14184,
+    "fidelidad": {
+     "igual": 14177,
+     "difiere": 7
+    },
+    "desacuerdos": [
+     {
+      "t": 526,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 11886,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 13009,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 13010,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 13210,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 13211,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 14019,
+      "diario": "coger",
+      "replica": "noop"
+     }
+    ],
+    "en_las_cogidas": {},
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s1_d10_APRENDE_42254006",
+    "slot": 11,
+    "regla": 1,
+    "empate": {
+     "P7_36_empate": true
+    },
+    "veces_regla": 3,
+    "tics": 14208,
+    "fidelidad": {
+     "igual": 14205,
+     "difiere": 3
+    },
+    "desacuerdos": [
+     {
+      "t": 11544,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 14183,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 14600,
+      "diario": "coger",
+      "replica": "atacar_S"
+     }
+    ],
+    "en_las_cogidas": {
+     "10388": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 3.51892,
+      "d_noop": 3.52288,
+      "filas_distintas": {}
+     }
+    },
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s1_d11_APRENDE_42358735",
+    "slot": 10,
+    "regla": 1,
+    "empate": {
+     "P7_36_empate": true
+    },
+    "veces_regla": 1,
+    "tics": 11668,
+    "fidelidad": {
+     "igual": 11667,
+     "difiere": 1
+    },
+    "desacuerdos": [
+     {
+      "t": 1153,
+      "diario": "coger",
+      "replica": "noop"
+     }
+    ],
+    "en_las_cogidas": {},
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s1_d11_APRENDE_42358735",
+    "slot": 11,
+    "regla": 1,
+    "empate": {
+     "P7_36_empate": true
+    },
+    "veces_regla": 3,
+    "tics": 11832,
+    "fidelidad": {
+     "igual": 11829,
+     "difiere": 3
+    },
+    "desacuerdos": [
+     {
+      "t": 636,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 2419,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 9036,
+      "diario": "coger",
+      "replica": "noop"
+     }
+    ],
+    "en_las_cogidas": {
+     "603": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 2.74149,
+      "d_noop": 2.74707,
+      "filas_distintas": {}
+     },
+     "625": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 2.73511,
+      "d_noop": 2.74066,
+      "filas_distintas": {}
+     }
+    },
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s1_d12_APRENDE_42463464",
+    "slot": 10,
+    "regla": 1,
+    "empate": {
+     "P7_36_empate": true
+    },
+    "veces_regla": 0,
+    "tics": 14184,
+    "fidelidad": {
+     "igual": 14184
+    },
+    "desacuerdos": [],
+    "en_las_cogidas": {},
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s1_d12_APRENDE_42463464",
+    "slot": 11,
+    "regla": 1,
+    "empate": {
+     "P7_36_empate": true
+    },
+    "veces_regla": 4,
+    "tics": 11089,
+    "fidelidad": {
+     "igual": 11085,
+     "difiere": 4
+    },
+    "desacuerdos": [
+     {
+      "t": 515,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 2891,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 10054,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 10055,
+      "diario": "coger",
+      "replica": "noop"
+     }
+    ],
+    "en_las_cogidas": {},
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s1_d13_APRENDE_42568193",
+    "slot": 10,
+    "regla": 1,
+    "empate": {
+     "P7_36_empate": true
+    },
+    "veces_regla": 3,
+    "tics": 14223,
+    "fidelidad": {
+     "igual": 14219,
+     "difiere": 4
+    },
+    "desacuerdos": [
+     {
+      "t": 658,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 659,
+      "diario": "coger",
+      "replica": "empunar_blowgun"
+     },
+     {
+      "t": 660,
+      "diario": "empunar_blowgun",
+      "replica": "noop"
+     },
+     {
+      "t": 12637,
+      "diario": "coger",
+      "replica": "noop"
+     }
+    ],
+    "en_las_cogidas": {
+     "603": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 3.11175,
+      "d_noop": 3.1171,
+      "filas_distintas": {}
+     },
+     "647": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 3.10677,
+      "d_noop": 3.11169,
+      "filas_distintas": {}
+     }
+    },
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s1_d13_APRENDE_42568193",
+    "slot": 11,
+    "regla": 1,
+    "empate": {
+     "P7_36_empate": true
+    },
+    "veces_regla": 3,
+    "tics": 12096,
+    "fidelidad": {
+     "igual": 12093,
+     "difiere": 3
+    },
+    "desacuerdos": [
+     {
+      "t": 526,
+      "diario": "coger",
+      "replica": "ir_curioso"
+     },
+     {
+      "t": 1838,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 1860,
+      "diario": "coger",
+      "replica": "noop"
+     }
+    ],
+    "en_las_cogidas": {
+     "526": {
+      "diario": "coger",
+      "replica": "ir_curioso",
+      "elegido": "ir_curioso",
+      "d_coger": 3.24759,
+      "d_noop": 3.25255,
+      "filas_distintas": {}
+     }
+    },
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s1_d14_APRENDE_42672922",
+    "slot": 10,
+    "regla": 1,
+    "empate": {
+     "P7_36_empate": true
+    },
+    "veces_regla": 3,
+    "tics": 14208,
+    "fidelidad": {
+     "igual": 14204,
+     "difiere": 4
+    },
+    "desacuerdos": [
+     {
+      "t": 647,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 648,
+      "diario": "coger",
+      "replica": "empunar_blowgun"
+     },
+     {
+      "t": 649,
+      "diario": "empunar_blowgun",
+      "replica": "noop"
+     },
+     {
+      "t": 11674,
+      "diario": "coger",
+      "replica": "noop"
+     }
+    ],
+    "en_las_cogidas": {
+     "603": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 3.11188,
+      "d_noop": 3.11626,
+      "filas_distintas": {}
+     },
+     "614": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 3.10757,
+      "d_noop": 3.11168,
+      "filas_distintas": {}
+     },
+     "11674": {
+      "diario": "coger",
+      "replica": "noop",
+      "elegido": "noop",
+      "d_coger": 3.85026,
+      "d_noop": 3.85026,
+      "filas_distintas": {}
+     }
+    },
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s1_d14_APRENDE_42672922",
+    "slot": 11,
+    "regla": 1,
+    "empate": {
+     "P7_36_empate": true
+    },
+    "veces_regla": 0,
+    "tics": 13476,
+    "fidelidad": {
+     "igual": 13476
+    },
+    "desacuerdos": [],
+    "en_las_cogidas": {},
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s1_d15_APRENDE_42777651",
+    "slot": 10,
+    "regla": 1,
+    "empate": {
+     "P7_36_empate": true
+    },
+    "veces_regla": 2,
+    "tics": 14161,
+    "fidelidad": {
+     "igual": 14159,
+     "difiere": 2
+    },
+    "desacuerdos": [
+     {
+      "t": 1776,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 11961,
+      "diario": "coger",
+      "replica": "noop"
+     }
+    ],
+    "en_las_cogidas": {
+     "714": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 2.98992,
+      "d_noop": 2.99348,
+      "filas_distintas": {}
+     }
+    },
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s1_d15_APRENDE_42777651",
+    "slot": 11,
+    "regla": 1,
+    "empate": {
+     "P7_36_empate": true
+    },
+    "veces_regla": 1,
+    "tics": 14232,
+    "fidelidad": {
+     "igual": 14231,
+     "difiere": 1
+    },
+    "desacuerdos": [
+     {
+      "t": 9240,
+      "diario": "coger",
+      "replica": "noop"
+     }
+    ],
+    "en_las_cogidas": {
+     "647": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 2.75257,
+      "d_noop": 2.75768,
+      "filas_distintas": {}
+     }
+    },
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s1_d16_APRENDE_42882380",
+    "slot": 10,
+    "regla": 1,
+    "empate": {
+     "P7_36_empate": true
+    },
+    "veces_regla": 3,
+    "tics": 14496,
+    "fidelidad": {
+     "igual": 14493,
+     "difiere": 3
+    },
+    "desacuerdos": [
+     {
+      "t": 504,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 2110,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 13723,
+      "diario": "coger",
+      "replica": "noop"
+     }
+    ],
+    "en_las_cogidas": {
+     "680": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 2.38348,
+      "d_noop": 2.38666,
+      "filas_distintas": {}
+     },
+     "724": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 2.38064,
+      "d_noop": 2.38341,
+      "filas_distintas": {}
+     },
+     "9844": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 3.18797,
+      "d_noop": 3.18944,
+      "filas_distintas": {}
+     }
+    },
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s1_d16_APRENDE_42882380",
+    "slot": 11,
+    "regla": 1,
+    "empate": {
+     "P7_36_empate": true
+    },
+    "veces_regla": 2,
+    "tics": 11712,
+    "fidelidad": {
+     "igual": 11710,
+     "difiere": 2
+    },
+    "desacuerdos": [
+     {
+      "t": 4961,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 10234,
+      "diario": "coger",
+      "replica": "noop"
+     }
+    ],
+    "en_las_cogidas": {},
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s1_d17_APRENDE_42987109",
+    "slot": 10,
+    "regla": 1,
+    "empate": {
+     "P7_36_empate": true
+    },
+    "veces_regla": 0,
+    "tics": 11763,
+    "fidelidad": {
+     "igual": 11763
+    },
+    "desacuerdos": [],
+    "en_las_cogidas": {
+     "658": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 2.95118,
+      "d_noop": 2.95436,
+      "filas_distintas": {}
+     }
+    },
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s1_d17_APRENDE_42987109",
+    "slot": 11,
+    "regla": 1,
+    "empate": {
+     "P7_36_empate": true
+    },
+    "veces_regla": 53,
+    "tics": 12528,
+    "fidelidad": {
+     "igual": 12475,
+     "difiere": 53
+    },
+    "desacuerdos": [
+     {
+      "t": 8098,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 8120,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 8142,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 8164,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 8186,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 8208,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 8230,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 8252,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 8274,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 8296,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 8318,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 8340,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 8362,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 8384,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 8406,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 8428,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 8450,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 8472,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 8494,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 8516,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 8538,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 8560,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 8582,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 8604,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 8626,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 8648,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 8670,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 8692,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 8714,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 8736,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 8758,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 8780,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 8802,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 8824,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 8846,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 8868,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 8890,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 8912,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 8934,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 8956,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 8978,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 9000,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 9022,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 9044,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 9066,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 9088,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 9110,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 9132,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 9154,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 9176,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 9198,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 9220,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 12010,
+      "diario": "coger",
+      "replica": "noop"
+     }
+    ],
+    "en_las_cogidas": {
+     "680": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 2.75916,
+      "d_noop": 2.76363,
+      "filas_distintas": {}
+     }
+    },
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s1_d18_APRENDE_43091838",
+    "slot": 10,
+    "regla": 1,
+    "empate": {
+     "P7_36_empate": true
+    },
+    "veces_regla": 1,
+    "tics": 11580,
+    "fidelidad": {
+     "igual": 11579,
+     "difiere": 1
+    },
+    "desacuerdos": [
+     {
+      "t": 515,
+      "diario": "coger",
+      "replica": "noop"
+     }
+    ],
+    "en_las_cogidas": {},
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s1_d18_APRENDE_43091838",
+    "slot": 11,
+    "regla": 1,
+    "empate": {
+     "P7_36_empate": true
+    },
+    "veces_regla": 0,
+    "tics": 11016,
+    "fidelidad": {
+     "igual": 11016
+    },
+    "desacuerdos": [],
+    "en_las_cogidas": {},
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s1_d19_APRENDE_43196567",
+    "slot": 10,
+    "regla": 1,
+    "empate": {
+     "P7_36_empate": true
+    },
+    "veces_regla": 0,
+    "tics": 10440,
+    "fidelidad": {
+     "igual": 10440
+    },
+    "desacuerdos": [],
+    "en_las_cogidas": {},
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s1_d19_APRENDE_43196567",
+    "slot": 11,
+    "regla": 1,
+    "empate": {
+     "P7_36_empate": true
+    },
+    "veces_regla": 2,
+    "tics": 12552,
+    "fidelidad": {
+     "igual": 12550,
+     "difiere": 2
+    },
+    "desacuerdos": [
+     {
+      "t": 11046,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 11567,
+      "diario": "coger",
+      "replica": "ir_curioso"
+     }
+    ],
+    "en_las_cogidas": {
+     "680": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 3.47517,
+      "d_noop": 3.47786,
+      "filas_distintas": {}
+     },
+     "11567": {
+      "diario": "coger",
+      "replica": "ir_curioso",
+      "elegido": "ir_curioso",
+      "d_coger": 4.03338,
+      "d_noop": 4.03539,
+      "filas_distintas": {}
+     }
+    },
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s1_d1_APRENDE_41311445",
+    "slot": 10,
+    "regla": 1,
+    "empate": {
+     "P7_36_empate": true
+    },
+    "veces_regla": 11,
+    "tics": 14568,
+    "fidelidad": {
+     "igual": 14557,
+     "difiere": 11
+    },
+    "desacuerdos": [
+     {
+      "t": 592,
+      "diario": "coger",
+      "replica": "ir_curioso"
+     },
+     {
+      "t": 614,
+      "diario": "coger",
+      "replica": "ir_curioso"
+     },
+     {
+      "t": 1212,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 2049,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 12581,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 13175,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 14131,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 14160,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 14191,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 14213,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 14236,
+      "diario": "coger",
+      "replica": "noop"
+     }
+    ],
+    "en_las_cogidas": {
+     "592": {
+      "diario": "coger",
+      "replica": "ir_curioso",
+      "elegido": "ir_curioso",
+      "d_coger": 3.16388,
+      "d_noop": 3.18526,
+      "filas_distintas": {}
+     },
+     "625": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 3.12127,
+      "d_noop": 3.14255,
+      "filas_distintas": {}
+     }
+    },
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s1_d1_APRENDE_41311445",
+    "slot": 11,
+    "regla": 1,
+    "empate": {
+     "P7_36_empate": true
+    },
+    "veces_regla": 12,
+    "tics": 14568,
+    "fidelidad": {
+     "igual": 14556,
+     "difiere": 12
+    },
+    "desacuerdos": [
+     {
+      "t": 3331,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 11679,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 11680,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 12194,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 12195,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 13357,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 14344,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 14410,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 14520,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 14597,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 14619,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 14663,
+      "diario": "coger",
+      "replica": "noop"
+     }
+    ],
+    "en_las_cogidas": {},
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s1_d20_APRENDE_43301296",
+    "slot": 10,
+    "regla": 1,
+    "empate": {
+     "P7_36_empate": true
+    },
+    "veces_regla": 7,
+    "tics": 14472,
+    "fidelidad": {
+     "igual": 14465,
+     "difiere": 7
+    },
+    "desacuerdos": [
+     {
+      "t": 493,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 1738,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 8503,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 14596,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 14761,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 14762,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 14765,
+      "diario": "coger",
+      "replica": "noop"
+     }
+    ],
+    "en_las_cogidas": {
+     "647": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 2.83848,
+      "d_noop": 2.84146,
+      "filas_distintas": {}
+     },
+     "1785": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 3.36602,
+      "d_noop": 3.36738,
+      "filas_distintas": {}
+     },
+     "14766": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 3.63264,
+      "d_noop": 3.63375,
+      "filas_distintas": {}
+     }
+    },
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s1_d20_APRENDE_43301296",
+    "slot": 11,
+    "regla": 1,
+    "empate": {
+     "P7_36_empate": true
+    },
+    "veces_regla": 4,
+    "tics": 11328,
+    "fidelidad": {
+     "igual": 11324,
+     "difiere": 4
+    },
+    "desacuerdos": [
+     {
+      "t": 1807,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 1817,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 8466,
+      "diario": "coger",
+      "replica": "ir_curioso"
+     },
+     {
+      "t": 9422,
+      "diario": "coger",
+      "replica": "noop"
+     }
+    ],
+    "en_las_cogidas": {},
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s1_d2_APRENDE_41416174",
+    "slot": 10,
+    "regla": 1,
+    "empate": {
+     "P7_36_empate": true
+    },
+    "veces_regla": 3,
+    "tics": 14472,
+    "fidelidad": {
+     "igual": 14469,
+     "difiere": 3
+    },
+    "desacuerdos": [
+     {
+      "t": 8100,
+      "diario": "coger",
+      "replica": "ir_curioso"
+     },
+     {
+      "t": 8111,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 12567,
+      "diario": "coger",
+      "replica": "noop"
+     }
+    ],
+    "en_las_cogidas": {
+     "636": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 2.96296,
+      "d_noop": 2.97363,
+      "filas_distintas": {}
+     }
+    },
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s1_d2_APRENDE_41416174",
+    "slot": 11,
+    "regla": 1,
+    "empate": {
+     "P7_36_empate": true
+    },
+    "veces_regla": 3,
+    "tics": 14472,
+    "fidelidad": {
+     "igual": 14469,
+     "difiere": 3
+    },
+    "desacuerdos": [
+     {
+      "t": 625,
+      "diario": "coger",
+      "replica": "ir_curioso"
+     },
+     {
+      "t": 12349,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 12387,
+      "diario": "coger",
+      "replica": "noop"
+     }
+    ],
+    "en_las_cogidas": {
+     "625": {
+      "diario": "coger",
+      "replica": "ir_curioso",
+      "elegido": "ir_curioso",
+      "d_coger": 2.81719,
+      "d_noop": 2.83771,
+      "filas_distintas": {}
+     }
+    },
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s1_d3_APRENDE_41520903",
+    "slot": 10,
+    "regla": 1,
+    "empate": {
+     "P7_36_empate": true
+    },
+    "veces_regla": 8,
+    "tics": 14328,
+    "fidelidad": {
+     "igual": 14320,
+     "difiere": 8
+    },
+    "desacuerdos": [
+     {
+      "t": 526,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 1929,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 4943,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 8080,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 9241,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 12832,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 14022,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 14044,
+      "diario": "coger",
+      "replica": "noop"
+     }
+    ],
+    "en_las_cogidas": {},
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s1_d3_APRENDE_41520903",
+    "slot": 11,
+    "regla": 1,
+    "empate": {
+     "P7_36_empate": true
+    },
+    "veces_regla": 3,
+    "tics": 14148,
+    "fidelidad": {
+     "igual": 14145,
+     "difiere": 3
+    },
+    "desacuerdos": [
+     {
+      "t": 724,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 12765,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 12842,
+      "diario": "coger",
+      "replica": "noop"
+     }
+    ],
+    "en_las_cogidas": {
+     "691": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 3.21066,
+      "d_noop": 3.23214,
+      "filas_distintas": {}
+     },
+     "1065": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 3.21426,
+      "d_noop": 3.21864,
+      "filas_distintas": {}
+     },
+     "12765": {
+      "diario": "coger",
+      "replica": "noop",
+      "elegido": "noop",
+      "d_coger": 3.32163,
+      "d_noop": 3.32163,
+      "filas_distintas": {}
+     }
+    },
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s1_d4_APRENDE_41625632",
+    "slot": 10,
+    "regla": 1,
+    "empate": {
+     "P7_36_empate": true
+    },
+    "veces_regla": 6,
+    "tics": 12456,
+    "fidelidad": {
+     "igual": 12450,
+     "difiere": 6
+    },
+    "desacuerdos": [
+     {
+      "t": 625,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 12625,
+      "diario": "coger",
+      "replica": "ir_curioso"
+     },
+     {
+      "t": 12888,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 12889,
+      "diario": "coger",
+      "replica": "ir_curioso"
+     },
+     {
+      "t": 12890,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 12892,
+      "diario": "coger",
+      "replica": "noop"
+     }
+    ],
+    "en_las_cogidas": {
+     "12889": {
+      "diario": "coger",
+      "replica": "ir_curioso",
+      "elegido": "ir_curioso",
+      "d_coger": 5.52017,
+      "d_noop": 5.52652,
+      "filas_distintas": {}
+     }
+    },
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s1_d4_APRENDE_41625632",
+    "slot": 11,
+    "regla": 1,
+    "empate": {
+     "P7_36_empate": true
+    },
+    "veces_regla": 2,
+    "tics": 12360,
+    "fidelidad": {
+     "igual": 12358,
+     "difiere": 2
+    },
+    "desacuerdos": [
+     {
+      "t": 9355,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 10093,
+      "diario": "coger",
+      "replica": "noop"
+     }
+    ],
+    "en_las_cogidas": {
+     "10599": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 3.71725,
+      "d_noop": 3.7205,
+      "filas_distintas": {}
+     }
+    },
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s1_d5_APRENDE_41730361",
+    "slot": 10,
+    "regla": 1,
+    "empate": {
+     "P7_36_empate": true
+    },
+    "veces_regla": 3,
+    "tics": 12264,
+    "fidelidad": {
+     "igual": 12261,
+     "difiere": 3
+    },
+    "desacuerdos": [
+     {
+      "t": 515,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 955,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 1010,
+      "diario": "coger",
+      "replica": "noop"
+     }
+    ],
+    "en_las_cogidas": {
+     "592": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 3.00098,
+      "d_noop": 3.01239,
+      "filas_distintas": {}
+     },
+     "647": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 2.99389,
+      "d_noop": 3.00104,
+      "filas_distintas": {}
+     }
+    },
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s1_d5_APRENDE_41730361",
+    "slot": 11,
+    "regla": 1,
+    "empate": {
+     "P7_36_empate": true
+    },
+    "veces_regla": 2,
+    "tics": 13713,
+    "fidelidad": {
+     "igual": 13711,
+     "difiere": 2
+    },
+    "desacuerdos": [
+     {
+      "t": 9511,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 12386,
+      "diario": "coger",
+      "replica": "noop"
+     }
+    ],
+    "en_las_cogidas": {},
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s1_d6_APRENDE_41835090",
+    "slot": 10,
+    "regla": 1,
+    "empate": {
+     "P7_36_empate": true
+    },
+    "veces_regla": 2,
+    "tics": 13225,
+    "fidelidad": {
+     "igual": 13223,
+     "difiere": 2
+    },
+    "desacuerdos": [
+     {
+      "t": 625,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 9284,
+      "diario": "coger",
+      "replica": "noop"
+     }
+    ],
+    "en_las_cogidas": {
+     "592": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 2.95079,
+      "d_noop": 2.95837,
+      "filas_distintas": {}
+     },
+     "614": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 2.9429,
+      "d_noop": 2.95024,
+      "filas_distintas": {}
+     }
+    },
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s1_d6_APRENDE_41835090",
+    "slot": 11,
+    "regla": 1,
+    "empate": {
+     "P7_36_empate": true
+    },
+    "veces_regla": 1,
+    "tics": 12288,
+    "fidelidad": {
+     "igual": 12287,
+     "difiere": 1
+    },
+    "desacuerdos": [
+     {
+      "t": 749,
+      "diario": "coger",
+      "replica": "noop"
+     }
+    ],
+    "en_las_cogidas": {},
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s1_d7_APRENDE_41939819",
+    "slot": 10,
+    "regla": 1,
+    "empate": {
+     "P7_36_empate": true
+    },
+    "veces_regla": 2,
+    "tics": 11616,
+    "fidelidad": {
+     "igual": 11614,
+     "difiere": 2
+    },
+    "desacuerdos": [
+     {
+      "t": 8517,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 8701,
+      "diario": "coger",
+      "replica": "noop"
+     }
+    ],
+    "en_las_cogidas": {},
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s1_d7_APRENDE_41939819",
+    "slot": 11,
+    "regla": 1,
+    "empate": {
+     "P7_36_empate": true
+    },
+    "veces_regla": 1,
+    "tics": 12120,
+    "fidelidad": {
+     "igual": 12119,
+     "difiere": 1
+    },
+    "desacuerdos": [
+     {
+      "t": 8413,
+      "diario": "coger",
+      "replica": "noop"
+     }
+    ],
+    "en_las_cogidas": {},
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s1_d8_APRENDE_42044548",
+    "slot": 10,
+    "regla": 1,
+    "empate": {
+     "P7_36_empate": true
+    },
+    "veces_regla": 0,
+    "tics": 2386,
+    "fidelidad": {
+     "igual": 2386
+    },
+    "desacuerdos": [],
+    "en_las_cogidas": {},
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s1_d8_APRENDE_42044548",
+    "slot": 11,
+    "regla": 1,
+    "empate": {
+     "P7_36_empate": true
+    },
+    "veces_regla": 3,
+    "tics": 7673,
+    "fidelidad": {
+     "igual": 7670,
+     "difiere": 3
+    },
+    "desacuerdos": [
+     {
+      "t": 493,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 812,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 4849,
+      "diario": "coger",
+      "replica": "noop"
+     }
+    ],
+    "en_las_cogidas": {
+     "900": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 3.4554,
+      "d_noop": 3.46132,
+      "filas_distintas": {}
+     }
+    },
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s1_d9_APRENDE_42149277",
+    "slot": 10,
+    "regla": 1,
+    "empate": {
+     "P7_36_empate": true
+    },
+    "veces_regla": 3,
+    "tics": 14568,
+    "fidelidad": {
+     "igual": 14565,
+     "difiere": 3
+    },
+    "desacuerdos": [
+     {
+      "t": 614,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 10373,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 11898,
+      "diario": "coger",
+      "replica": "noop"
+     }
+    ],
+    "en_las_cogidas": {
+     "603": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 3.37133,
+      "d_noop": 3.37434,
+      "filas_distintas": {}
+     },
+     "11690": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 2.77996,
+      "d_noop": 2.7829,
+      "filas_distintas": {}
+     },
+     "11898": {
+      "diario": "coger",
+      "replica": "noop",
+      "elegido": "noop",
+      "d_coger": 2.77986,
+      "d_noop": 2.77986,
+      "filas_distintas": {}
+     }
+    },
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s1_d9_APRENDE_42149277",
+    "slot": 11,
+    "regla": 1,
+    "empate": {
+     "P7_36_empate": true
+    },
+    "veces_regla": 1,
+    "tics": 14568,
+    "fidelidad": {
+     "igual": 14567,
+     "difiere": 1
+    },
+    "desacuerdos": [
+     {
+      "t": 636,
+      "diario": "coger",
+      "replica": "noop"
+     }
+    ],
+    "en_las_cogidas": {},
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s2_d10_APRENDE_42358735",
+    "slot": 10,
+    "regla": 1,
+    "empate": {
+     "P7_36_empate": true
+    },
+    "veces_regla": 2,
+    "tics": 14160,
+    "fidelidad": {
+     "igual": 14158,
+     "difiere": 2
+    },
+    "desacuerdos": [
+     {
+      "t": 1978,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 2125,
+      "diario": "coger",
+      "replica": "noop"
+     }
+    ],
+    "en_las_cogidas": {},
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s2_d10_APRENDE_42358735",
+    "slot": 11,
+    "regla": 1,
+    "empate": {
+     "P7_36_empate": true
+    },
+    "veces_regla": 3,
+    "tics": 14448,
+    "fidelidad": {
+     "igual": 14445,
+     "difiere": 3
+    },
+    "desacuerdos": [
+     {
+      "t": 1329,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 10780,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 14637,
+      "diario": "coger",
+      "replica": "noop"
+     }
+    ],
+    "en_las_cogidas": {
+     "625": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 2.77484,
+      "d_noop": 2.78282,
+      "filas_distintas": {}
+     },
+     "647": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 2.76926,
+      "d_noop": 2.77464,
+      "filas_distintas": {}
+     }
+    },
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s2_d11_APRENDE_42254006",
+    "slot": 10,
+    "regla": 1,
+    "empate": {
+     "P7_36_empate": true
+    },
+    "veces_regla": 5,
+    "tics": 14208,
+    "fidelidad": {
+     "igual": 14203,
+     "difiere": 5
+    },
+    "desacuerdos": [
+     {
+      "t": 537,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 2498,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 2509,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 8406,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 13373,
+      "diario": "coger",
+      "replica": "noop"
+     }
+    ],
+    "en_las_cogidas": {
+     "2385": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 3.45128,
+      "d_noop": 3.45352,
+      "filas_distintas": {}
+     }
+    },
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s2_d11_APRENDE_42254006",
+    "slot": 11,
+    "regla": 1,
+    "empate": {
+     "P7_36_empate": true
+    },
+    "veces_regla": 1,
+    "tics": 12912,
+    "fidelidad": {
+     "igual": 12911,
+     "difiere": 1
+    },
+    "desacuerdos": [
+     {
+      "t": 11539,
+      "diario": "coger",
+      "replica": "noop"
+     }
+    ],
+    "en_las_cogidas": {
+     "11440": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 3.85445,
+      "d_noop": 3.85696,
+      "filas_distintas": {}
+     }
+    },
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s2_d12_APRENDE_42149277",
+    "slot": 10,
+    "regla": 1,
+    "empate": {
+     "P7_36_empate": true
+    },
+    "veces_regla": 2,
+    "tics": 13320,
+    "fidelidad": {
+     "igual": 13318,
+     "difiere": 2
+    },
+    "desacuerdos": [
+     {
+      "t": 669,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 12150,
+      "diario": "coger",
+      "replica": "noop"
+     }
+    ],
+    "en_las_cogidas": {},
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s2_d12_APRENDE_42149277",
+    "slot": 11,
+    "regla": 1,
+    "empate": {
+     "P7_36_empate": true
+    },
+    "veces_regla": 4,
+    "tics": 13440,
+    "fidelidad": {
+     "igual": 13436,
+     "difiere": 4
+    },
+    "desacuerdos": [
+     {
+      "t": 626,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 12333,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 13288,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 13289,
+      "diario": "coger",
+      "replica": "noop"
+     }
+    ],
+    "en_las_cogidas": {
+     "615": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 3.73523,
+      "d_noop": 3.73873,
+      "filas_distintas": {}
+     }
+    },
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s2_d13_APRENDE_42044548",
+    "slot": 10,
+    "regla": 1,
+    "empate": {
+     "P7_36_empate": true
+    },
+    "veces_regla": 2,
+    "tics": 14208,
+    "fidelidad": {
+     "igual": 14206,
+     "difiere": 2
+    },
+    "desacuerdos": [
+     {
+      "t": 1418,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 13219,
+      "diario": "coger",
+      "replica": "noop"
+     }
+    ],
+    "en_las_cogidas": {
+     "1176": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 3.28836,
+      "d_noop": 3.29195,
+      "filas_distintas": {
+       "R-CARENCIA": [
+        0.83586,
+        0.83707
+       ],
+       "R-CURIOSIDAD": [
+        0.00934,
+        0.01195
+       ]
+      }
+     },
+     "1308": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 2.91051,
+      "d_noop": 2.91415,
+      "filas_distintas": {}
+     }
+    },
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s2_d13_APRENDE_42044548",
+    "slot": 11,
+    "regla": 1,
+    "empate": {
+     "P7_36_empate": true
+    },
+    "veces_regla": 5,
+    "tics": 14276,
+    "fidelidad": {
+     "igual": 14271,
+     "difiere": 5
+    },
+    "desacuerdos": [
+     {
+      "t": 493,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 9097,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 12657,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 13273,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 14688,
+      "diario": "coger",
+      "replica": "noop"
+     }
+    ],
+    "en_las_cogidas": {},
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s2_d14_APRENDE_41939819",
+    "slot": 10,
+    "regla": 1,
+    "empate": {
+     "P7_36_empate": true
+    },
+    "veces_regla": 0,
+    "tics": 435,
+    "fidelidad": {
+     "difiere": 1,
+     "igual": 434
+    },
+    "desacuerdos": [
+     {
+      "t": 481,
+      "diario": "ir_curioso",
+      "replica": "ir_botin"
+     }
+    ],
+    "en_las_cogidas": {},
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s2_d14_APRENDE_41939819",
+    "slot": 11,
+    "regla": 1,
+    "empate": {
+     "P7_36_empate": true
+    },
+    "veces_regla": 1,
+    "tics": 543,
+    "fidelidad": {
+     "igual": 542,
+     "difiere": 1
+    },
+    "desacuerdos": [
+     {
+      "t": 845,
+      "diario": "coger",
+      "replica": "noop"
+     }
+    ],
+    "en_las_cogidas": {},
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s2_d15_APRENDE_41835090",
+    "slot": 10,
+    "regla": 1,
+    "empate": {
+     "P7_36_empate": true
+    },
+    "veces_regla": 2,
+    "tics": 14197,
+    "fidelidad": {
+     "igual": 14195,
+     "difiere": 2
+    },
+    "desacuerdos": [
+     {
+      "t": 8128,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 9538,
+      "diario": "coger",
+      "replica": "noop"
+     }
+    ],
+    "en_las_cogidas": {
+     "614": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 3.20401,
+      "d_noop": 3.20573,
+      "filas_distintas": {}
+     },
+     "680": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 2.97552,
+      "d_noop": 2.98011,
+      "filas_distintas": {}
+     }
+    },
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s2_d15_APRENDE_41835090",
+    "slot": 11,
+    "regla": 1,
+    "empate": {
+     "P7_36_empate": true
+    },
+    "veces_regla": 13,
+    "tics": 14352,
+    "fidelidad": {
+     "igual": 14339,
+     "difiere": 13
+    },
+    "desacuerdos": [
+     {
+      "t": 614,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 1673,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 8096,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 9428,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 9475,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 9547,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 9583,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 9631,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 9655,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 9727,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 9751,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 12210,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 13780,
+      "diario": "coger",
+      "replica": "noop"
+     }
+    ],
+    "en_las_cogidas": {},
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s2_d16_APRENDE_41730361",
+    "slot": 10,
+    "regla": 1,
+    "empate": {
+     "P7_36_empate": true
+    },
+    "veces_regla": 2,
+    "tics": 14544,
+    "fidelidad": {
+     "igual": 14542,
+     "difiere": 2
+    },
+    "desacuerdos": [
+     {
+      "t": 12894,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 12895,
+      "diario": "coger",
+      "replica": "noop"
+     }
+    ],
+    "en_las_cogidas": {
+     "1063": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 3.68752,
+      "d_noop": 3.69111,
+      "filas_distintas": {}
+     }
+    },
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s2_d16_APRENDE_41730361",
+    "slot": 11,
+    "regla": 1,
+    "empate": {
+     "P7_36_empate": true
+    },
+    "veces_regla": 2,
+    "tics": 14544,
+    "fidelidad": {
+     "igual": 14542,
+     "difiere": 2
+    },
+    "desacuerdos": [
+     {
+      "t": 2045,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 12162,
+      "diario": "coger",
+      "replica": "noop"
+     }
+    ],
+    "en_las_cogidas": {
+     "1021": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 3.64072,
+      "d_noop": 3.64376,
+      "filas_distintas": {}
+     }
+    },
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s2_d17_APRENDE_41625632",
+    "slot": 10,
+    "regla": 1,
+    "empate": {
+     "P7_36_empate": true
+    },
+    "veces_regla": 4,
+    "tics": 14280,
+    "fidelidad": {
+     "igual": 14276,
+     "difiere": 4
+    },
+    "desacuerdos": [
+     {
+      "t": 625,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 1197,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 1230,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 14041,
+      "diario": "coger",
+      "replica": "noop"
+     }
+    ],
+    "en_las_cogidas": {
+     "1208": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 3.40083,
+      "d_noop": 3.40243,
+      "filas_distintas": {}
+     }
+    },
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s2_d17_APRENDE_41625632",
+    "slot": 11,
+    "regla": 1,
+    "empate": {
+     "P7_36_empate": true
+    },
+    "veces_regla": 0,
+    "tics": 10198,
+    "fidelidad": {
+     "igual": 10198
+    },
+    "desacuerdos": [],
+    "en_las_cogidas": {},
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s2_d18_APRENDE_41520903",
+    "slot": 10,
+    "regla": 1,
+    "empate": {
+     "P7_36_empate": true
+    },
+    "veces_regla": 3,
+    "tics": 11952,
+    "fidelidad": {
+     "igual": 11949,
+     "difiere": 3
+    },
+    "desacuerdos": [
+     {
+      "t": 1605,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 5053,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 10802,
+      "diario": "coger",
+      "replica": "noop"
+     }
+    ],
+    "en_las_cogidas": {},
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s2_d18_APRENDE_41520903",
+    "slot": 11,
+    "regla": 1,
+    "empate": {
+     "P7_36_empate": true
+    },
+    "veces_regla": 3,
+    "tics": 14136,
+    "fidelidad": {
+     "igual": 14133,
+     "difiere": 3
+    },
+    "desacuerdos": [
+     {
+      "t": 1614,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 13231,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 13232,
+      "diario": "coger",
+      "replica": "noop"
+     }
+    ],
+    "en_las_cogidas": {
+     "1153": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 3.60116,
+      "d_noop": 3.60365,
+      "filas_distintas": {}
+     },
+     "1263": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 3.30479,
+      "d_noop": 3.31011,
+      "filas_distintas": {}
+     },
+     "13231": {
+      "diario": "coger",
+      "replica": "noop",
+      "elegido": "noop",
+      "d_coger": 4.56204,
+      "d_noop": 4.56204,
+      "filas_distintas": {}
+     }
+    },
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s2_d19_APRENDE_41416174",
+    "slot": 10,
+    "regla": 1,
+    "empate": {
+     "P7_36_empate": true
+    },
+    "veces_regla": 6,
+    "tics": 14280,
+    "fidelidad": {
+     "igual": 14274,
+     "difiere": 6
+    },
+    "desacuerdos": [
+     {
+      "t": 603,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 2257,
+      "diario": "coger",
+      "replica": "ir_curioso"
+     },
+     {
+      "t": 7974,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 8019,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 8053,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 8075,
+      "diario": "coger",
+      "replica": "noop"
+     }
+    ],
+    "en_las_cogidas": {
+     "592": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 2.73038,
+      "d_noop": 2.73395,
+      "filas_distintas": {}
+     }
+    },
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s2_d19_APRENDE_41416174",
+    "slot": 11,
+    "regla": 1,
+    "empate": {
+     "P7_36_empate": true
+    },
+    "veces_regla": 3,
+    "tics": 14256,
+    "fidelidad": {
+     "igual": 14253,
+     "difiere": 3
+    },
+    "desacuerdos": [
+     {
+      "t": 10267,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 11565,
+      "diario": "coger",
+      "replica": "ir_curioso"
+     },
+     {
+      "t": 12246,
+      "diario": "coger",
+      "replica": "noop"
+     }
+    ],
+    "en_las_cogidas": {
+     "703": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 3.03138,
+      "d_noop": 3.03537,
+      "filas_distintas": {}
+     }
+    },
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s2_d1_APRENDE_43301296",
+    "slot": 10,
+    "regla": 1,
+    "empate": {
+     "P7_36_empate": true
+    },
+    "veces_regla": 6,
+    "tics": 14328,
+    "fidelidad": {
+     "igual": 14322,
+     "difiere": 6
+    },
+    "desacuerdos": [
+     {
+      "t": 493,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 625,
+      "diario": "coger",
+      "replica": "ir_curioso"
+     },
+     {
+      "t": 669,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 14082,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 14083,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 14264,
+      "diario": "coger",
+      "replica": "noop"
+     }
+    ],
+    "en_las_cogidas": {
+     "625": {
+      "diario": "coger",
+      "replica": "ir_curioso",
+      "elegido": "ir_curioso",
+      "d_coger": 2.74527,
+      "d_noop": 2.76556,
+      "filas_distintas": {}
+     }
+    },
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s2_d1_APRENDE_43301296",
+    "slot": 11,
+    "regla": 1,
+    "empate": {
+     "P7_36_empate": true
+    },
+    "veces_regla": 0,
+    "tics": 10296,
+    "fidelidad": {
+     "igual": 10296
+    },
+    "desacuerdos": [],
+    "en_las_cogidas": {},
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s2_d20_APRENDE_41311445",
+    "slot": 10,
+    "regla": 1,
+    "empate": {
+     "P7_36_empate": true
+    },
+    "veces_regla": 3,
+    "tics": 14448,
+    "fidelidad": {
+     "igual": 14445,
+     "difiere": 3
+    },
+    "desacuerdos": [
+     {
+      "t": 1068,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 2291,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 12762,
+      "diario": "coger",
+      "replica": "ir_curioso"
+     }
+    ],
+    "en_las_cogidas": {
+     "605": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 2.74302,
+      "d_noop": 2.74604,
+      "filas_distintas": {}
+     },
+     "924": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 2.9671,
+      "d_noop": 2.97006,
+      "filas_distintas": {}
+     }
+    },
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s2_d20_APRENDE_41311445",
+    "slot": 11,
+    "regla": 1,
+    "empate": {
+     "P7_36_empate": true
+    },
+    "veces_regla": 3,
+    "tics": 14448,
+    "fidelidad": {
+     "igual": 14445,
+     "difiere": 3
+    },
+    "desacuerdos": [
+     {
+      "t": 955,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 1090,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 13425,
+      "diario": "coger",
+      "replica": "noop"
+     }
+    ],
+    "en_las_cogidas": {},
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s2_d2_APRENDE_43196567",
+    "slot": 10,
+    "regla": 1,
+    "empate": {
+     "P7_36_empate": true
+    },
+    "veces_regla": 1,
+    "tics": 12600,
+    "fidelidad": {
+     "igual": 12599,
+     "difiere": 1
+    },
+    "desacuerdos": [
+     {
+      "t": 549,
+      "diario": "coger",
+      "replica": "noop"
+     }
+    ],
+    "en_las_cogidas": {},
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s2_d2_APRENDE_43196567",
+    "slot": 11,
+    "regla": 1,
+    "empate": {
+     "P7_36_empate": true
+    },
+    "veces_regla": 0,
+    "tics": 10248,
+    "fidelidad": {
+     "igual": 10248
+    },
+    "desacuerdos": [],
+    "en_las_cogidas": {},
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s2_d3_APRENDE_43091838",
+    "slot": 10,
+    "regla": 1,
+    "empate": {
+     "P7_36_empate": true
+    },
+    "veces_regla": 1,
+    "tics": 10962,
+    "fidelidad": {
+     "igual": 10961,
+     "difiere": 1
+    },
+    "desacuerdos": [
+     {
+      "t": 515,
+      "diario": "coger",
+      "replica": "noop"
+     }
+    ],
+    "en_las_cogidas": {},
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s2_d3_APRENDE_43091838",
+    "slot": 11,
+    "regla": 1,
+    "empate": {
+     "P7_36_empate": true
+    },
+    "veces_regla": 1,
+    "tics": 10344,
+    "fidelidad": {
+     "igual": 10343,
+     "difiere": 1
+    },
+    "desacuerdos": [
+     {
+      "t": 10785,
+      "diario": "coger",
+      "replica": "ir_curioso"
+     }
+    ],
+    "en_las_cogidas": {},
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s2_d4_APRENDE_42987109",
+    "slot": 10,
+    "regla": 1,
+    "empate": {
+     "P7_36_empate": true
+    },
+    "veces_regla": 1,
+    "tics": 11220,
+    "fidelidad": {
+     "igual": 11219,
+     "difiere": 1
+    },
+    "desacuerdos": [
+     {
+      "t": 10435,
+      "diario": "coger",
+      "replica": "noop"
+     }
+    ],
+    "en_las_cogidas": {},
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s2_d4_APRENDE_42987109",
+    "slot": 11,
+    "regla": 1,
+    "empate": {
+     "P7_36_empate": true
+    },
+    "veces_regla": 4,
+    "tics": 14472,
+    "fidelidad": {
+     "igual": 14468,
+     "difiere": 4
+    },
+    "desacuerdos": [
+     {
+      "t": 648,
+      "diario": "coger",
+      "replica": "ir_curioso"
+     },
+     {
+      "t": 10668,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 14712,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 14715,
+      "diario": "coger",
+      "replica": "noop"
+     }
+    ],
+    "en_las_cogidas": {
+     "1043": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 3.59144,
+      "d_noop": 3.60264,
+      "filas_distintas": {}
+     },
+     "1512": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 3.43033,
+      "d_noop": 3.4418,
+      "filas_distintas": {
+       "R-CURIOSIDAD": [
+        0.03619,
+        0.04806
+       ]
+      }
+     }
+    },
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s2_d5_APRENDE_42882380",
+    "slot": 10,
+    "regla": 1,
+    "empate": {
+     "P7_36_empate": true
+    },
+    "veces_regla": 5,
+    "tics": 14244,
+    "fidelidad": {
+     "igual": 14239,
+     "difiere": 5
+    },
+    "desacuerdos": [
+     {
+      "t": 504,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 691,
+      "diario": "coger",
+      "replica": "ir_curioso"
+     },
+     {
+      "t": 2539,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 11727,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 11768,
+      "diario": "coger",
+      "replica": "noop"
+     }
+    ],
+    "en_las_cogidas": {
+     "691": {
+      "diario": "coger",
+      "replica": "ir_curioso",
+      "elegido": "ir_curioso",
+      "d_coger": 2.36521,
+      "d_noop": 2.38347,
+      "filas_distintas": {}
+     },
+     "11739": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 3.31322,
+      "d_noop": 3.31725,
+      "filas_distintas": {}
+     }
+    },
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s2_d5_APRENDE_42882380",
+    "slot": 11,
+    "regla": 1,
+    "empate": {
+     "P7_36_empate": true
+    },
+    "veces_regla": 10,
+    "tics": 14378,
+    "fidelidad": {
+     "igual": 14368,
+     "difiere": 10
+    },
+    "desacuerdos": [
+     {
+      "t": 515,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 8008,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 11071,
+      "diario": "coger",
+      "replica": "ir_curioso"
+     },
+     {
+      "t": 12686,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 12688,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 14048,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 14082,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 14083,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 14100,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 14101,
+      "diario": "coger",
+      "replica": "noop"
+     }
+    ],
+    "en_las_cogidas": {
+     "715": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 2.60809,
+      "d_noop": 2.61781,
+      "filas_distintas": {}
+     }
+    },
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s2_d6_APRENDE_42777651",
+    "slot": 10,
+    "regla": 1,
+    "empate": {
+     "P7_36_empate": true
+    },
+    "veces_regla": 2,
+    "tics": 14424,
+    "fidelidad": {
+     "igual": 14422,
+     "difiere": 2
+    },
+    "desacuerdos": [
+     {
+      "t": 1747,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 11571,
+      "diario": "coger",
+      "replica": "noop"
+     }
+    ],
+    "en_las_cogidas": {
+     "658": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 3.13599,
+      "d_noop": 3.15731,
+      "filas_distintas": {}
+     }
+    },
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s2_d6_APRENDE_42777651",
+    "slot": 11,
+    "regla": 1,
+    "empate": {
+     "P7_36_empate": true
+    },
+    "veces_regla": 46,
+    "tics": 14424,
+    "fidelidad": {
+     "igual": 14378,
+     "difiere": 46
+    },
+    "desacuerdos": [
+     {
+      "t": 9239,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 9338,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 10471,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 10493,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 10515,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 10537,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 10559,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 10581,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 10625,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 10647,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 10669,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 10691,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 10714,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 10736,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 10780,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 10802,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 10824,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 10846,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 10868,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 10890,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 10912,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 10934,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 10956,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 10978,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 11000,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 11022,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 11044,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 11066,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 11088,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 11110,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 11132,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 11154,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 11176,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 11198,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 11220,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 11242,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 11264,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 11286,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 11308,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 11330,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 11352,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 11374,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 11396,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 11418,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 12599,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 13011,
+      "diario": "coger",
+      "replica": "noop"
+     }
+    ],
+    "en_las_cogidas": {
+     "647": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 2.79798,
+      "d_noop": 2.80869,
+      "filas_distintas": {}
+     }
+    },
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s2_d7_APRENDE_42672922",
+    "slot": 10,
+    "regla": 1,
+    "empate": {
+     "P7_36_empate": true
+    },
+    "veces_regla": 2,
+    "tics": 14280,
+    "fidelidad": {
+     "igual": 14277,
+     "difiere": 3
+    },
+    "desacuerdos": [
+     {
+      "t": 647,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 648,
+      "diario": "coger",
+      "replica": "empunar_blowgun"
+     },
+     {
+      "t": 649,
+      "diario": "empunar_blowgun",
+      "replica": "noop"
+     }
+    ],
+    "en_las_cogidas": {
+     "603": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 3.12516,
+      "d_noop": 3.13554,
+      "filas_distintas": {}
+     },
+     "614": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 3.11903,
+      "d_noop": 3.12513,
+      "filas_distintas": {}
+     }
+    },
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s2_d7_APRENDE_42672922",
+    "slot": 11,
+    "regla": 1,
+    "empate": {
+     "P7_36_empate": true
+    },
+    "veces_regla": 2,
+    "tics": 14280,
+    "fidelidad": {
+     "igual": 14278,
+     "difiere": 2
+    },
+    "desacuerdos": [
+     {
+      "t": 8441,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 10380,
+      "diario": "coger",
+      "replica": "noop"
+     }
+    ],
+    "en_las_cogidas": {},
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s2_d8_APRENDE_42568193",
+    "slot": 10,
+    "regla": 1,
+    "empate": {
+     "P7_36_empate": true
+    },
+    "veces_regla": 2,
+    "tics": 10339,
+    "fidelidad": {
+     "igual": 10336,
+     "difiere": 3
+    },
+    "desacuerdos": [
+     {
+      "t": 658,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 659,
+      "diario": "coger",
+      "replica": "empunar_blowgun"
+     },
+     {
+      "t": 660,
+      "diario": "empunar_blowgun",
+      "replica": "noop"
+     }
+    ],
+    "en_las_cogidas": {
+     "603": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 3.11958,
+      "d_noop": 3.12664,
+      "filas_distintas": {}
+     },
+     "647": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 3.1147,
+      "d_noop": 3.11956,
+      "filas_distintas": {}
+     }
+    },
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s2_d8_APRENDE_42568193",
+    "slot": 11,
+    "regla": 1,
+    "empate": {
+     "P7_36_empate": true
+    },
+    "veces_regla": 2,
+    "tics": 12264,
+    "fidelidad": {
+     "igual": 12262,
+     "difiere": 2
+    },
+    "desacuerdos": [
+     {
+      "t": 526,
+      "diario": "coger",
+      "replica": "ir_curioso"
+     },
+     {
+      "t": 10811,
+      "diario": "coger",
+      "replica": "noop"
+     }
+    ],
+    "en_las_cogidas": {
+     "526": {
+      "diario": "coger",
+      "replica": "ir_curioso",
+      "elegido": "ir_curioso",
+      "d_coger": 3.28394,
+      "d_noop": 3.29192,
+      "filas_distintas": {}
+     }
+    },
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s2_d9_APRENDE_42463464",
+    "slot": 10,
+    "regla": 1,
+    "empate": {
+     "P7_36_empate": true
+    },
+    "veces_regla": 0,
+    "tics": 12000,
+    "fidelidad": {
+     "igual": 12000
+    },
+    "desacuerdos": [],
+    "en_las_cogidas": {
+     "6148": {
+      "diario": "coger",
+      "replica": "coger",
+      "elegido": "coger",
+      "d_coger": 3.50604,
+      "d_noop": 3.50887,
+      "filas_distintas": {}
+     }
+    },
+    "desajustes": 0
+   },
+   {
+    "carp": "P734_s2_d9_APRENDE_42463464",
+    "slot": 11,
+    "regla": 1,
+    "empate": {
+     "P7_36_empate": true
+    },
+    "veces_regla": 3,
+    "tics": 12589,
+    "fidelidad": {
+     "igual": 12586,
+     "difiere": 3
+    },
+    "desacuerdos": [
+     {
+      "t": 515,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 8139,
+      "diario": "coger",
+      "replica": "noop"
+     },
+     {
+      "t": 10769,
+      "diario": "coger",
+      "replica": "noop"
+     }
+    ],
+    "en_las_cogidas": {},
+    "desajustes": 0
+   }
+  ],
+  "segundos": 521.8
+ }
+}

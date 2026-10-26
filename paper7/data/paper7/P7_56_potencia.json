@@ -1,0 +1,124 @@
+{
+ "COMPARTE": {
+  "por_serie": {
+   "1": {
+    "usos": 78,
+    "cortados": 52,
+    "por_hermana": {
+     "10": [
+      34,
+      19
+     ],
+     "11": [
+      44,
+      33
+     ]
+    },
+    "fraccion": 0.667
+   },
+   "2": {
+    "usos": 68,
+    "cortados": 41,
+    "por_hermana": {
+     "10": [
+      30,
+      16
+     ],
+     "11": [
+      38,
+      25
+     ]
+    },
+    "fraccion": 0.603
+   },
+   "3": {
+    "usos": 110,
+    "cortados": 77,
+    "por_hermana": {
+     "10": [
+      35,
+      21
+     ],
+     "11": [
+      75,
+      56
+     ]
+    },
+    "fraccion": 0.7
+   }
+  },
+  "usos_3_series": 256,
+  "cortados_3_series": 170,
+  "fraccion_media": 0.657,
+  "sd_entre_series": 0.049,
+  "ee_binomial_por_serie": 0.051,
+  "usos_por_serie": 85.3,
+  "series_30_sd": 2,
+  "series_30_binomial": 2,
+  "series_50_sd": 1,
+  "series_50_binomial": 1,
+  "efecto_min_3_series_pct_sd": 18.4,
+  "efecto_min_3_series_pct_binomial": 19.2
+ },
+ "SOLAS": {
+  "por_serie": {
+   "1": {
+    "usos": 63,
+    "cortados": 32,
+    "por_hermana": {
+     "10": [
+      45,
+      25
+     ],
+     "11": [
+      18,
+      7
+     ]
+    },
+    "fraccion": 0.508
+   },
+   "2": {
+    "usos": 57,
+    "cortados": 26,
+    "por_hermana": {
+     "10": [
+      33,
+      18
+     ],
+     "11": [
+      24,
+      8
+     ]
+    },
+    "fraccion": 0.456
+   },
+   "3": {
+    "usos": 59,
+    "cortados": 25,
+    "por_hermana": {
+     "10": [
+      15,
+      7
+     ],
+     "11": [
+      44,
+      18
+     ]
+    },
+    "fraccion": 0.424
+   }
+  },
+  "usos_3_series": 179,
+  "cortados_3_series": 83,
+  "fraccion_media": 0.463,
+  "sd_entre_series": 0.042,
+  "ee_binomial_por_serie": 0.065,
+  "usos_por_serie": 59.7,
+  "series_30_sd": 2,
+  "series_30_binomial": 4,
+  "series_50_sd": 1,
+  "series_50_binomial": 2,
+  "efecto_min_3_series_pct_sd": 22.5,
+  "efecto_min_3_series_pct_binomial": 34.2
+ }
+}

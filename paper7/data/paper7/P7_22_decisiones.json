@@ -1,0 +1,3411 @@
+[
+{
+"serie": 1,
+"dia": 11,
+"slot": 10,
+"tics": 13956,
+"tics_comparados": 13956,
+"fidelidad": {
+"igual": 13956
+},
+"errores": 0,
+"recuerdos_previos": 15,
+"distintos": [],
+"elecciones_de_usar": []
+},
+{
+"serie": 1,
+"dia": 11,
+"slot": 11,
+"tics": 14136,
+"tics_comparados": 14136,
+"fidelidad": {
+"igual": 14136
+},
+"errores": 0,
+"recuerdos_previos": 30,
+"distintos": [],
+"elecciones_de_usar": [
+{
+"t": 13801,
+"C": "usar_botiquin",
+"hp": 86,
+"creencia_C": 7.65,
+"ignorancia_C": 0.16,
+"heal_C": 8.83,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.0129,
+"heal_campo": 9.380377383002944
+},
+{
+"t": 13851,
+"C": "usar_botiquin",
+"hp": 73,
+"creencia_C": 10.39,
+"ignorancia_C": 0.071,
+"heal_C": 10.72,
+"dentro": true,
+"golpeado_48": true,
+"dolor_F": 0.8529,
+"heal_campo": 18.840637417209688
+},
+{
+"t": 14497,
+"C": "usar_botiquin",
+"hp": 80,
+"creencia_C": 7.8,
+"ignorancia_C": 0.32,
+"heal_C": 10.1,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.3143,
+"heal_campo": 9.35442122894612
+},
+{
+"t": 14546,
+"C": "usar_botiquin",
+"hp": 40,
+"creencia_C": 7.21,
+"ignorancia_C": 0.437,
+"heal_C": 10.62,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.6388,
+"heal_campo": 9.35442122894612
+},
+{
+"t": 14595,
+"C": "usar_botiquin",
+"hp": 1,
+"creencia_C": 7.38,
+"ignorancia_C": 0.68,
+"heal_C": 12.56,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 2.2056,
+"heal_campo": 9.35442122894612
+}
+]
+},
+{
+"serie": 1,
+"dia": 12,
+"slot": 10,
+"tics": 407,
+"tics_comparados": 407,
+"fidelidad": {
+"igual": 407
+},
+"errores": 0,
+"recuerdos_previos": 15,
+"distintos": [
+{
+"t": 798,
+"campo": "usar_botiquin",
+"C": "noop",
+"hp": 60,
+"creencia_C": 26.76,
+"ignorancia_C": 0.113,
+"heal_C": 25.43,
+"dentro": true,
+"golpeado_48": true,
+"dolor_F": 1.1546,
+"heal_campo": 47.41047964505207
+},
+{
+"t": 847,
+"campo": "usar_botiquin",
+"C": "noop",
+"hp": 40,
+"creencia_C": 26.7,
+"ignorancia_C": 0.151,
+"heal_C": 24.94,
+"dentro": true,
+"golpeado_48": true,
+"dolor_F": 1.3502,
+"heal_campo": 47.41047964505207
+}
+],
+"elecciones_de_usar": [
+{
+"t": 798,
+"C": "noop",
+"hp": 60,
+"creencia_C": 26.76,
+"ignorancia_C": 0.113,
+"heal_C": 25.43,
+"dentro": true,
+"golpeado_48": true,
+"dolor_F": 1.1546,
+"heal_campo": 47.41047964505207
+},
+{
+"t": 847,
+"C": "noop",
+"hp": 40,
+"creencia_C": 26.7,
+"ignorancia_C": 0.151,
+"heal_C": 24.94,
+"dentro": true,
+"golpeado_48": true,
+"dolor_F": 1.3502,
+"heal_campo": 47.41047964505207
+}
+]
+},
+{
+"serie": 1,
+"dia": 12,
+"slot": 11,
+"tics": 540,
+"tics_comparados": 540,
+"fidelidad": {
+"igual": 540
+},
+"errores": 0,
+"recuerdos_previos": 35,
+"distintos": [],
+"elecciones_de_usar": []
+},
+{
+"serie": 1,
+"dia": 13,
+"slot": 10,
+"tics": 14257,
+"tics_comparados": 14257,
+"fidelidad": {
+"igual": 14257
+},
+"errores": 0,
+"recuerdos_previos": 17,
+"distintos": [],
+"elecciones_de_usar": []
+},
+{
+"serie": 1,
+"dia": 13,
+"slot": 11,
+"tics": 12312,
+"tics_comparados": 12312,
+"fidelidad": {
+"igual": 12312
+},
+"errores": 0,
+"recuerdos_previos": 35,
+"distintos": [],
+"elecciones_de_usar": []
+},
+{
+"serie": 1,
+"dia": 14,
+"slot": 10,
+"tics": 12144,
+"tics_comparados": 12144,
+"fidelidad": {
+"igual": 12144
+},
+"errores": 0,
+"recuerdos_previos": 17,
+"distintos": [
+{
+"t": 12125,
+"campo": "usar_botiquin",
+"C": "noop",
+"hp": 62,
+"creencia_C": 21.68,
+"ignorancia_C": 0.139,
+"heal_C": 20.75,
+"dentro": true,
+"golpeado_48": true,
+"dolor_F": 1.0295,
+"heal_campo": 47.406390125493616
+},
+{
+"t": 12601,
+"campo": "usar_botiquin",
+"C": "noop",
+"hp": 1,
+"creencia_C": 12.23,
+"ignorancia_C": 0.466,
+"heal_C": 13.52,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.4592,
+"heal_campo": 15.0
+}
+],
+"elecciones_de_usar": [
+{
+"t": 11537,
+"C": "usar_botiquin",
+"hp": 92,
+"creencia_C": 25.31,
+"ignorancia_C": 0.099,
+"heal_C": 24.29,
+"dentro": true,
+"golpeado_48": true,
+"dolor_F": 0.7941,
+"heal_campo": 47.153477563478155
+},
+{
+"t": 12125,
+"C": "noop",
+"hp": 62,
+"creencia_C": 21.68,
+"ignorancia_C": 0.139,
+"heal_C": 20.75,
+"dentro": true,
+"golpeado_48": true,
+"dolor_F": 1.0295,
+"heal_campo": 47.406390125493616
+},
+{
+"t": 12601,
+"C": "noop",
+"hp": 1,
+"creencia_C": 12.23,
+"ignorancia_C": 0.466,
+"heal_C": 13.52,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.4592,
+"heal_campo": 15.0
+}
+]
+},
+{
+"serie": 1,
+"dia": 14,
+"slot": 11,
+"tics": 11616,
+"tics_comparados": 11616,
+"fidelidad": {
+"igual": 11616
+},
+"errores": 0,
+"recuerdos_previos": 35,
+"distintos": [
+{
+"t": 12016,
+"campo": "usar_botiquin",
+"C": "noop",
+"hp": 20,
+"creencia_C": 6.86,
+"ignorancia_C": 0.195,
+"heal_C": 8.45,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.3805,
+"heal_campo": 9.40935698176163
+}
+],
+"elecciones_de_usar": [
+{
+"t": 11917,
+"C": "usar_botiquin",
+"hp": 39,
+"creencia_C": 12.14,
+"ignorancia_C": 0.101,
+"heal_C": 12.43,
+"dentro": true,
+"golpeado_48": true,
+"dolor_F": 0.673,
+"heal_campo": 19.379896095255216
+},
+{
+"t": 11966,
+"C": "usar_botiquin",
+"hp": 33,
+"creencia_C": 12.02,
+"ignorancia_C": 0.093,
+"heal_C": 12.29,
+"dentro": true,
+"golpeado_48": true,
+"dolor_F": 0.7602,
+"heal_campo": 19.379896095255216
+},
+{
+"t": 12016,
+"C": "noop",
+"hp": 20,
+"creencia_C": 6.86,
+"ignorancia_C": 0.195,
+"heal_C": 8.45,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.3805,
+"heal_campo": 9.40935698176163
+},
+{
+"t": 12065,
+"C": "usar_botiquin",
+"hp": 7,
+"creencia_C": 6.14,
+"ignorancia_C": 0.23,
+"heal_C": 8.18,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.6024,
+"heal_campo": 9.40935698176163
+}
+]
+},
+{
+"serie": 1,
+"dia": 15,
+"slot": 10,
+"tics": 12120,
+"tics_comparados": 12120,
+"fidelidad": {
+"igual": 12120
+},
+"errores": 0,
+"recuerdos_previos": 20,
+"distintos": [
+{
+"t": 12581,
+"campo": "usar_botiquin",
+"C": "noop",
+"hp": 4,
+"creencia_C": 8.04,
+"ignorancia_C": 0.621,
+"heal_C": 12.36,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 2.1933,
+"heal_campo": 15.0
+}
+],
+"elecciones_de_usar": [
+{
+"t": 12581,
+"C": "noop",
+"hp": 4,
+"creencia_C": 8.04,
+"ignorancia_C": 0.621,
+"heal_C": 12.36,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 2.1933,
+"heal_campo": 15.0
+}
+]
+},
+{
+"serie": 1,
+"dia": 15,
+"slot": 11,
+"tics": 14136,
+"tics_comparados": 14136,
+"fidelidad": {
+"igual": 14136
+},
+"errores": 0,
+"recuerdos_previos": 39,
+"distintos": [
+{
+"t": 11863,
+"campo": "usar_botiquin",
+"C": "noop",
+"hp": 63,
+"creencia_C": 10.44,
+"ignorancia_C": 0.075,
+"heal_C": 10.78,
+"dentro": true,
+"golpeado_48": true,
+"dolor_F": 0.9034,
+"heal_campo": 19.38904566595979
+},
+{
+"t": 11912,
+"campo": "usar_botiquin",
+"C": "noop",
+"hp": 57,
+"creencia_C": 10.45,
+"ignorancia_C": 0.076,
+"heal_C": 10.8,
+"dentro": true,
+"golpeado_48": true,
+"dolor_F": 0.9276,
+"heal_campo": 19.38904566595979
+}
+],
+"elecciones_de_usar": [
+{
+"t": 11257,
+"C": "usar_botiquin",
+"hp": 95,
+"creencia_C": 6.04,
+"ignorancia_C": 0.189,
+"heal_C": 7.74,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 0.613,
+"heal_campo": 9.429360317261693
+},
+{
+"t": 11331,
+"C": "usar_botiquin",
+"hp": 95,
+"creencia_C": 6.03,
+"ignorancia_C": 0.185,
+"heal_C": 7.69,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 0.6243,
+"heal_campo": 9.429360317261693
+},
+{
+"t": 11863,
+"C": "noop",
+"hp": 63,
+"creencia_C": 10.44,
+"ignorancia_C": 0.075,
+"heal_C": 10.78,
+"dentro": true,
+"golpeado_48": true,
+"dolor_F": 0.9034,
+"heal_campo": 19.38904566595979
+},
+{
+"t": 11912,
+"C": "noop",
+"hp": 57,
+"creencia_C": 10.45,
+"ignorancia_C": 0.076,
+"heal_C": 10.8,
+"dentro": true,
+"golpeado_48": true,
+"dolor_F": 0.9276,
+"heal_campo": 19.38904566595979
+},
+{
+"t": 12674,
+"C": "usar_botiquin",
+"hp": 21,
+"creencia_C": 4.51,
+"ignorancia_C": 0.179,
+"heal_C": 6.38,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.4936,
+"heal_campo": 6.892833695524347
+}
+]
+},
+{
+"serie": 1,
+"dia": 16,
+"slot": 10,
+"tics": 14496,
+"tics_comparados": 14496,
+"fidelidad": {
+"igual": 14496
+},
+"errores": 0,
+"recuerdos_previos": 21,
+"distintos": [
+{
+"t": 14581,
+"campo": "usar_botiquin",
+"C": "ir_pareja",
+"hp": 68,
+"creencia_C": 24.46,
+"ignorancia_C": 0.088,
+"heal_C": 23.63,
+"dentro": true,
+"golpeado_48": true,
+"dolor_F": 1.0306,
+"heal_campo": 47.45251908878327
+},
+{
+"t": 14638,
+"campo": "usar_botiquin",
+"C": "atacar_NE",
+"hp": 43,
+"creencia_C": 22.14,
+"ignorancia_C": 0.135,
+"heal_C": 21.17,
+"dentro": true,
+"golpeado_48": true,
+"dolor_F": 1.4893,
+"heal_campo": 47.45251908878327
+},
+{
+"t": 14953,
+"campo": "noop",
+"C": "usar_botiquin",
+"hp": 34,
+"creencia_C": 18.03,
+"ignorancia_C": 0.247,
+"heal_C": 17.28,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.1163,
+"heal_campo": 15.0
+},
+{
+"t": 14954,
+"campo": "noop",
+"C": "usar_botiquin",
+"hp": 34,
+"creencia_C": 18.03,
+"ignorancia_C": 0.247,
+"heal_C": 17.28,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.1163,
+"heal_campo": 15.0
+},
+{
+"t": 14955,
+"campo": "noop",
+"C": "usar_botiquin",
+"hp": 34,
+"creencia_C": 18.03,
+"ignorancia_C": 0.247,
+"heal_C": 17.28,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.1163,
+"heal_campo": 15.0
+},
+{
+"t": 14957,
+"campo": "noop",
+"C": "usar_botiquin",
+"hp": 34,
+"creencia_C": 18.03,
+"ignorancia_C": 0.247,
+"heal_C": 17.28,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.1163,
+"heal_campo": 15.0
+},
+{
+"t": 14958,
+"campo": "noop",
+"C": "usar_botiquin",
+"hp": 34,
+"creencia_C": 18.03,
+"ignorancia_C": 0.247,
+"heal_C": 17.28,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.1163,
+"heal_campo": 15.0
+},
+{
+"t": 14959,
+"campo": "noop",
+"C": "usar_botiquin",
+"hp": 34,
+"creencia_C": 18.03,
+"ignorancia_C": 0.247,
+"heal_C": 17.28,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.1163,
+"heal_campo": 15.0
+},
+{
+"t": 14960,
+"campo": "noop",
+"C": "usar_botiquin",
+"hp": 34,
+"creencia_C": 18.03,
+"ignorancia_C": 0.247,
+"heal_C": 17.28,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.1163,
+"heal_campo": 15.0
+},
+{
+"t": 14961,
+"campo": "noop",
+"C": "usar_botiquin",
+"hp": 34,
+"creencia_C": 18.03,
+"ignorancia_C": 0.247,
+"heal_C": 17.28,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.1163,
+"heal_campo": 15.0
+},
+{
+"t": 14962,
+"campo": "noop",
+"C": "usar_botiquin",
+"hp": 34,
+"creencia_C": 18.03,
+"ignorancia_C": 0.247,
+"heal_C": 17.28,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.1163,
+"heal_campo": 15.0
+},
+{
+"t": 14963,
+"campo": "noop",
+"C": "usar_botiquin",
+"hp": 34,
+"creencia_C": 18.03,
+"ignorancia_C": 0.247,
+"heal_C": 17.28,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.1163,
+"heal_campo": 15.0
+},
+{
+"t": 14964,
+"campo": "noop",
+"C": "usar_botiquin",
+"hp": 34,
+"creencia_C": 18.03,
+"ignorancia_C": 0.247,
+"heal_C": 17.28,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.1163,
+"heal_campo": 15.0
+},
+{
+"t": 14965,
+"campo": "noop",
+"C": "usar_botiquin",
+"hp": 34,
+"creencia_C": 18.03,
+"ignorancia_C": 0.247,
+"heal_C": 17.28,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.1163,
+"heal_campo": 15.0
+},
+{
+"t": 14966,
+"campo": "noop",
+"C": "usar_botiquin",
+"hp": 34,
+"creencia_C": 18.03,
+"ignorancia_C": 0.247,
+"heal_C": 17.28,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.1163,
+"heal_campo": 15.0
+},
+{
+"t": 14968,
+"campo": "noop",
+"C": "usar_botiquin",
+"hp": 34,
+"creencia_C": 18.03,
+"ignorancia_C": 0.247,
+"heal_C": 17.28,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.1163,
+"heal_campo": 15.0
+},
+{
+"t": 14969,
+"campo": "noop",
+"C": "usar_botiquin",
+"hp": 34,
+"creencia_C": 18.03,
+"ignorancia_C": 0.247,
+"heal_C": 17.28,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.1163,
+"heal_campo": 15.0
+},
+{
+"t": 14970,
+"campo": "noop",
+"C": "usar_botiquin",
+"hp": 34,
+"creencia_C": 18.03,
+"ignorancia_C": 0.247,
+"heal_C": 17.28,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.1163,
+"heal_campo": 15.0
+},
+{
+"t": 14971,
+"campo": "noop",
+"C": "usar_botiquin",
+"hp": 34,
+"creencia_C": 18.03,
+"ignorancia_C": 0.247,
+"heal_C": 17.28,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.1163,
+"heal_campo": 15.0
+},
+{
+"t": 14972,
+"campo": "noop",
+"C": "usar_botiquin",
+"hp": 34,
+"creencia_C": 18.03,
+"ignorancia_C": 0.247,
+"heal_C": 17.28,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.1163,
+"heal_campo": 15.0
+},
+{
+"t": 14973,
+"campo": "noop",
+"C": "usar_botiquin",
+"hp": 34,
+"creencia_C": 18.03,
+"ignorancia_C": 0.247,
+"heal_C": 17.28,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.1163,
+"heal_campo": 15.0
+},
+{
+"t": 14974,
+"campo": "noop",
+"C": "usar_botiquin",
+"hp": 34,
+"creencia_C": 18.03,
+"ignorancia_C": 0.247,
+"heal_C": 17.28,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.1163,
+"heal_campo": 15.0
+},
+{
+"t": 14975,
+"campo": "noop",
+"C": "usar_botiquin",
+"hp": 34,
+"creencia_C": 18.03,
+"ignorancia_C": 0.247,
+"heal_C": 17.28,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.1163,
+"heal_campo": 15.0
+},
+{
+"t": 14976,
+"campo": "noop",
+"C": "usar_botiquin",
+"hp": 34,
+"creencia_C": 18.03,
+"ignorancia_C": 0.247,
+"heal_C": 17.28,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.1163,
+"heal_campo": 15.0
+}
+],
+"elecciones_de_usar": [
+{
+"t": 14581,
+"C": "ir_pareja",
+"hp": 68,
+"creencia_C": 24.46,
+"ignorancia_C": 0.088,
+"heal_C": 23.63,
+"dentro": true,
+"golpeado_48": true,
+"dolor_F": 1.0306,
+"heal_campo": 47.45251908878327
+},
+{
+"t": 14638,
+"C": "atacar_NE",
+"hp": 43,
+"creencia_C": 22.14,
+"ignorancia_C": 0.135,
+"heal_C": 21.17,
+"dentro": true,
+"golpeado_48": true,
+"dolor_F": 1.4893,
+"heal_campo": 47.45251908878327
+},
+{
+"t": 14687,
+"C": "usar_botiquin",
+"hp": 23,
+"creencia_C": 21.56,
+"ignorancia_C": 0.191,
+"heal_C": 20.31,
+"dentro": true,
+"golpeado_48": true,
+"dolor_F": 1.7462,
+"heal_campo": 47.45251908878327
+}
+]
+},
+{
+"serie": 1,
+"dia": 16,
+"slot": 11,
+"tics": 14496,
+"tics_comparados": 14496,
+"fidelidad": {
+"igual": 14496
+},
+"errores": 0,
+"recuerdos_previos": 44,
+"distintos": [
+{
+"t": 13777,
+"campo": "usar_botiquin",
+"C": "noop",
+"hp": 62,
+"creencia_C": 10.42,
+"ignorancia_C": 0.117,
+"heal_C": 10.96,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.1449,
+"heal_campo": 47.97487492543262
+},
+{
+"t": 13852,
+"campo": "usar_botiquin",
+"C": "noop",
+"hp": 49,
+"creencia_C": 11.71,
+"ignorancia_C": 0.206,
+"heal_C": 12.39,
+"dentro": false,
+"golpeado_48": false,
+"dolor_F": 1.2731,
+"heal_campo": 47.97487492543262
+}
+],
+"elecciones_de_usar": [
+{
+"t": 13777,
+"C": "noop",
+"hp": 62,
+"creencia_C": 10.42,
+"ignorancia_C": 0.117,
+"heal_C": 10.96,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.1449,
+"heal_campo": 47.97487492543262
+},
+{
+"t": 13852,
+"C": "noop",
+"hp": 49,
+"creencia_C": 11.71,
+"ignorancia_C": 0.206,
+"heal_C": 12.39,
+"dentro": false,
+"golpeado_48": false,
+"dolor_F": 1.2731,
+"heal_campo": 47.97487492543262
+}
+]
+},
+{
+"serie": 1,
+"dia": 17,
+"slot": 10,
+"tics": 11712,
+"tics_comparados": 11712,
+"fidelidad": {
+"igual": 11712
+},
+"errores": 0,
+"recuerdos_previos": 24,
+"distintos": [
+{
+"t": 8391,
+"campo": "usar_botiquin",
+"C": "noop",
+"hp": 60,
+"creencia_C": 21.05,
+"ignorancia_C": 0.083,
+"heal_C": 20.55,
+"dentro": true,
+"golpeado_48": true,
+"dolor_F": 1.1026,
+"heal_campo": 47.32867445560942
+},
+{
+"t": 11848,
+"campo": "usar_botiquin",
+"C": "noop",
+"hp": 26,
+"creencia_C": 19.91,
+"ignorancia_C": 0.091,
+"heal_C": 19.47,
+"dentro": true,
+"golpeado_48": true,
+"dolor_F": 1.2341,
+"heal_campo": 47.63392165309956
+}
+],
+"elecciones_de_usar": [
+{
+"t": 8391,
+"C": "noop",
+"hp": 60,
+"creencia_C": 21.05,
+"ignorancia_C": 0.083,
+"heal_C": 20.55,
+"dentro": true,
+"golpeado_48": true,
+"dolor_F": 1.1026,
+"heal_campo": 47.32867445560942
+},
+{
+"t": 11848,
+"C": "noop",
+"hp": 26,
+"creencia_C": 19.91,
+"ignorancia_C": 0.091,
+"heal_C": 19.47,
+"dentro": true,
+"golpeado_48": true,
+"dolor_F": 1.2341,
+"heal_campo": 47.63392165309956
+}
+]
+},
+{
+"serie": 1,
+"dia": 17,
+"slot": 11,
+"tics": 11592,
+"tics_comparados": 11592,
+"fidelidad": {
+"igual": 11592
+},
+"errores": 0,
+"recuerdos_previos": 46,
+"distintos": [
+{
+"t": 11713,
+"campo": "usar_botiquin",
+"C": "noop",
+"hp": 75,
+"creencia_C": 11.69,
+"ignorancia_C": 0.143,
+"heal_C": 12.17,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 0.5589,
+"heal_campo": 48.05481087009298
+},
+{
+"t": 11771,
+"campo": "usar_botiquin",
+"C": "noop",
+"hp": 70,
+"creencia_C": 13.18,
+"ignorancia_C": 0.201,
+"heal_C": 13.54,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 0.7129,
+"heal_campo": 48.05481087009298
+}
+],
+"elecciones_de_usar": [
+{
+"t": 11713,
+"C": "noop",
+"hp": 75,
+"creencia_C": 11.69,
+"ignorancia_C": 0.143,
+"heal_C": 12.17,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 0.5589,
+"heal_campo": 48.05481087009298
+},
+{
+"t": 11771,
+"C": "noop",
+"hp": 70,
+"creencia_C": 13.18,
+"ignorancia_C": 0.201,
+"heal_C": 13.54,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 0.7129,
+"heal_campo": 48.05481087009298
+}
+]
+},
+{
+"serie": 1,
+"dia": 18,
+"slot": 10,
+"tics": 4845,
+"tics_comparados": 4845,
+"fidelidad": {
+"igual": 4845
+},
+"errores": 0,
+"recuerdos_previos": 26,
+"distintos": [
+{
+"t": 5171,
+"campo": "usar_botiquin",
+"C": "noop",
+"hp": 59,
+"creencia_C": 25.44,
+"ignorancia_C": 0.075,
+"heal_C": 24.66,
+"dentro": true,
+"golpeado_48": true,
+"dolor_F": 1.1301,
+"heal_campo": 47.764061051655005
+},
+{
+"t": 5220,
+"campo": "usar_botiquin",
+"C": "noop",
+"hp": 45,
+"creencia_C": 24.59,
+"ignorancia_C": 0.083,
+"heal_C": 23.8,
+"dentro": true,
+"golpeado_48": true,
+"dolor_F": 1.262,
+"heal_campo": 47.764061051655005
+}
+],
+"elecciones_de_usar": [
+{
+"t": 5171,
+"C": "noop",
+"hp": 59,
+"creencia_C": 25.44,
+"ignorancia_C": 0.075,
+"heal_C": 24.66,
+"dentro": true,
+"golpeado_48": true,
+"dolor_F": 1.1301,
+"heal_campo": 47.764061051655005
+},
+{
+"t": 5220,
+"C": "noop",
+"hp": 45,
+"creencia_C": 24.59,
+"ignorancia_C": 0.083,
+"heal_C": 23.8,
+"dentro": true,
+"golpeado_48": true,
+"dolor_F": 1.262,
+"heal_campo": 47.764061051655005
+},
+{
+"t": 5269,
+"C": "usar_botiquin",
+"hp": 31,
+"creencia_C": 26.31,
+"ignorancia_C": 0.069,
+"heal_C": 25.53,
+"dentro": true,
+"golpeado_48": true,
+"dolor_F": 1.1001,
+"heal_campo": 47.764061051655005
+},
+{
+"t": 5318,
+"C": "usar_botiquin",
+"hp": 3,
+"creencia_C": 22.63,
+"ignorancia_C": 0.102,
+"heal_C": 21.85,
+"dentro": true,
+"golpeado_48": true,
+"dolor_F": 1.5381,
+"heal_campo": 47.764061051655005
+}
+]
+},
+{
+"serie": 1,
+"dia": 18,
+"slot": 11,
+"tics": 7941,
+"tics_comparados": 7941,
+"fidelidad": {
+"igual": 7941
+},
+"errores": 0,
+"recuerdos_previos": 48,
+"distintos": [
+{
+"t": 8404,
+"campo": "usar_botiquin",
+"C": "noop",
+"hp": 21,
+"creencia_C": 13.86,
+"ignorancia_C": 0.24,
+"heal_C": 14.14,
+"dentro": true,
+"golpeado_48": true,
+"dolor_F": 1.7222,
+"heal_campo": 21.99706924540889
+}
+],
+"elecciones_de_usar": [
+{
+"t": 8404,
+"C": "noop",
+"hp": 21,
+"creencia_C": 13.86,
+"ignorancia_C": 0.24,
+"heal_C": 14.14,
+"dentro": true,
+"golpeado_48": true,
+"dolor_F": 1.7222,
+"heal_campo": 21.99706924540889
+}
+]
+},
+{
+"serie": 1,
+"dia": 19,
+"slot": 10,
+"tics": 13464,
+"tics_comparados": 13464,
+"fidelidad": {
+"igual": 13464
+},
+"errores": 0,
+"recuerdos_previos": 30,
+"distintos": [
+{
+"t": 13833,
+"campo": "usar_botiquin",
+"C": "noop",
+"hp": 60,
+"creencia_C": 22.47,
+"ignorancia_C": 0.076,
+"heal_C": 21.91,
+"dentro": true,
+"golpeado_48": true,
+"dolor_F": 0.8763,
+"heal_campo": 47.65426714527938
+},
+{
+"t": 13882,
+"campo": "usar_botiquin",
+"C": "noop",
+"hp": 47,
+"creencia_C": 16.84,
+"ignorancia_C": 0.099,
+"heal_C": 16.66,
+"dentro": true,
+"golpeado_48": true,
+"dolor_F": 1.6142,
+"heal_campo": 47.65426714527938
+},
+{
+"t": 13937,
+"campo": "usar_botiquin",
+"C": "noop",
+"hp": 4,
+"creencia_C": 7.71,
+"ignorancia_C": 0.371,
+"heal_C": 10.42,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 2.1506,
+"heal_campo": 15.0
+}
+],
+"elecciones_de_usar": [
+{
+"t": 13833,
+"C": "noop",
+"hp": 60,
+"creencia_C": 22.47,
+"ignorancia_C": 0.076,
+"heal_C": 21.91,
+"dentro": true,
+"golpeado_48": true,
+"dolor_F": 0.8763,
+"heal_campo": 47.65426714527938
+},
+{
+"t": 13882,
+"C": "noop",
+"hp": 47,
+"creencia_C": 16.84,
+"ignorancia_C": 0.099,
+"heal_C": 16.66,
+"dentro": true,
+"golpeado_48": true,
+"dolor_F": 1.6142,
+"heal_campo": 47.65426714527938
+},
+{
+"t": 13937,
+"C": "noop",
+"hp": 4,
+"creencia_C": 7.71,
+"ignorancia_C": 0.371,
+"heal_C": 10.42,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 2.1506,
+"heal_campo": 15.0
+}
+]
+},
+{
+"serie": 1,
+"dia": 19,
+"slot": 11,
+"tics": 13536,
+"tics_comparados": 13536,
+"fidelidad": {
+"igual": 13536
+},
+"errores": 0,
+"recuerdos_previos": 49,
+"distintos": [
+{
+"t": 12746,
+"campo": "usar_botiquin",
+"C": "usar_racion",
+"hp": 86,
+"creencia_C": 9.31,
+"ignorancia_C": 0.17,
+"heal_C": 10.28,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 0.687,
+"heal_campo": 47.85752948832367
+},
+{
+"t": 13923,
+"campo": "usar_botiquin",
+"C": "noop",
+"hp": 69,
+"creencia_C": 15.04,
+"ignorancia_C": 0.16,
+"heal_C": 15.04,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.8045,
+"heal_campo": 48.002144082294656
+},
+{
+"t": 13972,
+"campo": "usar_botiquin",
+"C": "noop",
+"hp": 29,
+"creencia_C": 16.35,
+"ignorancia_C": 0.138,
+"heal_C": 16.16,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.5698,
+"heal_campo": 48.002144082294656
+}
+],
+"elecciones_de_usar": [
+{
+"t": 12697,
+"C": "usar_botiquin",
+"hp": 93,
+"creencia_C": 9.18,
+"ignorancia_C": 0.19,
+"heal_C": 10.28,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 0.6205,
+"heal_campo": 47.85752948832367
+},
+{
+"t": 12746,
+"C": "usar_racion",
+"hp": 86,
+"creencia_C": 9.31,
+"ignorancia_C": 0.17,
+"heal_C": 10.28,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 0.687,
+"heal_campo": 47.85752948832367
+},
+{
+"t": 13923,
+"C": "noop",
+"hp": 69,
+"creencia_C": 15.04,
+"ignorancia_C": 0.16,
+"heal_C": 15.04,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.8045,
+"heal_campo": 48.002144082294656
+},
+{
+"t": 13972,
+"C": "noop",
+"hp": 29,
+"creencia_C": 16.35,
+"ignorancia_C": 0.138,
+"heal_C": 16.16,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.5698,
+"heal_campo": 48.002144082294656
+}
+]
+},
+{
+"serie": 1,
+"dia": 20,
+"slot": 10,
+"tics": 10344,
+"tics_comparados": 10344,
+"fidelidad": {
+"igual": 10344
+},
+"errores": 0,
+"recuerdos_previos": 33,
+"distintos": [
+{
+"t": 10801,
+"campo": "usar_botiquin",
+"C": "noop",
+"hp": 1,
+"creencia_C": 4.03,
+"ignorancia_C": 0.602,
+"heal_C": 10.63,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 2.0225,
+"heal_campo": 15.0
+}
+],
+"elecciones_de_usar": [
+{
+"t": 10801,
+"C": "noop",
+"hp": 1,
+"creencia_C": 4.03,
+"ignorancia_C": 0.602,
+"heal_C": 10.63,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 2.0225,
+"heal_campo": 15.0
+}
+]
+},
+{
+"serie": 1,
+"dia": 20,
+"slot": 11,
+"tics": 10344,
+"tics_comparados": 10344,
+"fidelidad": {
+"igual": 10344
+},
+"errores": 0,
+"recuerdos_previos": 53,
+"distintos": [
+{
+"t": 10417,
+"campo": "usar_botiquin",
+"C": "noop",
+"hp": 63,
+"creencia_C": 9.78,
+"ignorancia_C": 0.099,
+"heal_C": 10.29,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 0.8561,
+"heal_campo": 47.90329289669218
+},
+{
+"t": 10466,
+"campo": "usar_botiquin",
+"C": "noop",
+"hp": 57,
+"creencia_C": 10.12,
+"ignorancia_C": 0.097,
+"heal_C": 10.6,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 0.9123,
+"heal_campo": 47.90329289669218
+},
+{
+"t": 10515,
+"campo": "usar_botiquin",
+"C": "noop",
+"hp": 50,
+"creencia_C": 11.55,
+"ignorancia_C": 0.106,
+"heal_C": 11.92,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.0708,
+"heal_campo": 47.90329289669218
+},
+{
+"t": 10564,
+"campo": "usar_botiquin",
+"C": "noop",
+"hp": 44,
+"creencia_C": 11.99,
+"ignorancia_C": 0.116,
+"heal_C": 12.34,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.1583,
+"heal_campo": 47.90329289669218
+},
+{
+"t": 10613,
+"campo": "usar_botiquin",
+"C": "noop",
+"hp": 37,
+"creencia_C": 11.14,
+"ignorancia_C": 0.134,
+"heal_C": 11.66,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.2913,
+"heal_campo": 47.90329289669218
+},
+{
+"t": 10662,
+"campo": "usar_botiquin",
+"C": "noop",
+"hp": 31,
+"creencia_C": 9.46,
+"ignorancia_C": 0.166,
+"heal_C": 10.38,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.399,
+"heal_campo": 47.90329289669218
+},
+{
+"t": 10711,
+"campo": "usar_botiquin",
+"C": "noop",
+"hp": 24,
+"creencia_C": 8.1,
+"ignorancia_C": 0.236,
+"heal_C": 9.73,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.5634,
+"heal_campo": 47.90329289669218
+},
+{
+"t": 10760,
+"campo": "usar_botiquin",
+"C": "noop",
+"hp": 14,
+"creencia_C": 7.14,
+"ignorancia_C": 0.431,
+"heal_C": 10.53,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.8261,
+"heal_campo": 47.90329289669218
+},
+{
+"t": 10809,
+"campo": "usar_botiquin",
+"C": "ir_botin",
+"hp": 4,
+"creencia_C": 9.34,
+"ignorancia_C": 0.679,
+"heal_C": 13.18,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 2.1037,
+"heal_campo": 47.90329289669218
+}
+],
+"elecciones_de_usar": [
+{
+"t": 10417,
+"C": "noop",
+"hp": 63,
+"creencia_C": 9.78,
+"ignorancia_C": 0.099,
+"heal_C": 10.29,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 0.8561,
+"heal_campo": 47.90329289669218
+},
+{
+"t": 10466,
+"C": "noop",
+"hp": 57,
+"creencia_C": 10.12,
+"ignorancia_C": 0.097,
+"heal_C": 10.6,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 0.9123,
+"heal_campo": 47.90329289669218
+},
+{
+"t": 10515,
+"C": "noop",
+"hp": 50,
+"creencia_C": 11.55,
+"ignorancia_C": 0.106,
+"heal_C": 11.92,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.0708,
+"heal_campo": 47.90329289669218
+},
+{
+"t": 10564,
+"C": "noop",
+"hp": 44,
+"creencia_C": 11.99,
+"ignorancia_C": 0.116,
+"heal_C": 12.34,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.1583,
+"heal_campo": 47.90329289669218
+},
+{
+"t": 10613,
+"C": "noop",
+"hp": 37,
+"creencia_C": 11.14,
+"ignorancia_C": 0.134,
+"heal_C": 11.66,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.2913,
+"heal_campo": 47.90329289669218
+},
+{
+"t": 10662,
+"C": "noop",
+"hp": 31,
+"creencia_C": 9.46,
+"ignorancia_C": 0.166,
+"heal_C": 10.38,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.399,
+"heal_campo": 47.90329289669218
+},
+{
+"t": 10711,
+"C": "noop",
+"hp": 24,
+"creencia_C": 8.1,
+"ignorancia_C": 0.236,
+"heal_C": 9.73,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.5634,
+"heal_campo": 47.90329289669218
+},
+{
+"t": 10760,
+"C": "noop",
+"hp": 14,
+"creencia_C": 7.14,
+"ignorancia_C": 0.431,
+"heal_C": 10.53,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.8261,
+"heal_campo": 47.90329289669218
+},
+{
+"t": 10809,
+"C": "ir_botin",
+"hp": 4,
+"creencia_C": 9.34,
+"ignorancia_C": 0.679,
+"heal_C": 13.18,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 2.1037,
+"heal_campo": 47.90329289669218
+}
+]
+},
+{
+"serie": 2,
+"dia": 11,
+"slot": 10,
+"tics": 14256,
+"tics_comparados": 14256,
+"fidelidad": {
+"igual": 14256
+},
+"errores": 0,
+"recuerdos_previos": 11,
+"distintos": [
+{
+"t": 12535,
+"campo": "usar_botiquin",
+"C": "noop",
+"hp": 78,
+"creencia_C": 16.43,
+"ignorancia_C": 0.292,
+"heal_C": 16.01,
+"dentro": true,
+"golpeado_48": true,
+"dolor_F": 1.3695,
+"heal_campo": 25.16743772046243
+},
+{
+"t": 14630,
+"campo": "usar_botiquin",
+"C": "noop",
+"hp": 79,
+"creencia_C": 16.8,
+"ignorancia_C": 0.3,
+"heal_C": 16.26,
+"dentro": true,
+"golpeado_48": true,
+"dolor_F": 1.0368,
+"heal_campo": 24.57980811636447
+},
+{
+"t": 14689,
+"campo": "noop",
+"C": "usar_botiquin",
+"hp": 36,
+"creencia_C": 12.2,
+"ignorancia_C": 0.719,
+"heal_C": 14.21,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.7305,
+"heal_campo": 10.526547940506347
+},
+{
+"t": 14690,
+"campo": "noop",
+"C": "usar_botiquin",
+"hp": 36,
+"creencia_C": 12.2,
+"ignorancia_C": 0.719,
+"heal_C": 14.21,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.7306,
+"heal_campo": 10.526547940506347
+},
+{
+"t": 14691,
+"campo": "noop",
+"C": "usar_botiquin",
+"hp": 36,
+"creencia_C": 12.2,
+"ignorancia_C": 0.719,
+"heal_C": 14.21,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.7306,
+"heal_campo": 10.526547940506347
+},
+{
+"t": 14692,
+"campo": "noop",
+"C": "usar_botiquin",
+"hp": 36,
+"creencia_C": 12.2,
+"ignorancia_C": 0.719,
+"heal_C": 14.21,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.7307,
+"heal_campo": 10.526547940506347
+},
+{
+"t": 14693,
+"campo": "noop",
+"C": "usar_botiquin",
+"hp": 36,
+"creencia_C": 12.21,
+"ignorancia_C": 0.719,
+"heal_C": 14.22,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.7307,
+"heal_campo": 10.526547940506347
+},
+{
+"t": 14694,
+"campo": "noop",
+"C": "usar_botiquin",
+"hp": 36,
+"creencia_C": 12.21,
+"ignorancia_C": 0.719,
+"heal_C": 14.22,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.7307,
+"heal_campo": 10.526547940506347
+},
+{
+"t": 14695,
+"campo": "noop",
+"C": "usar_botiquin",
+"hp": 36,
+"creencia_C": 12.21,
+"ignorancia_C": 0.719,
+"heal_C": 14.22,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.7308,
+"heal_campo": 10.526547940506347
+},
+{
+"t": 14697,
+"campo": "noop",
+"C": "usar_botiquin",
+"hp": 36,
+"creencia_C": 12.14,
+"ignorancia_C": 0.715,
+"heal_C": 14.19,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.7135,
+"heal_campo": 10.526547940506347
+},
+{
+"t": 14698,
+"campo": "noop",
+"C": "usar_botiquin",
+"hp": 36,
+"creencia_C": 12.14,
+"ignorancia_C": 0.715,
+"heal_C": 14.19,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.7136,
+"heal_campo": 10.526547940506347
+},
+{
+"t": 14699,
+"campo": "noop",
+"C": "usar_botiquin",
+"hp": 36,
+"creencia_C": 12.15,
+"ignorancia_C": 0.715,
+"heal_C": 14.19,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.7136,
+"heal_campo": 10.526547940506347
+},
+{
+"t": 14700,
+"campo": "noop",
+"C": "usar_botiquin",
+"hp": 36,
+"creencia_C": 12.15,
+"ignorancia_C": 0.715,
+"heal_C": 14.19,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.7136,
+"heal_campo": 10.526547940506347
+},
+{
+"t": 14701,
+"campo": "noop",
+"C": "usar_botiquin",
+"hp": 36,
+"creencia_C": 12.15,
+"ignorancia_C": 0.715,
+"heal_C": 14.19,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.7137,
+"heal_campo": 10.526547940506347
+},
+{
+"t": 14702,
+"campo": "noop",
+"C": "usar_botiquin",
+"hp": 36,
+"creencia_C": 12.16,
+"ignorancia_C": 0.716,
+"heal_C": 14.19,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.7137,
+"heal_campo": 10.526547940506347
+},
+{
+"t": 14703,
+"campo": "noop",
+"C": "usar_botiquin",
+"hp": 36,
+"creencia_C": 12.16,
+"ignorancia_C": 0.716,
+"heal_C": 14.19,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.7137,
+"heal_campo": 10.526547940506347
+},
+{
+"t": 14704,
+"campo": "noop",
+"C": "usar_botiquin",
+"hp": 36,
+"creencia_C": 12.16,
+"ignorancia_C": 0.716,
+"heal_C": 14.19,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.7138,
+"heal_campo": 10.526547940506347
+},
+{
+"t": 14705,
+"campo": "noop",
+"C": "usar_botiquin",
+"hp": 36,
+"creencia_C": 12.16,
+"ignorancia_C": 0.716,
+"heal_C": 14.19,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.7138,
+"heal_campo": 10.526547940506347
+},
+{
+"t": 14706,
+"campo": "noop",
+"C": "usar_botiquin",
+"hp": 36,
+"creencia_C": 12.17,
+"ignorancia_C": 0.716,
+"heal_C": 14.19,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.7139,
+"heal_campo": 10.526547940506347
+},
+{
+"t": 14708,
+"campo": "noop",
+"C": "usar_botiquin",
+"hp": 36,
+"creencia_C": 12.25,
+"ignorancia_C": 0.72,
+"heal_C": 14.23,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.7312,
+"heal_campo": 10.526547940506347
+},
+{
+"t": 14709,
+"campo": "noop",
+"C": "usar_botiquin",
+"hp": 36,
+"creencia_C": 12.25,
+"ignorancia_C": 0.721,
+"heal_C": 14.23,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.7313,
+"heal_campo": 10.526547940506347
+},
+{
+"t": 14710,
+"campo": "noop",
+"C": "usar_botiquin",
+"hp": 36,
+"creencia_C": 12.26,
+"ignorancia_C": 0.721,
+"heal_C": 14.23,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.7313,
+"heal_campo": 10.526547940506347
+},
+{
+"t": 14711,
+"campo": "noop",
+"C": "usar_botiquin",
+"hp": 36,
+"creencia_C": 12.26,
+"ignorancia_C": 0.721,
+"heal_C": 14.23,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.7314,
+"heal_campo": 10.526547940506347
+},
+{
+"t": 14712,
+"campo": "noop",
+"C": "usar_botiquin",
+"hp": 36,
+"creencia_C": 12.26,
+"ignorancia_C": 0.721,
+"heal_C": 14.24,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.7314,
+"heal_campo": 10.526547940506347
+}
+],
+"elecciones_de_usar": [
+{
+"t": 10373,
+"C": "usar_botiquin",
+"hp": 92,
+"creencia_C": 20.09,
+"ignorancia_C": 0.184,
+"heal_C": 19.16,
+"dentro": true,
+"golpeado_48": true,
+"dolor_F": 0.8117,
+"heal_campo": 29.472825958408983
+},
+{
+"t": 12535,
+"C": "noop",
+"hp": 78,
+"creencia_C": 16.43,
+"ignorancia_C": 0.292,
+"heal_C": 16.01,
+"dentro": true,
+"golpeado_48": true,
+"dolor_F": 1.3695,
+"heal_campo": 25.16743772046243
+},
+{
+"t": 14630,
+"C": "noop",
+"hp": 79,
+"creencia_C": 16.8,
+"ignorancia_C": 0.3,
+"heal_C": 16.26,
+"dentro": true,
+"golpeado_48": true,
+"dolor_F": 1.0368,
+"heal_campo": 24.57980811636447
+},
+{
+"t": 14713,
+"C": "usar_botiquin",
+"hp": 16,
+"creencia_C": 14.2,
+"ignorancia_C": 0.806,
+"heal_C": 14.84,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 2.0123,
+"heal_campo": 10.526547940506347
+}
+]
+},
+{
+"serie": 2,
+"dia": 11,
+"slot": 11,
+"tics": 14136,
+"tics_comparados": 14136,
+"fidelidad": {
+"igual": 14136
+},
+"errores": 0,
+"recuerdos_previos": 36,
+"distintos": [
+{
+"t": 11881,
+"campo": "usar_botiquin",
+"C": "atacar_N",
+"hp": 67,
+"creencia_C": 16.34,
+"ignorancia_C": 0.063,
+"heal_C": 16.25,
+"dentro": true,
+"golpeado_48": true,
+"dolor_F": 1.0851,
+"heal_campo": 47.723361824128446
+}
+],
+"elecciones_de_usar": [
+{
+"t": 11881,
+"C": "atacar_N",
+"hp": 67,
+"creencia_C": 16.34,
+"ignorancia_C": 0.063,
+"heal_C": 16.25,
+"dentro": true,
+"golpeado_48": true,
+"dolor_F": 1.0851,
+"heal_campo": 47.723361824128446
+}
+]
+},
+{
+"serie": 2,
+"dia": 12,
+"slot": 10,
+"tics": 14162,
+"tics_comparados": 14162,
+"fidelidad": {
+"igual": 14162
+},
+"errores": 0,
+"recuerdos_previos": 15,
+"distintos": [],
+"elecciones_de_usar": []
+},
+{
+"serie": 2,
+"dia": 12,
+"slot": 11,
+"tics": 14160,
+"tics_comparados": 14160,
+"fidelidad": {
+"igual": 14160
+},
+"errores": 0,
+"recuerdos_previos": 37,
+"distintos": [
+{
+"t": 12867,
+"campo": "usar_botiquin",
+"C": "move_S",
+"hp": 71,
+"creencia_C": 18.35,
+"ignorancia_C": 0.111,
+"heal_C": 17.98,
+"dentro": true,
+"golpeado_48": false,
+"dolor_F": 0.8626,
+"heal_campo": 47.99879103894996
+}
+],
+"elecciones_de_usar": [
+{
+"t": 10603,
+"C": "usar_botiquin",
+"hp": 89,
+"creencia_C": 17.42,
+"ignorancia_C": 0.063,
+"heal_C": 17.27,
+"dentro": true,
+"golpeado_48": true,
+"dolor_F": 0.8317,
+"heal_campo": 47.85013975074363
+},
+{
+"t": 12867,
+"C": "move_S",
+"hp": 71,
+"creencia_C": 18.35,
+"ignorancia_C": 0.111,
+"heal_C": 17.98,
+"dentro": true,
+"golpeado_48": false,
+"dolor_F": 0.8626,
+"heal_campo": 47.99879103894996
+}
+]
+},
+{
+"serie": 2,
+"dia": 13,
+"slot": 10,
+"tics": 14472,
+"tics_comparados": 14472,
+"fidelidad": {
+"igual": 14472
+},
+"errores": 0,
+"recuerdos_previos": 15,
+"distintos": [],
+"elecciones_de_usar": []
+},
+{
+"serie": 2,
+"dia": 13,
+"slot": 11,
+"tics": 13741,
+"tics_comparados": 13741,
+"fidelidad": {
+"igual": 13741
+},
+"errores": 0,
+"recuerdos_previos": 39,
+"distintos": [
+{
+"t": 13897,
+"campo": "usar_botiquin",
+"C": "noop",
+"hp": 67,
+"creencia_C": 15.46,
+"ignorancia_C": 0.137,
+"heal_C": 15.4,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.1407,
+"heal_campo": 35.845072307796
+}
+],
+"elecciones_de_usar": [
+{
+"t": 11500,
+"C": "usar_botiquin",
+"hp": 92,
+"creencia_C": 16.96,
+"ignorancia_C": 0.06,
+"heal_C": 16.84,
+"dentro": true,
+"golpeado_48": true,
+"dolor_F": 0.8158,
+"heal_campo": 48.05222394763091
+},
+{
+"t": 11549,
+"C": "usar_botiquin",
+"hp": 85,
+"creencia_C": 16.79,
+"ignorancia_C": 0.062,
+"heal_C": 16.68,
+"dentro": true,
+"golpeado_48": true,
+"dolor_F": 0.7919,
+"heal_campo": 48.05222394763091
+},
+{
+"t": 13897,
+"C": "noop",
+"hp": 67,
+"creencia_C": 15.46,
+"ignorancia_C": 0.137,
+"heal_C": 15.4,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.1407,
+"heal_campo": 35.845072307796
+},
+{
+"t": 14205,
+"C": "usar_botiquin",
+"hp": 1,
+"creencia_C": 18.2,
+"ignorancia_C": 0.178,
+"heal_C": 17.63,
+"dentro": true,
+"golpeado_48": false,
+"dolor_F": 1.7412,
+"heal_campo": 48.297558684071625
+}
+]
+},
+{
+"serie": 2,
+"dia": 14,
+"slot": 10,
+"tics": 13968,
+"tics_comparados": 13968,
+"fidelidad": {
+"igual": 13968
+},
+"errores": 0,
+"recuerdos_previos": 15,
+"distintos": [],
+"elecciones_de_usar": [
+{
+"t": 12649,
+"C": "usar_botiquin",
+"hp": 86,
+"creencia_C": 12.78,
+"ignorancia_C": 0.491,
+"heal_C": 13.87,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 0.2822,
+"heal_campo": 10.603566129206516
+},
+{
+"t": 12698,
+"C": "usar_botiquin",
+"hp": 73,
+"creencia_C": 15.17,
+"ignorancia_C": 0.362,
+"heal_C": 15.11,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 0.8636,
+"heal_campo": 10.603566129206516
+},
+{
+"t": 14329,
+"C": "usar_botiquin",
+"hp": 80,
+"creencia_C": 12.14,
+"ignorancia_C": 0.423,
+"heal_C": 13.35,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.1734,
+"heal_campo": 20.19482691379018
+},
+{
+"t": 14378,
+"C": "usar_botiquin",
+"hp": 40,
+"creencia_C": 10.91,
+"ignorancia_C": 0.465,
+"heal_C": 12.81,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.4624,
+"heal_campo": 20.19482691379018
+},
+{
+"t": 14427,
+"C": "usar_botiquin",
+"hp": 1,
+"creencia_C": 5.19,
+"ignorancia_C": 0.511,
+"heal_C": 10.2,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 2.0502,
+"heal_campo": 20.19482691379018
+}
+]
+},
+{
+"serie": 2,
+"dia": 14,
+"slot": 11,
+"tics": 13489,
+"tics_comparados": 13489,
+"fidelidad": {
+"igual": 13489
+},
+"errores": 0,
+"recuerdos_previos": 43,
+"distintos": [
+{
+"t": 12771,
+"campo": "usar_botiquin",
+"C": "noop",
+"hp": 70,
+"creencia_C": 16.21,
+"ignorancia_C": 0.097,
+"heal_C": 16.09,
+"dentro": true,
+"golpeado_48": false,
+"dolor_F": 0.8462,
+"heal_campo": 48.472327922794484
+},
+{
+"t": 12820,
+"campo": "usar_botiquin",
+"C": "noop",
+"hp": 56,
+"creencia_C": 13.89,
+"ignorancia_C": 0.17,
+"heal_C": 14.08,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 0.554,
+"heal_campo": 33.710840038396846
+},
+{
+"t": 12869,
+"campo": "usar_botiquin",
+"C": "noop",
+"hp": 43,
+"creencia_C": 17.55,
+"ignorancia_C": 0.055,
+"heal_C": 17.41,
+"dentro": true,
+"golpeado_48": true,
+"dolor_F": 1.1231,
+"heal_campo": 48.472327922794484
+}
+],
+"elecciones_de_usar": [
+{
+"t": 10440,
+"C": "usar_botiquin",
+"hp": 89,
+"creencia_C": 15.86,
+"ignorancia_C": 0.058,
+"heal_C": 15.81,
+"dentro": true,
+"golpeado_48": true,
+"dolor_F": 0.7817,
+"heal_campo": 48.212532537307524
+},
+{
+"t": 10692,
+"C": "usar_botiquin",
+"hp": 97,
+"creencia_C": 15.99,
+"ignorancia_C": 0.064,
+"heal_C": 15.92,
+"dentro": true,
+"golpeado_48": true,
+"dolor_F": 0.67,
+"heal_campo": 48.307156818870375
+},
+{
+"t": 10778,
+"C": "usar_botiquin",
+"hp": 95,
+"creencia_C": 15.9,
+"ignorancia_C": 0.069,
+"heal_C": 15.84,
+"dentro": true,
+"golpeado_48": true,
+"dolor_F": 0.7,
+"heal_campo": 48.387726526964336
+},
+{
+"t": 10827,
+"C": "usar_botiquin",
+"hp": 91,
+"creencia_C": 15.84,
+"ignorancia_C": 0.066,
+"heal_C": 15.79,
+"dentro": true,
+"golpeado_48": true,
+"dolor_F": 0.7604,
+"heal_campo": 48.387726526964336
+},
+{
+"t": 12771,
+"C": "noop",
+"hp": 70,
+"creencia_C": 16.21,
+"ignorancia_C": 0.097,
+"heal_C": 16.09,
+"dentro": true,
+"golpeado_48": false,
+"dolor_F": 0.8462,
+"heal_campo": 48.472327922794484
+},
+{
+"t": 12820,
+"C": "noop",
+"hp": 56,
+"creencia_C": 13.89,
+"ignorancia_C": 0.17,
+"heal_C": 14.08,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 0.554,
+"heal_campo": 33.710840038396846
+},
+{
+"t": 12869,
+"C": "noop",
+"hp": 43,
+"creencia_C": 17.55,
+"ignorancia_C": 0.055,
+"heal_C": 17.41,
+"dentro": true,
+"golpeado_48": true,
+"dolor_F": 1.1231,
+"heal_campo": 48.472327922794484
+}
+]
+},
+{
+"serie": 2,
+"dia": 15,
+"slot": 10,
+"tics": 14112,
+"tics_comparados": 14112,
+"fidelidad": {
+"igual": 14112
+},
+"errores": 0,
+"recuerdos_previos": 20,
+"distintos": [
+{
+"t": 3076,
+"campo": "usar_botiquin",
+"C": "noop",
+"hp": 73,
+"creencia_C": 17.66,
+"ignorancia_C": 0.155,
+"heal_C": 17.25,
+"dentro": true,
+"golpeado_48": true,
+"dolor_F": 0.8631,
+"heal_campo": 24.520625704685415
+},
+{
+"t": 11551,
+"campo": "usar_botiquin",
+"C": "noop",
+"hp": 78,
+"creencia_C": 15.31,
+"ignorancia_C": 0.158,
+"heal_C": 15.26,
+"dentro": true,
+"golpeado_48": true,
+"dolor_F": 1.0545,
+"heal_campo": 24.86369141348928
+}
+],
+"elecciones_de_usar": [
+{
+"t": 3076,
+"C": "noop",
+"hp": 73,
+"creencia_C": 17.66,
+"ignorancia_C": 0.155,
+"heal_C": 17.25,
+"dentro": true,
+"golpeado_48": true,
+"dolor_F": 0.8631,
+"heal_campo": 24.520625704685415
+},
+{
+"t": 11551,
+"C": "noop",
+"hp": 78,
+"creencia_C": 15.31,
+"ignorancia_C": 0.158,
+"heal_C": 15.26,
+"dentro": true,
+"golpeado_48": true,
+"dolor_F": 1.0545,
+"heal_campo": 24.86369141348928
+}
+]
+},
+{
+"serie": 2,
+"dia": 15,
+"slot": 11,
+"tics": 14184,
+"tics_comparados": 14184,
+"fidelidad": {
+"igual": 14184
+},
+"errores": 0,
+"recuerdos_previos": 50,
+"distintos": [
+{
+"t": 13155,
+"campo": "usar_botiquin",
+"C": "noop",
+"hp": 72,
+"creencia_C": 18.21,
+"ignorancia_C": 0.079,
+"heal_C": 17.95,
+"dentro": true,
+"golpeado_48": false,
+"dolor_F": 0.897,
+"heal_campo": 48.571149928346095
+}
+],
+"elecciones_de_usar": [
+{
+"t": 11668,
+"C": "usar_botiquin",
+"hp": 89,
+"creencia_C": 16.02,
+"ignorancia_C": 0.225,
+"heal_C": 15.79,
+"dentro": true,
+"golpeado_48": false,
+"dolor_F": 0.1162,
+"heal_campo": 48.49523994111035
+},
+{
+"t": 13155,
+"C": "noop",
+"hp": 72,
+"creencia_C": 18.21,
+"ignorancia_C": 0.079,
+"heal_C": 17.95,
+"dentro": true,
+"golpeado_48": false,
+"dolor_F": 0.897,
+"heal_campo": 48.571149928346095
+}
+]
+},
+{
+"serie": 2,
+"dia": 16,
+"slot": 10,
+"tics": 11976,
+"tics_comparados": 11976,
+"fidelidad": {
+"igual": 11976
+},
+"errores": 0,
+"recuerdos_previos": 22,
+"distintos": [],
+"elecciones_de_usar": [
+{
+"t": 5251,
+"C": "usar_botiquin",
+"hp": 94,
+"creencia_C": 19.82,
+"ignorancia_C": 0.125,
+"heal_C": 19.22,
+"dentro": true,
+"golpeado_48": true,
+"dolor_F": 0.7437,
+"heal_campo": 24.40216559968833
+},
+{
+"t": 6043,
+"C": "usar_botiquin",
+"hp": 78,
+"creencia_C": 18.93,
+"ignorancia_C": 0.12,
+"heal_C": 18.46,
+"dentro": true,
+"golpeado_48": true,
+"dolor_F": 0.8724,
+"heal_campo": 22.37579199426635
+},
+{
+"t": 8425,
+"C": "usar_botiquin",
+"hp": 17,
+"creencia_C": 17.24,
+"ignorancia_C": 0.295,
+"heal_C": 16.58,
+"dentro": true,
+"golpeado_48": false,
+"dolor_F": 1.4867,
+"heal_campo": 22.325012927182165
+}
+]
+},
+{
+"serie": 2,
+"dia": 16,
+"slot": 11,
+"tics": 12072,
+"tics_comparados": 12072,
+"fidelidad": {
+"igual": 12072
+},
+"errores": 0,
+"recuerdos_previos": 52,
+"distintos": [],
+"elecciones_de_usar": []
+},
+{
+"serie": 2,
+"dia": 17,
+"slot": 10,
+"tics": 13968,
+"tics_comparados": 13968,
+"fidelidad": {
+"igual": 13968
+},
+"errores": 0,
+"recuerdos_previos": 25,
+"distintos": [
+{
+"t": 12524,
+"campo": "usar_botiquin",
+"C": "noop",
+"hp": 68,
+"creencia_C": 20.04,
+"ignorancia_C": 0.101,
+"heal_C": 19.53,
+"dentro": true,
+"golpeado_48": true,
+"dolor_F": 0.8848,
+"heal_campo": 47.57889140901576
+}
+],
+"elecciones_de_usar": [
+{
+"t": 12524,
+"C": "noop",
+"hp": 68,
+"creencia_C": 20.04,
+"ignorancia_C": 0.101,
+"heal_C": 19.53,
+"dentro": true,
+"golpeado_48": true,
+"dolor_F": 0.8848,
+"heal_campo": 47.57889140901576
+}
+]
+},
+{
+"serie": 2,
+"dia": 17,
+"slot": 11,
+"tics": 14313,
+"tics_comparados": 14313,
+"fidelidad": {
+"igual": 14313
+},
+"errores": 0,
+"recuerdos_previos": 52,
+"distintos": [
+{
+"t": 12579,
+"campo": "usar_botiquin",
+"C": "noop",
+"hp": 75,
+"creencia_C": 17.53,
+"ignorancia_C": 0.109,
+"heal_C": 17.26,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 0.9984,
+"heal_campo": 33.77325516208272
+},
+{
+"t": 12628,
+"campo": "usar_botiquin",
+"C": "noop",
+"hp": 62,
+"creencia_C": 18.43,
+"ignorancia_C": 0.111,
+"heal_C": 18.05,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.0933,
+"heal_campo": 33.77325516208272
+},
+{
+"t": 12678,
+"campo": "usar_botiquin",
+"C": "noop",
+"hp": 49,
+"creencia_C": 19.41,
+"ignorancia_C": 0.05,
+"heal_C": 19.18,
+"dentro": true,
+"golpeado_48": true,
+"dolor_F": 1.0797,
+"heal_campo": 48.583984026051645
+}
+],
+"elecciones_de_usar": [
+{
+"t": 11799,
+"C": "usar_botiquin",
+"hp": 86,
+"creencia_C": 17.83,
+"ignorancia_C": 0.05,
+"heal_C": 17.69,
+"dentro": true,
+"golpeado_48": true,
+"dolor_F": 1.0258,
+"heal_campo": 48.50831096389227
+},
+{
+"t": 11848,
+"C": "usar_botiquin",
+"hp": 75,
+"creencia_C": 16.72,
+"ignorancia_C": 0.05,
+"heal_C": 16.64,
+"dentro": true,
+"golpeado_48": true,
+"dolor_F": 0.99,
+"heal_campo": 48.50831096389227
+},
+{
+"t": 12579,
+"C": "noop",
+"hp": 75,
+"creencia_C": 17.53,
+"ignorancia_C": 0.109,
+"heal_C": 17.26,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 0.9984,
+"heal_campo": 33.77325516208272
+},
+{
+"t": 12628,
+"C": "noop",
+"hp": 62,
+"creencia_C": 18.43,
+"ignorancia_C": 0.111,
+"heal_C": 18.05,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.0933,
+"heal_campo": 33.77325516208272
+},
+{
+"t": 12678,
+"C": "noop",
+"hp": 49,
+"creencia_C": 19.41,
+"ignorancia_C": 0.05,
+"heal_C": 19.18,
+"dentro": true,
+"golpeado_48": true,
+"dolor_F": 1.0797,
+"heal_campo": 48.583984026051645
+},
+{
+"t": 12727,
+"C": "usar_botiquin",
+"hp": 36,
+"creencia_C": 19.28,
+"ignorancia_C": 0.056,
+"heal_C": 19.04,
+"dentro": true,
+"golpeado_48": true,
+"dolor_F": 1.2242,
+"heal_campo": 48.583984026051645
+},
+{
+"t": 14202,
+"C": "usar_botiquin",
+"hp": 86,
+"creencia_C": 15.19,
+"ignorancia_C": 0.094,
+"heal_C": 15.17,
+"dentro": true,
+"golpeado_48": false,
+"dolor_F": 0.8333,
+"heal_campo": 48.66600781622319
+}
+]
+},
+{
+"serie": 2,
+"dia": 18,
+"slot": 10,
+"tics": 14376,
+"tics_comparados": 14376,
+"fidelidad": {
+"igual": 14376
+},
+"errores": 0,
+"recuerdos_previos": 26,
+"distintos": [],
+"elecciones_de_usar": []
+},
+{
+"serie": 2,
+"dia": 18,
+"slot": 11,
+"tics": 14160,
+"tics_comparados": 14160,
+"fidelidad": {
+"igual": 14160
+},
+"errores": 0,
+"recuerdos_previos": 59,
+"distintos": [
+{
+"t": 12337,
+"campo": "usar_botiquin",
+"C": "noop",
+"hp": 61,
+"creencia_C": 14.67,
+"ignorancia_C": 0.097,
+"heal_C": 14.7,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 0.9482,
+"heal_campo": 33.848625677876385
+},
+{
+"t": 12386,
+"campo": "usar_botiquin",
+"C": "noop",
+"hp": 48,
+"creencia_C": 15.73,
+"ignorancia_C": 0.096,
+"heal_C": 15.66,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.0674,
+"heal_campo": 33.848625677876385
+}
+],
+"elecciones_de_usar": [
+{
+"t": 10390,
+"C": "usar_botiquin",
+"hp": 94,
+"creencia_C": 16.04,
+"ignorancia_C": 0.075,
+"heal_C": 15.96,
+"dentro": true,
+"golpeado_48": false,
+"dolor_F": 0.6641,
+"heal_campo": 48.66811213406537
+},
+{
+"t": 12337,
+"C": "noop",
+"hp": 61,
+"creencia_C": 14.67,
+"ignorancia_C": 0.097,
+"heal_C": 14.7,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 0.9482,
+"heal_campo": 33.848625677876385
+},
+{
+"t": 12386,
+"C": "noop",
+"hp": 48,
+"creencia_C": 15.73,
+"ignorancia_C": 0.096,
+"heal_C": 15.66,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.0674,
+"heal_campo": 33.848625677876385
+},
+{
+"t": 13952,
+"C": "usar_botiquin",
+"hp": 6,
+"creencia_C": 19.41,
+"ignorancia_C": 0.093,
+"heal_C": 19.0,
+"dentro": true,
+"golpeado_48": true,
+"dolor_F": 1.685,
+"heal_campo": 48.79479026496752
+}
+]
+},
+{
+"serie": 2,
+"dia": 19,
+"slot": 10,
+"tics": 11136,
+"tics_comparados": 11136,
+"fidelidad": {
+"igual": 11136
+},
+"errores": 0,
+"recuerdos_previos": 26,
+"distintos": [
+{
+"t": 11497,
+"campo": "usar_botiquin",
+"C": "noop",
+"hp": 24,
+"creencia_C": 7.15,
+"ignorancia_C": 0.503,
+"heal_C": 11.1,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.632,
+"heal_campo": 20.404937098923206
+},
+{
+"t": 11546,
+"campo": "usar_botiquin",
+"C": "noop",
+"hp": 14,
+"creencia_C": 7.62,
+"ignorancia_C": 0.718,
+"heal_C": 12.92,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.8463,
+"heal_campo": 20.404937098923206
+},
+{
+"t": 11595,
+"campo": "usar_botiquin",
+"C": "noop",
+"hp": 4,
+"creencia_C": 11.17,
+"ignorancia_C": 0.249,
+"heal_C": 12.12,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.3322,
+"heal_campo": 20.404937098923206
+}
+],
+"elecciones_de_usar": [
+{
+"t": 11497,
+"C": "noop",
+"hp": 24,
+"creencia_C": 7.15,
+"ignorancia_C": 0.503,
+"heal_C": 11.1,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.632,
+"heal_campo": 20.404937098923206
+},
+{
+"t": 11546,
+"C": "noop",
+"hp": 14,
+"creencia_C": 7.62,
+"ignorancia_C": 0.718,
+"heal_C": 12.92,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.8463,
+"heal_campo": 20.404937098923206
+},
+{
+"t": 11595,
+"C": "noop",
+"hp": 4,
+"creencia_C": 11.17,
+"ignorancia_C": 0.249,
+"heal_C": 12.12,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.3322,
+"heal_campo": 20.404937098923206
+}
+]
+},
+{
+"serie": 2,
+"dia": 19,
+"slot": 11,
+"tics": 11088,
+"tics_comparados": 11088,
+"fidelidad": {
+"igual": 11088
+},
+"errores": 0,
+"recuerdos_previos": 63,
+"distintos": [
+{
+"t": 11233,
+"campo": "usar_botiquin",
+"C": "noop",
+"hp": 65,
+"creencia_C": 19.42,
+"ignorancia_C": 0.078,
+"heal_C": 19.08,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 0.9836,
+"heal_campo": 48.79630937853259
+},
+{
+"t": 11283,
+"campo": "usar_botiquin",
+"C": "noop",
+"hp": 55,
+"creencia_C": 19.83,
+"ignorancia_C": 0.079,
+"heal_C": 19.45,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.0255,
+"heal_campo": 48.79630937853259
+},
+{
+"t": 11332,
+"campo": "usar_botiquin",
+"C": "noop",
+"hp": 45,
+"creencia_C": 20.26,
+"ignorancia_C": 0.1,
+"heal_C": 19.73,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.2166,
+"heal_campo": 48.79630937853259
+},
+{
+"t": 11382,
+"campo": "usar_botiquin",
+"C": "noop",
+"hp": 36,
+"creencia_C": 23.04,
+"ignorancia_C": 0.074,
+"heal_C": 22.45,
+"dentro": true,
+"golpeado_48": true,
+"dolor_F": 1.3258,
+"heal_campo": 48.79630937853259
+},
+{
+"t": 11431,
+"campo": "usar_botiquin",
+"C": "noop",
+"hp": 26,
+"creencia_C": 20.55,
+"ignorancia_C": 0.105,
+"heal_C": 19.96,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.3302,
+"heal_campo": 48.79630937853259
+},
+{
+"t": 11480,
+"campo": "usar_botiquin",
+"C": "move_NW",
+"hp": 16,
+"creencia_C": 20.92,
+"ignorancia_C": 0.142,
+"heal_C": 20.08,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.5241,
+"heal_campo": 48.79630937853259
+}
+],
+"elecciones_de_usar": [
+{
+"t": 11233,
+"C": "noop",
+"hp": 65,
+"creencia_C": 19.42,
+"ignorancia_C": 0.078,
+"heal_C": 19.08,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 0.9836,
+"heal_campo": 48.79630937853259
+},
+{
+"t": 11283,
+"C": "noop",
+"hp": 55,
+"creencia_C": 19.83,
+"ignorancia_C": 0.079,
+"heal_C": 19.45,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.0255,
+"heal_campo": 48.79630937853259
+},
+{
+"t": 11332,
+"C": "noop",
+"hp": 45,
+"creencia_C": 20.26,
+"ignorancia_C": 0.1,
+"heal_C": 19.73,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.2166,
+"heal_campo": 48.79630937853259
+},
+{
+"t": 11382,
+"C": "noop",
+"hp": 36,
+"creencia_C": 23.04,
+"ignorancia_C": 0.074,
+"heal_C": 22.45,
+"dentro": true,
+"golpeado_48": true,
+"dolor_F": 1.3258,
+"heal_campo": 48.79630937853259
+},
+{
+"t": 11431,
+"C": "noop",
+"hp": 26,
+"creencia_C": 20.55,
+"ignorancia_C": 0.105,
+"heal_C": 19.96,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.3302,
+"heal_campo": 48.79630937853259
+},
+{
+"t": 11480,
+"C": "move_NW",
+"hp": 16,
+"creencia_C": 20.92,
+"ignorancia_C": 0.142,
+"heal_C": 20.08,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.5241,
+"heal_campo": 48.79630937853259
+},
+{
+"t": 11529,
+"C": "usar_botiquin",
+"hp": 6,
+"creencia_C": 21.25,
+"ignorancia_C": 0.202,
+"heal_C": 19.99,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.7275,
+"heal_campo": 48.79630937853259
+}
+]
+},
+{
+"serie": 2,
+"dia": 20,
+"slot": 10,
+"tics": 11749,
+"tics_comparados": 11749,
+"fidelidad": {
+"igual": 11749
+},
+"errores": 0,
+"recuerdos_previos": 29,
+"distintos": [
+{
+"t": 11629,
+"campo": "usar_botiquin",
+"C": "noop",
+"hp": 77,
+"creencia_C": 20.18,
+"ignorancia_C": 0.11,
+"heal_C": 19.61,
+"dentro": true,
+"golpeado_48": true,
+"dolor_F": 1.1089,
+"heal_campo": 47.6452191257063
+},
+{
+"t": 11678,
+"campo": "usar_botiquin",
+"C": "noop",
+"hp": 73,
+"creencia_C": 20.68,
+"ignorancia_C": 0.102,
+"heal_C": 20.1,
+"dentro": true,
+"golpeado_48": true,
+"dolor_F": 0.9708,
+"heal_campo": 47.6452191257063
+},
+{
+"t": 11727,
+"campo": "usar_botiquin",
+"C": "noop",
+"hp": 69,
+"creencia_C": 20.83,
+"ignorancia_C": 0.103,
+"heal_C": 20.23,
+"dentro": true,
+"golpeado_48": true,
+"dolor_F": 0.9623,
+"heal_campo": 47.6452191257063
+},
+{
+"t": 11776,
+"campo": "usar_botiquin",
+"C": "noop",
+"hp": 67,
+"creencia_C": 20.92,
+"ignorancia_C": 0.102,
+"heal_C": 20.32,
+"dentro": true,
+"golpeado_48": true,
+"dolor_F": 0.9304,
+"heal_campo": 47.6452191257063
+}
+],
+"elecciones_de_usar": [
+{
+"t": 11529,
+"C": "usar_botiquin",
+"hp": 89,
+"creencia_C": 21.12,
+"ignorancia_C": 0.1,
+"heal_C": 20.51,
+"dentro": true,
+"golpeado_48": true,
+"dolor_F": 0.7892,
+"heal_campo": 47.440824317172705
+},
+{
+"t": 11629,
+"C": "noop",
+"hp": 77,
+"creencia_C": 20.18,
+"ignorancia_C": 0.11,
+"heal_C": 19.61,
+"dentro": true,
+"golpeado_48": true,
+"dolor_F": 1.1089,
+"heal_campo": 47.6452191257063
+},
+{
+"t": 11678,
+"C": "noop",
+"hp": 73,
+"creencia_C": 20.68,
+"ignorancia_C": 0.102,
+"heal_C": 20.1,
+"dentro": true,
+"golpeado_48": true,
+"dolor_F": 0.9708,
+"heal_campo": 47.6452191257063
+},
+{
+"t": 11727,
+"C": "noop",
+"hp": 69,
+"creencia_C": 20.83,
+"ignorancia_C": 0.103,
+"heal_C": 20.23,
+"dentro": true,
+"golpeado_48": true,
+"dolor_F": 0.9623,
+"heal_campo": 47.6452191257063
+},
+{
+"t": 11776,
+"C": "noop",
+"hp": 67,
+"creencia_C": 20.92,
+"ignorancia_C": 0.102,
+"heal_C": 20.32,
+"dentro": true,
+"golpeado_48": true,
+"dolor_F": 0.9304,
+"heal_campo": 47.6452191257063
+}
+]
+},
+{
+"serie": 2,
+"dia": 20,
+"slot": 11,
+"tics": 13584,
+"tics_comparados": 13584,
+"fidelidad": {
+"igual": 13584
+},
+"errores": 0,
+"recuerdos_previos": 70,
+"distintos": [
+{
+"t": 13945,
+"campo": "usar_botiquin",
+"C": "noop",
+"hp": 56,
+"creencia_C": 13.52,
+"ignorancia_C": 0.093,
+"heal_C": 13.66,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.2216,
+"heal_campo": 48.73524652161385
+},
+{
+"t": 13994,
+"campo": "usar_botiquin",
+"C": "noop",
+"hp": 30,
+"creencia_C": 13.2,
+"ignorancia_C": 0.113,
+"heal_C": 13.4,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.469,
+"heal_campo": 48.73524652161385
+},
+{
+"t": 14043,
+"campo": "usar_botiquin",
+"C": "noop",
+"hp": 3,
+"creencia_C": 12.46,
+"ignorancia_C": 0.19,
+"heal_C": 12.94,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.9015,
+"heal_campo": 48.73524652161385
+}
+],
+"elecciones_de_usar": [
+{
+"t": 13945,
+"C": "noop",
+"hp": 56,
+"creencia_C": 13.52,
+"ignorancia_C": 0.093,
+"heal_C": 13.66,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.2216,
+"heal_campo": 48.73524652161385
+},
+{
+"t": 13994,
+"C": "noop",
+"hp": 30,
+"creencia_C": 13.2,
+"ignorancia_C": 0.113,
+"heal_C": 13.4,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.469,
+"heal_campo": 48.73524652161385
+},
+{
+"t": 14043,
+"C": "noop",
+"hp": 3,
+"creencia_C": 12.46,
+"ignorancia_C": 0.19,
+"heal_C": 12.94,
+"dentro": false,
+"golpeado_48": true,
+"dolor_F": 1.9015,
+"heal_campo": 48.73524652161385
+}
+]
+}
+]

@@ -1,0 +1,266 @@
+{
+ "puerta": {
+  "con_todas": {
+   "reproduce_P7_56_sello": true,
+   "sello_json": {
+    "n_verdad": 1154,
+    "n_falsa": 54,
+    "media_verdad": 0.657,
+    "media_falsa": 0.132,
+    "dif": 0.525,
+    "ee": 0.032,
+    "tres_veces": true,
+    "pasa": true
+   },
+   "esta_lectura": {
+    "n_verdad": 1154,
+    "n_falsa": 54,
+    "media_verdad": 0.657,
+    "media_falsa": 0.132,
+    "dif": 0.525,
+    "ee": 0.032,
+    "ee_veces": 16.4,
+    "tres_veces": true,
+    "pasa": true,
+    "media_verdad_4": 0.6572,
+    "media_falsa_4": 0.1322,
+    "dif_4": 0.525,
+    "ee_4": 0.032
+   }
+  },
+  "sin_marcadas": {
+   "reproduce_P7_56_sello": true,
+   "sello_json": {
+    "n_verdad": 860,
+    "n_falsa": 48,
+    "media_verdad": 0.649,
+    "media_falsa": 0.078,
+    "dif": 0.571,
+    "ee": 0.023,
+    "tres_veces": true,
+    "pasa": true
+   },
+   "esta_lectura": {
+    "n_verdad": 860,
+    "n_falsa": 48,
+    "media_verdad": 0.649,
+    "media_falsa": 0.078,
+    "dif": 0.571,
+    "ee": 0.023,
+    "ee_veces": 25.2,
+    "tres_veces": true,
+    "pasa": true,
+    "media_verdad_4": 0.6491,
+    "media_falsa_4": 0.0784,
+    "dif_4": 0.5706,
+    "ee_4": 0.0227
+   }
+  }
+ },
+ "cuentas": {
+  "con_todas": {
+   "original": {
+    "n_verdad": 1154,
+    "n_falsa": 54,
+    "media_verdad": 0.657,
+    "media_falsa": 0.132,
+    "dif": 0.525,
+    "ee": 0.032,
+    "ee_veces": 16.4,
+    "tres_veces": true,
+    "pasa": true,
+    "media_verdad_4": 0.6572,
+    "media_falsa_4": 0.1322,
+    "dif_4": 0.525,
+    "ee_4": 0.032
+   },
+   "corregida": {
+    "n_verdad": 982,
+    "n_falsa": 226,
+    "media_verdad": 0.72,
+    "media_falsa": 0.257,
+    "dif": 0.464,
+    "ee": 0.019,
+    "ee_veces": 24.1,
+    "tres_veces": true,
+    "pasa": true,
+    "media_verdad_4": 0.7205,
+    "media_falsa_4": 0.2567,
+    "dif_4": 0.4638,
+    "ee_4": 0.0192
+   },
+   "variante_coger_cualquier_uso": {
+    "n_verdad": 1041,
+    "n_falsa": 167,
+    "media_verdad": 0.691,
+    "media_falsa": 0.277,
+    "dif": 0.414,
+    "ee": 0.022,
+    "ee_veces": 18.4,
+    "tres_veces": true,
+    "pasa": true,
+    "media_verdad_4": 0.691,
+    "media_falsa_4": 0.2766,
+    "dif_4": 0.4143,
+    "ee_4": 0.0225
+   },
+   "variante_racion_sin_condicion_de_golpes": {
+    "n_verdad": 988,
+    "n_falsa": 220,
+    "media_verdad": 0.72,
+    "media_falsa": 0.244,
+    "dif": 0.477,
+    "ee": 0.019,
+    "ee_veces": 25.4,
+    "tres_veces": true,
+    "pasa": true,
+    "media_verdad_4": 0.7205,
+    "media_falsa_4": 0.2439,
+    "dif_4": 0.4766,
+    "ee_4": 0.0187
+   }
+  },
+  "sin_marcadas": {
+   "original": {
+    "n_verdad": 860,
+    "n_falsa": 48,
+    "media_verdad": 0.649,
+    "media_falsa": 0.078,
+    "dif": 0.571,
+    "ee": 0.023,
+    "ee_veces": 25.2,
+    "tres_veces": true,
+    "pasa": true,
+    "media_verdad_4": 0.6491,
+    "media_falsa_4": 0.0784,
+    "dif_4": 0.5706,
+    "ee_4": 0.0227
+   },
+   "corregida": {
+    "n_verdad": 757,
+    "n_falsa": 151,
+    "media_verdad": 0.687,
+    "media_falsa": 0.278,
+    "dif": 0.409,
+    "ee": 0.024,
+    "ee_veces": 17.3,
+    "tres_veces": true,
+    "pasa": true,
+    "media_verdad_4": 0.6869,
+    "media_falsa_4": 0.2781,
+    "dif_4": 0.4088,
+    "ee_4": 0.0236
+   },
+   "variante_coger_cualquier_uso": {
+    "n_verdad": 782,
+    "n_falsa": 126,
+    "media_verdad": 0.675,
+    "media_falsa": 0.271,
+    "dif": 0.404,
+    "ee": 0.026,
+    "ee_veces": 15.6,
+    "tres_veces": true,
+    "pasa": true,
+    "media_verdad_4": 0.675,
+    "media_falsa_4": 0.2709,
+    "dif_4": 0.4041,
+    "ee_4": 0.0259
+   },
+   "variante_racion_sin_condicion_de_golpes": {
+    "n_verdad": 763,
+    "n_falsa": 145,
+    "media_verdad": 0.687,
+    "media_falsa": 0.26,
+    "dif": 0.428,
+    "ee": 0.023,
+    "ee_veces": 18.7,
+    "tres_veces": true,
+    "pasa": true,
+    "media_verdad_4": 0.6872,
+    "media_falsa_4": 0.2596,
+    "dif_4": 0.4276,
+    "ee_4": 0.0228
+   }
+  }
+ },
+ "cambios": {
+  "con_todas": {
+   "por_accion_original_a_corregida": {
+    "ACERCARSE_HERMANA · F→F": 21,
+    "ACERCARSE_HERMANA · V→V": 244,
+    "COGER_BOTIQUIN · V→F": 155,
+    "COGER_BOTIQUIN · V→V": 260,
+    "COGER_CAMUFLAJE · V→V": 26,
+    "COGER_RACION · V→F": 2,
+    "COGER_RACION · V→V": 132,
+    "COGER_RED · V→V": 6,
+    "QUEDARSE_QUIETA · F→F": 31,
+    "QUEDARSE_QUIETA · V→V": 314,
+    "USAR_BOTIQUIN · F→F": 2,
+    "USAR_BOTIQUIN · V→F": 9,
+    "USAR_RACION · V→F": 6
+   },
+   "motivos_coger_y_quieta": {
+    "COGER_BOTIQUIN · cortado": 66,
+    "COGER_BOTIQUIN · cura": 53,
+    "COGER_BOTIQUIN · promete 0": 207,
+    "COGER_BOTIQUIN · sin uso posterior": 89,
+    "COGER_RACION · cura": 41,
+    "COGER_RACION · promete 0": 91,
+    "COGER_RACION · sin uso posterior": 1,
+    "COGER_RACION · usa y no cura": 1,
+    "QUEDARSE_QUIETA · anillo CUALQUIERA (fuera del sello)": 24
+   },
+   "usar_por_situacion": {
+    "USAR_BOTIQUIN · calma CUALQUIERA · anillo DENTRO · promesa >0": 1,
+    "USAR_BOTIQUIN · calma PELIGRO · anillo CUALQUIERA · promesa >0": 1,
+    "USAR_BOTIQUIN · calma PELIGRO · anillo DENTRO · promesa >0": 8,
+    "USAR_BOTIQUIN · calma PELIGRO · anillo FUERA · promesa <=0": 1,
+    "USAR_RACION · calma CUALQUIERA · anillo DENTRO · promesa >0": 1,
+    "USAR_RACION · calma PELIGRO · anillo CUALQUIERA · promesa >0": 3,
+    "USAR_RACION · calma PELIGRO · anillo DENTRO · promesa >0": 2
+   },
+   "evaluaciones": 1208
+  },
+  "sin_marcadas": {
+   "por_accion_original_a_corregida": {
+    "ACERCARSE_HERMANA · F→F": 17,
+    "ACERCARSE_HERMANA · V→V": 139,
+    "COGER_BOTIQUIN · V→F": 88,
+    "COGER_BOTIQUIN · V→V": 202,
+    "COGER_CAMUFLAJE · V→V": 6,
+    "COGER_RACION · V→F": 2,
+    "COGER_RACION · V→V": 92,
+    "COGER_RED · V→V": 6,
+    "QUEDARSE_QUIETA · F→F": 30,
+    "QUEDARSE_QUIETA · V→V": 312,
+    "USAR_BOTIQUIN · F→F": 1,
+    "USAR_BOTIQUIN · V→F": 7,
+    "USAR_RACION · V→F": 6
+   },
+   "motivos_coger_y_quieta": {
+    "COGER_BOTIQUIN · cortado": 25,
+    "COGER_BOTIQUIN · cura": 52,
+    "COGER_BOTIQUIN · promete 0": 150,
+    "COGER_BOTIQUIN · sin uso posterior": 63,
+    "COGER_RACION · cura": 34,
+    "COGER_RACION · promete 0": 58,
+    "COGER_RACION · sin uso posterior": 1,
+    "COGER_RACION · usa y no cura": 1,
+    "QUEDARSE_QUIETA · anillo CUALQUIERA (fuera del sello)": 24
+   },
+   "usar_por_situacion": {
+    "USAR_BOTIQUIN · calma PELIGRO · anillo DENTRO · promesa >0": 7,
+    "USAR_BOTIQUIN · calma PELIGRO · anillo FUERA · promesa <=0": 1,
+    "USAR_RACION · calma CUALQUIERA · anillo DENTRO · promesa >0": 1,
+    "USAR_RACION · calma PELIGRO · anillo CUALQUIERA · promesa >0": 3,
+    "USAR_RACION · calma PELIGRO · anillo DENTRO · promesa >0": 2
+   },
+   "evaluaciones": 908
+  }
+ },
+ "otras_predicciones": {
+  "R1": "no usa la funcion verdad (huellas del botiquin cortadas por un golpe)",
+  "vigilancia": "no usa la funcion verdad"
+ }
+}

@@ -1,0 +1,319 @@
+{
+ "rachas": {
+  "P724 · otra": [
+   335,
+   20884
+  ],
+  "P724 · inundada": [
+   14,
+   3658
+  ],
+  "P730 · otra": [
+   27,
+   148
+  ],
+  "P730 · inundada": [
+   2,
+   1410
+  ],
+  "P611 · inundada": [
+   2,
+   61
+  ]
+ },
+ "vidas_con_aviso": {
+  "P724": 207,
+  "P730": 190,
+  "P611": 2
+ },
+ "ejemplos": [
+  {
+   "partida": "P724_s1_d5_APRENDE_36912827",
+   "asiento": "10",
+   "t0": 4410,
+   "desde": [
+    14,
+    21
+   ],
+   "dir": "S",
+   "hacia": [
+    14,
+    22
+   ],
+   "n": 712,
+   "evento": "flood"
+  },
+  {
+   "partida": "P724_s1_d5_APRENDE_36912827",
+   "asiento": "11",
+   "t0": 4416,
+   "desde": [
+    15,
+    21
+   ],
+   "dir": "SW",
+   "hacia": [
+    14,
+    22
+   ],
+   "n": 705,
+   "evento": "flood"
+  },
+  {
+   "partida": "P724_s1_d5_TECHO_36912827",
+   "asiento": "10",
+   "t0": 4420,
+   "desde": [
+    15,
+    21
+   ],
+   "dir": "SW",
+   "hacia": [
+    14,
+    22
+   ],
+   "n": 701,
+   "evento": "flood"
+  },
+  {
+   "partida": "P724_s1_d5_TECHO_36912827",
+   "asiento": "11",
+   "t0": 4413,
+   "desde": [
+    15,
+    22
+   ],
+   "dir": "W",
+   "hacia": [
+    14,
+    22
+   ],
+   "n": 709,
+   "evento": "flood"
+  },
+  {
+   "partida": "P724_s2_d16_APRENDE_36912827",
+   "asiento": "11",
+   "t0": 4408,
+   "desde": [
+    15,
+    22
+   ],
+   "dir": "W",
+   "hacia": [
+    14,
+    22
+   ],
+   "n": 713,
+   "evento": "flood"
+  },
+  {
+   "partida": "P724_s2_d16_TECHO_36912827",
+   "asiento": "10",
+   "t0": 4411,
+   "desde": [
+    15,
+    22
+   ],
+   "dir": "W",
+   "hacia": [
+    14,
+    22
+   ],
+   "n": 3,
+   "evento": "flood"
+  },
+  {
+   "partida": "P724_s2_d16_TECHO_36912827",
+   "asiento": "10",
+   "t0": 4436,
+   "desde": [
+    15,
+    22
+   ],
+   "dir": "W",
+   "hacia": [
+    14,
+    22
+   ],
+   "n": 10,
+   "evento": "flood"
+  },
+  {
+   "partida": "P724_s2_d16_TECHO_36912827",
+   "asiento": "10",
+   "t0": 4468,
+   "desde": [
+    15,
+    22
+   ],
+   "dir": "W",
+   "hacia": [
+    14,
+    22
+   ],
+   "n": 6,
+   "evento": "flood"
+  },
+  {
+   "partida": "P724_s2_d16_TECHO_36912827",
+   "asiento": "10",
+   "t0": 4497,
+   "desde": [
+    15,
+    22
+   ],
+   "dir": "W",
+   "hacia": [
+    14,
+    22
+   ],
+   "n": 6,
+   "evento": "flood"
+  },
+  {
+   "partida": "P724_s2_d16_TECHO_36912827",
+   "asiento": "10",
+   "t0": 4723,
+   "desde": [
+    15,
+    22
+   ],
+   "dir": "W",
+   "hacia": [
+    14,
+    22
+   ],
+   "n": 31,
+   "evento": "flood"
+  },
+  {
+   "partida": "P724_s2_d16_TECHO_36912827",
+   "asiento": "10",
+   "t0": 4779,
+   "desde": [
+    15,
+    22
+   ],
+   "dir": "W",
+   "hacia": [
+    14,
+    22
+   ],
+   "n": 7,
+   "evento": "flood"
+  },
+  {
+   "partida": "P724_s2_d16_TECHO_36912827",
+   "asiento": "10",
+   "t0": 4808,
+   "desde": [
+    15,
+    22
+   ],
+   "dir": "W",
+   "hacia": [
+    14,
+    22
+   ],
+   "n": 43,
+   "evento": "flood"
+  },
+  {
+   "partida": "P724_s2_d16_TECHO_36912827",
+   "asiento": "10",
+   "t0": 4895,
+   "desde": [
+    15,
+    22
+   ],
+   "dir": "W",
+   "hacia": [
+    14,
+    22
+   ],
+   "n": 7,
+   "evento": "flood"
+  },
+  {
+   "partida": "P724_s2_d16_TECHO_36912827",
+   "asiento": "10",
+   "t0": 4924,
+   "desde": [
+    15,
+    22
+   ],
+   "dir": "W",
+   "hacia": [
+    14,
+    22
+   ],
+   "n": 5,
+   "evento": "flood"
+  },
+  {
+   "partida": "P730_s1_d7_APRENDE_39531052",
+   "asiento": "10",
+   "t0": 4422,
+   "desde": [
+    15,
+    25
+   ],
+   "dir": "W",
+   "hacia": [
+    14,
+    25
+   ],
+   "n": 699,
+   "evento": "flood"
+  },
+  {
+   "partida": "P730_s1_d7_BORRADO_39531052",
+   "asiento": "10",
+   "t0": 4410,
+   "desde": [
+    15,
+    25
+   ],
+   "dir": "W",
+   "hacia": [
+    14,
+    25
+   ],
+   "n": 711,
+   "evento": "flood"
+  },
+  {
+   "partida": "P611_t2_A4_21727122",
+   "asiento": "10",
+   "t0": 5074,
+   "desde": [
+    15,
+    26
+   ],
+   "dir": "W",
+   "hacia": [
+    14,
+    26
+   ],
+   "n": 47,
+   "evento": "flood"
+  },
+  {
+   "partida": "P611_t2_A4_21727122",
+   "asiento": "11",
+   "t0": 5108,
+   "desde": [
+    15,
+    27
+   ],
+   "dir": "NW",
+   "hacia": [
+    14,
+    26
+   ],
+   "n": 14,
+   "evento": "flood"
+  }
+ ]
+}

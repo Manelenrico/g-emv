@@ -1,0 +1,444 @@
+{
+ "vidas": [
+  {
+   "dia": 1,
+   "vida": "P79_s1_d1_APRENDE_27487217/10",
+   "campo": {
+    "hacer_sitio": 9,
+    "oscilaciones": 4
+   },
+   "brazos": {
+    "antes": {
+     "en_los_tics_del_campo": {
+      "hacer sitio": 9
+     },
+     "hacer_sitio_replica_total": 9,
+     "oscilaciones_replica": 4,
+     "fidelidad": {
+      "igual": 14254
+     },
+     "d_en_los_tics_del_campo": [
+      {
+       "t": 669,
+       "elegido": "hacer_sitio_rations_por_net",
+       "d": [
+        [
+         "noop",
+         2.60864
+        ],
+        [
+         "hacer_sitio_rations_por_net",
+         2.60864
+        ],
+        [
+         "hacer_sitio_first_aid_por_net",
+         2.75489
+        ]
+       ]
+      },
+      {
+       "t": 9342,
+       "elegido": "hacer_sitio_rations_por_sword",
+       "d": [
+        [
+         "noop",
+         3.04021
+        ],
+        [
+         "hacer_sitio_rations_por_sword",
+         3.04021
+        ],
+        [
+         "hacer_sitio_first_aid_por_sword",
+         3.24881
+        ]
+       ]
+      },
+      {
+       "t": 9345,
+       "elegido": "hacer_sitio_first_aid_por_rations",
+       "d": [
+        [
+         "hacer_sitio_first_aid_por_rations",
+         2.86962
+        ],
+        [
+         "noop",
+         3.04272
+        ]
+       ]
+      },
+      {
+       "t": 9347,
+       "elegido": "hacer_sitio_rations_por_first_aid",
+       "d": [
+        [
+         "noop",
+         2.86962
+        ],
+        [
+         "hacer_sitio_rations_por_first_aid",
+         2.86962
+        ]
+       ]
+      },
+      {
+       "t": 9349,
+       "elegido": "hacer_sitio_first_aid_por_rations",
+       "d": [
+        [
+         "hacer_sitio_first_aid_por_rations",
+         2.8716
+        ],
+        [
+         "noop",
+         3.04497
+        ]
+       ]
+      },
+      {
+       "t": 9351,
+       "elegido": "hacer_sitio_rations_por_first_aid",
+       "d": [
+        [
+         "noop",
+         2.8716
+        ],
+        [
+         "hacer_sitio_rations_por_first_aid",
+         2.8716
+        ]
+       ]
+      }
+     ]
+    },
+    "arreglo": {
+     "en_los_tics_del_campo": {
+      "noop": 5,
+      "hacer sitio": 4
+     },
+     "hacer_sitio_replica_total": 4,
+     "oscilaciones_replica": 0,
+     "fidelidad": {
+      "igual": 14249,
+      "difiere": 5
+     },
+     "d_en_los_tics_del_campo": [
+      {
+       "t": 669,
+       "elegido": "noop",
+       "d": [
+        [
+         "noop",
+         2.60864
+        ],
+        [
+         "hacer_sitio_rations_por_net",
+         2.60864
+        ],
+        [
+         "hacer_sitio_first_aid_por_net",
+         2.75489
+        ]
+       ]
+      },
+      {
+       "t": 9342,
+       "elegido": "noop",
+       "d": [
+        [
+         "noop",
+         3.04021
+        ],
+        [
+         "hacer_sitio_rations_por_sword",
+         3.04021
+        ],
+        [
+         "hacer_sitio_first_aid_por_sword",
+         3.24881
+        ]
+       ]
+      },
+      {
+       "t": 9345,
+       "elegido": "hacer_sitio_first_aid_por_rations",
+       "d": [
+        [
+         "hacer_sitio_first_aid_por_rations",
+         2.86962
+        ],
+        [
+         "noop",
+         3.04272
+        ]
+       ]
+      },
+      {
+       "t": 9347,
+       "elegido": "noop",
+       "d": [
+        [
+         "noop",
+         2.86962
+        ],
+        [
+         "hacer_sitio_rations_por_first_aid",
+         2.86962
+        ]
+       ]
+      },
+      {
+       "t": 9349,
+       "elegido": "hacer_sitio_first_aid_por_rations",
+       "d": [
+        [
+         "hacer_sitio_first_aid_por_rations",
+         2.8716
+        ],
+        [
+         "noop",
+         3.04497
+        ]
+       ]
+      },
+      {
+       "t": 9351,
+       "elegido": "noop",
+       "d": [
+        [
+         "noop",
+         2.8716
+        ],
+        [
+         "hacer_sitio_rations_por_first_aid",
+         2.8716
+        ]
+       ]
+      }
+     ]
+    }
+   }
+  },
+  {
+   "dia": 2,
+   "vida": "P79_s1_d2_APRENDE_27591946/10",
+   "campo": {
+    "hacer_sitio": 9,
+    "oscilaciones": 7
+   },
+   "brazos": {
+    "antes": {
+     "en_los_tics_del_campo": {
+      "hacer sitio": 9
+     },
+     "hacer_sitio_replica_total": 9,
+     "oscilaciones_replica": 7,
+     "fidelidad": {
+      "igual": 12792
+     },
+     "d_en_los_tics_del_campo": [
+      {
+       "t": 11962,
+       "elegido": "hacer_sitio_first_aid_por_rations",
+       "d": [
+        [
+         "hacer_sitio_first_aid_por_rations",
+         3.57585
+        ],
+        [
+         "atacar_W",
+         3.69298
+        ],
+        [
+         "noop",
+         3.73807
+        ]
+       ]
+      },
+      {
+       "t": 11966,
+       "elegido": "hacer_sitio_rations_por_first_aid",
+       "d": [
+        [
+         "noop",
+         3.38276
+        ],
+        [
+         "hacer_sitio_rations_por_first_aid",
+         3.38276
+        ]
+       ]
+      },
+      {
+       "t": 11968,
+       "elegido": "hacer_sitio_first_aid_por_rations",
+       "d": [
+        [
+         "hacer_sitio_first_aid_por_rations",
+         3.35889
+        ],
+        [
+         "noop",
+         3.51901
+        ]
+       ]
+      },
+      {
+       "t": 11970,
+       "elegido": "hacer_sitio_rations_por_first_aid",
+       "d": [
+        [
+         "noop",
+         3.35889
+        ],
+        [
+         "hacer_sitio_rations_por_first_aid",
+         3.35889
+        ]
+       ]
+      },
+      {
+       "t": 11972,
+       "elegido": "hacer_sitio_first_aid_por_rations",
+       "d": [
+        [
+         "hacer_sitio_first_aid_por_rations",
+         3.35889
+        ],
+        [
+         "move_NW",
+         3.45252
+        ],
+        [
+         "ir_pareja",
+         3.45587
+        ]
+       ]
+      },
+      {
+       "t": 11987,
+       "elegido": "hacer_sitio_rations_por_first_aid",
+       "d": [
+        [
+         "noop",
+         3.48392
+        ],
+        [
+         "hacer_sitio_rations_por_first_aid",
+         3.48392
+        ]
+       ]
+      }
+     ]
+    },
+    "arreglo": {
+     "en_los_tics_del_campo": {
+      "hacer sitio": 5,
+      "noop": 4
+     },
+     "hacer_sitio_replica_total": 5,
+     "oscilaciones_replica": 0,
+     "fidelidad": {
+      "igual": 12788,
+      "difiere": 4
+     },
+     "d_en_los_tics_del_campo": [
+      {
+       "t": 11962,
+       "elegido": "hacer_sitio_first_aid_por_rations",
+       "d": [
+        [
+         "hacer_sitio_first_aid_por_rations",
+         3.57585
+        ],
+        [
+         "atacar_W",
+         3.69298
+        ],
+        [
+         "noop",
+         3.73807
+        ]
+       ]
+      },
+      {
+       "t": 11966,
+       "elegido": "noop",
+       "d": [
+        [
+         "noop",
+         3.38276
+        ],
+        [
+         "hacer_sitio_rations_por_first_aid",
+         3.38276
+        ]
+       ]
+      },
+      {
+       "t": 11968,
+       "elegido": "hacer_sitio_first_aid_por_rations",
+       "d": [
+        [
+         "hacer_sitio_first_aid_por_rations",
+         3.35889
+        ],
+        [
+         "noop",
+         3.51901
+        ]
+       ]
+      },
+      {
+       "t": 11970,
+       "elegido": "noop",
+       "d": [
+        [
+         "noop",
+         3.35889
+        ],
+        [
+         "hacer_sitio_rations_por_first_aid",
+         3.35889
+        ]
+       ]
+      },
+      {
+       "t": 11972,
+       "elegido": "hacer_sitio_first_aid_por_rations",
+       "d": [
+        [
+         "hacer_sitio_first_aid_por_rations",
+         3.35889
+        ],
+        [
+         "move_NW",
+         3.45252
+        ],
+        [
+         "ir_pareja",
+         3.45587
+        ]
+       ]
+      },
+      {
+       "t": 11987,
+       "elegido": "noop",
+       "d": [
+        [
+         "noop",
+         3.48392
+        ],
+        [
+         "hacer_sitio_rations_por_first_aid",
+         3.48392
+        ]
+       ]
+      }
+     ]
+    }
+   }
+  }
+ ]
+}

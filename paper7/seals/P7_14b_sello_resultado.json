@@ -1,0 +1,114 @@
+{
+ "Q1": {
+  "puesto": {
+   "n": 80,
+   "media_APRENDE": 5.588,
+   "media_BORRADO": 4.362,
+   "media_dif": 1.225,
+   "se": 0.53,
+   "dentro_2se": false
+  },
+  "hp_final": {
+   "n": 80,
+   "media_APRENDE": 8.688,
+   "media_BORRADO": 11.312,
+   "media_dif": -2.625,
+   "se": 2.887,
+   "dentro_2se": true
+  },
+  "pasa": false
+ },
+ "Q2": {
+  "vidas": 80,
+  "regalos": 56,
+  "regalos_por_vida": 0.7,
+  "P7_10_regalos_por_vida": 2.1375,
+  "tope_regalos_por_vida": 0.5344,
+  "vueltos_a_coger": 48,
+  "vueltos_a_coger_por_vida": 0.6,
+  "P7_10_vueltos_por_vida": 1.1625,
+  "tope_vueltos_por_vida": 0.1163,
+  "pasa_regalos": false,
+  "pasa_vueltos": false,
+  "pasa": false
+ },
+ "Q3": {
+  "parte_de_la_vida_APRENDE": 0.15661,
+  "parte_de_la_vida_BORRADO": 0.19809,
+  "tics_por_vida_APRENDE": 1735.1,
+  "tics_por_vida_BORRADO": 2632.1,
+  "n_APRENDE": 40,
+  "n_BORRADO": 40,
+  "pasa": true
+ },
+ "Q4": {
+  "criaturas": {
+   "s1_10": {
+    "creencia_d5": 5.7205,
+    "creencia_d20": 37.1587,
+    "sube": true
+   },
+   "s1_11": {
+    "creencia_d5": 15.8481,
+    "creencia_d20": 20.4483,
+    "sube": true
+   },
+   "s2_10": {
+    "creencia_d5": 27.7613,
+    "creencia_d20": 31.3378,
+    "sube": true
+   },
+   "s2_11": {
+    "creencia_d5": 31.7584,
+    "creencia_d20": 41.6981,
+    "sube": true
+   }
+  },
+  "suben": 4,
+  "pasa_creencia": true,
+  "mediana_vida_al_usar_d11_20": {
+   "APRENDE": 73.0,
+   "BORRADO": 86.0,
+   "n_APRENDE": 38,
+   "n_BORRADO": 62
+  },
+  "pasa_vida": true,
+  "pasa": true
+ },
+ "Q5": {
+  "pedidos_abiertos": 1097,
+  "cerrados": 1042,
+  "porque_se_lo_dieron": 95,
+  "fraccion": 0.0912,
+  "por_brazo": {
+   "ESPERANZA": {
+    "abiertos": 200,
+    "cerrados": 187,
+    "porque_se_lo_dieron": 0
+   },
+   "BORRADO": {
+    "abiertos": 264,
+    "cerrados": 248,
+    "porque_se_lo_dieron": 2
+   },
+   "APRENDE": {
+    "abiertos": 310,
+    "cerrados": 295,
+    "porque_se_lo_dieron": 56
+   },
+   "TECHO": {
+    "abiertos": 323,
+    "cerrados": 312,
+    "porque_se_lo_dieron": 37
+   }
+  },
+  "pasa": true
+ },
+ "resumen": {
+  "Q1": false,
+  "Q2": false,
+  "Q3": true,
+  "Q4": true,
+  "Q5": true
+ }
+}

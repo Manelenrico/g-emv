@@ -1,0 +1,11 @@
+b criatura       -0.1203 0.0093 9 -13.0
+b cadena/partida -0.1189 0.0098 6 -12.1
+b serie          -0.1203 0.0154 3 -7.8
+d CONGELADA criaturas (0.5, 0.0, 32) series (0.5, 0.0, 16)
+d HONESTA criaturas (0.838, 0.0287, 32) series (0.838, 0.033, 16)
+d MIENTE criaturas (0.1568, 0.006, 32) series (0.1568, 0.0055, 16)
+d HONESTA-MIENTE por serie, sin emparejar 0.6812 0.0335 20.3
+d emparejado por serie 0.6812 0.0348 16 19.6
+d parejas de hermanas con la misma confianza {'CONGELADA': 16, 'HONESTA': 1, 'MIENTE': 10}
+e criatura 4.73 1.27 7 3.7
+e serie 5.32 1.57 5 3.4 ['APRENDE_p s1', 'APRENDE_p s2', 'APRENDE_p s3', 'APRENDE_v s1', 'APRENDE_v s2']

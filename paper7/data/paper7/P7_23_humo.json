@@ -1,0 +1,770 @@
+{
+ "d1_10": {
+  "tics": 12264,
+  "ultimo_tick": 12744,
+  "toca_primero": {
+   "objeto": "botiquin",
+   "tic": 604,
+   "porque": "curiosidad",
+   "elegido_en_los_30_s_antes": {
+    "noop": 90,
+    "ir_curioso": 21,
+    "ir_botin": 10,
+    "ir_objeto": 1,
+    "coger": 1
+   }
+  },
+  "coge": {
+   "botiquin": 2,
+   "racion": 4
+  },
+  "usos": {
+   "botiquin": {
+    "n": 3,
+    "completados": 2,
+    "cortes": 1,
+    "vida_al_usar": [
+     92.0,
+     84.0,
+     93.0
+    ],
+    "firmes": 0,
+    "al_menos": 2,
+    "efectos": [
+     0.0,
+     16.0,
+     7.0
+    ]
+   },
+   "racion": {
+    "n": 2,
+    "completados": 2,
+    "cortes": 0,
+    "vida_al_usar": [
+     96.0,
+     95.0
+    ],
+    "firmes": 0,
+    "al_menos": 2,
+    "efectos": [
+     7.28,
+     5.0
+    ]
+   }
+  },
+  "al_acabar": {
+   "botiquin": {
+    "creencia": {
+     "dentro": 5.8152
+    },
+    "ignorancia": 0.2227,
+    "pesos_vividos": 3.4896
+   },
+   "racion": {
+    "creencia": {
+     "fuera": 4.3347
+    },
+    "ignorancia": 0.282,
+    "pesos_vividos": 2.5457
+   }
+  },
+  "recuerdos_al_acabar": 5,
+  "esperanza_aparece": {
+   "tic": 10610,
+   "objeto": "racion",
+   "vale": 7.278,
+   "heal_imaginado": 0.2748912466208072
+  },
+  "aperturas_registradas": [
+   {
+    "t": 9249,
+    "objeto": "botiquin",
+    "hp": 92,
+    "heal_imaginado": 0.0,
+    "creencia_vivida": null,
+    "ignorancia": 1.0,
+    "esperanza": 0.0,
+    "contexto": {
+     "dentro": true,
+     "golpeado_48": true
+    }
+   },
+   {
+    "t": 9298,
+    "objeto": "botiquin",
+    "hp": 84,
+    "heal_imaginado": 0.0,
+    "creencia_vivida": 0.0,
+    "ignorancia": 0.4952,
+    "esperanza": 0.0,
+    "contexto": {
+     "dentro": true,
+     "golpeado_48": true
+    }
+   },
+   {
+    "t": 10610,
+    "objeto": "racion",
+    "hp": 96,
+    "heal_imaginado": 0.2748912466208072,
+    "creencia_vivida": null,
+    "ignorancia": 1.0,
+    "esperanza": 7.278,
+    "contexto": {
+     "dentro": false,
+     "golpeado_48": true
+    }
+   },
+   {
+    "t": 10683,
+    "objeto": "botiquin",
+    "hp": 93,
+    "heal_imaginado": 7.273906102467359,
+    "creencia_vivida": 7.25190054542325,
+    "ignorancia": 0.7681,
+    "esperanza": 7.28,
+    "contexto": {
+     "dentro": true,
+     "golpeado_48": true
+    }
+   },
+   {
+    "t": 11546,
+    "objeto": "racion",
+    "hp": 95,
+    "heal_imaginado": null,
+    "creencia_vivida": 7.28,
+    "ignorancia": 0.5539,
+    "esperanza": 7.215,
+    "contexto": {
+     "dentro": false,
+     "golpeado_48": true
+    }
+   }
+  ],
+  "pedidos": {
+   "abre": 1,
+   "tics_pidiendo": 41
+  },
+  "elige": {
+   "ir_curioso": 1412,
+   "coger": 5,
+   "usar_botiquin": 3,
+   "usar_racion": 2,
+   "soltar_rations": 1
+  },
+  "nace": true
+ },
+ "d1_11": {
+  "tics": 10272,
+  "ultimo_tick": 10752,
+  "toca_primero": null,
+  "coge": {
+   "botiquin": 0,
+   "racion": 0
+  },
+  "usos": {
+   "botiquin": {
+    "n": 0,
+    "completados": 0,
+    "cortes": 0,
+    "vida_al_usar": [],
+    "firmes": 0,
+    "al_menos": 0,
+    "efectos": []
+   },
+   "racion": {
+    "n": 0,
+    "completados": 0,
+    "cortes": 0,
+    "vida_al_usar": [],
+    "firmes": 0,
+    "al_menos": 0,
+    "efectos": []
+   }
+  },
+  "al_acabar": {
+   "botiquin": {
+    "creencia": null,
+    "ignorancia": 1.0
+   },
+   "racion": {
+    "creencia": null,
+    "ignorancia": 1.0
+   }
+  },
+  "recuerdos_al_acabar": 0,
+  "esperanza_aparece": null,
+  "aperturas_registradas": [],
+  "pedidos": {
+   "abre": 0,
+   "tics_pidiendo": 0
+  },
+  "elige": {
+   "ir_curioso": 4931
+  },
+  "nace": true
+ },
+ "d2_10": {
+  "tics": 10512,
+  "ultimo_tick": 10992,
+  "toca_primero": {
+   "objeto": "racion",
+   "tic": 538,
+   "porque": "curiosidad",
+   "elegido_en_los_30_s_antes": {
+    "ir_curioso": 53,
+    "ir_objeto": 3,
+    "coger": 1
+   }
+  },
+  "coge": {
+   "botiquin": 0,
+   "racion": 3
+  },
+  "usos": {
+   "botiquin": {
+    "n": 0,
+    "completados": 0,
+    "cortes": 0,
+    "vida_al_usar": [],
+    "firmes": 0,
+    "al_menos": 0,
+    "efectos": []
+   },
+   "racion": {
+    "n": 1,
+    "completados": 1,
+    "cortes": 0,
+    "vida_al_usar": [
+     90.0
+    ],
+    "firmes": 0,
+    "al_menos": 1,
+    "efectos": [
+     13.28
+    ]
+   }
+  },
+  "al_acabar": {
+   "botiquin": {
+    "creencia": {
+     "dentro": 5.7478
+    },
+    "ignorancia": 0.2317,
+    "pesos_vividos": 3.3152
+   },
+   "racion": {
+    "creencia": {
+     "fuera": 4.2713,
+     "dentro": 6.6317
+    },
+    "ignorancia": 0.2265,
+    "pesos_vividos": 3.4159
+   }
+  },
+  "recuerdos_al_acabar": 6,
+  "esperanza_aparece": {
+   "tic": 10286,
+   "objeto": "racion",
+   "vale": 7.318,
+   "heal_imaginado": null
+  },
+  "aperturas_registradas": [
+   {
+    "t": 10286,
+    "objeto": "racion",
+    "hp": 90,
+    "heal_imaginado": null,
+    "creencia_vivida": 5.878917474055362,
+    "ignorancia": 0.9424,
+    "esperanza": 7.318,
+    "contexto": {
+     "dentro": true,
+     "golpeado_48": true
+    }
+   }
+  ],
+  "pedidos": {
+   "abre": 1,
+   "tics_pidiendo": 219
+  },
+  "elige": {
+   "ir_curioso": 7985,
+   "coger": 2,
+   "usar_racion": 1,
+   "soltar_rations": 2
+  },
+  "nace": true
+ },
+ "d2_11": {
+  "tics": 10045,
+  "ultimo_tick": 10525,
+  "toca_primero": {
+   "objeto": "botiquin",
+   "tic": 615,
+   "porque": "curiosidad",
+   "elegido_en_los_30_s_antes": {
+    "ir_curioso": 83,
+    "noop": 39,
+    "ir_objeto": 9,
+    "coger": 2,
+    "ir_botin": 1
+   }
+  },
+  "coge": {
+   "botiquin": 1,
+   "racion": 2
+  },
+  "usos": {
+   "botiquin": {
+    "n": 1,
+    "completados": 1,
+    "cortes": 0,
+    "vida_al_usar": [
+     92.0
+    ],
+    "firmes": 0,
+    "al_menos": 1,
+    "efectos": [
+     8.0
+    ]
+   },
+   "racion": {
+    "n": 1,
+    "completados": 1,
+    "cortes": 0,
+    "vida_al_usar": [
+     24.0
+    ],
+    "firmes": 1,
+    "al_menos": 0,
+    "efectos": [
+     14.8
+    ]
+   }
+  },
+  "al_acabar": {
+   "botiquin": {
+    "creencia": {
+     "dentro": 3.9816
+    },
+    "ignorancia": 0.5023,
+    "pesos_vividos": 0.9908
+   },
+   "racion": {
+    "creencia": {
+     "dentro": 7.5793
+    },
+    "ignorancia": 0.4879,
+    "pesos_vividos": 1.0497
+   }
+  },
+  "recuerdos_al_acabar": 2,
+  "esperanza_aparece": {
+   "tic": 10345,
+   "objeto": "racion",
+   "vale": 8.0,
+   "heal_imaginado": null
+  },
+  "aperturas_registradas": [
+   {
+    "t": 4991,
+    "objeto": "botiquin",
+    "hp": 92,
+    "heal_imaginado": 0.0,
+    "creencia_vivida": null,
+    "ignorancia": 1.0,
+    "esperanza": 0.0,
+    "contexto": {
+     "dentro": true,
+     "golpeado_48": true
+    }
+   },
+   {
+    "t": 10345,
+    "objeto": "racion",
+    "hp": 24,
+    "heal_imaginado": null,
+    "creencia_vivida": null,
+    "ignorancia": 1.0,
+    "esperanza": 8.0,
+    "contexto": {
+     "dentro": true,
+     "golpeado_48": true
+    }
+   }
+  ],
+  "pedidos": {
+   "abre": 0,
+   "tics_pidiendo": 0
+  },
+  "elige": {
+   "coger": 4,
+   "ir_curioso": 8178,
+   "usar_botiquin": 1,
+   "usar_racion": 1
+  },
+  "nace": true
+ },
+ "d3_10": {
+  "tics": 14208,
+  "ultimo_tick": 14688,
+  "toca_primero": {
+   "objeto": "botiquin",
+   "tic": 593,
+   "porque": "curiosidad",
+   "elegido_en_los_30_s_antes": {
+    "noop": 80,
+    "ir_curioso": 20,
+    "ir_botin": 9,
+    "ir_objeto": 2,
+    "coger": 1
+   }
+  },
+  "coge": {
+   "botiquin": 5,
+   "racion": 11
+  },
+  "usos": {
+   "botiquin": {
+    "n": 4,
+    "completados": 3,
+    "cortes": 1,
+    "vida_al_usar": [
+     92.0,
+     84.0,
+     47.0,
+     97.0
+    ],
+    "firmes": 2,
+    "al_menos": 1,
+    "efectos": [
+     0.0,
+     16.0,
+     50.0,
+     0.0
+    ]
+   },
+   "racion": {
+    "n": 4,
+    "completados": 3,
+    "cortes": 1,
+    "vida_al_usar": [
+     92.0,
+     45.0,
+     45.0,
+     60.0
+    ],
+    "firmes": 3,
+    "al_menos": 0,
+    "efectos": [
+     0.0,
+     0.0,
+     15.0,
+     0.0
+    ]
+   }
+  },
+  "al_acabar": {
+   "botiquin": {
+    "creencia": {
+     "dentro": 15.3617
+    },
+    "ignorancia": 0.1299,
+    "pesos_vividos": 6.6975
+   },
+   "racion": {
+    "creencia": {
+     "fuera": 4.2065,
+     "dentro": 6.9929
+    },
+    "ignorancia": 0.1593,
+    "pesos_vividos": 5.279
+   }
+  },
+  "recuerdos_al_acabar": 11,
+  "esperanza_aparece": {
+   "tic": 9255,
+   "objeto": "botiquin",
+   "vale": 12.773,
+   "heal_imaginado": 10.741754209380773
+  },
+  "aperturas_registradas": [
+   {
+    "t": 9255,
+    "objeto": "botiquin",
+    "hp": 92,
+    "heal_imaginado": 10.741754209380773,
+    "creencia_vivida": 8.026558265360798,
+    "ignorancia": 0.4809,
+    "esperanza": 12.773,
+    "contexto": {
+     "dentro": true,
+     "golpeado_48": true
+    }
+   },
+   {
+    "t": 9304,
+    "objeto": "botiquin",
+    "hp": 84,
+    "heal_imaginado": 7.252381113787564,
+    "creencia_vivida": 4.224276614016228,
+    "ignorancia": 0.3348,
+    "esperanza": 12.785,
+    "contexto": {
+     "dentro": true,
+     "golpeado_48": true
+    }
+   },
+   {
+    "t": 11976,
+    "objeto": "racion",
+    "hp": 92,
+    "heal_imaginado": 9.388696248881036,
+    "creencia_vivida": 12.7699784307917,
+    "ignorancia": 0.6965,
+    "esperanza": 8.338,
+    "contexto": {
+     "dentro": true,
+     "golpeado_48": true
+    }
+   },
+   {
+    "t": 13067,
+    "objeto": "botiquin",
+    "hp": 47,
+    "heal_imaginado": 8.328138109780962,
+    "creencia_vivida": 7.235997418071429,
+    "ignorancia": 0.7059,
+    "esperanza": 8.697,
+    "contexto": {
+     "dentro": true,
+     "golpeado_48": false
+    }
+   },
+   {
+    "t": 13738,
+    "objeto": "botiquin",
+    "hp": 97,
+    "heal_imaginado": 20.046550359679127,
+    "creencia_vivida": 32.22589365152731,
+    "ignorancia": 0.5209,
+    "esperanza": 8.463,
+    "contexto": {
+     "dentro": true,
+     "golpeado_48": false
+    }
+   },
+   {
+    "t": 14045,
+    "objeto": "racion",
+    "hp": 45,
+    "heal_imaginado": null,
+    "creencia_vivida": 8.435523894583849,
+    "ignorancia": 0.8108,
+    "esperanza": 22.86,
+    "contexto": {
+     "dentro": true,
+     "golpeado_48": false
+    }
+   },
+   {
+    "t": 14078,
+    "objeto": "racion",
+    "hp": 45,
+    "heal_imaginado": null,
+    "creencia_vivida": 8.431098943543708,
+    "ignorancia": 0.8081,
+    "esperanza": 22.525,
+    "contexto": {
+     "dentro": true,
+     "golpeado_48": false
+    }
+   },
+   {
+    "t": 14103,
+    "objeto": "racion",
+    "hp": 60,
+    "heal_imaginado": null,
+    "creencia_vivida": 13.891955350127388,
+    "ignorancia": 0.4728,
+    "esperanza": 27.894,
+    "contexto": {
+     "dentro": true,
+     "golpeado_48": false
+    }
+   }
+  ],
+  "pedidos": {
+   "abre": 2,
+   "tics_pidiendo": 23
+  },
+  "elige": {
+   "ir_curioso": 1972,
+   "coger": 15,
+   "usar_botiquin": 4,
+   "usar_racion": 4,
+   "soltar_first_aid": 2,
+   "soltar_rations": 4
+  },
+  "nace": true
+ },
+ "d3_11": {
+  "tics": 14137,
+  "ultimo_tick": 14617,
+  "toca_primero": {
+   "objeto": "botiquin",
+   "tic": 4864,
+   "porque": "curiosidad",
+   "elegido_en_los_30_s_antes": {
+    "ir_curioso": 364,
+    "noop": 320,
+    "move_N": 32,
+    "coger": 3,
+    "move_NE": 1
+   }
+  },
+  "coge": {
+   "botiquin": 3,
+   "racion": 5
+  },
+  "usos": {
+   "botiquin": {
+    "n": 2,
+    "completados": 2,
+    "cortes": 0,
+    "vida_al_usar": [
+     82.0,
+     6.0
+    ],
+    "firmes": 1,
+    "al_menos": 1,
+    "efectos": [
+     18.0,
+     50.0
+    ]
+   },
+   "racion": {
+    "n": 3,
+    "completados": 3,
+    "cortes": 0,
+    "vida_al_usar": [
+     15.0,
+     30.0,
+     6.0
+    ],
+    "firmes": 3,
+    "al_menos": 0,
+    "efectos": [
+     15.0,
+     15.0,
+     0.0
+    ]
+   }
+  },
+  "al_acabar": {
+   "botiquin": {
+    "creencia": {
+     "dentro": 30.5496
+    },
+    "ignorancia": 0.2076,
+    "pesos_vividos": 3.8163
+   },
+   "racion": {
+    "creencia": {
+     "dentro": 11.8811
+    },
+    "ignorancia": 0.2052,
+    "pesos_vividos": 3.8733
+   }
+  },
+  "recuerdos_al_acabar": 6,
+  "esperanza_aparece": {
+   "tic": 11528,
+   "objeto": "botiquin",
+   "vale": 14.8,
+   "heal_imaginado": 13.064173546732501
+  },
+  "aperturas_registradas": [
+   {
+    "t": 11528,
+    "objeto": "botiquin",
+    "hp": 82,
+    "heal_imaginado": 13.064173546732501,
+    "creencia_vivida": 8.0,
+    "ignorancia": 0.747,
+    "esperanza": 14.8,
+    "contexto": {
+     "dentro": true,
+     "golpeado_48": true
+    }
+   },
+   {
+    "t": 12083,
+    "objeto": "racion",
+    "hp": 15,
+    "heal_imaginado": null,
+    "creencia_vivida": 14.8,
+    "ignorancia": 0.6217,
+    "esperanza": 15.934,
+    "contexto": {
+     "dentro": true,
+     "golpeado_48": true
+    }
+   },
+   {
+    "t": 12108,
+    "objeto": "racion",
+    "hp": 30,
+    "heal_imaginado": null,
+    "creencia_vivida": 14.908349501384304,
+    "ignorancia": 0.7836,
+    "esperanza": 13.71,
+    "contexto": {
+     "dentro": true,
+     "golpeado_48": false
+    }
+   },
+   {
+    "t": 14044,
+    "objeto": "racion",
+    "hp": 6,
+    "heal_imaginado": null,
+    "creencia_vivida": 14.955937020051751,
+    "ignorancia": 0.5866,
+    "esperanza": 15.998,
+    "contexto": {
+     "dentro": true,
+     "golpeado_48": false
+    }
+   },
+   {
+    "t": 14473,
+    "objeto": "botiquin",
+    "hp": 6,
+    "heal_imaginado": 14.998116196416293,
+    "creencia_vivida": 15.983762964923255,
+    "ignorancia": 0.9555,
+    "esperanza": 14.957,
+    "contexto": {
+     "dentro": true,
+     "golpeado_48": false
+    }
+   }
+  ],
+  "pedidos": {
+   "abre": 2,
+   "tics_pidiendo": 152
+  },
+  "elige": {
+   "ir_curioso": 2848,
+   "coger": 7,
+   "usar_botiquin": 2,
+   "hacer_sitio_first_aid_por_rations": 1,
+   "usar_racion": 3,
+   "soltar_rations": 1
+  },
+  "nace": true
+ }
+}

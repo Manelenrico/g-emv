@@ -1,0 +1,69 @@
+{
+ "a_cuaderno_viaja": {
+  "d1_10": {
+   "leido": false,
+   "dia_arranque": 1,
+   "dia_fin": 1,
+   "esperado_leido": false
+  },
+  "d1_11": {
+   "leido": false,
+   "dia_arranque": 1,
+   "dia_fin": 1,
+   "esperado_leido": false
+  },
+  "d2_10": {
+   "leido": true,
+   "dia_arranque": 2,
+   "dia_fin": 2,
+   "esperado_leido": true
+  },
+  "d2_11": {
+   "leido": true,
+   "dia_arranque": 2,
+   "dia_fin": 2,
+   "esperado_leido": true
+  },
+  "d3_10": {
+   "leido": true,
+   "dia_arranque": 3,
+   "dia_fin": 3,
+   "esperado_leido": true
+  },
+  "d3_11": {
+   "leido": true,
+   "dia_arranque": 3,
+   "dia_fin": 3,
+   "esperado_leido": true
+  }
+ },
+ "a_pasa": true,
+ "b": {
+  "vidas": 6,
+  "pide_encendido_en_todas": true,
+  "errores_P7": 0,
+  "pedidos_abiertos": 15,
+  "regalos": 2,
+  "regalos_sin_pedido": 1,
+  "b_pasa": false
+ },
+ "b_pasa": false,
+ "c": {
+  "10": {
+   "creencia_d1": 14.0325,
+   "creencia_d3": 12.9044,
+   "ignorancia_d1": 0.2903,
+   "ignorancia_d3": 0.2279,
+   "pasa": false
+  },
+  "11": {
+   "creencia_d1": 0.0,
+   "creencia_d3": 14.5419,
+   "ignorancia_d1": 0.3939,
+   "ignorancia_d3": 0.1244,
+   "pasa": true
+  }
+ },
+ "c_pasa": true,
+ "pasa": false
+}

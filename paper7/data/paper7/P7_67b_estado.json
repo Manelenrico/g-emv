@@ -1,0 +1,819 @@
+{
+ "imagenes": {
+  "PASIVA": {
+   "imagen": "gemv-anima:P7_67_pasiva",
+   "etiqueta": "gemv-p7-quieta:v1",
+   "version": 1,
+   "policy_version_id": "8d12bc8b-ad25-4ce5-9d33-f78da1f487ee",
+   "subida_a_las": "2026-10-17T06:51:54.730804+00:00",
+   "origen": "P7_67_estado.json"
+  },
+  "MIENTE_d1": {
+   "imagen": "gemv-anima:P7_67b_MIENTE_d1",
+   "etiqueta": "gemv-p7-campo:v976",
+   "version": 976,
+   "policy_version_id": "650a7495-43ff-4663-9aef-5658a5316b7b",
+   "subida_a_las": "2026-10-17T08:41:03.448656+00:00",
+   "segundos": 156.6,
+   "cuadernos_horneados": [
+    "invitaciones_P7_10.json",
+    "invitaciones_P7_11.json"
+   ],
+   "invitacion": {
+    "tipo": "CONDICION",
+    "accion": "IR_A_SITIO",
+    "destino": [
+     5,
+     10
+    ],
+    "anillo": "CUALQUIERA",
+    "calma": "CUALQUIERA",
+    "movimiento": "CUALQUIERA",
+    "hermana": "CUALQUIERA",
+    "calma5": "CALMA5",
+    "cuerpo": 0.0,
+    "recursos": 1.0,
+    "vinculo": 0.0,
+    "confianza": "alta",
+    "falsa": true,
+    "dia": 0,
+    "porque": "alli suele haber botiquines",
+    "se_comprueba": "al llegar se ve un botiquin a una casilla o menos del sitio"
+   }
+  },
+  "HONESTA_d1": {
+   "imagen": "gemv-anima:P7_67b_HONESTA_d1",
+   "etiqueta": "gemv-p7-campo:v977",
+   "version": 977,
+   "policy_version_id": "c8ae67b6-ad10-42e3-b9c0-9c8ffc8328f9",
+   "subida_a_las": "2026-10-17T08:43:44.306147+00:00",
+   "segundos": 157.1,
+   "cuadernos_horneados": [
+    "invitaciones_P7_10.json",
+    "invitaciones_P7_11.json"
+   ],
+   "invitacion": {
+    "tipo": "CONDICION",
+    "accion": "IR_A_SITIO",
+    "destino": [
+     27,
+     23
+    ],
+    "anillo": "CUALQUIERA",
+    "calma": "CUALQUIERA",
+    "movimiento": "CUALQUIERA",
+    "hermana": "CUALQUIERA",
+    "calma5": "CALMA5",
+    "cuerpo": 0.0,
+    "recursos": 1.0,
+    "vinculo": 0.0,
+    "confianza": "alta",
+    "falsa": false,
+    "dia": 0,
+    "porque": "alli suele haber botiquines",
+    "se_comprueba": "al llegar se ve un botiquin a una casilla o menos del sitio"
+   }
+  },
+  "MIENTE_d2": {
+   "imagen": "gemv-anima:P7_67b_MIENTE_d2",
+   "etiqueta": "gemv-p7-campo:v978",
+   "version": 978,
+   "policy_version_id": "bb43a396-21b5-4fbb-85aa-198a7603bd01",
+   "subida_a_las": "2026-10-17T08:57:52.024476+00:00",
+   "segundos": 158.1,
+   "cuadernos_horneados": [
+    "cuaderno_P7_10.json",
+    "cuaderno_P7_11.json",
+    "invitaciones_P7_10.json",
+    "invitaciones_P7_11.json"
+   ],
+   "invitacion": {
+    "tipo": "CONDICION",
+    "accion": "IR_A_SITIO",
+    "destino": [
+     4,
+     7
+    ],
+    "anillo": "CUALQUIERA",
+    "calma": "CUALQUIERA",
+    "movimiento": "CUALQUIERA",
+    "hermana": "CUALQUIERA",
+    "calma5": "CALMA5",
+    "cuerpo": 0.0,
+    "recursos": 1.0,
+    "vinculo": 0.0,
+    "confianza": "alta",
+    "falsa": true,
+    "dia": 1,
+    "porque": "alli suele haber botiquines",
+    "se_comprueba": "al llegar se ve un botiquin a una casilla o menos del sitio"
+   }
+  },
+  "HONESTA_d2": {
+   "imagen": "gemv-anima:P7_67b_HONESTA_d2",
+   "etiqueta": "gemv-p7-campo:v979",
+   "version": 979,
+   "policy_version_id": "3832d913-ea9d-46b5-8871-ed5101726c80",
+   "subida_a_las": "2026-10-17T09:01:52.723872+00:00",
+   "segundos": 157.5,
+   "cuadernos_horneados": [
+    "cuaderno_P7_10.json",
+    "cuaderno_P7_11.json",
+    "invitaciones_P7_10.json",
+    "invitaciones_P7_11.json"
+   ],
+   "invitacion": {
+    "tipo": "CONDICION",
+    "accion": "IR_A_SITIO",
+    "destino": [
+     21,
+     24
+    ],
+    "anillo": "CUALQUIERA",
+    "calma": "CUALQUIERA",
+    "movimiento": "CUALQUIERA",
+    "hermana": "CUALQUIERA",
+    "calma5": "CALMA5",
+    "cuerpo": 0.0,
+    "recursos": 1.0,
+    "vinculo": 0.0,
+    "confianza": "alta",
+    "falsa": false,
+    "dia": 1,
+    "porque": "alli suele haber botiquines",
+    "se_comprueba": "al llegar se ve un botiquin a una casilla o menos del sitio"
+   }
+  },
+  "MIENTE_d3": {
+   "imagen": "gemv-anima:P7_67b_MIENTE_d3",
+   "etiqueta": "gemv-p7-campo:v980",
+   "version": 980,
+   "policy_version_id": "a95ed2b7-e2d6-48be-94ef-30f9e62e12f8",
+   "subida_a_las": "2026-10-17T09:11:59.838581+00:00",
+   "segundos": 160.2,
+   "cuadernos_horneados": [
+    "cuaderno_P7_10.json",
+    "cuaderno_P7_11.json",
+    "invitaciones_P7_10.json",
+    "invitaciones_P7_11.json"
+   ],
+   "invitacion": {
+    "tipo": "CONDICION",
+    "accion": "IR_A_SITIO",
+    "destino": [
+     24,
+     1
+    ],
+    "anillo": "CUALQUIERA",
+    "calma": "CUALQUIERA",
+    "movimiento": "CUALQUIERA",
+    "hermana": "CUALQUIERA",
+    "calma5": "CALMA5",
+    "cuerpo": 0.0,
+    "recursos": 1.0,
+    "vinculo": 0.0,
+    "confianza": "alta",
+    "falsa": true,
+    "dia": 2,
+    "porque": "alli suele haber botiquines",
+    "se_comprueba": "al llegar se ve un botiquin a una casilla o menos del sitio"
+   }
+  },
+  "HONESTA_d3": {
+   "imagen": "gemv-anima:P7_67b_HONESTA_d3",
+   "etiqueta": "gemv-p7-campo:v981",
+   "version": 981,
+   "policy_version_id": "15c9c371-876d-487b-9750-6185d474f3e5",
+   "subida_a_las": "2026-10-17T09:18:00.550618+00:00",
+   "segundos": 155.9,
+   "cuadernos_horneados": [
+    "cuaderno_P7_10.json",
+    "cuaderno_P7_11.json",
+    "invitaciones_P7_10.json",
+    "invitaciones_P7_11.json"
+   ],
+   "invitacion": {
+    "tipo": "CONDICION",
+    "accion": "IR_A_SITIO",
+    "destino": [
+     27,
+     23
+    ],
+    "anillo": "CUALQUIERA",
+    "calma": "CUALQUIERA",
+    "movimiento": "CUALQUIERA",
+    "hermana": "CUALQUIERA",
+    "calma5": "CALMA5",
+    "cuerpo": 0.0,
+    "recursos": 1.0,
+    "vinculo": 0.0,
+    "confianza": "alta",
+    "falsa": false,
+    "dia": 2,
+    "porque": "alli suele haber botiquines",
+    "se_comprueba": "al llegar se ve un botiquin a una casilla o menos del sitio"
+   }
+  },
+  "MIENTE_d4": {
+   "imagen": "gemv-anima:P7_67b_MIENTE_d4",
+   "etiqueta": "gemv-p7-campo:v982",
+   "version": 982,
+   "policy_version_id": "ea1bfb8e-a098-46e5-addf-53be72bb7de8",
+   "subida_a_las": "2026-10-17T09:29:07.753776+00:00",
+   "segundos": 159.8,
+   "cuadernos_horneados": [
+    "cuaderno_P7_10.json",
+    "cuaderno_P7_11.json",
+    "invitaciones_P7_10.json",
+    "invitaciones_P7_11.json"
+   ],
+   "invitacion": {
+    "tipo": "CONDICION",
+    "accion": "IR_A_SITIO",
+    "destino": [
+     4,
+     6
+    ],
+    "anillo": "CUALQUIERA",
+    "calma": "CUALQUIERA",
+    "movimiento": "CUALQUIERA",
+    "hermana": "CUALQUIERA",
+    "calma5": "CALMA5",
+    "cuerpo": 0.0,
+    "recursos": 1.0,
+    "vinculo": 0.0,
+    "confianza": "alta",
+    "falsa": true,
+    "dia": 3,
+    "porque": "alli suele haber botiquines",
+    "se_comprueba": "al llegar se ve un botiquin a una casilla o menos del sitio"
+   }
+  },
+  "HONESTA_d4": {
+   "imagen": "gemv-anima:P7_67b_HONESTA_d4",
+   "etiqueta": "gemv-p7-campo:v983",
+   "version": 983,
+   "policy_version_id": "4cb6af60-4a67-43e3-80bb-49419f7b6bff",
+   "subida_a_las": "2026-10-17T09:34:08.274860+00:00",
+   "segundos": 156.5,
+   "cuadernos_horneados": [
+    "cuaderno_P7_10.json",
+    "cuaderno_P7_11.json",
+    "invitaciones_P7_10.json",
+    "invitaciones_P7_11.json"
+   ],
+   "invitacion": {
+    "tipo": "CONDICION",
+    "accion": "IR_A_SITIO",
+    "destino": [
+     27,
+     23
+    ],
+    "anillo": "CUALQUIERA",
+    "calma": "CUALQUIERA",
+    "movimiento": "CUALQUIERA",
+    "hermana": "CUALQUIERA",
+    "calma5": "CALMA5",
+    "cuerpo": 0.0,
+    "recursos": 1.0,
+    "vinculo": 0.0,
+    "confianza": "alta",
+    "falsa": false,
+    "dia": 3,
+    "porque": "alli suele haber botiquines",
+    "se_comprueba": "al llegar se ve un botiquin a una casilla o menos del sitio"
+   }
+  }
+ },
+ "peticiones": [
+  {
+   "dia": 1,
+   "brazo": "MIENTE",
+   "semilla": 43406025,
+   "pvid": "650a7495-43ff-4663-9aef-5658a5316b7b",
+   "pasiva": "8d12bc8b-ad25-4ce5-9d33-f78da1f487ee",
+   "rival": "9457da2a-832d-45e5-b918-9209e86f9948",
+   "xreq": "xreq_6cd18b0b-0998-43be-a1f6-dfbfd42fca7d",
+   "ereq": "ereq_cc46a417-5f53-459b-a152-9313179740d9",
+   "pedida_a_las": "2026-10-17T08:41:04.381842+00:00",
+   "estado": "completed",
+   "coste_usd": 0.061607,
+   "completada_a_las": "2026-10-17T08:54:26.209574Z",
+   "latencia": {
+    "10": {
+     "tics": 14568,
+     "decisiones": 14568,
+     "ms_mediana": 4.54,
+     "ms_p95": 13.55,
+     "ms_max": 49.49,
+     "sobre_el_tic": 0.0001,
+     "paso_listo": 2806,
+     "bloqueados": 278,
+     "bloqueados_sin_cuerpo": 22,
+     "fraccion_sin_cuerpo": 0.0078,
+     "pasa": true,
+     "casilla_mas_bloqueada": {
+      "desde": [
+       22,
+       23
+      ],
+      "dir": "SW",
+      "hacia": [
+       21,
+       24
+      ],
+      "n": 20
+     },
+     "para": false,
+     "motivo": []
+    },
+    "11": {
+     "tics": 14568,
+     "decisiones": 14568,
+     "ms_mediana": 5.54,
+     "ms_p95": 15.03,
+     "ms_max": 80.17,
+     "sobre_el_tic": 0.0002,
+     "paso_listo": 3708,
+     "bloqueados": 691,
+     "bloqueados_sin_cuerpo": 18,
+     "fraccion_sin_cuerpo": 0.0049,
+     "pasa": true,
+     "casilla_mas_bloqueada": {
+      "desde": [
+       21,
+       25
+      ],
+      "dir": "N",
+      "hacia": [
+       21,
+       24
+      ],
+      "n": 18
+     },
+     "para": false,
+     "motivo": []
+    }
+   }
+  },
+  {
+   "dia": 1,
+   "brazo": "HONESTA",
+   "semilla": 43406025,
+   "pvid": "c8ae67b6-ad10-42e3-b9c0-9c8ffc8328f9",
+   "pasiva": "8d12bc8b-ad25-4ce5-9d33-f78da1f487ee",
+   "rival": "9457da2a-832d-45e5-b918-9209e86f9948",
+   "xreq": "xreq_838f5b3a-9c5e-479c-ac49-32f0641a7856",
+   "ereq": "ereq_e47f60a8-d249-47d3-a1e3-5b7e1793087d",
+   "pedida_a_las": "2026-10-17T08:43:44.813508+00:00",
+   "estado": "completed",
+   "coste_usd": 0.026481,
+   "completada_a_las": "2026-10-17T08:56:32.151612Z",
+   "latencia": {
+    "10": {
+     "tics": 14160,
+     "decisiones": 14160,
+     "ms_mediana": 3.43,
+     "ms_p95": 10.59,
+     "ms_max": 65.52,
+     "sobre_el_tic": 0.0002,
+     "paso_listo": 3591,
+     "bloqueados": 76,
+     "bloqueados_sin_cuerpo": 2,
+     "fraccion_sin_cuerpo": 0.0006,
+     "pasa": true,
+     "casilla_mas_bloqueada": {
+      "desde": [
+       29,
+       19
+      ],
+      "dir": "E",
+      "hacia": [
+       30,
+       19
+      ],
+      "n": 1
+     },
+     "para": false,
+     "motivo": []
+    },
+    "11": {
+     "tics": 14184,
+     "decisiones": 14184,
+     "ms_mediana": 3.84,
+     "ms_p95": 9.76,
+     "ms_max": 65.61,
+     "sobre_el_tic": 0.0001,
+     "paso_listo": 2045,
+     "bloqueados": 1,
+     "bloqueados_sin_cuerpo": 1,
+     "fraccion_sin_cuerpo": 0.0005,
+     "pasa": true,
+     "casilla_mas_bloqueada": {
+      "desde": [
+       21,
+       24
+      ],
+      "dir": "N",
+      "hacia": [
+       21,
+       23
+      ],
+      "n": 1
+     },
+     "para": false,
+     "motivo": []
+    }
+   }
+  },
+  {
+   "dia": 2,
+   "brazo": "MIENTE",
+   "semilla": 43510754,
+   "pvid": "bb43a396-21b5-4fbb-85aa-198a7603bd01",
+   "pasiva": "8d12bc8b-ad25-4ce5-9d33-f78da1f487ee",
+   "rival": "9457da2a-832d-45e5-b918-9209e86f9948",
+   "xreq": "xreq_dc4ae586-ed47-43f2-b9bc-760aef362629",
+   "ereq": "ereq_9db455e2-c9b8-4df9-a29e-f194b98fe022",
+   "pedida_a_las": "2026-10-17T08:57:53.303221+00:00",
+   "estado": "completed",
+   "coste_usd": 0.021682,
+   "completada_a_las": "2026-10-17T09:08:43.332958Z",
+   "latencia": {
+    "10": {
+     "tics": 1442,
+     "decisiones": 1442,
+     "ms_mediana": 4.12,
+     "ms_p95": 15.41,
+     "ms_max": 30.97,
+     "sobre_el_tic": 0.0,
+     "paso_listo": 356,
+     "bloqueados": 0,
+     "bloqueados_sin_cuerpo": 0,
+     "fraccion_sin_cuerpo": 0.0,
+     "pasa": true,
+     "casilla_mas_bloqueada": null,
+     "para": false,
+     "motivo": []
+    },
+    "11": {
+     "tics": 10368,
+     "decisiones": 10368,
+     "ms_mediana": 4.26,
+     "ms_p95": 10.12,
+     "ms_max": 50.76,
+     "sobre_el_tic": 0.0002,
+     "paso_listo": 944,
+     "bloqueados": 1,
+     "bloqueados_sin_cuerpo": 1,
+     "fraccion_sin_cuerpo": 0.0011,
+     "pasa": true,
+     "casilla_mas_bloqueada": {
+      "desde": [
+       25,
+       11
+      ],
+      "dir": "E",
+      "hacia": [
+       26,
+       11
+      ],
+      "n": 1
+     },
+     "para": false,
+     "motivo": []
+    }
+   }
+  },
+  {
+   "dia": 2,
+   "brazo": "HONESTA",
+   "semilla": 43510754,
+   "pvid": "3832d913-ea9d-46b5-8871-ed5101726c80",
+   "pasiva": "8d12bc8b-ad25-4ce5-9d33-f78da1f487ee",
+   "rival": "9457da2a-832d-45e5-b918-9209e86f9948",
+   "xreq": "xreq_3dce9a65-69a9-479f-bf6d-89676641f540",
+   "ereq": "ereq_1d114843-b6ac-43a0-aed6-f78fad50101d",
+   "pedida_a_las": "2026-10-17T09:01:53.870548+00:00",
+   "estado": "completed",
+   "coste_usd": 0.077756,
+   "completada_a_las": "2026-10-17T09:15:04.329655Z",
+   "latencia": {
+    "10": {
+     "tics": 13200,
+     "decisiones": 13200,
+     "ms_mediana": 3.72,
+     "ms_p95": 10.68,
+     "ms_max": 49.1,
+     "sobre_el_tic": 0.0001,
+     "paso_listo": 1968,
+     "bloqueados": 49,
+     "bloqueados_sin_cuerpo": 1,
+     "fraccion_sin_cuerpo": 0.0005,
+     "pasa": true,
+     "casilla_mas_bloqueada": {
+      "desde": [
+       26,
+       21
+      ],
+      "dir": "E",
+      "hacia": [
+       27,
+       21
+      ],
+      "n": 1
+     },
+     "para": false,
+     "motivo": []
+    },
+    "11": {
+     "tics": 14040,
+     "decisiones": 14040,
+     "ms_mediana": 3.9,
+     "ms_p95": 10.67,
+     "ms_max": 25.82,
+     "sobre_el_tic": 0.0,
+     "paso_listo": 2043,
+     "bloqueados": 104,
+     "bloqueados_sin_cuerpo": 1,
+     "fraccion_sin_cuerpo": 0.0005,
+     "pasa": true,
+     "casilla_mas_bloqueada": {
+      "desde": [
+       23,
+       20
+      ],
+      "dir": "SW",
+      "hacia": [
+       22,
+       21
+      ],
+      "n": 1
+     },
+     "para": false,
+     "motivo": []
+    }
+   }
+  },
+  {
+   "dia": 3,
+   "brazo": "MIENTE",
+   "semilla": 43615483,
+   "pvid": "a95ed2b7-e2d6-48be-94ef-30f9e62e12f8",
+   "pasiva": "8d12bc8b-ad25-4ce5-9d33-f78da1f487ee",
+   "rival": "9457da2a-832d-45e5-b918-9209e86f9948",
+   "xreq": "xreq_1a32873c-db16-45e7-ba69-1c78a8dc07ff",
+   "ereq": "ereq_5f7bccfa-efb4-4b6f-b827-f36e6dcb3e08",
+   "pedida_a_las": "2026-10-17T09:12:01.033987+00:00",
+   "estado": "completed",
+   "coste_usd": 0.030259,
+   "completada_a_las": "2026-10-17T09:25:37.731493Z",
+   "latencia": {
+    "10": {
+     "tics": 14568,
+     "decisiones": 14568,
+     "ms_mediana": 1.43,
+     "ms_p95": 5.29,
+     "ms_max": 18.11,
+     "sobre_el_tic": 0.0,
+     "paso_listo": 3888,
+     "bloqueados": 1361,
+     "bloqueados_sin_cuerpo": 123,
+     "fraccion_sin_cuerpo": 0.0316,
+     "pasa": true,
+     "casilla_mas_bloqueada": {
+      "desde": [
+       27,
+       22
+      ],
+      "dir": "N",
+      "hacia": [
+       27,
+       21
+      ],
+      "n": 120
+     },
+     "para": false,
+     "motivo": []
+    },
+    "11": {
+     "tics": 14568,
+     "decisiones": 14568,
+     "ms_mediana": 2.83,
+     "ms_p95": 8.65,
+     "ms_max": 32.4,
+     "sobre_el_tic": 0.0,
+     "paso_listo": 2594,
+     "bloqueados": 1347,
+     "bloqueados_sin_cuerpo": 121,
+     "fraccion_sin_cuerpo": 0.0466,
+     "pasa": true,
+     "casilla_mas_bloqueada": {
+      "desde": [
+       26,
+       21
+      ],
+      "dir": "E",
+      "hacia": [
+       27,
+       21
+      ],
+      "n": 117
+     },
+     "para": false,
+     "motivo": []
+    }
+   }
+  },
+  {
+   "dia": 3,
+   "brazo": "HONESTA",
+   "semilla": 43615483,
+   "pvid": "15c9c371-876d-487b-9750-6185d474f3e5",
+   "pasiva": "8d12bc8b-ad25-4ce5-9d33-f78da1f487ee",
+   "rival": "9457da2a-832d-45e5-b918-9209e86f9948",
+   "xreq": "xreq_95e9255e-4f73-4eae-a7b4-e983cedcef5c",
+   "ereq": "ereq_609f14f8-5dfe-41a8-90a2-626f010c704a",
+   "pedida_a_las": "2026-10-17T09:18:01.890156+00:00",
+   "estado": "completed",
+   "coste_usd": 0.122618,
+   "completada_a_las": "2026-10-17T09:31:08.195102Z",
+   "latencia": {
+    "10": {
+     "tics": 14568,
+     "decisiones": 14568,
+     "ms_mediana": 4.32,
+     "ms_p95": 10.54,
+     "ms_max": 31.0,
+     "sobre_el_tic": 0.0,
+     "paso_listo": 1346,
+     "bloqueados": 5,
+     "bloqueados_sin_cuerpo": 5,
+     "fraccion_sin_cuerpo": 0.0037,
+     "pasa": true,
+     "casilla_mas_bloqueada": {
+      "desde": [
+       24,
+       23
+      ],
+      "dir": "SE",
+      "hacia": [
+       25,
+       24
+      ],
+      "n": 2
+     },
+     "para": false,
+     "motivo": []
+    },
+    "11": {
+     "tics": 14568,
+     "decisiones": 14568,
+     "ms_mediana": 3.81,
+     "ms_p95": 11.3,
+     "ms_max": 36.09,
+     "sobre_el_tic": 0.0,
+     "paso_listo": 2108,
+     "bloqueados": 0,
+     "bloqueados_sin_cuerpo": 0,
+     "fraccion_sin_cuerpo": 0.0,
+     "pasa": true,
+     "casilla_mas_bloqueada": null,
+     "para": false,
+     "motivo": []
+    }
+   }
+  },
+  {
+   "dia": 4,
+   "brazo": "MIENTE",
+   "semilla": 43720212,
+   "pvid": "ea1bfb8e-a098-46e5-addf-53be72bb7de8",
+   "pasiva": "8d12bc8b-ad25-4ce5-9d33-f78da1f487ee",
+   "rival": "9457da2a-832d-45e5-b918-9209e86f9948",
+   "xreq": "xreq_01043618-35bd-4c2e-abaa-eb2526c7f8ae",
+   "ereq": "ereq_be9fb7c6-75eb-44b8-a464-18d1a68f1359",
+   "pedida_a_las": "2026-10-17T09:29:08.943548+00:00",
+   "estado": "completed",
+   "coste_usd": 0.118552,
+   "completada_a_las": "2026-10-17T09:42:06.020471Z",
+   "latencia": {
+    "10": {
+     "tics": 11856,
+     "decisiones": 11856,
+     "ms_mediana": 2.52,
+     "ms_p95": 8.19,
+     "ms_max": 21.57,
+     "sobre_el_tic": 0.0,
+     "paso_listo": 1267,
+     "bloqueados": 0,
+     "bloqueados_sin_cuerpo": 0,
+     "fraccion_sin_cuerpo": 0.0,
+     "pasa": true,
+     "casilla_mas_bloqueada": null,
+     "para": false,
+     "motivo": []
+    },
+    "11": {
+     "tics": 13968,
+     "decisiones": 13968,
+     "ms_mediana": 4.54,
+     "ms_p95": 12.39,
+     "ms_max": 32.64,
+     "sobre_el_tic": 0.0,
+     "paso_listo": 1688,
+     "bloqueados": 178,
+     "bloqueados_sin_cuerpo": 98,
+     "fraccion_sin_cuerpo": 0.0581,
+     "pasa": false,
+     "casilla_mas_bloqueada": {
+      "desde": [
+       29,
+       20
+      ],
+      "dir": "SW",
+      "hacia": [
+       28,
+       21
+      ],
+      "n": 59
+     },
+     "para": true,
+     "motivo": [
+      "bloqueados sin cuerpo 5.8 % > 5 %"
+     ]
+    }
+   }
+  },
+  {
+   "dia": 4,
+   "brazo": "HONESTA",
+   "semilla": 43720212,
+   "pvid": "4cb6af60-4a67-43e3-80bb-49419f7b6bff",
+   "pasiva": "8d12bc8b-ad25-4ce5-9d33-f78da1f487ee",
+   "rival": "9457da2a-832d-45e5-b918-9209e86f9948",
+   "xreq": "xreq_b29f80a9-6e27-4329-95e8-a35c497ad6a7",
+   "ereq": "ereq_3337ca3d-5c8f-450a-ba5d-c3e77c540aa5",
+   "pedida_a_las": "2026-10-17T09:34:09.455771+00:00",
+   "estado": "completed",
+   "coste_usd": 0.123191,
+   "completada_a_las": "2026-10-17T09:47:21.452072Z",
+   "latencia": {
+    "10": {
+     "tics": 14472,
+     "decisiones": 14472,
+     "ms_mediana": 3.75,
+     "ms_p95": 11.96,
+     "ms_max": 22.86,
+     "sobre_el_tic": 0.0,
+     "paso_listo": 2477,
+     "bloqueados": 127,
+     "bloqueados_sin_cuerpo": 1,
+     "fraccion_sin_cuerpo": 0.0004,
+     "pasa": true,
+     "casilla_mas_bloqueada": {
+      "desde": [
+       24,
+       22
+      ],
+      "dir": "N",
+      "hacia": [
+       24,
+       21
+      ],
+      "n": 1
+     },
+     "para": false,
+     "motivo": []
+    },
+    "11": {
+     "tics": 14544,
+     "decisiones": 14544,
+     "ms_mediana": 5.48,
+     "ms_p95": 13.19,
+     "ms_max": 35.0,
+     "sobre_el_tic": 0.0,
+     "paso_listo": 2944,
+     "bloqueados": 241,
+     "bloqueados_sin_cuerpo": 2,
+     "fraccion_sin_cuerpo": 0.0007,
+     "pasa": true,
+     "casilla_mas_bloqueada": {
+      "desde": [
+       26,
+       22
+      ],
+      "dir": "SE",
+      "hacia": [
+       27,
+       23
+      ],
+      "n": 1
+     },
+     "para": false,
+     "motivo": []
+    }
+   }
+  }
+ ]
+}

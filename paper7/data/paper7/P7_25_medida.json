@@ -1,0 +1,450 @@
+{
+ "humo P7-23|d1_10": {
+  "tics": 12264,
+  "listos": 6537,
+  "gana_ir_curioso_con_el_paso_listo": 55,
+  "elegido_con_el_paso_listo": {
+   "noop": 5960,
+   "ir_botin": 148,
+   "ir_pareja": 104,
+   "move_N": 70,
+   "ir_curioso": 55,
+   "ir_objeto": 43,
+   "paso_W": 29,
+   "move_NW": 28
+  },
+  "ir_curioso_en_total": 1412,
+  "ver_y_tocar": {
+   "botiquin": {
+    "ve_por_primera_vez": 581,
+    "toca": 604,
+    "instantes_de_ver_a_tocar": 23
+   },
+   "racion": {
+    "ve_por_primera_vez": 482,
+    "toca": 2279,
+    "instantes_de_ver_a_tocar": 1797
+   }
+  },
+  "paso_listo_y_desconocido_a_1_o_2": {
+   "tics": 62,
+   "elegido": {
+    "noop": 29,
+    "ir_botin": 13,
+    "ir_pareja": 12,
+    "ir_curioso": 3,
+    "move_N": 2,
+    "ir_objeto": 1
+   }
+  }
+ },
+ "humo P7-23|d1_11": {
+  "tics": 10272,
+  "listos": 935,
+  "gana_ir_curioso_con_el_paso_listo": 0,
+  "elegido_con_el_paso_listo": {
+   "ir_objeto": 471,
+   "ir_centro": 227,
+   "ir_botin": 226,
+   "ir_pareja": 4,
+   "move_SE": 3,
+   "move_SW": 2,
+   "move_W": 1,
+   "move_NW": 1
+  },
+  "ir_curioso_en_total": 4931,
+  "ver_y_tocar": {
+   "botiquin": {
+    "ve_por_primera_vez": 4729,
+    "toca": null,
+    "instantes_de_ver_a_tocar": null
+   },
+   "racion": {
+    "ve_por_primera_vez": 481,
+    "toca": null,
+    "instantes_de_ver_a_tocar": null
+   }
+  },
+  "paso_listo_y_desconocido_a_1_o_2": {
+   "tics": 675,
+   "elegido": {
+    "ir_objeto": 468,
+    "ir_centro": 164,
+    "ir_botin": 36,
+    "move_SE": 3,
+    "move_SW": 2,
+    "move_W": 1
+   }
+  }
+ },
+ "humo P7-23|d2_10": {
+  "tics": 10512,
+  "listos": 1384,
+  "gana_ir_curioso_con_el_paso_listo": 265,
+  "elegido_con_el_paso_listo": {
+   "ir_objeto": 691,
+   "ir_centro": 385,
+   "ir_curioso": 265,
+   "ir_botin": 17,
+   "move_SE": 12,
+   "move_SW": 8,
+   "move_NW": 2,
+   "ir_pareja": 2
+  },
+  "ir_curioso_en_total": 7985,
+  "ver_y_tocar": {
+   "botiquin": {
+    "ve_por_primera_vez": 548,
+    "toca": null,
+    "instantes_de_ver_a_tocar": null
+   },
+   "racion": {
+    "ve_por_primera_vez": 481,
+    "toca": 538,
+    "instantes_de_ver_a_tocar": 57
+   }
+  },
+  "paso_listo_y_desconocido_a_1_o_2": {
+   "tics": 246,
+   "elegido": {
+    "ir_objeto": 126,
+    "ir_curioso": 120
+   }
+  }
+ },
+ "humo P7-23|d2_11": {
+  "tics": 10045,
+  "listos": 944,
+  "gana_ir_curioso_con_el_paso_listo": 43,
+  "elegido_con_el_paso_listo": {
+   "ir_objeto": 340,
+   "paso_NE": 127,
+   "ir_pareja": 114,
+   "paso_NW": 109,
+   "move_N": 72,
+   "ir_curioso": 43,
+   "ir_botin": 41,
+   "ir_centro": 33
+  },
+  "ir_curioso_en_total": 8178,
+  "ver_y_tocar": {
+   "botiquin": {
+    "ve_por_primera_vez": 526,
+    "toca": 615,
+    "instantes_de_ver_a_tocar": 89
+   },
+   "racion": {
+    "ve_por_primera_vez": 481,
+    "toca": 5070,
+    "instantes_de_ver_a_tocar": 4589
+   }
+  },
+  "paso_listo_y_desconocido_a_1_o_2": {
+   "tics": 23,
+   "elegido": {
+    "ir_objeto": 5,
+    "ir_pareja": 5,
+    "paso_NE": 5,
+    "ir_botin": 5,
+    "ir_curioso": 3
+   }
+  }
+ },
+ "humo P7-23|d3_10": {
+  "tics": 14208,
+  "listos": 9108,
+  "gana_ir_curioso_con_el_paso_listo": 153,
+  "elegido_con_el_paso_listo": {
+   "noop": 8540,
+   "ir_curioso": 153,
+   "paso_N": 65,
+   "move_S": 58,
+   "ir_objeto": 55,
+   "move_N": 51,
+   "ir_pareja": 45,
+   "move_SE": 24
+  },
+  "ir_curioso_en_total": 1972,
+  "ver_y_tocar": {
+   "botiquin": {
+    "ve_por_primera_vez": 570,
+    "toca": 593,
+    "instantes_de_ver_a_tocar": 23
+   },
+   "racion": {
+    "ve_por_primera_vez": 2257,
+    "toca": 2261,
+    "instantes_de_ver_a_tocar": 4
+   }
+  },
+  "paso_listo_y_desconocido_a_1_o_2": {
+   "tics": 26,
+   "elegido": {
+    "noop": 16,
+    "ir_objeto": 5,
+    "move_SE": 3,
+    "paso_S": 1,
+    "move_N": 1
+   }
+  }
+ },
+ "humo P7-23|d3_11": {
+  "tics": 14137,
+  "listos": 5967,
+  "gana_ir_curioso_con_el_paso_listo": 181,
+  "elegido_con_el_paso_listo": {
+   "noop": 5022,
+   "ir_curioso": 181,
+   "ir_objeto": 155,
+   "move_N": 151,
+   "move_S": 100,
+   "move_E": 47,
+   "ir_pareja": 46,
+   "move_SE": 42
+  },
+  "ir_curioso_en_total": 2848,
+  "ver_y_tocar": {
+   "botiquin": {
+    "ve_por_primera_vez": 526,
+    "toca": 4864,
+    "instantes_de_ver_a_tocar": 4338
+   },
+   "racion": {
+    "ve_por_primera_vez": 2257,
+    "toca": 12082,
+    "instantes_de_ver_a_tocar": 9825
+   }
+  },
+  "paso_listo_y_desconocido_a_1_o_2": {
+   "tics": 46,
+   "elegido": {
+    "ir_curioso": 19,
+    "move_SE": 13,
+    "ir_objeto": 12,
+    "move_NE": 1,
+    "move_SW": 1
+   }
+  }
+ },
+ "freno P7-24|d1_10": {
+  "tics": 11496,
+  "listos": 1287,
+  "gana_ir_curioso_con_el_paso_listo": 13,
+  "elegido_con_el_paso_listo": {
+   "ir_objeto": 757,
+   "ir_centro": 415,
+   "ir_botin": 62,
+   "ir_pareja": 19,
+   "move_S": 19,
+   "ir_curioso": 13,
+   "move_SW": 2
+  },
+  "ir_curioso_en_total": 9725,
+  "ver_y_tocar": {
+   "botiquin": {
+    "ve_por_primera_vez": 481,
+    "toca": null,
+    "instantes_de_ver_a_tocar": null
+   },
+   "racion": {
+    "ve_por_primera_vez": 481,
+    "toca": null,
+    "instantes_de_ver_a_tocar": null
+   }
+  },
+  "paso_listo_y_desconocido_a_1_o_2": {
+   "tics": 1047,
+   "elegido": {
+    "ir_objeto": 671,
+    "ir_centro": 318,
+    "ir_botin": 43,
+    "move_S": 8,
+    "ir_curioso": 7
+   }
+  }
+ },
+ "freno P7-24|d1_11": {
+  "tics": 14156,
+  "listos": 1656,
+  "gana_ir_curioso_con_el_paso_listo": 494,
+  "elegido_con_el_paso_listo": {
+   "ir_curioso": 494,
+   "paso_NE": 346,
+   "noop": 283,
+   "move_N": 107,
+   "ir_objeto": 97,
+   "ir_botin": 74,
+   "ir_centro": 52,
+   "ir_pareja": 44
+  },
+  "ir_curioso_en_total": 8230,
+  "ver_y_tocar": {
+   "botiquin": {
+    "ve_por_primera_vez": 481,
+    "toca": 659,
+    "instantes_de_ver_a_tocar": 178
+   },
+   "racion": {
+    "ve_por_primera_vez": 2137,
+    "toca": 10300,
+    "instantes_de_ver_a_tocar": 8163
+   }
+  },
+  "paso_listo_y_desconocido_a_1_o_2": {
+   "tics": 532,
+   "elegido": {
+    "ir_curioso": 248,
+    "paso_NE": 197,
+    "ir_objeto": 43,
+    "move_E": 12,
+    "move_W": 8,
+    "ir_pareja": 7
+   }
+  }
+ },
+ "freno P7-24|d2_10": {
+  "tics": 1170,
+  "listos": 107,
+  "gana_ir_curioso_con_el_paso_listo": 17,
+  "elegido_con_el_paso_listo": {
+   "ir_objeto": 40,
+   "ir_botin": 37,
+   "ir_curioso": 17,
+   "ir_centro": 5,
+   "move_NE": 2,
+   "paso_SW": 1,
+   "paso_NE": 1,
+   "paso_SE": 1
+  },
+  "ir_curioso_en_total": 785,
+  "ver_y_tocar": {
+   "botiquin": {
+    "ve_por_primera_vez": 559,
+    "toca": 639,
+    "instantes_de_ver_a_tocar": 80
+   },
+   "racion": {
+    "ve_por_primera_vez": 515,
+    "toca": null,
+    "instantes_de_ver_a_tocar": null
+   }
+  },
+  "paso_listo_y_desconocido_a_1_o_2": {
+   "tics": 3,
+   "elegido": {
+    "ir_botin": 1,
+    "paso_SW": 1,
+    "ir_objeto": 1
+   }
+  }
+ },
+ "freno P7-24|d2_11": {
+  "tics": 1270,
+  "listos": 118,
+  "gana_ir_curioso_con_el_paso_listo": 54,
+  "elegido_con_el_paso_listo": {
+   "ir_curioso": 54,
+   "ir_botin": 23,
+   "ir_centro": 19,
+   "ir_objeto": 16,
+   "move_S": 3,
+   "move_W": 2,
+   "move_SW": 1
+  },
+  "ir_curioso_en_total": 876,
+  "ver_y_tocar": {
+   "botiquin": {
+    "ve_por_primera_vez": 582,
+    "toca": null,
+    "instantes_de_ver_a_tocar": null
+   },
+   "racion": {
+    "ve_por_primera_vez": 481,
+    "toca": null,
+    "instantes_de_ver_a_tocar": null
+   }
+  },
+  "paso_listo_y_desconocido_a_1_o_2": {
+   "tics": 0,
+   "elegido": {}
+  }
+ },
+ "freno P7-24|d3_10": {
+  "tics": 14376,
+  "listos": 2896,
+  "gana_ir_curioso_con_el_paso_listo": 49,
+  "elegido_con_el_paso_listo": {
+   "noop": 827,
+   "move_E": 462,
+   "move_S": 452,
+   "ir_objeto": 228,
+   "move_N": 191,
+   "move_W": 146,
+   "paso_SW": 105,
+   "ir_pareja": 95
+  },
+  "ir_curioso_en_total": 1301,
+  "ver_y_tocar": {
+   "botiquin": {
+    "ve_por_primera_vez": 1121,
+    "toca": 14200,
+    "instantes_de_ver_a_tocar": 13079
+   },
+   "racion": {
+    "ve_por_primera_vez": 481,
+    "toca": 1071,
+    "instantes_de_ver_a_tocar": 590
+   }
+  },
+  "paso_listo_y_desconocido_a_1_o_2": {
+   "tics": 1652,
+   "elegido": {
+    "noop": 674,
+    "move_E": 442,
+    "move_N": 114,
+    "paso_SW": 103,
+    "ir_objeto": 55,
+    "move_S": 55
+   }
+  }
+ },
+ "freno P7-24|d3_11": {
+  "tics": 14376,
+  "listos": 3286,
+  "gana_ir_curioso_con_el_paso_listo": 53,
+  "elegido_con_el_paso_listo": {
+   "noop": 1494,
+   "move_N": 749,
+   "move_S": 172,
+   "paso_S": 170,
+   "move_SW": 107,
+   "ir_objeto": 94,
+   "ir_botin": 71,
+   "move_E": 55
+  },
+  "ir_curioso_en_total": 1253,
+  "ver_y_tocar": {
+   "botiquin": {
+    "ve_por_primera_vez": 4849,
+    "toca": null,
+    "instantes_de_ver_a_tocar": null
+   },
+   "racion": {
+    "ve_por_primera_vez": 482,
+    "toca": 1803,
+    "instantes_de_ver_a_tocar": 1321
+   }
+  },
+  "paso_listo_y_desconocido_a_1_o_2": {
+   "tics": 1852,
+   "elegido": {
+    "noop": 762,
+    "move_N": 631,
+    "paso_S": 138,
+    "ir_objeto": 87,
+    "ir_curioso": 43,
+    "move_NE": 40
+   }
+  }
+ }
+}

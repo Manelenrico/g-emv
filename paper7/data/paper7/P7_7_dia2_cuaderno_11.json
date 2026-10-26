@@ -1,0 +1,82 @@
+{
+ "criatura": 11,
+ "dia": 2,
+ "objetos": {
+  "first_aid": {
+   "situaciones": {
+    "dentro": [
+     {
+      "dia": 2,
+      "tick": 12710,
+      "efecto": {
+       "cuerpo": 0.8,
+       "recursos": 0.0,
+       "vinculo": -2.099
+      },
+      "importancia": {
+       "cuerpo": 0.2465,
+       "recursos": 0.0403,
+       "vinculo": 0.1166
+      },
+      "intensidad": 1.2689,
+      "creencia_antes": null,
+      "al_menos": false
+     },
+     {
+      "dia": 2,
+      "tick": 12759,
+      "efecto": {
+       "cuerpo": 18.0,
+       "recursos": -1.0,
+       "vinculo": 0.7639
+      },
+      "importancia": {
+       "cuerpo": -0.192,
+       "recursos": 0.0244,
+       "vinculo": -0.1376
+      },
+      "intensidad": 1.236,
+      "creencia_antes": {
+       "cuerpo": 0.4474,
+       "recursos": 0.0,
+       "vinculo": -1.1739
+      },
+      "al_menos": true
+     },
+     {
+      "dia": 2,
+      "tick": 12945,
+      "efecto": {
+       "cuerpo": 7.0,
+       "recursos": -1.0,
+       "vinculo": 1.2361
+      },
+      "importancia": {
+       "cuerpo": -0.1706,
+       "recursos": -0.0905,
+       "vinculo": -0.1597
+      },
+      "intensidad": 1.2805,
+      "creencia_antes": {
+       "cuerpo": 6.6373,
+       "recursos": -0.3526,
+       "vinculo": -0.4905
+      },
+      "al_menos": true
+     }
+    ]
+   }
+  }
+ },
+ "creencias": {
+  "first_aid": {
+   "dentro": {
+    "cuerpo": 6.6611,
+    "recursos": -0.5201,
+    "vinculo": -0.0282
+   },
+   "ignorancia": 0.2176,
+   "pesos_vividos": 3.5961
+  }
+ }
+}

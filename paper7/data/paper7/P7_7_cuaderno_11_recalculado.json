@@ -1,0 +1,40 @@
+{
+ "criatura": 11,
+ "dia": 3,
+ "objetos": {
+  "first_aid": {
+   "situaciones": {
+    "dentro": [
+     {
+      "dia": 3,
+      "tick": 10665,
+      "efecto": {
+       "cuerpo": 1.0,
+       "recursos": -1.0,
+       "vinculo": 0.0
+      },
+      "importancia": {
+       "cuerpo": -0.0391,
+       "recursos": -0.0366,
+       "vinculo": -0.1673
+      },
+      "intensidad": 1.162,
+      "creencia_antes": null,
+      "al_menos": true
+     }
+    ]
+   }
+  }
+ },
+ "creencias": {
+  "first_aid": {
+   "dentro": {
+    "cuerpo": 0.5247,
+    "recursos": -0.5247,
+    "vinculo": 0.0
+   },
+   "ignorancia": 0.4753,
+   "pesos_vividos": 1.1039
+  }
+ }
+}

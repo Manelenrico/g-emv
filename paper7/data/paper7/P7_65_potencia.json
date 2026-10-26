@@ -1,0 +1,124 @@
+{
+ "L1": {
+  "regla": "una evaluacion que falla: c <- 0,7 c, caida = 0,3 c (> 0 si c > 0): segura por construccion si la falsa falla",
+  "P7_61_fallos": 22,
+  "caida_media_si_falla": -0.1961,
+  "sd": 0.0726,
+  "todas_caen": true,
+  "criaturas": 8,
+  "media_por_criatura": {
+   "s1 MIENTEN_DOS a10": -0.1533,
+   "s1 MIENTEN_DOS a11": -0.0961,
+   "s1 MIENTE_UNA a10": -0.2524,
+   "s2 MIENTEN_DOS a11": -0.2438,
+   "s2 MIENTEN_DOS a10": -0.1581,
+   "s2 MIENTE_UNA a10": -0.2555,
+   "s3 MIENTEN_DOS a11": -0.2033,
+   "s3 MIENTE_UNA a10": -0.1539
+  },
+  "evaluaciones_para_3ee": 2
+ },
+ "L2": {
+  "criaturas": [
+   {
+    "criatura": "s1 MIENTEN_DOS a10",
+    "d8_11": 0.0,
+    "op_d8_11": 4,
+    "d15_20": 0.5,
+    "op_d15_20": 6,
+    "dif": 0.5
+   },
+   {
+    "criatura": "s1 MIENTEN_DOS a11",
+    "d8_11": 0.5,
+    "op_d8_11": 4,
+    "d15_20": 0.5,
+    "op_d15_20": 6,
+    "dif": 0.0
+   },
+   {
+    "criatura": "s1 MIENTE_UNA a10",
+    "d8_11": 0.5,
+    "op_d8_11": 4,
+    "d15_20": 0.3333,
+    "op_d15_20": 6,
+    "dif": -0.1667
+   },
+   {
+    "criatura": "s2 MIENTEN_DOS a10",
+    "d8_11": 0.25,
+    "op_d8_11": 4,
+    "d15_20": 0.1667,
+    "op_d15_20": 6,
+    "dif": -0.0833
+   },
+   {
+    "criatura": "s2 MIENTEN_DOS a11",
+    "d8_11": 0.5,
+    "op_d8_11": 4,
+    "d15_20": 0.3333,
+    "op_d15_20": 6,
+    "dif": -0.1667
+   },
+   {
+    "criatura": "s2 MIENTE_UNA a10",
+    "d8_11": 0.0,
+    "op_d8_11": 4,
+    "d15_20": 0.5,
+    "op_d15_20": 6,
+    "dif": 0.5
+   },
+   {
+    "criatura": "s3 MIENTEN_DOS a10",
+    "d8_11": 0.0,
+    "op_d8_11": 4,
+    "d15_20": 0.0,
+    "op_d15_20": 6,
+    "dif": 0.0
+   },
+   {
+    "criatura": "s3 MIENTEN_DOS a11",
+    "d8_11": 0.5,
+    "op_d8_11": 4,
+    "d15_20": 1.0,
+    "op_d15_20": 6,
+    "dif": 0.5
+   },
+   {
+    "criatura": "s3 MIENTE_UNA a10",
+    "d8_11": 0.25,
+    "op_d8_11": 4,
+    "d15_20": 0.1667,
+    "op_d15_20": 6,
+    "dif": -0.0833
+   }
+  ],
+  "n": 9,
+  "media_dif_P7_61": 0.1111,
+  "sd_dif": 0.2976,
+  "ee_9_criaturas": 0.0992,
+  "efecto_min_3ee": 0.2976,
+  "base_d8_11": 0.2778
+ },
+ "L3": {
+  "no_se_juzga": "sin contraste con lo contado (decision de Manel, 15-oct): L3 no tiene forma de medirse en este campo"
+ },
+ "L4": {
+  "A": [
+   0.8182,
+   0.7273,
+   1.0
+  ],
+  "B": [
+   0.6154,
+   0.6667,
+   0.6364
+  ],
+  "sd_A": 0.1389,
+  "sd_B": 0.0258,
+  "ee_3_series": 0.0815,
+  "efecto_min_3ee": 0.2446,
+  "efecto_min_pct_de_B": 38.3,
+  "series_para_30pct": 5
+ }
+}

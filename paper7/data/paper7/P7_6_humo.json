@@ -1,0 +1,898 @@
+{
+ "dias": {
+  "1": {
+   "semilla": 26858843,
+   "coste_usd_plataforma": 0.056858,
+   "estado": "completed",
+   "criaturas": {
+    "10": {
+     "ticks_vivos": 8246,
+     "placement": 15,
+     "primer_botiquin_visto_t": 768,
+     "tics_con_novedad": 7765,
+     "se_acerca_por_novedad": {
+      "n": 520,
+      "primeros": [
+       {
+        "t": 481,
+        "elegido": "ir_botin",
+        "M": 0.09495,
+        "g": null,
+        "kits_suelo": [],
+        "pos": [
+         13,
+         13
+        ]
+       },
+       {
+        "t": 492,
+        "elegido": "ir_botin",
+        "M": 0.09495,
+        "g": null,
+        "kits_suelo": [],
+        "pos": [
+         14,
+         14
+        ]
+       },
+       {
+        "t": 503,
+        "elegido": "ir_botin",
+        "M": 0.09381,
+        "g": null,
+        "kits_suelo": [],
+        "pos": [
+         15,
+         15
+        ]
+       },
+       {
+        "t": 514,
+        "elegido": "ir_objeto",
+        "M": 0.09349,
+        "g": null,
+        "kits_suelo": [],
+        "pos": [
+         16,
+         16
+        ]
+       },
+       {
+        "t": 525,
+        "elegido": "ir_objeto",
+        "M": 0.09381,
+        "g": null,
+        "kits_suelo": [],
+        "pos": [
+         17,
+         15
+        ]
+       }
+      ]
+     },
+     "coge": [],
+     "usa": [],
+     "hace_sitio": [],
+     "curiosidad_cada_250": [
+      [
+       500,
+       0.09381,
+       1.0
+      ],
+      [
+       750,
+       0.09594,
+       1.0
+      ],
+      [
+       1000,
+       0.09487,
+       1.0
+      ],
+      [
+       1250,
+       0.0953,
+       1.0
+      ],
+      [
+       1500,
+       0.18,
+       1.0
+      ],
+      [
+       1750,
+       0.18,
+       1.0
+      ],
+      [
+       2000,
+       0.0953,
+       1.0
+      ],
+      [
+       2250,
+       0.09112,
+       1.0
+      ]
+     ],
+     "huellas": [],
+     "cuaderno_arranque": {
+      "leido": false,
+      "dia": 0,
+      "creencias": {},
+      "entorno_brazo": "APRENDE"
+     },
+     "cuaderno_fin": {
+      "escrito": true,
+      "dia": 1,
+      "creencias": {},
+      "n_recuerdos": 0,
+      "ignorancia": null,
+      "pesos_vividos": null
+     }
+    },
+    "11": {
+     "ticks_vivos": 14233,
+     "placement": 3,
+     "primer_botiquin_visto_t": 625,
+     "tics_con_novedad": 13717,
+     "se_acerca_por_novedad": {
+      "n": 379,
+      "primeros": [
+       {
+        "t": 481,
+        "elegido": "ir_objeto",
+        "M": 0.09459,
+        "g": null,
+        "kits_suelo": [],
+        "pos": [
+         18,
+         9
+        ]
+       },
+       {
+        "t": 492,
+        "elegido": "ir_botin",
+        "M": 0.09563,
+        "g": null,
+        "kits_suelo": [],
+        "pos": [
+         19,
+         10
+        ]
+       },
+       {
+        "t": 493,
+        "elegido": "coger",
+        "M": 0.09459,
+        "g": null,
+        "kits_suelo": [],
+        "pos": [
+         20,
+         11
+        ]
+       },
+       {
+        "t": 503,
+        "elegido": "ir_objeto",
+        "M": 0.09563,
+        "g": null,
+        "kits_suelo": [],
+        "pos": [
+         20,
+         11
+        ]
+       },
+       {
+        "t": 514,
+        "elegido": "ir_objeto",
+        "M": 0.0953,
+        "g": null,
+        "kits_suelo": [],
+        "pos": [
+         21,
+         12
+        ]
+       }
+      ]
+     },
+     "coge": [],
+     "usa": [],
+     "hace_sitio": [],
+     "curiosidad_cada_250": [
+      [
+       500,
+       0.09563,
+       1.0
+      ],
+      [
+       750,
+       0.09239,
+       1.0
+      ],
+      [
+       1000,
+       0.18,
+       1.0
+      ],
+      [
+       1250,
+       0.18,
+       1.0
+      ],
+      [
+       1500,
+       0.0953,
+       1.0
+      ],
+      [
+       1750,
+       0.18,
+       1.0
+      ],
+      [
+       2000,
+       0.18,
+       1.0
+      ],
+      [
+       2250,
+       0.09682,
+       1.0
+      ]
+     ],
+     "huellas": [],
+     "cuaderno_arranque": {
+      "leido": false,
+      "dia": 0,
+      "creencias": {},
+      "entorno_brazo": "APRENDE"
+     },
+     "cuaderno_fin": {
+      "escrito": true,
+      "dia": 1,
+      "creencias": {},
+      "n_recuerdos": 0,
+      "ignorancia": null,
+      "pesos_vividos": null
+     }
+    }
+   }
+  },
+  "2": {
+   "semilla": 26963572,
+   "coste_usd_plataforma": 0.027933,
+   "estado": "completed",
+   "criaturas": {
+    "10": {
+     "ticks_vivos": 14929,
+     "placement": 1,
+     "primer_botiquin_visto_t": 581,
+     "tics_con_novedad": 14448,
+     "se_acerca_por_novedad": {
+      "n": 575,
+      "primeros": [
+       {
+        "t": 481,
+        "elegido": "ir_botin",
+        "M": 0.09495,
+        "g": null,
+        "kits_suelo": [],
+        "pos": [
+         13,
+         13
+        ]
+       },
+       {
+        "t": 492,
+        "elegido": "ir_botin",
+        "M": 0.09495,
+        "g": null,
+        "kits_suelo": [],
+        "pos": [
+         14,
+         14
+        ]
+       },
+       {
+        "t": 503,
+        "elegido": "ir_botin",
+        "M": 0.09381,
+        "g": null,
+        "kits_suelo": [],
+        "pos": [
+         15,
+         15
+        ]
+       },
+       {
+        "t": 514,
+        "elegido": "ir_botin",
+        "M": 0.09349,
+        "g": null,
+        "kits_suelo": [],
+        "pos": [
+         16,
+         16
+        ]
+       },
+       {
+        "t": 525,
+        "elegido": "ir_botin",
+        "M": 0.0945,
+        "g": null,
+        "kits_suelo": [],
+        "pos": [
+         17,
+         17
+        ]
+       }
+      ]
+     },
+     "coge": [],
+     "usa": [],
+     "hace_sitio": [],
+     "curiosidad_cada_250": [
+      [
+       500,
+       0.09381,
+       1.0
+      ],
+      [
+       750,
+       0.18,
+       1.0
+      ],
+      [
+       1000,
+       0.09337,
+       1.0
+      ],
+      [
+       1250,
+       0.09431,
+       1.0
+      ],
+      [
+       1500,
+       0.09495,
+       1.0
+      ],
+      [
+       1750,
+       0.0957,
+       1.0
+      ],
+      [
+       2000,
+       0.09654,
+       1.0
+      ],
+      [
+       2250,
+       0.09431,
+       1.0
+      ]
+     ],
+     "huellas": [],
+     "cuaderno_arranque": {
+      "leido": true,
+      "dia": 1,
+      "creencias": {},
+      "entorno_brazo": "APRENDE"
+     },
+     "cuaderno_fin": {
+      "escrito": true,
+      "dia": 2,
+      "creencias": {},
+      "n_recuerdos": 0,
+      "ignorancia": null,
+      "pesos_vividos": null
+     }
+    },
+    "11": {
+     "ticks_vivos": 14929,
+     "placement": 2,
+     "primer_botiquin_visto_t": 559,
+     "tics_con_novedad": 14448,
+     "se_acerca_por_novedad": {
+      "n": 622,
+      "primeros": [
+       {
+        "t": 481,
+        "elegido": "ir_botin",
+        "M": 0.09459,
+        "g": null,
+        "kits_suelo": [],
+        "pos": [
+         18,
+         9
+        ]
+       },
+       {
+        "t": 492,
+        "elegido": "ir_botin",
+        "M": 0.0957,
+        "g": null,
+        "kits_suelo": [],
+        "pos": [
+         19,
+         10
+        ]
+       },
+       {
+        "t": 503,
+        "elegido": "ir_objeto",
+        "M": 0.0957,
+        "g": null,
+        "kits_suelo": [],
+        "pos": [
+         20,
+         11
+        ]
+       },
+       {
+        "t": 514,
+        "elegido": "ir_objeto",
+        "M": 0.09675,
+        "g": null,
+        "kits_suelo": [],
+        "pos": [
+         21,
+         11
+        ]
+       },
+       {
+        "t": 515,
+        "elegido": "coger",
+        "M": 0.09563,
+        "g": null,
+        "kits_suelo": [],
+        "pos": [
+         22,
+         11
+        ]
+       }
+      ]
+     },
+     "coge": [],
+     "usa": [],
+     "hace_sitio": [],
+     "curiosidad_cada_250": [
+      [
+       500,
+       0.0957,
+       1.0
+      ],
+      [
+       750,
+       0.09487,
+       1.0
+      ],
+      [
+       1000,
+       0.09337,
+       1.0
+      ],
+      [
+       1250,
+       0.09381,
+       1.0
+      ],
+      [
+       1500,
+       0.09411,
+       1.0
+      ],
+      [
+       1750,
+       0.09411,
+       1.0
+      ],
+      [
+       2000,
+       0.09495,
+       1.0
+      ],
+      [
+       2250,
+       0.0953,
+       1.0
+      ]
+     ],
+     "huellas": [],
+     "cuaderno_arranque": {
+      "leido": true,
+      "dia": 1,
+      "creencias": {},
+      "entorno_brazo": "APRENDE"
+     },
+     "cuaderno_fin": {
+      "escrito": true,
+      "dia": 2,
+      "creencias": {},
+      "n_recuerdos": 0,
+      "ignorancia": null,
+      "pesos_vividos": null
+     }
+    }
+   }
+  },
+  "3": {
+   "semilla": 27068301,
+   "coste_usd_plataforma": 0.1082,
+   "estado": "completed",
+   "criaturas": {
+    "10": {
+     "ticks_vivos": 13058,
+     "placement": 4,
+     "primer_botiquin_visto_t": 481,
+     "tics_con_novedad": 12577,
+     "se_acerca_por_novedad": {
+      "n": 435,
+      "primeros": [
+       {
+        "t": 481,
+        "elegido": "ir_objeto",
+        "M": 0.09495,
+        "g": null,
+        "kits_suelo": [
+         [
+          20,
+          11
+         ]
+        ],
+        "pos": [
+         13,
+         13
+        ]
+       },
+       {
+        "t": 492,
+        "elegido": "ir_objeto",
+        "M": 0.09337,
+        "g": null,
+        "kits_suelo": [
+         [
+          20,
+          11
+         ]
+        ],
+        "pos": [
+         12,
+         14
+        ]
+       },
+       {
+        "t": 503,
+        "elegido": "ir_objeto",
+        "M": 0.09411,
+        "g": null,
+        "kits_suelo": [
+         [
+          20,
+          11
+         ]
+        ],
+        "pos": [
+         12,
+         15
+        ]
+       },
+       {
+        "t": 514,
+        "elegido": "ir_objeto",
+        "M": 0.09411,
+        "g": null,
+        "kits_suelo": [],
+        "pos": [
+         12,
+         16
+        ]
+       },
+       {
+        "t": 515,
+        "elegido": "coger",
+        "M": 0.09337,
+        "g": null,
+        "kits_suelo": [],
+        "pos": [
+         12,
+         17
+        ]
+       }
+      ]
+     },
+     "coge": [],
+     "usa": [],
+     "hace_sitio": [],
+     "curiosidad_cada_250": [
+      [
+       500,
+       0.09411,
+       1.0
+      ],
+      [
+       750,
+       0.09027,
+       1.0
+      ],
+      [
+       1000,
+       0.18,
+       1.0
+      ],
+      [
+       1250,
+       0.09411,
+       1.0
+      ],
+      [
+       1500,
+       0.09495,
+       1.0
+      ],
+      [
+       1750,
+       0.09594,
+       1.0
+      ],
+      [
+       2000,
+       0.09278,
+       1.0
+      ],
+      [
+       2250,
+       0.09487,
+       1.0
+      ]
+     ],
+     "huellas": [],
+     "cuaderno_arranque": {
+      "leido": true,
+      "dia": 2,
+      "creencias": {},
+      "entorno_brazo": "APRENDE"
+     },
+     "cuaderno_fin": {
+      "escrito": true,
+      "dia": 3,
+      "creencias": {},
+      "n_recuerdos": 0,
+      "ignorancia": null,
+      "pesos_vividos": null
+     }
+    },
+    "11": {
+     "ticks_vivos": 13151,
+     "placement": 3,
+     "primer_botiquin_visto_t": 481,
+     "tics_con_novedad": 12670,
+     "se_acerca_por_novedad": {
+      "n": 530,
+      "primeros": [
+       {
+        "t": 481,
+        "elegido": "ir_botin",
+        "M": 0.09459,
+        "g": null,
+        "kits_suelo": [
+         [
+          20,
+          11
+         ]
+        ],
+        "pos": [
+         18,
+         9
+        ]
+       },
+       {
+        "t": 492,
+        "elegido": "ir_botin",
+        "M": 0.09112,
+        "g": null,
+        "kits_suelo": [
+         [
+          20,
+          11
+         ]
+        ],
+        "pos": [
+         19,
+         10
+        ]
+       },
+       {
+        "t": 493,
+        "elegido": "coger",
+        "M": 0.09027,
+        "g": null,
+        "kits_suelo": [
+         [
+          20,
+          11
+         ]
+        ],
+        "pos": [
+         20,
+         11
+        ]
+       },
+       {
+        "t": 503,
+        "elegido": "ir_botin",
+        "M": 0.09027,
+        "g": null,
+        "kits_suelo": [
+         [
+          20,
+          11
+         ]
+        ],
+        "pos": [
+         20,
+         11
+        ]
+       },
+       {
+        "t": 514,
+        "elegido": "ir_botin",
+        "M": 0.09,
+        "g": null,
+        "kits_suelo": [],
+        "pos": [
+         21,
+         12
+        ]
+       }
+      ]
+     },
+     "coge": [
+      {
+       "t": 494,
+       "kits": 1,
+       "pos": [
+        20,
+        11
+       ],
+       "tras_hacer_sitio": false
+      },
+      {
+       "t": 9163,
+       "kits": 1,
+       "pos": [
+        26,
+        13
+       ],
+       "tras_hacer_sitio": false
+      },
+      {
+       "t": 9688,
+       "kits": 1,
+       "pos": [
+        19,
+        22
+       ],
+       "tras_hacer_sitio": false
+      },
+      {
+       "t": 10282,
+       "kits": 1,
+       "pos": [
+        21,
+        24
+       ],
+       "tras_hacer_sitio": false
+      },
+      {
+       "t": 10664,
+       "kits": 1,
+       "pos": [
+        21,
+        25
+       ],
+       "tras_hacer_sitio": false
+      }
+     ],
+     "usa": [
+      {
+       "t": 10665,
+       "situacion": "dentro",
+       "hp": 99,
+       "ignorancia": 1.0,
+       "heal_imaginado": 0.0
+      }
+     ],
+     "hace_sitio": [],
+     "curiosidad_cada_250": [
+      [
+       500,
+       0.09027,
+       1.0
+      ],
+      [
+       750,
+       0.09459,
+       1.0
+      ],
+      [
+       1000,
+       0.09381,
+       1.0
+      ],
+      [
+       1250,
+       0.09112,
+       1.0
+      ],
+      [
+       1500,
+       0.09654,
+       1.0
+      ],
+      [
+       1750,
+       0.09495,
+       1.0
+      ],
+      [
+       2000,
+       0.09459,
+       1.0
+      ],
+      [
+       2250,
+       0.09411,
+       1.0
+      ]
+     ],
+     "huellas": [
+      {
+       "t0": 10665,
+       "situacion": "dentro",
+       "efecto": {
+        "cuerpo": 1.0,
+        "recursos": -1,
+        "vinculo": 0.0
+       },
+       "importancia": {
+        "cuerpo": -0.0391,
+        "recursos": -0.0366,
+        "vinculo": -0.1673
+       },
+       "intensidad": 1.162,
+       "dano_conocido": 0.0,
+       "dano_total": 0.0
+      }
+     ],
+     "cuaderno_arranque": {
+      "leido": true,
+      "dia": 2,
+      "creencias": {},
+      "entorno_brazo": "APRENDE"
+     },
+     "cuaderno_fin": {
+      "escrito": true,
+      "dia": 3,
+      "creencias": {
+       "first_aid": {
+        "dentro": {
+         "cuerpo": 0.5247,
+         "recursos": -0.5247,
+         "vinculo": 0.0
+        },
+        "ignorancia": 0.4753,
+        "pesos_vividos": 1.1039
+       }
+      },
+      "n_recuerdos": 1,
+      "ignorancia": 0.4753,
+      "pesos_vividos": 1.1039
+     }
+    }
+   }
+  }
+ }
+}

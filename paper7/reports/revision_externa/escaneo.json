@@ -1,0 +1,9277 @@
+{
+"do": [
+[
+[
+"action",
+"none"
+],
+2349980
+],
+[
+[
+"action",
+"move"
+],
+890819
+],
+[
+[
+"action",
+"pickup"
+],
+6801
+],
+[
+[
+"action",
+"attack"
+],
+5949
+],
+[
+[
+"action",
+"use"
+],
+898
+],
+[
+[
+"action",
+"drop"
+],
+208
+]
+],
+"hand": [
+[
+"sword",
+1018983
+],
+[
+"none",
+729863
+],
+[
+"bow",
+503255
+],
+[
+"knives",
+297094
+],
+[
+"net",
+286339
+],
+[
+"blowgun",
+232426
+],
+[
+"spear",
+186695
+]
+],
+"do_con_red_en_mano": [
+[
+[
+"action",
+"none"
+],
+218464
+],
+[
+[
+"action",
+"move"
+],
+66596
+],
+[
+[
+"action",
+"pickup"
+],
+1115
+],
+[
+[
+"action",
+"use"
+],
+142
+],
+[
+[
+"action",
+"drop"
+],
+22
+]
+],
+"huellas": [
+[
+[
+"COMPARTE",
+"rations"
+],
+140
+],
+[
+[
+"COMPARTE",
+"camouflage"
+],
+56
+],
+[
+[
+"COMPARTE",
+"first_aid"
+],
+256
+],
+[
+[
+"SOLAS",
+"net"
+],
+50
+],
+[
+[
+"SOLAS",
+"first_aid"
+],
+179
+],
+[
+[
+"SOLAS",
+"camouflage"
+],
+49
+],
+[
+[
+"COMPARTE",
+"net"
+],
+52
+],
+[
+[
+"SOLAS",
+"rations"
+],
+162
+]
+],
+"net_motivo": [
+[
+[
+"ventana",
+true
+],
+102
+]
+],
+"abre": {
+"rations": 316,
+"camouflage": 108,
+"first_aid": 448,
+"net": 103
+},
+"HNET": [
+[
+"P750_s1_d10_SOLAS_44348586",
+"10",
+{
+"cuerpo": 0.0,
+"recursos": 0,
+"vinculo": 2.1623
+},
+240,
+"ventana"
+],
+[
+"P750_s1_d11_COMPARTE_44453315",
+"11",
+{
+"cuerpo": 0.0,
+"recursos": 0,
+"vinculo": -2.1913
+},
+240,
+"ventana"
+],
+[
+"P750_s1_d12_COMPARTE_44558044",
+"10",
+{
+"cuerpo": 0.0,
+"recursos": 0,
+"vinculo": 2.2801
+},
+240,
+"ventana"
+],
+[
+"P750_s1_d12_SOLAS_44558044",
+"11",
+{
+"cuerpo": 0.0,
+"recursos": 1,
+"vinculo": 1.7481
+},
+240,
+"ventana"
+],
+[
+"P750_s1_d13_COMPARTE_44662773",
+"11",
+{
+"cuerpo": 0.0,
+"recursos": 0,
+"vinculo": -0.8284
+},
+240,
+"ventana"
+],
+[
+"P750_s1_d14_COMPARTE_44767502",
+"11",
+{
+"cuerpo": 0.0,
+"recursos": 0,
+"vinculo": -4.831
+},
+240,
+"ventana"
+],
+[
+"P750_s1_d15_COMPARTE_44872231",
+"11",
+{
+"cuerpo": 0.0,
+"recursos": 13,
+"vinculo": -3.3852
+},
+240,
+"ventana"
+],
+[
+"P750_s1_d15_COMPARTE_44872231",
+"10",
+{
+"cuerpo": 0.0,
+"recursos": 2,
+"vinculo": -5.7082
+},
+240,
+"ventana"
+],
+[
+"P750_s1_d15_SOLAS_44872231",
+"10",
+{
+"cuerpo": 0.0,
+"recursos": 14,
+"vinculo": -5.294
+},
+240,
+"ventana"
+],
+[
+"P750_s1_d15_SOLAS_44872231",
+"11",
+{
+"cuerpo": 0.0,
+"recursos": 1,
+"vinculo": 1.7481
+},
+240,
+"ventana"
+],
+[
+"P750_s1_d16_SOLAS_44976960",
+"11",
+{
+"cuerpo": 0.0,
+"recursos": 0,
+"vinculo": 0.5858
+},
+240,
+"ventana"
+],
+[
+"P750_s1_d17_COMPARTE_45081689",
+"11",
+{
+"cuerpo": 0.0,
+"recursos": 0,
+"vinculo": 0.6371
+},
+240,
+"ventana"
+],
+[
+"P750_s1_d18_COMPARTE_45186418",
+"10",
+{
+"cuerpo": 0.0,
+"recursos": 1,
+"vinculo": -6.2801
+},
+240,
+"ventana"
+],
+[
+"P750_s1_d18_SOLAS_45186418",
+"10",
+{
+"cuerpo": 0.0,
+"recursos": 1,
+"vinculo": -3.0375
+},
+240,
+"ventana"
+],
+[
+"P750_s1_d19_SOLAS_45291147",
+"11",
+{
+"cuerpo": 0.0,
+"recursos": 0,
+"vinculo": 0.5924
+},
+240,
+"ventana"
+],
+[
+"P750_s1_d1_COMPARTE_43406025",
+"11",
+{
+"cuerpo": 0.0,
+"recursos": 1,
+"vinculo": -1.7082
+},
+240,
+"ventana"
+],
+[
+"P750_s1_d1_SOLAS_43406025",
+"10",
+{
+"cuerpo": 0.0,
+"recursos": 0,
+"vinculo": 2.7089
+},
+240,
+"ventana"
+],
+[
+"P750_s1_d20_COMPARTE_45395876",
+"10",
+{
+"cuerpo": 0.0,
+"recursos": 1,
+"vinculo": 1.5858
+},
+240,
+"ventana"
+],
+[
+"P750_s1_d20_SOLAS_45395876",
+"10",
+{
+"cuerpo": 0.0,
+"recursos": 1,
+"vinculo": 1.7481
+},
+240,
+"ventana"
+],
+[
+"P750_s1_d3_COMPARTE_43615483",
+"10",
+{
+"cuerpo": 0.0,
+"recursos": 0,
+"vinculo": -1.2361
+},
+240,
+"ventana"
+],
+[
+"P750_s1_d3_SOLAS_43615483",
+"10",
+{
+"cuerpo": 0.0,
+"recursos": 0,
+"vinculo": 0.0
+},
+240,
+"ventana"
+],
+[
+"P750_s1_d4_COMPARTE_43720212",
+"11",
+{
+"cuerpo": 0.0,
+"recursos": 0,
+"vinculo": -4.099
+},
+240,
+"ventana"
+],
+[
+"P750_s1_d5_COMPARTE_43824941",
+"11",
+{
+"cuerpo": 0.0,
+"recursos": 1,
+"vinculo": -0.14
+},
+240,
+"ventana"
+],
+[
+"P750_s1_d5_SOLAS_43824941",
+"11",
+{
+"cuerpo": 0.0,
+"recursos": 1,
+"vinculo": 1.7796
+},
+240,
+"ventana"
+],
+[
+"P750_s1_d6_COMPARTE_43929670",
+"11",
+{
+"cuerpo": 0.0,
+"recursos": 0,
+"vinculo": -1.0
+},
+240,
+"ventana"
+],
+[
+"P750_s1_d6_SOLAS_43929670",
+"11",
+{
+"cuerpo": 0.0,
+"recursos": 0,
+"vinculo": -1.0
+},
+240,
+"ventana"
+],
+[
+"P750_s1_d7_COMPARTE_44034399",
+"11",
+{
+"cuerpo": 0.0,
+"recursos": 1,
+"vinculo": -1.4093
+},
+240,
+"ventana"
+],
+[
+"P750_s1_d7_SOLAS_44034399",
+"10",
+{
+"cuerpo": 0.0,
+"recursos": 10,
+"vinculo": 1.3541
+},
+240,
+"ventana"
+],
+[
+"P750_s1_d8_COMPARTE_44139128",
+"10",
+{
+"cuerpo": 0.0,
+"recursos": 1,
+"vinculo": 0.2361
+},
+240,
+"ventana"
+],
+[
+"P750_s1_d8_SOLAS_44139128",
+"11",
+{
+"cuerpo": 0.0,
+"recursos": -1,
+"vinculo": 1.0
+},
+240,
+"ventana"
+],
+[
+"P750_s1_d9_COMPARTE_44243857",
+"10",
+{
+"cuerpo": 0.0,
+"recursos": 0,
+"vinculo": -2.7639
+},
+240,
+"ventana"
+],
+[
+"P750_s1_d9_SOLAS_44243857",
+"11",
+{
+"cuerpo": 0.0,
+"recursos": 0,
+"vinculo": -2.4054
+},
+240,
+"ventana"
+],
+[
+"P750_s2_d10_SOLAS_44453315",
+"10",
+{
+"cuerpo": 0.0,
+"recursos": 0,
+"vinculo": -1.2947
+},
+240,
+"ventana"
+],
+[
+"P750_s2_d11_COMPARTE_44348586",
+"10",
+{
+"cuerpo": 0.0,
+"recursos": 0,
+"vinculo": 1.8377
+},
+240,
+"ventana"
+],
+[
+"P750_s2_d11_SOLAS_44348586",
+"11",
+{
+"cuerpo": 0.0,
+"recursos": 13,
+"vinculo": -0.9262
+},
+240,
+"ventana"
+],
+[
+"P750_s2_d12_COMPARTE_44243857",
+"11",
+{
+"cuerpo": 0.0,
+"recursos": 0,
+"vinculo": 0.2361
+},
+240,
+"ventana"
+],
+[
+"P750_s2_d12_SOLAS_44243857",
+"10",
+{
+"cuerpo": 0.0,
+"recursos": 0,
+"vinculo": 0.4142
+},
+240,
+"ventana"
+],
+[
+"P750_s2_d13_COMPARTE_44139128",
+"10",
+{
+"cuerpo": 0.0,
+"recursos": 1,
+"vinculo": 0.0
+},
+240,
+"ventana"
+],
+[
+"P750_s2_d13_SOLAS_44139128",
+"10",
+{
+"cuerpo": 0.0,
+"recursos": 1,
+"vinculo": -0.5858
+},
+240,
+"ventana"
+],
+[
+"P750_s2_d14_COMPARTE_44034399",
+"11",
+{
+"cuerpo": 0.0,
+"recursos": 0,
+"vinculo": -2.0084
+},
+240,
+"ventana"
+],
+[
+"P750_s2_d14_SOLAS_44034399",
+"11",
+{
+"cuerpo": 0.0,
+"recursos": 1,
+"vinculo": -2.5679
+},
+240,
+"ventana"
+],
+[
+"P750_s2_d15_COMPARTE_43929670",
+"11",
+{
+"cuerpo": 28.72,
+"recursos": -1,
+"vinculo": 7.5301
+},
+240,
+"ventana"
+],
+[
+"P750_s2_d15_SOLAS_43929670",
+"11",
+{
+"cuerpo": 0.0,
+"recursos": 1,
+"vinculo": -2.1623
+},
+240,
+"ventana"
+],
+[
+"P750_s2_d16_COMPARTE_43824941",
+"11",
+{
+"cuerpo": 0.0,
+"recursos": 1,
+"vinculo": 0.7889
+},
+240,
+"ventana"
+],
+[
+"P750_s2_d16_COMPARTE_43824941",
+"10",
+{
+"cuerpo": 0.0,
+"recursos": 0,
+"vinculo": 3.0
+},
+240,
+"ventana"
+],
+[
+"P750_s2_d16_SOLAS_43824941",
+"10",
+{
+"cuerpo": 0.0,
+"recursos": 0,
+"vinculo": 2.0
+},
+240,
+"ventana"
+],
+[
+"P750_s2_d17_COMPARTE_43720212",
+"10",
+{
+"cuerpo": 0.0,
+"recursos": 1,
+"vinculo": 0.0
+},
+240,
+"ventana"
+],
+[
+"P750_s2_d17_SOLAS_43720212",
+"10",
+{
+"cuerpo": 0.0,
+"recursos": 0,
+"vinculo": -0.2361
+},
+240,
+"ventana"
+],
+[
+"P750_s2_d18_COMPARTE_43615483",
+"10",
+{
+"cuerpo": 0.0,
+"recursos": 0,
+"vinculo": -0.8219
+},
+240,
+"ventana"
+],
+[
+"P750_s2_d18_SOLAS_43615483",
+"11",
+{
+"cuerpo": 0.0,
+"recursos": 1,
+"vinculo": -0.2361
+},
+240,
+"ventana"
+],
+[
+"P750_s2_d19_SOLAS_43510754",
+"11",
+{
+"cuerpo": 0.0,
+"recursos": 0,
+"vinculo": 3.9896
+},
+240,
+"ventana"
+],
+[
+"P750_s2_d1_COMPARTE_45395876",
+"10",
+{
+"cuerpo": 0.0,
+"recursos": 2,
+"vinculo": 1.7481
+},
+240,
+"ventana"
+],
+[
+"P750_s2_d20_COMPARTE_43406025",
+"10",
+{
+"cuerpo": 0.0,
+"recursos": 0,
+"vinculo": 1.0
+},
+240,
+"ventana"
+],
+[
+"P750_s2_d20_SOLAS_43406025",
+"10",
+{
+"cuerpo": 0.0,
+"recursos": 0,
+"vinculo": 4.0
+},
+240,
+"ventana"
+],
+[
+"P750_s2_d2_COMPARTE_45291147",
+"11",
+{
+"cuerpo": 0.0,
+"recursos": 0,
+"vinculo": 2.2706
+},
+240,
+"ventana"
+],
+[
+"P750_s2_d2_SOLAS_45291147",
+"10",
+{
+"cuerpo": 0.0,
+"recursos": 0,
+"vinculo": 2.7089
+},
+240,
+"ventana"
+],
+[
+"P750_s2_d3_COMPARTE_45186418",
+"11",
+{
+"cuerpo": 0.0,
+"recursos": 0,
+"vinculo": 1.2361
+},
+240,
+"ventana"
+],
+[
+"P750_s2_d3_SOLAS_45186418",
+"10",
+{
+"cuerpo": 0.0,
+"recursos": 0,
+"vinculo": -5.044
+},
+240,
+"ventana"
+],
+[
+"P750_s2_d4_COMPARTE_45081689",
+"11",
+{
+"cuerpo": 0.0,
+"recursos": 0,
+"vinculo": -0.7805
+},
+240,
+"ventana"
+],
+[
+"P750_s2_d4_SOLAS_45081689",
+"11",
+{
+"cuerpo": 0.28,
+"recursos": 0,
+"vinculo": 1.4935
+},
+240,
+"ventana"
+],
+[
+"P750_s2_d5_COMPARTE_44976960",
+"10",
+{
+"cuerpo": 0.0,
+"recursos": 0,
+"vinculo": 0.0
+},
+240,
+"ventana"
+],
+[
+"P750_s2_d5_SOLAS_44976960",
+"11",
+{
+"cuerpo": 0.0,
+"recursos": 3,
+"vinculo": -2.1231
+},
+240,
+"ventana"
+],
+[
+"P750_s2_d6_COMPARTE_44872231",
+"10",
+{
+"cuerpo": 0.0,
+"recursos": 2,
+"vinculo": -5.294
+},
+240,
+"ventana"
+],
+[
+"P750_s2_d6_COMPARTE_44872231",
+"11",
+{
+"cuerpo": 0.0,
+"recursos": 0,
+"vinculo": -2.0
+},
+240,
+"ventana"
+],
+[
+"P750_s2_d6_SOLAS_44872231",
+"10",
+{
+"cuerpo": 0.0,
+"recursos": 1,
+"vinculo": -3.1027
+},
+240,
+"ventana"
+],
+[
+"P750_s2_d8_COMPARTE_44662773",
+"11",
+{
+"cuerpo": -0.16,
+"recursos": 0,
+"vinculo": 0.0
+},
+240,
+"ventana"
+],
+[
+"P750_s2_d9_COMPARTE_44558044",
+"10",
+{
+"cuerpo": 0.0,
+"recursos": 0,
+"vinculo": -2.0
+},
+240,
+"ventana"
+],
+[
+"P750_s2_d9_SOLAS_44558044",
+"11",
+{
+"cuerpo": 0.0,
+"recursos": 0,
+"vinculo": -2.7089
+},
+240,
+"ventana"
+],
+[
+"P750_s3_d10_COMPARTE_45395876",
+"10",
+{
+"cuerpo": 0.0,
+"recursos": 1,
+"vinculo": 1.7481
+},
+240,
+"ventana"
+],
+[
+"P750_s3_d11_SOLAS_43406025",
+"10",
+{
+"cuerpo": 0.0,
+"recursos": 0,
+"vinculo": 0.0
+},
+240,
+"ventana"
+],
+[
+"P750_s3_d12_COMPARTE_43510754",
+"11",
+{
+"cuerpo": 0.0,
+"recursos": 0,
+"vinculo": 1.7481
+},
+240,
+"ventana"
+],
+[
+"P750_s3_d13_COMPARTE_43615483",
+"10",
+{
+"cuerpo": 0.0,
+"recursos": 0,
+"vinculo": 0.0
+},
+240,
+"ventana"
+],
+[
+"P750_s3_d14_COMPARTE_43720212",
+"11",
+{
+"cuerpo": 0.0,
+"recursos": 1,
+"vinculo": 1.887
+},
+240,
+"ventana"
+],
+[
+"P750_s3_d14_SOLAS_43720212",
+"11",
+{
+"cuerpo": 0.0,
+"recursos": 0,
+"vinculo": 0.4142
+},
+240,
+"ventana"
+],
+[
+"P750_s3_d15_COMPARTE_43824941",
+"11",
+{
+"cuerpo": 0.0,
+"recursos": 3,
+"vinculo": -6.2111
+},
+240,
+"ventana"
+],
+[
+"P750_s3_d15_SOLAS_43824941",
+"11",
+{
+"cuerpo": 0.0,
+"recursos": 2,
+"vinculo": -0.14
+},
+240,
+"ventana"
+],
+[
+"P750_s3_d15_SOLAS_43824941",
+"10",
+{
+"cuerpo": 29.6,
+"recursos": 6,
+"vinculo": 4.4721
+},
+240,
+"ventana"
+],
+[
+"P750_s3_d16_COMPARTE_43929670",
+"10",
+{
+"cuerpo": 0.0,
+"recursos": 0,
+"vinculo": -2.099
+},
+240,
+"ventana"
+],
+[
+"P750_s3_d16_SOLAS_43929670",
+"11",
+{
+"cuerpo": 0.0,
+"recursos": 1,
+"vinculo": -2.1623
+},
+240,
+"ventana"
+],
+[
+"P750_s3_d17_COMPARTE_44034399",
+"11",
+{
+"cuerpo": 0.0,
+"recursos": 0,
+"vinculo": 0.0
+},
+240,
+"ventana"
+],
+[
+"P750_s3_d17_SOLAS_44034399",
+"10",
+{
+"cuerpo": 0.0,
+"recursos": 11,
+"vinculo": -4.9103
+},
+240,
+"ventana"
+],
+[
+"P750_s3_d18_COMPARTE_44139128",
+"10",
+{
+"cuerpo": 0.0,
+"recursos": 1,
+"vinculo": 0.2361
+},
+240,
+"ventana"
+],
+[
+"P750_s3_d18_SOLAS_44139128",
+"10",
+{
+"cuerpo": 0.0,
+"recursos": 0,
+"vinculo": 0.0
+},
+240,
+"ventana"
+],
+[
+"P750_s3_d19_SOLAS_44243857",
+"11",
+{
+"cuerpo": 0.0,
+"recursos": 0,
+"vinculo": 1.1231
+},
+240,
+"ventana"
+],
+[
+"P750_s3_d1_COMPARTE_44453315",
+"10",
+{
+"cuerpo": 0.0,
+"recursos": 12,
+"vinculo": 1.4935
+},
+240,
+"ventana"
+],
+[
+"P750_s3_d1_SOLAS_44453315",
+"10",
+{
+"cuerpo": 0.0,
+"recursos": 12,
+"vinculo": 0.5176
+},
+240,
+"ventana"
+],
+[
+"P750_s3_d2_COMPARTE_44558044",
+"10",
+{
+"cuerpo": 0.0,
+"recursos": 0,
+"vinculo": 0.0
+},
+240,
+"ventana"
+],
+[
+"P750_s3_d2_SOLAS_44558044",
+"11",
+{
+"cuerpo": 0.0,
+"recursos": 0,
+"vinculo": -4.9889
+},
+240,
+"ventana"
+],
+[
+"P750_s3_d3_SOLAS_44662773",
+"10",
+{
+"cuerpo": 0.0,
+"recursos": 0,
+"vinculo": 1.2361
+},
+240,
+"ventana"
+],
+[
+"P750_s3_d4_COMPARTE_44767502",
+"11",
+{
+"cuerpo": 0.0,
+"recursos": 0,
+"vinculo": -4.4167
+},
+240,
+"ventana"
+],
+[
+"P750_s3_d4_SOLAS_44767502",
+"11",
+{
+"cuerpo": -0.2,
+"recursos": -3,
+"vinculo": -2.2229
+},
+240,
+"ventana"
+],
+[
+"P750_s3_d5_COMPARTE_44872231",
+"10",
+{
+"cuerpo": 0.0,
+"recursos": 1,
+"vinculo": -3.1027
+},
+240,
+"ventana"
+],
+[
+"P750_s3_d5_COMPARTE_44872231",
+"11",
+{
+"cuerpo": 0.0,
+"recursos": 0,
+"vinculo": 0.2426
+},
+240,
+"ventana"
+],
+[
+"P750_s3_d5_SOLAS_44872231",
+"11",
+{
+"cuerpo": 0.0,
+"recursos": 0,
+"vinculo": -2.0
+},
+240,
+"ventana"
+],
+[
+"P750_s3_d5_SOLAS_44872231",
+"10",
+{
+"cuerpo": 0.0,
+"recursos": 2,
+"vinculo": -5.294
+},
+240,
+"ventana"
+],
+[
+"P750_s3_d6_COMPARTE_44976960",
+"11",
+{
+"cuerpo": 0.0,
+"recursos": 0,
+"vinculo": 0.0
+},
+240,
+"ventana"
+],
+[
+"P750_s3_d6_SOLAS_44976960",
+"10",
+{
+"cuerpo": 0.0,
+"recursos": 0,
+"vinculo": -3.0025
+},
+240,
+"ventana"
+],
+[
+"P750_s3_d7_COMPARTE_45081689",
+"11",
+{
+"cuerpo": 0.0,
+"recursos": 0,
+"vinculo": -6.6935
+},
+240,
+"ventana"
+],
+[
+"P750_s3_d7_SOLAS_45081689",
+"11",
+{
+"cuerpo": 11.5,
+"recursos": 14,
+"vinculo": 2.8284
+},
+240,
+"ventana"
+],
+[
+"P750_s3_d8_COMPARTE_45186418",
+"11",
+{
+"cuerpo": 0.0,
+"recursos": 2,
+"vinculo": 0.0
+},
+240,
+"ventana"
+],
+[
+"P750_s3_d8_SOLAS_45186418",
+"10",
+{
+"cuerpo": 0.0,
+"recursos": 13,
+"vinculo": 3.1231
+},
+240,
+"ventana"
+],
+[
+"P750_s3_d9_SOLAS_45291147",
+"11",
+{
+"cuerpo": 0.0,
+"recursos": 1,
+"vinculo": -2.0
+},
+240,
+"ventana"
+]
+],
+"REC": [
+{
+"k": "P7_48_contado",
+"tick": 0,
+"via": "noche",
+"de": 11,
+"objeto": "rations",
+"situacion": "fuera",
+"B": 1.0,
+"intensidad_emisora": 2.4889,
+"peso": 2.4889,
+"dia_emisora": 9,
+"tick_emisora": 14980,
+"efecto": {
+"cuerpo": 15.68,
+"recursos": -1.0,
+"vinculo": 0.0
+},
+"_tag": "P750_s1_d10_COMPARTE_44348586",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 1433,
+"via": "canal",
+"de": 11,
+"objeto": "camouflage",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.136,
+"peso": 1.136,
+"dia_emisora": 10,
+"tick_emisora": 1187,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": 1.7481
+},
+"_tag": "P750_s1_d10_COMPARTE_44348586",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 12083,
+"via": "canal",
+"de": 11,
+"objeto": "first_aid",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 4.0,
+"peso": 4.0,
+"dia_emisora": 10,
+"tick_emisora": 11959,
+"efecto": {
+"cuerpo": 11.0,
+"recursos": -1.0,
+"vinculo": 1.1751
+},
+"_tag": "P750_s1_d10_COMPARTE_44348586",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 12608,
+"via": "canal",
+"de": 11,
+"objeto": "first_aid",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 4.0,
+"peso": 4.0,
+"dia_emisora": 10,
+"tick_emisora": 12516,
+"efecto": {
+"cuerpo": 50.0,
+"recursos": -1.0,
+"vinculo": -2.719
+},
+"_tag": "P750_s1_d10_COMPARTE_44348586",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 11633,
+"via": "canal",
+"de": 10,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 2.143,
+"peso": 2.143,
+"dia_emisora": 10,
+"tick_emisora": 11591,
+"efecto": {
+"cuerpo": 14.0,
+"recursos": -1.0,
+"vinculo": -0.4433
+},
+"_tag": "P750_s1_d10_COMPARTE_44348586",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 11958,
+"via": "canal",
+"de": 10,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.5,
+"peso": 1.5,
+"dia_emisora": 10,
+"tick_emisora": 11922,
+"efecto": {
+"cuerpo": 9.0,
+"recursos": -1.0,
+"vinculo": 0.6976
+},
+"_tag": "P750_s1_d10_COMPARTE_44348586",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 12333,
+"via": "canal",
+"de": 10,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.745,
+"peso": 1.745,
+"dia_emisora": 10,
+"tick_emisora": 12290,
+"efecto": {
+"cuerpo": 15.2,
+"recursos": -1.0,
+"vinculo": 0.7771
+},
+"_tag": "P750_s1_d10_COMPARTE_44348586",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 4983,
+"via": "canal",
+"de": 10,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 3.129,
+"peso": 3.129,
+"dia_emisora": 11,
+"tick_emisora": 4933,
+"efecto": {
+"cuerpo": 6.0,
+"recursos": -1.0,
+"vinculo": 1.2361
+},
+"_tag": "P750_s1_d11_COMPARTE_44453315",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 10733,
+"via": "canal",
+"de": 11,
+"objeto": "net",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.095,
+"peso": 1.095,
+"dia_emisora": 11,
+"tick_emisora": 10470,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": -2.1913
+},
+"_tag": "P750_s1_d11_COMPARTE_44453315",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 12633,
+"via": "canal",
+"de": 11,
+"objeto": "first_aid",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.889,
+"peso": 1.889,
+"dia_emisora": 11,
+"tick_emisora": 12580,
+"efecto": {
+"cuerpo": 3.0,
+"recursos": -1.0,
+"vinculo": 0.9262
+},
+"_tag": "P750_s1_d11_COMPARTE_44453315",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 0,
+"via": "noche",
+"de": 10,
+"objeto": "camouflage",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.6586,
+"peso": 1.6586,
+"dia_emisora": 11,
+"tick_emisora": 12957,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 1.0,
+"vinculo": 5.8284
+},
+"_tag": "P750_s1_d12_COMPARTE_44558044",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 1158,
+"via": "canal",
+"de": 10,
+"objeto": "net",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.027,
+"peso": 1.027,
+"dia_emisora": 12,
+"tick_emisora": 901,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": 2.2801
+},
+"_tag": "P750_s1_d12_COMPARTE_44558044",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 2433,
+"via": "canal",
+"de": 10,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 2.791,
+"peso": 2.791,
+"dia_emisora": 12,
+"tick_emisora": 2387,
+"efecto": {
+"cuerpo": 15.0,
+"recursos": -1.0,
+"vinculo": -1.0828
+},
+"_tag": "P750_s1_d12_COMPARTE_44558044",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 3633,
+"via": "canal",
+"de": 10,
+"objeto": "first_aid",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 2.144,
+"peso": 2.144,
+"dia_emisora": 12,
+"tick_emisora": 3575,
+"efecto": {
+"cuerpo": 25.0,
+"recursos": -1.0,
+"vinculo": 0.9282
+},
+"_tag": "P750_s1_d12_COMPARTE_44558044",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 0,
+"via": "noche",
+"de": 11,
+"objeto": "first_aid",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 3.6912,
+"peso": 3.6912,
+"dia_emisora": 12,
+"tick_emisora": 12200,
+"efecto": {
+"cuerpo": 30.0,
+"recursos": -1.0,
+"vinculo": 0.0
+},
+"_tag": "P750_s1_d13_COMPARTE_44662773",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 858,
+"via": "canal",
+"de": 11,
+"objeto": "net",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.888,
+"peso": 1.888,
+"dia_emisora": 13,
+"tick_emisora": 604,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": -0.8284
+},
+"_tag": "P750_s1_d13_COMPARTE_44662773",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 2333,
+"via": "canal",
+"de": 11,
+"objeto": "camouflage",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.492,
+"peso": 1.492,
+"dia_emisora": 13,
+"tick_emisora": 2078,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 1.0,
+"vinculo": 4.8797
+},
+"_tag": "P750_s1_d13_COMPARTE_44662773",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 11758,
+"via": "canal",
+"de": 11,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 4.0,
+"peso": 4.0,
+"dia_emisora": 13,
+"tick_emisora": 11727,
+"efecto": {
+"cuerpo": 3.0,
+"recursos": -1.0,
+"vinculo": -1.2947
+},
+"_tag": "P750_s1_d13_COMPARTE_44662773",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 12083,
+"via": "canal",
+"de": 11,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 4.0,
+"peso": 4.0,
+"dia_emisora": 13,
+"tick_emisora": 11960,
+"efecto": {
+"cuerpo": 3.0,
+"recursos": -1.0,
+"vinculo": 0.5279
+},
+"_tag": "P750_s1_d13_COMPARTE_44662773",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 1983,
+"via": "canal",
+"de": 10,
+"objeto": "first_aid",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 3.363,
+"peso": 3.363,
+"dia_emisora": 13,
+"tick_emisora": 1920,
+"efecto": {
+"cuerpo": 24.0,
+"recursos": -1.0,
+"vinculo": 0.3051
+},
+"_tag": "P750_s1_d13_COMPARTE_44662773",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 2883,
+"via": "canal",
+"de": 10,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.801,
+"peso": 1.801,
+"dia_emisora": 13,
+"tick_emisora": 2838,
+"efecto": {
+"cuerpo": 15.0,
+"recursos": -1.0,
+"vinculo": -3.088
+},
+"_tag": "P750_s1_d13_COMPARTE_44662773",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 14658,
+"via": "canal",
+"de": 10,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 2.15,
+"peso": 2.15,
+"dia_emisora": 13,
+"tick_emisora": 14611,
+"efecto": {
+"cuerpo": 15.0,
+"recursos": -1.0,
+"vinculo": 0.0
+},
+"_tag": "P750_s1_d13_COMPARTE_44662773",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 11783,
+"via": "canal",
+"de": 10,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.298,
+"peso": 1.298,
+"dia_emisora": 14,
+"tick_emisora": 10569,
+"efecto": {
+"cuerpo": 9.0,
+"recursos": -1.0,
+"vinculo": -1.3802
+},
+"_tag": "P750_s1_d14_COMPARTE_44767502",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 758,
+"via": "canal",
+"de": 11,
+"objeto": "net",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.655,
+"peso": 1.655,
+"dia_emisora": 14,
+"tick_emisora": 516,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": -4.831
+},
+"_tag": "P750_s1_d14_COMPARTE_44767502",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 1383,
+"via": "canal",
+"de": 11,
+"objeto": "camouflage",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.451,
+"peso": 1.451,
+"dia_emisora": 14,
+"tick_emisora": 1132,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": -0.436
+},
+"_tag": "P750_s1_d14_COMPARTE_44767502",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 758,
+"via": "canal",
+"de": 10,
+"objeto": "net",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 2.816,
+"peso": 2.816,
+"dia_emisora": 15,
+"tick_emisora": 516,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 2.0,
+"vinculo": -5.7082
+},
+"_tag": "P750_s1_d15_COMPARTE_44872231",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 933,
+"via": "canal",
+"de": 10,
+"objeto": "camouflage",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 2.471,
+"peso": 2.471,
+"dia_emisora": 15,
+"tick_emisora": 670,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 1.0,
+"vinculo": 1.8284
+},
+"_tag": "P750_s1_d15_COMPARTE_44872231",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 11958,
+"via": "canal",
+"de": 10,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.47,
+"peso": 1.47,
+"dia_emisora": 15,
+"tick_emisora": 11739,
+"efecto": {
+"cuerpo": 3.0,
+"recursos": -1.0,
+"vinculo": 0.1716
+},
+"_tag": "P750_s1_d15_COMPARTE_44872231",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 12683,
+"via": "canal",
+"de": 10,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.187,
+"peso": 1.187,
+"dia_emisora": 15,
+"tick_emisora": 12657,
+"efecto": {
+"cuerpo": 3.0,
+"recursos": -1.0,
+"vinculo": 0.0
+},
+"_tag": "P750_s1_d15_COMPARTE_44872231",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 13933,
+"via": "canal",
+"de": 10,
+"objeto": "first_aid",
+"situacion": "fuera",
+"B": 1.0,
+"intensidad_emisora": 4.0,
+"peso": 4.0,
+"dia_emisora": 15,
+"tick_emisora": 13876,
+"efecto": {
+"cuerpo": 40.0,
+"recursos": -1.0,
+"vinculo": 0.0
+},
+"_tag": "P750_s1_d15_COMPARTE_44872231",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 908,
+"via": "canal",
+"de": 11,
+"objeto": "net",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 4.0,
+"peso": 4.0,
+"dia_emisora": 15,
+"tick_emisora": 648,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 13.0,
+"vinculo": -3.3852
+},
+"_tag": "P750_s1_d15_COMPARTE_44872231",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 2258,
+"via": "canal",
+"de": 11,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.93,
+"peso": 1.93,
+"dia_emisora": 16,
+"tick_emisora": 2214,
+"efecto": {
+"cuerpo": 15.0,
+"recursos": -4.0,
+"vinculo": 0.2717
+},
+"_tag": "P750_s1_d16_COMPARTE_44976960",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 2458,
+"via": "canal",
+"de": 11,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 4.0,
+"peso": 4.0,
+"dia_emisora": 16,
+"tick_emisora": 2431,
+"efecto": {
+"cuerpo": 15.0,
+"recursos": -1.0,
+"vinculo": -2.0711
+},
+"_tag": "P750_s1_d16_COMPARTE_44976960",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 2583,
+"via": "canal",
+"de": 11,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 2.809,
+"peso": 2.809,
+"dia_emisora": 16,
+"tick_emisora": 2456,
+"efecto": {
+"cuerpo": 15.0,
+"recursos": -1.0,
+"vinculo": 0.099
+},
+"_tag": "P750_s1_d16_COMPARTE_44976960",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 2633,
+"via": "canal",
+"de": 11,
+"objeto": "camouflage",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 4.0,
+"peso": 4.0,
+"dia_emisora": 16,
+"tick_emisora": 2388,
+"efecto": {
+"cuerpo": 30.8,
+"recursos": 0.0,
+"vinculo": -3.0623
+},
+"_tag": "P750_s1_d16_COMPARTE_44976960",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 2683,
+"via": "canal",
+"de": 11,
+"objeto": "camouflage",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 3.234,
+"peso": 3.234,
+"dia_emisora": 16,
+"tick_emisora": 2573,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": -0.7639
+},
+"_tag": "P750_s1_d16_COMPARTE_44976960",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 2733,
+"via": "canal",
+"de": 11,
+"objeto": "camouflage",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.914,
+"peso": 1.914,
+"dia_emisora": 16,
+"tick_emisora": 2606,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": 0.4142
+},
+"_tag": "P750_s1_d16_COMPARTE_44976960",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 2783,
+"via": "canal",
+"de": 11,
+"objeto": "camouflage",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.24,
+"peso": 1.24,
+"dia_emisora": 16,
+"tick_emisora": 2617,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": 0.0
+},
+"_tag": "P750_s1_d16_COMPARTE_44976960",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 2833,
+"via": "canal",
+"de": 11,
+"objeto": "camouflage",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.518,
+"peso": 1.518,
+"dia_emisora": 16,
+"tick_emisora": 2639,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": 0.2361
+},
+"_tag": "P750_s1_d16_COMPARTE_44976960",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 2883,
+"via": "canal",
+"de": 11,
+"objeto": "camouflage",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.908,
+"peso": 1.908,
+"dia_emisora": 16,
+"tick_emisora": 2707,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": 1.0
+},
+"_tag": "P750_s1_d16_COMPARTE_44976960",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 2933,
+"via": "canal",
+"de": 11,
+"objeto": "camouflage",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.924,
+"peso": 1.924,
+"dia_emisora": 16,
+"tick_emisora": 2742,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": 0.4142
+},
+"_tag": "P750_s1_d16_COMPARTE_44976960",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 2983,
+"via": "canal",
+"de": 11,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 3.351,
+"peso": 3.351,
+"dia_emisora": 16,
+"tick_emisora": 2753,
+"efecto": {
+"cuerpo": 15.0,
+"recursos": -1.0,
+"vinculo": 0.3339
+},
+"_tag": "P750_s1_d16_COMPARTE_44976960",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 10983,
+"via": "canal",
+"de": 11,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.668,
+"peso": 1.668,
+"dia_emisora": 16,
+"tick_emisora": 2778,
+"efecto": {
+"cuerpo": 15.0,
+"recursos": -1.0,
+"vinculo": 1.3099
+},
+"_tag": "P750_s1_d16_COMPARTE_44976960",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 11033,
+"via": "canal",
+"de": 11,
+"objeto": "first_aid",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 2.533,
+"peso": 2.533,
+"dia_emisora": 16,
+"tick_emisora": 4871,
+"efecto": {
+"cuerpo": 24.0,
+"recursos": -1.0,
+"vinculo": 1.3944
+},
+"_tag": "P750_s1_d16_COMPARTE_44976960",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 0,
+"via": "noche",
+"de": 10,
+"objeto": "first_aid",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 2.8686,
+"peso": 2.8686,
+"dia_emisora": 15,
+"tick_emisora": 14673,
+"efecto": {
+"cuerpo": 20.0,
+"recursos": -1.0,
+"vinculo": 0.0
+},
+"_tag": "P750_s1_d16_COMPARTE_44976960",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 2283,
+"via": "canal",
+"de": 11,
+"objeto": "net",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.367,
+"peso": 1.367,
+"dia_emisora": 17,
+"tick_emisora": 1967,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": 0.6371
+},
+"_tag": "P750_s1_d17_COMPARTE_45081689",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 11208,
+"via": "canal",
+"de": 11,
+"objeto": "first_aid",
+"situacion": "fuera",
+"B": 1.0,
+"intensidad_emisora": 2.787,
+"peso": 2.787,
+"dia_emisora": 17,
+"tick_emisora": 10540,
+"efecto": {
+"cuerpo": 27.0,
+"recursos": -1.0,
+"vinculo": -0.7821
+},
+"_tag": "P750_s1_d17_COMPARTE_45081689",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 11258,
+"via": "canal",
+"de": 11,
+"objeto": "rations",
+"situacion": "fuera",
+"B": 1.0,
+"intensidad_emisora": 2.175,
+"peso": 2.175,
+"dia_emisora": 17,
+"tick_emisora": 11133,
+"efecto": {
+"cuerpo": 14.92,
+"recursos": -1.0,
+"vinculo": 0.9962
+},
+"_tag": "P750_s1_d17_COMPARTE_45081689",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 11558,
+"via": "canal",
+"de": 11,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 3.3,
+"peso": 3.3,
+"dia_emisora": 17,
+"tick_emisora": 11215,
+"efecto": {
+"cuerpo": 15.0,
+"recursos": -1.0,
+"vinculo": -0.5858
+},
+"_tag": "P750_s1_d17_COMPARTE_45081689",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 11608,
+"via": "canal",
+"de": 11,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 3.541,
+"peso": 3.541,
+"dia_emisora": 17,
+"tick_emisora": 11240,
+"efecto": {
+"cuerpo": 15.0,
+"recursos": -1.0,
+"vinculo": 0.5858
+},
+"_tag": "P750_s1_d17_COMPARTE_45081689",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 11658,
+"via": "canal",
+"de": 11,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 2.36,
+"peso": 2.36,
+"dia_emisora": 17,
+"tick_emisora": 11265,
+"efecto": {
+"cuerpo": 15.0,
+"recursos": -1.0,
+"vinculo": 1.1623
+},
+"_tag": "P750_s1_d17_COMPARTE_45081689",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 12108,
+"via": "canal",
+"de": 11,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.692,
+"peso": 1.692,
+"dia_emisora": 17,
+"tick_emisora": 11290,
+"efecto": {
+"cuerpo": 15.0,
+"recursos": -1.0,
+"vinculo": -1.1623
+},
+"_tag": "P750_s1_d17_COMPARTE_45081689",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 12283,
+"via": "canal",
+"de": 11,
+"objeto": "first_aid",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 4.0,
+"peso": 4.0,
+"dia_emisora": 17,
+"tick_emisora": 12217,
+"efecto": {
+"cuerpo": 45.0,
+"recursos": -1.0,
+"vinculo": -3.2426
+},
+"_tag": "P750_s1_d17_COMPARTE_45081689",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 0,
+"via": "noche",
+"de": 10,
+"objeto": "first_aid",
+"situacion": "fuera",
+"B": 1.0,
+"intensidad_emisora": 4.0,
+"peso": 4.0,
+"dia_emisora": 16,
+"tick_emisora": 12927,
+"efecto": {
+"cuerpo": 46.0,
+"recursos": -1.0,
+"vinculo": 0.0
+},
+"_tag": "P750_s1_d17_COMPARTE_45081689",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 0,
+"via": "noche",
+"de": 10,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.7735,
+"peso": 1.7735,
+"dia_emisora": 16,
+"tick_emisora": 14558,
+"efecto": {
+"cuerpo": 14.68,
+"recursos": -2.0,
+"vinculo": 0.0
+},
+"_tag": "P750_s1_d17_COMPARTE_45081689",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 1958,
+"via": "canal",
+"de": 10,
+"objeto": "camouflage",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.014,
+"peso": 1.014,
+"dia_emisora": 17,
+"tick_emisora": 1668,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": 0.0
+},
+"_tag": "P750_s1_d17_COMPARTE_45081689",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 1233,
+"via": "canal",
+"de": 11,
+"objeto": "camouflage",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.099,
+"peso": 1.099,
+"dia_emisora": 18,
+"tick_emisora": 968,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 1.0,
+"vinculo": 0.0
+},
+"_tag": "P750_s1_d18_COMPARTE_45186418",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 13933,
+"via": "canal",
+"de": 11,
+"objeto": "first_aid",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 3.726,
+"peso": 3.726,
+"dia_emisora": 18,
+"tick_emisora": 13876,
+"efecto": {
+"cuerpo": 50.0,
+"recursos": -1.0,
+"vinculo": 1.2361
+},
+"_tag": "P750_s1_d18_COMPARTE_45186418",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 858,
+"via": "canal",
+"de": 10,
+"objeto": "net",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.377,
+"peso": 1.377,
+"dia_emisora": 18,
+"tick_emisora": 593,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 1.0,
+"vinculo": -6.2801
+},
+"_tag": "P750_s1_d18_COMPARTE_45186418",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 10483,
+"via": "canal",
+"de": 10,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 2.019,
+"peso": 2.019,
+"dia_emisora": 18,
+"tick_emisora": 10450,
+"efecto": {
+"cuerpo": 11.0,
+"recursos": -1.0,
+"vinculo": -2.0
+},
+"_tag": "P750_s1_d18_COMPARTE_45186418",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 11783,
+"via": "canal",
+"de": 10,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.224,
+"peso": 1.224,
+"dia_emisora": 18,
+"tick_emisora": 11743,
+"efecto": {
+"cuerpo": 6.0,
+"recursos": -1.0,
+"vinculo": 1.7481
+},
+"_tag": "P750_s1_d18_COMPARTE_45186418",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 9483,
+"via": "canal",
+"de": 10,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.972,
+"peso": 1.972,
+"dia_emisora": 19,
+"tick_emisora": 9438,
+"efecto": {
+"cuerpo": 11.0,
+"recursos": -1.0,
+"vinculo": 0.0
+},
+"_tag": "P750_s1_d19_COMPARTE_45291147",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 1308,
+"via": "canal",
+"de": 11,
+"objeto": "camouflage",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 4.0,
+"peso": 4.0,
+"dia_emisora": 19,
+"tick_emisora": 1066,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": -2.0
+},
+"_tag": "P750_s1_d19_COMPARTE_45291147",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 1358,
+"via": "canal",
+"de": 11,
+"objeto": "net",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 2.0,
+"peso": 2.0,
+"dia_emisora": 1,
+"tick_emisora": 780,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 1.0,
+"vinculo": -1.7082
+},
+"_tag": "P750_s1_d1_COMPARTE_43406025",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 858,
+"via": "canal",
+"de": 10,
+"objeto": "camouflage",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 2.0,
+"peso": 2.0,
+"dia_emisora": 1,
+"tick_emisora": 615,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 14.0,
+"vinculo": 7.0711
+},
+"_tag": "P750_s1_d1_COMPARTE_43406025",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 5608,
+"via": "canal",
+"de": 10,
+"objeto": "first_aid",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 2.0,
+"peso": 2.0,
+"dia_emisora": 1,
+"tick_emisora": 5547,
+"efecto": {
+"cuerpo": 11.0,
+"recursos": -1.0,
+"vinculo": 2.7089
+},
+"_tag": "P750_s1_d1_COMPARTE_43406025",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 11233,
+"via": "canal",
+"de": 10,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.947,
+"peso": 1.947,
+"dia_emisora": 1,
+"tick_emisora": 11206,
+"efecto": {
+"cuerpo": 11.0,
+"recursos": -3.0,
+"vinculo": -1.2361
+},
+"_tag": "P750_s1_d1_COMPARTE_43406025",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 11783,
+"via": "canal",
+"de": 10,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.334,
+"peso": 1.334,
+"dia_emisora": 1,
+"tick_emisora": 11739,
+"efecto": {
+"cuerpo": 6.0,
+"recursos": -1.0,
+"vinculo": 0.0
+},
+"_tag": "P750_s1_d1_COMPARTE_43406025",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 1308,
+"via": "canal",
+"de": 11,
+"objeto": "camouflage",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 4.0,
+"peso": 4.0,
+"dia_emisora": 20,
+"tick_emisora": 1066,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 1.0,
+"vinculo": 0.4142
+},
+"_tag": "P750_s1_d20_COMPARTE_45395876",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 858,
+"via": "canal",
+"de": 10,
+"objeto": "net",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.0,
+"peso": 1.0,
+"dia_emisora": 20,
+"tick_emisora": 593,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 1.0,
+"vinculo": 1.5858
+},
+"_tag": "P750_s1_d20_COMPARTE_45395876",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 9283,
+"via": "canal",
+"de": 10,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.396,
+"peso": 1.396,
+"dia_emisora": 20,
+"tick_emisora": 9237,
+"efecto": {
+"cuerpo": 8.0,
+"recursos": -1.0,
+"vinculo": -0.8284
+},
+"_tag": "P750_s1_d20_COMPARTE_45395876",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 10733,
+"via": "canal",
+"de": 10,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 2.243,
+"peso": 2.243,
+"dia_emisora": 20,
+"tick_emisora": 10615,
+"efecto": {
+"cuerpo": 13.0,
+"recursos": -1.0,
+"vinculo": 0.0
+},
+"_tag": "P750_s1_d20_COMPARTE_45395876",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 10783,
+"via": "canal",
+"de": 10,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 2.354,
+"peso": 2.354,
+"dia_emisora": 20,
+"tick_emisora": 10640,
+"efecto": {
+"cuerpo": 13.0,
+"recursos": -1.0,
+"vinculo": 0.0
+},
+"_tag": "P750_s1_d20_COMPARTE_45395876",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 8033,
+"via": "canal",
+"de": 10,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.595,
+"peso": 1.595,
+"dia_emisora": 2,
+"tick_emisora": 7997,
+"efecto": {
+"cuerpo": 11.0,
+"recursos": -1.0,
+"vinculo": -0.4142
+},
+"_tag": "P750_s1_d2_COMPARTE_43510754",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 10133,
+"via": "canal",
+"de": 11,
+"objeto": "rations",
+"situacion": "fuera",
+"B": 1.0,
+"intensidad_emisora": 1.75,
+"peso": 1.75,
+"dia_emisora": 2,
+"tick_emisora": 10106,
+"efecto": {
+"cuerpo": 7.28,
+"recursos": -1.0,
+"vinculo": 0.0
+},
+"_tag": "P750_s1_d2_COMPARTE_43510754",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 11558,
+"via": "canal",
+"de": 11,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 4.0,
+"peso": 4.0,
+"dia_emisora": 3,
+"tick_emisora": 11525,
+"efecto": {
+"cuerpo": 15.2,
+"recursos": -1.0,
+"vinculo": 1.0
+},
+"_tag": "P750_s1_d3_COMPARTE_43615483",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 883,
+"via": "canal",
+"de": 10,
+"objeto": "camouflage",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.0,
+"peso": 1.0,
+"dia_emisora": 3,
+"tick_emisora": 635,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 1.0,
+"vinculo": -1.2361
+},
+"_tag": "P750_s1_d3_COMPARTE_43615483",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 933,
+"via": "canal",
+"de": 10,
+"objeto": "net",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.0,
+"peso": 1.0,
+"dia_emisora": 3,
+"tick_emisora": 646,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": -1.2361
+},
+"_tag": "P750_s1_d3_COMPARTE_43615483",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 11908,
+"via": "canal",
+"de": 10,
+"objeto": "first_aid",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 2.451,
+"peso": 2.451,
+"dia_emisora": 3,
+"tick_emisora": 11585,
+"efecto": {
+"cuerpo": 8.0,
+"recursos": -1.0,
+"vinculo": -0.349
+},
+"_tag": "P750_s1_d3_COMPARTE_43615483",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 12058,
+"via": "canal",
+"de": 10,
+"objeto": "first_aid",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 3.105,
+"peso": 3.105,
+"dia_emisora": 3,
+"tick_emisora": 11925,
+"efecto": {
+"cuerpo": 17.0,
+"recursos": -1.0,
+"vinculo": 0.808
+},
+"_tag": "P750_s1_d3_COMPARTE_43615483",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 958,
+"via": "canal",
+"de": 11,
+"objeto": "net",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.93,
+"peso": 1.93,
+"dia_emisora": 4,
+"tick_emisora": 714,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": -4.099
+},
+"_tag": "P750_s1_d4_COMPARTE_43720212",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 983,
+"via": "canal",
+"de": 10,
+"objeto": "camouflage",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 2.74,
+"peso": 2.74,
+"dia_emisora": 4,
+"tick_emisora": 725,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": -3.1231
+},
+"_tag": "P750_s1_d4_COMPARTE_43720212",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 12683,
+"via": "canal",
+"de": 10,
+"objeto": "first_aid",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 2.291,
+"peso": 2.291,
+"dia_emisora": 4,
+"tick_emisora": 12528,
+"efecto": {
+"cuerpo": 20.0,
+"recursos": -1.0,
+"vinculo": -0.2361
+},
+"_tag": "P750_s1_d4_COMPARTE_43720212",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 808,
+"via": "canal",
+"de": 11,
+"objeto": "net",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 2.621,
+"peso": 2.621,
+"dia_emisora": 5,
+"tick_emisora": 539,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 1.0,
+"vinculo": -0.14
+},
+"_tag": "P750_s1_d5_COMPARTE_43824941",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 4958,
+"via": "canal",
+"de": 11,
+"objeto": "camouflage",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.736,
+"peso": 1.736,
+"dia_emisora": 5,
+"tick_emisora": 2351,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 1.0,
+"vinculo": -1.9289
+},
+"_tag": "P750_s1_d5_COMPARTE_43824941",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 9758,
+"via": "canal",
+"de": 11,
+"objeto": "first_aid",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 4.0,
+"peso": 4.0,
+"dia_emisora": 5,
+"tick_emisora": 9693,
+"efecto": {
+"cuerpo": 22.0,
+"recursos": -1.0,
+"vinculo": 2.6056
+},
+"_tag": "P750_s1_d5_COMPARTE_43824941",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 0,
+"via": "noche",
+"de": 10,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.2238,
+"peso": 1.2238,
+"dia_emisora": 4,
+"tick_emisora": 14595,
+"efecto": {
+"cuerpo": 12.0,
+"recursos": -1.0,
+"vinculo": 0.0
+},
+"_tag": "P750_s1_d5_COMPARTE_43824941",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 5283,
+"via": "canal",
+"de": 10,
+"objeto": "first_aid",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 4.0,
+"peso": 4.0,
+"dia_emisora": 5,
+"tick_emisora": 5212,
+"efecto": {
+"cuerpo": 50.0,
+"recursos": -1.0,
+"vinculo": -0.7639
+},
+"_tag": "P750_s1_d5_COMPARTE_43824941",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 1233,
+"via": "canal",
+"de": 11,
+"objeto": "net",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 4.0,
+"peso": 4.0,
+"dia_emisora": 6,
+"tick_emisora": 974,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": -1.0
+},
+"_tag": "P750_s1_d6_COMPARTE_43929670",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 9259,
+"via": "canal",
+"de": 11,
+"objeto": "camouflage",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.073,
+"peso": 1.073,
+"dia_emisora": 6,
+"tick_emisora": 9002,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 6.0,
+"vinculo": 1.887
+},
+"_tag": "P750_s1_d6_COMPARTE_43929670",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 13958,
+"via": "canal",
+"de": 11,
+"objeto": "first_aid",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 3.224,
+"peso": 3.224,
+"dia_emisora": 6,
+"tick_emisora": 13900,
+"efecto": {
+"cuerpo": 27.0,
+"recursos": -1.0,
+"vinculo": 0.0
+},
+"_tag": "P750_s1_d6_COMPARTE_43929670",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 958,
+"via": "canal",
+"de": 11,
+"objeto": "net",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.783,
+"peso": 1.783,
+"dia_emisora": 7,
+"tick_emisora": 637,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 1.0,
+"vinculo": -1.4093
+},
+"_tag": "P750_s1_d7_COMPARTE_44034399",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 1083,
+"via": "canal",
+"de": 11,
+"objeto": "camouflage",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.781,
+"peso": 1.781,
+"dia_emisora": 7,
+"tick_emisora": 752,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": -2.0892
+},
+"_tag": "P750_s1_d7_COMPARTE_44034399",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 10758,
+"via": "canal",
+"de": 10,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.313,
+"peso": 1.313,
+"dia_emisora": 7,
+"tick_emisora": 3034,
+"efecto": {
+"cuerpo": 14.8,
+"recursos": -1.0,
+"vinculo": 0.0
+},
+"_tag": "P750_s1_d7_COMPARTE_44034399",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 883,
+"via": "canal",
+"de": 10,
+"objeto": "net",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 4.0,
+"peso": 4.0,
+"dia_emisora": 8,
+"tick_emisora": 626,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 1.0,
+"vinculo": 0.2361
+},
+"_tag": "P750_s1_d8_COMPARTE_44139128",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 9483,
+"via": "canal",
+"de": 10,
+"objeto": "first_aid",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 2.961,
+"peso": 2.961,
+"dia_emisora": 8,
+"tick_emisora": 9412,
+"efecto": {
+"cuerpo": 11.0,
+"recursos": -1.0,
+"vinculo": 3.4721
+},
+"_tag": "P750_s1_d8_COMPARTE_44139128",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 12283,
+"via": "canal",
+"de": 10,
+"objeto": "first_aid",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.829,
+"peso": 1.829,
+"dia_emisora": 8,
+"tick_emisora": 12184,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 1.0,
+"vinculo": 3.0
+},
+"_tag": "P750_s1_d8_COMPARTE_44139128",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 12333,
+"via": "canal",
+"de": 10,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 3.384,
+"peso": 3.384,
+"dia_emisora": 8,
+"tick_emisora": 12233,
+"efecto": {
+"cuerpo": 15.0,
+"recursos": -1.0,
+"vinculo": 0.099
+},
+"_tag": "P750_s1_d8_COMPARTE_44139128",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 11583,
+"via": "canal",
+"de": 11,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 3.359,
+"peso": 3.359,
+"dia_emisora": 8,
+"tick_emisora": 11546,
+"efecto": {
+"cuerpo": 8.0,
+"recursos": -1.0,
+"vinculo": 0.9608
+},
+"_tag": "P750_s1_d8_COMPARTE_44139128",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 11808,
+"via": "canal",
+"de": 11,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 4.0,
+"peso": 4.0,
+"dia_emisora": 8,
+"tick_emisora": 11764,
+"efecto": {
+"cuerpo": 12.5,
+"recursos": -2.0,
+"vinculo": 0.0
+},
+"_tag": "P750_s1_d8_COMPARTE_44139128",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 1783,
+"via": "canal",
+"de": 10,
+"objeto": "camouflage",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.02,
+"peso": 1.02,
+"dia_emisora": 9,
+"tick_emisora": 1525,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": -1.7796
+},
+"_tag": "P750_s1_d9_COMPARTE_44243857",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 12058,
+"via": "canal",
+"de": 10,
+"objeto": "net",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.057,
+"peso": 1.057,
+"dia_emisora": 9,
+"tick_emisora": 11815,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": -2.7639
+},
+"_tag": "P750_s1_d9_COMPARTE_44243857",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 13983,
+"via": "canal",
+"de": 10,
+"objeto": "first_aid",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.806,
+"peso": 1.806,
+"dia_emisora": 9,
+"tick_emisora": 13931,
+"efecto": {
+"cuerpo": 6.0,
+"recursos": -1.0,
+"vinculo": 2.0
+},
+"_tag": "P750_s1_d9_COMPARTE_44243857",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 14283,
+"via": "canal",
+"de": 10,
+"objeto": "first_aid",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.692,
+"peso": 1.692,
+"dia_emisora": 9,
+"tick_emisora": 14233,
+"efecto": {
+"cuerpo": 22.0,
+"recursos": -1.0,
+"vinculo": 1.2361
+},
+"_tag": "P750_s1_d9_COMPARTE_44243857",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 11633,
+"via": "canal",
+"de": 11,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 2.239,
+"peso": 2.239,
+"dia_emisora": 9,
+"tick_emisora": 11585,
+"efecto": {
+"cuerpo": 11.0,
+"recursos": -1.0,
+"vinculo": 1.0
+},
+"_tag": "P750_s1_d9_COMPARTE_44243857",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 12683,
+"via": "canal",
+"de": 11,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 4.0,
+"peso": 4.0,
+"dia_emisora": 9,
+"tick_emisora": 12639,
+"efecto": {
+"cuerpo": 15.0,
+"recursos": -1.0,
+"vinculo": -1.2361
+},
+"_tag": "P750_s1_d9_COMPARTE_44243857",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 12733,
+"via": "canal",
+"de": 11,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 2.004,
+"peso": 2.004,
+"dia_emisora": 9,
+"tick_emisora": 12664,
+"efecto": {
+"cuerpo": 2.0,
+"recursos": -1.0,
+"vinculo": 0.0
+},
+"_tag": "P750_s1_d9_COMPARTE_44243857",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 14158,
+"via": "canal",
+"de": 11,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 2.017,
+"peso": 2.017,
+"dia_emisora": 9,
+"tick_emisora": 14111,
+"efecto": {
+"cuerpo": 6.0,
+"recursos": -1.0,
+"vinculo": 0.4142
+},
+"_tag": "P750_s1_d9_COMPARTE_44243857",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 14208,
+"via": "canal",
+"de": 11,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 3.226,
+"peso": 3.226,
+"dia_emisora": 9,
+"tick_emisora": 14171,
+"efecto": {
+"cuerpo": 6.0,
+"recursos": -1.0,
+"vinculo": -0.4142
+},
+"_tag": "P750_s1_d9_COMPARTE_44243857",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 14633,
+"via": "canal",
+"de": 11,
+"objeto": "rations",
+"situacion": "fuera",
+"B": 1.0,
+"intensidad_emisora": 4.0,
+"peso": 4.0,
+"dia_emisora": 9,
+"tick_emisora": 14599,
+"efecto": {
+"cuerpo": 15.0,
+"recursos": 0.0,
+"vinculo": -2.0
+},
+"_tag": "P750_s1_d9_COMPARTE_44243857",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 14683,
+"via": "canal",
+"de": 11,
+"objeto": "first_aid",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 3.078,
+"peso": 3.078,
+"dia_emisora": 9,
+"tick_emisora": 14624,
+"efecto": {
+"cuerpo": 41.0,
+"recursos": -1.0,
+"vinculo": 0.0
+},
+"_tag": "P750_s1_d9_COMPARTE_44243857",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 14958,
+"via": "canal",
+"de": 11,
+"objeto": "rations",
+"situacion": "fuera",
+"B": 1.0,
+"intensidad_emisora": 2.059,
+"peso": 2.059,
+"dia_emisora": 9,
+"tick_emisora": 14930,
+"efecto": {
+"cuerpo": 14.68,
+"recursos": -1.0,
+"vinculo": 0.0
+},
+"_tag": "P750_s1_d9_COMPARTE_44243857",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 15008,
+"via": "canal",
+"de": 11,
+"objeto": "rations",
+"situacion": "fuera",
+"B": 1.0,
+"intensidad_emisora": 1.952,
+"peso": 1.952,
+"dia_emisora": 9,
+"tick_emisora": 14955,
+"efecto": {
+"cuerpo": 14.68,
+"recursos": -1.0,
+"vinculo": 0.0
+},
+"_tag": "P750_s1_d9_COMPARTE_44243857",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 1308,
+"via": "canal",
+"de": 11,
+"objeto": "camouflage",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.066,
+"peso": 1.066,
+"dia_emisora": 10,
+"tick_emisora": 1066,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 9.0,
+"vinculo": -1.8284
+},
+"_tag": "P750_s2_d10_COMPARTE_44453315",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 14183,
+"via": "canal",
+"de": 11,
+"objeto": "first_aid",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 4.0,
+"peso": 4.0,
+"dia_emisora": 10,
+"tick_emisora": 14122,
+"efecto": {
+"cuerpo": 11.0,
+"recursos": -3.0,
+"vinculo": 0.8219
+},
+"_tag": "P750_s2_d10_COMPARTE_44453315",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 14433,
+"via": "canal",
+"de": 11,
+"objeto": "first_aid",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 4.0,
+"peso": 4.0,
+"dia_emisora": 10,
+"tick_emisora": 14376,
+"efecto": {
+"cuerpo": 50.0,
+"recursos": -1.0,
+"vinculo": -0.8219
+},
+"_tag": "P750_s2_d10_COMPARTE_44453315",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 13858,
+"via": "canal",
+"de": 10,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 2.091,
+"peso": 2.091,
+"dia_emisora": 10,
+"tick_emisora": 13829,
+"efecto": {
+"cuerpo": 14.0,
+"recursos": -1.0,
+"vinculo": -0.4142
+},
+"_tag": "P750_s2_d10_COMPARTE_44453315",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 1358,
+"via": "canal",
+"de": 10,
+"objeto": "camouflage",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 3.021,
+"peso": 3.021,
+"dia_emisora": 11,
+"tick_emisora": 1109,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 1.0,
+"vinculo": 0.0
+},
+"_tag": "P750_s2_d11_COMPARTE_44348586",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 1533,
+"via": "canal",
+"de": 10,
+"objeto": "net",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.0,
+"peso": 1.0,
+"dia_emisora": 11,
+"tick_emisora": 1287,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": 1.8377
+},
+"_tag": "P750_s2_d11_COMPARTE_44348586",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 12033,
+"via": "canal",
+"de": 10,
+"objeto": "first_aid",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 2.518,
+"peso": 2.518,
+"dia_emisora": 11,
+"tick_emisora": 11509,
+"efecto": {
+"cuerpo": 8.0,
+"recursos": -1.0,
+"vinculo": 2.0066
+},
+"_tag": "P750_s2_d11_COMPARTE_44348586",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 708,
+"via": "canal",
+"de": 11,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 4.0,
+"peso": 4.0,
+"dia_emisora": 12,
+"tick_emisora": 659,
+"efecto": {
+"cuerpo": 8.0,
+"recursos": 0.0,
+"vinculo": 1.7796
+},
+"_tag": "P750_s2_d12_COMPARTE_44243857",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 933,
+"via": "canal",
+"de": 11,
+"objeto": "camouflage",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 2.7,
+"peso": 2.7,
+"dia_emisora": 12,
+"tick_emisora": 681,
+"efecto": {
+"cuerpo": 8.0,
+"recursos": 0.0,
+"vinculo": 2.4251
+},
+"_tag": "P750_s2_d12_COMPARTE_44243857",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 12233,
+"via": "canal",
+"de": 11,
+"objeto": "first_aid",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 3.556,
+"peso": 3.556,
+"dia_emisora": 12,
+"tick_emisora": 12173,
+"efecto": {
+"cuerpo": 27.0,
+"recursos": -1.0,
+"vinculo": -2.0
+},
+"_tag": "P750_s2_d12_COMPARTE_44243857",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 12608,
+"via": "canal",
+"de": 11,
+"objeto": "net",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.492,
+"peso": 1.492,
+"dia_emisora": 12,
+"tick_emisora": 12348,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": 0.2361
+},
+"_tag": "P750_s2_d12_COMPARTE_44243857",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 10783,
+"via": "canal",
+"de": 10,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.251,
+"peso": 1.251,
+"dia_emisora": 12,
+"tick_emisora": 10754,
+"efecto": {
+"cuerpo": 3.0,
+"recursos": -1.0,
+"vinculo": 0.0
+},
+"_tag": "P750_s2_d12_COMPARTE_44243857",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 11683,
+"via": "canal",
+"de": 10,
+"objeto": "first_aid",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 3.51,
+"peso": 3.51,
+"dia_emisora": 12,
+"tick_emisora": 11628,
+"efecto": {
+"cuerpo": 22.0,
+"recursos": 1.0,
+"vinculo": -2.1913
+},
+"_tag": "P750_s2_d12_COMPARTE_44243857",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 11833,
+"via": "canal",
+"de": 10,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.363,
+"peso": 1.363,
+"dia_emisora": 12,
+"tick_emisora": 11783,
+"efecto": {
+"cuerpo": 3.0,
+"recursos": -1.0,
+"vinculo": -0.8219
+},
+"_tag": "P750_s2_d12_COMPARTE_44243857",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 11958,
+"via": "canal",
+"de": 10,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.501,
+"peso": 1.501,
+"dia_emisora": 12,
+"tick_emisora": 11920,
+"efecto": {
+"cuerpo": 6.0,
+"recursos": -1.0,
+"vinculo": 1.1623
+},
+"_tag": "P750_s2_d12_COMPARTE_44243857",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 883,
+"via": "canal",
+"de": 10,
+"objeto": "net",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.0,
+"peso": 1.0,
+"dia_emisora": 13,
+"tick_emisora": 626,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 1.0,
+"vinculo": 0.0
+},
+"_tag": "P750_s2_d13_COMPARTE_44139128",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 11708,
+"via": "canal",
+"de": 10,
+"objeto": "first_aid",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 2.514,
+"peso": 2.514,
+"dia_emisora": 13,
+"tick_emisora": 11634,
+"efecto": {
+"cuerpo": 11.0,
+"recursos": -1.0,
+"vinculo": 4.099
+},
+"_tag": "P750_s2_d13_COMPARTE_44139128",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 13858,
+"via": "canal",
+"de": 10,
+"objeto": "first_aid",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 3.172,
+"peso": 3.172,
+"dia_emisora": 13,
+"tick_emisora": 13803,
+"efecto": {
+"cuerpo": 26.0,
+"recursos": -1.0,
+"vinculo": 0.0
+},
+"_tag": "P750_s2_d13_COMPARTE_44139128",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 13908,
+"via": "canal",
+"de": 11,
+"objeto": "rations",
+"situacion": "fuera",
+"B": 1.0,
+"intensidad_emisora": 4.0,
+"peso": 4.0,
+"dia_emisora": 13,
+"tick_emisora": 13874,
+"efecto": {
+"cuerpo": 14.0,
+"recursos": -1.0,
+"vinculo": 1.2361
+},
+"_tag": "P750_s2_d13_COMPARTE_44139128",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 1683,
+"via": "canal",
+"de": 11,
+"objeto": "net",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 2.665,
+"peso": 2.665,
+"dia_emisora": 14,
+"tick_emisora": 637,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": -2.0084
+},
+"_tag": "P750_s2_d14_COMPARTE_44034399",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 1733,
+"via": "canal",
+"de": 11,
+"objeto": "camouflage",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 2.189,
+"peso": 2.189,
+"dia_emisora": 14,
+"tick_emisora": 904,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": -2.0892
+},
+"_tag": "P750_s2_d14_COMPARTE_44034399",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 11933,
+"via": "canal",
+"de": 10,
+"objeto": "first_aid",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.181,
+"peso": 1.181,
+"dia_emisora": 15,
+"tick_emisora": 11873,
+"efecto": {
+"cuerpo": 3.0,
+"recursos": -1.0,
+"vinculo": -2.0
+},
+"_tag": "P750_s2_d15_COMPARTE_43929670",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 13333,
+"via": "canal",
+"de": 10,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.654,
+"peso": 1.654,
+"dia_emisora": 15,
+"tick_emisora": 13298,
+"efecto": {
+"cuerpo": 8.0,
+"recursos": -1.0,
+"vinculo": 0.0
+},
+"_tag": "P750_s2_d15_COMPARTE_43929670",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 14633,
+"via": "canal",
+"de": 10,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.512,
+"peso": 1.512,
+"dia_emisora": 15,
+"tick_emisora": 14584,
+"efecto": {
+"cuerpo": 14.2,
+"recursos": -1.0,
+"vinculo": 0.0
+},
+"_tag": "P750_s2_d15_COMPARTE_43929670",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 14683,
+"via": "canal",
+"de": 10,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.731,
+"peso": 1.731,
+"dia_emisora": 15,
+"tick_emisora": 14609,
+"efecto": {
+"cuerpo": 15.2,
+"recursos": -1.0,
+"vinculo": 0.0
+},
+"_tag": "P750_s2_d15_COMPARTE_43929670",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 14733,
+"via": "canal",
+"de": 10,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.42,
+"peso": 1.42,
+"dia_emisora": 15,
+"tick_emisora": 14639,
+"efecto": {
+"cuerpo": 15.2,
+"recursos": -1.0,
+"vinculo": 0.0
+},
+"_tag": "P750_s2_d15_COMPARTE_43929670",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 1983,
+"via": "canal",
+"de": 11,
+"objeto": "camouflage",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.116,
+"peso": 1.116,
+"dia_emisora": 15,
+"tick_emisora": 1737,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 1.0,
+"vinculo": -2.1623
+},
+"_tag": "P750_s2_d15_COMPARTE_43929670",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 11658,
+"via": "canal",
+"de": 11,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 2.886,
+"peso": 2.886,
+"dia_emisora": 15,
+"tick_emisora": 11608,
+"efecto": {
+"cuerpo": 11.0,
+"recursos": -1.0,
+"vinculo": 1.8284
+},
+"_tag": "P750_s2_d15_COMPARTE_43929670",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 14658,
+"via": "canal",
+"de": 11,
+"objeto": "first_aid",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 2.32,
+"peso": 2.32,
+"dia_emisora": 15,
+"tick_emisora": 14608,
+"efecto": {
+"cuerpo": 14.0,
+"recursos": -1.0,
+"vinculo": 0.0
+},
+"_tag": "P750_s2_d15_COMPARTE_43929670",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 958,
+"via": "canal",
+"de": 10,
+"objeto": "net",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.127,
+"peso": 1.127,
+"dia_emisora": 16,
+"tick_emisora": 703,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": 3.0
+},
+"_tag": "P750_s2_d16_COMPARTE_43824941",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 11883,
+"via": "canal",
+"de": 10,
+"objeto": "first_aid",
+"situacion": "fuera",
+"B": 1.0,
+"intensidad_emisora": 2.205,
+"peso": 2.205,
+"dia_emisora": 16,
+"tick_emisora": 11378,
+"efecto": {
+"cuerpo": 15.0,
+"recursos": -1.0,
+"vinculo": -1.4142
+},
+"_tag": "P750_s2_d16_COMPARTE_43824941",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 0,
+"via": "noche",
+"de": 11,
+"objeto": "net",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 4.0,
+"peso": 4.0,
+"dia_emisora": 15,
+"tick_emisora": 14572,
+"efecto": {
+"cuerpo": 28.72,
+"recursos": -1.0,
+"vinculo": 7.5301
+},
+"_tag": "P750_s2_d16_COMPARTE_43824941",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 0,
+"via": "noche",
+"de": 11,
+"objeto": "rations",
+"situacion": "fuera",
+"B": 1.0,
+"intensidad_emisora": 4.0,
+"peso": 4.0,
+"dia_emisora": 15,
+"tick_emisora": 14787,
+"efecto": {
+"cuerpo": 15.68,
+"recursos": -1.0,
+"vinculo": 1.3285
+},
+"_tag": "P750_s2_d16_COMPARTE_43824941",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 783,
+"via": "canal",
+"de": 11,
+"objeto": "net",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.41,
+"peso": 1.41,
+"dia_emisora": 16,
+"tick_emisora": 539,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 1.0,
+"vinculo": 0.7889
+},
+"_tag": "P750_s2_d16_COMPARTE_43824941",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 2608,
+"via": "canal",
+"de": 11,
+"objeto": "camouflage",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.732,
+"peso": 1.732,
+"dia_emisora": 16,
+"tick_emisora": 2342,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 1.0,
+"vinculo": -3.6158
+},
+"_tag": "P750_s2_d16_COMPARTE_43824941",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 1008,
+"via": "canal",
+"de": 10,
+"objeto": "net",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 3.572,
+"peso": 3.572,
+"dia_emisora": 17,
+"tick_emisora": 758,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 1.0,
+"vinculo": 0.0
+},
+"_tag": "P750_s2_d17_COMPARTE_43720212",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 11808,
+"via": "canal",
+"de": 10,
+"objeto": "first_aid",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.409,
+"peso": 1.409,
+"dia_emisora": 17,
+"tick_emisora": 11738,
+"efecto": {
+"cuerpo": 3.0,
+"recursos": -1.0,
+"vinculo": -0.4142
+},
+"_tag": "P750_s2_d17_COMPARTE_43720212",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 12533,
+"via": "canal",
+"de": 10,
+"objeto": "first_aid",
+"situacion": "fuera",
+"B": 1.0,
+"intensidad_emisora": 2.52,
+"peso": 2.52,
+"dia_emisora": 17,
+"tick_emisora": 12387,
+"efecto": {
+"cuerpo": 20.0,
+"recursos": -1.0,
+"vinculo": -0.2361
+},
+"_tag": "P750_s2_d17_COMPARTE_43720212",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 12583,
+"via": "canal",
+"de": 10,
+"objeto": "first_aid",
+"situacion": "fuera",
+"B": 1.0,
+"intensidad_emisora": 2.329,
+"peso": 2.329,
+"dia_emisora": 17,
+"tick_emisora": 12482,
+"efecto": {
+"cuerpo": 14.0,
+"recursos": -1.0,
+"vinculo": -0.7639
+},
+"_tag": "P750_s2_d17_COMPARTE_43720212",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 0,
+"via": "noche",
+"de": 11,
+"objeto": "first_aid",
+"situacion": "fuera",
+"B": 1.0,
+"intensidad_emisora": 2.9224,
+"peso": 2.9224,
+"dia_emisora": 16,
+"tick_emisora": 11930,
+"efecto": {
+"cuerpo": 7.0,
+"recursos": -1.0,
+"vinculo": 5.7082
+},
+"_tag": "P750_s2_d17_COMPARTE_43720212",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 908,
+"via": "canal",
+"de": 11,
+"objeto": "camouflage",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 4.0,
+"peso": 4.0,
+"dia_emisora": 17,
+"tick_emisora": 648,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 1.0,
+"vinculo": -1.8284
+},
+"_tag": "P750_s2_d17_COMPARTE_43720212",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 11883,
+"via": "canal",
+"de": 11,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 3.607,
+"peso": 3.607,
+"dia_emisora": 17,
+"tick_emisora": 11839,
+"efecto": {
+"cuerpo": 15.2,
+"recursos": -1.0,
+"vinculo": 1.7481
+},
+"_tag": "P750_s2_d17_COMPARTE_43720212",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 11933,
+"via": "canal",
+"de": 11,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 2.343,
+"peso": 2.343,
+"dia_emisora": 17,
+"tick_emisora": 11864,
+"efecto": {
+"cuerpo": 3.0,
+"recursos": -1.0,
+"vinculo": 1.8377
+},
+"_tag": "P750_s2_d17_COMPARTE_43720212",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 12208,
+"via": "canal",
+"de": 11,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.44,
+"peso": 1.44,
+"dia_emisora": 17,
+"tick_emisora": 12165,
+"efecto": {
+"cuerpo": 3.0,
+"recursos": -1.0,
+"vinculo": -1.3695
+},
+"_tag": "P750_s2_d17_COMPARTE_43720212",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 13133,
+"via": "canal",
+"de": 11,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 2.0,
+"peso": 2.0,
+"dia_emisora": 17,
+"tick_emisora": 13095,
+"efecto": {
+"cuerpo": 3.0,
+"recursos": -1.0,
+"vinculo": 0.0
+},
+"_tag": "P750_s2_d17_COMPARTE_43720212",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 908,
+"via": "canal",
+"de": 11,
+"objeto": "camouflage",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 4.0,
+"peso": 4.0,
+"dia_emisora": 18,
+"tick_emisora": 648,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": 0.4142
+},
+"_tag": "P750_s2_d18_COMPARTE_43615483",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 12883,
+"via": "canal",
+"de": 11,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.914,
+"peso": 1.914,
+"dia_emisora": 18,
+"tick_emisora": 12843,
+"efecto": {
+"cuerpo": 15.2,
+"recursos": -1.0,
+"vinculo": 0.1623
+},
+"_tag": "P750_s2_d18_COMPARTE_43615483",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 14708,
+"via": "canal",
+"de": 11,
+"objeto": "first_aid",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.691,
+"peso": 1.691,
+"dia_emisora": 18,
+"tick_emisora": 14641,
+"efecto": {
+"cuerpo": 24.0,
+"recursos": -1.0,
+"vinculo": 0.0
+},
+"_tag": "P750_s2_d18_COMPARTE_43615483",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 908,
+"via": "canal",
+"de": 10,
+"objeto": "net",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 3.209,
+"peso": 3.209,
+"dia_emisora": 18,
+"tick_emisora": 646,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": -0.8219
+},
+"_tag": "P750_s2_d18_COMPARTE_43615483",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 12858,
+"via": "canal",
+"de": 10,
+"objeto": "first_aid",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 2.947,
+"peso": 2.947,
+"dia_emisora": 18,
+"tick_emisora": 12800,
+"efecto": {
+"cuerpo": 26.0,
+"recursos": -1.0,
+"vinculo": -0.9608
+},
+"_tag": "P750_s2_d18_COMPARTE_43615483",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 13408,
+"via": "canal",
+"de": 10,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 2.336,
+"peso": 2.336,
+"dia_emisora": 18,
+"tick_emisora": 13371,
+"efecto": {
+"cuerpo": 15.0,
+"recursos": -1.0,
+"vinculo": -1.2361
+},
+"_tag": "P750_s2_d18_COMPARTE_43615483",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 13458,
+"via": "canal",
+"de": 10,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.507,
+"peso": 1.507,
+"dia_emisora": 18,
+"tick_emisora": 13396,
+"efecto": {
+"cuerpo": 7.0,
+"recursos": -1.0,
+"vinculo": 0.0
+},
+"_tag": "P750_s2_d18_COMPARTE_43615483",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 10383,
+"via": "canal",
+"de": 10,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.418,
+"peso": 1.418,
+"dia_emisora": 19,
+"tick_emisora": 10139,
+"efecto": {
+"cuerpo": 7.0,
+"recursos": -1.0,
+"vinculo": 0.0
+},
+"_tag": "P750_s2_d19_COMPARTE_43510754",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 4908,
+"via": "canal",
+"de": 11,
+"objeto": "camouflage",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.387,
+"peso": 1.387,
+"dia_emisora": 19,
+"tick_emisora": 1055,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": -0.9282
+},
+"_tag": "P750_s2_d19_COMPARTE_43510754",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 858,
+"via": "canal",
+"de": 10,
+"objeto": "net",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.0,
+"peso": 1.0,
+"dia_emisora": 1,
+"tick_emisora": 593,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 2.0,
+"vinculo": 1.7481
+},
+"_tag": "P750_s2_d1_COMPARTE_45395876",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 908,
+"via": "canal",
+"de": 10,
+"objeto": "camouflage",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.0,
+"peso": 1.0,
+"dia_emisora": 1,
+"tick_emisora": 626,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 1.0,
+"vinculo": 2.0
+},
+"_tag": "P750_s2_d1_COMPARTE_45395876",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 10558,
+"via": "canal",
+"de": 10,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 4.0,
+"peso": 4.0,
+"dia_emisora": 1,
+"tick_emisora": 10532,
+"efecto": {
+"cuerpo": 15.0,
+"recursos": -1.0,
+"vinculo": 2.1913
+},
+"_tag": "P750_s2_d1_COMPARTE_45395876",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 0,
+"via": "noche",
+"de": 11,
+"objeto": "first_aid",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 3.2993,
+"peso": 3.2993,
+"dia_emisora": 19,
+"tick_emisora": 14143,
+"efecto": {
+"cuerpo": 17.0,
+"recursos": -1.0,
+"vinculo": -0.7164
+},
+"_tag": "P750_s2_d20_COMPARTE_43406025",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 883,
+"via": "canal",
+"de": 11,
+"objeto": "camouflage",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 4.0,
+"peso": 4.0,
+"dia_emisora": 20,
+"tick_emisora": 636,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 1.0,
+"vinculo": 1.0
+},
+"_tag": "P750_s2_d20_COMPARTE_43406025",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 8383,
+"via": "canal",
+"de": 11,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 2.092,
+"peso": 2.092,
+"dia_emisora": 20,
+"tick_emisora": 8321,
+"efecto": {
+"cuerpo": 14.0,
+"recursos": -2.0,
+"vinculo": 1.9597
+},
+"_tag": "P750_s2_d20_COMPARTE_43406025",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 983,
+"via": "canal",
+"de": 10,
+"objeto": "net",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 3.694,
+"peso": 3.694,
+"dia_emisora": 20,
+"tick_emisora": 726,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": 1.0
+},
+"_tag": "P750_s2_d20_COMPARTE_43406025",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 1408,
+"via": "canal",
+"de": 11,
+"objeto": "camouflage",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 2.0,
+"peso": 2.0,
+"dia_emisora": 2,
+"tick_emisora": 1165,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 1.0,
+"vinculo": 0.349
+},
+"_tag": "P750_s2_d2_COMPARTE_45291147",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 1808,
+"via": "canal",
+"de": 11,
+"objeto": "net",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.961,
+"peso": 1.961,
+"dia_emisora": 2,
+"tick_emisora": 1542,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": 2.2706
+},
+"_tag": "P750_s2_d2_COMPARTE_45291147",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 0,
+"via": "noche",
+"de": 10,
+"objeto": "first_aid",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 3.1878,
+"peso": 3.1878,
+"dia_emisora": 1,
+"tick_emisora": 13055,
+"efecto": {
+"cuerpo": 33.0,
+"recursos": -1.0,
+"vinculo": -0.3482
+},
+"_tag": "P750_s2_d2_COMPARTE_45291147",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 0,
+"via": "noche",
+"de": 10,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 2.0,
+"peso": 2.0,
+"dia_emisora": 1,
+"tick_emisora": 14559,
+"efecto": {
+"cuerpo": 15.0,
+"recursos": -1.0,
+"vinculo": 0.0
+},
+"_tag": "P750_s2_d2_COMPARTE_45291147",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 3608,
+"via": "canal",
+"de": 10,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 4.0,
+"peso": 4.0,
+"dia_emisora": 2,
+"tick_emisora": 3569,
+"efecto": {
+"cuerpo": 6.0,
+"recursos": -1.0,
+"vinculo": -1.7481
+},
+"_tag": "P750_s2_d2_COMPARTE_45291147",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 11808,
+"via": "canal",
+"de": 10,
+"objeto": "first_aid",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 4.0,
+"peso": 4.0,
+"dia_emisora": 2,
+"tick_emisora": 11665,
+"efecto": {
+"cuerpo": 49.0,
+"recursos": -1.0,
+"vinculo": 1.8732
+},
+"_tag": "P750_s2_d2_COMPARTE_45291147",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 0,
+"via": "noche",
+"de": 10,
+"objeto": "rations",
+"situacion": "fuera",
+"B": 1.0,
+"intensidad_emisora": 4.0,
+"peso": 4.0,
+"dia_emisora": 2,
+"tick_emisora": 12842,
+"efecto": {
+"cuerpo": 14.56,
+"recursos": -1.0,
+"vinculo": 0.6677
+},
+"_tag": "P750_s2_d3_COMPARTE_45186418",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 10508,
+"via": "canal",
+"de": 10,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 4.0,
+"peso": 4.0,
+"dia_emisora": 3,
+"tick_emisora": 10481,
+"efecto": {
+"cuerpo": 11.0,
+"recursos": -2.0,
+"vinculo": -1.0
+},
+"_tag": "P750_s2_d3_COMPARTE_45186418",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 10633,
+"via": "canal",
+"de": 10,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 4.0,
+"peso": 4.0,
+"dia_emisora": 3,
+"tick_emisora": 10572,
+"efecto": {
+"cuerpo": 8.0,
+"recursos": -3.0,
+"vinculo": 0.0
+},
+"_tag": "P750_s2_d3_COMPARTE_45186418",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 11758,
+"via": "canal",
+"de": 10,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 2.0,
+"peso": 2.0,
+"dia_emisora": 3,
+"tick_emisora": 11722,
+"efecto": {
+"cuerpo": 6.0,
+"recursos": -3.0,
+"vinculo": 1.8284
+},
+"_tag": "P750_s2_d3_COMPARTE_45186418",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 1108,
+"via": "canal",
+"de": 11,
+"objeto": "camouflage",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.292,
+"peso": 1.292,
+"dia_emisora": 3,
+"tick_emisora": 853,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 7.0,
+"vinculo": -2.0066
+},
+"_tag": "P750_s2_d3_COMPARTE_45186418",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 1183,
+"via": "canal",
+"de": 11,
+"objeto": "net",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.135,
+"peso": 1.135,
+"dia_emisora": 3,
+"tick_emisora": 941,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": 1.2361
+},
+"_tag": "P750_s2_d3_COMPARTE_45186418",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 11908,
+"via": "canal",
+"de": 11,
+"objeto": "first_aid",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 4.0,
+"peso": 4.0,
+"dia_emisora": 3,
+"tick_emisora": 11779,
+"efecto": {
+"cuerpo": 6.0,
+"recursos": -1.0,
+"vinculo": 0.3357
+},
+"_tag": "P750_s2_d3_COMPARTE_45186418",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 12483,
+"via": "canal",
+"de": 11,
+"objeto": "first_aid",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 4.0,
+"peso": 4.0,
+"dia_emisora": 3,
+"tick_emisora": 12016,
+"efecto": {
+"cuerpo": 17.0,
+"recursos": -1.0,
+"vinculo": 2.8102
+},
+"_tag": "P750_s2_d3_COMPARTE_45186418",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 10833,
+"via": "canal",
+"de": 10,
+"objeto": "rations",
+"situacion": "fuera",
+"B": 1.0,
+"intensidad_emisora": 2.751,
+"peso": 2.751,
+"dia_emisora": 4,
+"tick_emisora": 10226,
+"efecto": {
+"cuerpo": 7.28,
+"recursos": -1.0,
+"vinculo": -0.9172
+},
+"_tag": "P750_s2_d4_COMPARTE_45081689",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 9608,
+"via": "canal",
+"de": 11,
+"objeto": "net",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.0,
+"peso": 1.0,
+"dia_emisora": 4,
+"tick_emisora": 4910,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": -0.7805
+},
+"_tag": "P750_s2_d4_COMPARTE_45081689",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 9658,
+"via": "canal",
+"de": 11,
+"objeto": "camouflage",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 2.178,
+"peso": 2.178,
+"dia_emisora": 4,
+"tick_emisora": 9240,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": -2.6543
+},
+"_tag": "P750_s2_d4_COMPARTE_45081689",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 0,
+"via": "noche",
+"de": 11,
+"objeto": "first_aid",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.4437,
+"peso": 1.4437,
+"dia_emisora": 4,
+"tick_emisora": 13094,
+"efecto": {
+"cuerpo": 3.0,
+"recursos": -1.0,
+"vinculo": 0.0
+},
+"_tag": "P750_s2_d5_COMPARTE_44976960",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 11808,
+"via": "canal",
+"de": 11,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 2.166,
+"peso": 2.166,
+"dia_emisora": 5,
+"tick_emisora": 11779,
+"efecto": {
+"cuerpo": 3.0,
+"recursos": -1.0,
+"vinculo": -2.5411
+},
+"_tag": "P750_s2_d5_COMPARTE_44976960",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 11883,
+"via": "canal",
+"de": 11,
+"objeto": "first_aid",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 4.0,
+"peso": 4.0,
+"dia_emisora": 5,
+"tick_emisora": 11819,
+"efecto": {
+"cuerpo": 17.0,
+"recursos": -1.0,
+"vinculo": -1.0804
+},
+"_tag": "P750_s2_d5_COMPARTE_44976960",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 958,
+"via": "canal",
+"de": 10,
+"objeto": "net",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 4.0,
+"peso": 4.0,
+"dia_emisora": 5,
+"tick_emisora": 704,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": 0.0
+},
+"_tag": "P750_s2_d5_COMPARTE_44976960",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 11358,
+"via": "canal",
+"de": 10,
+"objeto": "rations",
+"situacion": "fuera",
+"B": 1.0,
+"intensidad_emisora": 2.403,
+"peso": 2.403,
+"dia_emisora": 5,
+"tick_emisora": 11330,
+"efecto": {
+"cuerpo": 9.92,
+"recursos": -1.0,
+"vinculo": -0.882
+},
+"_tag": "P750_s2_d5_COMPARTE_44976960",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 883,
+"via": "canal",
+"de": 11,
+"objeto": "camouflage",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 4.0,
+"peso": 4.0,
+"dia_emisora": 6,
+"tick_emisora": 637,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 1.0,
+"vinculo": -0.4142
+},
+"_tag": "P750_s2_d6_COMPARTE_44872231",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 933,
+"via": "canal",
+"de": 11,
+"objeto": "net",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 4.0,
+"peso": 4.0,
+"dia_emisora": 6,
+"tick_emisora": 670,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": -2.0
+},
+"_tag": "P750_s2_d6_COMPARTE_44872231",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 14758,
+"via": "canal",
+"de": 11,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 2.045,
+"peso": 2.045,
+"dia_emisora": 6,
+"tick_emisora": 14708,
+"efecto": {
+"cuerpo": 15.0,
+"recursos": -1.0,
+"vinculo": 0.5858
+},
+"_tag": "P750_s2_d6_COMPARTE_44872231",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 758,
+"via": "canal",
+"de": 10,
+"objeto": "net",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 3.671,
+"peso": 3.671,
+"dia_emisora": 6,
+"tick_emisora": 516,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 2.0,
+"vinculo": -5.294
+},
+"_tag": "P750_s2_d6_COMPARTE_44872231",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 12583,
+"via": "canal",
+"de": 10,
+"objeto": "first_aid",
+"situacion": "fuera",
+"B": 1.0,
+"intensidad_emisora": 1.989,
+"peso": 1.989,
+"dia_emisora": 6,
+"tick_emisora": 12409,
+"efecto": {
+"cuerpo": 11.0,
+"recursos": -1.0,
+"vinculo": 0.0
+},
+"_tag": "P750_s2_d6_COMPARTE_44872231",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 1808,
+"via": "canal",
+"de": 11,
+"objeto": "first_aid",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 3.229,
+"peso": 3.229,
+"dia_emisora": 7,
+"tick_emisora": 1738,
+"efecto": {
+"cuerpo": 20.0,
+"recursos": -3.0,
+"vinculo": -3.544
+},
+"_tag": "P750_s2_d7_COMPARTE_44767502",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 1133,
+"via": "canal",
+"de": 11,
+"objeto": "camouflage",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.452,
+"peso": 1.452,
+"dia_emisora": 8,
+"tick_emisora": 868,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": -0.8666
+},
+"_tag": "P750_s2_d8_COMPARTE_44662773",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 11358,
+"via": "canal",
+"de": 11,
+"objeto": "net",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 2.127,
+"peso": 2.127,
+"dia_emisora": 8,
+"tick_emisora": 10945,
+"efecto": {
+"cuerpo": -0.16,
+"recursos": 0.0,
+"vinculo": 0.0
+},
+"_tag": "P750_s2_d8_COMPARTE_44662773",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 11408,
+"via": "canal",
+"de": 11,
+"objeto": "first_aid",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 3.469,
+"peso": 3.469,
+"dia_emisora": 8,
+"tick_emisora": 11183,
+"efecto": {
+"cuerpo": 18.0,
+"recursos": -1.0,
+"vinculo": 2.5567
+},
+"_tag": "P750_s2_d8_COMPARTE_44662773",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 0,
+"via": "noche",
+"de": 10,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.5795,
+"peso": 1.5795,
+"dia_emisora": 7,
+"tick_emisora": 2420,
+"efecto": {
+"cuerpo": 14.8,
+"recursos": -1.0,
+"vinculo": 0.0
+},
+"_tag": "P750_s2_d8_COMPARTE_44662773",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 1658,
+"via": "canal",
+"de": 10,
+"objeto": "first_aid",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 2.971,
+"peso": 2.971,
+"dia_emisora": 8,
+"tick_emisora": 1585,
+"efecto": {
+"cuerpo": 22.0,
+"recursos": -1.0,
+"vinculo": 0.0
+},
+"_tag": "P750_s2_d8_COMPARTE_44662773",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 12358,
+"via": "canal",
+"de": 10,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 2.879,
+"peso": 2.879,
+"dia_emisora": 8,
+"tick_emisora": 12096,
+"efecto": {
+"cuerpo": 15.2,
+"recursos": -3.0,
+"vinculo": 1.3695
+},
+"_tag": "P750_s2_d8_COMPARTE_44662773",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 12408,
+"via": "canal",
+"de": 10,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 2.31,
+"peso": 2.31,
+"dia_emisora": 8,
+"tick_emisora": 12121,
+"efecto": {
+"cuerpo": 15.0,
+"recursos": -1.0,
+"vinculo": 0.0
+},
+"_tag": "P750_s2_d8_COMPARTE_44662773",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 908,
+"via": "canal",
+"de": 11,
+"objeto": "camouflage",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 4.0,
+"peso": 4.0,
+"dia_emisora": 9,
+"tick_emisora": 648,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 13.0,
+"vinculo": -2.0
+},
+"_tag": "P750_s2_d9_COMPARTE_44558044",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 908,
+"via": "canal",
+"de": 10,
+"objeto": "net",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.0,
+"peso": 1.0,
+"dia_emisora": 9,
+"tick_emisora": 659,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": -2.0
+},
+"_tag": "P750_s2_d9_COMPARTE_44558044",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 0,
+"via": "noche",
+"de": 10,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.95,
+"peso": 1.95,
+"dia_emisora": 9,
+"tick_emisora": 14930,
+"efecto": {
+"cuerpo": -4.8,
+"recursos": -1.0,
+"vinculo": 0.0
+},
+"_tag": "P750_s3_d10_COMPARTE_45395876",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 0,
+"via": "noche",
+"de": 10,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.2512,
+"peso": 1.2512,
+"dia_emisora": 9,
+"tick_emisora": 14955,
+"efecto": {
+"cuerpo": -5.0,
+"recursos": -1.0,
+"vinculo": 0.0
+},
+"_tag": "P750_s3_d10_COMPARTE_45395876",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 858,
+"via": "canal",
+"de": 10,
+"objeto": "net",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.0,
+"peso": 1.0,
+"dia_emisora": 10,
+"tick_emisora": 593,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 1.0,
+"vinculo": 1.7481
+},
+"_tag": "P750_s3_d10_COMPARTE_45395876",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 908,
+"via": "canal",
+"de": 10,
+"objeto": "camouflage",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 2.0,
+"peso": 2.0,
+"dia_emisora": 10,
+"tick_emisora": 626,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": -1.0
+},
+"_tag": "P750_s3_d10_COMPARTE_45395876",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 11558,
+"via": "canal",
+"de": 10,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.909,
+"peso": 1.909,
+"dia_emisora": 10,
+"tick_emisora": 11523,
+"efecto": {
+"cuerpo": 11.0,
+"recursos": -1.0,
+"vinculo": -0.2361
+},
+"_tag": "P750_s3_d10_COMPARTE_45395876",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 11608,
+"via": "canal",
+"de": 10,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.032,
+"peso": 1.032,
+"dia_emisora": 10,
+"tick_emisora": 11550,
+"efecto": {
+"cuerpo": 15.0,
+"recursos": -1.0,
+"vinculo": -1.0
+},
+"_tag": "P750_s3_d10_COMPARTE_45395876",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 11658,
+"via": "canal",
+"de": 10,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.226,
+"peso": 1.226,
+"dia_emisora": 10,
+"tick_emisora": 11575,
+"efecto": {
+"cuerpo": 15.0,
+"recursos": -1.0,
+"vinculo": 0.4142
+},
+"_tag": "P750_s3_d10_COMPARTE_45395876",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 11633,
+"via": "canal",
+"de": 11,
+"objeto": "first_aid",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 4.0,
+"peso": 4.0,
+"dia_emisora": 10,
+"tick_emisora": 11578,
+"efecto": {
+"cuerpo": 8.0,
+"recursos": -3.0,
+"vinculo": 2.0
+},
+"_tag": "P750_s3_d10_COMPARTE_45395876",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 883,
+"via": "canal",
+"de": 11,
+"objeto": "camouflage",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 4.0,
+"peso": 4.0,
+"dia_emisora": 11,
+"tick_emisora": 626,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 13.0,
+"vinculo": 4.5858
+},
+"_tag": "P750_s3_d11_COMPARTE_43406025",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 11758,
+"via": "canal",
+"de": 11,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 3.594,
+"peso": 3.594,
+"dia_emisora": 11,
+"tick_emisora": 11522,
+"efecto": {
+"cuerpo": 11.0,
+"recursos": -3.0,
+"vinculo": 2.4721
+},
+"_tag": "P750_s3_d11_COMPARTE_43406025",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 12783,
+"via": "canal",
+"de": 11,
+"objeto": "first_aid",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 3.312,
+"peso": 3.312,
+"dia_emisora": 11,
+"tick_emisora": 12710,
+"efecto": {
+"cuerpo": 50.0,
+"recursos": -1.0,
+"vinculo": -0.9608
+},
+"_tag": "P750_s3_d11_COMPARTE_43406025",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 8159,
+"via": "canal",
+"de": 10,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.495,
+"peso": 1.495,
+"dia_emisora": 11,
+"tick_emisora": 8124,
+"efecto": {
+"cuerpo": 6.0,
+"recursos": -1.0,
+"vinculo": -0.5279
+},
+"_tag": "P750_s3_d11_COMPARTE_43406025",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 11758,
+"via": "canal",
+"de": 10,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 2.021,
+"peso": 2.021,
+"dia_emisora": 11,
+"tick_emisora": 11639,
+"efecto": {
+"cuerpo": 11.0,
+"recursos": -1.0,
+"vinculo": -0.831
+},
+"_tag": "P750_s3_d11_COMPARTE_43406025",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 12083,
+"via": "canal",
+"de": 10,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.643,
+"peso": 1.643,
+"dia_emisora": 11,
+"tick_emisora": 11925,
+"efecto": {
+"cuerpo": 11.0,
+"recursos": -1.0,
+"vinculo": 1.3099
+},
+"_tag": "P750_s3_d11_COMPARTE_43406025",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 1408,
+"via": "canal",
+"de": 11,
+"objeto": "camouflage",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.004,
+"peso": 1.004,
+"dia_emisora": 12,
+"tick_emisora": 967,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": -0.4817
+},
+"_tag": "P750_s3_d12_COMPARTE_43510754",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 1983,
+"via": "canal",
+"de": 11,
+"objeto": "net",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.01,
+"peso": 1.01,
+"dia_emisora": 12,
+"tick_emisora": 1734,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": 1.7481
+},
+"_tag": "P750_s3_d12_COMPARTE_43510754",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 11758,
+"via": "canal",
+"de": 11,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.381,
+"peso": 1.381,
+"dia_emisora": 12,
+"tick_emisora": 11710,
+"efecto": {
+"cuerpo": 3.0,
+"recursos": -1.0,
+"vinculo": -1.3099
+},
+"_tag": "P750_s3_d12_COMPARTE_43510754",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 11808,
+"via": "canal",
+"de": 11,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 3.186,
+"peso": 3.186,
+"dia_emisora": 12,
+"tick_emisora": 11750,
+"efecto": {
+"cuerpo": 6.0,
+"recursos": -1.0,
+"vinculo": 0.0
+},
+"_tag": "P750_s3_d12_COMPARTE_43510754",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 11883,
+"via": "canal",
+"de": 11,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 2.982,
+"peso": 2.982,
+"dia_emisora": 12,
+"tick_emisora": 11838,
+"efecto": {
+"cuerpo": 8.0,
+"recursos": -1.0,
+"vinculo": 0.0
+},
+"_tag": "P750_s3_d12_COMPARTE_43510754",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 13283,
+"via": "canal",
+"de": 11,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 3.064,
+"peso": 3.064,
+"dia_emisora": 12,
+"tick_emisora": 13254,
+"efecto": {
+"cuerpo": 15.0,
+"recursos": -1.0,
+"vinculo": -1.0
+},
+"_tag": "P750_s3_d12_COMPARTE_43510754",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 13983,
+"via": "canal",
+"de": 11,
+"objeto": "rations",
+"situacion": "fuera",
+"B": 1.0,
+"intensidad_emisora": 4.0,
+"peso": 4.0,
+"dia_emisora": 12,
+"tick_emisora": 13946,
+"efecto": {
+"cuerpo": 14.0,
+"recursos": 0.0,
+"vinculo": -0.8219
+},
+"_tag": "P750_s3_d12_COMPARTE_43510754",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 11733,
+"via": "canal",
+"de": 10,
+"objeto": "first_aid",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 2.063,
+"peso": 2.063,
+"dia_emisora": 12,
+"tick_emisora": 11680,
+"efecto": {
+"cuerpo": 22.0,
+"recursos": -1.0,
+"vinculo": 0.1623
+},
+"_tag": "P750_s3_d12_COMPARTE_43510754",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 908,
+"via": "canal",
+"de": 10,
+"objeto": "net",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 2.639,
+"peso": 2.639,
+"dia_emisora": 13,
+"tick_emisora": 646,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": 0.0
+},
+"_tag": "P750_s3_d13_COMPARTE_43615483",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 11708,
+"via": "canal",
+"de": 10,
+"objeto": "first_aid",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.641,
+"peso": 1.641,
+"dia_emisora": 13,
+"tick_emisora": 11643,
+"efecto": {
+"cuerpo": 11.0,
+"recursos": -1.0,
+"vinculo": 0.0
+},
+"_tag": "P750_s3_d13_COMPARTE_43615483",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 12558,
+"via": "canal",
+"de": 10,
+"objeto": "first_aid",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 2.472,
+"peso": 2.472,
+"dia_emisora": 13,
+"tick_emisora": 12504,
+"efecto": {
+"cuerpo": 29.0,
+"recursos": -1.0,
+"vinculo": 1.4142
+},
+"_tag": "P750_s3_d13_COMPARTE_43615483",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 908,
+"via": "canal",
+"de": 11,
+"objeto": "camouflage",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 4.0,
+"peso": 4.0,
+"dia_emisora": 13,
+"tick_emisora": 648,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": 1.2361
+},
+"_tag": "P750_s3_d13_COMPARTE_43615483",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 11608,
+"via": "canal",
+"de": 11,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.289,
+"peso": 1.289,
+"dia_emisora": 13,
+"tick_emisora": 11558,
+"efecto": {
+"cuerpo": 14.8,
+"recursos": -1.0,
+"vinculo": 0.2361
+},
+"_tag": "P750_s3_d13_COMPARTE_43615483",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 11658,
+"via": "canal",
+"de": 11,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 3.226,
+"peso": 3.226,
+"dia_emisora": 13,
+"tick_emisora": 11583,
+"efecto": {
+"cuerpo": 7.0,
+"recursos": -1.0,
+"vinculo": -1.2361
+},
+"_tag": "P750_s3_d13_COMPARTE_43615483",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 11758,
+"via": "canal",
+"de": 11,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 2.43,
+"peso": 2.43,
+"dia_emisora": 13,
+"tick_emisora": 11719,
+"efecto": {
+"cuerpo": 3.0,
+"recursos": -1.0,
+"vinculo": -1.8284
+},
+"_tag": "P750_s3_d13_COMPARTE_43615483",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 10433,
+"via": "canal",
+"de": 10,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.347,
+"peso": 1.347,
+"dia_emisora": 14,
+"tick_emisora": 10390,
+"efecto": {
+"cuerpo": 8.0,
+"recursos": -1.0,
+"vinculo": -2.0
+},
+"_tag": "P750_s3_d14_COMPARTE_43720212",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 933,
+"via": "canal",
+"de": 11,
+"objeto": "net",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.676,
+"peso": 1.676,
+"dia_emisora": 14,
+"tick_emisora": 679,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 1.0,
+"vinculo": 1.887
+},
+"_tag": "P750_s3_d14_COMPARTE_43720212",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 983,
+"via": "canal",
+"de": 11,
+"objeto": "camouflage",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 3.888,
+"peso": 3.888,
+"dia_emisora": 14,
+"tick_emisora": 734,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": 1.7481
+},
+"_tag": "P750_s3_d14_COMPARTE_43720212",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 12533,
+"via": "canal",
+"de": 11,
+"objeto": "first_aid",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 2.988,
+"peso": 2.988,
+"dia_emisora": 14,
+"tick_emisora": 11960,
+"efecto": {
+"cuerpo": 23.0,
+"recursos": -1.0,
+"vinculo": 2.2426
+},
+"_tag": "P750_s3_d14_COMPARTE_43720212",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 0,
+"via": "noche",
+"de": 11,
+"objeto": "first_aid",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 3.3798,
+"peso": 3.3798,
+"dia_emisora": 14,
+"tick_emisora": 14128,
+"efecto": {
+"cuerpo": 50.0,
+"recursos": -1.0,
+"vinculo": -2.0
+},
+"_tag": "P750_s3_d15_COMPARTE_43824941",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 783,
+"via": "canal",
+"de": 11,
+"objeto": "net",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 4.0,
+"peso": 4.0,
+"dia_emisora": 15,
+"tick_emisora": 539,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 3.0,
+"vinculo": -6.2111
+},
+"_tag": "P750_s3_d15_COMPARTE_43824941",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 2608,
+"via": "canal",
+"de": 11,
+"objeto": "first_aid",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 4.0,
+"peso": 4.0,
+"dia_emisora": 15,
+"tick_emisora": 2541,
+"efecto": {
+"cuerpo": 14.0,
+"recursos": -1.0,
+"vinculo": -3.3246
+},
+"_tag": "P750_s3_d15_COMPARTE_43824941",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 11683,
+"via": "canal",
+"de": 11,
+"objeto": "first_aid",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 2.216,
+"peso": 2.216,
+"dia_emisora": 15,
+"tick_emisora": 11632,
+"efecto": {
+"cuerpo": 11.0,
+"recursos": -1.0,
+"vinculo": 0.2361
+},
+"_tag": "P750_s3_d15_COMPARTE_43824941",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 8558,
+"via": "canal",
+"de": 10,
+"objeto": "camouflage",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.008,
+"peso": 1.008,
+"dia_emisora": 15,
+"tick_emisora": 8307,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": 0.5858
+},
+"_tag": "P750_s3_d15_COMPARTE_43824941",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 11833,
+"via": "canal",
+"de": 10,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 3.342,
+"peso": 3.342,
+"dia_emisora": 15,
+"tick_emisora": 11745,
+"efecto": {
+"cuerpo": 6.0,
+"recursos": -1.0,
+"vinculo": -2.6056
+},
+"_tag": "P750_s3_d15_COMPARTE_43824941",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 9558,
+"via": "canal",
+"de": 11,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.211,
+"peso": 1.211,
+"dia_emisora": 16,
+"tick_emisora": 9518,
+"efecto": {
+"cuerpo": 15.0,
+"recursos": -3.0,
+"vinculo": 1.8284
+},
+"_tag": "P750_s3_d16_COMPARTE_43929670",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 12083,
+"via": "canal",
+"de": 11,
+"objeto": "rations",
+"situacion": "fuera",
+"B": 1.0,
+"intensidad_emisora": 2.0,
+"peso": 2.0,
+"dia_emisora": 16,
+"tick_emisora": 12044,
+"efecto": {
+"cuerpo": 14.56,
+"recursos": -1.0,
+"vinculo": 1.3541
+},
+"_tag": "P750_s3_d16_COMPARTE_43929670",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 12133,
+"via": "canal",
+"de": 11,
+"objeto": "rations",
+"situacion": "fuera",
+"B": 1.0,
+"intensidad_emisora": 2.444,
+"peso": 2.444,
+"dia_emisora": 16,
+"tick_emisora": 12074,
+"efecto": {
+"cuerpo": 13.56,
+"recursos": -1.0,
+"vinculo": -2.1992
+},
+"_tag": "P750_s3_d16_COMPARTE_43929670",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 0,
+"via": "noche",
+"de": 10,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.6429,
+"peso": 1.6429,
+"dia_emisora": 15,
+"tick_emisora": 14026,
+"efecto": {
+"cuerpo": 15.0,
+"recursos": -1.0,
+"vinculo": -0.9973
+},
+"_tag": "P750_s3_d16_COMPARTE_43929670",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 0,
+"via": "noche",
+"de": 10,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.6372,
+"peso": 1.6372,
+"dia_emisora": 15,
+"tick_emisora": 14001,
+"efecto": {
+"cuerpo": 15.0,
+"recursos": -1.0,
+"vinculo": 0.0
+},
+"_tag": "P750_s3_d16_COMPARTE_43929670",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 0,
+"via": "noche",
+"de": 10,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.5183,
+"peso": 1.5183,
+"dia_emisora": 15,
+"tick_emisora": 14051,
+"efecto": {
+"cuerpo": 12.0,
+"recursos": -1.0,
+"vinculo": 0.0
+},
+"_tag": "P750_s3_d16_COMPARTE_43929670",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 0,
+"via": "noche",
+"de": 10,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.3929,
+"peso": 1.3929,
+"dia_emisora": 15,
+"tick_emisora": 14558,
+"efecto": {
+"cuerpo": 14.0,
+"recursos": -1.0,
+"vinculo": 3.0333
+},
+"_tag": "P750_s3_d16_COMPARTE_43929670",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 908,
+"via": "canal",
+"de": 10,
+"objeto": "net",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.0,
+"peso": 1.0,
+"dia_emisora": 16,
+"tick_emisora": 648,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": -2.099
+},
+"_tag": "P750_s3_d16_COMPARTE_43929670",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 1058,
+"via": "canal",
+"de": 11,
+"objeto": "net",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.116,
+"peso": 1.116,
+"dia_emisora": 17,
+"tick_emisora": 637,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": 0.0
+},
+"_tag": "P750_s3_d17_COMPARTE_44034399",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 14733,
+"via": "canal",
+"de": 11,
+"objeto": "first_aid",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 4.0,
+"peso": 4.0,
+"dia_emisora": 17,
+"tick_emisora": 14679,
+"efecto": {
+"cuerpo": 28.0,
+"recursos": -1.0,
+"vinculo": 0.0
+},
+"_tag": "P750_s3_d17_COMPARTE_44034399",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 14858,
+"via": "canal",
+"de": 11,
+"objeto": "first_aid",
+"situacion": "fuera",
+"B": 1.0,
+"intensidad_emisora": 1.856,
+"peso": 1.856,
+"dia_emisora": 17,
+"tick_emisora": 14785,
+"efecto": {
+"cuerpo": 20.0,
+"recursos": -1.0,
+"vinculo": 0.0
+},
+"_tag": "P750_s3_d17_COMPARTE_44034399",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 1383,
+"via": "canal",
+"de": 10,
+"objeto": "camouflage",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.009,
+"peso": 1.009,
+"dia_emisora": 17,
+"tick_emisora": 1129,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 7.0,
+"vinculo": 0.1623
+},
+"_tag": "P750_s3_d17_COMPARTE_44034399",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 14958,
+"via": "canal",
+"de": 10,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.684,
+"peso": 1.684,
+"dia_emisora": 17,
+"tick_emisora": 14930,
+"efecto": {
+"cuerpo": -5.0,
+"recursos": -1.0,
+"vinculo": 0.0
+},
+"_tag": "P750_s3_d17_COMPARTE_44034399",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 883,
+"via": "canal",
+"de": 10,
+"objeto": "net",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.0,
+"peso": 1.0,
+"dia_emisora": 18,
+"tick_emisora": 629,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 1.0,
+"vinculo": 0.2361
+},
+"_tag": "P750_s3_d18_COMPARTE_44139128",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 2158,
+"via": "canal",
+"de": 10,
+"objeto": "camouflage",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.985,
+"peso": 1.985,
+"dia_emisora": 18,
+"tick_emisora": 1893,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 2.0,
+"vinculo": -0.2361
+},
+"_tag": "P750_s3_d18_COMPARTE_44139128",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 12008,
+"via": "canal",
+"de": 10,
+"objeto": "first_aid",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.485,
+"peso": 1.485,
+"dia_emisora": 18,
+"tick_emisora": 11895,
+"efecto": {
+"cuerpo": 3.0,
+"recursos": -2.0,
+"vinculo": 1.8284
+},
+"_tag": "P750_s3_d18_COMPARTE_44139128",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 11958,
+"via": "canal",
+"de": 11,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.268,
+"peso": 1.268,
+"dia_emisora": 18,
+"tick_emisora": 11927,
+"efecto": {
+"cuerpo": 3.0,
+"recursos": -2.0,
+"vinculo": 0.8219
+},
+"_tag": "P750_s3_d18_COMPARTE_44139128",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 14608,
+"via": "canal",
+"de": 11,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 2.815,
+"peso": 2.815,
+"dia_emisora": 18,
+"tick_emisora": 14559,
+"efecto": {
+"cuerpo": 11.0,
+"recursos": -2.0,
+"vinculo": 2.0
+},
+"_tag": "P750_s3_d18_COMPARTE_44139128",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 14658,
+"via": "canal",
+"de": 11,
+"objeto": "rations",
+"situacion": "fuera",
+"B": 1.0,
+"intensidad_emisora": 1.154,
+"peso": 1.154,
+"dia_emisora": 18,
+"tick_emisora": 14594,
+"efecto": {
+"cuerpo": 14.68,
+"recursos": -1.0,
+"vinculo": -2.0
+},
+"_tag": "P750_s3_d18_COMPARTE_44139128",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 9558,
+"via": "canal",
+"de": 11,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 2.158,
+"peso": 2.158,
+"dia_emisora": 19,
+"tick_emisora": 9523,
+"efecto": {
+"cuerpo": 11.0,
+"recursos": -2.0,
+"vinculo": 0.0
+},
+"_tag": "P750_s3_d19_COMPARTE_44243857",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 9608,
+"via": "canal",
+"de": 11,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.278,
+"peso": 1.278,
+"dia_emisora": 19,
+"tick_emisora": 9568,
+"efecto": {
+"cuerpo": 11.0,
+"recursos": -2.0,
+"vinculo": 2.2426
+},
+"_tag": "P750_s3_d19_COMPARTE_44243857",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 11408,
+"via": "canal",
+"de": 11,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.502,
+"peso": 1.502,
+"dia_emisora": 19,
+"tick_emisora": 11366,
+"efecto": {
+"cuerpo": 15.0,
+"recursos": -3.0,
+"vinculo": 1.0
+},
+"_tag": "P750_s3_d19_COMPARTE_44243857",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 11958,
+"via": "canal",
+"de": 11,
+"objeto": "first_aid",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 4.0,
+"peso": 4.0,
+"dia_emisora": 19,
+"tick_emisora": 11838,
+"efecto": {
+"cuerpo": 49.0,
+"recursos": -1.0,
+"vinculo": 3.4655
+},
+"_tag": "P750_s3_d19_COMPARTE_44243857",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 13983,
+"via": "canal",
+"de": 11,
+"objeto": "first_aid",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 2.749,
+"peso": 2.749,
+"dia_emisora": 19,
+"tick_emisora": 13924,
+"efecto": {
+"cuerpo": 44.0,
+"recursos": -1.0,
+"vinculo": -0.4142
+},
+"_tag": "P750_s3_d19_COMPARTE_44243857",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 1283,
+"via": "canal",
+"de": 10,
+"objeto": "camouflage",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.004,
+"peso": 1.004,
+"dia_emisora": 19,
+"tick_emisora": 1033,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": -4.3852
+},
+"_tag": "P750_s3_d19_COMPARTE_44243857",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 11583,
+"via": "canal",
+"de": 10,
+"objeto": "first_aid",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.785,
+"peso": 1.785,
+"dia_emisora": 19,
+"tick_emisora": 11509,
+"efecto": {
+"cuerpo": 8.0,
+"recursos": -1.0,
+"vinculo": 0.1623
+},
+"_tag": "P750_s3_d19_COMPARTE_44243857",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 12008,
+"via": "canal",
+"de": 10,
+"objeto": "first_aid",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.996,
+"peso": 1.996,
+"dia_emisora": 19,
+"tick_emisora": 11910,
+"efecto": {
+"cuerpo": 22.0,
+"recursos": -1.0,
+"vinculo": -1.7082
+},
+"_tag": "P750_s3_d19_COMPARTE_44243857",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 13933,
+"via": "canal",
+"de": 11,
+"objeto": "rations",
+"situacion": "fuera",
+"B": 1.0,
+"intensidad_emisora": 4.0,
+"peso": 4.0,
+"dia_emisora": 1,
+"tick_emisora": 13898,
+"efecto": {
+"cuerpo": 14.0,
+"recursos": -1.0,
+"vinculo": 0.0
+},
+"_tag": "P750_s3_d1_COMPARTE_44453315",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 14633,
+"via": "canal",
+"de": 11,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 4.0,
+"peso": 4.0,
+"dia_emisora": 1,
+"tick_emisora": 14584,
+"efecto": {
+"cuerpo": 15.0,
+"recursos": -1.0,
+"vinculo": 0.0
+},
+"_tag": "P750_s3_d1_COMPARTE_44453315",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 908,
+"via": "canal",
+"de": 10,
+"objeto": "camouflage",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.0,
+"peso": 1.0,
+"dia_emisora": 1,
+"tick_emisora": 648,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 13.0,
+"vinculo": 3.099
+},
+"_tag": "P750_s3_d1_COMPARTE_44453315",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 958,
+"via": "canal",
+"de": 10,
+"objeto": "net",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.0,
+"peso": 1.0,
+"dia_emisora": 1,
+"tick_emisora": 670,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 12.0,
+"vinculo": 1.4935
+},
+"_tag": "P750_s3_d1_COMPARTE_44453315",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 1083,
+"via": "canal",
+"de": 11,
+"objeto": "camouflage",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.055,
+"peso": 1.055,
+"dia_emisora": 20,
+"tick_emisora": 835,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": -0.4142
+},
+"_tag": "P750_s3_d20_COMPARTE_44348586",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 12058,
+"via": "canal",
+"de": 10,
+"objeto": "first_aid",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 2.123,
+"peso": 2.123,
+"dia_emisora": 20,
+"tick_emisora": 11869,
+"efecto": {
+"cuerpo": 28.0,
+"recursos": -1.0,
+"vinculo": -1.2426
+},
+"_tag": "P750_s3_d20_COMPARTE_44348586",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 2258,
+"via": "canal",
+"de": 10,
+"objeto": "net",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 2.993,
+"peso": 2.993,
+"dia_emisora": 2,
+"tick_emisora": 1726,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": 0.0
+},
+"_tag": "P750_s3_d2_COMPARTE_44558044",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 2308,
+"via": "canal",
+"de": 10,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 2.956,
+"peso": 2.956,
+"dia_emisora": 2,
+"tick_emisora": 2278,
+"efecto": {
+"cuerpo": 15.0,
+"recursos": -1.0,
+"vinculo": -1.0828
+},
+"_tag": "P750_s3_d2_COMPARTE_44558044",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 12283,
+"via": "canal",
+"de": 10,
+"objeto": "first_aid",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 2.639,
+"peso": 2.639,
+"dia_emisora": 2,
+"tick_emisora": 12215,
+"efecto": {
+"cuerpo": 32.0,
+"recursos": -1.0,
+"vinculo": 0.4142
+},
+"_tag": "P750_s3_d2_COMPARTE_44558044",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 12533,
+"via": "canal",
+"de": 10,
+"objeto": "camouflage",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.426,
+"peso": 1.426,
+"dia_emisora": 2,
+"tick_emisora": 12276,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": 1.0
+},
+"_tag": "P750_s3_d2_COMPARTE_44558044",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 12708,
+"via": "canal",
+"de": 10,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 2.0,
+"peso": 2.0,
+"dia_emisora": 2,
+"tick_emisora": 12560,
+"efecto": {
+"cuerpo": 3.0,
+"recursos": -1.0,
+"vinculo": 2.6687
+},
+"_tag": "P750_s3_d2_COMPARTE_44558044",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 12758,
+"via": "canal",
+"de": 10,
+"objeto": "rations",
+"situacion": "fuera",
+"B": 1.0,
+"intensidad_emisora": 2.358,
+"peso": 2.358,
+"dia_emisora": 2,
+"tick_emisora": 12698,
+"efecto": {
+"cuerpo": 13.56,
+"recursos": -1.0,
+"vinculo": -2.0822
+},
+"_tag": "P750_s3_d2_COMPARTE_44558044",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 0,
+"via": "noche",
+"de": 10,
+"objeto": "first_aid",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.8175,
+"peso": 1.8175,
+"dia_emisora": 2,
+"tick_emisora": 12819,
+"efecto": {
+"cuerpo": 20.0,
+"recursos": -1.0,
+"vinculo": -0.1195
+},
+"_tag": "P750_s3_d3_COMPARTE_44662773",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 11858,
+"via": "canal",
+"de": 10,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.979,
+"peso": 1.979,
+"dia_emisora": 3,
+"tick_emisora": 11608,
+"efecto": {
+"cuerpo": 15.0,
+"recursos": -1.0,
+"vinculo": 2.4772
+},
+"_tag": "P750_s3_d3_COMPARTE_44662773",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 11858,
+"via": "canal",
+"de": 11,
+"objeto": "first_aid",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 4.0,
+"peso": 4.0,
+"dia_emisora": 3,
+"tick_emisora": 11610,
+"efecto": {
+"cuerpo": 8.0,
+"recursos": -3.0,
+"vinculo": 3.4655
+},
+"_tag": "P750_s3_d3_COMPARTE_44662773",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 11908,
+"via": "canal",
+"de": 11,
+"objeto": "first_aid",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 4.0,
+"peso": 4.0,
+"dia_emisora": 3,
+"tick_emisora": 11835,
+"efecto": {
+"cuerpo": 15.0,
+"recursos": -1.0,
+"vinculo": -1.2361
+},
+"_tag": "P750_s3_d3_COMPARTE_44662773",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 0,
+"via": "noche",
+"de": 11,
+"objeto": "first_aid",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 4.0,
+"peso": 4.0,
+"dia_emisora": 3,
+"tick_emisora": 12562,
+"efecto": {
+"cuerpo": 50.0,
+"recursos": -2.0,
+"vinculo": 0.0
+},
+"_tag": "P750_s3_d4_COMPARTE_44767502",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 0,
+"via": "noche",
+"de": 11,
+"objeto": "first_aid",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 3.5814,
+"peso": 3.5814,
+"dia_emisora": 3,
+"tick_emisora": 12615,
+"efecto": {
+"cuerpo": 45.0,
+"recursos": -1.0,
+"vinculo": -0.6056
+},
+"_tag": "P750_s3_d4_COMPARTE_44767502",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 758,
+"via": "canal",
+"de": 11,
+"objeto": "net",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 4.0,
+"peso": 4.0,
+"dia_emisora": 4,
+"tick_emisora": 516,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": -4.4167
+},
+"_tag": "P750_s3_d4_COMPARTE_44767502",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 933,
+"via": "canal",
+"de": 11,
+"objeto": "net",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 4.0,
+"peso": 4.0,
+"dia_emisora": 5,
+"tick_emisora": 681,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": 0.2426
+},
+"_tag": "P750_s3_d5_COMPARTE_44872231",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 0,
+"via": "noche",
+"de": 10,
+"objeto": "first_aid",
+"situacion": "fuera",
+"B": 1.0,
+"intensidad_emisora": 3.6562,
+"peso": 3.6562,
+"dia_emisora": 4,
+"tick_emisora": 11884,
+"efecto": {
+"cuerpo": 50.0,
+"recursos": -1.0,
+"vinculo": -3.5858
+},
+"_tag": "P750_s3_d5_COMPARTE_44872231",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 0,
+"via": "noche",
+"de": 10,
+"objeto": "rations",
+"situacion": "fuera",
+"B": 1.0,
+"intensidad_emisora": 1.3656,
+"peso": 1.3656,
+"dia_emisora": 4,
+"tick_emisora": 12646,
+"efecto": {
+"cuerpo": 14.56,
+"recursos": -1.0,
+"vinculo": -0.3852
+},
+"_tag": "P750_s3_d5_COMPARTE_44872231",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 758,
+"via": "canal",
+"de": 10,
+"objeto": "net",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.946,
+"peso": 1.946,
+"dia_emisora": 5,
+"tick_emisora": 516,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 1.0,
+"vinculo": -3.1027
+},
+"_tag": "P750_s3_d5_COMPARTE_44872231",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 883,
+"via": "canal",
+"de": 10,
+"objeto": "camouflage",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.854,
+"peso": 1.854,
+"dia_emisora": 5,
+"tick_emisora": 626,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 1.0,
+"vinculo": 1.8284
+},
+"_tag": "P750_s3_d5_COMPARTE_44872231",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 883,
+"via": "canal",
+"de": 11,
+"objeto": "net",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.721,
+"peso": 1.721,
+"dia_emisora": 6,
+"tick_emisora": 637,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": 0.0
+},
+"_tag": "P750_s3_d6_COMPARTE_44976960",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 2333,
+"via": "canal",
+"de": 11,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.397,
+"peso": 1.397,
+"dia_emisora": 6,
+"tick_emisora": 2110,
+"efecto": {
+"cuerpo": 14.0,
+"recursos": -1.0,
+"vinculo": 0.5991
+},
+"_tag": "P750_s3_d6_COMPARTE_44976960",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 8458,
+"via": "canal",
+"de": 10,
+"objeto": "first_aid",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 4.0,
+"peso": 4.0,
+"dia_emisora": 7,
+"tick_emisora": 8398,
+"efecto": {
+"cuerpo": 50.0,
+"recursos": -1.0,
+"vinculo": 0.0
+},
+"_tag": "P750_s3_d7_COMPARTE_45081689",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 8508,
+"via": "canal",
+"de": 10,
+"objeto": "first_aid",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 2.668,
+"peso": 2.668,
+"dia_emisora": 7,
+"tick_emisora": 8447,
+"efecto": {
+"cuerpo": 47.0,
+"recursos": -1.0,
+"vinculo": 0.4142
+},
+"_tag": "P750_s3_d7_COMPARTE_45081689",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 11833,
+"via": "canal",
+"de": 10,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.213,
+"peso": 1.213,
+"dia_emisora": 7,
+"tick_emisora": 11805,
+"efecto": {
+"cuerpo": 3.0,
+"recursos": -1.0,
+"vinculo": 0.0
+},
+"_tag": "P750_s3_d7_COMPARTE_45081689",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 12333,
+"via": "canal",
+"de": 10,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.166,
+"peso": 1.166,
+"dia_emisora": 7,
+"tick_emisora": 12304,
+"efecto": {
+"cuerpo": 3.0,
+"recursos": -1.0,
+"vinculo": 1.7481
+},
+"_tag": "P750_s3_d7_COMPARTE_45081689",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 13883,
+"via": "canal",
+"de": 10,
+"objeto": "rations",
+"situacion": "fuera",
+"B": 1.0,
+"intensidad_emisora": 2.207,
+"peso": 2.207,
+"dia_emisora": 7,
+"tick_emisora": 13850,
+"efecto": {
+"cuerpo": 14.0,
+"recursos": -1.0,
+"vinculo": -0.4142
+},
+"_tag": "P750_s3_d7_COMPARTE_45081689",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 1858,
+"via": "canal",
+"de": 11,
+"objeto": "net",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.552,
+"peso": 1.552,
+"dia_emisora": 7,
+"tick_emisora": 1308,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": -6.6935
+},
+"_tag": "P750_s3_d7_COMPARTE_45081689",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 8483,
+"via": "canal",
+"de": 11,
+"objeto": "camouflage",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 4.0,
+"peso": 4.0,
+"dia_emisora": 7,
+"tick_emisora": 8220,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": -7.6023
+},
+"_tag": "P750_s3_d7_COMPARTE_45081689",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 12383,
+"via": "canal",
+"de": 11,
+"objeto": "first_aid",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.752,
+"peso": 1.752,
+"dia_emisora": 7,
+"tick_emisora": 12327,
+"efecto": {
+"cuerpo": 6.0,
+"recursos": -1.0,
+"vinculo": -0.9262
+},
+"_tag": "P750_s3_d7_COMPARTE_45081689",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 13708,
+"via": "canal",
+"de": 11,
+"objeto": "first_aid",
+"situacion": "fuera",
+"B": 1.0,
+"intensidad_emisora": 3.705,
+"peso": 3.705,
+"dia_emisora": 7,
+"tick_emisora": 13635,
+"efecto": {
+"cuerpo": 14.0,
+"recursos": -1.0,
+"vinculo": 1.0
+},
+"_tag": "P750_s3_d7_COMPARTE_45081689",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 13883,
+"via": "canal",
+"de": 11,
+"objeto": "first_aid",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 2.099,
+"peso": 2.099,
+"dia_emisora": 7,
+"tick_emisora": 13827,
+"efecto": {
+"cuerpo": 27.0,
+"recursos": -1.0,
+"vinculo": -3.0
+},
+"_tag": "P750_s3_d7_COMPARTE_45081689",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 14158,
+"via": "canal",
+"de": 11,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.641,
+"peso": 1.641,
+"dia_emisora": 7,
+"tick_emisora": 14109,
+"efecto": {
+"cuerpo": 15.0,
+"recursos": -1.0,
+"vinculo": 0.0
+},
+"_tag": "P750_s3_d7_COMPARTE_45081689",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 0,
+"via": "noche",
+"de": 10,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 4.0,
+"peso": 4.0,
+"dia_emisora": 7,
+"tick_emisora": 14713,
+"efecto": {
+"cuerpo": 14.5,
+"recursos": -1.0,
+"vinculo": 0.0
+},
+"_tag": "P750_s3_d8_COMPARTE_45186418",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 9308,
+"via": "canal",
+"de": 10,
+"objeto": "first_aid",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.875,
+"peso": 1.875,
+"dia_emisora": 8,
+"tick_emisora": 9247,
+"efecto": {
+"cuerpo": 11.0,
+"recursos": -1.0,
+"vinculo": -0.8219
+},
+"_tag": "P750_s3_d8_COMPARTE_45186418",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 11833,
+"via": "canal",
+"de": 10,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.237,
+"peso": 1.237,
+"dia_emisora": 8,
+"tick_emisora": 11783,
+"efecto": {
+"cuerpo": 11.0,
+"recursos": -1.0,
+"vinculo": 0.0
+},
+"_tag": "P750_s3_d8_COMPARTE_45186418",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 12458,
+"via": "canal",
+"de": 10,
+"objeto": "first_aid",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 2.801,
+"peso": 2.801,
+"dia_emisora": 8,
+"tick_emisora": 12397,
+"efecto": {
+"cuerpo": 27.0,
+"recursos": -1.0,
+"vinculo": 2.0066
+},
+"_tag": "P750_s3_d8_COMPARTE_45186418",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 12733,
+"via": "canal",
+"de": 10,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.95,
+"peso": 1.95,
+"dia_emisora": 8,
+"tick_emisora": 12705,
+"efecto": {
+"cuerpo": 15.0,
+"recursos": -1.0,
+"vinculo": 3.4208
+},
+"_tag": "P750_s3_d8_COMPARTE_45186418",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 12808,
+"via": "canal",
+"de": 10,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.411,
+"peso": 1.411,
+"dia_emisora": 8,
+"tick_emisora": 12730,
+"efecto": {
+"cuerpo": 15.56,
+"recursos": -1.0,
+"vinculo": 2.1534
+},
+"_tag": "P750_s3_d8_COMPARTE_45186418",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 908,
+"via": "canal",
+"de": 11,
+"objeto": "net",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 2.0,
+"peso": 2.0,
+"dia_emisora": 8,
+"tick_emisora": 646,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 2.0,
+"vinculo": 0.0
+},
+"_tag": "P750_s3_d8_COMPARTE_45186418",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 958,
+"via": "canal",
+"de": 11,
+"objeto": "camouflage",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 3.839,
+"peso": 3.839,
+"dia_emisora": 8,
+"tick_emisora": 714,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 1.0,
+"vinculo": 2.1913
+},
+"_tag": "P750_s3_d8_COMPARTE_45186418",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 10433,
+"via": "canal",
+"de": 11,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 2.501,
+"peso": 2.501,
+"dia_emisora": 8,
+"tick_emisora": 10390,
+"efecto": {
+"cuerpo": 11.0,
+"recursos": -1.0,
+"vinculo": 0.9262
+},
+"_tag": "P750_s3_d8_COMPARTE_45186418",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 12283,
+"via": "canal",
+"de": 11,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 2.098,
+"peso": 2.098,
+"dia_emisora": 8,
+"tick_emisora": 12245,
+"efecto": {
+"cuerpo": 14.0,
+"recursos": -1.0,
+"vinculo": -2.0
+},
+"_tag": "P750_s3_d8_COMPARTE_45186418",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 12383,
+"via": "canal",
+"de": 11,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 2.142,
+"peso": 2.142,
+"dia_emisora": 8,
+"tick_emisora": 12340,
+"efecto": {
+"cuerpo": 11.0,
+"recursos": -1.0,
+"vinculo": -1.8284
+},
+"_tag": "P750_s3_d8_COMPARTE_45186418",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 12458,
+"via": "canal",
+"de": 11,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.387,
+"peso": 1.387,
+"dia_emisora": 8,
+"tick_emisora": 12410,
+"efecto": {
+"cuerpo": 3.0,
+"recursos": -1.0,
+"vinculo": 0.8219
+},
+"_tag": "P750_s3_d8_COMPARTE_45186418",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 13008,
+"via": "canal",
+"de": 11,
+"objeto": "first_aid",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 3.582,
+"peso": 3.582,
+"dia_emisora": 8,
+"tick_emisora": 12868,
+"efecto": {
+"cuerpo": 46.0,
+"recursos": -1.0,
+"vinculo": 0.0
+},
+"_tag": "P750_s3_d8_COMPARTE_45186418",
+"_sl": "10"
+},
+{
+"k": "P7_48_contado",
+"tick": 1208,
+"via": "canal",
+"de": 10,
+"objeto": "camouflage",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.019,
+"peso": 1.019,
+"dia_emisora": 9,
+"tick_emisora": 962,
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": -6.3079
+},
+"_tag": "P750_s3_d9_COMPARTE_45291147",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 10433,
+"via": "canal",
+"de": 10,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.583,
+"peso": 1.583,
+"dia_emisora": 9,
+"tick_emisora": 10385,
+"efecto": {
+"cuerpo": 11.0,
+"recursos": -1.0,
+"vinculo": 0.0
+},
+"_tag": "P750_s3_d9_COMPARTE_45291147",
+"_sl": "11"
+},
+{
+"k": "P7_48_contado",
+"tick": 11733,
+"via": "canal",
+"de": 10,
+"objeto": "rations",
+"situacion": "dentro",
+"B": 1.0,
+"intensidad_emisora": 1.929,
+"peso": 1.929,
+"dia_emisora": 9,
+"tick_emisora": 11692,
+"efecto": {
+"cuerpo": 8.0,
+"recursos": -1.0,
+"vinculo": 1.2361
+},
+"_tag": "P750_s3_d9_COMPARTE_45291147",
+"_sl": "11"
+}
+],
+"VIS": [
+{
+"k": "P7_48_visto",
+"tick": 1233,
+"estado": "apuntado",
+"objeto": "camouflage",
+"situacion": "dentro",
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": 0.0
+},
+"importancia": {
+"cuerpo": 0.0131,
+"recursos": 0.0028,
+"vinculo": 0.0117
+},
+"intensidad_sin_B": 1.1708,
+"B": 1.0,
+"peso": 1.1708,
+"hacia": [
+"mano:sword",
+"cuerpo:camouflage",
+"quieta",
+"dist:1"
+],
+"t0": 1187,
+"_tag": "P750_s1_d10_COMPARTE_44348586",
+"_sl": "10"
+},
+{
+"k": "P7_48_visto",
+"tick": 2108,
+"estado": "apuntado",
+"objeto": "camouflage",
+"situacion": "dentro",
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": 0.0
+},
+"importancia": {
+"cuerpo": 0.0317,
+"recursos": 0.008,
+"vinculo": 0.0403
+},
+"intensidad_sin_B": 1.496,
+"B": 1.0,
+"peso": 1.496,
+"hacia": [
+"mano:net",
+"cuerpo:camouflage",
+"quieta",
+"dist:3"
+],
+"t0": 2078,
+"_tag": "P750_s1_d13_COMPARTE_44662773",
+"_sl": "10"
+},
+{
+"k": "P7_48_visto",
+"tick": 1208,
+"estado": "apuntado",
+"objeto": "camouflage",
+"situacion": "dentro",
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": 0.0
+},
+"importancia": {
+"cuerpo": 0.0071,
+"recursos": 0.0009,
+"vinculo": 0.0009
+},
+"intensidad_sin_B": 1.0553,
+"B": 1.0,
+"peso": 1.0553,
+"hacia": [
+"mano:net",
+"cuerpo:camouflage",
+"quieta",
+"dist:5"
+],
+"t0": 1164,
+"_tag": "P750_s1_d14_COMPARTE_44767502",
+"_sl": "10"
+},
+{
+"k": "P7_48_visto",
+"tick": 708,
+"estado": "apuntado",
+"objeto": "camouflage",
+"situacion": "dentro",
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": 0.0
+},
+"importancia": {
+"cuerpo": 0,
+"recursos": 0,
+"vinculo": 0
+},
+"intensidad_sin_B": 1.0,
+"B": 1.0,
+"peso": 1.0,
+"hacia": [
+"mano:net",
+"cuerpo:camouflage",
+"quieta",
+"dist:1"
+],
+"t0": 670,
+"_tag": "P750_s1_d15_COMPARTE_44872231",
+"_sl": "11"
+},
+{
+"k": "P7_48_visto",
+"tick": 2658,
+"estado": "apuntado",
+"objeto": "camouflage",
+"situacion": "dentro",
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": 0.0
+},
+"importancia": {
+"cuerpo": 0.2448,
+"recursos": 0.033,
+"vinculo": 0.0974
+},
+"intensidad_sin_B": 3.3068,
+"B": 1.0,
+"peso": 3.3068,
+"hacia": [
+"mano:none",
+"cuerpo:camouflage",
+"quieta",
+"dist:3"
+],
+"t0": 2573,
+"_tag": "P750_s1_d16_COMPARTE_44976960",
+"_sl": "10"
+},
+{
+"k": "P7_48_visto",
+"tick": 2758,
+"estado": "apuntado",
+"objeto": "camouflage",
+"situacion": "dentro",
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": 0.0
+},
+"importancia": {
+"cuerpo": 0.1178,
+"recursos": 0.2202,
+"vinculo": 0.3916
+},
+"intensidad_sin_B": 4.0,
+"B": 1.0,
+"peso": 4.0,
+"hacia": [
+"mano:none",
+"cuerpo:camouflage",
+"quieta",
+"dist:1"
+],
+"t0": 2707,
+"_tag": "P750_s1_d16_COMPARTE_44976960",
+"_sl": "10"
+},
+{
+"k": "P7_48_visto",
+"tick": 1708,
+"estado": "apuntado",
+"objeto": "camouflage",
+"situacion": "dentro",
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": 0.0
+},
+"importancia": {
+"cuerpo": 0.0138,
+"recursos": 0.0029,
+"vinculo": 0.0127
+},
+"intensidad_sin_B": 1.1827,
+"B": 1.0,
+"peso": 1.1827,
+"hacia": [
+"mano:bow",
+"cuerpo:camouflage",
+"quieta",
+"dist:1"
+],
+"t0": 1668,
+"_tag": "P750_s1_d17_COMPARTE_45081689",
+"_sl": "11"
+},
+{
+"k": "P7_48_visto",
+"tick": 1008,
+"estado": "apuntado",
+"objeto": "camouflage",
+"situacion": "dentro",
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": 0.0
+},
+"importancia": {
+"cuerpo": 0.005,
+"recursos": 0.0014,
+"vinculo": 0.0077
+},
+"intensidad_sin_B": 1.0871,
+"B": 1.0,
+"peso": 1.0871,
+"hacia": [
+"mano:none",
+"cuerpo:camouflage",
+"quieta",
+"dist:1"
+],
+"t0": 968,
+"_tag": "P750_s1_d18_COMPARTE_45186418",
+"_sl": "10"
+},
+{
+"k": "P7_48_visto",
+"tick": 1108,
+"estado": "apuntado",
+"objeto": "camouflage",
+"situacion": "dentro",
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": 0.0
+},
+"importancia": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": 0.0
+},
+"intensidad_sin_B": 1.0,
+"B": 1.0,
+"peso": 1.0,
+"hacia": [
+"mano:none",
+"cuerpo:camouflage",
+"quieta",
+"dist:3"
+],
+"t0": 1066,
+"_tag": "P750_s1_d19_COMPARTE_45291147",
+"_sl": "10"
+},
+{
+"k": "P7_48_visto",
+"tick": 658,
+"estado": "apuntado",
+"objeto": "camouflage",
+"situacion": "dentro",
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": 0.0
+},
+"importancia": {
+"cuerpo": 0,
+"recursos": 0,
+"vinculo": 0
+},
+"intensidad_sin_B": 1.0,
+"B": 1.0,
+"peso": 1.0,
+"hacia": [
+"mano:none",
+"cuerpo:camouflage",
+"quieta",
+"dist:1"
+],
+"t0": 615,
+"_tag": "P750_s1_d1_COMPARTE_43406025",
+"_sl": "11"
+},
+{
+"k": "P7_48_visto",
+"tick": 1108,
+"estado": "apuntado",
+"objeto": "camouflage",
+"situacion": "dentro",
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": 0.0
+},
+"importancia": {
+"cuerpo": 0.2217,
+"recursos": 0.0314,
+"vinculo": 0.0608
+},
+"intensidad_sin_B": 2.9425,
+"B": 1.0,
+"peso": 2.9425,
+"hacia": [
+"mano:none",
+"cuerpo:camouflage",
+"quieta",
+"dist:1"
+],
+"t0": 1066,
+"_tag": "P750_s1_d20_COMPARTE_45395876",
+"_sl": "10"
+},
+{
+"k": "P7_48_visto",
+"tick": 683,
+"estado": "apuntado",
+"objeto": "camouflage",
+"situacion": "dentro",
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": 0.0
+},
+"importancia": {
+"cuerpo": 0,
+"recursos": 0,
+"vinculo": 0
+},
+"intensidad_sin_B": 1.0,
+"B": 1.0,
+"peso": 1.0,
+"hacia": [
+"mano:none",
+"cuerpo:camouflage",
+"quieta",
+"dist:2"
+],
+"t0": 635,
+"_tag": "P750_s1_d3_COMPARTE_43615483",
+"_sl": "11"
+},
+{
+"k": "P7_48_visto",
+"tick": 758,
+"estado": "apuntado",
+"objeto": "camouflage",
+"situacion": "dentro",
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": 0.0
+},
+"importancia": {
+"cuerpo": 0,
+"recursos": 0,
+"vinculo": 0
+},
+"intensidad_sin_B": 1.0,
+"B": 1.0,
+"peso": 1.0,
+"hacia": [
+"mano:none",
+"cuerpo:camouflage",
+"quieta",
+"dist:4"
+],
+"t0": 725,
+"_tag": "P750_s1_d4_COMPARTE_43720212",
+"_sl": "11"
+},
+{
+"k": "P7_48_visto",
+"tick": 2458,
+"estado": "apuntado",
+"objeto": "camouflage",
+"situacion": "dentro",
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": 0.0
+},
+"importancia": {
+"cuerpo": 0.0014,
+"recursos": 0.0002,
+"vinculo": 0.0002
+},
+"intensidad_sin_B": 1.0132,
+"B": 1.0,
+"peso": 1.0132,
+"hacia": [
+"mano:spear",
+"cuerpo:camouflage",
+"quieta",
+"dist:7"
+],
+"t0": 2409,
+"_tag": "P750_s1_d5_COMPARTE_43824941",
+"_sl": "10"
+},
+{
+"k": "P7_48_visto",
+"tick": 9033,
+"estado": "apuntado",
+"objeto": "camouflage",
+"situacion": "dentro",
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": 0.0
+},
+"importancia": {
+"cuerpo": 0.0239,
+"recursos": 0.0058,
+"vinculo": 0.028
+},
+"intensidad_sin_B": 1.3593,
+"B": 1.0,
+"peso": 1.3593,
+"hacia": [
+"mano:net",
+"cuerpo:camouflage",
+"quieta",
+"dist:2"
+],
+"t0": 9002,
+"_tag": "P750_s1_d6_COMPARTE_43929670",
+"_sl": "10"
+},
+{
+"k": "P7_48_visto",
+"tick": 1133,
+"estado": "apuntado",
+"objeto": "camouflage",
+"situacion": "dentro",
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": 0.0
+},
+"importancia": {
+"cuerpo": 0.0006,
+"recursos": 0.0001,
+"vinculo": 0.0001
+},
+"intensidad_sin_B": 1.008,
+"B": 1.0,
+"peso": 1.008,
+"hacia": [
+"mano:net",
+"cuerpo:camouflage",
+"quieta",
+"dist:2"
+],
+"t0": 1065,
+"_tag": "P750_s1_d7_COMPARTE_44034399",
+"_sl": "10"
+},
+{
+"k": "P7_48_visto",
+"tick": 1558,
+"estado": "apuntado",
+"objeto": "camouflage",
+"situacion": "dentro",
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": 0.0
+},
+"importancia": {
+"cuerpo": 0.063,
+"recursos": 0.0119,
+"vinculo": 0.0441
+},
+"intensidad_sin_B": 1.8512,
+"B": 1.0,
+"peso": 1.8512,
+"hacia": [
+"mano:none",
+"cuerpo:camouflage",
+"quieta",
+"dist:5"
+],
+"t0": 1525,
+"_tag": "P750_s1_d9_COMPARTE_44243857",
+"_sl": "11"
+},
+{
+"k": "P7_48_visto",
+"tick": 1108,
+"estado": "apuntado",
+"objeto": "camouflage",
+"situacion": "dentro",
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": 0.0
+},
+"importancia": {
+"cuerpo": 0.0064,
+"recursos": 0.0008,
+"vinculo": 0.0008
+},
+"intensidad_sin_B": 1.0712,
+"B": 1.0,
+"peso": 1.0712,
+"hacia": [
+"mano:none",
+"cuerpo:camouflage",
+"quieta",
+"dist:2"
+],
+"t0": 1066,
+"_tag": "P750_s2_d10_COMPARTE_44453315",
+"_sl": "10"
+},
+{
+"k": "P7_48_visto",
+"tick": 1158,
+"estado": "apuntado",
+"objeto": "camouflage",
+"situacion": "dentro",
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": 0.0
+},
+"importancia": {
+"cuerpo": 0.0531,
+"recursos": 0.0113,
+"vinculo": 0.0488
+},
+"intensidad_sin_B": 1.9241,
+"B": 1.0,
+"peso": 1.9241,
+"hacia": [
+"mano:sword",
+"cuerpo:camouflage",
+"quieta",
+"dist:2"
+],
+"t0": 1109,
+"_tag": "P750_s2_d11_COMPARTE_44348586",
+"_sl": "11"
+},
+{
+"k": "P7_48_visto",
+"tick": 1783,
+"estado": "apuntado",
+"objeto": "camouflage",
+"situacion": "dentro",
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": 0.0
+},
+"importancia": {
+"cuerpo": 0.0607,
+"recursos": 0.0143,
+"vinculo": 0.0679
+},
+"intensidad_sin_B": 2.1656,
+"B": 1.0,
+"peso": 2.1656,
+"hacia": [
+"mano:sword",
+"cuerpo:camouflage",
+"quieta",
+"dist:3"
+],
+"t0": 1737,
+"_tag": "P750_s2_d15_COMPARTE_43929670",
+"_sl": "10"
+},
+{
+"k": "P7_48_visto",
+"tick": 2583,
+"estado": "apuntado",
+"objeto": "camouflage",
+"situacion": "dentro",
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": 0.0
+},
+"importancia": {
+"cuerpo": 0.1924,
+"recursos": 0.0251,
+"vinculo": 0.0339
+},
+"intensidad_sin_B": 3.0768,
+"B": 1.0,
+"peso": 3.0768,
+"hacia": [
+"mano:sword",
+"cuerpo:camouflage",
+"quieta",
+"dist:4"
+],
+"t0": 2550,
+"_tag": "P750_s2_d16_COMPARTE_43824941",
+"_sl": "10"
+},
+{
+"k": "P7_48_visto",
+"tick": 683,
+"estado": "apuntado",
+"objeto": "camouflage",
+"situacion": "dentro",
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": 0.0
+},
+"importancia": {
+"cuerpo": 0.1799,
+"recursos": 0.0225,
+"vinculo": 0.0225
+},
+"intensidad_sin_B": 2.8359,
+"B": 1.0,
+"peso": 2.8359,
+"hacia": [
+"mano:sword",
+"cuerpo:camouflage",
+"quieta",
+"dist:2"
+],
+"t0": 648,
+"_tag": "P750_s2_d17_COMPARTE_43720212",
+"_sl": "10"
+},
+{
+"k": "P7_48_visto",
+"tick": 683,
+"estado": "apuntado",
+"objeto": "camouflage",
+"situacion": "dentro",
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": 0.0
+},
+"importancia": {
+"cuerpo": 0,
+"recursos": 0,
+"vinculo": 0
+},
+"intensidad_sin_B": 1.0,
+"B": 1.0,
+"peso": 1.0,
+"hacia": [
+"mano:none",
+"cuerpo:camouflage",
+"quieta",
+"dist:1"
+],
+"t0": 648,
+"_tag": "P750_s2_d18_COMPARTE_43615483",
+"_sl": "10"
+},
+{
+"k": "P7_48_visto",
+"tick": 4958,
+"estado": "apuntado",
+"objeto": "camouflage",
+"situacion": "dentro",
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": 0.0
+},
+"importancia": {
+"cuerpo": 0.004,
+"recursos": 0.0005,
+"vinculo": 0.0005
+},
+"intensidad_sin_B": 1.0379,
+"B": 1.0,
+"peso": 1.0379,
+"hacia": [
+"mano:none",
+"cuerpo:camouflage",
+"quieta",
+"dist:7"
+],
+"t0": 4905,
+"_tag": "P750_s2_d19_COMPARTE_43510754",
+"_sl": "10"
+},
+{
+"k": "P7_48_visto",
+"tick": 658,
+"estado": "apuntado",
+"objeto": "camouflage",
+"situacion": "dentro",
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": 0.0
+},
+"importancia": {
+"cuerpo": 0,
+"recursos": 0,
+"vinculo": 0
+},
+"intensidad_sin_B": 1.0,
+"B": 0.9795,
+"peso": 0.9795,
+"hacia": [
+"mano:net",
+"cuerpo:camouflage",
+"quieta",
+"dist:2"
+],
+"t0": 626,
+"_tag": "P750_s2_d1_COMPARTE_45395876",
+"_sl": "11"
+},
+{
+"k": "P7_48_visto",
+"tick": 683,
+"estado": "apuntado",
+"objeto": "camouflage",
+"situacion": "dentro",
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": 0.0
+},
+"importancia": {
+"cuerpo": 0,
+"recursos": 0,
+"vinculo": 0
+},
+"intensidad_sin_B": 1.0,
+"B": 1.0,
+"peso": 1.0,
+"hacia": [
+"mano:knives",
+"cuerpo:camouflage",
+"quieta",
+"dist:1"
+],
+"t0": 636,
+"_tag": "P750_s2_d20_COMPARTE_43406025",
+"_sl": "10"
+},
+{
+"k": "P7_48_visto",
+"tick": 1208,
+"estado": "apuntado",
+"objeto": "camouflage",
+"situacion": "dentro",
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": 0.0
+},
+"importancia": {
+"cuerpo": 0.0077,
+"recursos": 0.0016,
+"vinculo": 0.0071
+},
+"intensidad_sin_B": 1.2363,
+"B": 1.0,
+"peso": 1.2363,
+"hacia": [
+"mano:none",
+"cuerpo:camouflage",
+"quieta",
+"dist:4"
+],
+"t0": 1165,
+"_tag": "P750_s2_d2_COMPARTE_45291147",
+"_sl": "10"
+},
+{
+"k": "P7_48_visto",
+"tick": 883,
+"estado": "apuntado",
+"objeto": "camouflage",
+"situacion": "dentro",
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": 0.0
+},
+"importancia": {
+"cuerpo": 0.007,
+"recursos": 0.0009,
+"vinculo": 0.0009
+},
+"intensidad_sin_B": 1.1366,
+"B": 1.0,
+"peso": 1.1366,
+"hacia": [
+"mano:none",
+"cuerpo:camouflage",
+"quieta",
+"dist:3"
+],
+"t0": 853,
+"_tag": "P750_s2_d3_COMPARTE_45186418",
+"_sl": "10"
+},
+{
+"k": "P7_48_visto",
+"tick": 9683,
+"estado": "apuntado",
+"objeto": "camouflage",
+"situacion": "dentro",
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": 0.0
+},
+"importancia": {
+"cuerpo": 0.0132,
+"recursos": 0.0017,
+"vinculo": 0.0023
+},
+"intensidad_sin_B": 1.2843,
+"B": 1.0,
+"peso": 1.2843,
+"hacia": [
+"mano:spear",
+"cuerpo:camouflage",
+"quieta",
+"dist:6"
+],
+"t0": 9595,
+"_tag": "P750_s2_d4_COMPARTE_45081689",
+"_sl": "10"
+},
+{
+"k": "P7_48_visto",
+"tick": 683,
+"estado": "apuntado",
+"objeto": "camouflage",
+"situacion": "dentro",
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": 0.0
+},
+"importancia": {
+"cuerpo": 0,
+"recursos": 0,
+"vinculo": 0
+},
+"intensidad_sin_B": 1.0,
+"B": 1.0,
+"peso": 1.0,
+"hacia": [
+"mano:bow",
+"cuerpo:camouflage",
+"quieta",
+"dist:1"
+],
+"t0": 637,
+"_tag": "P750_s2_d6_COMPARTE_44872231",
+"_sl": "10"
+},
+{
+"k": "P7_48_visto",
+"tick": 908,
+"estado": "apuntado",
+"objeto": "camouflage",
+"situacion": "dentro",
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": 0.0
+},
+"importancia": {
+"cuerpo": 0.0078,
+"recursos": 0.0018,
+"vinculo": 0.008
+},
+"intensidad_sin_B": 1.1577,
+"B": 1.0,
+"peso": 1.1577,
+"hacia": [
+"mano:none",
+"cuerpo:camouflage",
+"quieta",
+"dist:4"
+],
+"t0": 868,
+"_tag": "P750_s2_d8_COMPARTE_44662773",
+"_sl": "10"
+},
+{
+"k": "P7_48_visto",
+"tick": 683,
+"estado": "apuntado",
+"objeto": "camouflage",
+"situacion": "dentro",
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": 0.0
+},
+"importancia": {
+"cuerpo": 0,
+"recursos": 0,
+"vinculo": 0
+},
+"intensidad_sin_B": 1.0,
+"B": 1.0,
+"peso": 1.0,
+"hacia": [
+"mano:none",
+"cuerpo:camouflage",
+"quieta",
+"dist:3"
+],
+"t0": 648,
+"_tag": "P750_s2_d9_COMPARTE_44558044",
+"_sl": "10"
+},
+{
+"k": "P7_48_visto",
+"tick": 658,
+"estado": "apuntado",
+"objeto": "camouflage",
+"situacion": "dentro",
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": 0.0
+},
+"importancia": {
+"cuerpo": 0,
+"recursos": 0,
+"vinculo": 0
+},
+"intensidad_sin_B": 1.0,
+"B": 0.991,
+"peso": 0.991,
+"hacia": [
+"mano:net",
+"cuerpo:camouflage",
+"quieta",
+"dist:3"
+],
+"t0": 626,
+"_tag": "P750_s3_d10_COMPARTE_45395876",
+"_sl": "11"
+},
+{
+"k": "P7_48_visto",
+"tick": 658,
+"estado": "apuntado",
+"objeto": "camouflage",
+"situacion": "dentro",
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": 0.0
+},
+"importancia": {
+"cuerpo": 0,
+"recursos": 0,
+"vinculo": 0
+},
+"intensidad_sin_B": 1.0,
+"B": 1.0,
+"peso": 1.0,
+"hacia": [
+"mano:none",
+"cuerpo:camouflage",
+"quieta",
+"dist:1"
+],
+"t0": 626,
+"_tag": "P750_s3_d11_COMPARTE_43406025",
+"_sl": "10"
+},
+{
+"k": "P7_48_visto",
+"tick": 1458,
+"estado": "apuntado",
+"objeto": "camouflage",
+"situacion": "dentro",
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": 0.0
+},
+"importancia": {
+"cuerpo": 0.0014,
+"recursos": 0.0005,
+"vinculo": 0.0029
+},
+"intensidad_sin_B": 1.0209,
+"B": 1.0,
+"peso": 1.0209,
+"hacia": [
+"mano:none",
+"cuerpo:camouflage",
+"quieta",
+"dist:2"
+],
+"t0": 1397,
+"_tag": "P750_s3_d12_COMPARTE_43510754",
+"_sl": "10"
+},
+{
+"k": "P7_48_visto",
+"tick": 683,
+"estado": "apuntado",
+"objeto": "camouflage",
+"situacion": "dentro",
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": 0.0
+},
+"importancia": {
+"cuerpo": 0,
+"recursos": 0,
+"vinculo": 0
+},
+"intensidad_sin_B": 1.0,
+"B": 1.0,
+"peso": 1.0,
+"hacia": [
+"mano:none",
+"cuerpo:camouflage",
+"quieta",
+"dist:1"
+],
+"t0": 648,
+"_tag": "P750_s3_d13_COMPARTE_43615483",
+"_sl": "10"
+},
+{
+"k": "P7_48_visto",
+"tick": 783,
+"estado": "apuntado",
+"objeto": "camouflage",
+"situacion": "dentro",
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": 0.0
+},
+"importancia": {
+"cuerpo": 0.1965,
+"recursos": 0.026,
+"vinculo": 0.0376
+},
+"intensidad_sin_B": 2.1012,
+"B": 1.0,
+"peso": 2.1012,
+"hacia": [
+"mano:sword",
+"cuerpo:camouflage",
+"quieta",
+"dist:1"
+],
+"t0": 734,
+"_tag": "P750_s3_d14_COMPARTE_43720212",
+"_sl": "10"
+},
+{
+"k": "P7_48_visto",
+"tick": 8333,
+"estado": "apuntado",
+"objeto": "camouflage",
+"situacion": "dentro",
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": 0.0
+},
+"importancia": {
+"cuerpo": 0.0197,
+"recursos": 0.0036,
+"vinculo": 0.013
+},
+"intensidad_sin_B": 1.1513,
+"B": 1.0,
+"peso": 1.1513,
+"hacia": [
+"mano:sword",
+"cuerpo:camouflage",
+"quieta",
+"dist:1"
+],
+"t0": 8307,
+"_tag": "P750_s3_d15_COMPARTE_43824941",
+"_sl": "11"
+},
+{
+"k": "P7_48_visto",
+"tick": 1158,
+"estado": "apuntado",
+"objeto": "camouflage",
+"situacion": "dentro",
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": 0.0
+},
+"importancia": {
+"cuerpo": 0.019,
+"recursos": 0.0041,
+"vinculo": 0.0175
+},
+"intensidad_sin_B": 1.1737,
+"B": 1.0,
+"peso": 1.1737,
+"hacia": [
+"mano:none",
+"cuerpo:camouflage",
+"quieta",
+"dist:3"
+],
+"t0": 1129,
+"_tag": "P750_s3_d17_COMPARTE_44034399",
+"_sl": "11"
+},
+{
+"k": "P7_48_visto",
+"tick": 1933,
+"estado": "apuntado",
+"objeto": "camouflage",
+"situacion": "dentro",
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": 0.0
+},
+"importancia": {
+"cuerpo": 0.681,
+"recursos": 0.0976,
+"vinculo": 0.1971
+},
+"intensidad_sin_B": 4.0,
+"B": 1.0,
+"peso": 4.0,
+"hacia": [
+"mano:net",
+"cuerpo:camouflage",
+"quieta",
+"dist:2"
+],
+"t0": 1893,
+"_tag": "P750_s3_d18_COMPARTE_44139128",
+"_sl": "11"
+},
+{
+"k": "P7_48_visto",
+"tick": 1083,
+"estado": "apuntado",
+"objeto": "camouflage",
+"situacion": "dentro",
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": 0.0
+},
+"importancia": {
+"cuerpo": 0.0789,
+"recursos": 0.0197,
+"vinculo": 0.0987
+},
+"intensidad_sin_B": 1.873,
+"B": 1.0,
+"peso": 1.873,
+"hacia": [
+"mano:none",
+"cuerpo:camouflage",
+"quieta",
+"dist:5"
+],
+"t0": 1033,
+"_tag": "P750_s3_d19_COMPARTE_44243857",
+"_sl": "11"
+},
+{
+"k": "P7_48_visto",
+"tick": 683,
+"estado": "apuntado",
+"objeto": "camouflage",
+"situacion": "dentro",
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": 0.0
+},
+"importancia": {
+"cuerpo": 0,
+"recursos": 0,
+"vinculo": 0
+},
+"intensidad_sin_B": 1.0,
+"B": 1.0,
+"peso": 1.0,
+"hacia": [
+"mano:none",
+"cuerpo:camouflage",
+"quieta",
+"dist:2"
+],
+"t0": 648,
+"_tag": "P750_s3_d1_COMPARTE_44453315",
+"_sl": "11"
+},
+{
+"k": "P7_48_visto",
+"tick": 883,
+"estado": "apuntado",
+"objeto": "camouflage",
+"situacion": "dentro",
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": 0.0
+},
+"importancia": {
+"cuerpo": 0.0107,
+"recursos": 0.0023,
+"vinculo": 0.0099
+},
+"intensidad_sin_B": 1.1017,
+"B": 1.0,
+"peso": 1.1017,
+"hacia": [
+"mano:none",
+"cuerpo:camouflage",
+"quieta",
+"dist:1"
+],
+"t0": 835,
+"_tag": "P750_s3_d20_COMPARTE_44348586",
+"_sl": "10"
+},
+{
+"k": "P7_48_visto",
+"tick": 658,
+"estado": "apuntado",
+"objeto": "camouflage",
+"situacion": "dentro",
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": 0.0
+},
+"importancia": {
+"cuerpo": 0,
+"recursos": 0,
+"vinculo": 0
+},
+"intensidad_sin_B": 1.0,
+"B": 0.9795,
+"peso": 0.9795,
+"hacia": [
+"mano:net",
+"cuerpo:camouflage",
+"quieta",
+"dist:1"
+],
+"t0": 626,
+"_tag": "P750_s3_d5_COMPARTE_44872231",
+"_sl": "11"
+},
+{
+"k": "P7_48_visto",
+"tick": 8308,
+"estado": "apuntado",
+"objeto": "camouflage",
+"situacion": "dentro",
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": 0.0
+},
+"importancia": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": 0.0
+},
+"intensidad_sin_B": 1.0,
+"B": 1.0,
+"peso": 1.0,
+"hacia": [
+"mano:spear",
+"cuerpo:camouflage",
+"quieta",
+"dist:3"
+],
+"t0": 8281,
+"_tag": "P750_s3_d7_COMPARTE_45081689",
+"_sl": "10"
+},
+{
+"k": "P7_48_visto",
+"tick": 758,
+"estado": "apuntado",
+"objeto": "camouflage",
+"situacion": "dentro",
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": 0.0
+},
+"importancia": {
+"cuerpo": 0.0021,
+"recursos": 0.0004,
+"vinculo": 0.002
+},
+"intensidad_sin_B": 1.0183,
+"B": 1.0,
+"peso": 1.0183,
+"hacia": [
+"mano:net",
+"cuerpo:camouflage",
+"quieta",
+"dist:1"
+],
+"t0": 714,
+"_tag": "P750_s3_d8_COMPARTE_45186418",
+"_sl": "10"
+},
+{
+"k": "P7_48_visto",
+"tick": 1008,
+"estado": "apuntado",
+"objeto": "camouflage",
+"situacion": "dentro",
+"efecto": {
+"cuerpo": 0.0,
+"recursos": 0.0,
+"vinculo": 0.0
+},
+"importancia": {
+"cuerpo": 0.0214,
+"recursos": 0.0059,
+"vinculo": 0.0312
+},
+"intensidad_sin_B": 1.2328,
+"B": 1.0,
+"peso": 1.2328,
+"hacia": [
+"mano:knives",
+"cuerpo:camouflage",
+"quieta",
+"dist:5"
+],
+"t0": 966,
+"_tag": "P750_s3_d9_COMPARTE_45291147",
+"_sl": "11"
+}
+]
+}

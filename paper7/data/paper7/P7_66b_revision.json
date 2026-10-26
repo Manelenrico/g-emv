@@ -1,0 +1,346 @@
+{
+ "intentos": [
+  {
+   "dia": "d1",
+   "asiento": 11,
+   "brazo": "MIENTE",
+   "destino": [
+    5,
+    16
+   ],
+   "tic_aceptada": 241,
+   "distancia_al_aceptar": 12,
+   "distancia_hermana_al_aceptar": 9,
+   "cierre": "interrumpida",
+   "tic_cierre": 274,
+   "tics": 33,
+   "tics_con_candidatos": 33,
+   "tics_con_ir_sitio": 11,
+   "tics_cortados_por_la_distancia": 0,
+   "de_ellos_por_ella": 0,
+   "de_ellos_solo_por_la_hermana": 0,
+   "tics_fuera_del_tramo": 0,
+   "tics_sin_calma": 21,
+   "distancia_minima": 11,
+   "tics_a_7": 0,
+   "primer_corte": null,
+   "influyo": false
+  },
+  {
+   "dia": "d1",
+   "asiento": 12,
+   "brazo": "HONESTA",
+   "destino": [
+    27,
+    23
+   ],
+   "tic_aceptada": 241,
+   "distancia_al_aceptar": 14,
+   "distancia_hermana_al_aceptar": 13,
+   "cierre": "interrumpida",
+   "tic_cierre": 351,
+   "tics": 110,
+   "tics_con_candidatos": 110,
+   "tics_con_ir_sitio": 33,
+   "tics_cortados_por_la_distancia": 0,
+   "de_ellos_por_ella": 0,
+   "de_ellos_solo_por_la_hermana": 0,
+   "tics_fuera_del_tramo": 0,
+   "tics_sin_calma": 76,
+   "distancia_minima": 5,
+   "tics_a_7": 11,
+   "primer_corte": null,
+   "influyo": false
+  },
+  {
+   "dia": "d1",
+   "asiento": 13,
+   "brazo": "HONESTA",
+   "destino": [
+    27,
+    23
+   ],
+   "tic_aceptada": 274,
+   "distancia_al_aceptar": 10,
+   "distancia_hermana_al_aceptar": 11,
+   "cierre": "interrumpida",
+   "tic_cierre": 340,
+   "tics": 66,
+   "tics_con_candidatos": 66,
+   "tics_con_ir_sitio": 33,
+   "tics_cortados_por_la_distancia": 11,
+   "de_ellos_por_ella": 0,
+   "de_ellos_solo_por_la_hermana": 11,
+   "tics_fuera_del_tramo": 0,
+   "tics_sin_calma": 22,
+   "distancia_minima": 7,
+   "tics_a_7": 10,
+   "primer_corte": {
+    "tic": 319,
+    "tics_desde_aceptar": 45,
+    "distancia_ella": 8,
+    "distancia_hermana": 7
+   },
+   "influyo": true
+  },
+  {
+   "dia": "d2",
+   "asiento": 10,
+   "brazo": "MIENTE",
+   "destino": [
+    4,
+    12
+   ],
+   "tic_aceptada": 241,
+   "distancia_al_aceptar": 10,
+   "distancia_hermana_al_aceptar": 15,
+   "cierre": "interrumpida",
+   "tic_cierre": 340,
+   "tics": 99,
+   "tics_con_candidatos": 99,
+   "tics_con_ir_sitio": 11,
+   "tics_cortados_por_la_distancia": 33,
+   "de_ellos_por_ella": 0,
+   "de_ellos_solo_por_la_hermana": 33,
+   "tics_fuera_del_tramo": 0,
+   "tics_sin_calma": 55,
+   "distancia_minima": 9,
+   "tics_a_7": 0,
+   "primer_corte": {
+    "tic": 253,
+    "tics_desde_aceptar": 12,
+    "distancia_ella": 9,
+    "distancia_hermana": 16
+   },
+   "influyo": true
+  },
+  {
+   "dia": "d2",
+   "asiento": 12,
+   "brazo": "HONESTA",
+   "destino": [
+    24,
+    23
+   ],
+   "tic_aceptada": 285,
+   "distancia_al_aceptar": 10,
+   "distancia_hermana_al_aceptar": 11,
+   "cierre": "interrumpida",
+   "tic_cierre": 318,
+   "tics": 33,
+   "tics_con_candidatos": 33,
+   "tics_con_ir_sitio": 32,
+   "tics_cortados_por_la_distancia": 0,
+   "de_ellos_por_ella": 0,
+   "de_ellos_solo_por_la_hermana": 0,
+   "tics_fuera_del_tramo": 0,
+   "tics_sin_calma": 1,
+   "distancia_minima": 8,
+   "tics_a_7": 0,
+   "primer_corte": null,
+   "influyo": false
+  },
+  {
+   "dia": "d2",
+   "asiento": 13,
+   "brazo": "HONESTA",
+   "destino": [
+    24,
+    23
+   ],
+   "tic_aceptada": 241,
+   "distancia_al_aceptar": 15,
+   "distancia_hermana_al_aceptar": 14,
+   "cierre": "interrumpida",
+   "tic_cierre": 340,
+   "tics": 99,
+   "tics_con_candidatos": 99,
+   "tics_con_ir_sitio": 55,
+   "tics_cortados_por_la_distancia": 0,
+   "de_ellos_por_ella": 0,
+   "de_ellos_solo_por_la_hermana": 0,
+   "tics_fuera_del_tramo": 0,
+   "tics_sin_calma": 44,
+   "distancia_minima": 7,
+   "tics_a_7": 10,
+   "primer_corte": null,
+   "influyo": false
+  },
+  {
+   "dia": "d3",
+   "asiento": 10,
+   "brazo": "MIENTE",
+   "destino": [
+    27,
+    6
+   ],
+   "tic_aceptada": 274,
+   "distancia_al_aceptar": 13,
+   "distancia_hermana_al_aceptar": 9,
+   "cierre": "interrumpida",
+   "tic_cierre": 340,
+   "tics": 66,
+   "tics_con_candidatos": 66,
+   "tics_con_ir_sitio": 44,
+   "tics_cortados_por_la_distancia": 0,
+   "de_ellos_por_ella": 0,
+   "de_ellos_solo_por_la_hermana": 0,
+   "tics_fuera_del_tramo": 0,
+   "tics_sin_calma": 22,
+   "distancia_minima": 8,
+   "tics_a_7": 0,
+   "primer_corte": null,
+   "influyo": false
+  },
+  {
+   "dia": "d3",
+   "asiento": 11,
+   "brazo": "MIENTE",
+   "destino": [
+    27,
+    6
+   ],
+   "tic_aceptada": 241,
+   "distancia_al_aceptar": 10,
+   "distancia_hermana_al_aceptar": 14,
+   "cierre": "no_llego",
+   "tic_cierre": 721,
+   "tics": 480,
+   "tics_con_candidatos": 480,
+   "tics_con_ir_sitio": 187,
+   "tics_cortados_por_la_distancia": 112,
+   "de_ellos_por_ella": 112,
+   "de_ellos_solo_por_la_hermana": 0,
+   "tics_fuera_del_tramo": 180,
+   "tics_sin_calma": 11,
+   "distancia_minima": 4,
+   "tics_a_7": 66,
+   "primer_corte": {
+    "tic": 385,
+    "tics_desde_aceptar": 144,
+    "distancia_ella": 7,
+    "distancia_hermana": 13
+   },
+   "influyo": true
+  },
+  {
+   "dia": "d3",
+   "asiento": 12,
+   "brazo": "HONESTA",
+   "destino": [
+    27,
+    23
+   ],
+   "tic_aceptada": 241,
+   "distancia_al_aceptar": 14,
+   "distancia_hermana_al_aceptar": 15,
+   "cierre": "interrumpida",
+   "tic_cierre": 340,
+   "tics": 99,
+   "tics_con_candidatos": 99,
+   "tics_con_ir_sitio": 33,
+   "tics_cortados_por_la_distancia": 11,
+   "de_ellos_por_ella": 11,
+   "de_ellos_solo_por_la_hermana": 0,
+   "tics_fuera_del_tramo": 0,
+   "tics_sin_calma": 54,
+   "distancia_minima": 6,
+   "tics_a_7": 11,
+   "primer_corte": {
+    "tic": 319,
+    "tics_desde_aceptar": 78,
+    "distancia_ella": 7,
+    "distancia_hermana": 8
+   },
+   "influyo": true
+  },
+  {
+   "dia": "d3",
+   "asiento": 13,
+   "brazo": "HONESTA",
+   "destino": [
+    27,
+    23
+   ],
+   "tic_aceptada": 241,
+   "distancia_al_aceptar": 15,
+   "distancia_hermana_al_aceptar": 14,
+   "cierre": "interrumpida",
+   "tic_cierre": 351,
+   "tics": 110,
+   "tics_con_candidatos": 110,
+   "tics_con_ir_sitio": 77,
+   "tics_cortados_por_la_distancia": 22,
+   "de_ellos_por_ella": 11,
+   "de_ellos_solo_por_la_hermana": 11,
+   "tics_fuera_del_tramo": 0,
+   "tics_sin_calma": 11,
+   "distancia_minima": 6,
+   "tics_a_7": 11,
+   "primer_corte": {
+    "tic": 319,
+    "tics_desde_aceptar": 78,
+    "distancia_ella": 8,
+    "distancia_hermana": 7
+   },
+   "influyo": true
+  },
+  {
+   "dia": "d4",
+   "asiento": 13,
+   "brazo": "HONESTA",
+   "destino": [
+    24,
+    23
+   ],
+   "tic_aceptada": 263,
+   "distancia_al_aceptar": 13,
+   "distancia_hermana_al_aceptar": 12,
+   "cierre": "no_llego",
+   "tic_cierre": 743,
+   "tics": 480,
+   "tics_con_candidatos": 480,
+   "tics_con_ir_sitio": 33,
+   "tics_cortados_por_la_distancia": 200,
+   "de_ellos_por_ella": 0,
+   "de_ellos_solo_por_la_hermana": 200,
+   "tics_fuera_del_tramo": 202,
+   "tics_sin_calma": 45,
+   "distancia_minima": 12,
+   "tics_a_7": 0,
+   "primer_corte": {
+    "tic": 341,
+    "tics_desde_aceptar": 78,
+    "distancia_ella": 13,
+    "distancia_hermana": 7
+   },
+   "influyo": true
+  }
+ ],
+ "n": 11,
+ "influyo": 6,
+ "por_cierre": {
+  "llegada": {
+   "intentos": 0,
+   "influyo": 0
+  },
+  "interrumpida": {
+   "intentos": 9,
+   "influyo": 4
+  },
+  "no_llego": {
+   "intentos": 2,
+   "influyo": 2
+  }
+ },
+ "por_brazo": {
+  "MIENTE": {
+   "intentos": 4,
+   "influyo": 2
+  },
+  "HONESTA": {
+   "intentos": 7,
+   "influyo": 4
+  }
+ }
+}

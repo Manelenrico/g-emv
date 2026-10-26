@@ -1,0 +1,20 @@
+{
+ "pasan": [
+  "1a la regla por dimension de invita_P7_54 es la de juicio_P7_62.acierto_dim (texto)",
+  "1b coger en amenaza, la vida no sube en 480 tics (0) -> fallo en el cuerpo",
+  "1c coger y perder vida en 480 tics (-64) -> fallo",
+  "1d declarado: usar el botiquin cogido sin golpe en 480 tics y curar 50 -> la confirma (la parte que no es «siempre»)",
+  "1e recursos +1 prometido y +1 vivido -> acierto en recursos (la mentira esta solo en el cuerpo)",
+  "1f juicio_P7_62 no se queda las invitaciones de coger (solo USAR_BOTIQUIN y USAR_RACION)",
+  "2a coger SIN amenaza -> la falsa no se activa",
+  "2b coger CON amenaza (rival a <= 4, fuego o golpe en 48 tics) -> se activa",
+  "2c una honesta de coger sin condicion de amenaza se activa en las dos",
+  "3a la que se usa es la de juicio_P7_65 (IC.contrasta sustituida por fuera)",
+  "3b recuerdo de botiquin de la hermana en CALMA -> no entra en la falsa",
+  "3c en AMENAZA -> tampoco (sin contraste para coger; decision de Manel)",
+  "3d una honesta de USAR_BOTIQUIN sigue contrastandose; la falsa no",
+  "4a desde las invitaciones del dia 8, solo en los asientos que mienten",
+  "4b una sola falsa (COGER_BOTIQUIN, amenaza, +30), en su posicion"
+ ],
+ "fallan": []
+}

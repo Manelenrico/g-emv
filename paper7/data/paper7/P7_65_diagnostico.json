@@ -1,0 +1,271 @@
+{
+ "sin_cogida": 453,
+ "punto2": {
+  "valiente": {
+   "evaluaciones": 285,
+   "botiquin_a_la_vista_al_aceptar": {
+    "n": 201,
+    "fraccion": 0.705
+   },
+   "botiquin_al_alcance_al_aceptar": {
+    "n": 30,
+    "fraccion": 0.105
+   },
+   "le_cabe_otro_botiquin_al_aceptar": {
+    "n": 191,
+    "fraccion": 0.67
+   },
+   "rival_a_4_o_menos_al_aceptar": {
+    "n": 260,
+    "fraccion": 0.912
+   },
+   "botiquin_a_la_vista_en_la_ventana": {
+    "n": 225,
+    "fraccion": 0.789
+   },
+   "llego_al_botiquin_en_la_ventana": {
+    "n": 33,
+    "fraccion": 0.116
+   },
+   "rival_a_4_o_menos_en_la_ventana": {
+    "n": 285,
+    "fraccion": 1.0
+   },
+   "golpeada_en_la_ventana": {
+    "n": 66,
+    "fraccion": 0.232
+   },
+   "lo_que_eligio_en_la_ventana": [
+    [
+     "noop",
+     0.594
+    ],
+    [
+     "ir_curioso",
+     0.282
+    ],
+    [
+     "move",
+     0.049
+    ],
+    [
+     "ir_objeto",
+     0.041
+    ],
+    [
+     "ir_pareja",
+     0.014
+    ],
+    [
+     "paso",
+     0.012
+    ]
+   ]
+  },
+  "prudente": {
+   "evaluaciones": 168,
+   "botiquin_a_la_vista_al_aceptar": {
+    "n": 126,
+    "fraccion": 0.75
+   },
+   "botiquin_al_alcance_al_aceptar": {
+    "n": 28,
+    "fraccion": 0.167
+   },
+   "le_cabe_otro_botiquin_al_aceptar": {
+    "n": 127,
+    "fraccion": 0.756
+   },
+   "rival_a_4_o_menos_al_aceptar": {
+    "n": 154,
+    "fraccion": 0.917
+   },
+   "botiquin_a_la_vista_en_la_ventana": {
+    "n": 142,
+    "fraccion": 0.845
+   },
+   "llego_al_botiquin_en_la_ventana": {
+    "n": 18,
+    "fraccion": 0.107
+   },
+   "rival_a_4_o_menos_en_la_ventana": {
+    "n": 168,
+    "fraccion": 1.0
+   },
+   "golpeada_en_la_ventana": {
+    "n": 27,
+    "fraccion": 0.161
+   },
+   "lo_que_eligio_en_la_ventana": [
+    [
+     "noop",
+     0.62
+    ],
+    [
+     "ir_curioso",
+     0.189
+    ],
+    [
+     "ir_objeto",
+     0.069
+    ],
+    [
+     "move",
+     0.068
+    ],
+    [
+     "paso",
+     0.021
+    ],
+    [
+     "ir_pareja",
+     0.014
+    ]
+   ]
+  }
+ },
+ "gifs": [
+  {
+   "gif": "P7_65_gif_1.gif",
+   "serie": 2,
+   "dia": 13,
+   "brazo": "MIENTEN_DOS",
+   "hermana": "prudente",
+   "tic_aceptada": 2319,
+   "tic_juicio": 2799,
+   "fotogramas": 121,
+   "juicio": "sin huella (480 tics)",
+   "acierto": 0
+  },
+  {
+   "gif": "P7_65_gif_2.gif",
+   "serie": 1,
+   "dia": 20,
+   "brazo": "MIENTEN_DOS",
+   "hermana": "valiente",
+   "tic_aceptada": 12522,
+   "tic_juicio": 13002,
+   "fotogramas": 121,
+   "juicio": "sin huella (480 tics)",
+   "acierto": 0
+  },
+  {
+   "gif": "P7_65_gif_3.gif",
+   "serie": 2,
+   "dia": 18,
+   "brazo": "MIENTEN_DOS",
+   "hermana": "prudente",
+   "tic_aceptada": 4479,
+   "tic_juicio": 4959,
+   "fotogramas": 121,
+   "juicio": "sin huella (480 tics)",
+   "acierto": 0
+  }
+ ],
+ "muertes": {
+  "MIENTEN_DOS · valiente": {
+   "vidas": 60,
+   "eliminada": 39,
+   "fraccion_por_serie": [
+    0.6,
+    0.6,
+    0.75
+   ],
+   "media": 0.65,
+   "ee_por_criatura": 0.05,
+   "regla_P7_56_ultimo_tic_lt_14000": 21,
+   "causas": {
+    "zona / fuego": 21,
+    "otro agente": 18
+   },
+   "tras_seguir_una_verdadera": {
+    "tics_en_riesgo": 218001,
+    "muertes": 12,
+    "por_10000_tics": 0.55
+   },
+   "el_resto_de_la_vida": {
+    "tics_en_riesgo": 535744,
+    "muertes": 27,
+    "por_10000_tics": 0.5
+   }
+  },
+  "MIENTEN_DOS · prudente": {
+   "vidas": 60,
+   "eliminada": 40,
+   "fraccion_por_serie": [
+    0.6,
+    0.7,
+    0.7
+   ],
+   "media": 0.667,
+   "ee_por_criatura": 0.033,
+   "regla_P7_56_ultimo_tic_lt_14000": 24,
+   "causas": {
+    "zona / fuego": 30,
+    "otro agente": 10
+   },
+   "tras_seguir_una_verdadera": {
+    "tics_en_riesgo": 124545,
+    "muertes": 11,
+    "por_10000_tics": 0.88
+   },
+   "el_resto_de_la_vida": {
+    "tics_en_riesgo": 656675,
+    "muertes": 29,
+    "por_10000_tics": 0.44
+   }
+  },
+  "MIENTE_UNA · valiente": {
+   "vidas": 60,
+   "eliminada": 38,
+   "fraccion_por_serie": [
+    0.65,
+    0.7,
+    0.55
+   ],
+   "media": 0.633,
+   "ee_por_criatura": 0.044,
+   "regla_P7_56_ultimo_tic_lt_14000": 22,
+   "causas": {
+    "otro agente": 18,
+    "zona / fuego": 20
+   },
+   "tras_seguir_una_verdadera": {
+    "tics_en_riesgo": 225677,
+    "muertes": 6,
+    "por_10000_tics": 0.27
+   },
+   "el_resto_de_la_vida": {
+    "tics_en_riesgo": 562198,
+    "muertes": 32,
+    "por_10000_tics": 0.57
+   }
+  },
+  "MIENTE_UNA · prudente": {
+   "vidas": 60,
+   "eliminada": 46,
+   "fraccion_por_serie": [
+    0.8,
+    0.8,
+    0.7
+   ],
+   "media": 0.767,
+   "ee_por_criatura": 0.033,
+   "regla_P7_56_ultimo_tic_lt_14000": 31,
+   "causas": {
+    "zona / fuego": 33,
+    "otro agente": 13
+   },
+   "tras_seguir_una_verdadera": {
+    "tics_en_riesgo": 197177,
+    "muertes": 10,
+    "por_10000_tics": 0.51
+   },
+   "el_resto_de_la_vida": {
+    "tics_en_riesgo": 591883,
+    "muertes": 36,
+    "por_10000_tics": 0.61
+   }
+  }
+ }
+}

@@ -1,0 +1,25 @@
+{
+ "pasan": [
+  "1a llega (a 1 casilla) y hay un botiquin junto al destino -> acierto 1",
+  "1b llega y no hay botiquin -> 0 (falla en el acto)",
+  "1c rival a 5 antes de llegar -> interrumpida",
+  "1d rival a 6 -> sigue abierta",
+  "1e 480 tics sin llegar ni rival -> no_llego",
+  "1f a 2 casillas aun no ha llegado",
+  "1g llega con un rival a 3: cuenta la llegada (el juicio de llegar va primero)",
+  "2a rival a 6 -> calma; botiquin leido",
+  "2b rival a 5 -> no hay calma",
+  "2c la hermana a 1 casilla no cuenta como rival",
+  "2d golpe hace 40 tics -> no hay calma",
+  "2e golpe hace 60 tics -> calma",
+  "2f la invitacion se activa en calma",
+  "2g y no se activa sin calma",
+  "3a con la invitacion activa: el ultimo candidato es ir_sitio, receta «ir» con su destino",
+  "3b emparejado con su invitacion en la lista de invita_P7_54 (mismo indice)",
+  "3c sin invitacion activa no hay ir_sitio",
+  "3d ya a <= 1 casilla del destino: no se anade",
+  "4a la regla de confianza de la pieza solo toca recursos",
+  "4b la sombra no la juzga invita_P7_54 (objeto que no existe, t0 en el futuro) ni la mueve juicio_P7_62"
+ ],
+ "fallan": []
+}

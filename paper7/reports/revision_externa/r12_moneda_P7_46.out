@@ -1,0 +1,14 @@
+forzadas 349 acaban 101 caducan 243 sin fin 5 | vidas SIN 120
+por tipo y fin {'ir': {'caduca': 159, 'cogida': 83, 'sin fin (murio o acabo la partida)': 5}, 'usar': {'caduca': 84, 'usada': 18}}
+pruebas_botiquin_por_vida {'APRENDE_v': 1.608, 'APRENDE_p': 1.417, 'SIN': 0.483}
+factor {'APRENDE_p': 2.931, 'APRENDE_v': 3.328}
+k_estrella {'APRENDE_v': 30, 'APRENDE_p': 17, 'SIN': 10}
+rapidez_real {'APRENDE_v': [13, 10, 21, 21, 21, 18], 'APRENDE_p': [21, 21, 21, 4, 6, 9], 'SIN': [21, 7, 21, 21, 11, 21]}
+rapidez_real_media {'APRENDE_v': 17.333, 'APRENDE_p': 13.667, 'SIN': 17}
+SIN_real_media 17
+curva de APRENDE_v {"k": 30, "SIN_f1_dias": [21, 21, 21, 21, 21, 21], "propia_f1_dias": [18, 20, 14, 17, 20, 18], "propia_real_media": 17.333, "SIN_f1_media": 21, "propia_f1_media": 17.833, "APRENDE_p": {"f": 2.931, "SIN_contada_dias": [20, 11, 21, 21, 12, 21], "SIN_contada_media": 17.667, "R1_real": -3.333, "R1_contada": -4.0, "ee_contada": 3.876}, "APRENDE_v": {"f": 3.328, "SIN_contada_dias": [18, 11, 21, 21, 11, 21], "SIN_contada_media": 17.167, "R1_real": 0.333, "R1_contada": 0.167, "ee_contada": 2.794}}
+curva de APRENDE_p {"k": 17, "SIN_f1_dias": [21, 18, 21, 21, 18, 21], "propia_f1_dias": [21, 16, 12, 7, 12, 9], "propia_real_media": 13.667, "SIN_f1_media": 20, "propia_f1_media": 12.833, "APRENDE_p": {"f": 2.931, "SIN_contada_dias": [15, 8, 21, 21, 6, 21], "SIN_contada_media": 15.333, "R1_real": -3.333, "R1_contada": -1.667, "ee_contada": 4.369}, "APRENDE_v": {"f": 3.328, "SIN_contada_dias": [15, 8, 21, 21, 6, 21], "SIN_contada_media": 15.333, "R1_real": 0.333, "R1_contada": 2.0, "ee_contada": 3.419}}
+curva de SIN {"k": 10, "SIN_f1_dias": [18, 11, 21, 21, 11, 21], "propia_f1_dias": [18, 11, 21, 21, 11, 21], "propia_real_media": 17, "SIN_f1_media": 17.167, "propia_f1_media": 17.167, "APRENDE_p": {"f": 2.931, "SIN_contada_dias": [15, 8, 21, 21, 6, 21], "SIN_contada_media": 15.333, "R1_real": -3.333, "R1_contada": -1.667, "ee_contada": 4.369}, "APRENDE_v": {"f": 3.328, "SIN_contada_dias": [15, 8, 21, 21, 6, 21], "SIN_contada_media": 15.333, "R1_real": 0.333, "R1_contada": 2.0, "ee_contada": 3.419}}
+
+igual que P7_46_resumen.json: {'forzadas_SIN': False, 'R1': True}
+campos de las forzadas que difieren del resumen: {'llega_sin_coger_llena8': ({'sin llena8': 93}, {'con llena8': 89, 'sin llena8': 4}), 'llega_sin_coger_llena8_motivos': ({}, {'prevision: la mochila no cambia': 10616})}

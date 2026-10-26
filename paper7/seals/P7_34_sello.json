@@ -1,0 +1,358 @@
+{
+ "partidas_con_corte": [
+  [
+   2,
+   6,
+   "TECHO"
+  ],
+  [
+   2,
+   8,
+   "TECHO"
+  ]
+ ],
+ "partidas_marcadas": [
+  [
+   1,
+   2,
+   "APRENDE"
+  ],
+  [
+   1,
+   2,
+   "BORRADO"
+  ],
+  [
+   1,
+   3,
+   "BORRADO"
+  ],
+  [
+   1,
+   5,
+   "BORRADO"
+  ],
+  [
+   1,
+   7,
+   "BORRADO"
+  ],
+  [
+   1,
+   10,
+   "APRENDE"
+  ],
+  [
+   1,
+   10,
+   "BORRADO"
+  ],
+  [
+   1,
+   13,
+   "APRENDE"
+  ],
+  [
+   1,
+   18,
+   "APRENDE"
+  ],
+  [
+   1,
+   20,
+   "BORRADO"
+  ],
+  [
+   2,
+   2,
+   "APRENDE"
+  ],
+  [
+   2,
+   2,
+   "BORRADO"
+  ],
+  [
+   2,
+   3,
+   "APRENDE"
+  ],
+  [
+   2,
+   7,
+   "BORRADO"
+  ],
+  [
+   2,
+   11,
+   "BORRADO"
+  ],
+  [
+   2,
+   12,
+   "BORRADO"
+  ],
+  [
+   2,
+   15,
+   "BORRADO"
+  ],
+  [
+   2,
+   16,
+   "APRENDE"
+  ],
+  [
+   2,
+   16,
+   "BORRADO"
+  ],
+  [
+   2,
+   18,
+   "BORRADO"
+  ],
+  [
+   2,
+   20,
+   "BORRADO"
+  ]
+ ],
+ "vidas": 238,
+ "con_todas": {
+  "I1": {
+   "pruebas_dias_1_5": {
+    "s1 a10": {
+     "red": 2,
+     "camuflaje": 2
+    },
+    "s1 a11": {
+     "red": 3,
+     "camuflaje": 1
+    },
+    "s2 a10": {
+     "red": 0,
+     "camuflaje": 2
+    },
+    "s2 a11": {
+     "red": 2,
+     "camuflaje": 1
+    }
+   },
+   "pasa": false
+  },
+  "I2": {
+   "APRENDE_inutil_por_vida": 0.925,
+   "TECHO_inutil_por_vida": 0.575,
+   "APRENDE_util_por_vida": 5.55,
+   "n_APRENDE": 40,
+   "n_TECHO": 40,
+   "pasa": false
+  },
+  "I3": {
+   "por_criatura": {
+    "s1 a10": {
+     "util": 1.177,
+     "n_util": 57,
+     "inutil": 1.144,
+     "n_inutil": 19
+    },
+    "s1 a11": {
+     "util": 1.1977,
+     "n_util": 46,
+     "inutil": 1.1502,
+     "n_inutil": 13
+    },
+    "s2 a10": {
+     "util": 1.1863,
+     "n_util": 38,
+     "inutil": 1.2303,
+     "n_inutil": 18
+    },
+    "s2 a11": {
+     "util": 1.2264,
+     "n_util": 47,
+     "inutil": 1.113,
+     "n_inutil": 13
+    }
+   },
+   "util_media": 1.1963,
+   "inutil_media": 1.1636,
+   "pasa": false
+  },
+  "I4": {
+   "vueltas": {
+    "s1 a10": [],
+    "s1 a11": [
+     {
+      "cosa": "red",
+      "dia": 11,
+      "pruebas": 1
+     }
+    ],
+    "s2 a10": [],
+    "s2 a11": [
+     {
+      "cosa": "red",
+      "dia": 18,
+      "pruebas": 1
+     }
+    ]
+   },
+   "criaturas_con_vuelta": 2,
+   "pasa": true
+  },
+  "I5": {
+   "creencia_botiquin_dia_20": {
+    "s1 a10": 37.8352,
+    "s1 a11": 33.2078,
+    "s2 a10": 33.5349,
+    "s2 a11": 23.5339
+   },
+   "llegan_a_30": 3,
+   "APRENDE - BORRADO dias 1-5": {
+    "n": 20,
+    "media": -2.8,
+    "ee": 1.224
+   },
+   "APRENDE - BORRADO dias 16-20": {
+    "n": 20,
+    "media": -1.7,
+    "ee": 1.414
+   },
+   "ee_diferencia": 1.87,
+   "se_hunde": false,
+   "pasa": true
+  },
+  "I6": {
+   "aperturas": 64,
+   "en_calma": 50,
+   "fraccion": 0.7812,
+   "pasa": false
+  },
+  "sello": {
+   "I1": false,
+   "I2": false,
+   "I3": false,
+   "I4": true,
+   "I5": true,
+   "I6": false
+  }
+ },
+ "sin_marcadas": {
+  "I1": {
+   "pruebas_dias_1_5": {
+    "s1 a10": {
+     "red": 2,
+     "camuflaje": 1
+    },
+    "s1 a11": {
+     "red": 2,
+     "camuflaje": 1
+    },
+    "s2 a10": {
+     "red": 0,
+     "camuflaje": 2
+    },
+    "s2 a11": {
+     "red": 2,
+     "camuflaje": 1
+    }
+   },
+   "pasa": false
+  },
+  "I2": {
+   "APRENDE_inutil_por_vida": 0.941,
+   "TECHO_inutil_por_vida": 0.575,
+   "APRENDE_util_por_vida": 6.147,
+   "n_APRENDE": 34,
+   "n_TECHO": 40,
+   "pasa": false
+  },
+  "I3": {
+   "por_criatura": {
+    "s1 a10": {
+     "util": 1.177,
+     "n_util": 57,
+     "inutil": 1.144,
+     "n_inutil": 19
+    },
+    "s1 a11": {
+     "util": 1.1977,
+     "n_util": 46,
+     "inutil": 1.1502,
+     "n_inutil": 13
+    },
+    "s2 a10": {
+     "util": 1.1863,
+     "n_util": 38,
+     "inutil": 1.2303,
+     "n_inutil": 18
+    },
+    "s2 a11": {
+     "util": 1.2264,
+     "n_util": 47,
+     "inutil": 1.113,
+     "n_inutil": 13
+    }
+   },
+   "util_media": 1.1963,
+   "inutil_media": 1.1636,
+   "pasa": false
+  },
+  "I4": {
+   "vueltas": {
+    "s1 a10": [],
+    "s1 a11": [],
+    "s2 a10": [],
+    "s2 a11": []
+   },
+   "criaturas_con_vuelta": 0,
+   "pasa": false
+  },
+  "I5": {
+   "creencia_botiquin_dia_20": {
+    "s1 a10": 37.8352,
+    "s1 a11": 33.2078,
+    "s2 a10": 33.5349,
+    "s2 a11": 23.5339
+   },
+   "llegan_a_30": 3,
+   "APRENDE - BORRADO dias 1-5": {
+    "n": 10,
+    "media": -1.6,
+    "ee": 1.973
+   },
+   "APRENDE - BORRADO dias 16-20": {
+    "n": 10,
+    "media": -1.9,
+    "ee": 2.268
+   },
+   "ee_diferencia": 3.006,
+   "se_hunde": false,
+   "pasa": true
+  },
+  "I6": {
+   "aperturas": 56,
+   "en_calma": 43,
+   "fraccion": 0.7679,
+   "pasa": false
+  },
+  "sello": {
+   "I1": false,
+   "I2": false,
+   "I3": false,
+   "I4": false,
+   "I5": true,
+   "I6": false
+  }
+ },
+ "cambian_entre_las_dos_cuentas": [
+  "I4"
+ ],
+ "APRENDE - BORRADO todos los dias": {
+  "n": 80,
+  "media": -1.925,
+  "ee": 0.618
+ }
+}

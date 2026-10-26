@@ -1,0 +1,86 @@
+{
+ "_estado": "PROPUESTA, SIN APROBAR. No se ha jugado ni pedido nada con esto.",
+ "_que_es": "[P6-0] roster_lento_v2: el v1 con las dos politicas que mas nos matan en PARTIDA ENTERA fuera (relh-zero-sum y sivanlevy-zs-courier), y las dos mas pacificas ampliadas.",
+ "_criterio": "muertes nuestras atribuidas por silla y por vida nuestra, sobre los 205 episodios del mundo lento (roster_lento_v1) y corroborado en los 222 del mundo normal. Regla de atribucion: la de E3_golpes.py.",
+ "_fuera": [
+  {
+   "nombre": "relh-zero-sum",
+   "policy_version_id": "47f38a1c-9143-4b56-9316-ceabe7c82c6d",
+   "sillas_en_v1": 3,
+   "muertes_nuestras_lento": 166,
+   "de_405": "41,0 %",
+   "m_por_asiento_x100": 13.53,
+   "nota": "ni una muerte antes del tic 8.191; todas despues del anillo"
+  },
+  {
+   "nombre": "sivanlevy-zs-courier",
+   "policy_version_id": "41f43efa-bbd5-477a-8ed1-1443f2731eb1",
+   "sillas_en_v1": 2,
+   "muertes_nuestras_lento": 73,
+   "de_405": "18,0 %",
+   "m_por_asiento_x100": 8.92,
+   "nota": "53 de sus 73 muertes son ANTES del anillo: es la mas temprana"
+  }
+ ],
+ "nuestros_asientos": [
+  {
+   "slot": 10
+  },
+  {
+   "slot": 11
+  }
+ ],
+ "rivales": [
+  {
+   "policy_version_id": "458ec0b6-fc59-4bda-aff0-68daa7f21b79",
+   "nombre": "belobog",
+   "version": 2,
+   "veces": 5,
+   "m_por_asiento_x100": 0.0,
+   "confianza": "alta (615 sillas-partida en lento, 444 en normal)"
+  },
+  {
+   "policy_version_id": "6244cdeb-e044-42ff-91e3-a5c716c4338d",
+   "nombre": "zero-sum-scavenger",
+   "version": 12,
+   "veces": 5,
+   "m_por_asiento_x100": 0.24,
+   "confianza": "alta (615 sillas-partida en lento, 444 en normal)"
+  },
+  {
+   "policy_version_id": "9457da2a-832d-45e5-b918-9209e86f9948",
+   "nombre": "aaron-zs-fable",
+   "version": 2,
+   "veces": 2,
+   "m_por_asiento_x100": 1.71,
+   "confianza": "FLOJA: solo observada en UNA silla; dos copias no se han visto nunca juntas"
+  },
+  {
+   "policy_version_id": "2b9cfd17-db50-4990-8f99-6c7c13453f61",
+   "nombre": "zs-patient",
+   "version": 3,
+   "veces": 1,
+   "m_por_asiento_x100": 6.6,
+   "confianza": "alta para una silla; tasa casi identica en los dos mundos (6,60 y 6,98)"
+  },
+  {
+   "policy_version_id": "3e8097e1-85b8-4731-b7c1-e674f2ccbd10",
+   "nombre": "skourehjan-zero-sum-scripted-v1",
+   "version": 1,
+   "veces": 1,
+   "m_por_asiento_x100": 5.62,
+   "confianza": "alta para una silla; AVISO: sus 23 muertes son TODAS antes del anillo"
+  }
+ ],
+ "_total_asientos": 16,
+ "_prediccion": {
+  "muertes_por_vida_nuestra_atribuidas_a_politicas": 0.169,
+  "observado_en_v1": 0.731,
+  "aviso": "riesgos en competencia: quitar al que mata no quita la muerte, la reparte. En v0->v1 se quito el 82,5 % de las muertes tempranas y el hueco lo ocupo relh, que antes no mataba."
+ },
+ "_sin_comprobar": [
+  "que las cinco politicas sigan en la liga con estas versiones (consulta de liga, coste cero)",
+  "el comportamiento de belobog y scavenger con 5 sillas (vistas con 3) y de aaron con 2 (vista con 1)"
+ ],
+ "game_config_overrides": "SIN TOCAR: los mismos de roster_lento_v1.json (max_ticks 18240, freeze_ticks 480, stat_budget 20, las siete filas de zona desde el 7296 y el bloque sponsor)."
+}

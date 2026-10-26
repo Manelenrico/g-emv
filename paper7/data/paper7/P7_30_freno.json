@@ -1,0 +1,174 @@
+{
+ "vidas": {
+  "d1_a10": {
+   "tics": 14188,
+   "puesto": 1,
+   "leido": false,
+   "recuerdos_al_arrancar": 0,
+   "contacto": {
+    "botiquin": 626,
+    "racion": 12734
+   },
+   "creencia_fin": {
+    "botiquin": 4.3242,
+    "racion": null
+   },
+   "huellas": 2,
+   "guarda": {
+    "ms_mediana": 5.3,
+    "ms_p95": 20.53,
+    "ms_max": 84.14,
+    "sobre_el_tic": 0.0032,
+    "fraccion_sin_cuerpo": 0.0028,
+    "pasa": true,
+    "motivo": []
+   }
+  },
+  "d1_a11": {
+   "tics": 12648,
+   "puesto": 3,
+   "leido": false,
+   "recuerdos_al_arrancar": 0,
+   "contacto": {
+    "botiquin": 1324,
+    "racion": null
+   },
+   "creencia_fin": {
+    "botiquin": null,
+    "racion": null
+   },
+   "huellas": 2,
+   "guarda": {
+    "ms_mediana": 6.96,
+    "ms_p95": 12.37,
+    "ms_max": 34.25,
+    "sobre_el_tic": 0.0,
+    "fraccion_sin_cuerpo": 0.0005,
+    "pasa": true,
+    "motivo": []
+   }
+  },
+  "d2_a10": {
+   "tics": 12480,
+   "puesto": 2,
+   "leido": true,
+   "recuerdos_al_arrancar": 2,
+   "contacto": {
+    "botiquin": null,
+    "racion": 2679
+   },
+   "creencia_fin": {
+    "botiquin": 4.2221,
+    "racion": 8.5808
+   },
+   "huellas": 3,
+   "guarda": {
+    "ms_mediana": 1.23,
+    "ms_p95": 5.41,
+    "ms_max": 27.12,
+    "sobre_el_tic": 0.0,
+    "fraccion_sin_cuerpo": 0.0,
+    "pasa": true,
+    "motivo": []
+   }
+  },
+  "d2_a11": {
+   "tics": 2248,
+   "puesto": 13,
+   "leido": true,
+   "recuerdos_al_arrancar": 2,
+   "contacto": {
+    "botiquin": null,
+    "racion": null
+   },
+   "creencia_fin": {
+    "botiquin": null,
+    "racion": null
+   },
+   "huellas": 0,
+   "guarda": {
+    "ms_mediana": 1.84,
+    "ms_p95": 6.58,
+    "ms_max": 38.66,
+    "sobre_el_tic": 0.0,
+    "fraccion_sin_cuerpo": 0.0,
+    "pasa": true,
+    "motivo": []
+   }
+  },
+  "d3_a10": {
+   "tics": 14304,
+   "puesto": 3,
+   "leido": true,
+   "recuerdos_al_arrancar": 5,
+   "contacto": {
+    "botiquin": null,
+    "racion": 560
+   },
+   "creencia_fin": {
+    "botiquin": 4.1197,
+    "racion": 11.4004
+   },
+   "huellas": 3,
+   "guarda": {
+    "ms_mediana": 2.77,
+    "ms_p95": 14.36,
+    "ms_max": 46.2,
+    "sobre_el_tic": 0.0001,
+    "fraccion_sin_cuerpo": 0.0022,
+    "pasa": true,
+    "motivo": []
+   }
+  },
+  "d3_a11": {
+   "tics": 14280,
+   "puesto": 4,
+   "leido": true,
+   "recuerdos_al_arrancar": 2,
+   "contacto": {
+    "botiquin": 615,
+    "racion": 505
+   },
+   "creencia_fin": {
+    "botiquin": 28.7075,
+    "racion": 4.5824
+   },
+   "huellas": 11,
+   "guarda": {
+    "ms_mediana": 2.02,
+    "ms_p95": 7.88,
+    "ms_max": 23.99,
+    "sobre_el_tic": 0.0,
+    "fraccion_sin_cuerpo": 0.0,
+    "pasa": true,
+    "motivo": []
+   }
+  }
+ },
+ "a_cuaderno_viaja": true,
+ "b_tocan": [
+  "d1 a10",
+  "d1 a11",
+  "d2 a10",
+  "d3 a10",
+  "d3 a11"
+ ],
+ "b_pasa": true,
+ "c_sube": [
+  "d2 a10 racion: None -> 8.5808",
+  "d3 a10 racion: 8.5808 -> 11.4004",
+  "d3 a11 botiquin: None -> 28.7075",
+  "d3 a11 racion: None -> 4.5824"
+ ],
+ "c_pasa": true,
+ "d_guarda_pasa_en": [
+  "d1 a10",
+  "d1 a11",
+  "d2 a10",
+  "d2 a11",
+  "d3 a10",
+  "d3 a11"
+ ],
+ "d_pasa": true,
+ "FRENO": "PASA"
+}

@@ -1,0 +1,684 @@
+{
+ "por_brazo_hermana": {
+  "COMPARTE · valiente": {
+   "vidas": 60,
+   "vistos": 31,
+   "contados": 171,
+   "recibidos": 202,
+   "duplicados": 27,
+   "peso_extra": 72.661,
+   "peso_recibido_total": 504.932,
+   "peso_medio_recibido": 2.5,
+   "dist_media": 2.65,
+   "vista_frac": 0.817,
+   "B_medio": 0.998
+  },
+  "COMPARTE · prudente": {
+   "vidas": 60,
+   "vistos": 16,
+   "contados": 159,
+   "recibidos": 175,
+   "duplicados": 16,
+   "peso_extra": 25.145,
+   "peso_recibido_total": 354.826,
+   "peso_medio_recibido": 2.028,
+   "dist_media": 2.7,
+   "vista_frac": 0.824,
+   "B_medio": 0.998
+  },
+  "SOLAS · valiente": {
+   "vidas": 60,
+   "vistos": 0,
+   "contados": 0,
+   "recibidos": 0,
+   "duplicados": 0,
+   "peso_extra": 0.0,
+   "peso_recibido_total": 0.0,
+   "peso_medio_recibido": null,
+   "dist_media": 2.67,
+   "vista_frac": 0.843,
+   "B_medio": 0.998
+  },
+  "SOLAS · prudente": {
+   "vidas": 60,
+   "vistos": 0,
+   "contados": 0,
+   "recibidos": 0,
+   "duplicados": 0,
+   "peso_extra": 0.0,
+   "peso_recibido_total": 0.0,
+   "peso_medio_recibido": null,
+   "dist_media": 2.71,
+   "vista_frac": 0.853,
+   "B_medio": 0.998
+  }
+ },
+ "duplicados": [
+  {
+   "serie": 1,
+   "dia": 1,
+   "asiento": 11,
+   "objeto": "camouflage",
+   "t0_visto": 615,
+   "tick_hermana": 615,
+   "via": "canal",
+   "peso_visto": 1.0,
+   "peso_contado": 2.0,
+   "peso_extra": 2.0
+  },
+  {
+   "serie": 1,
+   "dia": 3,
+   "asiento": 11,
+   "objeto": "camouflage",
+   "t0_visto": 635,
+   "tick_hermana": 635,
+   "via": "canal",
+   "peso_visto": 1.0,
+   "peso_contado": 1.0,
+   "peso_extra": 1.0
+  },
+  {
+   "serie": 3,
+   "dia": 1,
+   "asiento": 11,
+   "objeto": "camouflage",
+   "t0_visto": 648,
+   "tick_hermana": 648,
+   "via": "canal",
+   "peso_visto": 1.0,
+   "peso_contado": 1.0,
+   "peso_extra": 1.0
+  },
+  {
+   "serie": 2,
+   "dia": 1,
+   "asiento": 11,
+   "objeto": "camouflage",
+   "t0_visto": 626,
+   "tick_hermana": 626,
+   "via": "canal",
+   "peso_visto": 0.9795,
+   "peso_contado": 1.0,
+   "peso_extra": 1.0
+  },
+  {
+   "serie": 1,
+   "dia": 4,
+   "asiento": 11,
+   "objeto": "camouflage",
+   "t0_visto": 725,
+   "tick_hermana": 725,
+   "via": "canal",
+   "peso_visto": 1.0,
+   "peso_contado": 2.74,
+   "peso_extra": 2.74
+  },
+  {
+   "serie": 2,
+   "dia": 2,
+   "asiento": 10,
+   "objeto": "camouflage",
+   "t0_visto": 1165,
+   "tick_hermana": 1165,
+   "via": "canal",
+   "peso_visto": 1.2363,
+   "peso_contado": 2.0,
+   "peso_extra": 2.0
+  },
+  {
+   "serie": 1,
+   "dia": 5,
+   "asiento": 10,
+   "objeto": "camouflage",
+   "t0_visto": 2409,
+   "tick_hermana": 2351,
+   "via": "canal",
+   "peso_visto": 1.0132,
+   "peso_contado": 1.736,
+   "peso_extra": 1.736
+  },
+  {
+   "serie": 2,
+   "dia": 3,
+   "asiento": 10,
+   "objeto": "camouflage",
+   "t0_visto": 853,
+   "tick_hermana": 853,
+   "via": "canal",
+   "peso_visto": 1.1366,
+   "peso_contado": 1.292,
+   "peso_extra": 1.292
+  },
+  {
+   "serie": 1,
+   "dia": 6,
+   "asiento": 10,
+   "objeto": "camouflage",
+   "t0_visto": 9002,
+   "tick_hermana": 9002,
+   "via": "canal",
+   "peso_visto": 1.3593,
+   "peso_contado": 1.073,
+   "peso_extra": 1.073
+  },
+  {
+   "serie": 3,
+   "dia": 5,
+   "asiento": 11,
+   "objeto": "camouflage",
+   "t0_visto": 626,
+   "tick_hermana": 626,
+   "via": "canal",
+   "peso_visto": 0.9795,
+   "peso_contado": 1.854,
+   "peso_extra": 1.854
+  },
+  {
+   "serie": 2,
+   "dia": 6,
+   "asiento": 10,
+   "objeto": "camouflage",
+   "t0_visto": 637,
+   "tick_hermana": 637,
+   "via": "canal",
+   "peso_visto": 1.0,
+   "peso_contado": 4.0,
+   "peso_extra": 4.0
+  },
+  {
+   "serie": 3,
+   "dia": 7,
+   "asiento": 10,
+   "objeto": "camouflage",
+   "t0_visto": 8281,
+   "tick_hermana": 8220,
+   "via": "canal",
+   "peso_visto": 1.0,
+   "peso_contado": 4.0,
+   "peso_extra": 4.0
+  },
+  {
+   "serie": 1,
+   "dia": 9,
+   "asiento": 11,
+   "objeto": "camouflage",
+   "t0_visto": 1525,
+   "tick_hermana": 1525,
+   "via": "canal",
+   "peso_visto": 1.8512,
+   "peso_contado": 1.02,
+   "peso_extra": 1.02
+  },
+  {
+   "serie": 3,
+   "dia": 8,
+   "asiento": 10,
+   "objeto": "camouflage",
+   "t0_visto": 714,
+   "tick_hermana": 714,
+   "via": "canal",
+   "peso_visto": 1.0183,
+   "peso_contado": 3.839,
+   "peso_extra": 3.839
+  },
+  {
+   "serie": 1,
+   "dia": 10,
+   "asiento": 10,
+   "objeto": "camouflage",
+   "t0_visto": 1187,
+   "tick_hermana": 1187,
+   "via": "canal",
+   "peso_visto": 1.1708,
+   "peso_contado": 1.136,
+   "peso_extra": 1.136
+  },
+  {
+   "serie": 2,
+   "dia": 8,
+   "asiento": 10,
+   "objeto": "camouflage",
+   "t0_visto": 868,
+   "tick_hermana": 868,
+   "via": "canal",
+   "peso_visto": 1.1577,
+   "peso_contado": 1.452,
+   "peso_extra": 1.452
+  },
+  {
+   "serie": 3,
+   "dia": 9,
+   "asiento": 11,
+   "objeto": "camouflage",
+   "t0_visto": 966,
+   "tick_hermana": 962,
+   "via": "canal",
+   "peso_visto": 1.2328,
+   "peso_contado": 1.019,
+   "peso_extra": 1.019
+  },
+  {
+   "serie": 2,
+   "dia": 9,
+   "asiento": 10,
+   "objeto": "camouflage",
+   "t0_visto": 648,
+   "tick_hermana": 648,
+   "via": "canal",
+   "peso_visto": 1.0,
+   "peso_contado": 4.0,
+   "peso_extra": 4.0
+  },
+  {
+   "serie": 3,
+   "dia": 10,
+   "asiento": 11,
+   "objeto": "camouflage",
+   "t0_visto": 626,
+   "tick_hermana": 626,
+   "via": "canal",
+   "peso_visto": 0.991,
+   "peso_contado": 2.0,
+   "peso_extra": 2.0
+  },
+  {
+   "serie": 3,
+   "dia": 11,
+   "asiento": 10,
+   "objeto": "camouflage",
+   "t0_visto": 626,
+   "tick_hermana": 626,
+   "via": "canal",
+   "peso_visto": 1.0,
+   "peso_contado": 4.0,
+   "peso_extra": 4.0
+  },
+  {
+   "serie": 1,
+   "dia": 13,
+   "asiento": 10,
+   "objeto": "camouflage",
+   "t0_visto": 2078,
+   "tick_hermana": 2078,
+   "via": "canal",
+   "peso_visto": 1.496,
+   "peso_contado": 1.492,
+   "peso_extra": 1.492
+  },
+  {
+   "serie": 2,
+   "dia": 10,
+   "asiento": 10,
+   "objeto": "camouflage",
+   "t0_visto": 1066,
+   "tick_hermana": 1066,
+   "via": "canal",
+   "peso_visto": 1.0712,
+   "peso_contado": 1.066,
+   "peso_extra": 1.066
+  },
+  {
+   "serie": 1,
+   "dia": 14,
+   "asiento": 10,
+   "objeto": "camouflage",
+   "t0_visto": 1164,
+   "tick_hermana": 1132,
+   "via": "canal",
+   "peso_visto": 1.0553,
+   "peso_contado": 1.451,
+   "peso_extra": 1.451
+  },
+  {
+   "serie": 2,
+   "dia": 11,
+   "asiento": 11,
+   "objeto": "camouflage",
+   "t0_visto": 1109,
+   "tick_hermana": 1109,
+   "via": "canal",
+   "peso_visto": 1.9241,
+   "peso_contado": 3.021,
+   "peso_extra": 3.021
+  },
+  {
+   "serie": 3,
+   "dia": 13,
+   "asiento": 10,
+   "objeto": "camouflage",
+   "t0_visto": 648,
+   "tick_hermana": 648,
+   "via": "canal",
+   "peso_visto": 1.0,
+   "peso_contado": 4.0,
+   "peso_extra": 4.0
+  },
+  {
+   "serie": 1,
+   "dia": 15,
+   "asiento": 11,
+   "objeto": "camouflage",
+   "t0_visto": 670,
+   "tick_hermana": 670,
+   "via": "canal",
+   "peso_visto": 1.0,
+   "peso_contado": 2.471,
+   "peso_extra": 2.471
+  },
+  {
+   "serie": 3,
+   "dia": 14,
+   "asiento": 10,
+   "objeto": "camouflage",
+   "t0_visto": 734,
+   "tick_hermana": 734,
+   "via": "canal",
+   "peso_visto": 2.1012,
+   "peso_contado": 3.888,
+   "peso_extra": 3.888
+  },
+  {
+   "serie": 1,
+   "dia": 16,
+   "asiento": 10,
+   "objeto": "camouflage",
+   "t0_visto": 2573,
+   "tick_hermana": 2388,
+   "via": "canal",
+   "peso_visto": 3.3068,
+   "peso_contado": 4.0,
+   "peso_extra": 4.0
+  },
+  {
+   "serie": 1,
+   "dia": 16,
+   "asiento": 10,
+   "objeto": "camouflage",
+   "t0_visto": 2707,
+   "tick_hermana": 2573,
+   "via": "canal",
+   "peso_visto": 4.0,
+   "peso_contado": 3.234,
+   "peso_extra": 3.234
+  },
+  {
+   "serie": 3,
+   "dia": 15,
+   "asiento": 11,
+   "objeto": "camouflage",
+   "t0_visto": 8307,
+   "tick_hermana": 8307,
+   "via": "canal",
+   "peso_visto": 1.1513,
+   "peso_contado": 1.008,
+   "peso_extra": 1.008
+  },
+  {
+   "serie": 1,
+   "dia": 17,
+   "asiento": 11,
+   "objeto": "camouflage",
+   "t0_visto": 1668,
+   "tick_hermana": 1668,
+   "via": "canal",
+   "peso_visto": 1.1827,
+   "peso_contado": 1.014,
+   "peso_extra": 1.014
+  },
+  {
+   "serie": 1,
+   "dia": 18,
+   "asiento": 10,
+   "objeto": "camouflage",
+   "t0_visto": 968,
+   "tick_hermana": 968,
+   "via": "canal",
+   "peso_visto": 1.0871,
+   "peso_contado": 1.099,
+   "peso_extra": 1.099
+  },
+  {
+   "serie": 3,
+   "dia": 17,
+   "asiento": 11,
+   "objeto": "camouflage",
+   "t0_visto": 1129,
+   "tick_hermana": 1129,
+   "via": "canal",
+   "peso_visto": 1.1737,
+   "peso_contado": 1.009,
+   "peso_extra": 1.009
+  },
+  {
+   "serie": 1,
+   "dia": 19,
+   "asiento": 10,
+   "objeto": "camouflage",
+   "t0_visto": 1066,
+   "tick_hermana": 1066,
+   "via": "canal",
+   "peso_visto": 1.0,
+   "peso_contado": 4.0,
+   "peso_extra": 4.0
+  },
+  {
+   "serie": 2,
+   "dia": 15,
+   "asiento": 10,
+   "objeto": "camouflage",
+   "t0_visto": 1737,
+   "tick_hermana": 1737,
+   "via": "canal",
+   "peso_visto": 2.1656,
+   "peso_contado": 1.116,
+   "peso_extra": 1.116
+  },
+  {
+   "serie": 3,
+   "dia": 18,
+   "asiento": 11,
+   "objeto": "camouflage",
+   "t0_visto": 1893,
+   "tick_hermana": 1893,
+   "via": "canal",
+   "peso_visto": 4.0,
+   "peso_contado": 1.985,
+   "peso_extra": 1.985
+  },
+  {
+   "serie": 1,
+   "dia": 20,
+   "asiento": 10,
+   "objeto": "camouflage",
+   "t0_visto": 1066,
+   "tick_hermana": 1066,
+   "via": "canal",
+   "peso_visto": 2.9425,
+   "peso_contado": 4.0,
+   "peso_extra": 4.0
+  },
+  {
+   "serie": 2,
+   "dia": 16,
+   "asiento": 10,
+   "objeto": "camouflage",
+   "t0_visto": 2550,
+   "tick_hermana": 2342,
+   "via": "canal",
+   "peso_visto": 3.0768,
+   "peso_contado": 1.732,
+   "peso_extra": 1.732
+  },
+  {
+   "serie": 3,
+   "dia": 19,
+   "asiento": 11,
+   "objeto": "camouflage",
+   "t0_visto": 1033,
+   "tick_hermana": 1033,
+   "via": "canal",
+   "peso_visto": 1.873,
+   "peso_contado": 1.004,
+   "peso_extra": 1.004
+  },
+  {
+   "serie": 2,
+   "dia": 17,
+   "asiento": 10,
+   "objeto": "camouflage",
+   "t0_visto": 648,
+   "tick_hermana": 648,
+   "via": "canal",
+   "peso_visto": 2.8359,
+   "peso_contado": 4.0,
+   "peso_extra": 4.0
+  },
+  {
+   "serie": 3,
+   "dia": 20,
+   "asiento": 10,
+   "objeto": "camouflage",
+   "t0_visto": 835,
+   "tick_hermana": 835,
+   "via": "canal",
+   "peso_visto": 1.1017,
+   "peso_contado": 1.055,
+   "peso_extra": 1.055
+  },
+  {
+   "serie": 2,
+   "dia": 18,
+   "asiento": 10,
+   "objeto": "camouflage",
+   "t0_visto": 648,
+   "tick_hermana": 648,
+   "via": "canal",
+   "peso_visto": 1.0,
+   "peso_contado": 4.0,
+   "peso_extra": 4.0
+  },
+  {
+   "serie": 2,
+   "dia": 20,
+   "asiento": 10,
+   "objeto": "camouflage",
+   "t0_visto": 636,
+   "tick_hermana": 636,
+   "via": "canal",
+   "peso_visto": 1.0,
+   "peso_contado": 4.0,
+   "peso_extra": 4.0
+  }
+ ],
+ "S1": {
+  "1": {
+   "hermana_que_menos_prueba": 11,
+   "pruebas_solas": {
+    "10": 83,
+    "11": 54
+   },
+   "a10": {
+    "recibidos": 73,
+    "peso_total": 184.13,
+    "peso_medio": 2.522,
+    "dist_media": 2.46,
+    "B_medio": 0.998,
+    "vista_frac": 0.826
+   },
+   "a11": {
+    "recibidos": 57,
+    "peso_total": 112.72,
+    "peso_medio": 1.977,
+    "dist_media": 2.45,
+    "B_medio": 0.998,
+    "vista_frac": 0.81
+   }
+  },
+  "2": {
+   "hermana_que_menos_prueba": 11,
+   "pruebas_solas": {
+    "10": 75,
+    "11": 66
+   },
+   "a10": {
+    "recibidos": 62,
+    "peso_total": 150.33,
+    "peso_medio": 2.425,
+    "dist_media": 3.17,
+    "B_medio": 0.997,
+    "vista_frac": 0.771
+   },
+   "a11": {
+    "recibidos": 51,
+    "peso_total": 120.36,
+    "peso_medio": 2.36,
+    "dist_media": 3.27,
+    "B_medio": 0.998,
+    "vista_frac": 0.804
+   }
+  },
+  "3": {
+   "hermana_que_menos_prueba": 10,
+   "pruebas_solas": {
+    "10": 69,
+    "11": 93
+   },
+   "a10": {
+    "recibidos": 67,
+    "peso_total": 170.47,
+    "peso_medio": 2.544,
+    "dist_media": 2.33,
+    "B_medio": 0.998,
+    "vista_frac": 0.854
+   },
+   "a11": {
+    "recibidos": 67,
+    "peso_total": 121.75,
+    "peso_medio": 1.817,
+    "dist_media": 2.37,
+    "B_medio": 0.998,
+    "vista_frac": 0.857
+   }
+  }
+ },
+ "S1_sello": {
+  "COMPARTE": [
+   632.746,
+   637.703,
+   795.592
+  ],
+  "SOLAS": [
+   213.413,
+   642.613,
+   419.11
+  ],
+  "media_C": 688.68,
+  "media_S": 425.045,
+  "dif": 263.635,
+  "ee": 134.979,
+  "tres_veces": false,
+  "direccion_ok": true,
+  "pasa": false
+ },
+ "S2_sello": {
+  "COMPARTE": [
+   0.08,
+   0.149,
+   0.069
+  ],
+  "SOLAS": [
+   7.147,
+   1.233,
+   3.96
+  ],
+  "media_C": 0.1,
+  "media_S": 4.114,
+  "dif": -4.014,
+  "ee": 1.709,
+  "tres_veces": false,
+  "direccion_ok": true,
+  "pasa": false
+ },
+ "vidas": 240
+}

@@ -1,0 +1,320 @@
+{
+ "por_brazo_y_hermana": {
+  "MIENTE · valiente": {
+   "vidas_dia": 4,
+   "aceptadas": 2,
+   "llegadas": 0,
+   "aciertos": 0,
+   "interrumpidas": 2,
+   "no_llego": 0,
+   "fraccion_llegada": 0.0,
+   "tics_hasta_interrupcion_mediana": 82.5,
+   "interrumpidas_en_24_tics_o_menos": 0,
+   "distancia_al_aceptar_mediana": 11.5
+  },
+  "MIENTE · prudente": {
+   "vidas_dia": 4,
+   "aceptadas": 2,
+   "llegadas": 0,
+   "aciertos": 0,
+   "interrumpidas": 1,
+   "no_llego": 1,
+   "fraccion_llegada": 0.0,
+   "tics_hasta_interrupcion_mediana": 33,
+   "interrumpidas_en_24_tics_o_menos": 0,
+   "distancia_al_aceptar_mediana": 11.0
+  },
+  "HONESTA · valiente": {
+   "vidas_dia": 4,
+   "aceptadas": 3,
+   "llegadas": 0,
+   "aciertos": 0,
+   "interrumpidas": 3,
+   "no_llego": 0,
+   "fraccion_llegada": 0.0,
+   "tics_hasta_interrupcion_mediana": 99,
+   "interrumpidas_en_24_tics_o_menos": 0,
+   "distancia_al_aceptar_mediana": 14
+  },
+  "HONESTA · prudente": {
+   "vidas_dia": 4,
+   "aceptadas": 4,
+   "llegadas": 0,
+   "aciertos": 0,
+   "interrumpidas": 3,
+   "no_llego": 1,
+   "fraccion_llegada": 0.0,
+   "tics_hasta_interrupcion_mediana": 99,
+   "interrumpidas_en_24_tics_o_menos": 0,
+   "distancia_al_aceptar_mediana": 14.0
+  },
+  "MIENTE · las dos": {
+   "vidas_dia": 8,
+   "aceptadas": 4,
+   "llegadas": 0,
+   "aciertos": 0,
+   "interrumpidas": 3,
+   "no_llego": 1,
+   "fraccion_llegada": 0.0,
+   "llegadas_por_vida_dia": 0.0,
+   "evaluaciones_por_serie_estimadas": 0.0
+  },
+  "MIENTE · por pareja": {
+   "parejas_dia": 4,
+   "llegadas_por_pareja_dia": 0.0,
+   "llegan_juntas": 0,
+   "llega_una_sola": 0,
+   "detalle": [
+    {
+     "dia": "d1",
+     "llegadas": 0,
+     "juntas": false,
+     "una_sola": false,
+     "aceptadas": 1
+    },
+    {
+     "dia": "d2",
+     "llegadas": 0,
+     "juntas": false,
+     "una_sola": false,
+     "aceptadas": 1
+    },
+    {
+     "dia": "d3",
+     "llegadas": 0,
+     "juntas": false,
+     "una_sola": false,
+     "aceptadas": 2
+    },
+    {
+     "dia": "d4",
+     "llegadas": 0,
+     "juntas": false,
+     "una_sola": false,
+     "aceptadas": 0
+    }
+   ]
+  },
+  "HONESTA · las dos": {
+   "vidas_dia": 8,
+   "aceptadas": 7,
+   "llegadas": 0,
+   "aciertos": 0,
+   "interrumpidas": 6,
+   "no_llego": 1,
+   "fraccion_llegada": 0.0,
+   "llegadas_por_vida_dia": 0.0,
+   "evaluaciones_por_serie_estimadas": 0.0
+  },
+  "HONESTA · por pareja": {
+   "parejas_dia": 4,
+   "llegadas_por_pareja_dia": 0.0,
+   "llegan_juntas": 0,
+   "llega_una_sola": 0,
+   "detalle": [
+    {
+     "dia": "d1",
+     "llegadas": 0,
+     "juntas": false,
+     "una_sola": false,
+     "aceptadas": 2
+    },
+    {
+     "dia": "d2",
+     "llegadas": 0,
+     "juntas": false,
+     "una_sola": false,
+     "aceptadas": 2
+    },
+    {
+     "dia": "d3",
+     "llegadas": 0,
+     "juntas": false,
+     "una_sola": false,
+     "aceptadas": 2
+    },
+    {
+     "dia": "d4",
+     "llegadas": 0,
+     "juntas": false,
+     "una_sola": false,
+     "aceptadas": 1
+    }
+   ]
+  }
+ },
+ "gifs": [
+  {
+   "gif": "P7_66b_gif_miente.gif",
+   "dia": "d1",
+   "asiento": "11",
+   "brazo": "MIENTE",
+   "hermana": "prudente",
+   "destino": [
+    5,
+    16
+   ],
+   "tic_aceptada": 241,
+   "tic_juicio": 274,
+   "tics": 33,
+   "cierre": "interrumpida",
+   "acierto_recursos": null,
+   "fotogramas": 18
+  },
+  {
+   "gif": "P7_66b_gif_honesta.gif",
+   "dia": "d2",
+   "asiento": "12",
+   "brazo": "HONESTA",
+   "hermana": "valiente",
+   "destino": [
+    24,
+    23
+   ],
+   "tic_aceptada": 285,
+   "tic_juicio": 318,
+   "tics": 33,
+   "cierre": "interrumpida",
+   "acierto_recursos": null,
+   "fotogramas": 18
+  }
+ ],
+ "tramo_P7_65": {
+  "400-499": {
+   "lejos_del_centro": 1.0,
+   "lejos_y_en_calma": 0.421,
+   "distancia_media_al_centro": 11.8
+  },
+  "500-599": {
+   "lejos_del_centro": 0.646,
+   "lejos_y_en_calma": 0.336,
+   "distancia_media_al_centro": 7.9
+  },
+  "600-699": {
+   "lejos_del_centro": 0.225,
+   "lejos_y_en_calma": 0.133,
+   "distancia_media_al_centro": 4.0
+  },
+  "700-799": {
+   "lejos_del_centro": 0.217,
+   "lejos_y_en_calma": 0.13,
+   "distancia_media_al_centro": 3.9
+  },
+  "800-899": {
+   "lejos_del_centro": 0.193,
+   "lejos_y_en_calma": 0.11,
+   "distancia_media_al_centro": 3.8
+  },
+  "900-999": {
+   "lejos_del_centro": 0.159,
+   "lejos_y_en_calma": 0.067,
+   "distancia_media_al_centro": 3.5
+  },
+  "1000-1099": {
+   "lejos_del_centro": 0.128,
+   "lejos_y_en_calma": 0.043,
+   "distancia_media_al_centro": 3.3
+  },
+  "1100-1199": {
+   "lejos_del_centro": 0.117,
+   "lejos_y_en_calma": 0.036,
+   "distancia_media_al_centro": 3.2
+  },
+  "1200-1299": {
+   "lejos_del_centro": 0.117,
+   "lejos_y_en_calma": 0.047,
+   "distancia_media_al_centro": 3.2
+  },
+  "1300-1399": {
+   "lejos_del_centro": 0.116,
+   "lejos_y_en_calma": 0.053,
+   "distancia_media_al_centro": 3.2
+  },
+  "1400-1499": {
+   "lejos_del_centro": 0.113,
+   "lejos_y_en_calma": 0.051,
+   "distancia_media_al_centro": 3.2
+  },
+  "1500-1599": {
+   "lejos_del_centro": 0.114,
+   "lejos_y_en_calma": 0.056,
+   "distancia_media_al_centro": 3.2
+  },
+  "1600-1699": {
+   "lejos_del_centro": 0.114,
+   "lejos_y_en_calma": 0.056,
+   "distancia_media_al_centro": 3.2
+  },
+  "1700-1799": {
+   "lejos_del_centro": 0.112,
+   "lejos_y_en_calma": 0.046,
+   "distancia_media_al_centro": 3.2
+  },
+  "1800-1899": {
+   "lejos_del_centro": 0.115,
+   "lejos_y_en_calma": 0.055,
+   "distancia_media_al_centro": 3.1
+  },
+  "1900-1999": {
+   "lejos_del_centro": 0.119,
+   "lejos_y_en_calma": 0.061,
+   "distancia_media_al_centro": 3.2
+  },
+  "2000-2099": {
+   "lejos_del_centro": 0.119,
+   "lejos_y_en_calma": 0.066,
+   "distancia_media_al_centro": 3.2
+  },
+  "2100-2199": {
+   "lejos_del_centro": 0.115,
+   "lejos_y_en_calma": 0.071,
+   "distancia_media_al_centro": 3.1
+  },
+  "2200-2299": {
+   "lejos_del_centro": 0.113,
+   "lejos_y_en_calma": 0.074,
+   "distancia_media_al_centro": 3.1
+  },
+  "2300-2399": {
+   "lejos_del_centro": 0.093,
+   "lejos_y_en_calma": 0.045,
+   "distancia_media_al_centro": 3.1
+  },
+  "2400-2499": {
+   "lejos_del_centro": 0.085,
+   "lejos_y_en_calma": 0.034,
+   "distancia_media_al_centro": 3.0
+  },
+  "2500-2599": {
+   "lejos_del_centro": 0.076,
+   "lejos_y_en_calma": 0.035,
+   "distancia_media_al_centro": 2.9
+  },
+  "2600-2699": {
+   "lejos_del_centro": 0.068,
+   "lejos_y_en_calma": 0.037,
+   "distancia_media_al_centro": 2.8
+  },
+  "2700-2799": {
+   "lejos_del_centro": 0.068,
+   "lejos_y_en_calma": 0.035,
+   "distancia_media_al_centro": 2.8
+  },
+  "2800-2899": {
+   "lejos_del_centro": 0.067,
+   "lejos_y_en_calma": 0.036,
+   "distancia_media_al_centro": 2.9
+  },
+  "2900-2999": {
+   "lejos_del_centro": 0.062,
+   "lejos_y_en_calma": 0.033,
+   "distancia_media_al_centro": 2.8
+  },
+  "3000-3099": {
+   "lejos_del_centro": 0.06,
+   "lejos_y_en_calma": 0.03,
+   "distancia_media_al_centro": 2.8
+  }
+ },
+ "dias": 4
+}

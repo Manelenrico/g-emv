@@ -1,0 +1,3195 @@
+{
+ "vidas": [
+  {
+   "serie": "P7-5",
+   "dia": 1,
+   "vida": "P75_humo_APRENDE_26544656/10",
+   "escenas": 1133,
+   "registradas": 1133,
+   "clases": {
+    "ir curioso": 47,
+    "ir al objeto": 3,
+    "otra": 123,
+    "quieto": 938,
+    "hacer sitio": 21,
+    "coger": 1
+   },
+   "por_situacion": {
+    "dist=0,libre=False,lleva=False": {
+     "n": 23,
+     "clases": {
+      "hacer sitio": 21,
+      "otra": 2
+     },
+     "con_ir_curioso": 0,
+     "d_ir_curioso_mediana": null,
+     "d_noop_mediana": 2.61363
+    },
+    "dist=1,libre=False,lleva=False": {
+     "n": 339,
+     "clases": {
+      "otra": 43,
+      "quieto": 296
+     },
+     "con_ir_curioso": 0,
+     "d_ir_curioso_mediana": null,
+     "d_noop_mediana": 2.61708
+    },
+    "dist=1,libre=True,lleva=False": {
+     "n": 13,
+     "clases": {
+      "ir curioso": 11,
+      "ir al objeto": 1,
+      "coger": 1
+     },
+     "con_ir_curioso": 12,
+     "d_ir_curioso_mediana": 2.43383,
+     "d_noop_mediana": 2.50814
+    },
+    "dist=2,libre=False,lleva=False": {
+     "n": 714,
+     "clases": {
+      "quieto": 636,
+      "otra": 78
+     },
+     "con_ir_curioso": 0,
+     "d_ir_curioso_mediana": null,
+     "d_noop_mediana": 2.67611
+    },
+    "dist=2,libre=True,lleva=False": {
+     "n": 44,
+     "clases": {
+      "ir curioso": 36,
+      "ir al objeto": 2,
+      "quieto": 6
+     },
+     "con_ir_curioso": 43,
+     "d_ir_curioso_mediana": 2.5298,
+     "d_noop_mediana": 2.60521
+    }
+   },
+   "ejemplos": [
+    {
+     "t": 614,
+     "dist": 2,
+     "ranura_libre": true,
+     "lleva_kit": false,
+     "pack": [
+      "rations",
+      null
+     ],
+     "hp": 100,
+     "elegido_campo": "noop",
+     "replica": "ir_curioso",
+     "clase": "ir curioso",
+     "d_mejor": [
+      [
+       "ir_curioso",
+       2.5298
+      ],
+      [
+       "noop",
+       2.60521
+      ]
+     ],
+     "d_ir_curioso": 2.5298,
+     "d_ir_objeto": null,
+     "d_coger": null,
+     "d_noop": 2.60521,
+     "hay_ir_curioso": true,
+     "hay_coger": false,
+     "hay_hacer_sitio": false,
+     "n_candidatos": 2
+    },
+    {
+     "t": 615,
+     "dist": 2,
+     "ranura_libre": true,
+     "lleva_kit": false,
+     "pack": [
+      "rations",
+      null
+     ],
+     "hp": 100,
+     "elegido_campo": "noop",
+     "replica": "ir_curioso",
+     "clase": "ir curioso",
+     "d_mejor": [
+      [
+       "ir_curioso",
+       2.5298
+      ],
+      [
+       "noop",
+       2.60521
+      ]
+     ],
+     "d_ir_curioso": 2.5298,
+     "d_ir_objeto": null,
+     "d_coger": null,
+     "d_noop": 2.60521,
+     "hay_ir_curioso": true,
+     "hay_coger": false,
+     "hay_hacer_sitio": false,
+     "n_candidatos": 2
+    },
+    {
+     "t": 616,
+     "dist": 2,
+     "ranura_libre": true,
+     "lleva_kit": false,
+     "pack": [
+      "rations",
+      null
+     ],
+     "hp": 100,
+     "elegido_campo": "noop",
+     "replica": "ir_curioso",
+     "clase": "ir curioso",
+     "d_mejor": [
+      [
+       "ir_curioso",
+       2.5298
+      ],
+      [
+       "noop",
+       2.60521
+      ]
+     ],
+     "d_ir_curioso": 2.5298,
+     "d_ir_objeto": null,
+     "d_coger": null,
+     "d_noop": 2.60521,
+     "hay_ir_curioso": true,
+     "hay_coger": false,
+     "hay_hacer_sitio": false,
+     "n_candidatos": 2
+    },
+    {
+     "t": 614,
+     "dist": 2,
+     "ranura_libre": true,
+     "lleva_kit": false,
+     "pack": [
+      "rations",
+      null
+     ],
+     "hp": 100,
+     "elegido_campo": "noop",
+     "replica": "ir_curioso",
+     "clase": "ir curioso",
+     "d_mejor": [
+      [
+       "ir_curioso",
+       2.5298
+      ],
+      [
+       "noop",
+       2.60521
+      ]
+     ],
+     "d_ir_curioso": 2.5298,
+     "d_ir_objeto": null,
+     "d_coger": null,
+     "d_noop": 2.60521,
+     "hay_ir_curioso": true,
+     "hay_coger": false,
+     "hay_hacer_sitio": false,
+     "n_candidatos": 2
+    },
+    {
+     "t": 615,
+     "dist": 2,
+     "ranura_libre": true,
+     "lleva_kit": false,
+     "pack": [
+      "rations",
+      null
+     ],
+     "hp": 100,
+     "elegido_campo": "noop",
+     "replica": "ir_curioso",
+     "clase": "ir curioso",
+     "d_mejor": [
+      [
+       "ir_curioso",
+       2.5298
+      ],
+      [
+       "noop",
+       2.60521
+      ]
+     ],
+     "d_ir_curioso": 2.5298,
+     "d_ir_objeto": null,
+     "d_coger": null,
+     "d_noop": 2.60521,
+     "hay_ir_curioso": true,
+     "hay_coger": false,
+     "hay_hacer_sitio": false,
+     "n_candidatos": 2
+    },
+    {
+     "t": 616,
+     "dist": 2,
+     "ranura_libre": true,
+     "lleva_kit": false,
+     "pack": [
+      "rations",
+      null
+     ],
+     "hp": 100,
+     "elegido_campo": "noop",
+     "replica": "ir_curioso",
+     "clase": "ir curioso",
+     "d_mejor": [
+      [
+       "ir_curioso",
+       2.5298
+      ],
+      [
+       "noop",
+       2.60521
+      ]
+     ],
+     "d_ir_curioso": 2.5298,
+     "d_ir_objeto": null,
+     "d_coger": null,
+     "d_noop": 2.60521,
+     "hay_ir_curioso": true,
+     "hay_coger": false,
+     "hay_hacer_sitio": false,
+     "n_candidatos": 2
+    }
+   ],
+   "fidelidad_al_campo": {
+    "igual": 11823,
+    "difiere": 297
+   },
+   "huellas": [],
+   "errores": []
+  },
+  {
+   "serie": "P7-5",
+   "dia": 1,
+   "vida": "P75_humo_APRENDE_26544656/11",
+   "escenas": 9399,
+   "registradas": 9399,
+   "clases": {
+    "ir curioso": 40,
+    "ir al objeto": 130,
+    "coger": 96,
+    "otra": 826,
+    "quieto": 8307
+   },
+   "por_situacion": {
+    "dist=0,libre=False,lleva=False": {
+     "n": 506,
+     "clases": {
+      "quieto": 459,
+      "otra": 47
+     },
+     "con_ir_curioso": 0,
+     "d_ir_curioso_mediana": null,
+     "d_noop_mediana": 3.49171
+    },
+    "dist=0,libre=True,lleva=False": {
+     "n": 95,
+     "clases": {
+      "coger": 95
+     },
+     "con_ir_curioso": 0,
+     "d_ir_curioso_mediana": null,
+     "d_noop_mediana": 3.07263
+    },
+    "dist=1,libre=False,lleva=False": {
+     "n": 3670,
+     "clases": {
+      "quieto": 3334,
+      "ir al objeto": 26,
+      "otra": 310
+     },
+     "con_ir_curioso": 0,
+     "d_ir_curioso_mediana": null,
+     "d_noop_mediana": 3.4847
+    },
+    "dist=1,libre=True,lleva=False": {
+     "n": 22,
+     "clases": {
+      "coger": 1,
+      "ir curioso": 20,
+      "otra": 1
+     },
+     "con_ir_curioso": 21,
+     "d_ir_curioso_mediana": 2.98844,
+     "d_noop_mediana": 3.07263
+    },
+    "dist=2,libre=False,lleva=False": {
+     "n": 5082,
+     "clases": {
+      "otra": 467,
+      "quieto": 4512,
+      "ir al objeto": 103
+     },
+     "con_ir_curioso": 0,
+     "d_ir_curioso_mediana": null,
+     "d_noop_mediana": 3.3887
+    },
+    "dist=2,libre=True,lleva=False": {
+     "n": 24,
+     "clases": {
+      "ir curioso": 20,
+      "ir al objeto": 1,
+      "quieto": 2,
+      "otra": 1
+     },
+     "con_ir_curioso": 23,
+     "d_ir_curioso_mediana": 3.10003,
+     "d_noop_mediana": 3.20319
+    }
+   },
+   "ejemplos": [
+    {
+     "t": 592,
+     "dist": 2,
+     "ranura_libre": true,
+     "lleva_kit": false,
+     "pack": [
+      null,
+      null
+     ],
+     "hp": 100,
+     "elegido_campo": "noop",
+     "replica": "ir_curioso",
+     "clase": "ir curioso",
+     "d_mejor": [
+      [
+       "ir_curioso",
+       3.10003
+      ],
+      [
+       "noop",
+       3.20319
+      ]
+     ],
+     "d_ir_curioso": 3.10003,
+     "d_ir_objeto": null,
+     "d_coger": null,
+     "d_noop": 3.20319,
+     "hay_ir_curioso": true,
+     "hay_coger": false,
+     "hay_hacer_sitio": false,
+     "n_candidatos": 2
+    },
+    {
+     "t": 593,
+     "dist": 2,
+     "ranura_libre": true,
+     "lleva_kit": false,
+     "pack": [
+      null,
+      null
+     ],
+     "hp": 100,
+     "elegido_campo": "noop",
+     "replica": "ir_curioso",
+     "clase": "ir curioso",
+     "d_mejor": [
+      [
+       "ir_curioso",
+       3.10003
+      ],
+      [
+       "noop",
+       3.20319
+      ]
+     ],
+     "d_ir_curioso": 3.10003,
+     "d_ir_objeto": null,
+     "d_coger": null,
+     "d_noop": 3.20319,
+     "hay_ir_curioso": true,
+     "hay_coger": false,
+     "hay_hacer_sitio": false,
+     "n_candidatos": 2
+    },
+    {
+     "t": 594,
+     "dist": 2,
+     "ranura_libre": true,
+     "lleva_kit": false,
+     "pack": [
+      null,
+      null
+     ],
+     "hp": 100,
+     "elegido_campo": "noop",
+     "replica": "ir_curioso",
+     "clase": "ir curioso",
+     "d_mejor": [
+      [
+       "ir_curioso",
+       3.10003
+      ],
+      [
+       "noop",
+       3.20319
+      ]
+     ],
+     "d_ir_curioso": 3.10003,
+     "d_ir_objeto": null,
+     "d_coger": null,
+     "d_noop": 3.20319,
+     "hay_ir_curioso": true,
+     "hay_coger": false,
+     "hay_hacer_sitio": false,
+     "n_candidatos": 2
+    },
+    {
+     "t": 592,
+     "dist": 2,
+     "ranura_libre": true,
+     "lleva_kit": false,
+     "pack": [
+      null,
+      null
+     ],
+     "hp": 100,
+     "elegido_campo": "noop",
+     "replica": "ir_curioso",
+     "clase": "ir curioso",
+     "d_mejor": [
+      [
+       "ir_curioso",
+       3.10003
+      ],
+      [
+       "noop",
+       3.20319
+      ]
+     ],
+     "d_ir_curioso": 3.10003,
+     "d_ir_objeto": null,
+     "d_coger": null,
+     "d_noop": 3.20319,
+     "hay_ir_curioso": true,
+     "hay_coger": false,
+     "hay_hacer_sitio": false,
+     "n_candidatos": 2
+    },
+    {
+     "t": 593,
+     "dist": 2,
+     "ranura_libre": true,
+     "lleva_kit": false,
+     "pack": [
+      null,
+      null
+     ],
+     "hp": 100,
+     "elegido_campo": "noop",
+     "replica": "ir_curioso",
+     "clase": "ir curioso",
+     "d_mejor": [
+      [
+       "ir_curioso",
+       3.10003
+      ],
+      [
+       "noop",
+       3.20319
+      ]
+     ],
+     "d_ir_curioso": 3.10003,
+     "d_ir_objeto": null,
+     "d_coger": null,
+     "d_noop": 3.20319,
+     "hay_ir_curioso": true,
+     "hay_coger": false,
+     "hay_hacer_sitio": false,
+     "n_candidatos": 2
+    },
+    {
+     "t": 594,
+     "dist": 2,
+     "ranura_libre": true,
+     "lleva_kit": false,
+     "pack": [
+      null,
+      null
+     ],
+     "hp": 100,
+     "elegido_campo": "noop",
+     "replica": "ir_curioso",
+     "clase": "ir curioso",
+     "d_mejor": [
+      [
+       "ir_curioso",
+       3.10003
+      ],
+      [
+       "noop",
+       3.20319
+      ]
+     ],
+     "d_ir_curioso": 3.10003,
+     "d_ir_objeto": null,
+     "d_coger": null,
+     "d_noop": 3.20319,
+     "hay_ir_curioso": true,
+     "hay_coger": false,
+     "hay_hacer_sitio": false,
+     "n_candidatos": 2
+    }
+   ],
+   "fidelidad_al_campo": {
+    "igual": 9837,
+    "difiere": 857
+   },
+   "huellas": [],
+   "errores": []
+  },
+  {
+   "serie": "P7-5",
+   "dia": 2,
+   "vida": "P75_humo_APRENDE_26649385/10",
+   "escenas": 6891,
+   "registradas": 6891,
+   "clases": {
+    "ir curioso": 40,
+    "ir al objeto": 3,
+    "coger": 23,
+    "otra": 5631,
+    "quieto": 1194
+   },
+   "por_situacion": {
+    "dist=0,libre=False,lleva=False": {
+     "n": 125,
+     "clases": {
+      "quieto": 96,
+      "otra": 29
+     },
+     "con_ir_curioso": 0,
+     "d_ir_curioso_mediana": null,
+     "d_noop_mediana": 3.34616
+    },
+    "dist=0,libre=True,lleva=False": {
+     "n": 22,
+     "clases": {
+      "coger": 21,
+      "otra": 1
+     },
+     "con_ir_curioso": 0,
+     "d_ir_curioso_mediana": null,
+     "d_noop_mediana": 3.3456799999999998
+    },
+    "dist=1,libre=False,lleva=False": {
+     "n": 6513,
+     "clases": {
+      "otra": 5559,
+      "quieto": 954
+     },
+     "con_ir_curioso": 0,
+     "d_ir_curioso_mediana": null,
+     "d_noop_mediana": 3.3405
+    },
+    "dist=1,libre=True,lleva=False": {
+     "n": 33,
+     "clases": {
+      "ir curioso": 30,
+      "ir al objeto": 2,
+      "otra": 1
+     },
+     "con_ir_curioso": 30,
+     "d_ir_curioso_mediana": 3.10003,
+     "d_noop_mediana": 3.18526
+    },
+    "dist=2,libre=False,lleva=False": {
+     "n": 176,
+     "clases": {
+      "quieto": 136,
+      "otra": 40
+     },
+     "con_ir_curioso": 0,
+     "d_ir_curioso_mediana": null,
+     "d_noop_mediana": 3.33822
+    },
+    "dist=2,libre=True,lleva=False": {
+     "n": 22,
+     "clases": {
+      "ir curioso": 10,
+      "ir al objeto": 1,
+      "coger": 2,
+      "quieto": 8,
+      "otra": 1
+     },
+     "con_ir_curioso": 21,
+     "d_ir_curioso_mediana": 3.42526,
+     "d_noop_mediana": 3.542555
+    }
+   },
+   "ejemplos": [
+    {
+     "t": 592,
+     "dist": 2,
+     "ranura_libre": true,
+     "lleva_kit": false,
+     "pack": [
+      null,
+      null
+     ],
+     "hp": 100,
+     "elegido_campo": "noop",
+     "replica": "ir_curioso",
+     "clase": "ir curioso",
+     "d_mejor": [
+      [
+       "ir_curioso",
+       3.42463
+      ],
+      [
+       "noop",
+       3.57202
+      ]
+     ],
+     "d_ir_curioso": 3.42463,
+     "d_ir_objeto": null,
+     "d_coger": null,
+     "d_noop": 3.57202,
+     "hay_ir_curioso": true,
+     "hay_coger": false,
+     "hay_hacer_sitio": false,
+     "n_candidatos": 2
+    },
+    {
+     "t": 593,
+     "dist": 2,
+     "ranura_libre": true,
+     "lleva_kit": false,
+     "pack": [
+      null,
+      null
+     ],
+     "hp": 100,
+     "elegido_campo": "noop",
+     "replica": "ir_curioso",
+     "clase": "ir curioso",
+     "d_mejor": [
+      [
+       "ir_curioso",
+       3.42415
+      ],
+      [
+       "noop",
+       3.56579
+      ]
+     ],
+     "d_ir_curioso": 3.42415,
+     "d_ir_objeto": null,
+     "d_coger": null,
+     "d_noop": 3.56579,
+     "hay_ir_curioso": true,
+     "hay_coger": false,
+     "hay_hacer_sitio": false,
+     "n_candidatos": 2
+    },
+    {
+     "t": 594,
+     "dist": 2,
+     "ranura_libre": true,
+     "lleva_kit": false,
+     "pack": [
+      null,
+      null
+     ],
+     "hp": 100,
+     "elegido_campo": "noop",
+     "replica": "ir_curioso",
+     "clase": "ir curioso",
+     "d_mejor": [
+      [
+       "ir_curioso",
+       3.42684
+      ],
+      [
+       "noop",
+       3.59684
+      ]
+     ],
+     "d_ir_curioso": 3.42684,
+     "d_ir_objeto": null,
+     "d_coger": null,
+     "d_noop": 3.59684,
+     "hay_ir_curioso": true,
+     "hay_coger": false,
+     "hay_hacer_sitio": false,
+     "n_candidatos": 2
+    },
+    {
+     "t": 592,
+     "dist": 2,
+     "ranura_libre": true,
+     "lleva_kit": false,
+     "pack": [
+      null,
+      null
+     ],
+     "hp": 100,
+     "elegido_campo": "noop",
+     "replica": "ir_curioso",
+     "clase": "ir curioso",
+     "d_mejor": [
+      [
+       "ir_curioso",
+       3.42463
+      ],
+      [
+       "noop",
+       3.57202
+      ]
+     ],
+     "d_ir_curioso": 3.42463,
+     "d_ir_objeto": null,
+     "d_coger": null,
+     "d_noop": 3.57202,
+     "hay_ir_curioso": true,
+     "hay_coger": false,
+     "hay_hacer_sitio": false,
+     "n_candidatos": 2
+    },
+    {
+     "t": 593,
+     "dist": 2,
+     "ranura_libre": true,
+     "lleva_kit": false,
+     "pack": [
+      null,
+      null
+     ],
+     "hp": 100,
+     "elegido_campo": "noop",
+     "replica": "ir_curioso",
+     "clase": "ir curioso",
+     "d_mejor": [
+      [
+       "ir_curioso",
+       3.42415
+      ],
+      [
+       "noop",
+       3.56579
+      ]
+     ],
+     "d_ir_curioso": 3.42415,
+     "d_ir_objeto": null,
+     "d_coger": null,
+     "d_noop": 3.56579,
+     "hay_ir_curioso": true,
+     "hay_coger": false,
+     "hay_hacer_sitio": false,
+     "n_candidatos": 2
+    },
+    {
+     "t": 594,
+     "dist": 2,
+     "ranura_libre": true,
+     "lleva_kit": false,
+     "pack": [
+      null,
+      null
+     ],
+     "hp": 100,
+     "elegido_campo": "noop",
+     "replica": "ir_curioso",
+     "clase": "ir curioso",
+     "d_mejor": [
+      [
+       "ir_curioso",
+       3.42684
+      ],
+      [
+       "noop",
+       3.59684
+      ]
+     ],
+     "d_ir_curioso": 3.42684,
+     "d_ir_objeto": null,
+     "d_coger": null,
+     "d_noop": 3.59684,
+     "hay_ir_curioso": true,
+     "hay_coger": false,
+     "hay_hacer_sitio": false,
+     "n_candidatos": 2
+    }
+   ],
+   "fidelidad_al_campo": {
+    "igual": 12308,
+    "difiere": 305
+   },
+   "huellas": [],
+   "errores": []
+  },
+  {
+   "serie": "P7-5",
+   "dia": 2,
+   "vida": "P75_humo_APRENDE_26649385/11",
+   "escenas": 6446,
+   "registradas": 6446,
+   "clases": {
+    "ir curioso": 40,
+    "ir al objeto": 3,
+    "coger": 20,
+    "otra": 145,
+    "quieto": 6238
+   },
+   "por_situacion": {
+    "dist=0,libre=False,lleva=False": {
+     "n": 225,
+     "clases": {
+      "quieto": 129,
+      "otra": 96
+     },
+     "con_ir_curioso": 0,
+     "d_ir_curioso_mediana": null,
+     "d_noop_mediana": 3.07008
+    },
+    "dist=0,libre=True,lleva=False": {
+     "n": 22,
+     "clases": {
+      "coger": 20,
+      "otra": 2
+     },
+     "con_ir_curioso": 0,
+     "d_ir_curioso_mediana": null,
+     "d_noop_mediana": 3.55236
+    },
+    "dist=1,libre=False,lleva=False": {
+     "n": 5809,
+     "clases": {
+      "quieto": 5779,
+      "otra": 30
+     },
+     "con_ir_curioso": 0,
+     "d_ir_curioso_mediana": null,
+     "d_noop_mediana": 2.92469
+    },
+    "dist=1,libre=True,lleva=False": {
+     "n": 33,
+     "clases": {
+      "ir curioso": 30,
+      "ir al objeto": 2,
+      "otra": 1
+     },
+     "con_ir_curioso": 30,
+     "d_ir_curioso_mediana": 3.48349,
+     "d_noop_mediana": 3.49775
+    },
+    "dist=2,libre=False,lleva=False": {
+     "n": 324,
+     "clases": {
+      "quieto": 310,
+      "otra": 14
+     },
+     "con_ir_curioso": 0,
+     "d_ir_curioso_mediana": null,
+     "d_noop_mediana": 4.18846
+    },
+    "dist=2,libre=True,lleva=False": {
+     "n": 33,
+     "clases": {
+      "ir curioso": 10,
+      "ir al objeto": 1,
+      "quieto": 20,
+      "otra": 2
+     },
+     "con_ir_curioso": 32,
+     "d_ir_curioso_mediana": 3.42785,
+     "d_noop_mediana": 3.51932
+    }
+   },
+   "ejemplos": [
+    {
+     "t": 604,
+     "dist": 2,
+     "ranura_libre": true,
+     "lleva_kit": false,
+     "pack": [
+      null,
+      null
+     ],
+     "hp": 100,
+     "elegido_campo": "noop",
+     "replica": "ir_curioso",
+     "clase": "ir curioso",
+     "d_mejor": [
+      [
+       "ir_curioso",
+       3.42785
+      ],
+      [
+       "noop",
+       3.55536
+      ]
+     ],
+     "d_ir_curioso": 3.42785,
+     "d_ir_objeto": null,
+     "d_coger": null,
+     "d_noop": 3.55536,
+     "hay_ir_curioso": true,
+     "hay_coger": false,
+     "hay_hacer_sitio": false,
+     "n_candidatos": 2
+    },
+    {
+     "t": 605,
+     "dist": 2,
+     "ranura_libre": true,
+     "lleva_kit": false,
+     "pack": [
+      null,
+      null
+     ],
+     "hp": 100,
+     "elegido_campo": "noop",
+     "replica": "ir_curioso",
+     "clase": "ir curioso",
+     "d_mejor": [
+      [
+       "ir_curioso",
+       3.42785
+      ],
+      [
+       "noop",
+       3.55536
+      ]
+     ],
+     "d_ir_curioso": 3.42785,
+     "d_ir_objeto": null,
+     "d_coger": null,
+     "d_noop": 3.55536,
+     "hay_ir_curioso": true,
+     "hay_coger": false,
+     "hay_hacer_sitio": false,
+     "n_candidatos": 2
+    },
+    {
+     "t": 606,
+     "dist": 2,
+     "ranura_libre": true,
+     "lleva_kit": false,
+     "pack": [
+      null,
+      null
+     ],
+     "hp": 100,
+     "elegido_campo": "noop",
+     "replica": "ir_curioso",
+     "clase": "ir curioso",
+     "d_mejor": [
+      [
+       "ir_curioso",
+       3.42785
+      ],
+      [
+       "noop",
+       3.55536
+      ]
+     ],
+     "d_ir_curioso": 3.42785,
+     "d_ir_objeto": null,
+     "d_coger": null,
+     "d_noop": 3.55536,
+     "hay_ir_curioso": true,
+     "hay_coger": false,
+     "hay_hacer_sitio": false,
+     "n_candidatos": 2
+    },
+    {
+     "t": 604,
+     "dist": 2,
+     "ranura_libre": true,
+     "lleva_kit": false,
+     "pack": [
+      null,
+      null
+     ],
+     "hp": 100,
+     "elegido_campo": "noop",
+     "replica": "ir_curioso",
+     "clase": "ir curioso",
+     "d_mejor": [
+      [
+       "ir_curioso",
+       3.42785
+      ],
+      [
+       "noop",
+       3.55536
+      ]
+     ],
+     "d_ir_curioso": 3.42785,
+     "d_ir_objeto": null,
+     "d_coger": null,
+     "d_noop": 3.55536,
+     "hay_ir_curioso": true,
+     "hay_coger": false,
+     "hay_hacer_sitio": false,
+     "n_candidatos": 2
+    },
+    {
+     "t": 605,
+     "dist": 2,
+     "ranura_libre": true,
+     "lleva_kit": false,
+     "pack": [
+      null,
+      null
+     ],
+     "hp": 100,
+     "elegido_campo": "noop",
+     "replica": "ir_curioso",
+     "clase": "ir curioso",
+     "d_mejor": [
+      [
+       "ir_curioso",
+       3.42785
+      ],
+      [
+       "noop",
+       3.55536
+      ]
+     ],
+     "d_ir_curioso": 3.42785,
+     "d_ir_objeto": null,
+     "d_coger": null,
+     "d_noop": 3.55536,
+     "hay_ir_curioso": true,
+     "hay_coger": false,
+     "hay_hacer_sitio": false,
+     "n_candidatos": 2
+    },
+    {
+     "t": 606,
+     "dist": 2,
+     "ranura_libre": true,
+     "lleva_kit": false,
+     "pack": [
+      null,
+      null
+     ],
+     "hp": 100,
+     "elegido_campo": "noop",
+     "replica": "ir_curioso",
+     "clase": "ir curioso",
+     "d_mejor": [
+      [
+       "ir_curioso",
+       3.42785
+      ],
+      [
+       "noop",
+       3.55536
+      ]
+     ],
+     "d_ir_curioso": 3.42785,
+     "d_ir_objeto": null,
+     "d_coger": null,
+     "d_noop": 3.55536,
+     "hay_ir_curioso": true,
+     "hay_coger": false,
+     "hay_hacer_sitio": false,
+     "n_candidatos": 2
+    }
+   ],
+   "fidelidad_al_campo": {
+    "igual": 13499,
+    "difiere": 349
+   },
+   "huellas": [],
+   "errores": []
+  },
+  {
+   "serie": "P7-5",
+   "dia": 3,
+   "vida": "P75_humo_APRENDE_26754114/10",
+   "escenas": 2983,
+   "registradas": 2983,
+   "clases": {
+    "ir curioso": 819,
+    "ir al objeto": 269,
+    "coger": 407,
+    "quieto": 1392,
+    "otra": 95,
+    "hacer sitio": 1
+   },
+   "por_situacion": {
+    "dist=0,libre=True,lleva=False": {
+     "n": 413,
+     "clases": {
+      "coger": 404,
+      "quieto": 8,
+      "ir al objeto": 1
+     },
+     "con_ir_curioso": 0,
+     "d_ir_curioso_mediana": null,
+     "d_noop_mediana": 3.50414
+    },
+    "dist=1,libre=False,lleva=False": {
+     "n": 408,
+     "clases": {
+      "quieto": 396,
+      "otra": 12
+     },
+     "con_ir_curioso": 0,
+     "d_ir_curioso_mediana": null,
+     "d_noop_mediana": 3.6037749999999997
+    },
+    "dist=1,libre=True,lleva=False": {
+     "n": 950,
+     "clases": {
+      "ir curioso": 613,
+      "ir al objeto": 53,
+      "quieto": 259,
+      "otra": 23,
+      "coger": 2
+     },
+     "con_ir_curioso": 675,
+     "d_ir_curioso_mediana": 3.74991,
+     "d_noop_mediana": 3.88882
+    },
+    "dist=2,libre=False,lleva=False": {
+     "n": 497,
+     "clases": {
+      "quieto": 441,
+      "otra": 56
+     },
+     "con_ir_curioso": 0,
+     "d_ir_curioso_mediana": null,
+     "d_noop_mediana": 3.87705
+    },
+    "dist=2,libre=False,lleva=True": {
+     "n": 29,
+     "clases": {
+      "otra": 4,
+      "quieto": 24,
+      "hacer sitio": 1
+     },
+     "con_ir_curioso": 0,
+     "d_ir_curioso_mediana": null,
+     "d_noop_mediana": 3.82576
+    },
+    "dist=2,libre=True,lleva=False": {
+     "n": 686,
+     "clases": {
+      "ir curioso": 206,
+      "coger": 1,
+      "quieto": 264,
+      "ir al objeto": 215
+     },
+     "con_ir_curioso": 216,
+     "d_ir_curioso_mediana": 3.78447,
+     "d_noop_mediana": 3.829555
+    }
+   },
+   "ejemplos": [
+    {
+     "t": 603,
+     "dist": 2,
+     "ranura_libre": true,
+     "lleva_kit": false,
+     "pack": [
+      null,
+      null
+     ],
+     "hp": 100,
+     "elegido_campo": "noop",
+     "replica": "ir_curioso",
+     "clase": "ir curioso",
+     "d_mejor": [
+      [
+       "ir_curioso",
+       3.31419
+      ],
+      [
+       "noop",
+       3.51767
+      ]
+     ],
+     "d_ir_curioso": 3.31419,
+     "d_ir_objeto": null,
+     "d_coger": null,
+     "d_noop": 3.51767,
+     "hay_ir_curioso": true,
+     "hay_coger": false,
+     "hay_hacer_sitio": false,
+     "n_candidatos": 2
+    },
+    {
+     "t": 604,
+     "dist": 2,
+     "ranura_libre": true,
+     "lleva_kit": false,
+     "pack": [
+      null,
+      null
+     ],
+     "hp": 100,
+     "elegido_campo": "noop",
+     "replica": "ir_curioso",
+     "clase": "ir curioso",
+     "d_mejor": [
+      [
+       "ir_curioso",
+       3.31419
+      ],
+      [
+       "noop",
+       3.51767
+      ]
+     ],
+     "d_ir_curioso": 3.31419,
+     "d_ir_objeto": null,
+     "d_coger": null,
+     "d_noop": 3.51767,
+     "hay_ir_curioso": true,
+     "hay_coger": false,
+     "hay_hacer_sitio": false,
+     "n_candidatos": 2
+    },
+    {
+     "t": 605,
+     "dist": 2,
+     "ranura_libre": true,
+     "lleva_kit": false,
+     "pack": [
+      null,
+      null
+     ],
+     "hp": 100,
+     "elegido_campo": "noop",
+     "replica": "ir_curioso",
+     "clase": "ir curioso",
+     "d_mejor": [
+      [
+       "ir_curioso",
+       3.31419
+      ],
+      [
+       "noop",
+       3.51767
+      ]
+     ],
+     "d_ir_curioso": 3.31419,
+     "d_ir_objeto": null,
+     "d_coger": null,
+     "d_noop": 3.51767,
+     "hay_ir_curioso": true,
+     "hay_coger": false,
+     "hay_hacer_sitio": false,
+     "n_candidatos": 2
+    },
+    {
+     "t": 603,
+     "dist": 2,
+     "ranura_libre": true,
+     "lleva_kit": false,
+     "pack": [
+      null,
+      null
+     ],
+     "hp": 100,
+     "elegido_campo": "noop",
+     "replica": "ir_curioso",
+     "clase": "ir curioso",
+     "d_mejor": [
+      [
+       "ir_curioso",
+       3.31419
+      ],
+      [
+       "noop",
+       3.51767
+      ]
+     ],
+     "d_ir_curioso": 3.31419,
+     "d_ir_objeto": null,
+     "d_coger": null,
+     "d_noop": 3.51767,
+     "hay_ir_curioso": true,
+     "hay_coger": false,
+     "hay_hacer_sitio": false,
+     "n_candidatos": 2
+    },
+    {
+     "t": 604,
+     "dist": 2,
+     "ranura_libre": true,
+     "lleva_kit": false,
+     "pack": [
+      null,
+      null
+     ],
+     "hp": 100,
+     "elegido_campo": "noop",
+     "replica": "ir_curioso",
+     "clase": "ir curioso",
+     "d_mejor": [
+      [
+       "ir_curioso",
+       3.31419
+      ],
+      [
+       "noop",
+       3.51767
+      ]
+     ],
+     "d_ir_curioso": 3.31419,
+     "d_ir_objeto": null,
+     "d_coger": null,
+     "d_noop": 3.51767,
+     "hay_ir_curioso": true,
+     "hay_coger": false,
+     "hay_hacer_sitio": false,
+     "n_candidatos": 2
+    },
+    {
+     "t": 605,
+     "dist": 2,
+     "ranura_libre": true,
+     "lleva_kit": false,
+     "pack": [
+      null,
+      null
+     ],
+     "hp": 100,
+     "elegido_campo": "noop",
+     "replica": "ir_curioso",
+     "clase": "ir curioso",
+     "d_mejor": [
+      [
+       "ir_curioso",
+       3.31419
+      ],
+      [
+       "noop",
+       3.51767
+      ]
+     ],
+     "d_ir_curioso": 3.31419,
+     "d_ir_objeto": null,
+     "d_coger": null,
+     "d_noop": 3.51767,
+     "hay_ir_curioso": true,
+     "hay_coger": false,
+     "hay_hacer_sitio": false,
+     "n_candidatos": 2
+    }
+   ],
+   "fidelidad_al_campo": {
+    "igual": 12273,
+    "difiere": 2199
+   },
+   "huellas": [
+    {
+     "t0": 13588,
+     "hp0": 74.0,
+     "hp_fin": 100,
+     "al_menos": true,
+     "efecto": {
+      "cuerpo": 26.0,
+      "recursos": -1,
+      "vinculo": 0.0
+     }
+    }
+   ],
+   "errores": []
+  },
+  {
+   "serie": "P7-5",
+   "dia": 3,
+   "vida": "P75_humo_APRENDE_26754114/11",
+   "escenas": 8611,
+   "registradas": 8611,
+   "clases": {
+    "ir curioso": 170,
+    "ir al objeto": 273,
+    "coger": 219,
+    "otra": 463,
+    "quieto": 7486
+   },
+   "por_situacion": {
+    "dist=0,libre=False,lleva=False": {
+     "n": 377,
+     "clases": {
+      "quieto": 340,
+      "otra": 37
+     },
+     "con_ir_curioso": 0,
+     "d_ir_curioso_mediana": null,
+     "d_noop_mediana": 3.35698
+    },
+    "dist=0,libre=True,lleva=False": {
+     "n": 221,
+     "clases": {
+      "coger": 219,
+      "otra": 2
+     },
+     "con_ir_curioso": 0,
+     "d_ir_curioso_mediana": null,
+     "d_noop_mediana": 3.18526
+    },
+    "dist=1,libre=False,lleva=False": {
+     "n": 5446,
+     "clases": {
+      "otra": 293,
+      "quieto": 4945,
+      "ir al objeto": 208
+     },
+     "con_ir_curioso": 0,
+     "d_ir_curioso_mediana": null,
+     "d_noop_mediana": 3.35399
+    },
+    "dist=1,libre=True,lleva=False": {
+     "n": 155,
+     "clases": {
+      "ir curioso": 140,
+      "ir al objeto": 11,
+      "otra": 4
+     },
+     "con_ir_curioso": 140,
+     "d_ir_curioso_mediana": 3.10003,
+     "d_noop_mediana": 3.18526
+    },
+    "dist=2,libre=False,lleva=False": {
+     "n": 2368,
+     "clases": {
+      "quieto": 2191,
+      "ir al objeto": 53,
+      "otra": 124
+     },
+     "con_ir_curioso": 0,
+     "d_ir_curioso_mediana": null,
+     "d_noop_mediana": 3.45752
+    },
+    "dist=2,libre=True,lleva=False": {
+     "n": 44,
+     "clases": {
+      "ir curioso": 30,
+      "ir al objeto": 1,
+      "quieto": 10,
+      "otra": 3
+     },
+     "con_ir_curioso": 42,
+     "d_ir_curioso_mediana": 3.10003,
+     "d_noop_mediana": 3.18526
+    }
+   },
+   "ejemplos": [
+    {
+     "t": 625,
+     "dist": 2,
+     "ranura_libre": true,
+     "lleva_kit": false,
+     "pack": [
+      null,
+      null
+     ],
+     "hp": 100,
+     "elegido_campo": "noop",
+     "replica": "ir_curioso",
+     "clase": "ir curioso",
+     "d_mejor": [
+      [
+       "ir_curioso",
+       3.10003
+      ],
+      [
+       "noop",
+       3.18526
+      ]
+     ],
+     "d_ir_curioso": 3.10003,
+     "d_ir_objeto": null,
+     "d_coger": null,
+     "d_noop": 3.18526,
+     "hay_ir_curioso": true,
+     "hay_coger": false,
+     "hay_hacer_sitio": false,
+     "n_candidatos": 2
+    },
+    {
+     "t": 626,
+     "dist": 2,
+     "ranura_libre": true,
+     "lleva_kit": false,
+     "pack": [
+      null,
+      null
+     ],
+     "hp": 100,
+     "elegido_campo": "noop",
+     "replica": "ir_curioso",
+     "clase": "ir curioso",
+     "d_mejor": [
+      [
+       "ir_curioso",
+       3.10003
+      ],
+      [
+       "noop",
+       3.18526
+      ]
+     ],
+     "d_ir_curioso": 3.10003,
+     "d_ir_objeto": null,
+     "d_coger": null,
+     "d_noop": 3.18526,
+     "hay_ir_curioso": true,
+     "hay_coger": false,
+     "hay_hacer_sitio": false,
+     "n_candidatos": 2
+    },
+    {
+     "t": 627,
+     "dist": 2,
+     "ranura_libre": true,
+     "lleva_kit": false,
+     "pack": [
+      null,
+      null
+     ],
+     "hp": 100,
+     "elegido_campo": "noop",
+     "replica": "ir_curioso",
+     "clase": "ir curioso",
+     "d_mejor": [
+      [
+       "ir_curioso",
+       3.10003
+      ],
+      [
+       "noop",
+       3.18526
+      ]
+     ],
+     "d_ir_curioso": 3.10003,
+     "d_ir_objeto": null,
+     "d_coger": null,
+     "d_noop": 3.18526,
+     "hay_ir_curioso": true,
+     "hay_coger": false,
+     "hay_hacer_sitio": false,
+     "n_candidatos": 2
+    },
+    {
+     "t": 625,
+     "dist": 2,
+     "ranura_libre": true,
+     "lleva_kit": false,
+     "pack": [
+      null,
+      null
+     ],
+     "hp": 100,
+     "elegido_campo": "noop",
+     "replica": "ir_curioso",
+     "clase": "ir curioso",
+     "d_mejor": [
+      [
+       "ir_curioso",
+       3.10003
+      ],
+      [
+       "noop",
+       3.18526
+      ]
+     ],
+     "d_ir_curioso": 3.10003,
+     "d_ir_objeto": null,
+     "d_coger": null,
+     "d_noop": 3.18526,
+     "hay_ir_curioso": true,
+     "hay_coger": false,
+     "hay_hacer_sitio": false,
+     "n_candidatos": 2
+    },
+    {
+     "t": 626,
+     "dist": 2,
+     "ranura_libre": true,
+     "lleva_kit": false,
+     "pack": [
+      null,
+      null
+     ],
+     "hp": 100,
+     "elegido_campo": "noop",
+     "replica": "ir_curioso",
+     "clase": "ir curioso",
+     "d_mejor": [
+      [
+       "ir_curioso",
+       3.10003
+      ],
+      [
+       "noop",
+       3.18526
+      ]
+     ],
+     "d_ir_curioso": 3.10003,
+     "d_ir_objeto": null,
+     "d_coger": null,
+     "d_noop": 3.18526,
+     "hay_ir_curioso": true,
+     "hay_coger": false,
+     "hay_hacer_sitio": false,
+     "n_candidatos": 2
+    },
+    {
+     "t": 627,
+     "dist": 2,
+     "ranura_libre": true,
+     "lleva_kit": false,
+     "pack": [
+      null,
+      null
+     ],
+     "hp": 100,
+     "elegido_campo": "noop",
+     "replica": "ir_curioso",
+     "clase": "ir curioso",
+     "d_mejor": [
+      [
+       "ir_curioso",
+       3.10003
+      ],
+      [
+       "noop",
+       3.18526
+      ]
+     ],
+     "d_ir_curioso": 3.10003,
+     "d_ir_objeto": null,
+     "d_coger": null,
+     "d_noop": 3.18526,
+     "hay_ir_curioso": true,
+     "hay_coger": false,
+     "hay_hacer_sitio": false,
+     "n_candidatos": 2
+    }
+   ],
+   "fidelidad_al_campo": {
+    "igual": 13640,
+    "difiere": 832
+   },
+   "huellas": [],
+   "errores": []
+  },
+  {
+   "serie": "P7-6",
+   "dia": 1,
+   "vida": "P76_humo_APRENDE_26858843/10",
+   "escenas": 98,
+   "registradas": 98,
+   "clases": {
+    "ir curioso": 90,
+    "ir al objeto": 6,
+    "otra": 2
+   },
+   "por_situacion": {
+    "dist=1,libre=True,lleva=False": {
+     "n": 43,
+     "clases": {
+      "ir curioso": 40,
+      "ir al objeto": 2,
+      "otra": 1
+     },
+     "con_ir_curioso": 43,
+     "d_ir_curioso_mediana": 4.75246,
+     "d_noop_mediana": 4.86
+    },
+    "dist=2,libre=True,lleva=False": {
+     "n": 55,
+     "clases": {
+      "ir curioso": 50,
+      "ir al objeto": 4,
+      "otra": 1
+     },
+     "con_ir_curioso": 55,
+     "d_ir_curioso_mediana": 3.79321,
+     "d_noop_mediana": 4.00021
+    }
+   },
+   "ejemplos": [
+    {
+     "t": 4970,
+     "dist": 2,
+     "ranura_libre": true,
+     "lleva_kit": false,
+     "pack": [
+      null,
+      null
+     ],
+     "hp": 67,
+     "elegido_campo": "noop",
+     "replica": "ir_curioso",
+     "clase": "ir curioso",
+     "d_mejor": [
+      [
+       "ir_curioso",
+       3.80907
+      ],
+      [
+       "noop",
+       4.08274
+      ]
+     ],
+     "d_ir_curioso": 3.80907,
+     "d_ir_objeto": null,
+     "d_coger": null,
+     "d_noop": 4.08274,
+     "hay_ir_curioso": true,
+     "hay_coger": false,
+     "hay_hacer_sitio": false,
+     "n_candidatos": 2
+    },
+    {
+     "t": 4971,
+     "dist": 2,
+     "ranura_libre": true,
+     "lleva_kit": false,
+     "pack": [
+      null,
+      null
+     ],
+     "hp": 67,
+     "elegido_campo": "noop",
+     "replica": "ir_curioso",
+     "clase": "ir curioso",
+     "d_mejor": [
+      [
+       "ir_curioso",
+       3.80907
+      ],
+      [
+       "noop",
+       4.08274
+      ]
+     ],
+     "d_ir_curioso": 3.80907,
+     "d_ir_objeto": null,
+     "d_coger": null,
+     "d_noop": 4.08274,
+     "hay_ir_curioso": true,
+     "hay_coger": false,
+     "hay_hacer_sitio": false,
+     "n_candidatos": 2
+    },
+    {
+     "t": 4972,
+     "dist": 2,
+     "ranura_libre": true,
+     "lleva_kit": false,
+     "pack": [
+      null,
+      null
+     ],
+     "hp": 67,
+     "elegido_campo": "noop",
+     "replica": "ir_curioso",
+     "clase": "ir curioso",
+     "d_mejor": [
+      [
+       "ir_curioso",
+       3.80907
+      ],
+      [
+       "noop",
+       4.08274
+      ]
+     ],
+     "d_ir_curioso": 3.80907,
+     "d_ir_objeto": null,
+     "d_coger": null,
+     "d_noop": 4.08274,
+     "hay_ir_curioso": true,
+     "hay_coger": false,
+     "hay_hacer_sitio": false,
+     "n_candidatos": 2
+    },
+    {
+     "t": 4970,
+     "dist": 2,
+     "ranura_libre": true,
+     "lleva_kit": false,
+     "pack": [
+      null,
+      null
+     ],
+     "hp": 67,
+     "elegido_campo": "noop",
+     "replica": "ir_curioso",
+     "clase": "ir curioso",
+     "d_mejor": [
+      [
+       "ir_curioso",
+       3.80907
+      ],
+      [
+       "noop",
+       4.08274
+      ]
+     ],
+     "d_ir_curioso": 3.80907,
+     "d_ir_objeto": null,
+     "d_coger": null,
+     "d_noop": 4.08274,
+     "hay_ir_curioso": true,
+     "hay_coger": false,
+     "hay_hacer_sitio": false,
+     "n_candidatos": 2
+    },
+    {
+     "t": 4971,
+     "dist": 2,
+     "ranura_libre": true,
+     "lleva_kit": false,
+     "pack": [
+      null,
+      null
+     ],
+     "hp": 67,
+     "elegido_campo": "noop",
+     "replica": "ir_curioso",
+     "clase": "ir curioso",
+     "d_mejor": [
+      [
+       "ir_curioso",
+       3.80907
+      ],
+      [
+       "noop",
+       4.08274
+      ]
+     ],
+     "d_ir_curioso": 3.80907,
+     "d_ir_objeto": null,
+     "d_coger": null,
+     "d_noop": 4.08274,
+     "hay_ir_curioso": true,
+     "hay_coger": false,
+     "hay_hacer_sitio": false,
+     "n_candidatos": 2
+    },
+    {
+     "t": 4972,
+     "dist": 2,
+     "ranura_libre": true,
+     "lleva_kit": false,
+     "pack": [
+      null,
+      null
+     ],
+     "hp": 67,
+     "elegido_campo": "noop",
+     "replica": "ir_curioso",
+     "clase": "ir curioso",
+     "d_mejor": [
+      [
+       "ir_curioso",
+       3.80907
+      ],
+      [
+       "noop",
+       4.08274
+      ]
+     ],
+     "d_ir_curioso": 3.80907,
+     "d_ir_objeto": null,
+     "d_coger": null,
+     "d_noop": 4.08274,
+     "hay_ir_curioso": true,
+     "hay_coger": false,
+     "hay_hacer_sitio": false,
+     "n_candidatos": 2
+    }
+   ],
+   "fidelidad_al_campo": {
+    "igual": 823,
+    "difiere": 6942
+   },
+   "huellas": [],
+   "errores": []
+  },
+  {
+   "serie": "P7-6",
+   "dia": 1,
+   "vida": "P76_humo_APRENDE_26858843/11",
+   "escenas": 5823,
+   "registradas": 5823,
+   "clases": {
+    "ir curioso": 10,
+    "otra": 256,
+    "quieto": 5374,
+    "ir al objeto": 163,
+    "coger": 2,
+    "hacer sitio": 18
+   },
+   "por_situacion": {
+    "dist=0,libre=False,lleva=False": {
+     "n": 97,
+     "clases": {
+      "coger": 1,
+      "otra": 7,
+      "hacer sitio": 18,
+      "ir al objeto": 1,
+      "quieto": 70
+     },
+     "con_ir_curioso": 0,
+     "d_ir_curioso_mediana": null,
+     "d_noop_mediana": 3.80241
+    },
+    "dist=1,libre=False,lleva=False": {
+     "n": 2175,
+     "clases": {
+      "quieto": 1981,
+      "ir al objeto": 148,
+      "otra": 45,
+      "coger": 1
+     },
+     "con_ir_curioso": 0,
+     "d_ir_curioso_mediana": null,
+     "d_noop_mediana": 2.57941
+    },
+    "dist=2,libre=False,lleva=False": {
+     "n": 3540,
+     "clases": {
+      "quieto": 3323,
+      "otra": 203,
+      "ir al objeto": 14
+     },
+     "con_ir_curioso": 0,
+     "d_ir_curioso_mediana": null,
+     "d_noop_mediana": 3.691275
+    },
+    "dist=2,libre=True,lleva=False": {
+     "n": 11,
+     "clases": {
+      "ir curioso": 10,
+      "otra": 1
+     },
+     "con_ir_curioso": 11,
+     "d_ir_curioso_mediana": 2.86803,
+     "d_noop_mediana": 3.20785
+    }
+   },
+   "ejemplos": [
+    {
+     "t": 812,
+     "dist": 2,
+     "ranura_libre": true,
+     "lleva_kit": false,
+     "pack": [
+      "rations",
+      null,
+      null,
+      null
+     ],
+     "hp": 94,
+     "elegido_campo": "coger",
+     "replica": "ir_curioso",
+     "clase": "ir curioso",
+     "d_mejor": [
+      [
+       "ir_curioso",
+       2.87042
+      ],
+      [
+       "noop",
+       3.08728
+      ],
+      [
+       "coger",
+       3.08728
+      ],
+      [
+       "usar_racion",
+       3.16649
+      ]
+     ],
+     "d_ir_curioso": 2.87042,
+     "d_ir_objeto": null,
+     "d_coger": 3.08728,
+     "d_noop": 3.08728,
+     "hay_ir_curioso": true,
+     "hay_coger": true,
+     "hay_hacer_sitio": false,
+     "n_candidatos": 4
+    },
+    {
+     "t": 813,
+     "dist": 2,
+     "ranura_libre": true,
+     "lleva_kit": false,
+     "pack": [
+      "rations",
+      null,
+      null,
+      null
+     ],
+     "hp": 94,
+     "elegido_campo": "atacar_E",
+     "replica": "ir_curioso",
+     "clase": "ir curioso",
+     "d_mejor": [
+      [
+       "ir_curioso",
+       2.7864
+      ],
+      [
+       "atacar_E",
+       2.98591
+      ],
+      [
+       "noop",
+       3.00125
+      ],
+      [
+       "usar_racion",
+       3.02113
+      ]
+     ],
+     "d_ir_curioso": 2.7864,
+     "d_ir_objeto": null,
+     "d_coger": null,
+     "d_noop": 3.00125,
+     "hay_ir_curioso": true,
+     "hay_coger": false,
+     "hay_hacer_sitio": false,
+     "n_candidatos": 4
+    },
+    {
+     "t": 814,
+     "dist": 2,
+     "ranura_libre": true,
+     "lleva_kit": false,
+     "pack": [
+      "rations",
+      null,
+      null,
+      null
+     ],
+     "hp": 89,
+     "elegido_campo": "usar_racion",
+     "replica": "ir_curioso",
+     "clase": "ir curioso",
+     "d_mejor": [
+      [
+       "ir_curioso",
+       2.86803
+      ],
+      [
+       "usar_racion",
+       3.20705
+      ],
+      [
+       "noop",
+       3.20785
+      ]
+     ],
+     "d_ir_curioso": 2.86803,
+     "d_ir_objeto": null,
+     "d_coger": null,
+     "d_noop": 3.20785,
+     "hay_ir_curioso": true,
+     "hay_coger": false,
+     "hay_hacer_sitio": false,
+     "n_candidatos": 3
+    },
+    {
+     "t": 812,
+     "dist": 2,
+     "ranura_libre": true,
+     "lleva_kit": false,
+     "pack": [
+      "rations",
+      null,
+      null,
+      null
+     ],
+     "hp": 94,
+     "elegido_campo": "coger",
+     "replica": "ir_curioso",
+     "clase": "ir curioso",
+     "d_mejor": [
+      [
+       "ir_curioso",
+       2.87042
+      ],
+      [
+       "noop",
+       3.08728
+      ],
+      [
+       "coger",
+       3.08728
+      ],
+      [
+       "usar_racion",
+       3.16649
+      ]
+     ],
+     "d_ir_curioso": 2.87042,
+     "d_ir_objeto": null,
+     "d_coger": 3.08728,
+     "d_noop": 3.08728,
+     "hay_ir_curioso": true,
+     "hay_coger": true,
+     "hay_hacer_sitio": false,
+     "n_candidatos": 4
+    },
+    {
+     "t": 813,
+     "dist": 2,
+     "ranura_libre": true,
+     "lleva_kit": false,
+     "pack": [
+      "rations",
+      null,
+      null,
+      null
+     ],
+     "hp": 94,
+     "elegido_campo": "atacar_E",
+     "replica": "ir_curioso",
+     "clase": "ir curioso",
+     "d_mejor": [
+      [
+       "ir_curioso",
+       2.7864
+      ],
+      [
+       "atacar_E",
+       2.98591
+      ],
+      [
+       "noop",
+       3.00125
+      ],
+      [
+       "usar_racion",
+       3.02113
+      ]
+     ],
+     "d_ir_curioso": 2.7864,
+     "d_ir_objeto": null,
+     "d_coger": null,
+     "d_noop": 3.00125,
+     "hay_ir_curioso": true,
+     "hay_coger": false,
+     "hay_hacer_sitio": false,
+     "n_candidatos": 4
+    },
+    {
+     "t": 814,
+     "dist": 2,
+     "ranura_libre": true,
+     "lleva_kit": false,
+     "pack": [
+      "rations",
+      null,
+      null,
+      null
+     ],
+     "hp": 89,
+     "elegido_campo": "usar_racion",
+     "replica": "ir_curioso",
+     "clase": "ir curioso",
+     "d_mejor": [
+      [
+       "ir_curioso",
+       2.86803
+      ],
+      [
+       "usar_racion",
+       3.20705
+      ],
+      [
+       "noop",
+       3.20785
+      ]
+     ],
+     "d_ir_curioso": 2.86803,
+     "d_ir_objeto": null,
+     "d_coger": null,
+     "d_noop": 3.20785,
+     "hay_ir_curioso": true,
+     "hay_coger": false,
+     "hay_hacer_sitio": false,
+     "n_candidatos": 3
+    }
+   ],
+   "fidelidad_al_campo": {
+    "igual": 13456,
+    "difiere": 296
+   },
+   "huellas": [],
+   "errores": []
+  },
+  {
+   "serie": "P7-6",
+   "dia": 2,
+   "vida": "P76_humo_APRENDE_26963572/10",
+   "escenas": 7706,
+   "registradas": 7706,
+   "clases": {
+    "ir curioso": 41,
+    "otra": 376,
+    "coger": 1,
+    "ir al objeto": 288,
+    "quieto": 7000
+   },
+   "por_situacion": {
+    "dist=0,libre=False,lleva=False": {
+     "n": 392,
+     "clases": {
+      "quieto": 357,
+      "ir al objeto": 1,
+      "otra": 34
+     },
+     "con_ir_curioso": 0,
+     "d_ir_curioso_mediana": null,
+     "d_noop_mediana": 3.97357
+    },
+    "dist=1,libre=False,lleva=False": {
+     "n": 3976,
+     "clases": {
+      "quieto": 3606,
+      "otra": 196,
+      "ir al objeto": 174
+     },
+     "con_ir_curioso": 0,
+     "d_ir_curioso_mediana": null,
+     "d_noop_mediana": 3.20555
+    },
+    "dist=1,libre=True,lleva=False": {
+     "n": 11,
+     "clases": {
+      "ir curioso": 9,
+      "coger": 1,
+      "otra": 1
+     },
+     "con_ir_curioso": 11,
+     "d_ir_curioso_mediana": 3.40966,
+     "d_noop_mediana": 3.46498
+    },
+    "dist=2,libre=False,lleva=False": {
+     "n": 3293,
+     "clases": {
+      "otra": 144,
+      "quieto": 3037,
+      "ir al objeto": 112
+     },
+     "con_ir_curioso": 0,
+     "d_ir_curioso_mediana": null,
+     "d_noop_mediana": 3.20555
+    },
+    "dist=2,libre=True,lleva=False": {
+     "n": 34,
+     "clases": {
+      "ir curioso": 32,
+      "otra": 1,
+      "ir al objeto": 1
+     },
+     "con_ir_curioso": 34,
+     "d_ir_curioso_mediana": 3.44054,
+     "d_noop_mediana": 3.53029
+    }
+   },
+   "ejemplos": [
+    {
+     "t": 581,
+     "dist": 2,
+     "ranura_libre": true,
+     "lleva_kit": false,
+     "pack": [
+      null,
+      null
+     ],
+     "hp": 100,
+     "elegido_campo": "noop",
+     "replica": "ir_curioso",
+     "clase": "ir curioso",
+     "d_mejor": [
+      [
+       "ir_curioso",
+       3.43816
+      ],
+      [
+       "noop",
+       3.55829
+      ]
+     ],
+     "d_ir_curioso": 3.43816,
+     "d_ir_objeto": null,
+     "d_coger": null,
+     "d_noop": 3.55829,
+     "hay_ir_curioso": true,
+     "hay_coger": false,
+     "hay_hacer_sitio": false,
+     "n_candidatos": 2
+    },
+    {
+     "t": 582,
+     "dist": 2,
+     "ranura_libre": true,
+     "lleva_kit": false,
+     "pack": [
+      null,
+      null
+     ],
+     "hp": 100,
+     "elegido_campo": "noop",
+     "replica": "ir_curioso",
+     "clase": "ir curioso",
+     "d_mejor": [
+      [
+       "ir_curioso",
+       3.43816
+      ],
+      [
+       "noop",
+       3.55829
+      ]
+     ],
+     "d_ir_curioso": 3.43816,
+     "d_ir_objeto": null,
+     "d_coger": null,
+     "d_noop": 3.55829,
+     "hay_ir_curioso": true,
+     "hay_coger": false,
+     "hay_hacer_sitio": false,
+     "n_candidatos": 2
+    },
+    {
+     "t": 583,
+     "dist": 2,
+     "ranura_libre": true,
+     "lleva_kit": false,
+     "pack": [
+      null,
+      null
+     ],
+     "hp": 100,
+     "elegido_campo": "noop",
+     "replica": "ir_curioso",
+     "clase": "ir curioso",
+     "d_mejor": [
+      [
+       "ir_curioso",
+       3.43816
+      ],
+      [
+       "noop",
+       3.55829
+      ]
+     ],
+     "d_ir_curioso": 3.43816,
+     "d_ir_objeto": null,
+     "d_coger": null,
+     "d_noop": 3.55829,
+     "hay_ir_curioso": true,
+     "hay_coger": false,
+     "hay_hacer_sitio": false,
+     "n_candidatos": 2
+    },
+    {
+     "t": 581,
+     "dist": 2,
+     "ranura_libre": true,
+     "lleva_kit": false,
+     "pack": [
+      null,
+      null
+     ],
+     "hp": 100,
+     "elegido_campo": "noop",
+     "replica": "ir_curioso",
+     "clase": "ir curioso",
+     "d_mejor": [
+      [
+       "ir_curioso",
+       3.43816
+      ],
+      [
+       "noop",
+       3.55829
+      ]
+     ],
+     "d_ir_curioso": 3.43816,
+     "d_ir_objeto": null,
+     "d_coger": null,
+     "d_noop": 3.55829,
+     "hay_ir_curioso": true,
+     "hay_coger": false,
+     "hay_hacer_sitio": false,
+     "n_candidatos": 2
+    },
+    {
+     "t": 582,
+     "dist": 2,
+     "ranura_libre": true,
+     "lleva_kit": false,
+     "pack": [
+      null,
+      null
+     ],
+     "hp": 100,
+     "elegido_campo": "noop",
+     "replica": "ir_curioso",
+     "clase": "ir curioso",
+     "d_mejor": [
+      [
+       "ir_curioso",
+       3.43816
+      ],
+      [
+       "noop",
+       3.55829
+      ]
+     ],
+     "d_ir_curioso": 3.43816,
+     "d_ir_objeto": null,
+     "d_coger": null,
+     "d_noop": 3.55829,
+     "hay_ir_curioso": true,
+     "hay_coger": false,
+     "hay_hacer_sitio": false,
+     "n_candidatos": 2
+    },
+    {
+     "t": 583,
+     "dist": 2,
+     "ranura_libre": true,
+     "lleva_kit": false,
+     "pack": [
+      null,
+      null
+     ],
+     "hp": 100,
+     "elegido_campo": "noop",
+     "replica": "ir_curioso",
+     "clase": "ir curioso",
+     "d_mejor": [
+      [
+       "ir_curioso",
+       3.43816
+      ],
+      [
+       "noop",
+       3.55829
+      ]
+     ],
+     "d_ir_curioso": 3.43816,
+     "d_ir_objeto": null,
+     "d_coger": null,
+     "d_noop": 3.55829,
+     "hay_ir_curioso": true,
+     "hay_coger": false,
+     "hay_hacer_sitio": false,
+     "n_candidatos": 2
+    }
+   ],
+   "fidelidad_al_campo": {
+    "igual": 14407,
+    "difiere": 41
+   },
+   "huellas": [],
+   "errores": []
+  },
+  {
+   "serie": "P7-6",
+   "dia": 2,
+   "vida": "P76_humo_APRENDE_26963572/11",
+   "escenas": 7857,
+   "registradas": 7857,
+   "clases": {
+    "ir curioso": 263,
+    "otra": 516,
+    "ir al objeto": 307,
+    "hacer sitio": 2453,
+    "quieto": 4318
+   },
+   "por_situacion": {
+    "dist=0,libre=False,lleva=False": {
+     "n": 129,
+     "clases": {
+      "hacer sitio": 14,
+      "otra": 12,
+      "quieto": 103
+     },
+     "con_ir_curioso": 0,
+     "d_ir_curioso_mediana": null,
+     "d_noop_mediana": 3.57862
+    },
+    "dist=1,libre=False,lleva=False": {
+     "n": 4211,
+     "clases": {
+      "hacer sitio": 1329,
+      "otra": 164,
+      "quieto": 2554,
+      "ir al objeto": 164
+     },
+     "con_ir_curioso": 0,
+     "d_ir_curioso_mediana": null,
+     "d_noop_mediana": 2.91256
+    },
+    "dist=1,libre=True,lleva=False": {
+     "n": 89,
+     "clases": {
+      "ir curioso": 88,
+      "otra": 1
+     },
+     "con_ir_curioso": 89,
+     "d_ir_curioso_mediana": 2.66296,
+     "d_noop_mediana": 2.74354
+    },
+    "dist=2,libre=False,lleva=False": {
+     "n": 3241,
+     "clases": {
+      "quieto": 1661,
+      "otra": 336,
+      "ir al objeto": 134,
+      "hacer sitio": 1110
+     },
+     "con_ir_curioso": 0,
+     "d_ir_curioso_mediana": null,
+     "d_noop_mediana": 2.93743
+    },
+    "dist=2,libre=True,lleva=False": {
+     "n": 187,
+     "clases": {
+      "ir curioso": 175,
+      "otra": 3,
+      "ir al objeto": 9
+     },
+     "con_ir_curioso": 178,
+     "d_ir_curioso_mediana": 2.90974,
+     "d_noop_mediana": 2.90653
+    }
+   },
+   "ejemplos": [
+    {
+     "t": 614,
+     "dist": 2,
+     "ranura_libre": true,
+     "lleva_kit": false,
+     "pack": [
+      "rations",
+      null
+     ],
+     "hp": 100,
+     "elegido_campo": "noop",
+     "replica": "ir_curioso",
+     "clase": "ir curioso",
+     "d_mejor": [
+      [
+       "ir_curioso",
+       3.05184
+      ],
+      [
+       "noop",
+       3.17611
+      ]
+     ],
+     "d_ir_curioso": 3.05184,
+     "d_ir_objeto": null,
+     "d_coger": null,
+     "d_noop": 3.17611,
+     "hay_ir_curioso": true,
+     "hay_coger": false,
+     "hay_hacer_sitio": false,
+     "n_candidatos": 2
+    },
+    {
+     "t": 615,
+     "dist": 2,
+     "ranura_libre": true,
+     "lleva_kit": false,
+     "pack": [
+      "rations",
+      null
+     ],
+     "hp": 100,
+     "elegido_campo": "noop",
+     "replica": "ir_curioso",
+     "clase": "ir curioso",
+     "d_mejor": [
+      [
+       "ir_curioso",
+       3.05184
+      ],
+      [
+       "noop",
+       3.17611
+      ]
+     ],
+     "d_ir_curioso": 3.05184,
+     "d_ir_objeto": null,
+     "d_coger": null,
+     "d_noop": 3.17611,
+     "hay_ir_curioso": true,
+     "hay_coger": false,
+     "hay_hacer_sitio": false,
+     "n_candidatos": 2
+    },
+    {
+     "t": 616,
+     "dist": 2,
+     "ranura_libre": true,
+     "lleva_kit": false,
+     "pack": [
+      "rations",
+      null
+     ],
+     "hp": 100,
+     "elegido_campo": "noop",
+     "replica": "ir_curioso",
+     "clase": "ir curioso",
+     "d_mejor": [
+      [
+       "ir_curioso",
+       3.05184
+      ],
+      [
+       "noop",
+       3.17611
+      ]
+     ],
+     "d_ir_curioso": 3.05184,
+     "d_ir_objeto": null,
+     "d_coger": null,
+     "d_noop": 3.17611,
+     "hay_ir_curioso": true,
+     "hay_coger": false,
+     "hay_hacer_sitio": false,
+     "n_candidatos": 2
+    },
+    {
+     "t": 614,
+     "dist": 2,
+     "ranura_libre": true,
+     "lleva_kit": false,
+     "pack": [
+      "rations",
+      null
+     ],
+     "hp": 100,
+     "elegido_campo": "noop",
+     "replica": "ir_curioso",
+     "clase": "ir curioso",
+     "d_mejor": [
+      [
+       "ir_curioso",
+       3.05184
+      ],
+      [
+       "noop",
+       3.17611
+      ]
+     ],
+     "d_ir_curioso": 3.05184,
+     "d_ir_objeto": null,
+     "d_coger": null,
+     "d_noop": 3.17611,
+     "hay_ir_curioso": true,
+     "hay_coger": false,
+     "hay_hacer_sitio": false,
+     "n_candidatos": 2
+    },
+    {
+     "t": 615,
+     "dist": 2,
+     "ranura_libre": true,
+     "lleva_kit": false,
+     "pack": [
+      "rations",
+      null
+     ],
+     "hp": 100,
+     "elegido_campo": "noop",
+     "replica": "ir_curioso",
+     "clase": "ir curioso",
+     "d_mejor": [
+      [
+       "ir_curioso",
+       3.05184
+      ],
+      [
+       "noop",
+       3.17611
+      ]
+     ],
+     "d_ir_curioso": 3.05184,
+     "d_ir_objeto": null,
+     "d_coger": null,
+     "d_noop": 3.17611,
+     "hay_ir_curioso": true,
+     "hay_coger": false,
+     "hay_hacer_sitio": false,
+     "n_candidatos": 2
+    },
+    {
+     "t": 616,
+     "dist": 2,
+     "ranura_libre": true,
+     "lleva_kit": false,
+     "pack": [
+      "rations",
+      null
+     ],
+     "hp": 100,
+     "elegido_campo": "noop",
+     "replica": "ir_curioso",
+     "clase": "ir curioso",
+     "d_mejor": [
+      [
+       "ir_curioso",
+       3.05184
+      ],
+      [
+       "noop",
+       3.17611
+      ]
+     ],
+     "d_ir_curioso": 3.05184,
+     "d_ir_objeto": null,
+     "d_coger": null,
+     "d_noop": 3.17611,
+     "hay_ir_curioso": true,
+     "hay_coger": false,
+     "hay_hacer_sitio": false,
+     "n_candidatos": 2
+    }
+   ],
+   "fidelidad_al_campo": {
+    "igual": 11524,
+    "difiere": 2924
+   },
+   "huellas": [],
+   "errores": []
+  },
+  {
+   "serie": "P7-6",
+   "dia": 3,
+   "vida": "P76_humo_APRENDE_27068301/10",
+   "escenas": 596,
+   "registradas": 596,
+   "clases": {
+    "quieto": 524,
+    "otra": 72
+   },
+   "por_situacion": {
+    "dist=0,libre=False,lleva=False": {
+     "n": 22,
+     "clases": {
+      "quieto": 20,
+      "otra": 2
+     },
+     "con_ir_curioso": 0,
+     "d_ir_curioso_mediana": null,
+     "d_noop_mediana": 2.88054
+    },
+    "dist=1,libre=False,lleva=False": {
+     "n": 213,
+     "clases": {
+      "quieto": 190,
+      "otra": 23
+     },
+     "con_ir_curioso": 0,
+     "d_ir_curioso_mediana": null,
+     "d_noop_mediana": 2.77005
+    },
+    "dist=2,libre=False,lleva=False": {
+     "n": 361,
+     "clases": {
+      "quieto": 314,
+      "otra": 47
+     },
+     "con_ir_curioso": 0,
+     "d_ir_curioso_mediana": null,
+     "d_noop_mediana": 2.76287
+    }
+   },
+   "ejemplos": [],
+   "fidelidad_al_campo": {
+    "difiere": 5686,
+    "igual": 6891
+   },
+   "huellas": [],
+   "errores": []
+  },
+  {
+   "serie": "P7-6",
+   "dia": 3,
+   "vida": "P76_humo_APRENDE_27068301/11",
+   "escenas": 5443,
+   "registradas": 5443,
+   "clases": {
+    "ir al objeto": 240,
+    "ir curioso": 4790,
+    "coger": 5,
+    "quieto": 139,
+    "otra": 269
+   },
+   "por_situacion": {
+    "dist=0,libre=True,lleva=False": {
+     "n": 121,
+     "clases": {
+      "coger": 5,
+      "quieto": 104,
+      "ir al objeto": 4,
+      "otra": 8
+     },
+     "con_ir_curioso": 0,
+     "d_ir_curioso_mediana": null,
+     "d_noop_mediana": 3.66788
+    },
+    "dist=1,libre=True,lleva=False": {
+     "n": 4846,
+     "clases": {
+      "ir curioso": 4383,
+      "ir al objeto": 224,
+      "otra": 221,
+      "quieto": 18
+     },
+     "con_ir_curioso": 4825,
+     "d_ir_curioso_mediana": 3.56199,
+     "d_noop_mediana": 3.61312
+    },
+    "dist=2,libre=True,lleva=False": {
+     "n": 476,
+     "clases": {
+      "ir al objeto": 12,
+      "ir curioso": 407,
+      "otra": 40,
+      "quieto": 17
+     },
+     "con_ir_curioso": 470,
+     "d_ir_curioso_mediana": 3.77836,
+     "d_noop_mediana": 3.8006
+    }
+   },
+   "ejemplos": [
+    {
+     "t": 481,
+     "dist": 2,
+     "ranura_libre": true,
+     "lleva_kit": false,
+     "pack": [
+      null,
+      null
+     ],
+     "hp": 100,
+     "elegido_campo": "ir_botin",
+     "replica": "ir_botin",
+     "clase": "ir al objeto",
+     "d_mejor": [
+      [
+       "ir_botin",
+       3.47681
+      ],
+      [
+       "ir_centro",
+       3.48658
+      ],
+      [
+       "ir_pareja",
+       3.55228
+      ],
+      [
+       "move_SW",
+       3.55941
+      ],
+      [
+       "move_W",
+       3.56974
+      ]
+     ],
+     "d_ir_curioso": null,
+     "d_ir_objeto": 3.60819,
+     "d_coger": null,
+     "d_noop": 3.63302,
+     "hay_ir_curioso": false,
+     "hay_coger": false,
+     "hay_hacer_sitio": false,
+     "n_candidatos": 21
+    },
+    {
+     "t": 482,
+     "dist": 1,
+     "ranura_libre": true,
+     "lleva_kit": false,
+     "pack": [
+      null,
+      null
+     ],
+     "hp": 100,
+     "elegido_campo": "noop",
+     "replica": "ir_curioso",
+     "clase": "ir curioso",
+     "d_mejor": [
+      [
+       "ir_curioso",
+       3.65697
+      ],
+      [
+       "noop",
+       3.67172
+      ]
+     ],
+     "d_ir_curioso": 3.65697,
+     "d_ir_objeto": null,
+     "d_coger": null,
+     "d_noop": 3.67172,
+     "hay_ir_curioso": true,
+     "hay_coger": false,
+     "hay_hacer_sitio": false,
+     "n_candidatos": 2
+    },
+    {
+     "t": 483,
+     "dist": 1,
+     "ranura_libre": true,
+     "lleva_kit": false,
+     "pack": [
+      null,
+      null
+     ],
+     "hp": 100,
+     "elegido_campo": "noop",
+     "replica": "ir_curioso",
+     "clase": "ir curioso",
+     "d_mejor": [
+      [
+       "ir_curioso",
+       3.64627
+      ],
+      [
+       "noop",
+       3.66008
+      ]
+     ],
+     "d_ir_curioso": 3.64627,
+     "d_ir_objeto": null,
+     "d_coger": null,
+     "d_noop": 3.66008,
+     "hay_ir_curioso": true,
+     "hay_coger": false,
+     "hay_hacer_sitio": false,
+     "n_candidatos": 2
+    },
+    {
+     "t": 482,
+     "dist": 1,
+     "ranura_libre": true,
+     "lleva_kit": false,
+     "pack": [
+      null,
+      null
+     ],
+     "hp": 100,
+     "elegido_campo": "noop",
+     "replica": "ir_curioso",
+     "clase": "ir curioso",
+     "d_mejor": [
+      [
+       "ir_curioso",
+       3.65697
+      ],
+      [
+       "noop",
+       3.67172
+      ]
+     ],
+     "d_ir_curioso": 3.65697,
+     "d_ir_objeto": null,
+     "d_coger": null,
+     "d_noop": 3.67172,
+     "hay_ir_curioso": true,
+     "hay_coger": false,
+     "hay_hacer_sitio": false,
+     "n_candidatos": 2
+    },
+    {
+     "t": 483,
+     "dist": 1,
+     "ranura_libre": true,
+     "lleva_kit": false,
+     "pack": [
+      null,
+      null
+     ],
+     "hp": 100,
+     "elegido_campo": "noop",
+     "replica": "ir_curioso",
+     "clase": "ir curioso",
+     "d_mejor": [
+      [
+       "ir_curioso",
+       3.64627
+      ],
+      [
+       "noop",
+       3.66008
+      ]
+     ],
+     "d_ir_curioso": 3.64627,
+     "d_ir_objeto": null,
+     "d_coger": null,
+     "d_noop": 3.66008,
+     "hay_ir_curioso": true,
+     "hay_coger": false,
+     "hay_hacer_sitio": false,
+     "n_candidatos": 2
+    },
+    {
+     "t": 484,
+     "dist": 1,
+     "ranura_libre": true,
+     "lleva_kit": false,
+     "pack": [
+      null,
+      null
+     ],
+     "hp": 100,
+     "elegido_campo": "noop",
+     "replica": "ir_curioso",
+     "clase": "ir curioso",
+     "d_mejor": [
+      [
+       "ir_curioso",
+       3.64627
+      ],
+      [
+       "noop",
+       3.66008
+      ]
+     ],
+     "d_ir_curioso": 3.64627,
+     "d_ir_objeto": null,
+     "d_coger": null,
+     "d_noop": 3.66008,
+     "hay_ir_curioso": true,
+     "hay_coger": false,
+     "hay_hacer_sitio": false,
+     "n_candidatos": 2
+    }
+   ],
+   "fidelidad_al_campo": {
+    "igual": 3917,
+    "difiere": 8753
+   },
+   "huellas": [
+    {
+     "t0": 10665,
+     "hp0": 99.0,
+     "hp_fin": 100,
+     "al_menos": true,
+     "efecto": {
+      "cuerpo": 1.0,
+      "recursos": -1,
+      "vinculo": 0.0
+     }
+    }
+   ],
+   "errores": []
+  }
+ ],
+ "resumen": {
+  "escenas": 62986,
+  "clases": {
+   "ir curioso": 6350,
+   "ir al objeto": 1685,
+   "otra": 8774,
+   "quieto": 42910,
+   "hacer sitio": 2493,
+   "coger": 774
+  },
+  "por_situacion": {
+   "dist=0,libre=False,lleva=False": {
+    "n": 1896,
+    "clases": {
+     "hacer sitio": 53,
+     "otra": 266,
+     "quieto": 1574,
+     "coger": 1,
+     "ir al objeto": 2
+    },
+    "con_ir_curioso": 0
+   },
+   "dist=0,libre=True,lleva=False": {
+    "n": 894,
+    "clases": {
+     "coger": 764,
+     "otra": 13,
+     "quieto": 112,
+     "ir al objeto": 5
+    },
+    "con_ir_curioso": 0
+   },
+   "dist=1,libre=False,lleva=False": {
+    "n": 32760,
+    "clases": {
+     "otra": 6675,
+     "quieto": 24035,
+     "ir al objeto": 720,
+     "coger": 1,
+     "hacer sitio": 1329
+    },
+    "con_ir_curioso": 0
+   },
+   "dist=1,libre=True,lleva=False": {
+    "n": 6195,
+    "clases": {
+     "ir curioso": 5364,
+     "ir al objeto": 295,
+     "coger": 5,
+     "otra": 254,
+     "quieto": 277
+    },
+    "con_ir_curioso": 5876
+   },
+   "dist=2,libre=False,lleva=False": {
+    "n": 19596,
+    "clases": {
+     "quieto": 16561,
+     "otra": 1509,
+     "ir al objeto": 416,
+     "hacer sitio": 1110
+    },
+    "con_ir_curioso": 0
+   },
+   "dist=2,libre=False,lleva=True": {
+    "n": 29,
+    "clases": {
+     "otra": 4,
+     "quieto": 24,
+     "hacer sitio": 1
+    },
+    "con_ir_curioso": 0
+   },
+   "dist=2,libre=True,lleva=False": {
+    "n": 1616,
+    "clases": {
+     "ir curioso": 986,
+     "ir al objeto": 247,
+     "quieto": 327,
+     "otra": 53,
+     "coger": 3
+    },
+    "con_ir_curioso": 1125
+   }
+  }
+ }
+}

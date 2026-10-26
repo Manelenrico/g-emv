@@ -1,0 +1,148 @@
+{
+ "vidas": [
+  {
+   "vida": "P77_humo_APRENDE_27173030/10",
+   "tics": 12312,
+   "fidelidad": {
+    "igual": 8435,
+    "difiere": 3877
+   },
+   "regalos_campo": 30,
+   "regalos_replica": 0,
+   "regalos_replica_con_no_se": 0,
+   "regalos_replica_con_creencia": [],
+   "cogidas_campo": 66,
+   "cogidas_replica": 3825,
+   "en_los_tics_de_regalo_del_campo": {
+    "noop": 30
+   },
+   "d_en_un_tic_de_regalo_del_campo": {
+    "t": 627,
+    "k": 0.0,
+    "d": [
+     [
+      "noop",
+      3.29058
+     ],
+     [
+      "soltar_first_aid",
+      3.37721
+     ]
+    ]
+   },
+   "huellas": [
+    {
+     "t0": 9496,
+     "hp0": 99.0,
+     "hp_fin": 100,
+     "al_menos": true,
+     "interrumpido": false,
+     "apuntado": true,
+     "efecto": {
+      "cuerpo": 1.0,
+      "recursos": -1,
+      "vinculo": -0.3339
+     }
+    },
+    {
+     "t0": 10235,
+     "hp0": 89.0,
+     "hp_fin": 78,
+     "al_menos": false,
+     "interrumpido": true,
+     "apuntado": false,
+     "efecto": {
+      "cuerpo": -0.2,
+      "recursos": 0,
+      "vinculo": 0.4142
+     }
+    },
+    {
+     "t0": 10284,
+     "hp0": 78.0,
+     "hp_fin": 75,
+     "al_menos": false,
+     "interrumpido": true,
+     "apuntado": false,
+     "efecto": {
+      "cuerpo": 0.28,
+      "recursos": 0,
+      "vinculo": 1.9367
+     }
+    },
+    {
+     "t0": 10335,
+     "hp0": 75.0,
+     "hp_fin": 71,
+     "al_menos": false,
+     "interrumpido": true,
+     "apuntado": false,
+     "efecto": {
+      "cuerpo": -0.72,
+      "recursos": 0,
+      "vinculo": 1.3246
+     }
+    },
+    {
+     "t0": 10384,
+     "hp0": 68.0,
+     "hp_fin": 100,
+     "al_menos": true,
+     "interrumpido": false,
+     "apuntado": true,
+     "efecto": {
+      "cuerpo": 32.0,
+      "recursos": -1,
+      "vinculo": 0.2361
+     }
+    }
+   ],
+   "cuaderno_fin": {
+    "first_aid": {
+     "dentro": {
+      "cuerpo": 11.2205,
+      "recursos": -0.7052,
+      "vinculo": -0.0421
+     },
+     "ignorancia": 0.2948,
+     "pesos_vividos": 2.3919
+    }
+   },
+   "errores": []
+  },
+  {
+   "vida": "P77_humo_APRENDE_27173030/11",
+   "tics": 11736,
+   "fidelidad": {
+    "igual": 11198,
+    "difiere": 538
+   },
+   "regalos_campo": 8,
+   "regalos_replica": 0,
+   "regalos_replica_con_no_se": 0,
+   "regalos_replica_con_creencia": [],
+   "cogidas_campo": 10,
+   "cogidas_replica": 540,
+   "en_los_tics_de_regalo_del_campo": {
+    "noop": 8
+   },
+   "d_en_un_tic_de_regalo_del_campo": {
+    "t": 2200,
+    "k": 0.0,
+    "d": [
+     [
+      "noop",
+      3.17662
+     ],
+     [
+      "soltar_first_aid",
+      3.26226
+     ]
+    ]
+   },
+   "huellas": [],
+   "cuaderno_fin": {},
+   "errores": []
+  }
+ ]
+}

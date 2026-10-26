@@ -1,0 +1,86 @@
+{
+ "S1_area_botiquin": {
+  "n_obs": 12,
+  "media": 363.3835,
+  "sd": 132.3232,
+  "valores": [
+   359.7094,
+   466.9626,
+   431.516,
+   312.1608,
+   266.9677,
+   299.5641,
+   255.599,
+   234.5466,
+   156.6581,
+   531.3024,
+   597.7948,
+   447.8207
+  ],
+  "series_30": 27,
+  "coste_30": 1083,
+  "series_50": 10,
+  "coste_50": 403,
+  "efecto_min_2_series_pct": 109.2,
+  "efecto_min_3_series_pct": 89.2,
+  "efecto_min_5_series_pct": 69.1,
+  "efecto_min_10_series_pct": 48.9
+ },
+ "S2_parecido": {
+  "n_obs": 6,
+  "media": 2.8446,
+  "sd": 1.2043,
+  "valores": [
+   2.2065,
+   2.5752,
+   2.0381,
+   1.9773,
+   5.1445,
+   3.1263
+  ],
+  "series_30": 36,
+  "coste_30": 1443,
+  "series_50": 13,
+  "coste_50": 523,
+  "efecto_min_2_series_pct": 127.0,
+  "efecto_min_3_series_pct": 103.7,
+  "efecto_min_5_series_pct": 80.3,
+  "efecto_min_10_series_pct": 56.8
+ },
+ "S3_fraccion_inutil": {
+  "n_obs": 6,
+  "media": 0.2278,
+  "sd": 0.0183,
+  "valores": [
+   0.2482,
+   0.2256,
+   0.227,
+   0.25,
+   0.2081,
+   0.2083
+  ],
+  "series_30": 2,
+  "coste_30": 83,
+  "series_50": 1,
+  "coste_50": 43,
+  "efecto_min_2_series_pct": 24.2,
+  "efecto_min_3_series_pct": 19.7,
+  "efecto_min_5_series_pct": 15.3,
+  "efecto_min_10_series_pct": 10.8
+ },
+ "pruebas_por_criatura": {
+  "APRENDE_v s1 a10": 73,
+  "APRENDE_v s1 a11": 64,
+  "APRENDE_v s2 a10": 61,
+  "APRENDE_v s2 a11": 72,
+  "APRENDE_v s3 a10": 74,
+  "APRENDE_v s3 a11": 67,
+  "APRENDE_p s1 a10": 72,
+  "APRENDE_p s1 a11": 60,
+  "APRENDE_p s2 a10": 69,
+  "APRENDE_p s2 a11": 80,
+  "APRENDE_p s3 a10": 87,
+  "APRENDE_p s3 a11": 81
+ },
+ "nota": "S1 usa la sd entre las 12 criaturas (la hermana que menos prueba es una por serie: una observacion por serie y brazo); S2 y S3 la sd entre las 6 parejas-serie"
+}

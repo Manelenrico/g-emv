@@ -1,0 +1,1539 @@
+{
+ "series": [
+  1,
+  2,
+  3
+ ],
+ "con_todas": {
+  "R1": {
+   "CON": [
+    0.644,
+    0.481,
+    0.635
+   ],
+   "SIN": [
+    0.65,
+    0.733,
+    0.67
+   ],
+   "media_C": 0.587,
+   "media_S": 0.685,
+   "dif": -0.098,
+   "ee": 0.059,
+   "tres_veces": false,
+   "direccion_ok": true,
+   "pasa": false,
+   "usos_cortes": {
+    "CON_RAZON": [
+     [
+      59,
+      38
+     ],
+     [
+      52,
+      25
+     ],
+     [
+      74,
+      47
+     ]
+    ],
+    "SIN_RAZON": [
+     [
+      100,
+      65
+     ],
+     [
+      90,
+      66
+     ],
+     [
+      88,
+      59
+     ]
+    ]
+   }
+  },
+  "R2": {
+   "n_verdad": 1154,
+   "n_falsa": 54,
+   "media_verdad": 0.657,
+   "media_falsa": 0.132,
+   "dif": 0.525,
+   "ee": 0.032,
+   "tres_veces": true,
+   "pasa": true
+  },
+  "vigilancia": {
+   "s1 CON_RAZON": {
+    "dias_validos": 20,
+    "usos_kit": 59,
+    "cortados": 38,
+    "puesto": {
+     "valiente": 5.8,
+     "prudente": 6
+    },
+    "vida_perdida": {
+     "valiente": 102.224,
+     "prudente": 110.31500000000001
+    },
+    "muertes": {
+     "valiente": 10,
+     "prudente": 10
+    },
+    "camo_quieta": {
+     "ventanas": 4,
+     "golpes_min": 7.468879668049793
+    },
+    "huellas": 124,
+    "huellas_inutil": 30,
+    "marcadas": 0,
+    "aceptadas": 529,
+    "evaluadas": 514,
+    "aceptadas_por_accion": {
+     "COGER_RACION": 29,
+     "COGER_BOTIQUIN": 131,
+     "USAR_BOTIQUIN": 5,
+     "DAR_BOTIQUIN_HERMANA": 1,
+     "ACERCARSE_HERMANA": 120,
+     "COGER_CAMUFLAJE": 4,
+     "QUEDARSE_QUIETA": 233,
+     "USAR_RACION": 1,
+     "COGER_RED": 5
+    },
+    "pendientes_al_cierre": 15,
+    "confianza_d20": {
+     "10": {
+      "cuerpo": 0.9622136462193096,
+      "recursos": 0.9958408514883925,
+      "vinculo": 0.9194792775419176
+     },
+     "11": {
+      "cuerpo": 0.9199,
+      "recursos": 0.1397,
+      "vinculo": 0.9159
+     }
+    },
+    "evaluadas_por_dia_hermana": {
+     "d1 a10": [
+      0,
+      0
+     ],
+     "d1 a11": [
+      0,
+      0
+     ],
+     "d2 a10": [
+      1,
+      0
+     ],
+     "d2 a11": [
+      3,
+      0
+     ],
+     "d3 a10": [
+      14,
+      13
+     ],
+     "d3 a11": [
+      2,
+      2
+     ],
+     "d4 a10": [
+      2,
+      1
+     ],
+     "d4 a11": [
+      19,
+      19
+     ],
+     "d5 a10": [
+      18,
+      17
+     ],
+     "d5 a11": [
+      4,
+      4
+     ],
+     "d6 a10": [
+      56,
+      55
+     ],
+     "d6 a11": [
+      4,
+      4
+     ],
+     "d7 a10": [
+      11,
+      11
+     ],
+     "d7 a11": [
+      32,
+      32
+     ],
+     "d8 a10": [
+      21,
+      20
+     ],
+     "d8 a11": [
+      4,
+      4
+     ],
+     "d9 a10": [
+      1,
+      1
+     ],
+     "d9 a11": [
+      0,
+      0
+     ],
+     "d10 a10": [
+      23,
+      23
+     ],
+     "d10 a11": [
+      53,
+      52
+     ],
+     "d11 a10": [
+      20,
+      20
+     ],
+     "d11 a11": [
+      52,
+      51
+     ],
+     "d12 a10": [
+      1,
+      1
+     ],
+     "d12 a11": [
+      1,
+      1
+     ],
+     "d13 a10": [
+      2,
+      2
+     ],
+     "d13 a11": [
+      12,
+      12
+     ],
+     "d14 a10": [
+      39,
+      39
+     ],
+     "d14 a11": [
+      0,
+      0
+     ],
+     "d15 a10": [
+      81,
+      80
+     ],
+     "d15 a11": [
+      0,
+      0
+     ],
+     "d16 a10": [
+      3,
+      3
+     ],
+     "d16 a11": [
+      0,
+      0
+     ],
+     "d17 a10": [
+      2,
+      2
+     ],
+     "d17 a11": [
+      1,
+      1
+     ],
+     "d18 a10": [
+      0,
+      0
+     ],
+     "d18 a11": [
+      14,
+      13
+     ],
+     "d19 a10": [
+      0,
+      0
+     ],
+     "d19 a11": [
+      2,
+      1
+     ],
+     "d20 a10": [
+      31,
+      30
+     ],
+     "d20 a11": [
+      0,
+      0
+     ]
+    }
+   },
+   "s1 SIN_RAZON": {
+    "dias_validos": 20,
+    "usos_kit": 100,
+    "cortados": 65,
+    "puesto": {
+     "valiente": 7.2,
+     "prudente": 5.15
+    },
+    "vida_perdida": {
+     "valiente": 116.5,
+     "prudente": 135.77700000000002
+    },
+    "muertes": {
+     "valiente": 9,
+     "prudente": 11
+    },
+    "camo_quieta": {
+     "ventanas": 5,
+     "golpes_min": 0.0
+    },
+    "huellas": 178,
+    "huellas_inutil": 33,
+    "marcadas": 3
+   },
+   "s2 CON_RAZON": {
+    "dias_validos": 20,
+    "usos_kit": 52,
+    "cortados": 25,
+    "puesto": {
+     "valiente": 6.05,
+     "prudente": 5.9
+    },
+    "vida_perdida": {
+     "valiente": 111.07300000000001,
+     "prudente": 116.48
+    },
+    "muertes": {
+     "valiente": 7,
+     "prudente": 11
+    },
+    "camo_quieta": {
+     "ventanas": 6,
+     "golpes_min": 0.995850622406639
+    },
+    "huellas": 131,
+    "huellas_inutil": 30,
+    "marcadas": 4,
+    "aceptadas": 420,
+    "evaluadas": 413,
+    "aceptadas_por_accion": {
+     "COGER_RACION": 62,
+     "COGER_BOTIQUIN": 158,
+     "ACERCARSE_HERMANA": 91,
+     "QUEDARSE_QUIETA": 81,
+     "COGER_CAMUFLAJE": 20,
+     "USAR_RACION": 2,
+     "COGER_RED": 1,
+     "USAR_BOTIQUIN": 5
+    },
+    "pendientes_al_cierre": 7,
+    "confianza_d20": {
+     "10": {
+      "cuerpo": 0.9256108399070224,
+      "recursos": 0.30863209526348506,
+      "vinculo": 0.6913741433328957
+     },
+     "11": {
+      "cuerpo": 0.5750872870025737,
+      "recursos": 0.9100751645621756,
+      "vinculo": 0.011179607672247696
+     }
+    },
+    "evaluadas_por_dia_hermana": {
+     "d1 a10": [
+      0,
+      0
+     ],
+     "d1 a11": [
+      0,
+      0
+     ],
+     "d2 a10": [
+      6,
+      5
+     ],
+     "d2 a11": [
+      3,
+      3
+     ],
+     "d3 a10": [
+      35,
+      33
+     ],
+     "d3 a11": [
+      4,
+      4
+     ],
+     "d4 a10": [
+      2,
+      2
+     ],
+     "d4 a11": [
+      13,
+      13
+     ],
+     "d5 a10": [
+      24,
+      24
+     ],
+     "d5 a11": [
+      5,
+      5
+     ],
+     "d6 a10": [
+      6,
+      6
+     ],
+     "d6 a11": [
+      34,
+      33
+     ],
+     "d7 a10": [
+      2,
+      2
+     ],
+     "d7 a11": [
+      0,
+      0
+     ],
+     "d8 a10": [
+      1,
+      1
+     ],
+     "d8 a11": [
+      2,
+      2
+     ],
+     "d9 a10": [
+      67,
+      66
+     ],
+     "d9 a11": [
+      19,
+      19
+     ],
+     "d10 a10": [
+      5,
+      5
+     ],
+     "d10 a11": [
+      8,
+      8
+     ],
+     "d11 a10": [
+      14,
+      14
+     ],
+     "d11 a11": [
+      3,
+      3
+     ],
+     "d12 a10": [
+      1,
+      0
+     ],
+     "d12 a11": [
+      1,
+      1
+     ],
+     "d13 a10": [
+      3,
+      3
+     ],
+     "d13 a11": [
+      8,
+      8
+     ],
+     "d14 a10": [
+      14,
+      14
+     ],
+     "d14 a11": [
+      0,
+      0
+     ],
+     "d15 a10": [
+      1,
+      1
+     ],
+     "d15 a11": [
+      15,
+      15
+     ],
+     "d16 a10": [
+      10,
+      10
+     ],
+     "d16 a11": [
+      5,
+      5
+     ],
+     "d17 a10": [
+      10,
+      9
+     ],
+     "d17 a11": [
+      1,
+      1
+     ],
+     "d18 a10": [
+      29,
+      29
+     ],
+     "d18 a11": [
+      25,
+      25
+     ],
+     "d19 a10": [
+      0,
+      0
+     ],
+     "d19 a11": [
+      0,
+      0
+     ],
+     "d20 a10": [
+      32,
+      32
+     ],
+     "d20 a11": [
+      12,
+      12
+     ]
+    }
+   },
+   "s2 SIN_RAZON": {
+    "dias_validos": 20,
+    "usos_kit": 90,
+    "cortados": 66,
+    "puesto": {
+     "valiente": 5.55,
+     "prudente": 6.45
+    },
+    "vida_perdida": {
+     "valiente": 113.07000000000001,
+     "prudente": 119.72600000000001
+    },
+    "muertes": {
+     "valiente": 7,
+     "prudente": 14
+    },
+    "camo_quieta": {
+     "ventanas": 6,
+     "golpes_min": 0.0
+    },
+    "huellas": 169,
+    "huellas_inutil": 30,
+    "marcadas": 5
+   },
+   "s3 CON_RAZON": {
+    "dias_validos": 20,
+    "usos_kit": 74,
+    "cortados": 47,
+    "puesto": {
+     "valiente": 5.8,
+     "prudente": 3.85
+    },
+    "vida_perdida": {
+     "valiente": 114.64800000000001,
+     "prudente": 120.95900000000002
+    },
+    "muertes": {
+     "valiente": 10,
+     "prudente": 9
+    },
+    "camo_quieta": {
+     "ventanas": 4,
+     "golpes_min": 0.0
+    },
+    "huellas": 153,
+    "huellas_inutil": 31,
+    "marcadas": 4,
+    "aceptadas": 285,
+    "evaluadas": 281,
+    "aceptadas_por_accion": {
+     "COGER_RACION": 48,
+     "COGER_BOTIQUIN": 134,
+     "ACERCARSE_HERMANA": 57,
+     "USAR_BOTIQUIN": 4,
+     "COGER_CAMUFLAJE": 2,
+     "QUEDARSE_QUIETA": 37,
+     "USAR_RACION": 3
+    },
+    "pendientes_al_cierre": 4,
+    "confianza_d20": {
+     "10": {
+      "cuerpo": 0.94,
+      "recursos": 0.9453,
+      "vinculo": 0.1051
+     },
+     "11": {
+      "cuerpo": 0.6006554572634131,
+      "recursos": 0.8112011816501918,
+      "vinculo": 0.2103773376273214
+     }
+    },
+    "evaluadas_por_dia_hermana": {
+     "d1 a10": [
+      0,
+      0
+     ],
+     "d1 a11": [
+      0,
+      0
+     ],
+     "d2 a10": [
+      1,
+      1
+     ],
+     "d2 a11": [
+      1,
+      1
+     ],
+     "d3 a10": [
+      20,
+      20
+     ],
+     "d3 a11": [
+      14,
+      14
+     ],
+     "d4 a10": [
+      9,
+      8
+     ],
+     "d4 a11": [
+      2,
+      2
+     ],
+     "d5 a10": [
+      6,
+      6
+     ],
+     "d5 a11": [
+      0,
+      0
+     ],
+     "d6 a10": [
+      2,
+      2
+     ],
+     "d6 a11": [
+      0,
+      0
+     ],
+     "d7 a10": [
+      0,
+      0
+     ],
+     "d7 a11": [
+      5,
+      5
+     ],
+     "d8 a10": [
+      14,
+      14
+     ],
+     "d8 a11": [
+      10,
+      10
+     ],
+     "d9 a10": [
+      4,
+      4
+     ],
+     "d9 a11": [
+      7,
+      7
+     ],
+     "d10 a10": [
+      8,
+      8
+     ],
+     "d10 a11": [
+      0,
+      0
+     ],
+     "d11 a10": [
+      6,
+      6
+     ],
+     "d11 a11": [
+      5,
+      5
+     ],
+     "d12 a10": [
+      0,
+      0
+     ],
+     "d12 a11": [
+      0,
+      0
+     ],
+     "d13 a10": [
+      6,
+      5
+     ],
+     "d13 a11": [
+      18,
+      18
+     ],
+     "d14 a10": [
+      2,
+      2
+     ],
+     "d14 a11": [
+      15,
+      14
+     ],
+     "d15 a10": [
+      0,
+      0
+     ],
+     "d15 a11": [
+      11,
+      11
+     ],
+     "d16 a10": [
+      2,
+      2
+     ],
+     "d16 a11": [
+      20,
+      20
+     ],
+     "d17 a10": [
+      0,
+      0
+     ],
+     "d17 a11": [
+      1,
+      1
+     ],
+     "d18 a10": [
+      57,
+      57
+     ],
+     "d18 a11": [
+      9,
+      9
+     ],
+     "d19 a10": [
+      6,
+      6
+     ],
+     "d19 a11": [
+      2,
+      2
+     ],
+     "d20 a10": [
+      0,
+      0
+     ],
+     "d20 a11": [
+      22,
+      21
+     ]
+    }
+   },
+   "s3 SIN_RAZON": {
+    "dias_validos": 20,
+    "usos_kit": 88,
+    "cortados": 59,
+    "puesto": {
+     "valiente": 4.15,
+     "prudente": 4.95
+    },
+    "vida_perdida": {
+     "valiente": 114.35000000000001,
+     "prudente": 116.503
+    },
+    "muertes": {
+     "valiente": 5,
+     "prudente": 9
+    },
+    "camo_quieta": {
+     "ventanas": 10,
+     "golpes_min": 0.0
+    },
+    "huellas": 162,
+    "huellas_inutil": 33,
+    "marcadas": 3
+   }
+  }
+ },
+ "sin_marcadas": {
+  "R1": {
+   "CON": [
+    0.689,
+    0.484,
+    0.722
+   ],
+   "SIN": [
+    0.674,
+    0.667,
+    0.64
+   ],
+   "media_C": 0.632,
+   "media_S": 0.66,
+   "dif": -0.029,
+   "ee": 0.075,
+   "tres_veces": false,
+   "direccion_ok": true,
+   "pasa": false,
+   "usos_cortes": {
+    "CON_RAZON": [
+     [
+      45,
+      31
+     ],
+     [
+      31,
+      15
+     ],
+     [
+      54,
+      39
+     ]
+    ],
+    "SIN_RAZON": [
+     [
+      86,
+      58
+     ],
+     [
+      42,
+      28
+     ],
+     [
+      50,
+      32
+     ]
+    ]
+   }
+  },
+  "R2": {
+   "n_verdad": 860,
+   "n_falsa": 48,
+   "media_verdad": 0.649,
+   "media_falsa": 0.078,
+   "dif": 0.571,
+   "ee": 0.023,
+   "tres_veces": true,
+   "pasa": true
+  },
+  "vigilancia": {
+   "s1 CON_RAZON": {
+    "dias_validos": 17,
+    "usos_kit": 45,
+    "cortados": 31,
+    "puesto": {
+     "valiente": 6.235294117647059,
+     "prudente": 6.705882352941177
+    },
+    "vida_perdida": {
+     "valiente": 100.64705882352942,
+     "prudente": 105.18470588235294
+    },
+    "muertes": {
+     "valiente": 9,
+     "prudente": 9
+    },
+    "camo_quieta": {
+     "ventanas": 4,
+     "golpes_min": 7.468879668049793
+    },
+    "huellas": 99,
+    "huellas_inutil": 26,
+    "marcadas": 0,
+    "aceptadas": 470,
+    "evaluadas": 456,
+    "aceptadas_por_accion": {
+     "COGER_RACION": 24,
+     "COGER_BOTIQUIN": 117,
+     "USAR_BOTIQUIN": 4,
+     "DAR_BOTIQUIN_HERMANA": 1,
+     "ACERCARSE_HERMANA": 82,
+     "COGER_CAMUFLAJE": 3,
+     "QUEDARSE_QUIETA": 233,
+     "USAR_RACION": 1,
+     "COGER_RED": 5
+    },
+    "pendientes_al_cierre": 14,
+    "confianza_d20": {
+     "10": {
+      "cuerpo": 0.9622136462193096,
+      "recursos": 0.9958408514883925,
+      "vinculo": 0.9194792775419176
+     },
+     "11": {
+      "cuerpo": 0.9199,
+      "recursos": 0.1397,
+      "vinculo": 0.9159
+     }
+    },
+    "evaluadas_por_dia_hermana": {
+     "d1 a10": [
+      0,
+      0
+     ],
+     "d1 a11": [
+      0,
+      0
+     ],
+     "d2 a10": [
+      1,
+      0
+     ],
+     "d2 a11": [
+      3,
+      0
+     ],
+     "d3 a10": [
+      14,
+      13
+     ],
+     "d3 a11": [
+      2,
+      2
+     ],
+     "d4 a10": [
+      2,
+      1
+     ],
+     "d4 a11": [
+      19,
+      19
+     ],
+     "d5 a10": [
+      18,
+      17
+     ],
+     "d5 a11": [
+      4,
+      4
+     ],
+     "d6 a10": [
+      56,
+      55
+     ],
+     "d6 a11": [
+      4,
+      4
+     ],
+     "d8 a10": [
+      21,
+      20
+     ],
+     "d8 a11": [
+      4,
+      4
+     ],
+     "d9 a10": [
+      1,
+      1
+     ],
+     "d9 a11": [
+      0,
+      0
+     ],
+     "d10 a10": [
+      23,
+      23
+     ],
+     "d10 a11": [
+      53,
+      52
+     ],
+     "d11 a10": [
+      20,
+      20
+     ],
+     "d11 a11": [
+      52,
+      51
+     ],
+     "d13 a10": [
+      2,
+      2
+     ],
+     "d13 a11": [
+      12,
+      12
+     ],
+     "d14 a10": [
+      39,
+      39
+     ],
+     "d14 a11": [
+      0,
+      0
+     ],
+     "d15 a10": [
+      81,
+      80
+     ],
+     "d15 a11": [
+      0,
+      0
+     ],
+     "d16 a10": [
+      3,
+      3
+     ],
+     "d16 a11": [
+      0,
+      0
+     ],
+     "d17 a10": [
+      2,
+      2
+     ],
+     "d17 a11": [
+      1,
+      1
+     ],
+     "d19 a10": [
+      0,
+      0
+     ],
+     "d19 a11": [
+      2,
+      1
+     ],
+     "d20 a10": [
+      31,
+      30
+     ],
+     "d20 a11": [
+      0,
+      0
+     ]
+    }
+   },
+   "s1 SIN_RAZON": {
+    "dias_validos": 17,
+    "usos_kit": 86,
+    "cortados": 58,
+    "puesto": {
+     "valiente": 7.647058823529412,
+     "prudente": 5.235294117647059
+    },
+    "vida_perdida": {
+     "valiente": 116.72588235294118,
+     "prudente": 134.64823529411765
+    },
+    "muertes": {
+     "valiente": 8,
+     "prudente": 9
+    },
+    "camo_quieta": {
+     "ventanas": 4,
+     "golpes_min": 0.0
+    },
+    "huellas": 157,
+    "huellas_inutil": 28,
+    "marcadas": 0
+   },
+   "s2 CON_RAZON": {
+    "dias_validos": 11,
+    "usos_kit": 31,
+    "cortados": 15,
+    "puesto": {
+     "valiente": 4.636363636363637,
+     "prudente": 5.454545454545454
+    },
+    "vida_perdida": {
+     "valiente": 106.79272727272728,
+     "prudente": 122.64545454545456
+    },
+    "muertes": {
+     "valiente": 3,
+     "prudente": 6
+    },
+    "camo_quieta": {
+     "ventanas": 4,
+     "golpes_min": 1.4937759336099585
+    },
+    "huellas": 81,
+    "huellas_inutil": 19,
+    "marcadas": 0,
+    "aceptadas": 256,
+    "evaluadas": 252,
+    "aceptadas_por_accion": {
+     "QUEDARSE_QUIETA": 80,
+     "COGER_RACION": 35,
+     "COGER_BOTIQUIN": 98,
+     "ACERCARSE_HERMANA": 35,
+     "COGER_CAMUFLAJE": 1,
+     "USAR_RACION": 2,
+     "COGER_RED": 1,
+     "USAR_BOTIQUIN": 4
+    },
+    "pendientes_al_cierre": 4,
+    "confianza_d20": {
+     "10": {
+      "cuerpo": 0.9256108399070224,
+      "recursos": 0.30863209526348506,
+      "vinculo": 0.6913741433328957
+     },
+     "11": {
+      "cuerpo": 0.5750872870025737,
+      "recursos": 0.9100751645621756,
+      "vinculo": 0.011179607672247696
+     }
+    },
+    "evaluadas_por_dia_hermana": {
+     "d1 a10": [
+      0,
+      0
+     ],
+     "d1 a11": [
+      0,
+      0
+     ],
+     "d3 a10": [
+      35,
+      33
+     ],
+     "d3 a11": [
+      4,
+      4
+     ],
+     "d5 a10": [
+      24,
+      24
+     ],
+     "d5 a11": [
+      5,
+      5
+     ],
+     "d6 a10": [
+      6,
+      6
+     ],
+     "d6 a11": [
+      34,
+      33
+     ],
+     "d7 a10": [
+      2,
+      2
+     ],
+     "d7 a11": [
+      0,
+      0
+     ],
+     "d11 a10": [
+      14,
+      14
+     ],
+     "d11 a11": [
+      3,
+      3
+     ],
+     "d12 a10": [
+      1,
+      0
+     ],
+     "d12 a11": [
+      1,
+      1
+     ],
+     "d14 a10": [
+      14,
+      14
+     ],
+     "d14 a11": [
+      0,
+      0
+     ],
+     "d16 a10": [
+      10,
+      10
+     ],
+     "d16 a11": [
+      5,
+      5
+     ],
+     "d18 a10": [
+      29,
+      29
+     ],
+     "d18 a11": [
+      25,
+      25
+     ],
+     "d20 a10": [
+      32,
+      32
+     ],
+     "d20 a11": [
+      12,
+      12
+     ]
+    }
+   },
+   "s2 SIN_RAZON": {
+    "dias_validos": 11,
+    "usos_kit": 42,
+    "cortados": 28,
+    "puesto": {
+     "valiente": 5.545454545454546,
+     "prudente": 5.363636363636363
+    },
+    "vida_perdida": {
+     "valiente": 111.7018181818182,
+     "prudente": 114.0618181818182
+    },
+    "muertes": {
+     "valiente": 4,
+     "prudente": 8
+    },
+    "camo_quieta": {
+     "ventanas": 4,
+     "golpes_min": 0.0
+    },
+    "huellas": 89,
+    "huellas_inutil": 19,
+    "marcadas": 0
+   },
+   "s3 CON_RAZON": {
+    "dias_validos": 14,
+    "usos_kit": 54,
+    "cortados": 39,
+    "puesto": {
+     "valiente": 5.428571428571429,
+     "prudente": 4.357142857142857
+    },
+    "vida_perdida": {
+     "valiente": 118.92571428571429,
+     "prudente": 115.54285714285716
+    },
+    "muertes": {
+     "valiente": 7,
+     "prudente": 7
+    },
+    "camo_quieta": {
+     "ventanas": 3,
+     "golpes_min": 0.0
+    },
+    "huellas": 109,
+    "huellas_inutil": 21,
+    "marcadas": 0,
+    "aceptadas": 202,
+    "evaluadas": 200,
+    "aceptadas_por_accion": {
+     "COGER_RACION": 39,
+     "COGER_BOTIQUIN": 80,
+     "ACERCARSE_HERMANA": 41,
+     "USAR_BOTIQUIN": 2,
+     "COGER_CAMUFLAJE": 2,
+     "QUEDARSE_QUIETA": 35,
+     "USAR_RACION": 3
+    },
+    "pendientes_al_cierre": 2,
+    "confianza_d20": {
+     "10": {
+      "cuerpo": 0.94,
+      "recursos": 0.9453,
+      "vinculo": 0.1051
+     },
+     "11": {
+      "cuerpo": 0.6006554572634131,
+      "recursos": 0.8112011816501918,
+      "vinculo": 0.2103773376273214
+     }
+    },
+    "evaluadas_por_dia_hermana": {
+     "d1 a10": [
+      0,
+      0
+     ],
+     "d1 a11": [
+      0,
+      0
+     ],
+     "d2 a10": [
+      1,
+      1
+     ],
+     "d2 a11": [
+      1,
+      1
+     ],
+     "d3 a10": [
+      20,
+      20
+     ],
+     "d3 a11": [
+      14,
+      14
+     ],
+     "d4 a10": [
+      9,
+      8
+     ],
+     "d4 a11": [
+      2,
+      2
+     ],
+     "d5 a10": [
+      6,
+      6
+     ],
+     "d5 a11": [
+      0,
+      0
+     ],
+     "d6 a10": [
+      2,
+      2
+     ],
+     "d6 a11": [
+      0,
+      0
+     ],
+     "d7 a10": [
+      0,
+      0
+     ],
+     "d7 a11": [
+      5,
+      5
+     ],
+     "d9 a10": [
+      4,
+      4
+     ],
+     "d9 a11": [
+      7,
+      7
+     ],
+     "d10 a10": [
+      8,
+      8
+     ],
+     "d10 a11": [
+      0,
+      0
+     ],
+     "d11 a10": [
+      6,
+      6
+     ],
+     "d11 a11": [
+      5,
+      5
+     ],
+     "d12 a10": [
+      0,
+      0
+     ],
+     "d12 a11": [
+      0,
+      0
+     ],
+     "d13 a10": [
+      6,
+      5
+     ],
+     "d13 a11": [
+      18,
+      18
+     ],
+     "d16 a10": [
+      2,
+      2
+     ],
+     "d16 a11": [
+      20,
+      20
+     ],
+     "d18 a10": [
+      57,
+      57
+     ],
+     "d18 a11": [
+      9,
+      9
+     ]
+    }
+   },
+   "s3 SIN_RAZON": {
+    "dias_validos": 14,
+    "usos_kit": 50,
+    "cortados": 32,
+    "puesto": {
+     "valiente": 4.071428571428571,
+     "prudente": 5.571428571428571
+    },
+    "vida_perdida": {
+     "valiente": 114.76285714285716,
+     "prudente": 110.24285714285715
+    },
+    "muertes": {
+     "valiente": 2,
+     "prudente": 8
+    },
+    "camo_quieta": {
+     "ventanas": 6,
+     "golpes_min": 0.0
+    },
+    "huellas": 106,
+    "huellas_inutil": 24,
+    "marcadas": 0
+   }
+  }
+ },
+ "partidas": 120,
+ "marcadas": [
+  [
+   2,
+   2,
+   "CON_RAZON",
+   "10"
+  ],
+  [
+   2,
+   4,
+   "SIN_RAZON",
+   "11"
+  ],
+  [
+   1,
+   7,
+   "SIN_RAZON",
+   "10"
+  ],
+  [
+   2,
+   8,
+   "SIN_RAZON",
+   "11"
+  ],
+  [
+   2,
+   9,
+   "CON_RAZON",
+   "11"
+  ],
+  [
+   2,
+   10,
+   "SIN_RAZON",
+   "10"
+  ],
+  [
+   1,
+   12,
+   "SIN_RAZON",
+   "10"
+  ],
+  [
+   2,
+   13,
+   "CON_RAZON",
+   "10"
+  ],
+  [
+   2,
+   15,
+   "SIN_RAZON",
+   "10"
+  ],
+  [
+   1,
+   18,
+   "SIN_RAZON",
+   "11"
+  ],
+  [
+   2,
+   19,
+   "SIN_RAZON",
+   "11"
+  ],
+  [
+   2,
+   17,
+   "CON_RAZON",
+   "10"
+  ],
+  [
+   3,
+   8,
+   "SIN_RAZON",
+   "10"
+  ],
+  [
+   3,
+   14,
+   "CON_RAZON",
+   "10"
+  ],
+  [
+   3,
+   15,
+   "CON_RAZON",
+   "11"
+  ],
+  [
+   3,
+   15,
+   "SIN_RAZON",
+   "11"
+  ],
+  [
+   3,
+   17,
+   "CON_RAZON",
+   "10"
+  ],
+  [
+   3,
+   19,
+   "CON_RAZON",
+   "11"
+  ],
+  [
+   3,
+   20,
+   "SIN_RAZON",
+   "10"
+  ]
+ ],
+ "razon": {
+  "llamadas": 114,
+  "tokens_entrada": 1162541,
+  "tokens_salida": 230640,
+  "usd_supuesto": 6.9472,
+  "por_serie": {
+   "1": 2.2962,
+   "2": 2.3252,
+   "3": 2.3258
+  },
+  "noches_sin_razon": [
+   {
+    "serie": 2,
+    "dia": 18,
+    "slot": 11,
+    "motivo": "0 invitaciones validas",
+    "cuando": "2026-10-13T14:49:42.988050"
+   }
+  ]
+ },
+ "reintentos": 4,
+ "apartadas": 0,
+ "dias_perdidos": []
+}

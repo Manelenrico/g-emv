@@ -1,0 +1,2489 @@
+{
+ "dias": {
+  "1": {
+   "semilla": 27173030,
+   "coste_usd_plataforma": 0.108622,
+   "estado": "completed",
+   "criaturas": {
+    "10": {
+     "ticks_vivos": 12793,
+     "placement": 4,
+     "primer_botiquin_visto_t": 537,
+     "tics_con_novedad": 12312,
+     "se_acerca": {
+      "tics_ir_curioso": 6049,
+      "tics_ir_objeto_(destino_no_observable)": 489,
+      "primeros": [
+       {
+        "t": 548,
+        "elegido": "ir_curioso",
+        "M": 0.18,
+        "kits_suelo": [],
+        "pos": [
+         20,
+         19
+        ]
+       },
+       {
+        "t": 549,
+        "elegido": "ir_curioso",
+        "M": 0.18,
+        "kits_suelo": [],
+        "pos": [
+         20,
+         19
+        ]
+       },
+       {
+        "t": 550,
+        "elegido": "ir_curioso",
+        "M": 0.18,
+        "kits_suelo": [],
+        "pos": [
+         20,
+         19
+        ]
+       },
+       {
+        "t": 551,
+        "elegido": "ir_curioso",
+        "M": 0.18,
+        "kits_suelo": [],
+        "pos": [
+         20,
+         19
+        ]
+       },
+       {
+        "t": 552,
+        "elegido": "ir_curioso",
+        "M": 0.18,
+        "kits_suelo": [],
+        "pos": [
+         20,
+         19
+        ]
+       }
+      ]
+     },
+     "llegadas_a_una_casilla": {
+      "n": 45,
+      "por_curiosidad": 38,
+      "de_paso": 7,
+      "primeras": [
+       {
+        "t": 614,
+        "como": "por curiosidad",
+        "pos": [
+         26,
+         23
+        ],
+        "hp": 100
+       },
+       {
+        "t": 628,
+        "como": "por curiosidad",
+        "pos": [
+         27,
+         23
+        ],
+        "hp": 100
+       },
+       {
+        "t": 936,
+        "como": "por curiosidad",
+        "pos": [
+         27,
+         23
+        ],
+        "hp": 100
+       },
+       {
+        "t": 1244,
+        "como": "por curiosidad",
+        "pos": [
+         27,
+         23
+        ],
+        "hp": 100
+       },
+       {
+        "t": 1552,
+        "como": "por curiosidad",
+        "pos": [
+         27,
+         23
+        ],
+        "hp": 100
+       },
+       {
+        "t": 1860,
+        "como": "por curiosidad",
+        "pos": [
+         27,
+         23
+        ],
+        "hp": 100
+       }
+      ]
+     },
+     "coge": [
+      {
+       "t": 626,
+       "kits": 1,
+       "pos": [
+        27,
+        23
+       ],
+       "tras_hacer_sitio": false,
+       "regalado": true
+      },
+      {
+       "t": 934,
+       "kits": 1,
+       "pos": [
+        27,
+        23
+       ],
+       "tras_hacer_sitio": false,
+       "regalado": true
+      },
+      {
+       "t": 1242,
+       "kits": 1,
+       "pos": [
+        27,
+        23
+       ],
+       "tras_hacer_sitio": false,
+       "regalado": true
+      },
+      {
+       "t": 1550,
+       "kits": 1,
+       "pos": [
+        27,
+        23
+       ],
+       "tras_hacer_sitio": false,
+       "regalado": true
+      },
+      {
+       "t": 1858,
+       "kits": 1,
+       "pos": [
+        27,
+        23
+       ],
+       "tras_hacer_sitio": false,
+       "regalado": true
+      },
+      {
+       "t": 2166,
+       "kits": 1,
+       "pos": [
+        27,
+        23
+       ],
+       "tras_hacer_sitio": false,
+       "regalado": true
+      },
+      {
+       "t": 2458,
+       "kits": 1,
+       "pos": [
+        27,
+        23
+       ],
+       "tras_hacer_sitio": false,
+       "regalado": true
+      },
+      {
+       "t": 2763,
+       "kits": 1,
+       "pos": [
+        27,
+        23
+       ],
+       "tras_hacer_sitio": false,
+       "regalado": true
+      },
+      {
+       "t": 3049,
+       "kits": 1,
+       "pos": [
+        27,
+        23
+       ],
+       "tras_hacer_sitio": false,
+       "regalado": true
+      },
+      {
+       "t": 3341,
+       "kits": 1,
+       "pos": [
+        27,
+        23
+       ],
+       "tras_hacer_sitio": false,
+       "regalado": true
+      },
+      {
+       "t": 3643,
+       "kits": 1,
+       "pos": [
+        27,
+        23
+       ],
+       "tras_hacer_sitio": false,
+       "regalado": true
+      },
+      {
+       "t": 3935,
+       "kits": 1,
+       "pos": [
+        27,
+        23
+       ],
+       "tras_hacer_sitio": false,
+       "regalado": true
+      }
+     ],
+     "coge_n": 33,
+     "coge_regaladas": 30,
+     "coge_tras_hacer_sitio": 1,
+     "usa": [
+      {
+       "t": 9496,
+       "situacion": "dentro",
+       "hp": 99,
+       "ignorancia": 1.0,
+       "heal_imaginado": 0.0
+      },
+      {
+       "t": 10235,
+       "situacion": "dentro",
+       "hp": 89,
+       "ignorancia": 0.4335197468244678,
+       "heal_imaginado": 0.5665
+      },
+      {
+       "t": 10284,
+       "situacion": "dentro",
+       "hp": 78,
+       "ignorancia": 0.28810971217839754,
+       "heal_imaginado": 0.3094
+      },
+      {
+       "t": 10335,
+       "situacion": "fuera",
+       "hp": 75,
+       "ignorancia": 0.2163612367208291,
+       "heal_imaginado": 0.0
+      },
+      {
+       "t": 10384,
+       "situacion": "dentro",
+       "hp": 68,
+       "ignorancia": 0.17714478042904466,
+       "heal_imaginado": 0.3021
+      }
+     ],
+     "hace_sitio": [
+      {
+       "t": 10330,
+       "elegido": "hacer_sitio_first_aid_por_backpack",
+       "d_mejor": [
+        [
+         "hacer_sitio_first_aid_por_backpack",
+         3.48802
+        ],
+        [
+         "noop",
+         3.49372
+        ],
+        [
+         "hacer_sitio_rations_por_backpack",
+         3.95769
+        ]
+       ]
+      }
+     ],
+     "curiosidad_cada_250": [
+      [
+       500,
+       0.09495,
+       1.0
+      ],
+      [
+       750,
+       0.18,
+       1.0
+      ],
+      [
+       1000,
+       0.18,
+       1.0
+      ],
+      [
+       1250,
+       0.18,
+       1.0
+      ],
+      [
+       1500,
+       0.18,
+       1.0
+      ],
+      [
+       1750,
+       0.18,
+       1.0
+      ],
+      [
+       2000,
+       0.18,
+       1.0
+      ],
+      [
+       2250,
+       0.18,
+       1.0
+      ]
+     ],
+     "huellas": [
+      {
+       "t0": 9496,
+       "t_fin": 9544,
+       "situacion": "dentro",
+       "hp0": 99.0,
+       "hp_fin": 100,
+       "hp_max": 100.0,
+       "al_menos": true,
+       "interrumpido": null,
+       "efecto": {
+        "cuerpo": 1.0,
+        "recursos": -1,
+        "vinculo": -0.3339
+       },
+       "importancia": {
+        "cuerpo": -0.2152,
+        "recursos": -0.0183,
+        "vinculo": -0.2265
+       },
+       "intensidad": 1.3067,
+       "dano_conocido": 0.0,
+       "dano_total": 0.0,
+       "creencia_despues": {
+        "cuerpo": 0.5665,
+        "recursos": -0.5665,
+        "vinculo": -0.1891
+       }
+      },
+      {
+       "t0": 10235,
+       "t_fin": 10254,
+       "situacion": "dentro",
+       "hp0": 89.0,
+       "hp_fin": 78,
+       "hp_max": 100.0,
+       "al_menos": false,
+       "interrumpido": null,
+       "efecto": {
+        "cuerpo": -0.2,
+        "recursos": 0,
+        "vinculo": 0.4142
+       },
+       "importancia": {
+        "cuerpo": 0.1654,
+        "recursos": 0.0084,
+        "vinculo": 0.0725
+       },
+       "intensidad": 1.1642,
+       "dano_conocido": 10.8,
+       "dano_total": 10.8,
+       "creencia_despues": {
+        "cuerpo": 0.3094,
+        "recursos": -0.3765,
+        "vinculo": 0.0132
+       }
+      },
+      {
+       "t0": 10284,
+       "t_fin": 10321,
+       "situacion": "dentro",
+       "hp0": 78.0,
+       "hp_fin": 75,
+       "hp_max": 100.0,
+       "al_menos": false,
+       "interrumpido": null,
+       "efecto": {
+        "cuerpo": 0.28,
+        "recursos": 0,
+        "vinculo": 1.9367
+       },
+       "importancia": {
+        "cuerpo": -0.0782,
+        "recursos": -0.0132,
+        "vinculo": -0.1351
+       },
+       "intensidad": 1.151,
+       "dano_conocido": 3.28,
+       "dano_total": 3.28,
+       "creencia_despues": {
+        "cuerpo": 0.3021,
+        "recursos": -0.2827,
+        "vinculo": 0.4922
+       }
+      },
+      {
+       "t0": 10335,
+       "t_fin": 10345,
+       "situacion": "fuera",
+       "hp0": 75.0,
+       "hp_fin": 71,
+       "hp_max": 100.0,
+       "al_menos": false,
+       "interrumpido": null,
+       "efecto": {
+        "cuerpo": -0.72,
+        "recursos": 0,
+        "vinculo": 1.3246
+       },
+       "importancia": {
+        "cuerpo": 0.0031,
+        "recursos": 0.0092,
+        "vinculo": -0.0224
+       },
+       "intensidad": 1.0232,
+       "dano_conocido": 3.28,
+       "dano_total": 3.28,
+       "creencia_despues": {
+        "cuerpo": -0.3641,
+        "recursos": 0.0,
+        "vinculo": 0.6699
+       }
+      },
+      {
+       "t0": 10384,
+       "t_fin": 10432,
+       "situacion": "dentro",
+       "hp0": 68.0,
+       "hp_fin": 100,
+       "hp_max": 100.0,
+       "al_menos": true,
+       "interrumpido": null,
+       "efecto": {
+        "cuerpo": 32.0,
+        "recursos": -1,
+        "vinculo": 0.2361
+       },
+       "importancia": {
+        "cuerpo": -0.2326,
+        "recursos": -0.0882,
+        "vinculo": -0.0111
+       },
+       "intensidad": 1.2212,
+       "dano_conocido": 0.0,
+       "dano_total": 0.0,
+       "creencia_despues": {
+        "cuerpo": 6.9269,
+        "recursos": -0.4326,
+        "vinculo": 0.4387
+       }
+      }
+     ],
+     "cuaderno_arranque": {
+      "leido": false,
+      "dia": 0,
+      "creencias": {},
+      "entorno_brazo": "APRENDE"
+     },
+     "cuaderno_fin": {
+      "escrito": true,
+      "dia": 1,
+      "creencias": {
+       "first_aid": {
+        "dentro": {
+         "cuerpo": 6.8651,
+         "recursos": -0.4288,
+         "vinculo": 0.4348
+        },
+        "fuera": {
+         "cuerpo": -0.3549,
+         "recursos": 0.0,
+         "vinculo": 0.6529
+        },
+        "ignorancia": 0.1521,
+        "pesos_vividos": 5.573
+       }
+      },
+      "n_recuerdos": 5,
+      "al_menos": 2,
+      "ignorancia": 0.1521,
+      "pesos_vividos": 5.573
+     }
+    },
+    "11": {
+     "ticks_vivos": 12217,
+     "placement": 6,
+     "primer_botiquin_visto_t": 559,
+     "tics_con_novedad": 11736,
+     "se_acerca": {
+      "tics_ir_curioso": 10253,
+      "tics_ir_objeto_(destino_no_observable)": 512,
+      "primeros": [
+       {
+        "t": 559,
+        "elegido": "ir_curioso",
+        "M": 0.18,
+        "kits_suelo": [
+         [
+          27,
+          23
+         ]
+        ],
+        "pos": [
+         21,
+         17
+        ]
+       },
+       {
+        "t": 560,
+        "elegido": "ir_curioso",
+        "M": 0.18,
+        "kits_suelo": [
+         [
+          27,
+          23
+         ]
+        ],
+        "pos": [
+         21,
+         17
+        ]
+       },
+       {
+        "t": 561,
+        "elegido": "ir_curioso",
+        "M": 0.18,
+        "kits_suelo": [
+         [
+          27,
+          23
+         ]
+        ],
+        "pos": [
+         21,
+         17
+        ]
+       },
+       {
+        "t": 562,
+        "elegido": "ir_curioso",
+        "M": 0.18,
+        "kits_suelo": [
+         [
+          27,
+          23
+         ]
+        ],
+        "pos": [
+         21,
+         17
+        ]
+       },
+       {
+        "t": 563,
+        "elegido": "ir_curioso",
+        "M": 0.18,
+        "kits_suelo": [
+         [
+          27,
+          23
+         ]
+        ],
+        "pos": [
+         21,
+         17
+        ]
+       }
+      ]
+     },
+     "llegadas_a_una_casilla": {
+      "n": 178,
+      "por_curiosidad": 178,
+      "de_paso": 0,
+      "primeras": [
+       {
+        "t": 2188,
+        "como": "por curiosidad",
+        "pos": [
+         27,
+         22
+        ],
+        "hp": 100
+       },
+       {
+        "t": 2201,
+        "como": "por curiosidad",
+        "pos": [
+         27,
+         23
+        ],
+        "hp": 100
+       },
+       {
+        "t": 2243,
+        "como": "por curiosidad",
+        "pos": [
+         28,
+         23
+        ],
+        "hp": 100
+       },
+       {
+        "t": 2265,
+        "como": "por curiosidad",
+        "pos": [
+         28,
+         23
+        ],
+        "hp": 100
+       },
+       {
+        "t": 2287,
+        "como": "por curiosidad",
+        "pos": [
+         28,
+         23
+        ],
+        "hp": 100
+       },
+       {
+        "t": 2460,
+        "como": "por curiosidad",
+        "pos": [
+         28,
+         23
+        ],
+        "hp": 100
+       }
+      ]
+     },
+     "coge": [
+      {
+       "t": 2200,
+       "kits": 1,
+       "pos": [
+        27,
+        23
+       ],
+       "tras_hacer_sitio": false,
+       "regalado": true
+      },
+      {
+       "t": 2497,
+       "kits": 1,
+       "pos": [
+        27,
+        23
+       ],
+       "tras_hacer_sitio": false,
+       "regalado": true
+      },
+      {
+       "t": 4951,
+       "kits": 1,
+       "pos": [
+        29,
+        21
+       ],
+       "tras_hacer_sitio": false,
+       "regalado": true
+      },
+      {
+       "t": 8108,
+       "kits": 1,
+       "pos": [
+        29,
+        21
+       ],
+       "tras_hacer_sitio": false,
+       "regalado": true
+      },
+      {
+       "t": 8405,
+       "kits": 1,
+       "pos": [
+        29,
+        21
+       ],
+       "tras_hacer_sitio": false,
+       "regalado": true
+      },
+      {
+       "t": 8702,
+       "kits": 1,
+       "pos": [
+        29,
+        21
+       ],
+       "tras_hacer_sitio": false,
+       "regalado": true
+      },
+      {
+       "t": 8999,
+       "kits": 1,
+       "pos": [
+        29,
+        21
+       ],
+       "tras_hacer_sitio": false,
+       "regalado": true
+      },
+      {
+       "t": 9279,
+       "kits": 1,
+       "pos": [
+        29,
+        21
+       ],
+       "tras_hacer_sitio": false,
+       "regalado": true
+      }
+     ],
+     "coge_n": 8,
+     "coge_regaladas": 8,
+     "coge_tras_hacer_sitio": 0,
+     "usa": [],
+     "hace_sitio": [],
+     "curiosidad_cada_250": [
+      [
+       500,
+       0.09,
+       1.0
+      ],
+      [
+       750,
+       0.09682,
+       1.0
+      ],
+      [
+       1000,
+       0.18,
+       1.0
+      ],
+      [
+       1250,
+       0.09654,
+       1.0
+      ],
+      [
+       1500,
+       0.09654,
+       1.0
+      ],
+      [
+       1750,
+       0.09654,
+       1.0
+      ],
+      [
+       2000,
+       0.09112,
+       1.0
+      ],
+      [
+       2250,
+       0.09781,
+       1.0
+      ]
+     ],
+     "huellas": [],
+     "cuaderno_arranque": {
+      "leido": false,
+      "dia": 0,
+      "creencias": {},
+      "entorno_brazo": "APRENDE"
+     },
+     "cuaderno_fin": {
+      "escrito": true,
+      "dia": 1,
+      "creencias": {},
+      "n_recuerdos": 0,
+      "al_menos": 0,
+      "ignorancia": null,
+      "pesos_vividos": null
+     }
+    }
+   }
+  },
+  "2": {
+   "semilla": 27277759,
+   "coste_usd_plataforma": 0.109083,
+   "estado": "completed",
+   "criaturas": {
+    "10": {
+     "ticks_vivos": 14953,
+     "placement": 2,
+     "primer_botiquin_visto_t": 570,
+     "tics_con_novedad": 14472,
+     "se_acerca": {
+      "tics_ir_curioso": 1202,
+      "tics_ir_objeto_(destino_no_observable)": 69,
+      "primeros": [
+       {
+        "t": 570,
+        "elegido": "ir_curioso",
+        "M": 0.02738,
+        "kits_suelo": [
+         [
+          25,
+          24
+         ]
+        ],
+        "pos": [
+         22,
+         19
+        ]
+       },
+       {
+        "t": 571,
+        "elegido": "ir_curioso",
+        "M": 0.02738,
+        "kits_suelo": [
+         [
+          25,
+          24
+         ]
+        ],
+        "pos": [
+         22,
+         19
+        ]
+       },
+       {
+        "t": 572,
+        "elegido": "ir_curioso",
+        "M": 0.02738,
+        "kits_suelo": [
+         [
+          25,
+          24
+         ]
+        ],
+        "pos": [
+         22,
+         19
+        ]
+       },
+       {
+        "t": 573,
+        "elegido": "ir_curioso",
+        "M": 0.02738,
+        "kits_suelo": [
+         [
+          25,
+          24
+         ]
+        ],
+        "pos": [
+         22,
+         19
+        ]
+       },
+       {
+        "t": 574,
+        "elegido": "ir_curioso",
+        "M": 0.02738,
+        "kits_suelo": [
+         [
+          25,
+          24
+         ]
+        ],
+        "pos": [
+         22,
+         19
+        ]
+       }
+      ]
+     },
+     "llegadas_a_una_casilla": {
+      "n": 169,
+      "por_curiosidad": 0,
+      "de_paso": 169,
+      "primeras": [
+       {
+        "t": 4853,
+        "como": "de paso",
+        "pos": [
+         23,
+         27
+        ],
+        "hp": 100
+       },
+       {
+        "t": 4875,
+        "como": "de paso",
+        "pos": [
+         23,
+         27
+        ],
+        "hp": 100
+       },
+       {
+        "t": 4897,
+        "como": "de paso",
+        "pos": [
+         23,
+         27
+        ],
+        "hp": 100
+       },
+       {
+        "t": 4919,
+        "como": "de paso",
+        "pos": [
+         23,
+         27
+        ],
+        "hp": 100
+       },
+       {
+        "t": 4941,
+        "como": "de paso",
+        "pos": [
+         23,
+         27
+        ],
+        "hp": 100
+       },
+       {
+        "t": 4963,
+        "como": "de paso",
+        "pos": [
+         23,
+         27
+        ],
+        "hp": 100
+       }
+      ]
+     },
+     "coge": [],
+     "coge_n": 0,
+     "coge_regaladas": 0,
+     "coge_tras_hacer_sitio": 0,
+     "usa": [],
+     "hace_sitio": [
+      {
+       "t": 8309,
+       "elegido": "hacer_sitio_rations_por_sword",
+       "d_mejor": [
+        [
+         "noop",
+         2.78084
+        ],
+        [
+         "hacer_sitio_rations_por_sword",
+         2.78084
+        ]
+       ]
+      }
+     ],
+     "curiosidad_cada_250": [
+      [
+       500,
+       0.01421,
+       0.1521
+      ],
+      [
+       750,
+       0.02738,
+       0.1521
+      ],
+      [
+       1000,
+       0.01435,
+       0.1521
+      ],
+      [
+       1250,
+       0.01443,
+       0.1521
+      ],
+      [
+       1500,
+       0.01406,
+       0.1521
+      ],
+      [
+       1750,
+       0.01427,
+       0.1521
+      ],
+      [
+       2000,
+       0.01469,
+       0.1521
+      ],
+      [
+       2250,
+       0.01469,
+       0.1521
+      ]
+     ],
+     "huellas": [],
+     "cuaderno_arranque": {
+      "leido": true,
+      "dia": 1,
+      "creencias": {
+       "first_aid": {
+        "dentro": {
+         "cuerpo": 6.8651,
+         "recursos": -0.4288,
+         "vinculo": 0.4348
+        },
+        "fuera": {
+         "cuerpo": -0.3549,
+         "recursos": 0.0,
+         "vinculo": 0.6529
+        },
+        "ignorancia": 0.1521,
+        "pesos_vividos": 5.573
+       }
+      },
+      "entorno_brazo": "APRENDE"
+     },
+     "cuaderno_fin": {
+      "escrito": true,
+      "dia": 2,
+      "creencias": {
+       "first_aid": {
+        "dentro": {
+         "cuerpo": 6.8011,
+         "recursos": -0.4248,
+         "vinculo": 0.4307
+        },
+        "fuera": {
+         "cuerpo": -0.3457,
+         "recursos": 0.0,
+         "vinculo": 0.6359
+        },
+        "ignorancia": 0.1589,
+        "pesos_vividos": 5.2943
+       }
+      },
+      "n_recuerdos": 5,
+      "al_menos": 2,
+      "ignorancia": 0.1589,
+      "pesos_vividos": 5.2943
+     }
+    },
+    "11": {
+     "ticks_vivos": 14953,
+     "placement": 1,
+     "primer_botiquin_visto_t": 548,
+     "tics_con_novedad": 14472,
+     "se_acerca": {
+      "tics_ir_curioso": 8051,
+      "tics_ir_objeto_(destino_no_observable)": 511,
+      "primeros": [
+       {
+        "t": 548,
+        "elegido": "ir_curioso",
+        "M": 0.18,
+        "kits_suelo": [
+         [
+          25,
+          24
+         ]
+        ],
+        "pos": [
+         21,
+         16
+        ]
+       },
+       {
+        "t": 549,
+        "elegido": "ir_curioso",
+        "M": 0.18,
+        "kits_suelo": [
+         [
+          25,
+          24
+         ]
+        ],
+        "pos": [
+         21,
+         16
+        ]
+       },
+       {
+        "t": 550,
+        "elegido": "ir_curioso",
+        "M": 0.18,
+        "kits_suelo": [
+         [
+          25,
+          24
+         ]
+        ],
+        "pos": [
+         21,
+         16
+        ]
+       },
+       {
+        "t": 551,
+        "elegido": "ir_curioso",
+        "M": 0.18,
+        "kits_suelo": [
+         [
+          25,
+          24
+         ]
+        ],
+        "pos": [
+         21,
+         16
+        ]
+       },
+       {
+        "t": 552,
+        "elegido": "ir_curioso",
+        "M": 0.18,
+        "kits_suelo": [
+         [
+          25,
+          24
+         ]
+        ],
+        "pos": [
+         21,
+         16
+        ]
+       }
+      ]
+     },
+     "llegadas_a_una_casilla": {
+      "n": 87,
+      "por_curiosidad": 82,
+      "de_paso": 5,
+      "primeras": [
+       {
+        "t": 4849,
+        "como": "por curiosidad",
+        "pos": [
+         21,
+         27
+        ],
+        "hp": 100
+       },
+       {
+        "t": 4852,
+        "como": "por curiosidad",
+        "pos": [
+         22,
+         26
+        ],
+        "hp": 100
+       },
+       {
+        "t": 5143,
+        "como": "por curiosidad",
+        "pos": [
+         22,
+         26
+        ],
+        "hp": 100
+       },
+       {
+        "t": 5424,
+        "como": "por curiosidad",
+        "pos": [
+         22,
+         26
+        ],
+        "hp": 100
+       },
+       {
+        "t": 5715,
+        "como": "por curiosidad",
+        "pos": [
+         22,
+         26
+        ],
+        "hp": 100
+       },
+       {
+        "t": 6018,
+        "como": "por curiosidad",
+        "pos": [
+         22,
+         26
+        ],
+        "hp": 100
+       }
+      ]
+     },
+     "coge": [
+      {
+       "t": 4851,
+       "kits": 1,
+       "pos": [
+        22,
+        26
+       ],
+       "tras_hacer_sitio": false,
+       "regalado": true
+      },
+      {
+       "t": 5142,
+       "kits": 1,
+       "pos": [
+        22,
+        26
+       ],
+       "tras_hacer_sitio": false,
+       "regalado": true
+      },
+      {
+       "t": 5423,
+       "kits": 1,
+       "pos": [
+        22,
+        26
+       ],
+       "tras_hacer_sitio": false,
+       "regalado": true
+      },
+      {
+       "t": 5714,
+       "kits": 1,
+       "pos": [
+        22,
+        26
+       ],
+       "tras_hacer_sitio": false,
+       "regalado": true
+      },
+      {
+       "t": 6017,
+       "kits": 1,
+       "pos": [
+        22,
+        26
+       ],
+       "tras_hacer_sitio": false,
+       "regalado": true
+      },
+      {
+       "t": 6308,
+       "kits": 1,
+       "pos": [
+        22,
+        26
+       ],
+       "tras_hacer_sitio": false,
+       "regalado": true
+      },
+      {
+       "t": 6611,
+       "kits": 1,
+       "pos": [
+        22,
+        26
+       ],
+       "tras_hacer_sitio": false,
+       "regalado": true
+      },
+      {
+       "t": 6897,
+       "kits": 1,
+       "pos": [
+        22,
+        26
+       ],
+       "tras_hacer_sitio": false,
+       "regalado": true
+      },
+      {
+       "t": 7183,
+       "kits": 1,
+       "pos": [
+        22,
+        26
+       ],
+       "tras_hacer_sitio": false,
+       "regalado": true
+      },
+      {
+       "t": 7469,
+       "kits": 1,
+       "pos": [
+        22,
+        26
+       ],
+       "tras_hacer_sitio": false,
+       "regalado": true
+      },
+      {
+       "t": 7755,
+       "kits": 1,
+       "pos": [
+        22,
+        26
+       ],
+       "tras_hacer_sitio": false,
+       "regalado": true
+      },
+      {
+       "t": 8041,
+       "kits": 1,
+       "pos": [
+        22,
+        26
+       ],
+       "tras_hacer_sitio": false,
+       "regalado": true
+      }
+     ],
+     "coge_n": 19,
+     "coge_regaladas": 15,
+     "coge_tras_hacer_sitio": 2,
+     "usa": [
+      {
+       "t": 12710,
+       "situacion": "dentro",
+       "hp": 92,
+       "ignorancia": 1.0,
+       "heal_imaginado": 0.0
+      },
+      {
+       "t": 12759,
+       "situacion": "dentro",
+       "hp": 82,
+       "ignorancia": 0.44074220988144036,
+       "heal_imaginado": 0.4474
+      },
+      {
+       "t": 12945,
+       "situacion": "dentro",
+       "hp": 93,
+       "ignorancia": 0.28531484493138176,
+       "heal_imaginado": 6.6373
+      }
+     ],
+     "hace_sitio": [
+      {
+       "t": 12700,
+       "elegido": "hacer_sitio_first_aid_por_backpack",
+       "d_mejor": [
+        [
+         "hacer_sitio_first_aid_por_backpack",
+         3.40201
+        ],
+        [
+         "noop",
+         3.44347
+        ],
+        [
+         "soltar_rations",
+         3.90743
+        ]
+       ]
+      },
+      {
+       "t": 13159,
+       "elegido": "hacer_sitio_rations_por_first_aid",
+       "d_mejor": [
+        [
+         "noop",
+         3.13028
+        ],
+        [
+         "hacer_sitio_rations_por_first_aid",
+         3.13028
+        ]
+       ]
+      }
+     ],
+     "curiosidad_cada_250": [
+      [
+       500,
+       0.0945,
+       1.0
+      ],
+      [
+       750,
+       0.18,
+       1.0
+      ],
+      [
+       1000,
+       0.09252,
+       1.0
+      ],
+      [
+       1250,
+       0.09736,
+       1.0
+      ],
+      [
+       1500,
+       0.09278,
+       1.0
+      ],
+      [
+       1750,
+       0.09781,
+       1.0
+      ],
+      [
+       2000,
+       0.09495,
+       1.0
+      ],
+      [
+       2250,
+       0.09586,
+       1.0
+      ]
+     ],
+     "huellas": [
+      {
+       "t0": 12710,
+       "t_fin": 12723,
+       "situacion": "dentro",
+       "hp0": 92.0,
+       "hp_fin": 82,
+       "hp_max": 100.0,
+       "al_menos": false,
+       "interrumpido": null,
+       "efecto": {
+        "cuerpo": 0.8,
+        "recursos": 0,
+        "vinculo": -2.099
+       },
+       "importancia": {
+        "cuerpo": 0.2465,
+        "recursos": 0.0403,
+        "vinculo": 0.1166
+       },
+       "intensidad": 1.2689,
+       "dano_conocido": 10.8,
+       "dano_total": 10.8,
+       "creencia_despues": {
+        "cuerpo": 0.4474,
+        "recursos": 0.0,
+        "vinculo": -1.1739
+       }
+      },
+      {
+       "t0": 12759,
+       "t_fin": 12807,
+       "situacion": "dentro",
+       "hp0": 82.0,
+       "hp_fin": 100,
+       "hp_max": 100.0,
+       "al_menos": true,
+       "interrumpido": null,
+       "efecto": {
+        "cuerpo": 18.0,
+        "recursos": -1,
+        "vinculo": 0.7639
+       },
+       "importancia": {
+        "cuerpo": -0.192,
+        "recursos": 0.0244,
+        "vinculo": -0.1376
+       },
+       "intensidad": 1.236,
+       "dano_conocido": 0.0,
+       "dano_total": 0.0,
+       "creencia_despues": {
+        "cuerpo": 6.6373,
+        "recursos": -0.3526,
+        "vinculo": -0.4905
+       }
+      },
+      {
+       "t0": 12945,
+       "t_fin": 12993,
+       "situacion": "dentro",
+       "hp0": 93.0,
+       "hp_fin": 100,
+       "hp_max": 100.0,
+       "al_menos": true,
+       "interrumpido": null,
+       "efecto": {
+        "cuerpo": 7.0,
+        "recursos": -1,
+        "vinculo": 1.2361
+       },
+       "importancia": {
+        "cuerpo": -0.1706,
+        "recursos": -0.0905,
+        "vinculo": -0.1597
+       },
+       "intensidad": 1.2805,
+       "dano_conocido": 0.0,
+       "dano_total": 0.0,
+       "creencia_despues": {
+        "cuerpo": 6.7344,
+        "recursos": -0.5259,
+        "vinculo": -0.0285
+       }
+      }
+     ],
+     "cuaderno_arranque": {
+      "leido": true,
+      "dia": 1,
+      "creencias": {},
+      "entorno_brazo": "APRENDE"
+     },
+     "cuaderno_fin": {
+      "escrito": true,
+      "dia": 2,
+      "creencias": {
+       "first_aid": {
+        "dentro": {
+         "cuerpo": 6.6611,
+         "recursos": -0.5201,
+         "vinculo": -0.0282
+        },
+        "ignorancia": 0.2176,
+        "pesos_vividos": 3.5961
+       }
+      },
+      "n_recuerdos": 3,
+      "al_menos": 2,
+      "ignorancia": 0.2176,
+      "pesos_vividos": 3.5961
+     }
+    }
+   }
+  },
+  "3": {
+   "semilla": 27382488,
+   "coste_usd_plataforma": 0.108795,
+   "estado": "completed",
+   "criaturas": {
+    "10": {
+     "ticks_vivos": 13825,
+     "placement": 7,
+     "primer_botiquin_visto_t": 482,
+     "tics_con_novedad": 13344,
+     "se_acerca": {
+      "tics_ir_curioso": 1822,
+      "tics_ir_objeto_(destino_no_observable)": 115,
+      "primeros": [
+       {
+        "t": 482,
+        "elegido": "ir_curioso",
+        "M": 0.02894,
+        "kits_suelo": [
+         [
+          11,
+          22
+         ]
+        ],
+        "pos": [
+         14,
+         14
+        ]
+       },
+       {
+        "t": 488,
+        "elegido": "ir_curioso",
+        "M": 0.02845,
+        "kits_suelo": [
+         [
+          11,
+          22
+         ]
+        ],
+        "pos": [
+         14,
+         14
+        ]
+       },
+       {
+        "t": 489,
+        "elegido": "ir_curioso",
+        "M": 0.02845,
+        "kits_suelo": [
+         [
+          11,
+          22
+         ]
+        ],
+        "pos": [
+         14,
+         14
+        ]
+       },
+       {
+        "t": 490,
+        "elegido": "ir_curioso",
+        "M": 0.02845,
+        "kits_suelo": [
+         [
+          11,
+          22
+         ]
+        ],
+        "pos": [
+         14,
+         14
+        ]
+       },
+       {
+        "t": 491,
+        "elegido": "ir_curioso",
+        "M": 0.02845,
+        "kits_suelo": [
+         [
+          11,
+          22
+         ]
+        ],
+        "pos": [
+         14,
+         14
+        ]
+       }
+      ]
+     },
+     "llegadas_a_una_casilla": {
+      "n": 56,
+      "por_curiosidad": 32,
+      "de_paso": 24,
+      "primeras": [
+       {
+        "t": 625,
+        "como": "por curiosidad",
+        "pos": [
+         25,
+         24
+        ],
+        "hp": 100
+       },
+       {
+        "t": 638,
+        "como": "por curiosidad",
+        "pos": [
+         25,
+         25
+        ],
+        "hp": 100
+       },
+       {
+        "t": 670,
+        "como": "por curiosidad",
+        "pos": [
+         25,
+         26
+        ],
+        "hp": 100
+       },
+       {
+        "t": 692,
+        "como": "de paso",
+        "pos": [
+         25,
+         26
+        ],
+        "hp": 100
+       },
+       {
+        "t": 912,
+        "como": "de paso",
+        "pos": [
+         25,
+         25
+        ],
+        "hp": 100
+       },
+       {
+        "t": 957,
+        "como": "de paso",
+        "pos": [
+         25,
+         23
+        ],
+        "hp": 100
+       }
+      ]
+     },
+     "coge": [
+      {
+       "t": 637,
+       "kits": 1,
+       "pos": [
+        25,
+        25
+       ],
+       "tras_hacer_sitio": false,
+       "regalado": true
+      },
+      {
+       "t": 682,
+       "kits": 1,
+       "pos": [
+        24,
+        27
+       ],
+       "tras_hacer_sitio": false,
+       "regalado": false
+      },
+      {
+       "t": 1247,
+       "kits": 1,
+       "pos": [
+        25,
+        23
+       ],
+       "tras_hacer_sitio": false,
+       "regalado": false
+      },
+      {
+       "t": 10403,
+       "kits": 2,
+       "pos": [
+        23,
+        28
+       ],
+       "tras_hacer_sitio": false,
+       "regalado": false
+      },
+      {
+       "t": 10441,
+       "kits": 2,
+       "pos": [
+        22,
+        26
+       ],
+       "tras_hacer_sitio": true,
+       "regalado": false
+      },
+      {
+       "t": 10445,
+       "kits": 2,
+       "pos": [
+        22,
+        26
+       ],
+       "tras_hacer_sitio": true,
+       "regalado": false
+      },
+      {
+       "t": 10461,
+       "kits": 2,
+       "pos": [
+        22,
+        26
+       ],
+       "tras_hacer_sitio": true,
+       "regalado": false
+      },
+      {
+       "t": 10465,
+       "kits": 2,
+       "pos": [
+        22,
+        26
+       ],
+       "tras_hacer_sitio": true,
+       "regalado": false
+      },
+      {
+       "t": 10469,
+       "kits": 2,
+       "pos": [
+        22,
+        26
+       ],
+       "tras_hacer_sitio": true,
+       "regalado": false
+      }
+     ],
+     "coge_n": 9,
+     "coge_regaladas": 1,
+     "coge_tras_hacer_sitio": 5,
+     "usa": [],
+     "hace_sitio": [
+      {
+       "t": 10436,
+       "elegido": "hacer_sitio_first_aid_por_blowgun",
+       "d_mejor": [
+        [
+         "hacer_sitio_first_aid_por_blowgun",
+         3.12262
+        ],
+        [
+         "noop",
+         3.13518
+        ],
+        [
+         "hacer_sitio_rations_por_blowgun",
+         3.13518
+        ]
+       ]
+      },
+      {
+       "t": 10439,
+       "elegido": "hacer_sitio_rations_por_first_aid",
+       "d_mejor": [
+        [
+         "noop",
+         3.18462
+        ],
+        [
+         "hacer_sitio_rations_por_first_aid",
+         3.18462
+        ]
+       ]
+      },
+      {
+       "t": 10441,
+       "elegido": "hacer_sitio_first_aid_por_rations",
+       "d_mejor": [
+        [
+         "hacer_sitio_first_aid_por_rations",
+         3.43756
+        ],
+        [
+         "noop",
+         3.4507
+        ]
+       ]
+      },
+      {
+       "t": 10443,
+       "elegido": "hacer_sitio_rations_por_first_aid",
+       "d_mejor": [
+        [
+         "noop",
+         3.18343
+        ],
+        [
+         "hacer_sitio_rations_por_first_aid",
+         3.18343
+        ]
+       ]
+      },
+      {
+       "t": 10445,
+       "elegido": "hacer_sitio_first_aid_por_rations",
+       "d_mejor": [
+        [
+         "hacer_sitio_first_aid_por_rations",
+         3.43756
+        ],
+        [
+         "noop",
+         3.4507
+        ]
+       ]
+      },
+      {
+       "t": 10459,
+       "elegido": "hacer_sitio_rations_por_first_aid",
+       "d_mejor": [
+        [
+         "noop",
+         3.17656
+        ],
+        [
+         "hacer_sitio_rations_por_first_aid",
+         3.17656
+        ]
+       ]
+      },
+      {
+       "t": 10461,
+       "elegido": "hacer_sitio_first_aid_por_rations",
+       "d_mejor": [
+        [
+         "hacer_sitio_first_aid_por_rations",
+         3.43012
+        ],
+        [
+         "noop",
+         3.44349
+        ]
+       ]
+      },
+      {
+       "t": 10463,
+       "elegido": "hacer_sitio_rations_por_first_aid",
+       "d_mejor": [
+        [
+         "noop",
+         3.17656
+        ],
+        [
+         "hacer_sitio_rations_por_first_aid",
+         3.17656
+        ]
+       ]
+      },
+      {
+       "t": 10465,
+       "elegido": "hacer_sitio_first_aid_por_rations",
+       "d_mejor": [
+        [
+         "hacer_sitio_first_aid_por_rations",
+         3.43756
+        ],
+        [
+         "noop",
+         3.4507
+        ]
+       ]
+      },
+      {
+       "t": 10467,
+       "elegido": "hacer_sitio_rations_por_first_aid",
+       "d_mejor": [
+        [
+         "noop",
+         3.18343
+        ],
+        [
+         "hacer_sitio_rations_por_first_aid",
+         3.18343
+        ]
+       ]
+      },
+      {
+       "t": 10514,
+       "elegido": "hacer_sitio_first_aid_por_knives",
+       "d_mejor": [
+        [
+         "hacer_sitio_first_aid_por_knives",
+         3.43434
+        ],
+        [
+         "noop",
+         3.44758
+        ]
+       ]
+      }
+     ],
+     "curiosidad_cada_250": [
+      [
+       500,
+       0.02845,
+       0.3047
+      ],
+      [
+       750,
+       0.02743,
+       0.3047
+      ],
+      [
+       1000,
+       0.02845,
+       0.3047
+      ],
+      [
+       1250,
+       0.01429,
+       0.3047
+      ],
+      [
+       1500,
+       0.02743,
+       0.3047
+      ],
+      [
+       1750,
+       0.02743,
+       0.3047
+      ],
+      [
+       2000,
+       0.01447,
+       0.3047
+      ],
+      [
+       2250,
+       0.01447,
+       0.3047
+      ]
+     ],
+     "huellas": [],
+     "cuaderno_arranque": {
+      "leido": true,
+      "dia": 2,
+      "creencias": {
+       "first_aid": {
+        "dentro": {
+         "cuerpo": 11.1078,
+         "recursos": -0.6953,
+         "vinculo": -0.0407
+        },
+        "ignorancia": 0.3047,
+        "pesos_vividos": 2.2815
+       }
+      },
+      "entorno_brazo": "APRENDE"
+     },
+     "cuaderno_fin": {
+      "escrito": true,
+      "dia": 3,
+      "creencias": {
+       "first_aid": {
+        "dentro": {
+         "cuerpo": 10.9324,
+         "recursos": -0.6843,
+         "vinculo": -0.04
+        },
+        "ignorancia": 0.3157,
+        "pesos_vividos": 2.1674
+       }
+      },
+      "n_recuerdos": 2,
+      "al_menos": 2,
+      "ignorancia": 0.3157,
+      "pesos_vividos": 2.1674
+     }
+    },
+    "11": {
+     "ticks_vivos": 14761,
+     "placement": 5,
+     "primer_botiquin_visto_t": 559,
+     "tics_con_novedad": 14280,
+     "se_acerca": {
+      "tics_ir_curioso": 1087,
+      "tics_ir_objeto_(destino_no_observable)": 56,
+      "primeros": [
+       {
+        "t": 559,
+        "elegido": "ir_curioso",
+        "M": 0.02767,
+        "kits_suelo": [
+         [
+          25,
+          25
+         ]
+        ],
+        "pos": [
+         21,
+         17
+        ]
+       },
+       {
+        "t": 560,
+        "elegido": "ir_curioso",
+        "M": 0.02767,
+        "kits_suelo": [
+         [
+          25,
+          25
+         ]
+        ],
+        "pos": [
+         21,
+         17
+        ]
+       },
+       {
+        "t": 561,
+        "elegido": "ir_curioso",
+        "M": 0.02767,
+        "kits_suelo": [
+         [
+          25,
+          25
+         ]
+        ],
+        "pos": [
+         21,
+         17
+        ]
+       },
+       {
+        "t": 562,
+        "elegido": "ir_curioso",
+        "M": 0.05309,
+        "kits_suelo": [
+         [
+          25,
+          25
+         ]
+        ],
+        "pos": [
+         21,
+         17
+        ]
+       },
+       {
+        "t": 563,
+        "elegido": "ir_curioso",
+        "M": 0.05309,
+        "kits_suelo": [
+         [
+          25,
+          25
+         ]
+        ],
+        "pos": [
+         21,
+         17
+        ]
+       }
+      ]
+     },
+     "llegadas_a_una_casilla": {
+      "n": 30,
+      "por_curiosidad": 17,
+      "de_paso": 13,
+      "primeras": [
+       {
+        "t": 636,
+        "como": "por curiosidad",
+        "pos": [
+         26,
+         24
+        ],
+        "hp": 100
+       },
+       {
+        "t": 638,
+        "como": "por curiosidad",
+        "pos": [
+         26,
+         24
+        ],
+        "hp": 100
+       },
+       {
+        "t": 692,
+        "como": "de paso",
+        "pos": [
+         24,
+         26
+        ],
+        "hp": 100
+       },
+       {
+        "t": 966,
+        "como": "por curiosidad",
+        "pos": [
+         24,
+         24
+        ],
+        "hp": 100
+       },
+       {
+        "t": 979,
+        "como": "por curiosidad",
+        "pos": [
+         25,
+         23
+        ],
+        "hp": 100
+       },
+       {
+        "t": 1010,
+        "como": "por curiosidad",
+        "pos": [
+         25,
+         22
+        ],
+        "hp": 100
+       }
+      ]
+     },
+     "coge": [
+      {
+       "t": 659,
+       "kits": 1,
+       "pos": [
+        25,
+        25
+       ],
+       "tras_hacer_sitio": false,
+       "regalado": false
+      },
+      {
+       "t": 978,
+       "kits": 1,
+       "pos": [
+        25,
+        23
+       ],
+       "tras_hacer_sitio": false,
+       "regalado": true
+      },
+      {
+       "t": 1055,
+       "kits": 1,
+       "pos": [
+        24,
+        26
+       ],
+       "tras_hacer_sitio": false,
+       "regalado": false
+      },
+      {
+       "t": 4850,
+       "kits": 2,
+       "pos": [
+        27,
+        24
+       ],
+       "tras_hacer_sitio": false,
+       "regalado": false
+      },
+      {
+       "t": 10546,
+       "kits": 2,
+       "pos": [
+        27,
+        23
+       ],
+       "tras_hacer_sitio": false,
+       "regalado": false
+      },
+      {
+       "t": 10647,
+       "kits": 1,
+       "pos": [
+        27,
+        23
+       ],
+       "tras_hacer_sitio": false,
+       "regalado": false
+      },
+      {
+       "t": 10669,
+       "kits": 2,
+       "pos": [
+        29,
+        22
+       ],
+       "tras_hacer_sitio": false,
+       "regalado": false
+      },
+      {
+       "t": 11161,
+       "kits": 2,
+       "pos": [
+        27,
+        24
+       ],
+       "tras_hacer_sitio": false,
+       "regalado": true
+      },
+      {
+       "t": 14046,
+       "kits": 2,
+       "pos": [
+        26,
+        24
+       ],
+       "tras_hacer_sitio": false,
+       "regalado": false
+      }
+     ],
+     "coge_n": 9,
+     "coge_regaladas": 2,
+     "coge_tras_hacer_sitio": 0,
+     "usa": [
+      {
+       "t": 4851,
+       "situacion": "dentro",
+       "hp": 94,
+       "ignorancia": 0.2949265264291034,
+       "heal_imaginado": 8.7448
+      },
+      {
+       "t": 14047,
+       "situacion": "dentro",
+       "hp": 14,
+       "ignorancia": 0.21853743819488075,
+       "heal_imaginado": 8.0339
+      },
+      {
+       "t": 14096,
+       "situacion": "dentro",
+       "hp": 64,
+       "ignorancia": 0.16564038643902157,
+       "heal_imaginado": 8.0339
+      }
+     ],
+     "hace_sitio": [],
+     "curiosidad_cada_250": [
+      [
+       500,
+       0.02754,
+       0.2949
+      ],
+      [
+       750,
+       0.05309,
+       0.2949
+      ],
+      [
+       1000,
+       0.02767,
+       0.2949
+      ],
+      [
+       1250,
+       0.01442,
+       0.2949
+      ],
+      [
+       1500,
+       0.02654,
+       0.2949
+      ],
+      [
+       1750,
+       0.01437,
+       0.2949
+      ],
+      [
+       2000,
+       0.01346,
+       0.2949
+      ],
+      [
+       2250,
+       0.01346,
+       0.2949
+      ]
+     ],
+     "huellas": [
+      {
+       "t0": 4851,
+       "t_fin": 4899,
+       "situacion": "dentro",
+       "hp0": 94.0,
+       "hp_fin": 100,
+       "hp_max": 100.0,
+       "al_menos": true,
+       "interrumpido": false,
+       "efecto": {
+        "cuerpo": 6.0,
+        "recursos": -1,
+        "vinculo": -2.0
+       },
+       "importancia": {
+        "cuerpo": -0.1447,
+        "recursos": -0.0274,
+        "vinculo": -0.1057
+       },
+       "intensidad": 1.1852,
+       "dano_conocido": 0.0,
+       "dano_total": 0.0,
+       "creencia_despues": {
+        "cuerpo": 8.0339,
+        "recursos": -0.7815,
+        "vinculo": 0.0066
+       }
+      },
+      {
+       "t0": 14047,
+       "t_fin": 14095,
+       "situacion": "dentro",
+       "hp0": 14.0,
+       "hp_fin": 64,
+       "hp_max": 100.0,
+       "al_menos": false,
+       "interrumpido": false,
+       "efecto": {
+        "cuerpo": 50.0,
+        "recursos": -1,
+        "vinculo": 0.0
+       },
+       "importancia": {
+        "cuerpo": -0.5704,
+        "recursos": -0.0707,
+        "vinculo": -0.0508
+       },
+       "intensidad": 1.4613,
+       "dano_conocido": 0.0,
+       "dano_total": 0.0,
+       "creencia_despues": {
+        "cuerpo": 29.6855,
+        "recursos": -0.8344,
+        "vinculo": 0.005
+       }
+      },
+      {
+       "t0": 14096,
+       "t_fin": 14144,
+       "situacion": "dentro",
+       "hp0": 64.0,
+       "hp_fin": 100,
+       "hp_max": 100.0,
+       "al_menos": true,
+       "interrumpido": false,
+       "efecto": {
+        "cuerpo": 36.0,
+        "recursos": -1,
+        "vinculo": 0.0
+       },
+       "importancia": {
+        "cuerpo": -0.2004,
+        "recursos": 0.2216,
+        "vinculo": 0.0355
+       },
+       "intensidad": 1.305,
+       "dano_conocido": 0.0,
+       "dano_total": 0.0,
+       "creencia_despues": {
+        "cuerpo": 31.8735,
+        "recursos": -0.8638,
+        "vinculo": 0.0041
+       }
+      }
+     ],
+     "cuaderno_arranque": {
+      "leido": true,
+      "dia": 2,
+      "creencias": {
+       "first_aid": {
+        "dentro": {
+         "cuerpo": 8.7448,
+         "recursos": -0.7051,
+         "vinculo": 0.708
+        },
+        "ignorancia": 0.2949,
+        "pesos_vividos": 2.3907
+       }
+      },
+      "entorno_brazo": "APRENDE"
+     },
+     "cuaderno_fin": {
+      "escrito": true,
+      "dia": 3,
+      "creencias": {
+       "first_aid": {
+        "dentro": {
+         "cuerpo": 31.4342,
+         "recursos": -0.8577,
+         "vinculo": 0.0041
+        },
+        "ignorancia": 0.1423,
+        "pesos_vividos": 6.0251
+       }
+      },
+      "n_recuerdos": 5,
+      "al_menos": 4,
+      "ignorancia": 0.1423,
+      "pesos_vividos": 6.0251
+     }
+    }
+   }
+  }
+ }
+}

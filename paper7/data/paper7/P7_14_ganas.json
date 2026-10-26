@@ -1,0 +1,86 @@
+{
+ "TECHO": {
+  "k": 1.0,
+  "ACOPIO_M": 0.18,
+  "ACOPIO_POR_DOS": 0.1,
+  "W_TARGET": 3.0
+ },
+ "APRENDE": [
+  {
+   "recuerdos": 1,
+   "ignorancia": 0.5,
+   "creencia_con_neutro": 25.0,
+   "creencia_vivida": 50.0,
+   "k": 0.65,
+   "W_TARGET": 2.65,
+   "ACOPIO_M": 0.117,
+   "k_del_regalo": 0.5,
+   "con_ignorancia_0": {
+    "k": 1.0,
+    "W_TARGET": 3.0,
+    "ACOPIO_M": 0.18,
+    "ACOPIO_POR_DOS": 0.1,
+    "cura_imaginada": 50.0,
+    "igual_a_TECHO": true
+   }
+  },
+  {
+   "recuerdos": 3,
+   "ignorancia": 0.25,
+   "creencia_con_neutro": 37.5,
+   "creencia_vivida": 50.0,
+   "k": 0.825,
+   "W_TARGET": 2.825,
+   "ACOPIO_M": 0.1485,
+   "k_del_regalo": 0.75,
+   "con_ignorancia_0": {
+    "k": 1.0,
+    "W_TARGET": 3.0,
+    "ACOPIO_M": 0.18,
+    "ACOPIO_POR_DOS": 0.1,
+    "cura_imaginada": 50.0,
+    "igual_a_TECHO": true
+   }
+  },
+  {
+   "recuerdos": 10,
+   "ignorancia": 0.09091,
+   "creencia_con_neutro": 45.4545,
+   "creencia_vivida": 50.0,
+   "k": 0.936364,
+   "W_TARGET": 2.936364,
+   "ACOPIO_M": 0.168545,
+   "k_del_regalo": 0.90909,
+   "con_ignorancia_0": {
+    "k": 1.0,
+    "W_TARGET": 3.0,
+    "ACOPIO_M": 0.18,
+    "ACOPIO_POR_DOS": 0.1,
+    "cura_imaginada": 50.0,
+    "igual_a_TECHO": true
+   }
+  },
+  {
+   "recuerdos": 30,
+   "ignorancia": 0.03226,
+   "creencia_con_neutro": 48.3871,
+   "creencia_vivida": 50.0,
+   "k": 0.977419,
+   "W_TARGET": 2.977419,
+   "ACOPIO_M": 0.175935,
+   "k_del_regalo": 0.967742,
+   "con_ignorancia_0": {
+    "k": 1.0,
+    "W_TARGET": 3.0,
+    "ACOPIO_M": 0.18,
+    "ACOPIO_POR_DOS": 0.1,
+    "cura_imaginada": 50.0,
+    "igual_a_TECHO": true
+   }
+  }
+ ],
+ "sin_recuerdos": {
+  "k": 0.3,
+  "cura_imaginada": 15.0
+ }
+}

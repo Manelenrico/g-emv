@@ -1,0 +1,239 @@
+{
+ "_que_es": "[P5-6B] El mundo lento v0 con el roster DESARMADO: fuera las tres cazadoras, dentro tres repeticiones de las tres politicas mas pacificas que ya estaban.",
+ "_semilla_1_de_la_lista": 20260916,
+ "_fuera": [
+  {
+   "policy_version_id": "09da1dbc-ac3b-4bb1-9114-4ee615496755",
+   "nombre": "Zero Sum Baseline",
+   "golpes_antes_del_2000": 2877,
+   "muertes_nuestras": 61
+  },
+  {
+   "policy_version_id": "dfc40843-b709-4332-85a6-c5bbb653375b",
+   "nombre": "zero-sum-example",
+   "golpes_antes_del_2000": 443,
+   "muertes_nuestras": 71
+  },
+  {
+   "policy_version_id": "54ec6fab-6773-46db-bb55-119688182786",
+   "nombre": "ryanschiller-zero-sum-player-v1",
+   "golpes_antes_del_2000": 292,
+   "muertes_nuestras": 42
+  }
+ ],
+ "_por_que": "En P5-1 E3, sobre 434 diarios, esas tres hacen 3.612 de 3.928 golpes (92,0 %) y 174 de 211 muertes tempranas (82,5 %). Las tres que se repiten son las mas pacificas del mismo roster: belobog (0 golpes, 0 muertes), relh-zero-sum (2, 0) y zero-sum-scavenger (10, 2). Se repiten las YA PRESENTES para no cambiar el reparto de politicas del mundo, solo su temperatura.",
+ "game_config_overrides": {
+  "max_ticks": 18240,
+  "freeze_ticks": 480,
+  "stat_budget": 20,
+  "zone": {
+   "schedule": [
+    [
+     7296,
+     7536,
+     8076,
+     24,
+     19,
+     1
+    ],
+    [
+     8436,
+     8676,
+     9216,
+     19,
+     15,
+     2
+    ],
+    [
+     9576,
+     9816,
+     10356,
+     15,
+     11,
+     4
+    ],
+    [
+     10716,
+     10956,
+     11496,
+     11,
+     8,
+     6
+    ],
+    [
+     11856,
+     12096,
+     12636,
+     8,
+     5,
+     8
+    ],
+    [
+     12996,
+     13236,
+     13776,
+     5,
+     3,
+     16
+    ],
+    [
+     14136,
+     14376,
+     14916,
+     3,
+     0,
+     24
+    ]
+   ]
+  },
+  "sponsor": {
+   "live": false,
+   "budget_per_team": 600,
+   "shop_opens_tick": 1680,
+   "scripted_gifts": [
+    {
+     "team": "A",
+     "tick": 2016,
+     "item_id": "rations",
+     "recipient_slot": 0
+    },
+    {
+     "team": "A",
+     "tick": 4608,
+     "item_id": "first_aid",
+     "recipient_slot": 1
+    },
+    {
+     "team": "B",
+     "tick": 2040,
+     "item_id": "rations",
+     "recipient_slot": 2
+    },
+    {
+     "team": "B",
+     "tick": 4632,
+     "item_id": "first_aid",
+     "recipient_slot": 3
+    },
+    {
+     "team": "C",
+     "tick": 2064,
+     "item_id": "rations",
+     "recipient_slot": 4
+    },
+    {
+     "team": "C",
+     "tick": 4656,
+     "item_id": "first_aid",
+     "recipient_slot": 5
+    },
+    {
+     "team": "D",
+     "tick": 2088,
+     "item_id": "rations",
+     "recipient_slot": 6
+    },
+    {
+     "team": "D",
+     "tick": 4680,
+     "item_id": "first_aid",
+     "recipient_slot": 7
+    },
+    {
+     "team": "E",
+     "tick": 2112,
+     "item_id": "rations",
+     "recipient_slot": 8
+    },
+    {
+     "team": "E",
+     "tick": 4704,
+     "item_id": "first_aid",
+     "recipient_slot": 9
+    },
+    {
+     "team": "F",
+     "tick": 2136,
+     "item_id": "rations",
+     "recipient_slot": 10
+    },
+    {
+     "team": "F",
+     "tick": 4728,
+     "item_id": "first_aid",
+     "recipient_slot": 11
+    },
+    {
+     "team": "G",
+     "tick": 2160,
+     "item_id": "rations",
+     "recipient_slot": 12
+    },
+    {
+     "team": "G",
+     "tick": 4752,
+     "item_id": "first_aid",
+     "recipient_slot": 13
+    },
+    {
+     "team": "H",
+     "tick": 2184,
+     "item_id": "rations",
+     "recipient_slot": 14
+    },
+    {
+     "team": "H",
+     "tick": 4776,
+     "item_id": "first_aid",
+     "recipient_slot": 15
+    }
+   ]
+  }
+ },
+ "nuestros_asientos": [
+  {
+   "slot": 10
+  },
+  {
+   "slot": 11
+  }
+ ],
+ "rivales": [
+  {
+   "policy_version_id": "6244cdeb-e044-42ff-91e3-a5c716c4338d",
+   "nombre": "zero-sum-scavenger",
+   "veces": 3
+  },
+  {
+   "policy_version_id": "47f38a1c-9143-4b56-9316-ceabe7c82c6d",
+   "nombre": "relh-zero-sum",
+   "veces": 3
+  },
+  {
+   "policy_version_id": "458ec0b6-fc59-4bda-aff0-68daa7f21b79",
+   "nombre": "belobog",
+   "veces": 3
+  },
+  {
+   "policy_version_id": "41f43efa-bbd5-477a-8ed1-1443f2731eb1",
+   "nombre": "sivanlevy-zs-courier",
+   "veces": 2
+  },
+  {
+   "policy_version_id": "2b9cfd17-db50-4990-8f99-6c7c13453f61",
+   "nombre": "zs-patient",
+   "veces": 1
+  },
+  {
+   "policy_version_id": "9457da2a-832d-45e5-b918-9209e86f9948",
+   "nombre": "aaron-zs-fable",
+   "veces": 1
+  },
+  {
+   "policy_version_id": "3e8097e1-85b8-4731-b7c1-e674f2ccbd10",
+   "nombre": "skourehjan-zero-sum-scripted-v1",
+   "veces": 1
+  }
+ ],
+ "_total_asientos": 16
+}

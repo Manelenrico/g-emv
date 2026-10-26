@@ -1,0 +1,97 @@
+{
+ "lecturas": [
+  [
+   "13-oct 15:27",
+   107
+  ],
+  [
+   "13-oct 21:54",
+   64
+  ],
+  [
+   "14-oct 07:44",
+   82
+  ],
+  [
+   "14-oct 17:03",
+   19
+  ],
+  [
+   "15-oct 06:50",
+   88
+  ]
+ ],
+ "tramos": [
+  {
+   "de": "13-oct 15:27",
+   "a": "13-oct 21:54",
+   "saldo": [
+    107,
+    64
+   ],
+   "recargas": 0,
+   "partidas": 42,
+   "campos": [
+    "P7_56_estado.json",
+    "P7_57_estado.json"
+   ]
+  },
+  {
+   "de": "13-oct 21:54",
+   "a": "14-oct 07:44",
+   "saldo": [
+    64,
+    82
+   ],
+   "recargas": 1,
+   "partidas": 55,
+   "campos": [
+    "P7_57_estado.json"
+   ]
+  },
+  {
+   "de": "14-oct 07:44",
+   "a": "14-oct 17:03",
+   "saldo": [
+    82,
+    19
+   ],
+   "recargas": 0,
+   "partidas": 65,
+   "campos": [
+    "P7_57_estado.json"
+   ]
+  },
+  {
+   "de": "14-oct 17:03",
+   "a": "15-oct 06:50",
+   "saldo": [
+    19,
+    88
+   ],
+   "recargas": 1,
+   "partidas": 3,
+   "campos": [
+    "P7_63_estado.json"
+   ]
+  }
+ ],
+ "creditos_por_partida": 0.991,
+ "base": "tramos sin recarga: 106 creditos en 107 partidas",
+ "recarga_implicita": [
+  72,
+  72
+ ],
+ "serie_40": {
+  "partidas": 40,
+  "reintentos_por_partida": 0.014,
+  "margen": 5,
+  "creditos_recomendados": 45
+ },
+ "saldo_estimado_tras_recarga": {
+  "desde": "88 a las 06:50 del 15-oct",
+  "gastado_despues": 84,
+  "recarga": "~72 (implicita) / ~75 (Manel)",
+  "estimado": "~76-79"
+ }
+}

@@ -1,0 +1,918 @@
+{
+ "por_brazo": {
+  "TECHO": {
+   "regalos": 23,
+   "tics_cerca": 12507,
+   "razones": {
+    "a 1-2: solo noop (paso en enfriamiento)": 6351,
+    "el que lo dio esta encima del regalo": 4651,
+    "a 1-2: sin candidato, su mejor objeto es su propia casilla (first_aid recordado ahi)": 624,
+    "a 1-2: sin candidato, la casilla esta en sus propias cesiones": 365,
+    "a 1-2: sin candidato, su mejor objeto es otro (first_aid)": 287,
+    "ya lleva un botiquin": 138,
+    "a 1-2: sin candidato, su mejor objeto es otro (camouflage)": 43,
+    "a 1-2: sin candidato, su mejor objeto es su propia casilla (camouflage recordado ahi)": 25,
+    "encima: la casilla esta en sus propias cesiones (no hay coger)": 22,
+    "a 1-2: va a por el": 1
+   },
+   "razon_principal_por_regalo": {
+    "el que lo dio esta encima del regalo": 20,
+    "a 1-2: solo noop (paso en enfriamiento)": 2,
+    "a 1-2: sin candidato, la casilla esta en sus propias cesiones": 1
+   },
+   "tics_de_espera": 13132,
+   "tics_con_el_que_dio_encima": 5234,
+   "regalos_con_el_que_dio_encima_mas_del_90": 16,
+   "regalos_con_el_que_dio_encima_alguna_vez": 23,
+   "pasos_hacia_la_casilla": 1072,
+   "bloqueados": 1070
+  },
+  "APRENDE": {
+   "regalos": 15,
+   "tics_cerca": 3980,
+   "razones": {
+    "el que lo dio esta encima del regalo": 2950,
+    "a 1-2: sin candidato, su mejor objeto es otro (first_aid)": 737,
+    "a 1-2: solo noop (paso en enfriamiento)": 163,
+    "a 1-2: sin candidato, su mejor objeto es otro (backpack)": 106,
+    "a 1-2: sin candidato, su mejor objeto es su propia casilla (first_aid recordado ahi)": 13,
+    "a 1-2: va a por el": 10,
+    "a 1-2: tiene candidato de ir a por el y pierde contra ir_objeto": 1
+   },
+   "razon_principal_por_regalo": {
+    "el que lo dio esta encima del regalo": 10,
+    "a 1-2: sin candidato, su mejor objeto es otro (first_aid)": 5
+   },
+   "tics_de_espera": 4041,
+   "tics_con_el_que_dio_encima": 2952,
+   "regalos_con_el_que_dio_encima_mas_del_90": 7,
+   "regalos_con_el_que_dio_encima_alguna_vez": 15,
+   "pasos_hacia_la_casilla": 1960,
+   "bloqueados": 1960
+  },
+  "BORRADO": {
+   "regalos": 2,
+   "tics_cerca": 963,
+   "razones": {
+    "a 1-2: sin candidato, no le cabe": 695,
+    "a 1-2: tiene candidato de ir a por el y pierde contra noop": 128,
+    "encima: coger escondido por el arreglo del seis": 90,
+    "a 1-2: sin candidato, su mejor objeto es otro (backpack)": 28,
+    "el que lo dio esta encima del regalo": 20,
+    "a 1-2: tiene candidato de ir a por el y pierde contra un paso": 1,
+    "a 1-2: da un paso hacia el": 1
+   },
+   "razon_principal_por_regalo": {
+    "a 1-2: sin candidato, no le cabe": 1,
+    "a 1-2: sin candidato, su mejor objeto es otro (backpack)": 1
+   },
+   "tics_de_espera": 1004,
+   "tics_con_el_que_dio_encima": 22,
+   "regalos_con_el_que_dio_encima_mas_del_90": 0,
+   "regalos_con_el_que_dio_encima_alguna_vez": 2,
+   "pasos_hacia_la_casilla": 1,
+   "bloqueados": 0
+  }
+ },
+ "regalos": [
+  {
+   "t0": 1540,
+   "t1": 1819,
+   "pos": [
+    27,
+    21
+   ],
+   "vida_del_que_dio": "s1_d18_TECHO_10",
+   "brazo": "TECHO",
+   "hermano": "s1_d18_TECHO_11",
+   "tics_de_espera": 280,
+   "tics_con_el_que_dio_encima": 280,
+   "tics_del_que_pedia_cerca": 280,
+   "razones": {
+    "el que lo dio esta encima del regalo": 280
+   },
+   "razon_principal": "el que lo dio esta encima del regalo",
+   "pasos_hacia_la_casilla_del_regalo": 280,
+   "de_ellos_bloqueados": 280
+  },
+  {
+   "t0": 1828,
+   "t1": 2107,
+   "pos": [
+    27,
+    21
+   ],
+   "vida_del_que_dio": "s1_d18_TECHO_10",
+   "brazo": "TECHO",
+   "hermano": "s1_d18_TECHO_11",
+   "tics_de_espera": 280,
+   "tics_con_el_que_dio_encima": 280,
+   "tics_del_que_pedia_cerca": 280,
+   "razones": {
+    "el que lo dio esta encima del regalo": 280
+   },
+   "razon_principal": "el que lo dio esta encima del regalo",
+   "pasos_hacia_la_casilla_del_regalo": 258,
+   "de_ellos_bloqueados": 258
+  },
+  {
+   "t0": 2116,
+   "t1": 2395,
+   "pos": [
+    27,
+    21
+   ],
+   "vida_del_que_dio": "s1_d18_TECHO_10",
+   "brazo": "TECHO",
+   "hermano": "s1_d18_TECHO_11",
+   "tics_de_espera": 280,
+   "tics_con_el_que_dio_encima": 280,
+   "tics_del_que_pedia_cerca": 280,
+   "razones": {
+    "el que lo dio esta encima del regalo": 280
+   },
+   "razon_principal": "el que lo dio esta encima del regalo",
+   "pasos_hacia_la_casilla_del_regalo": 280,
+   "de_ellos_bloqueados": 280
+  },
+  {
+   "t0": 967,
+   "t1": 1253,
+   "pos": [
+    25,
+    21
+   ],
+   "vida_del_que_dio": "s1_d19_APRENDE_11",
+   "brazo": "APRENDE",
+   "hermano": "s1_d19_APRENDE_10",
+   "tics_de_espera": 287,
+   "tics_con_el_que_dio_encima": 144,
+   "tics_del_que_pedia_cerca": 287,
+   "razones": {
+    "el que lo dio esta encima del regalo": 144,
+    "a 1-2: va a por el": 10,
+    "a 1-2: tiene candidato de ir a por el y pierde contra ir_objeto": 1,
+    "a 1-2: sin candidato, su mejor objeto es otro (first_aid)": 132
+   },
+   "razon_principal": "el que lo dio esta encima del regalo",
+   "pasos_hacia_la_casilla_del_regalo": 0,
+   "de_ellos_bloqueados": 0
+  },
+  {
+   "t0": 1300,
+   "t1": 1583,
+   "pos": [
+    25,
+    21
+   ],
+   "vida_del_que_dio": "s1_d19_APRENDE_11",
+   "brazo": "APRENDE",
+   "hermano": "s1_d19_APRENDE_10",
+   "tics_de_espera": 284,
+   "tics_con_el_que_dio_encima": 141,
+   "tics_del_que_pedia_cerca": 284,
+   "razones": {
+    "el que lo dio esta encima del regalo": 141,
+    "a 1-2: sin candidato, su mejor objeto es otro (first_aid)": 143
+   },
+   "razon_principal": "a 1-2: sin candidato, su mejor objeto es otro (first_aid)",
+   "pasos_hacia_la_casilla_del_regalo": 0,
+   "de_ellos_bloqueados": 0
+  },
+  {
+   "t0": 1588,
+   "t1": 1869,
+   "pos": [
+    25,
+    21
+   ],
+   "vida_del_que_dio": "s1_d19_APRENDE_11",
+   "brazo": "APRENDE",
+   "hermano": "s1_d19_APRENDE_10",
+   "tics_de_espera": 282,
+   "tics_con_el_que_dio_encima": 139,
+   "tics_del_que_pedia_cerca": 282,
+   "razones": {
+    "el que lo dio esta encima del regalo": 139,
+    "a 1-2: sin candidato, su mejor objeto es otro (first_aid)": 143
+   },
+   "razon_principal": "a 1-2: sin candidato, su mejor objeto es otro (first_aid)",
+   "pasos_hacia_la_casilla_del_regalo": 0,
+   "de_ellos_bloqueados": 0
+  },
+  {
+   "t0": 1876,
+   "t1": 2155,
+   "pos": [
+    25,
+    21
+   ],
+   "vida_del_que_dio": "s1_d19_APRENDE_11",
+   "brazo": "APRENDE",
+   "hermano": "s1_d19_APRENDE_10",
+   "tics_de_espera": 280,
+   "tics_con_el_que_dio_encima": 137,
+   "tics_del_que_pedia_cerca": 280,
+   "razones": {
+    "el que lo dio esta encima del regalo": 137,
+    "a 1-2: sin candidato, su mejor objeto es otro (first_aid)": 143
+   },
+   "razon_principal": "a 1-2: sin candidato, su mejor objeto es otro (first_aid)",
+   "pasos_hacia_la_casilla_del_regalo": 0,
+   "de_ellos_bloqueados": 0
+  },
+  {
+   "t0": 2164,
+   "t1": 2443,
+   "pos": [
+    25,
+    21
+   ],
+   "vida_del_que_dio": "s1_d19_APRENDE_11",
+   "brazo": "APRENDE",
+   "hermano": "s1_d19_APRENDE_10",
+   "tics_de_espera": 280,
+   "tics_con_el_que_dio_encima": 137,
+   "tics_del_que_pedia_cerca": 280,
+   "razones": {
+    "el que lo dio esta encima del regalo": 137,
+    "a 1-2: sin candidato, su mejor objeto es otro (first_aid)": 143
+   },
+   "razon_principal": "a 1-2: sin candidato, su mejor objeto es otro (first_aid)",
+   "pasos_hacia_la_casilla_del_regalo": 0,
+   "de_ellos_bloqueados": 0
+  },
+  {
+   "t0": 2475,
+   "t1": 2760,
+   "pos": [
+    26,
+    21
+   ],
+   "vida_del_que_dio": "s1_d19_APRENDE_11",
+   "brazo": "APRENDE",
+   "hermano": "s1_d19_APRENDE_10",
+   "tics_de_espera": 286,
+   "tics_con_el_que_dio_encima": 143,
+   "tics_del_que_pedia_cerca": 286,
+   "razones": {
+    "el que lo dio esta encima del regalo": 143,
+    "a 1-2: solo noop (paso en enfriamiento)": 130,
+    "a 1-2: sin candidato, su mejor objeto es su propia casilla (first_aid recordado ahi)": 13
+   },
+   "razon_principal": "el que lo dio esta encima del regalo",
+   "pasos_hacia_la_casilla_del_regalo": 0,
+   "de_ellos_bloqueados": 0
+  },
+  {
+   "t0": 2788,
+   "t1": 3067,
+   "pos": [
+    27,
+    21
+   ],
+   "vida_del_que_dio": "s1_d19_APRENDE_11",
+   "brazo": "APRENDE",
+   "hermano": "s1_d19_APRENDE_10",
+   "tics_de_espera": 280,
+   "tics_con_el_que_dio_encima": 280,
+   "tics_del_que_pedia_cerca": 280,
+   "razones": {
+    "el que lo dio esta encima del regalo": 280
+   },
+   "razon_principal": "el que lo dio esta encima del regalo",
+   "pasos_hacia_la_casilla_del_regalo": 280,
+   "de_ellos_bloqueados": 280
+  },
+  {
+   "t0": 3076,
+   "t1": 3355,
+   "pos": [
+    27,
+    21
+   ],
+   "vida_del_que_dio": "s1_d19_APRENDE_11",
+   "brazo": "APRENDE",
+   "hermano": "s1_d19_APRENDE_10",
+   "tics_de_espera": 280,
+   "tics_con_el_que_dio_encima": 280,
+   "tics_del_que_pedia_cerca": 280,
+   "razones": {
+    "el que lo dio esta encima del regalo": 280
+   },
+   "razon_principal": "el que lo dio esta encima del regalo",
+   "pasos_hacia_la_casilla_del_regalo": 280,
+   "de_ellos_bloqueados": 280
+  },
+  {
+   "t0": 3364,
+   "t1": 3643,
+   "pos": [
+    27,
+    21
+   ],
+   "vida_del_que_dio": "s1_d19_APRENDE_11",
+   "brazo": "APRENDE",
+   "hermano": "s1_d19_APRENDE_10",
+   "tics_de_espera": 280,
+   "tics_con_el_que_dio_encima": 280,
+   "tics_del_que_pedia_cerca": 280,
+   "razones": {
+    "el que lo dio esta encima del regalo": 280
+   },
+   "razon_principal": "el que lo dio esta encima del regalo",
+   "pasos_hacia_la_casilla_del_regalo": 280,
+   "de_ellos_bloqueados": 280
+  },
+  {
+   "t0": 3652,
+   "t1": 3931,
+   "pos": [
+    27,
+    21
+   ],
+   "vida_del_que_dio": "s1_d19_APRENDE_11",
+   "brazo": "APRENDE",
+   "hermano": "s1_d19_APRENDE_10",
+   "tics_de_espera": 280,
+   "tics_con_el_que_dio_encima": 280,
+   "tics_del_que_pedia_cerca": 280,
+   "razones": {
+    "el que lo dio esta encima del regalo": 280
+   },
+   "razon_principal": "el que lo dio esta encima del regalo",
+   "pasos_hacia_la_casilla_del_regalo": 280,
+   "de_ellos_bloqueados": 280
+  },
+  {
+   "t0": 3940,
+   "t1": 4219,
+   "pos": [
+    27,
+    21
+   ],
+   "vida_del_que_dio": "s1_d19_APRENDE_11",
+   "brazo": "APRENDE",
+   "hermano": "s1_d19_APRENDE_10",
+   "tics_de_espera": 280,
+   "tics_con_el_que_dio_encima": 280,
+   "tics_del_que_pedia_cerca": 280,
+   "razones": {
+    "el que lo dio esta encima del regalo": 280
+   },
+   "razon_principal": "el que lo dio esta encima del regalo",
+   "pasos_hacia_la_casilla_del_regalo": 280,
+   "de_ellos_bloqueados": 280
+  },
+  {
+   "t0": 4228,
+   "t1": 4507,
+   "pos": [
+    27,
+    21
+   ],
+   "vida_del_que_dio": "s1_d19_APRENDE_11",
+   "brazo": "APRENDE",
+   "hermano": "s1_d19_APRENDE_10",
+   "tics_de_espera": 280,
+   "tics_con_el_que_dio_encima": 280,
+   "tics_del_que_pedia_cerca": 280,
+   "razones": {
+    "el que lo dio esta encima del regalo": 280
+   },
+   "razon_principal": "el que lo dio esta encima del regalo",
+   "pasos_hacia_la_casilla_del_regalo": 280,
+   "de_ellos_bloqueados": 280
+  },
+  {
+   "t0": 4516,
+   "t1": 4795,
+   "pos": [
+    27,
+    21
+   ],
+   "vida_del_que_dio": "s1_d19_APRENDE_11",
+   "brazo": "APRENDE",
+   "hermano": "s1_d19_APRENDE_10",
+   "tics_de_espera": 280,
+   "tics_con_el_que_dio_encima": 280,
+   "tics_del_que_pedia_cerca": 280,
+   "razones": {
+    "el que lo dio esta encima del regalo": 280
+   },
+   "razon_principal": "el que lo dio esta encima del regalo",
+   "pasos_hacia_la_casilla_del_regalo": 280,
+   "de_ellos_bloqueados": 280
+  },
+  {
+   "t0": 12236,
+   "t1": 12290,
+   "pos": [
+    17,
+    25
+   ],
+   "vida_del_que_dio": "s1_d19_TECHO_11",
+   "brazo": "TECHO",
+   "hermano": "s1_d19_TECHO_10",
+   "tics_de_espera": 55,
+   "tics_con_el_que_dio_encima": 33,
+   "tics_del_que_pedia_cerca": 53,
+   "razones": {
+    "el que lo dio esta encima del regalo": 31,
+    "a 1-2: sin candidato, su mejor objeto es su propia casilla (first_aid recordado ahi)": 18,
+    "a 1-2: sin candidato, su mejor objeto es otro (first_aid)": 4
+   },
+   "razon_principal": "el que lo dio esta encima del regalo",
+   "pasos_hacia_la_casilla_del_regalo": 0,
+   "de_ellos_bloqueados": 0
+  },
+  {
+   "t0": 9364,
+   "t1": 10378,
+   "pos": [
+    21,
+    27
+   ],
+   "vida_del_que_dio": "s1_d3_TECHO_11",
+   "brazo": "TECHO",
+   "hermano": "s1_d3_TECHO_10",
+   "tics_de_espera": 1015,
+   "tics_con_el_que_dio_encima": 6,
+   "tics_del_que_pedia_cerca": 1015,
+   "razones": {
+    "el que lo dio esta encima del regalo": 6,
+    "a 1-2: sin candidato, la casilla esta en sus propias cesiones": 365,
+    "encima: la casilla esta en sus propias cesiones (no hay coger)": 22,
+    "a 1-2: solo noop (paso en enfriamiento)": 280,
+    "a 1-2: sin candidato, su mejor objeto es su propia casilla (first_aid recordado ahi)": 342
+   },
+   "razon_principal": "a 1-2: sin candidato, la casilla esta en sus propias cesiones",
+   "pasos_hacia_la_casilla_del_regalo": 7,
+   "de_ellos_bloqueados": 5
+  },
+  {
+   "t0": 13424,
+   "t1": 14350,
+   "pos": [
+    23,
+    24
+   ],
+   "vida_del_que_dio": "s1_d4_BORRADO_10",
+   "brazo": "BORRADO",
+   "hermano": "s1_d4_BORRADO_11",
+   "tics_de_espera": 927,
+   "tics_con_el_que_dio_encima": 12,
+   "tics_del_que_pedia_cerca": 927,
+   "razones": {
+    "el que lo dio esta encima del regalo": 12,
+    "a 1-2: sin candidato, no le cabe": 695,
+    "a 1-2: tiene candidato de ir a por el y pierde contra noop": 128,
+    "a 1-2: tiene candidato de ir a por el y pierde contra un paso": 1,
+    "a 1-2: da un paso hacia el": 1,
+    "encima: coger escondido por el arreglo del seis": 90
+   },
+   "razon_principal": "a 1-2: sin candidato, no le cabe",
+   "pasos_hacia_la_casilla_del_regalo": 1,
+   "de_ellos_bloqueados": 0
+  },
+  {
+   "t0": 12628,
+   "t1": 12704,
+   "pos": [
+    18,
+    21
+   ],
+   "vida_del_que_dio": "s1_d7_BORRADO_10",
+   "brazo": "BORRADO",
+   "hermano": "s1_d7_BORRADO_11",
+   "tics_de_espera": 77,
+   "tics_con_el_que_dio_encima": 10,
+   "tics_del_que_pedia_cerca": 36,
+   "razones": {
+    "el que lo dio esta encima del regalo": 8,
+    "a 1-2: sin candidato, su mejor objeto es otro (backpack)": 28
+   },
+   "razon_principal": "a 1-2: sin candidato, su mejor objeto es otro (backpack)",
+   "pasos_hacia_la_casilla_del_regalo": 0,
+   "de_ellos_bloqueados": 0
+  },
+  {
+   "t0": 964,
+   "t1": 1254,
+   "pos": [
+    26,
+    21
+   ],
+   "vida_del_que_dio": "s1_d7_TECHO_10",
+   "brazo": "TECHO",
+   "hermano": "s1_d7_TECHO_11",
+   "tics_de_espera": 291,
+   "tics_con_el_que_dio_encima": 236,
+   "tics_del_que_pedia_cerca": 102,
+   "razones": {
+    "el que lo dio esta encima del regalo": 100,
+    "a 1-2: solo noop (paso en enfriamiento)": 1,
+    "a 1-2: sin candidato, su mejor objeto es otro (camouflage)": 1
+   },
+   "razon_principal": "el que lo dio esta encima del regalo",
+   "pasos_hacia_la_casilla_del_regalo": 0,
+   "de_ellos_bloqueados": 0
+  },
+  {
+   "t0": 1300,
+   "t1": 1590,
+   "pos": [
+    27,
+    22
+   ],
+   "vida_del_que_dio": "s1_d7_TECHO_10",
+   "brazo": "TECHO",
+   "hermano": "s1_d7_TECHO_11",
+   "tics_de_espera": 291,
+   "tics_con_el_que_dio_encima": 291,
+   "tics_del_que_pedia_cerca": 291,
+   "razones": {
+    "el que lo dio esta encima del regalo": 291
+   },
+   "razon_principal": "el que lo dio esta encima del regalo",
+   "pasos_hacia_la_casilla_del_regalo": 0,
+   "de_ellos_bloqueados": 0
+  },
+  {
+   "t0": 1636,
+   "t1": 1926,
+   "pos": [
+    27,
+    22
+   ],
+   "vida_del_que_dio": "s1_d7_TECHO_10",
+   "brazo": "TECHO",
+   "hermano": "s1_d7_TECHO_11",
+   "tics_de_espera": 291,
+   "tics_con_el_que_dio_encima": 291,
+   "tics_del_que_pedia_cerca": 291,
+   "razones": {
+    "el que lo dio esta encima del regalo": 291
+   },
+   "razon_principal": "el que lo dio esta encima del regalo",
+   "pasos_hacia_la_casilla_del_regalo": 246,
+   "de_ellos_bloqueados": 246
+  },
+  {
+   "t0": 2308,
+   "t1": 2587,
+   "pos": [
+    27,
+    25
+   ],
+   "vida_del_que_dio": "s1_d7_TECHO_10",
+   "brazo": "TECHO",
+   "hermano": "s1_d7_TECHO_11",
+   "tics_de_espera": 280,
+   "tics_con_el_que_dio_encima": 280,
+   "tics_del_que_pedia_cerca": 280,
+   "razones": {
+    "el que lo dio esta encima del regalo": 280
+   },
+   "razon_principal": "el que lo dio esta encima del regalo",
+   "pasos_hacia_la_casilla_del_regalo": 0,
+   "de_ellos_bloqueados": 0
+  },
+  {
+   "t0": 2596,
+   "t1": 2875,
+   "pos": [
+    27,
+    25
+   ],
+   "vida_del_que_dio": "s1_d7_TECHO_10",
+   "brazo": "TECHO",
+   "hermano": "s1_d7_TECHO_11",
+   "tics_de_espera": 280,
+   "tics_con_el_que_dio_encima": 280,
+   "tics_del_que_pedia_cerca": 280,
+   "razones": {
+    "el que lo dio esta encima del regalo": 280
+   },
+   "razon_principal": "el que lo dio esta encima del regalo",
+   "pasos_hacia_la_casilla_del_regalo": 0,
+   "de_ellos_bloqueados": 0
+  },
+  {
+   "t0": 2884,
+   "t1": 3163,
+   "pos": [
+    27,
+    25
+   ],
+   "vida_del_que_dio": "s1_d7_TECHO_10",
+   "brazo": "TECHO",
+   "hermano": "s1_d7_TECHO_11",
+   "tics_de_espera": 280,
+   "tics_con_el_que_dio_encima": 280,
+   "tics_del_que_pedia_cerca": 280,
+   "razones": {
+    "el que lo dio esta encima del regalo": 280
+   },
+   "razon_principal": "el que lo dio esta encima del regalo",
+   "pasos_hacia_la_casilla_del_regalo": 0,
+   "de_ellos_bloqueados": 0
+  },
+  {
+   "t0": 3172,
+   "t1": 3451,
+   "pos": [
+    27,
+    25
+   ],
+   "vida_del_que_dio": "s1_d7_TECHO_10",
+   "brazo": "TECHO",
+   "hermano": "s1_d7_TECHO_11",
+   "tics_de_espera": 280,
+   "tics_con_el_que_dio_encima": 280,
+   "tics_del_que_pedia_cerca": 280,
+   "razones": {
+    "el que lo dio esta encima del regalo": 280
+   },
+   "razon_principal": "el que lo dio esta encima del regalo",
+   "pasos_hacia_la_casilla_del_regalo": 0,
+   "de_ellos_bloqueados": 0
+  },
+  {
+   "t0": 3460,
+   "t1": 3750,
+   "pos": [
+    27,
+    25
+   ],
+   "vida_del_que_dio": "s1_d7_TECHO_10",
+   "brazo": "TECHO",
+   "hermano": "s1_d7_TECHO_11",
+   "tics_de_espera": 291,
+   "tics_con_el_que_dio_encima": 291,
+   "tics_del_que_pedia_cerca": 291,
+   "razones": {
+    "el que lo dio esta encima del regalo": 291
+   },
+   "razon_principal": "el que lo dio esta encima del regalo",
+   "pasos_hacia_la_casilla_del_regalo": 0,
+   "de_ellos_bloqueados": 0
+  },
+  {
+   "t0": 3796,
+   "t1": 4086,
+   "pos": [
+    27,
+    25
+   ],
+   "vida_del_que_dio": "s1_d7_TECHO_10",
+   "brazo": "TECHO",
+   "hermano": "s1_d7_TECHO_11",
+   "tics_de_espera": 291,
+   "tics_con_el_que_dio_encima": 291,
+   "tics_del_que_pedia_cerca": 291,
+   "razones": {
+    "el que lo dio esta encima del regalo": 291
+   },
+   "razon_principal": "el que lo dio esta encima del regalo",
+   "pasos_hacia_la_casilla_del_regalo": 0,
+   "de_ellos_bloqueados": 0
+  },
+  {
+   "t0": 4132,
+   "t1": 4411,
+   "pos": [
+    27,
+    25
+   ],
+   "vida_del_que_dio": "s1_d7_TECHO_10",
+   "brazo": "TECHO",
+   "hermano": "s1_d7_TECHO_11",
+   "tics_de_espera": 280,
+   "tics_con_el_que_dio_encima": 280,
+   "tics_del_que_pedia_cerca": 280,
+   "razones": {
+    "el que lo dio esta encima del regalo": 280
+   },
+   "razon_principal": "el que lo dio esta encima del regalo",
+   "pasos_hacia_la_casilla_del_regalo": 0,
+   "de_ellos_bloqueados": 0
+  },
+  {
+   "t0": 4420,
+   "t1": 4699,
+   "pos": [
+    27,
+    25
+   ],
+   "vida_del_que_dio": "s1_d7_TECHO_10",
+   "brazo": "TECHO",
+   "hermano": "s1_d7_TECHO_11",
+   "tics_de_espera": 280,
+   "tics_con_el_que_dio_encima": 280,
+   "tics_del_que_pedia_cerca": 280,
+   "razones": {
+    "el que lo dio esta encima del regalo": 280
+   },
+   "razon_principal": "el que lo dio esta encima del regalo",
+   "pasos_hacia_la_casilla_del_regalo": 0,
+   "de_ellos_bloqueados": 0
+  },
+  {
+   "t0": 4708,
+   "t1": 4987,
+   "pos": [
+    27,
+    25
+   ],
+   "vida_del_que_dio": "s1_d7_TECHO_10",
+   "brazo": "TECHO",
+   "hermano": "s1_d7_TECHO_11",
+   "tics_de_espera": 280,
+   "tics_con_el_que_dio_encima": 280,
+   "tics_del_que_pedia_cerca": 280,
+   "razones": {
+    "el que lo dio esta encima del regalo": 142,
+    "ya lleva un botiquin": 138
+   },
+   "razon_principal": "el que lo dio esta encima del regalo",
+   "pasos_hacia_la_casilla_del_regalo": 1,
+   "de_ellos_bloqueados": 1
+  },
+  {
+   "t0": 13935,
+   "t1": 14016,
+   "pos": [
+    23,
+    25
+   ],
+   "vida_del_que_dio": "s2_d14_APRENDE_10",
+   "brazo": "APRENDE",
+   "hermano": "s2_d14_APRENDE_11",
+   "tics_de_espera": 82,
+   "tics_con_el_que_dio_encima": 5,
+   "tics_del_que_pedia_cerca": 21,
+   "razones": {
+    "el que lo dio esta encima del regalo": 3,
+    "a 1-2: sin candidato, su mejor objeto es otro (first_aid)": 18
+   },
+   "razon_principal": "a 1-2: sin candidato, su mejor objeto es otro (first_aid)",
+   "pasos_hacia_la_casilla_del_regalo": 0,
+   "de_ellos_bloqueados": 0
+  },
+  {
+   "t0": 637,
+   "t1": 1622,
+   "pos": [
+    26,
+    22
+   ],
+   "vida_del_que_dio": "s2_d14_TECHO_10",
+   "brazo": "TECHO",
+   "hermano": "s2_d14_TECHO_11",
+   "tics_de_espera": 986,
+   "tics_con_el_que_dio_encima": 106,
+   "tics_del_que_pedia_cerca": 843,
+   "razones": {
+    "el que lo dio esta encima del regalo": 90,
+    "a 1-2: solo noop (paso en enfriamiento)": 685,
+    "a 1-2: va a por el": 1,
+    "a 1-2: sin candidato, su mejor objeto es su propia casilla (camouflage recordado ahi)": 25,
+    "a 1-2: sin candidato, su mejor objeto es otro (camouflage)": 42
+   },
+   "razon_principal": "a 1-2: solo noop (paso en enfriamiento)",
+   "pasos_hacia_la_casilla_del_regalo": 0,
+   "de_ellos_bloqueados": 0
+  },
+  {
+   "t0": 2356,
+   "t1": 2646,
+   "pos": [
+    21,
+    26
+   ],
+   "vida_del_que_dio": "s2_d18_TECHO_11",
+   "brazo": "TECHO",
+   "hermano": "s2_d18_TECHO_10",
+   "tics_de_espera": 291,
+   "tics_con_el_que_dio_encima": 148,
+   "tics_del_que_pedia_cerca": 291,
+   "razones": {
+    "el que lo dio esta encima del regalo": 148,
+    "a 1-2: solo noop (paso en enfriamiento)": 130,
+    "a 1-2: sin candidato, su mejor objeto es otro (first_aid)": 13
+   },
+   "razon_principal": "el que lo dio esta encima del regalo",
+   "pasos_hacia_la_casilla_del_regalo": 0,
+   "de_ellos_bloqueados": 0
+  },
+  {
+   "t0": 2692,
+   "t1": 2992,
+   "pos": [
+    21,
+    26
+   ],
+   "vida_del_que_dio": "s2_d18_TECHO_11",
+   "brazo": "TECHO",
+   "hermano": "s2_d18_TECHO_10",
+   "tics_de_espera": 301,
+   "tics_con_el_que_dio_encima": 147,
+   "tics_del_que_pedia_cerca": 301,
+   "razones": {
+    "el que lo dio esta encima del regalo": 147,
+    "a 1-2: solo noop (paso en enfriamiento)": 140,
+    "a 1-2: sin candidato, su mejor objeto es otro (first_aid)": 14
+   },
+   "razon_principal": "el que lo dio esta encima del regalo",
+   "pasos_hacia_la_casilla_del_regalo": 0,
+   "de_ellos_bloqueados": 0
+  },
+  {
+   "t0": 3028,
+   "t1": 3318,
+   "pos": [
+    21,
+    27
+   ],
+   "vida_del_que_dio": "s2_d18_TECHO_11",
+   "brazo": "TECHO",
+   "hermano": "s2_d18_TECHO_10",
+   "tics_de_espera": 291,
+   "tics_con_el_que_dio_encima": 291,
+   "tics_del_que_pedia_cerca": 148,
+   "razones": {
+    "el que lo dio esta encima del regalo": 148
+   },
+   "razon_principal": "el que lo dio esta encima del regalo",
+   "pasos_hacia_la_casilla_del_regalo": 0,
+   "de_ellos_bloqueados": 0
+  },
+  {
+   "t0": 3364,
+   "t1": 3654,
+   "pos": [
+    21,
+    27
+   ],
+   "vida_del_que_dio": "s2_d18_TECHO_11",
+   "brazo": "TECHO",
+   "hermano": "s2_d18_TECHO_10",
+   "tics_de_espera": 291,
+   "tics_con_el_que_dio_encima": 291,
+   "tics_del_que_pedia_cerca": 143,
+   "razones": {
+    "el que lo dio esta encima del regalo": 143
+   },
+   "razon_principal": "el que lo dio esta encima del regalo",
+   "pasos_hacia_la_casilla_del_regalo": 0,
+   "de_ellos_bloqueados": 0
+  },
+  {
+   "t0": 3700,
+   "t1": 9346,
+   "pos": [
+    21,
+    26
+   ],
+   "vida_del_que_dio": "s2_d18_TECHO_11",
+   "brazo": "TECHO",
+   "hermano": "s2_d18_TECHO_10",
+   "tics_de_espera": 5647,
+   "tics_con_el_que_dio_encima": 12,
+   "tics_del_que_pedia_cerca": 5647,
+   "razones": {
+    "el que lo dio esta encima del regalo": 12,
+    "a 1-2: solo noop (paso en enfriamiento)": 5115,
+    "a 1-2: sin candidato, su mejor objeto es otro (first_aid)": 256,
+    "a 1-2: sin candidato, su mejor objeto es su propia casilla (first_aid recordado ahi)": 264
+   },
+   "razon_principal": "a 1-2: solo noop (paso en enfriamiento)",
+   "pasos_hacia_la_casilla_del_regalo": 0,
+   "de_ellos_bloqueados": 0
+  },
+  {
+   "t0": 2164,
+   "t1": 2463,
+   "pos": [
+    23,
+    25
+   ],
+   "vida_del_que_dio": "s2_d8_APRENDE_11",
+   "brazo": "APRENDE",
+   "hermano": "s2_d8_APRENDE_10",
+   "tics_de_espera": 300,
+   "tics_con_el_que_dio_encima": 146,
+   "tics_del_que_pedia_cerca": 300,
+   "razones": {
+    "el que lo dio esta encima del regalo": 146,
+    "a 1-2: sin candidato, su mejor objeto es otro (first_aid)": 15,
+    "a 1-2: solo noop (paso en enfriamiento)": 33,
+    "a 1-2: sin candidato, su mejor objeto es otro (backpack)": 106
+   },
+   "razon_principal": "el que lo dio esta encima del regalo",
+   "pasos_hacia_la_casilla_del_regalo": 0,
+   "de_ellos_bloqueados": 0
+  }
+ ]
+}

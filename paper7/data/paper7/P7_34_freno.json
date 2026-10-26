@@ -1,0 +1,2848 @@
+{
+ "vidas": {
+  "d1_a10": {
+   "dia": 1,
+   "asiento": 10,
+   "semilla": 41311445,
+   "tics": 14568,
+   "puesto": 2,
+   "murio": false,
+   "cuaderno_leido": false,
+   "contacto": {
+    "botiquin": 615,
+    "racion": 12583,
+    "red": 593,
+    "camuflaje": 626
+   },
+   "orden_de_contacto": [
+    "red",
+    "botiquin",
+    "camuflaje",
+    "racion"
+   ],
+   "coge": {
+    "botiquin": 3,
+    "racion": 5,
+    "red": 1,
+    "camuflaje": 1
+   },
+   "pruebas": {
+    "botiquin": {
+     "n": 4,
+     "firmes": 0,
+     "al_menos": 3,
+     "cortes": 1,
+     "ventanas_completas": 0,
+     "ventanas_cortas": 0,
+     "hp_al_abrir": [
+      92.0,
+      76.0,
+      89.0,
+      94.0
+     ],
+     "efecto_cuerpo": [
+      0.0,
+      24.0,
+      11.0,
+      6.0
+     ],
+     "t0": [
+      11556,
+      11607,
+      11754,
+      12041
+     ]
+    },
+    "racion": {
+     "n": 4,
+     "firmes": 0,
+     "al_menos": 4,
+     "cortes": 0,
+     "ventanas_completas": 0,
+     "ventanas_cortas": 0,
+     "hp_al_abrir": [
+      97.0,
+      97.0,
+      97.0,
+      97.0
+     ],
+     "efecto_cuerpo": [
+      9.0,
+      9.0,
+      9.0,
+      3.0
+     ],
+     "t0": [
+      14558,
+      14594,
+      14630,
+      14666
+     ]
+    },
+    "red": {
+     "n": 1,
+     "firmes": 1,
+     "al_menos": 0,
+     "cortes": 0,
+     "ventanas_completas": 1,
+     "ventanas_cortas": 0,
+     "hp_al_abrir": [
+      100.0
+     ],
+     "efecto_cuerpo": [
+      0.0
+     ],
+     "t0": [
+      593
+     ]
+    },
+    "camuflaje": {
+     "n": 1,
+     "firmes": 1,
+     "al_menos": 0,
+     "cortes": 0,
+     "ventanas_completas": 1,
+     "ventanas_cortas": 0,
+     "hp_al_abrir": [
+      100.0
+     ],
+     "efecto_cuerpo": [
+      0.0
+     ],
+     "t0": [
+      626
+     ]
+    }
+   },
+   "al_acabar": {
+    "botiquin": {
+     "creencia": {
+      "dentro": 11.3592
+     },
+     "ignorancia": 0.1808,
+     "ignorancia_cuanto": 1.0,
+     "sabido_max": 24.0,
+     "recuerdos": 4,
+     "cortes": 1,
+     "firmes": 0,
+     "al_menos": 3
+    },
+    "racion": {
+     "creencia": {
+      "dentro": 5.9736
+     },
+     "ignorancia": 0.1946,
+     "ignorancia_cuanto": 1.0,
+     "sabido_max": 9.0,
+     "recuerdos": 4,
+     "cortes": 0,
+     "firmes": 0,
+     "al_menos": 4
+    },
+    "red": {
+     "creencia": {
+      "dentro": 0.0
+     },
+     "ignorancia": 0.5054,
+     "ignorancia_cuanto": 0.5054,
+     "sabido_max": 0.0,
+     "recuerdos": 1,
+     "cortes": 0,
+     "firmes": 1,
+     "al_menos": 0
+    },
+    "camuflaje": {
+     "creencia": {
+      "dentro": 0.0
+     },
+     "ignorancia": 0.5109,
+     "ignorancia_cuanto": 0.5109,
+     "sabido_max": 0.0,
+     "recuerdos": 1,
+     "cortes": 0,
+     "firmes": 1,
+     "al_menos": 0
+    }
+   },
+   "k_al_acabar": {
+    "botiquin": 0.2377,
+    "racion": 0.6318,
+    "red": 0.0,
+    "camuflaje": 0.0
+   },
+   "k_muestras": [
+    {
+     "tick": 481,
+     "botiquin": 0.0,
+     "racion": 0.0,
+     "red": 0.0,
+     "camuflaje": 0.0
+    },
+    {
+     "tick": 1481,
+     "botiquin": 0.0,
+     "racion": 0.0,
+     "red": 0.0,
+     "camuflaje": 0.0
+    },
+    {
+     "tick": 2481,
+     "botiquin": 0.0,
+     "racion": 0.0,
+     "red": 0.0,
+     "camuflaje": 0.0
+    },
+    {
+     "tick": 3481,
+     "botiquin": 0.0,
+     "racion": 0.0,
+     "red": 0.0,
+     "camuflaje": 0.0
+    },
+    {
+     "tick": 4481,
+     "botiquin": 0.0,
+     "racion": 0.0,
+     "red": 0.0,
+     "camuflaje": 0.0
+    },
+    {
+     "tick": 5481,
+     "botiquin": 0.0,
+     "racion": 0.0,
+     "red": 0.0,
+     "camuflaje": 0.0
+    },
+    {
+     "tick": 6481,
+     "botiquin": 0.0,
+     "racion": 0.0,
+     "red": 0.0,
+     "camuflaje": 0.0
+    },
+    {
+     "tick": 7481,
+     "botiquin": 0.0,
+     "racion": 0.0,
+     "red": 0.0,
+     "camuflaje": 0.0
+    },
+    {
+     "tick": 8481,
+     "botiquin": 0.0,
+     "racion": 0.0,
+     "red": 0.0,
+     "camuflaje": 0.0
+    },
+    {
+     "tick": 9481,
+     "botiquin": 0.0,
+     "racion": 0.0,
+     "red": 0.0,
+     "camuflaje": 0.0
+    },
+    {
+     "tick": 10481,
+     "botiquin": 0.0,
+     "racion": 0.0,
+     "red": 0.0,
+     "camuflaje": 0.0
+    },
+    {
+     "tick": 11481,
+     "botiquin": 0.0,
+     "racion": 0.0,
+     "red": 0.0,
+     "camuflaje": 0.0
+    },
+    {
+     "tick": 12481,
+     "botiquin": 0.1204,
+     "racion": 0.6469,
+     "red": 0.0,
+     "camuflaje": 0.0
+    },
+    {
+     "tick": 13481,
+     "botiquin": 0.0982,
+     "racion": 0.6451,
+     "red": 0.0,
+     "camuflaje": 0.0
+    },
+    {
+     "tick": 14481,
+     "botiquin": 0.0988,
+     "racion": 0.6455,
+     "red": 0.0,
+     "camuflaje": 0.0
+    }
+   ],
+   "ignorancia_muestras": [
+    {
+     "tick": 481,
+     "first_aid": 1.0,
+     "rations": 1.0,
+     "net": 1.0,
+     "camouflage": 1.0
+    },
+    {
+     "tick": 1481,
+     "first_aid": 1.0,
+     "rations": 1.0,
+     "net": 0.4926,
+     "camouflage": 0.4981
+    },
+    {
+     "tick": 2481,
+     "first_aid": 1.0,
+     "rations": 1.0,
+     "net": 0.4926,
+     "camouflage": 0.4981
+    },
+    {
+     "tick": 3481,
+     "first_aid": 1.0,
+     "rations": 1.0,
+     "net": 0.4926,
+     "camouflage": 0.4981
+    },
+    {
+     "tick": 4481,
+     "first_aid": 1.0,
+     "rations": 1.0,
+     "net": 0.4926,
+     "camouflage": 0.4981
+    },
+    {
+     "tick": 5481,
+     "first_aid": 1.0,
+     "rations": 1.0,
+     "net": 0.4926,
+     "camouflage": 0.4981
+    },
+    {
+     "tick": 6481,
+     "first_aid": 1.0,
+     "rations": 1.0,
+     "net": 0.4926,
+     "camouflage": 0.4981
+    },
+    {
+     "tick": 7481,
+     "first_aid": 1.0,
+     "rations": 1.0,
+     "net": 0.4926,
+     "camouflage": 0.4981
+    },
+    {
+     "tick": 8481,
+     "first_aid": 1.0,
+     "rations": 1.0,
+     "net": 0.4926,
+     "camouflage": 0.4981
+    },
+    {
+     "tick": 9481,
+     "first_aid": 1.0,
+     "rations": 1.0,
+     "net": 0.4926,
+     "camouflage": 0.4981
+    },
+    {
+     "tick": 10481,
+     "first_aid": 1.0,
+     "rations": 1.0,
+     "net": 0.4926,
+     "camouflage": 0.4981
+    },
+    {
+     "tick": 11481,
+     "first_aid": 1.0,
+     "rations": 1.0,
+     "net": 0.4926,
+     "camouflage": 0.4981
+    },
+    {
+     "tick": 12481,
+     "first_aid": 0.1733,
+     "rations": 1.0,
+     "net": 0.4926,
+     "camouflage": 0.4981
+    },
+    {
+     "tick": 13481,
+     "first_aid": 0.1733,
+     "rations": 1.0,
+     "net": 0.4926,
+     "camouflage": 0.4981
+    },
+    {
+     "tick": 14481,
+     "first_aid": 0.1733,
+     "rations": 1.0,
+     "net": 0.4926,
+     "camouflage": 0.4981
+    }
+   ],
+   "contexto_de_las_pruebas": {
+    "botiquin": {
+     "n": 4,
+     "en_calma": 0,
+     "rival_a_4": 4,
+     "vida_menor_30": 0,
+     "fuego": 0
+    },
+    "racion": {
+     "n": 4,
+     "en_calma": 0,
+     "rival_a_4": 4,
+     "vida_menor_30": 0,
+     "fuego": 0
+    },
+    "red": {
+     "n": 1,
+     "en_calma": 1,
+     "rival_a_4": 0,
+     "vida_menor_30": 0,
+     "fuego": 0
+    },
+    "camuflaje": {
+     "n": 1,
+     "en_calma": 1,
+     "rival_a_4": 0,
+     "vida_menor_30": 0,
+     "fuego": 0
+    }
+   },
+   "ley": {
+    "avisos": [
+     {
+      "type": "event_warning",
+      "kind": "flood",
+      "rect": [
+       10,
+       22,
+       14,
+       26
+      ],
+      "from_tick": 4400,
+      "duration": 720
+     }
+    ],
+    "cambios_de_casillas": [
+     [
+      4400,
+      25
+     ],
+     [
+      5120,
+      0
+     ]
+    ]
+   },
+   "ir_curioso_con_paso_listo": 10,
+   "ir_curioso_fraccion": 0.0012,
+   "elegido_ponerse_empunar": {
+    "empunar_knives": 1,
+    "usar_botiquin": 4,
+    "usar_racion": 4
+   },
+   "latencia": {
+    "tics": 14568,
+    "decisiones": 14568,
+    "ms_mediana": 2.77,
+    "ms_p95": 10.19,
+    "ms_max": 25.25,
+    "sobre_el_tic": 0.0,
+    "paso_listo": 8338,
+    "bloqueados": 40,
+    "bloqueados_sin_cuerpo": 5,
+    "fraccion_sin_cuerpo": 0.0006,
+    "pasa": true,
+    "casilla_mas_bloqueada": {
+     "desde": [
+      25,
+      24
+     ],
+     "dir": "N",
+     "hacia": [
+      25,
+      23
+     ],
+     "n": 1
+    },
+    "para": false,
+    "motivo": []
+   },
+   "recuerdos_al_arrancar": 0,
+   "recuerdos_al_cerrar": 10,
+   "creencia_util_fin": {
+    "botiquin": 11.3592,
+    "racion": 5.9736
+   },
+   "errores_fotos": 0
+  },
+  "d1_a11": {
+   "dia": 1,
+   "asiento": 11,
+   "semilla": 41311445,
+   "tics": 14568,
+   "puesto": 1,
+   "murio": false,
+   "cuaderno_leido": false,
+   "contacto": {
+    "botiquin": 9254,
+    "racion": 2276,
+    "red": null,
+    "camuflaje": null
+   },
+   "orden_de_contacto": [
+    "racion",
+    "botiquin"
+   ],
+   "coge": {
+    "botiquin": 1,
+    "racion": 8,
+    "red": 0,
+    "camuflaje": 0
+   },
+   "pruebas": {
+    "botiquin": {
+     "n": 2,
+     "firmes": 0,
+     "al_menos": 1,
+     "cortes": 1,
+     "ventanas_completas": 0,
+     "ventanas_cortas": 0,
+     "hp_al_abrir": [
+      89.0,
+      78.0
+     ],
+     "efecto_cuerpo": [
+      0.0,
+      22.0
+     ],
+     "t0": [
+      11516,
+      11606
+     ]
+    },
+    "racion": {
+     "n": 7,
+     "firmes": 4,
+     "al_menos": 3,
+     "cortes": 0,
+     "ventanas_completas": 0,
+     "ventanas_cortas": 0,
+     "hp_al_abrir": [
+      97.0,
+      97.0,
+      97.0,
+      80.0,
+      75.0,
+      70.0,
+      66.0
+     ],
+     "efecto_cuerpo": [
+      6.0,
+      3.0,
+      3.0,
+      14.68,
+      14.68,
+      15.68,
+      14.68
+     ],
+     "t0": [
+      12776,
+      12912,
+      12984,
+      14930,
+      14955,
+      14980,
+      15005
+     ]
+    },
+    "red": {
+     "n": 0,
+     "firmes": 0,
+     "al_menos": 0,
+     "cortes": 0,
+     "ventanas_completas": 0,
+     "ventanas_cortas": 0,
+     "hp_al_abrir": [],
+     "efecto_cuerpo": [],
+     "t0": []
+    },
+    "camuflaje": {
+     "n": 0,
+     "firmes": 0,
+     "al_menos": 0,
+     "cortes": 0,
+     "ventanas_completas": 0,
+     "ventanas_cortas": 0,
+     "hp_al_abrir": [],
+     "efecto_cuerpo": [],
+     "t0": []
+    }
+   },
+   "al_acabar": {
+    "botiquin": {
+     "creencia": {
+      "dentro": 11.4011
+     },
+     "ignorancia": 0.3112,
+     "ignorancia_cuanto": 1.0,
+     "sabido_max": 22.0,
+     "recuerdos": 2,
+     "cortes": 1,
+     "firmes": 0,
+     "al_menos": 1
+    },
+    "racion": {
+     "creencia": {
+      "dentro": 2.9857,
+      "fuera": 12.2229
+     },
+     "ignorancia": 0.1168,
+     "ignorancia_cuanto": 0.1793,
+     "sabido_max": 15.68,
+     "recuerdos": 7,
+     "cortes": 0,
+     "firmes": 4,
+     "al_menos": 3
+    },
+    "red": {
+     "creencia": {},
+     "ignorancia": 1.0,
+     "ignorancia_cuanto": null,
+     "sabido_max": null,
+     "recuerdos": 0,
+     "cortes": 0,
+     "firmes": 0,
+     "al_menos": 0
+    },
+    "camuflaje": {
+     "creencia": {},
+     "ignorancia": 1.0,
+     "ignorancia_cuanto": null,
+     "sabido_max": null,
+     "recuerdos": 0,
+     "cortes": 0,
+     "firmes": 0,
+     "al_menos": 0
+    }
+   },
+   "k_al_acabar": {
+    "botiquin": 0.2962,
+    "racion": 1.1785,
+    "red": 0.0,
+    "camuflaje": 0.0
+   },
+   "k_muestras": [
+    {
+     "tick": 481,
+     "botiquin": 0.0,
+     "racion": 0.0,
+     "red": 0.0,
+     "camuflaje": 0.0
+    },
+    {
+     "tick": 1481,
+     "botiquin": 0.0,
+     "racion": 0.0,
+     "red": 0.0,
+     "camuflaje": 0.0
+    },
+    {
+     "tick": 2481,
+     "botiquin": 0.0,
+     "racion": 0.0,
+     "red": 0.0,
+     "camuflaje": 0.0
+    },
+    {
+     "tick": 3481,
+     "botiquin": 0.0,
+     "racion": 0.0,
+     "red": 0.0,
+     "camuflaje": 0.0
+    },
+    {
+     "tick": 4481,
+     "botiquin": 0.0,
+     "racion": 0.0,
+     "red": 0.0,
+     "camuflaje": 0.0
+    },
+    {
+     "tick": 5481,
+     "botiquin": 0.0,
+     "racion": 0.0,
+     "red": 0.0,
+     "camuflaje": 0.0
+    },
+    {
+     "tick": 6481,
+     "botiquin": 0.0,
+     "racion": 0.0,
+     "red": 0.0,
+     "camuflaje": 0.0
+    },
+    {
+     "tick": 7481,
+     "botiquin": 0.0,
+     "racion": 0.0,
+     "red": 0.0,
+     "camuflaje": 0.0
+    },
+    {
+     "tick": 8481,
+     "botiquin": 0.0,
+     "racion": 0.0,
+     "red": 0.0,
+     "camuflaje": 0.0
+    },
+    {
+     "tick": 9481,
+     "botiquin": 0.0,
+     "racion": 0.0,
+     "red": 0.0,
+     "camuflaje": 0.0
+    },
+    {
+     "tick": 10481,
+     "botiquin": 0.0,
+     "racion": 0.0,
+     "red": 0.0,
+     "camuflaje": 0.0
+    },
+    {
+     "tick": 11481,
+     "botiquin": 0.0,
+     "racion": 0.0,
+     "red": 0.0,
+     "camuflaje": 0.0
+    },
+    {
+     "tick": 12481,
+     "botiquin": 0.1407,
+     "racion": 1.4667,
+     "red": 0.0,
+     "camuflaje": 0.0
+    },
+    {
+     "tick": 13481,
+     "botiquin": 0.1997,
+     "racion": 0.7612,
+     "red": 0.0,
+     "camuflaje": 0.0
+    },
+    {
+     "tick": 14481,
+     "botiquin": 0.2237,
+     "racion": 0.8121,
+     "red": 0.0,
+     "camuflaje": 0.0
+    }
+   ],
+   "ignorancia_muestras": [
+    {
+     "tick": 481,
+     "first_aid": 1.0,
+     "rations": 1.0,
+     "net": 1.0,
+     "camouflage": 1.0
+    },
+    {
+     "tick": 1481,
+     "first_aid": 1.0,
+     "rations": 1.0,
+     "net": 1.0,
+     "camouflage": 1.0
+    },
+    {
+     "tick": 2481,
+     "first_aid": 1.0,
+     "rations": 1.0,
+     "net": 1.0,
+     "camouflage": 1.0
+    },
+    {
+     "tick": 3481,
+     "first_aid": 1.0,
+     "rations": 1.0,
+     "net": 1.0,
+     "camouflage": 1.0
+    },
+    {
+     "tick": 4481,
+     "first_aid": 1.0,
+     "rations": 1.0,
+     "net": 1.0,
+     "camouflage": 1.0
+    },
+    {
+     "tick": 5481,
+     "first_aid": 1.0,
+     "rations": 1.0,
+     "net": 1.0,
+     "camouflage": 1.0
+    },
+    {
+     "tick": 6481,
+     "first_aid": 1.0,
+     "rations": 1.0,
+     "net": 1.0,
+     "camouflage": 1.0
+    },
+    {
+     "tick": 7481,
+     "first_aid": 1.0,
+     "rations": 1.0,
+     "net": 1.0,
+     "camouflage": 1.0
+    },
+    {
+     "tick": 8481,
+     "first_aid": 1.0,
+     "rations": 1.0,
+     "net": 1.0,
+     "camouflage": 1.0
+    },
+    {
+     "tick": 9481,
+     "first_aid": 1.0,
+     "rations": 1.0,
+     "net": 1.0,
+     "camouflage": 1.0
+    },
+    {
+     "tick": 10481,
+     "first_aid": 1.0,
+     "rations": 1.0,
+     "net": 1.0,
+     "camouflage": 1.0
+    },
+    {
+     "tick": 11481,
+     "first_aid": 1.0,
+     "rations": 1.0,
+     "net": 1.0,
+     "camouflage": 1.0
+    },
+    {
+     "tick": 12481,
+     "first_aid": 0.3003,
+     "rations": 1.0,
+     "net": 1.0,
+     "camouflage": 1.0
+    },
+    {
+     "tick": 13481,
+     "first_aid": 0.3003,
+     "rations": 0.2415,
+     "net": 1.0,
+     "camouflage": 1.0
+    },
+    {
+     "tick": 14481,
+     "first_aid": 0.3003,
+     "rations": 0.2415,
+     "net": 1.0,
+     "camouflage": 1.0
+    }
+   ],
+   "contexto_de_las_pruebas": {
+    "botiquin": {
+     "n": 2,
+     "en_calma": 0,
+     "rival_a_4": 2,
+     "vida_menor_30": 0,
+     "fuego": 0
+    },
+    "racion": {
+     "n": 7,
+     "en_calma": 2,
+     "rival_a_4": 5,
+     "vida_menor_30": 0,
+     "fuego": 0
+    },
+    "red": {
+     "n": 0,
+     "en_calma": 0,
+     "rival_a_4": 0,
+     "vida_menor_30": 0,
+     "fuego": 0
+    },
+    "camuflaje": {
+     "n": 0,
+     "en_calma": 0,
+     "rival_a_4": 0,
+     "vida_menor_30": 0,
+     "fuego": 0
+    }
+   },
+   "ley": {
+    "avisos": [
+     {
+      "type": "event_warning",
+      "kind": "flood",
+      "rect": [
+       10,
+       22,
+       14,
+       26
+      ],
+      "from_tick": 4400,
+      "duration": 720
+     }
+    ],
+    "cambios_de_casillas": [
+     [
+      4400,
+      25
+     ],
+     [
+      5120,
+      0
+     ]
+    ]
+   },
+   "ir_curioso_con_paso_listo": 130,
+   "ir_curioso_fraccion": 0.0917,
+   "elegido_ponerse_empunar": {
+    "usar_botiquin": 2,
+    "usar_racion": 7
+   },
+   "latencia": {
+    "tics": 14568,
+    "decisiones": 14568,
+    "ms_mediana": 3.8,
+    "ms_p95": 13.33,
+    "ms_max": 48.97,
+    "sobre_el_tic": 0.0001,
+    "paso_listo": 1417,
+    "bloqueados": 33,
+    "bloqueados_sin_cuerpo": 0,
+    "fraccion_sin_cuerpo": 0.0,
+    "pasa": true,
+    "casilla_mas_bloqueada": null,
+    "para": false,
+    "motivo": []
+   },
+   "recuerdos_al_arrancar": 0,
+   "recuerdos_al_cerrar": 9,
+   "creencia_util_fin": {
+    "botiquin": 11.4011,
+    "racion": 12.2229
+   },
+   "errores_fotos": 0
+  },
+  "d2_a10": {
+   "dia": 2,
+   "asiento": 10,
+   "semilla": 41416174,
+   "tics": 14472,
+   "puesto": 1,
+   "murio": false,
+   "cuaderno_leido": true,
+   "contacto": {
+    "botiquin": null,
+    "racion": 538,
+    "red": null,
+    "camuflaje": 637
+   },
+   "orden_de_contacto": [
+    "racion",
+    "camuflaje"
+   ],
+   "coge": {
+    "botiquin": 0,
+    "racion": 4,
+    "red": 0,
+    "camuflaje": 1
+   },
+   "pruebas": {
+    "botiquin": {
+     "n": 0,
+     "firmes": 0,
+     "al_menos": 0,
+     "cortes": 0,
+     "ventanas_completas": 0,
+     "ventanas_cortas": 0,
+     "hp_al_abrir": [],
+     "efecto_cuerpo": [],
+     "t0": []
+    },
+    "racion": {
+     "n": 3,
+     "firmes": 0,
+     "al_menos": 3,
+     "cortes": 0,
+     "ventanas_completas": 0,
+     "ventanas_cortas": 0,
+     "hp_al_abrir": [
+      97.0,
+      94.0,
+      97.0
+     ],
+     "efecto_cuerpo": [
+      6.0,
+      6.0,
+      3.0
+     ],
+     "t0": [
+      11894,
+      12237,
+      12567
+     ]
+    },
+    "red": {
+     "n": 0,
+     "firmes": 0,
+     "al_menos": 0,
+     "cortes": 0,
+     "ventanas_completas": 0,
+     "ventanas_cortas": 0,
+     "hp_al_abrir": [],
+     "efecto_cuerpo": [],
+     "t0": []
+    },
+    "camuflaje": {
+     "n": 1,
+     "firmes": 1,
+     "al_menos": 0,
+     "cortes": 0,
+     "ventanas_completas": 1,
+     "ventanas_cortas": 0,
+     "hp_al_abrir": [
+      100.0
+     ],
+     "efecto_cuerpo": [
+      0.0
+     ],
+     "t0": [
+      637
+     ]
+    }
+   },
+   "al_acabar": {
+    "botiquin": {
+     "creencia": {
+      "dentro": 11.225
+     },
+     "ignorancia": 0.1885,
+     "ignorancia_cuanto": 1.0,
+     "sabido_max": 24.0,
+     "recuerdos": 4,
+     "cortes": 1,
+     "firmes": 0,
+     "al_menos": 3
+    },
+    "racion": {
+     "creencia": {
+      "dentro": 5.5757
+     },
+     "ignorancia": 0.126,
+     "ignorancia_cuanto": 1.0,
+     "sabido_max": 9.0,
+     "recuerdos": 7,
+     "cortes": 0,
+     "firmes": 0,
+     "al_menos": 7
+    },
+    "red": {
+     "creencia": {
+      "dentro": 0.0
+     },
+     "ignorancia": 0.5182,
+     "ignorancia_cuanto": 0.5182,
+     "sabido_max": 0.0,
+     "recuerdos": 1,
+     "cortes": 0,
+     "firmes": 1,
+     "al_menos": 0
+    },
+    "camuflaje": {
+     "creencia": {
+      "dentro": 0.0
+     },
+     "ignorancia": 0.3181,
+     "ignorancia_cuanto": 0.3181,
+     "sabido_max": 0.0,
+     "recuerdos": 2,
+     "cortes": 0,
+     "firmes": 2,
+     "al_menos": 0
+    }
+   },
+   "k_al_acabar": {
+    "botiquin": 0.2501,
+    "racion": 0.5812,
+    "red": 0.0,
+    "camuflaje": 0.0
+   },
+   "k_muestras": [
+    {
+     "tick": 481,
+     "botiquin": 0.1895,
+     "racion": 0.6162,
+     "red": 0.0,
+     "camuflaje": 0.0
+    },
+    {
+     "tick": 1481,
+     "botiquin": 0.1718,
+     "racion": 0.5521,
+     "red": 0.0,
+     "camuflaje": 0.0
+    },
+    {
+     "tick": 2481,
+     "botiquin": 0.1718,
+     "racion": 0.5522,
+     "red": 0.0,
+     "camuflaje": 0.0
+    },
+    {
+     "tick": 3481,
+     "botiquin": 0.1718,
+     "racion": 0.5522,
+     "red": 0.0,
+     "camuflaje": 0.0
+    },
+    {
+     "tick": 4481,
+     "botiquin": 0.1718,
+     "racion": 0.552,
+     "red": 0.0,
+     "camuflaje": 0.0
+    },
+    {
+     "tick": 5481,
+     "botiquin": 0.1719,
+     "racion": 0.5517,
+     "red": 0.0,
+     "camuflaje": 0.0
+    },
+    {
+     "tick": 6481,
+     "botiquin": 0.1718,
+     "racion": 0.552,
+     "red": 0.0,
+     "camuflaje": 0.0
+    },
+    {
+     "tick": 7481,
+     "botiquin": 0.1719,
+     "racion": 0.5519,
+     "red": 0.0,
+     "camuflaje": 0.0
+    },
+    {
+     "tick": 8481,
+     "botiquin": 0.1708,
+     "racion": 0.5592,
+     "red": 0.0,
+     "camuflaje": 0.0
+    },
+    {
+     "tick": 9481,
+     "botiquin": 0.1709,
+     "racion": 0.5588,
+     "red": 0.0,
+     "camuflaje": 0.0
+    },
+    {
+     "tick": 10481,
+     "botiquin": 0.1709,
+     "racion": 0.559,
+     "red": 0.0,
+     "camuflaje": 0.0
+    },
+    {
+     "tick": 11481,
+     "botiquin": 0.1706,
+     "racion": 0.5597,
+     "red": 0.0,
+     "camuflaje": 0.0
+    },
+    {
+     "tick": 12481,
+     "botiquin": 0.1747,
+     "racion": 0.5239,
+     "red": 0.0,
+     "camuflaje": 0.0
+    },
+    {
+     "tick": 13481,
+     "botiquin": 0.1554,
+     "racion": 0.5324,
+     "red": 0.0,
+     "camuflaje": 0.0
+    },
+    {
+     "tick": 14481,
+     "botiquin": 0.1637,
+     "racion": 0.5157,
+     "red": 0.0,
+     "camuflaje": 0.0
+    }
+   ],
+   "ignorancia_muestras": [
+    {
+     "tick": 481,
+     "first_aid": 0.1808,
+     "rations": 0.1946,
+     "net": 0.5054,
+     "camouflage": 0.5109
+    },
+    {
+     "tick": 1481,
+     "first_aid": 0.1808,
+     "rations": 0.1946,
+     "net": 0.5054,
+     "camouflage": 0.307
+    },
+    {
+     "tick": 2481,
+     "first_aid": 0.1808,
+     "rations": 0.1946,
+     "net": 0.5054,
+     "camouflage": 0.307
+    },
+    {
+     "tick": 3481,
+     "first_aid": 0.1808,
+     "rations": 0.1946,
+     "net": 0.5054,
+     "camouflage": 0.307
+    },
+    {
+     "tick": 4481,
+     "first_aid": 0.1808,
+     "rations": 0.1946,
+     "net": 0.5054,
+     "camouflage": 0.307
+    },
+    {
+     "tick": 5481,
+     "first_aid": 0.1808,
+     "rations": 0.1946,
+     "net": 0.5054,
+     "camouflage": 0.307
+    },
+    {
+     "tick": 6481,
+     "first_aid": 0.1808,
+     "rations": 0.1946,
+     "net": 0.5054,
+     "camouflage": 0.307
+    },
+    {
+     "tick": 7481,
+     "first_aid": 0.1808,
+     "rations": 0.1946,
+     "net": 0.5054,
+     "camouflage": 0.307
+    },
+    {
+     "tick": 8481,
+     "first_aid": 0.1808,
+     "rations": 0.1946,
+     "net": 0.5054,
+     "camouflage": 0.307
+    },
+    {
+     "tick": 9481,
+     "first_aid": 0.1808,
+     "rations": 0.1946,
+     "net": 0.5054,
+     "camouflage": 0.307
+    },
+    {
+     "tick": 10481,
+     "first_aid": 0.1808,
+     "rations": 0.1946,
+     "net": 0.5054,
+     "camouflage": 0.307
+    },
+    {
+     "tick": 11481,
+     "first_aid": 0.1808,
+     "rations": 0.1946,
+     "net": 0.5054,
+     "camouflage": 0.307
+    },
+    {
+     "tick": 12481,
+     "first_aid": 0.1808,
+     "rations": 0.1375,
+     "net": 0.5054,
+     "camouflage": 0.307
+    },
+    {
+     "tick": 13481,
+     "first_aid": 0.1808,
+     "rations": 0.1204,
+     "net": 0.5054,
+     "camouflage": 0.307
+    },
+    {
+     "tick": 14481,
+     "first_aid": 0.1808,
+     "rations": 0.1204,
+     "net": 0.5054,
+     "camouflage": 0.307
+    }
+   ],
+   "contexto_de_las_pruebas": {
+    "botiquin": {
+     "n": 0,
+     "en_calma": 0,
+     "rival_a_4": 0,
+     "vida_menor_30": 0,
+     "fuego": 0
+    },
+    "racion": {
+     "n": 3,
+     "en_calma": 0,
+     "rival_a_4": 3,
+     "vida_menor_30": 0,
+     "fuego": 0
+    },
+    "red": {
+     "n": 0,
+     "en_calma": 0,
+     "rival_a_4": 0,
+     "vida_menor_30": 0,
+     "fuego": 0
+    },
+    "camuflaje": {
+     "n": 1,
+     "en_calma": 1,
+     "rival_a_4": 0,
+     "vida_menor_30": 0,
+     "fuego": 0
+    }
+   },
+   "ley": {
+    "avisos": [
+     {
+      "type": "event_warning",
+      "kind": "flood",
+      "rect": [
+       10,
+       22,
+       14,
+       26
+      ],
+      "from_tick": 4400,
+      "duration": 720
+     }
+    ],
+    "cambios_de_casillas": [
+     [
+      4400,
+      25
+     ],
+     [
+      5120,
+      0
+     ]
+    ]
+   },
+   "ir_curioso_con_paso_listo": 372,
+   "ir_curioso_fraccion": 0.1347,
+   "elegido_ponerse_empunar": {
+    "usar_racion": 5,
+    "empunar_sword": 1
+   },
+   "latencia": {
+    "tics": 14472,
+    "decisiones": 14472,
+    "ms_mediana": 8.68,
+    "ms_p95": 41.21,
+    "ms_max": 80.81,
+    "sobre_el_tic": 0.0461,
+    "paso_listo": 2762,
+    "bloqueados": 21,
+    "bloqueados_sin_cuerpo": 1,
+    "fraccion_sin_cuerpo": 0.0004,
+    "pasa": false,
+    "casilla_mas_bloqueada": {
+     "desde": [
+      27,
+      23
+     ],
+     "dir": "E",
+     "hacia": [
+      28,
+      23
+     ],
+     "n": 1
+    },
+    "para": false,
+    "motivo": [
+     "decisiones por encima del tic 4.61 % > 1 %"
+    ]
+   },
+   "recuerdos_al_arrancar": 10,
+   "recuerdos_al_cerrar": 14,
+   "creencia_util_fin": {
+    "botiquin": 11.225,
+    "racion": 5.5757
+   },
+   "errores_fotos": 0
+  },
+  "d2_a11": {
+   "dia": 2,
+   "asiento": 11,
+   "semilla": 41416174,
+   "tics": 14472,
+   "puesto": 2,
+   "murio": false,
+   "cuaderno_leido": true,
+   "contacto": {
+    "botiquin": 681,
+    "racion": 527,
+    "red": 626,
+    "camuflaje": null
+   },
+   "orden_de_contacto": [
+    "racion",
+    "red",
+    "botiquin"
+   ],
+   "coge": {
+    "botiquin": 2,
+    "racion": 6,
+    "red": 1,
+    "camuflaje": 0
+   },
+   "pruebas": {
+    "botiquin": {
+     "n": 2,
+     "firmes": 0,
+     "al_menos": 2,
+     "cortes": 0,
+     "ventanas_completas": 0,
+     "ventanas_cortas": 0,
+     "hp_al_abrir": [
+      92.0,
+      86.0
+     ],
+     "efecto_cuerpo": [
+      8.0,
+      14.0
+     ],
+     "t0": [
+      11640,
+      12331
+     ]
+    },
+    "racion": {
+     "n": 3,
+     "firmes": 1,
+     "al_menos": 2,
+     "cortes": 0,
+     "ventanas_completas": 0,
+     "ventanas_cortas": 0,
+     "hp_al_abrir": [
+      80.0,
+      97.0,
+      97.0
+     ],
+     "efecto_cuerpo": [
+      15.0,
+      3.0,
+      3.0
+     ],
+     "t0": [
+      12024,
+      12392,
+      12438
+     ]
+    },
+    "red": {
+     "n": 1,
+     "firmes": 1,
+     "al_menos": 0,
+     "cortes": 0,
+     "ventanas_completas": 1,
+     "ventanas_cortas": 0,
+     "hp_al_abrir": [
+      100.0
+     ],
+     "efecto_cuerpo": [
+      0.0
+     ],
+     "t0": [
+      626
+     ]
+    },
+    "camuflaje": {
+     "n": 0,
+     "firmes": 0,
+     "al_menos": 0,
+     "cortes": 0,
+     "ventanas_completas": 0,
+     "ventanas_cortas": 0,
+     "hp_al_abrir": [],
+     "efecto_cuerpo": [],
+     "t0": []
+    }
+   },
+   "al_acabar": {
+    "botiquin": {
+     "creencia": {
+      "dentro": 11.0858
+     },
+     "ignorancia": 0.1929,
+     "ignorancia_cuanto": 1.0,
+     "sabido_max": 22.0,
+     "recuerdos": 4,
+     "cortes": 1,
+     "firmes": 0,
+     "al_menos": 3
+    },
+    "racion": {
+     "creencia": {
+      "dentro": 7.6654,
+      "fuera": 12.1087
+     },
+     "ignorancia": 0.089,
+     "ignorancia_cuanto": 0.1564,
+     "sabido_max": 15.68,
+     "recuerdos": 10,
+     "cortes": 0,
+     "firmes": 5,
+     "al_menos": 5
+    },
+    "red": {
+     "creencia": {
+      "dentro": 0.0
+     },
+     "ignorancia": 0.3964,
+     "ignorancia_cuanto": 0.3964,
+     "sabido_max": 0.0,
+     "recuerdos": 1,
+     "cortes": 0,
+     "firmes": 1,
+     "al_menos": 0
+    },
+    "camuflaje": {
+     "creencia": {},
+     "ignorancia": 1.0,
+     "ignorancia_cuanto": null,
+     "sabido_max": null,
+     "recuerdos": 0,
+     "cortes": 0,
+     "firmes": 0,
+     "al_menos": 0
+    }
+   },
+   "k_al_acabar": {
+    "botiquin": 0.2949,
+    "racion": 0.9388,
+    "red": 0.0,
+    "camuflaje": 0.0
+   },
+   "k_muestras": [
+    {
+     "tick": 481,
+     "botiquin": 0.1915,
+     "racion": 1.0951,
+     "red": 0.0,
+     "camuflaje": 0.0
+    },
+    {
+     "tick": 1481,
+     "botiquin": 0.2051,
+     "racion": 1.0083,
+     "red": 0.0,
+     "camuflaje": 0.0
+    },
+    {
+     "tick": 2481,
+     "botiquin": 0.207,
+     "racion": 1.022,
+     "red": 0.0,
+     "camuflaje": 0.0
+    },
+    {
+     "tick": 3481,
+     "botiquin": 0.2062,
+     "racion": 1.0118,
+     "red": 0.0,
+     "camuflaje": 0.0
+    },
+    {
+     "tick": 4481,
+     "botiquin": 0.207,
+     "racion": 1.022,
+     "red": 0.0,
+     "camuflaje": 0.0
+    },
+    {
+     "tick": 5481,
+     "botiquin": 0.2041,
+     "racion": 0.9949,
+     "red": 0.0,
+     "camuflaje": 0.0
+    },
+    {
+     "tick": 6481,
+     "botiquin": 0.207,
+     "racion": 1.022,
+     "red": 0.0,
+     "camuflaje": 0.0
+    },
+    {
+     "tick": 7481,
+     "botiquin": 0.2055,
+     "racion": 1.0052,
+     "red": 0.0,
+     "camuflaje": 0.0
+    },
+    {
+     "tick": 8481,
+     "botiquin": 0.2066,
+     "racion": 1.0187,
+     "red": 0.0,
+     "camuflaje": 0.0
+    },
+    {
+     "tick": 9481,
+     "botiquin": 0.2077,
+     "racion": 1.0362,
+     "red": 0.0,
+     "camuflaje": 0.0
+    },
+    {
+     "tick": 10481,
+     "botiquin": 0.2077,
+     "racion": 1.0337,
+     "red": 0.0,
+     "camuflaje": 0.0
+    },
+    {
+     "tick": 11481,
+     "botiquin": 0.2075,
+     "racion": 1.0412,
+     "red": 0.0,
+     "camuflaje": 0.0
+    },
+    {
+     "tick": 12481,
+     "botiquin": 0.2294,
+     "racion": 0.6242,
+     "red": 0.0,
+     "camuflaje": 0.0
+    },
+    {
+     "tick": 13481,
+     "botiquin": 0.286,
+     "racion": 0.8502,
+     "red": 0.0,
+     "camuflaje": 0.0
+    },
+    {
+     "tick": 14481,
+     "botiquin": 0.3238,
+     "racion": 1.0496,
+     "red": 0.0,
+     "camuflaje": 0.0
+    }
+   ],
+   "ignorancia_muestras": [
+    {
+     "tick": 481,
+     "first_aid": 0.3112,
+     "rations": 0.1168,
+     "net": 1.0,
+     "camouflage": 1.0
+    },
+    {
+     "tick": 1481,
+     "first_aid": 0.3112,
+     "rations": 0.1168,
+     "net": 0.3842,
+     "camouflage": 1.0
+    },
+    {
+     "tick": 2481,
+     "first_aid": 0.3112,
+     "rations": 0.1168,
+     "net": 0.3842,
+     "camouflage": 1.0
+    },
+    {
+     "tick": 3481,
+     "first_aid": 0.3112,
+     "rations": 0.1168,
+     "net": 0.3842,
+     "camouflage": 1.0
+    },
+    {
+     "tick": 4481,
+     "first_aid": 0.3112,
+     "rations": 0.1168,
+     "net": 0.3842,
+     "camouflage": 1.0
+    },
+    {
+     "tick": 5481,
+     "first_aid": 0.3112,
+     "rations": 0.1168,
+     "net": 0.3842,
+     "camouflage": 1.0
+    },
+    {
+     "tick": 6481,
+     "first_aid": 0.3112,
+     "rations": 0.1168,
+     "net": 0.3842,
+     "camouflage": 1.0
+    },
+    {
+     "tick": 7481,
+     "first_aid": 0.3112,
+     "rations": 0.1168,
+     "net": 0.3842,
+     "camouflage": 1.0
+    },
+    {
+     "tick": 8481,
+     "first_aid": 0.3112,
+     "rations": 0.1168,
+     "net": 0.3842,
+     "camouflage": 1.0
+    },
+    {
+     "tick": 9481,
+     "first_aid": 0.3112,
+     "rations": 0.1168,
+     "net": 0.3842,
+     "camouflage": 1.0
+    },
+    {
+     "tick": 10481,
+     "first_aid": 0.3112,
+     "rations": 0.1168,
+     "net": 0.3842,
+     "camouflage": 1.0
+    },
+    {
+     "tick": 11481,
+     "first_aid": 0.3112,
+     "rations": 0.1168,
+     "net": 0.3842,
+     "camouflage": 1.0
+    },
+    {
+     "tick": 12481,
+     "first_aid": 0.185,
+     "rations": 0.0849,
+     "net": 0.3842,
+     "camouflage": 1.0
+    },
+    {
+     "tick": 13481,
+     "first_aid": 0.185,
+     "rations": 0.0849,
+     "net": 0.3842,
+     "camouflage": 1.0
+    },
+    {
+     "tick": 14481,
+     "first_aid": 0.185,
+     "rations": 0.0849,
+     "net": 0.3842,
+     "camouflage": 1.0
+    }
+   ],
+   "contexto_de_las_pruebas": {
+    "botiquin": {
+     "n": 2,
+     "en_calma": 0,
+     "rival_a_4": 2,
+     "vida_menor_30": 0,
+     "fuego": 0
+    },
+    "racion": {
+     "n": 3,
+     "en_calma": 0,
+     "rival_a_4": 3,
+     "vida_menor_30": 0,
+     "fuego": 0
+    },
+    "red": {
+     "n": 1,
+     "en_calma": 1,
+     "rival_a_4": 0,
+     "vida_menor_30": 0,
+     "fuego": 0
+    },
+    "camuflaje": {
+     "n": 0,
+     "en_calma": 0,
+     "rival_a_4": 0,
+     "vida_menor_30": 0,
+     "fuego": 0
+    }
+   },
+   "ley": {
+    "avisos": [
+     {
+      "type": "event_warning",
+      "kind": "flood",
+      "rect": [
+       10,
+       22,
+       14,
+       26
+      ],
+      "from_tick": 4400,
+      "duration": 720
+     }
+    ],
+    "cambios_de_casillas": [
+     [
+      4400,
+      25
+     ],
+     [
+      5120,
+      0
+     ]
+    ]
+   },
+   "ir_curioso_con_paso_listo": 7,
+   "ir_curioso_fraccion": 0.0052,
+   "elegido_ponerse_empunar": {
+    "soltar_rations": 1,
+    "usar_botiquin": 2,
+    "usar_racion": 3,
+    "empunar_sword": 1
+   },
+   "latencia": {
+    "tics": 14472,
+    "decisiones": 14472,
+    "ms_mediana": 3.41,
+    "ms_p95": 12.18,
+    "ms_max": 27.43,
+    "sobre_el_tic": 0.0,
+    "paso_listo": 1342,
+    "bloqueados": 24,
+    "bloqueados_sin_cuerpo": 2,
+    "fraccion_sin_cuerpo": 0.0015,
+    "pasa": true,
+    "casilla_mas_bloqueada": {
+     "desde": [
+      22,
+      24
+     ],
+     "dir": "N",
+     "hacia": [
+      22,
+      23
+     ],
+     "n": 1
+    },
+    "para": false,
+    "motivo": []
+   },
+   "recuerdos_al_arrancar": 9,
+   "recuerdos_al_cerrar": 15,
+   "creencia_util_fin": {
+    "botiquin": 11.0858,
+    "racion": 12.1087
+   },
+   "errores_fotos": 0
+  },
+  "d3_a10": {
+   "dia": 3,
+   "asiento": 10,
+   "semilla": 41520903,
+   "tics": 14328,
+   "puesto": 2,
+   "murio": false,
+   "cuaderno_leido": true,
+   "contacto": {
+    "botiquin": 615,
+    "racion": null,
+    "red": null,
+    "camuflaje": null
+   },
+   "orden_de_contacto": [
+    "botiquin"
+   ],
+   "coge": {
+    "botiquin": 2,
+    "racion": 0,
+    "red": 0,
+    "camuflaje": 0
+   },
+   "pruebas": {
+    "botiquin": {
+     "n": 2,
+     "firmes": 0,
+     "al_menos": 0,
+     "cortes": 2,
+     "ventanas_completas": 0,
+     "ventanas_cortas": 0,
+     "hp_al_abrir": [
+      94.0,
+      82.0
+     ],
+     "efecto_cuerpo": [
+      0.0,
+      0.0
+     ],
+     "t0": [
+      14642,
+      14691
+     ]
+    },
+    "racion": {
+     "n": 0,
+     "firmes": 0,
+     "al_menos": 0,
+     "cortes": 0,
+     "ventanas_completas": 0,
+     "ventanas_cortas": 0,
+     "hp_al_abrir": [],
+     "efecto_cuerpo": [],
+     "t0": []
+    },
+    "red": {
+     "n": 0,
+     "firmes": 0,
+     "al_menos": 0,
+     "cortes": 0,
+     "ventanas_completas": 0,
+     "ventanas_cortas": 0,
+     "hp_al_abrir": [],
+     "efecto_cuerpo": [],
+     "t0": []
+    },
+    "camuflaje": {
+     "n": 0,
+     "firmes": 0,
+     "al_menos": 0,
+     "cortes": 0,
+     "ventanas_completas": 0,
+     "ventanas_cortas": 0,
+     "hp_al_abrir": [],
+     "efecto_cuerpo": [],
+     "t0": []
+    }
+   },
+   "al_acabar": {
+    "botiquin": {
+     "creencia": {
+      "dentro": 11.0871
+     },
+     "ignorancia": 0.1338,
+     "ignorancia_cuanto": 1.0,
+     "sabido_max": 24.0,
+     "recuerdos": 6,
+     "cortes": 3,
+     "firmes": 0,
+     "al_menos": 3
+    },
+    "racion": {
+     "creencia": {
+      "dentro": 5.539
+     },
+     "ignorancia": 0.1317,
+     "ignorancia_cuanto": 1.0,
+     "sabido_max": 9.0,
+     "recuerdos": 7,
+     "cortes": 0,
+     "firmes": 0,
+     "al_menos": 7
+    },
+    "red": {
+     "creencia": {
+      "dentro": 0.0
+     },
+     "ignorancia": 0.531,
+     "ignorancia_cuanto": 0.531,
+     "sabido_max": 0.0,
+     "recuerdos": 1,
+     "cortes": 0,
+     "firmes": 1,
+     "al_menos": 0
+    },
+    "camuflaje": {
+     "creencia": {
+      "dentro": 0.0
+     },
+     "ignorancia": 0.3293,
+     "ignorancia_cuanto": 0.3293,
+     "sabido_max": 0.0,
+     "recuerdos": 2,
+     "cortes": 0,
+     "firmes": 2,
+     "al_menos": 0
+    }
+   },
+   "k_al_acabar": {
+    "botiquin": 0.1299,
+    "racion": 1.3007,
+    "red": 0.0,
+    "camuflaje": 0.0
+   },
+   "k_muestras": [
+    {
+     "tick": 481,
+     "botiquin": 0.1778,
+     "racion": 0.5274,
+     "red": 0.0,
+     "camuflaje": 0.0
+    },
+    {
+     "tick": 1481,
+     "botiquin": 0.1623,
+     "racion": 0.5057,
+     "red": 0.0,
+     "camuflaje": 0.0
+    },
+    {
+     "tick": 2481,
+     "botiquin": 0.1543,
+     "racion": 0.5396,
+     "red": 0.0,
+     "camuflaje": 0.0
+    },
+    {
+     "tick": 3481,
+     "botiquin": 0.1548,
+     "racion": 0.5384,
+     "red": 0.0,
+     "camuflaje": 0.0
+    },
+    {
+     "tick": 4481,
+     "botiquin": 0.1536,
+     "racion": 0.5413,
+     "red": 0.0,
+     "camuflaje": 0.0
+    },
+    {
+     "tick": 5481,
+     "botiquin": 0.1556,
+     "racion": 0.5363,
+     "red": 0.0,
+     "camuflaje": 0.0
+    },
+    {
+     "tick": 6481,
+     "botiquin": 0.1537,
+     "racion": 0.5408,
+     "red": 0.0,
+     "camuflaje": 0.0
+    },
+    {
+     "tick": 7481,
+     "botiquin": 0.1542,
+     "racion": 0.5394,
+     "red": 0.0,
+     "camuflaje": 0.0
+    },
+    {
+     "tick": 8481,
+     "botiquin": 0.1554,
+     "racion": 0.5367,
+     "red": 0.0,
+     "camuflaje": 0.0
+    },
+    {
+     "tick": 9481,
+     "botiquin": 0.155,
+     "racion": 0.5375,
+     "red": 0.0,
+     "camuflaje": 0.0
+    },
+    {
+     "tick": 10481,
+     "botiquin": 0.1557,
+     "racion": 0.5362,
+     "red": 0.0,
+     "camuflaje": 0.0
+    },
+    {
+     "tick": 11481,
+     "botiquin": 0.1555,
+     "racion": 0.5365,
+     "red": 0.0,
+     "camuflaje": 0.0
+    },
+    {
+     "tick": 12481,
+     "botiquin": 0.149,
+     "racion": 0.5531,
+     "red": 0.0,
+     "camuflaje": 0.0
+    },
+    {
+     "tick": 13481,
+     "botiquin": 0.1557,
+     "racion": 0.5362,
+     "red": 0.0,
+     "camuflaje": 0.0
+    },
+    {
+     "tick": 14481,
+     "botiquin": 0.184,
+     "racion": 0.5863,
+     "red": 0.0,
+     "camuflaje": 0.0
+    }
+   ],
+   "ignorancia_muestras": [
+    {
+     "tick": 481,
+     "first_aid": 0.1885,
+     "rations": 0.126,
+     "net": 0.5182,
+     "camouflage": 0.3181
+    },
+    {
+     "tick": 1481,
+     "first_aid": 0.1885,
+     "rations": 0.126,
+     "net": 0.5182,
+     "camouflage": 0.3181
+    },
+    {
+     "tick": 2481,
+     "first_aid": 0.1885,
+     "rations": 0.126,
+     "net": 0.5182,
+     "camouflage": 0.3181
+    },
+    {
+     "tick": 3481,
+     "first_aid": 0.1885,
+     "rations": 0.126,
+     "net": 0.5182,
+     "camouflage": 0.3181
+    },
+    {
+     "tick": 4481,
+     "first_aid": 0.1885,
+     "rations": 0.126,
+     "net": 0.5182,
+     "camouflage": 0.3181
+    },
+    {
+     "tick": 5481,
+     "first_aid": 0.1885,
+     "rations": 0.126,
+     "net": 0.5182,
+     "camouflage": 0.3181
+    },
+    {
+     "tick": 6481,
+     "first_aid": 0.1885,
+     "rations": 0.126,
+     "net": 0.5182,
+     "camouflage": 0.3181
+    },
+    {
+     "tick": 7481,
+     "first_aid": 0.1885,
+     "rations": 0.126,
+     "net": 0.5182,
+     "camouflage": 0.3181
+    },
+    {
+     "tick": 8481,
+     "first_aid": 0.1885,
+     "rations": 0.126,
+     "net": 0.5182,
+     "camouflage": 0.3181
+    },
+    {
+     "tick": 9481,
+     "first_aid": 0.1885,
+     "rations": 0.126,
+     "net": 0.5182,
+     "camouflage": 0.3181
+    },
+    {
+     "tick": 10481,
+     "first_aid": 0.1885,
+     "rations": 0.126,
+     "net": 0.5182,
+     "camouflage": 0.3181
+    },
+    {
+     "tick": 11481,
+     "first_aid": 0.1885,
+     "rations": 0.126,
+     "net": 0.5182,
+     "camouflage": 0.3181
+    },
+    {
+     "tick": 12481,
+     "first_aid": 0.1885,
+     "rations": 0.126,
+     "net": 0.5182,
+     "camouflage": 0.3181
+    },
+    {
+     "tick": 13481,
+     "first_aid": 0.1885,
+     "rations": 0.126,
+     "net": 0.5182,
+     "camouflage": 0.3181
+    },
+    {
+     "tick": 14481,
+     "first_aid": 0.1885,
+     "rations": 0.126,
+     "net": 0.5182,
+     "camouflage": 0.3181
+    }
+   ],
+   "contexto_de_las_pruebas": {
+    "botiquin": {
+     "n": 2,
+     "en_calma": 0,
+     "rival_a_4": 2,
+     "vida_menor_30": 0,
+     "fuego": 0
+    },
+    "racion": {
+     "n": 0,
+     "en_calma": 0,
+     "rival_a_4": 0,
+     "vida_menor_30": 0,
+     "fuego": 0
+    },
+    "red": {
+     "n": 0,
+     "en_calma": 0,
+     "rival_a_4": 0,
+     "vida_menor_30": 0,
+     "fuego": 0
+    },
+    "camuflaje": {
+     "n": 0,
+     "en_calma": 0,
+     "rival_a_4": 0,
+     "vida_menor_30": 0,
+     "fuego": 0
+    }
+   },
+   "ley": {
+    "avisos": [
+     {
+      "type": "event_warning",
+      "kind": "flood",
+      "rect": [
+       10,
+       22,
+       14,
+       26
+      ],
+      "from_tick": 4400,
+      "duration": 720
+     }
+    ],
+    "cambios_de_casillas": [
+     [
+      4400,
+      25
+     ],
+     [
+      5120,
+      0
+     ]
+    ]
+   },
+   "ir_curioso_con_paso_listo": 49,
+   "ir_curioso_fraccion": 0.0169,
+   "elegido_ponerse_empunar": {
+    "usar_botiquin": 2
+   },
+   "latencia": {
+    "tics": 14328,
+    "decisiones": 14328,
+    "ms_mediana": 4.45,
+    "ms_p95": 21.2,
+    "ms_max": 60.57,
+    "sobre_el_tic": 0.0001,
+    "paso_listo": 2907,
+    "bloqueados": 623,
+    "bloqueados_sin_cuerpo": 5,
+    "fraccion_sin_cuerpo": 0.0017,
+    "pasa": true,
+    "casilla_mas_bloqueada": {
+     "desde": [
+      23,
+      24
+     ],
+     "dir": "W",
+     "hacia": [
+      22,
+      24
+     ],
+     "n": 1
+    },
+    "para": false,
+    "motivo": []
+   },
+   "recuerdos_al_arrancar": 14,
+   "recuerdos_al_cerrar": 16,
+   "creencia_util_fin": {
+    "botiquin": 11.0871,
+    "racion": 5.539
+   },
+   "errores_fotos": 0
+  },
+  "d3_a11": {
+   "dia": 3,
+   "asiento": 11,
+   "semilla": 41520903,
+   "tics": 14148,
+   "puesto": 4,
+   "murio": true,
+   "cuaderno_leido": true,
+   "contacto": {
+    "botiquin": 989,
+    "racion": 4980,
+    "red": 1066,
+    "camuflaje": 692
+   },
+   "orden_de_contacto": [
+    "camuflaje",
+    "botiquin",
+    "red",
+    "racion"
+   ],
+   "coge": {
+    "botiquin": 1,
+    "racion": 4,
+    "red": 2,
+    "camuflaje": 1
+   },
+   "pruebas": {
+    "botiquin": {
+     "n": 0,
+     "firmes": 0,
+     "al_menos": 0,
+     "cortes": 0,
+     "ventanas_completas": 0,
+     "ventanas_cortas": 0,
+     "hp_al_abrir": [],
+     "efecto_cuerpo": [],
+     "t0": []
+    },
+    "racion": {
+     "n": 3,
+     "firmes": 1,
+     "al_menos": 2,
+     "cortes": 0,
+     "ventanas_completas": 0,
+     "ventanas_cortas": 0,
+     "hp_al_abrir": [
+      97.0,
+      88.0,
+      86.0
+     ],
+     "efecto_cuerpo": [
+      6.0,
+      12.0,
+      15.12
+     ],
+     "t0": [
+      11730,
+      12844,
+      13802
+     ]
+    },
+    "red": {
+     "n": 1,
+     "firmes": 1,
+     "al_menos": 0,
+     "cortes": 0,
+     "ventanas_completas": 1,
+     "ventanas_cortas": 0,
+     "hp_al_abrir": [
+      100.0
+     ],
+     "efecto_cuerpo": [
+      0.0
+     ],
+     "t0": [
+      1066
+     ]
+    },
+    "camuflaje": {
+     "n": 1,
+     "firmes": 1,
+     "al_menos": 0,
+     "cortes": 0,
+     "ventanas_completas": 1,
+     "ventanas_cortas": 0,
+     "hp_al_abrir": [
+      100.0
+     ],
+     "efecto_cuerpo": [
+      0.0
+     ],
+     "t0": [
+      692
+     ]
+    }
+   },
+   "al_acabar": {
+    "botiquin": {
+     "creencia": {
+      "dentro": 10.9454
+     },
+     "ignorancia": 0.201,
+     "ignorancia_cuanto": 1.0,
+     "sabido_max": 22.0,
+     "recuerdos": 4,
+     "cortes": 1,
+     "firmes": 0,
+     "al_menos": 3
+    },
+    "racion": {
+     "creencia": {
+      "dentro": 9.0137,
+      "fuera": 12.4847
+     },
+     "ignorancia": 0.073,
+     "ignorancia_cuanto": 0.1411,
+     "sabido_max": 15.68,
+     "recuerdos": 13,
+     "cortes": 0,
+     "firmes": 6,
+     "al_menos": 7
+    },
+    "red": {
+     "creencia": {
+      "dentro": 0.0
+     },
+     "ignorancia": 0.294,
+     "ignorancia_cuanto": 0.294,
+     "sabido_max": 0.0,
+     "recuerdos": 2,
+     "cortes": 0,
+     "firmes": 2,
+     "al_menos": 0
+    },
+    "camuflaje": {
+     "creencia": {
+      "dentro": 0.0
+     },
+     "ignorancia": 0.4885,
+     "ignorancia_cuanto": 0.4885,
+     "sabido_max": 0.0,
+     "recuerdos": 1,
+     "cortes": 0,
+     "firmes": 1,
+     "al_menos": 0
+    }
+   },
+   "k_al_acabar": {
+    "botiquin": 0.2998,
+    "racion": 0.9676,
+    "red": 0.0,
+    "camuflaje": 0.0
+   },
+   "k_muestras": [
+    {
+     "tick": 481,
+     "botiquin": 0.299,
+     "racion": 0.9971,
+     "red": 0.0,
+     "camuflaje": 0.0
+    },
+    {
+     "tick": 1481,
+     "botiquin": 0.284,
+     "racion": 0.9018,
+     "red": 0.0,
+     "camuflaje": 0.0
+    },
+    {
+     "tick": 2481,
+     "botiquin": 0.2835,
+     "racion": 0.9009,
+     "red": 0.0,
+     "camuflaje": 0.0
+    },
+    {
+     "tick": 3481,
+     "botiquin": 0.2835,
+     "racion": 0.9009,
+     "red": 0.0,
+     "camuflaje": 0.0
+    },
+    {
+     "tick": 4481,
+     "botiquin": 0.2836,
+     "racion": 0.901,
+     "red": 0.0,
+     "camuflaje": 0.0
+    },
+    {
+     "tick": 5481,
+     "botiquin": 0.2739,
+     "racion": 0.8685,
+     "red": 0.0,
+     "camuflaje": 0.0
+    },
+    {
+     "tick": 6481,
+     "botiquin": 0.2735,
+     "racion": 0.8687,
+     "red": 0.0,
+     "camuflaje": 0.0
+    },
+    {
+     "tick": 7481,
+     "botiquin": 0.2737,
+     "racion": 0.8686,
+     "red": 0.0,
+     "camuflaje": 0.0
+    },
+    {
+     "tick": 8481,
+     "botiquin": 0.274,
+     "racion": 0.8685,
+     "red": 0.0,
+     "camuflaje": 0.0
+    },
+    {
+     "tick": 9481,
+     "botiquin": 0.2744,
+     "racion": 0.8684,
+     "red": 0.0,
+     "camuflaje": 0.0
+    },
+    {
+     "tick": 10481,
+     "botiquin": 0.2738,
+     "racion": 0.8686,
+     "red": 0.0,
+     "camuflaje": 0.0
+    },
+    {
+     "tick": 11481,
+     "botiquin": 0.2744,
+     "racion": 0.8684,
+     "red": 0.0,
+     "camuflaje": 0.0
+    },
+    {
+     "tick": 12481,
+     "botiquin": 0.2699,
+     "racion": 0.8056,
+     "red": 0.0,
+     "camuflaje": 0.0
+    },
+    {
+     "tick": 13481,
+     "botiquin": 0.2727,
+     "racion": 0.8163,
+     "red": 0.0,
+     "camuflaje": 0.0
+    },
+    {
+     "tick": 14481,
+     "botiquin": 0.2998,
+     "racion": 0.9676,
+     "red": 0.0,
+     "camuflaje": 0.0
+    }
+   ],
+   "ignorancia_muestras": [
+    {
+     "tick": 481,
+     "first_aid": 0.1929,
+     "rations": 0.089,
+     "net": 0.3964,
+     "camouflage": 1.0
+    },
+    {
+     "tick": 1481,
+     "first_aid": 0.1929,
+     "rations": 0.089,
+     "net": 0.2835,
+     "camouflage": 0.4757
+    },
+    {
+     "tick": 2481,
+     "first_aid": 0.1929,
+     "rations": 0.089,
+     "net": 0.2835,
+     "camouflage": 0.4757
+    },
+    {
+     "tick": 3481,
+     "first_aid": 0.1929,
+     "rations": 0.089,
+     "net": 0.2835,
+     "camouflage": 0.4757
+    },
+    {
+     "tick": 4481,
+     "first_aid": 0.1929,
+     "rations": 0.089,
+     "net": 0.2835,
+     "camouflage": 0.4757
+    },
+    {
+     "tick": 5481,
+     "first_aid": 0.1929,
+     "rations": 0.089,
+     "net": 0.2835,
+     "camouflage": 0.4757
+    },
+    {
+     "tick": 6481,
+     "first_aid": 0.1929,
+     "rations": 0.089,
+     "net": 0.2835,
+     "camouflage": 0.4757
+    },
+    {
+     "tick": 7481,
+     "first_aid": 0.1929,
+     "rations": 0.089,
+     "net": 0.2835,
+     "camouflage": 0.4757
+    },
+    {
+     "tick": 8481,
+     "first_aid": 0.1929,
+     "rations": 0.089,
+     "net": 0.2835,
+     "camouflage": 0.4757
+    },
+    {
+     "tick": 9481,
+     "first_aid": 0.1929,
+     "rations": 0.089,
+     "net": 0.2835,
+     "camouflage": 0.4757
+    },
+    {
+     "tick": 10481,
+     "first_aid": 0.1929,
+     "rations": 0.089,
+     "net": 0.2835,
+     "camouflage": 0.4757
+    },
+    {
+     "tick": 11481,
+     "first_aid": 0.1929,
+     "rations": 0.089,
+     "net": 0.2835,
+     "camouflage": 0.4757
+    },
+    {
+     "tick": 12481,
+     "first_aid": 0.1929,
+     "rations": 0.0814,
+     "net": 0.2835,
+     "camouflage": 0.4757
+    },
+    {
+     "tick": 13481,
+     "first_aid": 0.1929,
+     "rations": 0.0748,
+     "net": 0.2835,
+     "camouflage": 0.4757
+    },
+    {
+     "tick": 14481,
+     "first_aid": 0.1929,
+     "rations": 0.0696,
+     "net": 0.2835,
+     "camouflage": 0.4757
+    }
+   ],
+   "contexto_de_las_pruebas": {
+    "botiquin": {
+     "n": 0,
+     "en_calma": 0,
+     "rival_a_4": 0,
+     "vida_menor_30": 0,
+     "fuego": 0
+    },
+    "racion": {
+     "n": 3,
+     "en_calma": 0,
+     "rival_a_4": 3,
+     "vida_menor_30": 0,
+     "fuego": 0
+    },
+    "red": {
+     "n": 1,
+     "en_calma": 1,
+     "rival_a_4": 0,
+     "vida_menor_30": 0,
+     "fuego": 0
+    },
+    "camuflaje": {
+     "n": 1,
+     "en_calma": 1,
+     "rival_a_4": 0,
+     "vida_menor_30": 0,
+     "fuego": 0
+    }
+   },
+   "ley": {
+    "avisos": [
+     {
+      "type": "event_warning",
+      "kind": "flood",
+      "rect": [
+       10,
+       22,
+       14,
+       26
+      ],
+      "from_tick": 4400,
+      "duration": 720
+     }
+    ],
+    "cambios_de_casillas": [
+     [
+      4400,
+      25
+     ],
+     [
+      5120,
+      0
+     ]
+    ]
+   },
+   "ir_curioso_con_paso_listo": 12,
+   "ir_curioso_fraccion": 0.0029,
+   "elegido_ponerse_empunar": {
+    "usar_racion": 3
+   },
+   "latencia": {
+    "tics": 14148,
+    "decisiones": 14148,
+    "ms_mediana": 1.61,
+    "ms_p95": 11.92,
+    "ms_max": 34.89,
+    "sobre_el_tic": 0.0,
+    "paso_listo": 4158,
+    "bloqueados": 79,
+    "bloqueados_sin_cuerpo": 6,
+    "fraccion_sin_cuerpo": 0.0014,
+    "pasa": true,
+    "casilla_mas_bloqueada": {
+     "desde": [
+      24,
+      26
+     ],
+     "dir": "W",
+     "hacia": [
+      23,
+      26
+     ],
+     "n": 1
+    },
+    "para": false,
+    "motivo": []
+   },
+   "recuerdos_al_arrancar": 15,
+   "recuerdos_al_cerrar": 20,
+   "creencia_util_fin": {
+    "botiquin": 10.9454,
+    "racion": 12.4847
+   },
+   "errores_fotos": 0
+  }
+ },
+ "a_cuaderno_viaja": true,
+ "b_tocan": [
+  "d1 a10",
+  "d1 a11",
+  "d2 a10",
+  "d2 a11",
+  "d3 a10",
+  "d3 a11"
+ ],
+ "b_pasa": true,
+ "c_sube": [
+  "d3 a11 racion: 12.1087 -> 12.4847"
+ ],
+ "c_pasa": true,
+ "d_errores_fotos": {
+  "d1 a10": 0,
+  "d1 a11": 0,
+  "d2 a10": 0,
+  "d2 a11": 0,
+  "d3 a10": 0,
+  "d3 a11": 0
+ },
+ "d_pasa": true,
+ "guarda": {
+  "d1 a10": {
+   "ms_mediana": 2.77,
+   "sobre_el_tic": 0.0,
+   "fraccion_sin_cuerpo": 0.0006,
+   "pasa": true,
+   "para": false,
+   "motivo": []
+  },
+  "d1 a11": {
+   "ms_mediana": 3.8,
+   "sobre_el_tic": 0.0001,
+   "fraccion_sin_cuerpo": 0.0,
+   "pasa": true,
+   "para": false,
+   "motivo": []
+  },
+  "d2 a10": {
+   "ms_mediana": 8.68,
+   "sobre_el_tic": 0.0461,
+   "fraccion_sin_cuerpo": 0.0004,
+   "pasa": false,
+   "para": false,
+   "motivo": [
+    "decisiones por encima del tic 4.61 % > 1 %"
+   ]
+  },
+  "d2 a11": {
+   "ms_mediana": 3.41,
+   "sobre_el_tic": 0.0,
+   "fraccion_sin_cuerpo": 0.0015,
+   "pasa": true,
+   "para": false,
+   "motivo": []
+  },
+  "d3 a10": {
+   "ms_mediana": 4.45,
+   "sobre_el_tic": 0.0001,
+   "fraccion_sin_cuerpo": 0.0017,
+   "pasa": true,
+   "para": false,
+   "motivo": []
+  },
+  "d3 a11": {
+   "ms_mediana": 1.61,
+   "sobre_el_tic": 0.0,
+   "fraccion_sin_cuerpo": 0.0014,
+   "pasa": true,
+   "para": false,
+   "motivo": []
+  }
+ },
+ "FRENO": "PASA"
+}

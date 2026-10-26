@@ -1,0 +1,6028 @@
+{
+ "reglas": {
+  "vieja": "1 + min(1, S/1,5)",
+  "nueva": "max(0.05, min(1, S/1,5))"
+ },
+ "criaturas": {
+  "s1 a10": {
+   "dias": {
+    "1": {
+     "botiquin": {
+      "vieja": {
+       "peso": 4.7703,
+       "creencia": 11.4897,
+       "ignorancia": 0.1733,
+       "recuerdos": 4
+      },
+      "nueva": {
+       "peso": 0.7704,
+       "creencia": 7.3596,
+       "ignorancia": 0.5648,
+       "recuerdos": 4
+      },
+      "pruebas_del_dia": 4,
+      "contacto_del_dia": 615
+     },
+     "racion": {
+      "vieja": {
+       "peso": 4.3553,
+       "creencia": 6.0323,
+       "ignorancia": 0.1867,
+       "recuerdos": 4
+      },
+      "nueva": {
+       "peso": 0.3932,
+       "creencia": 1.8997,
+       "ignorancia": 0.7178,
+       "recuerdos": 4
+      },
+      "pruebas_del_dia": 4,
+      "contacto_del_dia": 12583
+     },
+     "red": {
+      "vieja": {
+       "peso": 1.03,
+       "creencia": 0.0,
+       "ignorancia": 0.4926,
+       "recuerdos": 1
+      },
+      "nueva": {
+       "peso": 0.05,
+       "creencia": 0.0,
+       "ignorancia": 0.9524,
+       "recuerdos": 1
+      },
+      "pruebas_del_dia": 1,
+      "contacto_del_dia": 593
+     },
+     "camuflaje": {
+      "vieja": {
+       "peso": 1.0076,
+       "creencia": 0.0,
+       "ignorancia": 0.4981,
+       "recuerdos": 1
+      },
+      "nueva": {
+       "peso": 0.05,
+       "creencia": 0.0,
+       "ignorancia": 0.9524,
+       "recuerdos": 1
+      },
+      "pruebas_del_dia": 1,
+      "contacto_del_dia": 626
+     }
+    },
+    "2": {
+     "botiquin": {
+      "vieja": {
+       "peso": 4.5318,
+       "creencia": 11.3592,
+       "ignorancia": 0.1808,
+       "recuerdos": 4
+      },
+      "nueva": {
+       "peso": 0.7319,
+       "creencia": 7.1226,
+       "ignorancia": 0.5774,
+       "recuerdos": 4
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "racion": {
+      "vieja": {
+       "peso": 7.3042,
+       "creencia": 5.6111,
+       "ignorancia": 0.1204,
+       "recuerdos": 7
+      },
+      "nueva": {
+       "peso": 0.559,
+       "creencia": 2.2304,
+       "ignorancia": 0.6414,
+       "recuerdos": 7
+      },
+      "pruebas_del_dia": 3,
+      "contacto_del_dia": 538
+     },
+     "red": {
+      "vieja": {
+       "peso": 0.9785,
+       "creencia": 0.0,
+       "ignorancia": 0.5054,
+       "recuerdos": 1
+      },
+      "nueva": {
+       "peso": 0.0475,
+       "creencia": 0.0,
+       "ignorancia": 0.9547,
+       "recuerdos": 1
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "camuflaje": {
+      "vieja": {
+       "peso": 2.2569,
+       "creencia": 0.0,
+       "ignorancia": 0.307,
+       "recuerdos": 2
+      },
+      "nueva": {
+       "peso": 0.3472,
+       "creencia": 0.0,
+       "ignorancia": 0.7423,
+       "recuerdos": 2
+      },
+      "pruebas_del_dia": 1,
+      "contacto_del_dia": 637
+     }
+    },
+    "3": {
+     "botiquin": {
+      "vieja": {
+       "peso": 6.8148,
+       "creencia": 11.225,
+       "ignorancia": 0.128,
+       "recuerdos": 6
+      },
+      "nueva": {
+       "peso": 1.2049,
+       "creencia": 6.889,
+       "ignorancia": 0.4535,
+       "recuerdos": 6
+      },
+      "pruebas_del_dia": 2,
+      "contacto_del_dia": 615
+     },
+     "racion": {
+      "vieja": {
+       "peso": 6.939,
+       "creencia": 5.5757,
+       "ignorancia": 0.126,
+       "recuerdos": 7
+      },
+      "nueva": {
+       "peso": 0.5311,
+       "creencia": 2.1576,
+       "ignorancia": 0.6531,
+       "recuerdos": 7
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "red": {
+      "vieja": {
+       "peso": 0.9296,
+       "creencia": 0.0,
+       "ignorancia": 0.5182,
+       "recuerdos": 1
+      },
+      "nueva": {
+       "peso": 0.0451,
+       "creencia": 0.0,
+       "ignorancia": 0.9568,
+       "recuerdos": 1
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "camuflaje": {
+      "vieja": {
+       "peso": 2.1441,
+       "creencia": 0.0,
+       "ignorancia": 0.3181,
+       "recuerdos": 2
+      },
+      "nueva": {
+       "peso": 0.3298,
+       "creencia": 0.0,
+       "ignorancia": 0.752,
+       "recuerdos": 2
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     }
+    },
+    "4": {
+     "botiquin": {
+      "vieja": {
+       "peso": 9.778,
+       "creencia": 13.1768,
+       "ignorancia": 0.0928,
+       "recuerdos": 9
+      },
+      "nueva": {
+       "peso": 1.4578,
+       "creencia": 8.6882,
+       "ignorancia": 0.4069,
+       "recuerdos": 9
+      },
+      "pruebas_del_dia": 3,
+      "contacto_del_dia": 9478
+     },
+     "racion": {
+      "vieja": {
+       "peso": 7.7581,
+       "creencia": 5.8667,
+       "ignorancia": 0.1142,
+       "recuerdos": 8
+      },
+      "nueva": {
+       "peso": 0.6704,
+       "creencia": 2.6732,
+       "ignorancia": 0.5986,
+       "recuerdos": 8
+      },
+      "pruebas_del_dia": 1,
+      "contacto_del_dia": 9191
+     },
+     "red": {
+      "vieja": {
+       "peso": 0.8831,
+       "creencia": 0.0,
+       "ignorancia": 0.531,
+       "recuerdos": 1
+      },
+      "nueva": {
+       "peso": 0.0429,
+       "creencia": 0.0,
+       "ignorancia": 0.9589,
+       "recuerdos": 1
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": 12890
+     },
+     "camuflaje": {
+      "vieja": {
+       "peso": 2.0369,
+       "creencia": 0.0,
+       "ignorancia": 0.3293,
+       "recuerdos": 2
+      },
+      "nueva": {
+       "peso": 0.3133,
+       "creencia": 0.0,
+       "ignorancia": 0.7614,
+       "recuerdos": 2
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     }
+    },
+    "5": {
+     "botiquin": {
+      "vieja": {
+       "peso": 10.4588,
+       "creencia": 12.7339,
+       "ignorancia": 0.0873,
+       "recuerdos": 10
+      },
+      "nueva": {
+       "peso": 1.5547,
+       "creencia": 8.6661,
+       "ignorancia": 0.3914,
+       "recuerdos": 10
+      },
+      "pruebas_del_dia": 1,
+      "contacto_del_dia": 1000
+     },
+     "racion": {
+      "vieja": {
+       "peso": 7.3702,
+       "creencia": 5.8316,
+       "ignorancia": 0.1195,
+       "recuerdos": 8
+      },
+      "nueva": {
+       "peso": 0.6369,
+       "creencia": 2.5916,
+       "ignorancia": 0.6109,
+       "recuerdos": 8
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "red": {
+      "vieja": {
+       "peso": 1.844,
+       "creencia": 0.0,
+       "ignorancia": 0.3516,
+       "recuerdos": 2
+      },
+      "nueva": {
+       "peso": 0.0907,
+       "creencia": 0.0,
+       "ignorancia": 0.9168,
+       "recuerdos": 2
+      },
+      "pruebas_del_dia": 1,
+      "contacto_del_dia": 593
+     },
+     "camuflaje": {
+      "vieja": {
+       "peso": 1.935,
+       "creencia": 0.0,
+       "ignorancia": 0.3407,
+       "recuerdos": 2
+      },
+      "nueva": {
+       "peso": 0.2977,
+       "creencia": 0.0,
+       "ignorancia": 0.7706,
+       "recuerdos": 2
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": 648
+     }
+    },
+    "6": {
+     "botiquin": {
+      "vieja": {
+       "peso": 9.9358,
+       "creencia": 12.642,
+       "ignorancia": 0.0914,
+       "recuerdos": 10
+      },
+      "nueva": {
+       "peso": 1.477,
+       "creencia": 8.4317,
+       "ignorancia": 0.4037,
+       "recuerdos": 10
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "racion": {
+      "vieja": {
+       "peso": 9.1234,
+       "creencia": 5.7372,
+       "ignorancia": 0.0988,
+       "recuerdos": 10
+      },
+      "nueva": {
+       "peso": 0.7268,
+       "creencia": 2.7445,
+       "ignorancia": 0.5791,
+       "recuerdos": 10
+      },
+      "pruebas_del_dia": 2,
+      "contacto_del_dia": 516
+     },
+     "red": {
+      "vieja": {
+       "peso": 2.7574,
+       "creencia": 0.0,
+       "ignorancia": 0.2661,
+       "recuerdos": 3
+      },
+      "nueva": {
+       "peso": 0.1362,
+       "creencia": 0.0,
+       "ignorancia": 0.8801,
+       "recuerdos": 3
+      },
+      "pruebas_del_dia": 1,
+      "contacto_del_dia": 593
+     },
+     "camuflaje": {
+      "vieja": {
+       "peso": 3.1162,
+       "creencia": 0.0,
+       "ignorancia": 0.2429,
+       "recuerdos": 3
+      },
+      "nueva": {
+       "peso": 0.5607,
+       "creencia": 0.0,
+       "ignorancia": 0.6407,
+       "recuerdos": 3
+      },
+      "pruebas_del_dia": 1,
+      "contacto_del_dia": 615
+     }
+    },
+    "7": {
+     "botiquin": {
+      "vieja": {
+       "peso": 17.8588,
+       "creencia": 12.5466,
+       "ignorancia": 0.053,
+       "recuerdos": 17
+      },
+      "nueva": {
+       "peso": 2.8591,
+       "creencia": 8.1983,
+       "ignorancia": 0.2591,
+       "recuerdos": 17
+      },
+      "pruebas_del_dia": 7,
+      "contacto_del_dia": 8606
+     },
+     "racion": {
+      "vieja": {
+       "peso": 8.6672,
+       "creencia": 5.7076,
+       "ignorancia": 0.1034,
+       "recuerdos": 10
+      },
+      "nueva": {
+       "peso": 0.6904,
+       "creencia": 2.6633,
+       "ignorancia": 0.5916,
+       "recuerdos": 10
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "red": {
+      "vieja": {
+       "peso": 2.6196,
+       "creencia": 0.0,
+       "ignorancia": 0.2763,
+       "recuerdos": 3
+      },
+      "nueva": {
+       "peso": 0.1294,
+       "creencia": 0.0,
+       "ignorancia": 0.8854,
+       "recuerdos": 3
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "camuflaje": {
+      "vieja": {
+       "peso": 2.9604,
+       "creencia": 0.0,
+       "ignorancia": 0.2525,
+       "recuerdos": 3
+      },
+      "nueva": {
+       "peso": 0.5327,
+       "creencia": 0.0,
+       "ignorancia": 0.6525,
+       "recuerdos": 3
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     }
+    },
+    "8": {
+     "botiquin": {
+      "vieja": {
+       "peso": 16.9659,
+       "creencia": 12.4478,
+       "ignorancia": 0.0557,
+       "recuerdos": 17
+      },
+      "nueva": {
+       "peso": 2.7161,
+       "creencia": 7.9662,
+       "ignorancia": 0.2691,
+       "recuerdos": 17
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "racion": {
+      "vieja": {
+       "peso": 8.2338,
+       "creencia": 5.6767,
+       "ignorancia": 0.1083,
+       "recuerdos": 10
+      },
+      "nueva": {
+       "peso": 0.6559,
+       "creencia": 2.5829,
+       "ignorancia": 0.6039,
+       "recuerdos": 10
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "red": {
+      "vieja": {
+       "peso": 2.4886,
+       "creencia": 0.0,
+       "ignorancia": 0.2866,
+       "recuerdos": 3
+      },
+      "nueva": {
+       "peso": 0.1229,
+       "creencia": 0.0,
+       "ignorancia": 0.8905,
+       "recuerdos": 3
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "camuflaje": {
+      "vieja": {
+       "peso": 2.8123,
+       "creencia": 0.0,
+       "ignorancia": 0.2623,
+       "recuerdos": 3
+      },
+      "nueva": {
+       "peso": 0.506,
+       "creencia": 0.0,
+       "ignorancia": 0.664,
+       "recuerdos": 3
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     }
+    },
+    "9": {
+     "botiquin": {
+      "vieja": {
+       "peso": 16.1176,
+       "creencia": 12.3454,
+       "ignorancia": 0.0584,
+       "recuerdos": 17
+      },
+      "nueva": {
+       "peso": 2.5803,
+       "creencia": 7.7356,
+       "ignorancia": 0.2793,
+       "recuerdos": 17
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "racion": {
+      "vieja": {
+       "peso": 11.4544,
+       "creencia": 3.2259,
+       "ignorancia": 0.0803,
+       "recuerdos": 13
+      },
+      "nueva": {
+       "peso": 1.2554,
+       "creencia": 0.6399,
+       "ignorancia": 0.4434,
+       "recuerdos": 13
+      },
+      "pruebas_del_dia": 3,
+      "contacto_del_dia": 494
+     },
+     "red": {
+      "vieja": {
+       "peso": 3.6509,
+       "creencia": 0.0,
+       "ignorancia": 0.215,
+       "recuerdos": 4
+      },
+      "nueva": {
+       "peso": 0.4035,
+       "creencia": 0.0,
+       "ignorancia": 0.7125,
+       "recuerdos": 4
+      },
+      "pruebas_del_dia": 1,
+      "contacto_del_dia": 11691
+     },
+     "camuflaje": {
+      "vieja": {
+       "peso": 4.069,
+       "creencia": 0.0,
+       "ignorancia": 0.1973,
+       "recuerdos": 4
+      },
+      "nueva": {
+       "peso": 0.878,
+       "creencia": 0.0,
+       "ignorancia": 0.5325,
+       "recuerdos": 4
+      },
+      "pruebas_del_dia": 1,
+      "contacto_del_dia": 604
+     }
+    },
+    "10": {
+     "botiquin": {
+      "vieja": {
+       "peso": 19.7919,
+       "creencia": 11.0034,
+       "ignorancia": 0.0481,
+       "recuerdos": 21
+      },
+      "nueva": {
+       "peso": 2.944,
+       "creencia": 7.891,
+       "ignorancia": 0.2536,
+       "recuerdos": 21
+      },
+      "pruebas_del_dia": 4,
+      "contacto_del_dia": 595
+     },
+     "racion": {
+      "vieja": {
+       "peso": 17.6223,
+       "creencia": 5.7142,
+       "ignorancia": 0.0537,
+       "recuerdos": 19
+      },
+      "nueva": {
+       "peso": 1.9332,
+       "creencia": 2.8688,
+       "ignorancia": 0.3409,
+       "recuerdos": 19
+      },
+      "pruebas_del_dia": 6,
+      "contacto_del_dia": 2259
+     },
+     "red": {
+      "vieja": {
+       "peso": 3.4683,
+       "creencia": 0.0,
+       "ignorancia": 0.2238,
+       "recuerdos": 4
+      },
+      "nueva": {
+       "peso": 0.3833,
+       "creencia": 0.0,
+       "ignorancia": 0.7229,
+       "recuerdos": 4
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "camuflaje": {
+      "vieja": {
+       "peso": 3.8656,
+       "creencia": 0.0,
+       "ignorancia": 0.2055,
+       "recuerdos": 4
+      },
+      "nueva": {
+       "peso": 0.8341,
+       "creencia": 0.0,
+       "ignorancia": 0.5452,
+       "recuerdos": 4
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     }
+    },
+    "11": {
+     "botiquin": {
+      "vieja": {
+       "peso": 23.7234,
+       "creencia": 27.9978,
+       "ignorancia": 0.0404,
+       "recuerdos": 25
+      },
+      "nueva": {
+       "peso": 3.7179,
+       "creencia": 15.1945,
+       "ignorancia": 0.212,
+       "recuerdos": 25
+      },
+      "pruebas_del_dia": 4,
+      "contacto_del_dia": 593
+     },
+     "racion": {
+      "vieja": {
+       "peso": 16.7412,
+       "creencia": 5.697,
+       "ignorancia": 0.0564,
+       "recuerdos": 19
+      },
+      "nueva": {
+       "peso": 1.8366,
+       "creencia": 2.8152,
+       "ignorancia": 0.3525,
+       "recuerdos": 19
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": 494
+     },
+     "red": {
+      "vieja": {
+       "peso": 3.2949,
+       "creencia": 0.0,
+       "ignorancia": 0.2328,
+       "recuerdos": 4
+      },
+      "nueva": {
+       "peso": 0.3641,
+       "creencia": 0.0,
+       "ignorancia": 0.7331,
+       "recuerdos": 4
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "camuflaje": {
+      "vieja": {
+       "peso": 3.6723,
+       "creencia": 0.0,
+       "ignorancia": 0.214,
+       "recuerdos": 4
+      },
+      "nueva": {
+       "peso": 0.7924,
+       "creencia": 0.0,
+       "ignorancia": 0.5579,
+       "recuerdos": 4
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     }
+    },
+    "12": {
+     "botiquin": {
+      "vieja": {
+       "peso": 31.9267,
+       "creencia": 37.0385,
+       "ignorancia": 0.0304,
+       "recuerdos": 32
+      },
+      "nueva": {
+       "peso": 5.9288,
+       "creencia": 24.8127,
+       "ignorancia": 0.1443,
+       "recuerdos": 32
+      },
+      "pruebas_del_dia": 7,
+      "contacto_del_dia": 8166
+     },
+     "racion": {
+      "vieja": {
+       "peso": 20.3642,
+       "creencia": 8.4605,
+       "ignorancia": 0.0468,
+       "recuerdos": 23
+      },
+      "nueva": {
+       "peso": 2.2049,
+       "creencia": 4.4833,
+       "ignorancia": 0.312,
+       "recuerdos": 23
+      },
+      "pruebas_del_dia": 4,
+      "contacto_del_dia": 12613
+     },
+     "red": {
+      "vieja": {
+       "peso": 3.1302,
+       "creencia": 0.0,
+       "ignorancia": 0.2421,
+       "recuerdos": 4
+      },
+      "nueva": {
+       "peso": 0.3459,
+       "creencia": 0.0,
+       "ignorancia": 0.743,
+       "recuerdos": 4
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "camuflaje": {
+      "vieja": {
+       "peso": 3.4887,
+       "creencia": 0.0,
+       "ignorancia": 0.2228,
+       "recuerdos": 4
+      },
+      "nueva": {
+       "peso": 0.7528,
+       "creencia": 0.0,
+       "ignorancia": 0.5705,
+       "recuerdos": 4
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     }
+    },
+    "13": {
+     "botiquin": {
+      "vieja": {
+       "peso": 33.1425,
+       "creencia": 36.5399,
+       "ignorancia": 0.0293,
+       "recuerdos": 34
+      },
+      "nueva": {
+       "peso": 6.4445,
+       "creencia": 24.3412,
+       "ignorancia": 0.1343,
+       "recuerdos": 34
+      },
+      "pruebas_del_dia": 2,
+      "contacto_del_dia": 11901
+     },
+     "racion": {
+      "vieja": {
+       "peso": 19.346,
+       "creencia": 8.4287,
+       "ignorancia": 0.0491,
+       "recuerdos": 23
+      },
+      "nueva": {
+       "peso": 2.0947,
+       "creencia": 4.3062,
+       "ignorancia": 0.3231,
+       "recuerdos": 23
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "red": {
+      "vieja": {
+       "peso": 4.0595,
+       "creencia": 0.0,
+       "ignorancia": 0.1976,
+       "recuerdos": 5
+      },
+      "nueva": {
+       "peso": 0.4145,
+       "creencia": 0.0,
+       "ignorancia": 0.707,
+       "recuerdos": 5
+      },
+      "pruebas_del_dia": 1,
+      "contacto_del_dia": 604
+     },
+     "camuflaje": {
+      "vieja": {
+       "peso": 4.3975,
+       "creencia": 0.0,
+       "ignorancia": 0.1853,
+       "recuerdos": 5
+      },
+      "nueva": {
+       "peso": 0.7984,
+       "creencia": 0.0,
+       "ignorancia": 0.5561,
+       "recuerdos": 5
+      },
+      "pruebas_del_dia": 1,
+      "contacto_del_dia": 648
+     }
+    },
+    "14": {
+     "botiquin": {
+      "vieja": {
+       "peso": 31.4854,
+       "creencia": 36.0295,
+       "ignorancia": 0.0308,
+       "recuerdos": 34
+      },
+      "nueva": {
+       "peso": 6.1222,
+       "creencia": 23.8638,
+       "ignorancia": 0.1404,
+       "recuerdos": 34
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "racion": {
+      "vieja": {
+       "peso": 18.3787,
+       "creencia": 8.3955,
+       "ignorancia": 0.0516,
+       "recuerdos": 23
+      },
+      "nueva": {
+       "peso": 1.99,
+       "creencia": 4.2307,
+       "ignorancia": 0.3345,
+       "recuerdos": 23
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "red": {
+      "vieja": {
+       "peso": 5.1441,
+       "creencia": 0.0,
+       "ignorancia": 0.1628,
+       "recuerdos": 6
+      },
+      "nueva": {
+       "peso": 0.6813,
+       "creencia": 0.0,
+       "ignorancia": 0.5948,
+       "recuerdos": 6
+      },
+      "pruebas_del_dia": 1,
+      "contacto_del_dia": 604
+     },
+     "camuflaje": {
+      "vieja": {
+       "peso": 5.2599,
+       "creencia": 0.0,
+       "ignorancia": 0.1597,
+       "recuerdos": 6
+      },
+      "nueva": {
+       "peso": 0.8407,
+       "creencia": 0.0,
+       "ignorancia": 0.5433,
+       "recuerdos": 6
+      },
+      "pruebas_del_dia": 1,
+      "contacto_del_dia": 615
+     }
+    },
+    "15": {
+     "botiquin": {
+      "vieja": {
+       "peso": 35.5079,
+       "creencia": 35.5073,
+       "ignorancia": 0.0274,
+       "recuerdos": 39
+      },
+      "nueva": {
+       "peso": 6.4128,
+       "creencia": 23.3811,
+       "ignorancia": 0.1349,
+       "recuerdos": 39
+      },
+      "pruebas_del_dia": 5,
+      "contacto_del_dia": 648
+     },
+     "racion": {
+      "vieja": {
+       "peso": 17.4598,
+       "creencia": 8.3609,
+       "ignorancia": 0.0542,
+       "recuerdos": 23
+      },
+      "nueva": {
+       "peso": 1.8905,
+       "creencia": 4.154,
+       "ignorancia": 0.346,
+       "recuerdos": 23
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "red": {
+      "vieja": {
+       "peso": 5.887,
+       "creencia": 0.0,
+       "ignorancia": 0.1452,
+       "recuerdos": 7
+      },
+      "nueva": {
+       "peso": 0.6972,
+       "creencia": 0.0,
+       "ignorancia": 0.5892,
+       "recuerdos": 7
+      },
+      "pruebas_del_dia": 1,
+      "contacto_del_dia": 715
+     },
+     "camuflaje": {
+      "vieja": {
+       "peso": 4.9969,
+       "creencia": 0.0,
+       "ignorancia": 0.1668,
+       "recuerdos": 6
+      },
+      "nueva": {
+       "peso": 0.7987,
+       "creencia": 0.0,
+       "ignorancia": 0.556,
+       "recuerdos": 6
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     }
+    },
+    "16": {
+     "botiquin": {
+      "vieja": {
+       "peso": 36.7074,
+       "creencia": 40.0389,
+       "ignorancia": 0.0265,
+       "recuerdos": 41
+      },
+      "nueva": {
+       "peso": 7.0671,
+       "creencia": 29.6508,
+       "ignorancia": 0.124,
+       "recuerdos": 41
+      },
+      "pruebas_del_dia": 2,
+      "contacto_del_dia": 659
+     },
+     "racion": {
+      "vieja": {
+       "peso": 22.232,
+       "creencia": 11.0154,
+       "ignorancia": 0.043,
+       "recuerdos": 28
+      },
+      "nueva": {
+       "peso": 2.4411,
+       "creencia": 6.4533,
+       "ignorancia": 0.2906,
+       "recuerdos": 28
+      },
+      "pruebas_del_dia": 5,
+      "contacto_del_dia": 582
+     },
+     "red": {
+      "vieja": {
+       "peso": 7.6685,
+       "creencia": 0.0,
+       "ignorancia": 0.1154,
+       "recuerdos": 9
+      },
+      "nueva": {
+       "peso": 0.7882,
+       "creencia": 0.0,
+       "ignorancia": 0.5592,
+       "recuerdos": 9
+      },
+      "pruebas_del_dia": 2,
+      "contacto_del_dia": 725
+     },
+     "camuflaje": {
+      "vieja": {
+       "peso": 5.8418,
+       "creencia": 0.0,
+       "ignorancia": 0.1462,
+       "recuerdos": 7
+      },
+      "nueva": {
+       "peso": 0.8537,
+       "creencia": 0.0,
+       "ignorancia": 0.5395,
+       "recuerdos": 7
+      },
+      "pruebas_del_dia": 1,
+      "contacto_del_dia": 681
+     }
+    },
+    "17": {
+     "botiquin": {
+      "vieja": {
+       "peso": 34.872,
+       "creencia": 39.6234,
+       "ignorancia": 0.0279,
+       "recuerdos": 41
+      },
+      "nueva": {
+       "peso": 6.7137,
+       "creencia": 29.0599,
+       "ignorancia": 0.1296,
+       "recuerdos": 41
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": 637
+     },
+     "racion": {
+      "vieja": {
+       "peso": 22.2858,
+       "creencia": 10.9732,
+       "ignorancia": 0.0429,
+       "recuerdos": 29
+      },
+      "nueva": {
+       "peso": 2.4844,
+       "creencia": 6.3272,
+       "ignorancia": 0.287,
+       "recuerdos": 29
+      },
+      "pruebas_del_dia": 1,
+      "contacto_del_dia": 538
+     },
+     "red": {
+      "vieja": {
+       "peso": 7.2851,
+       "creencia": 0.0,
+       "ignorancia": 0.1207,
+       "recuerdos": 9
+      },
+      "nueva": {
+       "peso": 0.7488,
+       "creencia": 0.0,
+       "ignorancia": 0.5718,
+       "recuerdos": 9
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "camuflaje": {
+      "vieja": {
+       "peso": 6.8582,
+       "creencia": 0.0,
+       "ignorancia": 0.1273,
+       "recuerdos": 8
+      },
+      "nueva": {
+       "peso": 1.1195,
+       "creencia": 0.0,
+       "ignorancia": 0.4718,
+       "recuerdos": 8
+      },
+      "pruebas_del_dia": 1,
+      "contacto_del_dia": 659
+     }
+    },
+    "18": {
+     "botiquin": {
+      "vieja": {
+       "peso": 33.1284,
+       "creencia": 39.1953,
+       "ignorancia": 0.0293,
+       "recuerdos": 41
+      },
+      "nueva": {
+       "peso": 6.378,
+       "creencia": 28.4628,
+       "ignorancia": 0.1355,
+       "recuerdos": 41
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "racion": {
+      "vieja": {
+       "peso": 22.2294,
+       "creencia": 10.9291,
+       "ignorancia": 0.043,
+       "recuerdos": 30
+      },
+      "nueva": {
+       "peso": 2.4181,
+       "creencia": 6.2233,
+       "ignorancia": 0.2926,
+       "recuerdos": 30
+      },
+      "pruebas_del_dia": 1,
+      "contacto_del_dia": 2258
+     },
+     "red": {
+      "vieja": {
+       "peso": 6.9208,
+       "creencia": 0.0,
+       "ignorancia": 0.1262,
+       "recuerdos": 9
+      },
+      "nueva": {
+       "peso": 0.7113,
+       "creencia": 0.0,
+       "ignorancia": 0.5843,
+       "recuerdos": 9
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "camuflaje": {
+      "vieja": {
+       "peso": 6.5153,
+       "creencia": 0.0,
+       "ignorancia": 0.1331,
+       "recuerdos": 8
+      },
+      "nueva": {
+       "peso": 1.0635,
+       "creencia": 0.0,
+       "ignorancia": 0.4846,
+       "recuerdos": 8
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     }
+    },
+    "19": {
+     "botiquin": {
+      "vieja": {
+       "peso": 41.1141,
+       "creencia": 38.7545,
+       "ignorancia": 0.0237,
+       "recuerdos": 50
+      },
+      "nueva": {
+       "peso": 6.8149,
+       "creencia": 27.8603,
+       "ignorancia": 0.128,
+       "recuerdos": 50
+      },
+      "pruebas_del_dia": 9,
+      "contacto_del_dia": 8073
+     },
+     "racion": {
+      "vieja": {
+       "peso": 22.1358,
+       "creencia": 10.883,
+       "ignorancia": 0.0432,
+       "recuerdos": 31
+      },
+      "nueva": {
+       "peso": 2.3472,
+       "creencia": 6.1176,
+       "ignorancia": 0.2988,
+       "recuerdos": 31
+      },
+      "pruebas_del_dia": 1,
+      "contacto_del_dia": 9327
+     },
+     "red": {
+      "vieja": {
+       "peso": 6.5748,
+       "creencia": 0.0,
+       "ignorancia": 0.132,
+       "recuerdos": 9
+      },
+      "nueva": {
+       "peso": 0.6758,
+       "creencia": 0.0,
+       "ignorancia": 0.5967,
+       "recuerdos": 9
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "camuflaje": {
+      "vieja": {
+       "peso": 6.1896,
+       "creencia": 0.0,
+       "ignorancia": 0.1391,
+       "recuerdos": 8
+      },
+      "nueva": {
+       "peso": 1.0103,
+       "creencia": 0.0,
+       "ignorancia": 0.4974,
+       "recuerdos": 8
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     }
+    },
+    "20": {
+     "botiquin": {
+      "vieja": {
+       "peso": 47.4782,
+       "creencia": 38.3011,
+       "ignorancia": 0.0206,
+       "recuerdos": 55
+      },
+      "nueva": {
+       "peso": 9.8941,
+       "creencia": 27.236,
+       "ignorancia": 0.0918,
+       "recuerdos": 55
+      },
+      "pruebas_del_dia": 5,
+      "contacto_del_dia": 626
+     },
+     "racion": {
+      "vieja": {
+       "peso": 26.788,
+       "creencia": 11.2059,
+       "ignorancia": 0.036,
+       "recuerdos": 36
+      },
+      "nueva": {
+       "peso": 2.9889,
+       "creencia": 6.1744,
+       "ignorancia": 0.2507,
+       "recuerdos": 36
+      },
+      "pruebas_del_dia": 5,
+      "contacto_del_dia": 2262
+     },
+     "red": {
+      "vieja": {
+       "peso": 6.2461,
+       "creencia": 0.0,
+       "ignorancia": 0.138,
+       "recuerdos": 9
+      },
+      "nueva": {
+       "peso": 0.642,
+       "creencia": 0.0,
+       "ignorancia": 0.609,
+       "recuerdos": 9
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "camuflaje": {
+      "vieja": {
+       "peso": 8.2889,
+       "creencia": 0.0,
+       "ignorancia": 0.1077,
+       "recuerdos": 10
+      },
+      "nueva": {
+       "peso": 1.3688,
+       "creencia": 0.0,
+       "ignorancia": 0.4222,
+       "recuerdos": 10
+      },
+      "pruebas_del_dia": 2,
+      "contacto_del_dia": 648
+     }
+    }
+   },
+   "despierta": {
+    "red vieja": [
+     {
+      "prueba_dia": 1,
+      "vuelve_a_mandar_dia": 2,
+      "pasa_de_0_5_dia": 2
+     },
+     {
+      "prueba_dia": 5,
+      "vuelve_a_mandar_dia": 6,
+      "pasa_de_0_5_dia": null
+     },
+     {
+      "prueba_dia": 6,
+      "vuelve_a_mandar_dia": 7,
+      "pasa_de_0_5_dia": null
+     },
+     {
+      "prueba_dia": 9,
+      "vuelve_a_mandar_dia": 10,
+      "pasa_de_0_5_dia": null
+     },
+     {
+      "prueba_dia": 13,
+      "vuelve_a_mandar_dia": 14,
+      "pasa_de_0_5_dia": null
+     },
+     {
+      "prueba_dia": 14,
+      "vuelve_a_mandar_dia": 20,
+      "pasa_de_0_5_dia": null
+     },
+     {
+      "prueba_dia": 15,
+      "vuelve_a_mandar_dia": 20,
+      "pasa_de_0_5_dia": null
+     },
+     {
+      "prueba_dia": 16,
+      "vuelve_a_mandar_dia": 20,
+      "pasa_de_0_5_dia": null
+     }
+    ],
+    "red nueva": [
+     {
+      "prueba_dia": 1,
+      "vuelve_a_mandar_dia": 2,
+      "pasa_de_0_5_dia": 2
+     },
+     {
+      "prueba_dia": 5,
+      "vuelve_a_mandar_dia": 6,
+      "pasa_de_0_5_dia": 6
+     },
+     {
+      "prueba_dia": 6,
+      "vuelve_a_mandar_dia": 7,
+      "pasa_de_0_5_dia": 7
+     },
+     {
+      "prueba_dia": 9,
+      "vuelve_a_mandar_dia": 10,
+      "pasa_de_0_5_dia": 10
+     },
+     {
+      "prueba_dia": 13,
+      "vuelve_a_mandar_dia": 14,
+      "pasa_de_0_5_dia": 14
+     },
+     {
+      "prueba_dia": 14,
+      "vuelve_a_mandar_dia": 15,
+      "pasa_de_0_5_dia": 15
+     },
+     {
+      "prueba_dia": 15,
+      "vuelve_a_mandar_dia": 16,
+      "pasa_de_0_5_dia": 16
+     },
+     {
+      "prueba_dia": 16,
+      "vuelve_a_mandar_dia": 17,
+      "pasa_de_0_5_dia": 17
+     }
+    ],
+    "camuflaje vieja": [
+     {
+      "prueba_dia": 1,
+      "vuelve_a_mandar_dia": 15,
+      "pasa_de_0_5_dia": null
+     },
+     {
+      "prueba_dia": 2,
+      "vuelve_a_mandar_dia": 15,
+      "pasa_de_0_5_dia": null
+     },
+     {
+      "prueba_dia": 6,
+      "vuelve_a_mandar_dia": 15,
+      "pasa_de_0_5_dia": null
+     },
+     {
+      "prueba_dia": 9,
+      "vuelve_a_mandar_dia": 15,
+      "pasa_de_0_5_dia": null
+     },
+     {
+      "prueba_dia": 13,
+      "vuelve_a_mandar_dia": 15,
+      "pasa_de_0_5_dia": null
+     },
+     {
+      "prueba_dia": 14,
+      "vuelve_a_mandar_dia": 15,
+      "pasa_de_0_5_dia": null
+     },
+     {
+      "prueba_dia": 16,
+      "vuelve_a_mandar_dia": 17,
+      "pasa_de_0_5_dia": null
+     },
+     {
+      "prueba_dia": 17,
+      "vuelve_a_mandar_dia": 18,
+      "pasa_de_0_5_dia": null
+     },
+     {
+      "prueba_dia": 20,
+      "vuelve_a_mandar_dia": null,
+      "pasa_de_0_5_dia": null
+     }
+    ],
+    "camuflaje nueva": [
+     {
+      "prueba_dia": 1,
+      "vuelve_a_mandar_dia": null,
+      "pasa_de_0_5_dia": 2
+     },
+     {
+      "prueba_dia": 2,
+      "vuelve_a_mandar_dia": null,
+      "pasa_de_0_5_dia": 3
+     },
+     {
+      "prueba_dia": 6,
+      "vuelve_a_mandar_dia": null,
+      "pasa_de_0_5_dia": 7
+     },
+     {
+      "prueba_dia": 9,
+      "vuelve_a_mandar_dia": null,
+      "pasa_de_0_5_dia": 10
+     },
+     {
+      "prueba_dia": 13,
+      "vuelve_a_mandar_dia": null,
+      "pasa_de_0_5_dia": 14
+     },
+     {
+      "prueba_dia": 14,
+      "vuelve_a_mandar_dia": null,
+      "pasa_de_0_5_dia": 15
+     },
+     {
+      "prueba_dia": 16,
+      "vuelve_a_mandar_dia": null,
+      "pasa_de_0_5_dia": null
+     },
+     {
+      "prueba_dia": 17,
+      "vuelve_a_mandar_dia": null,
+      "pasa_de_0_5_dia": null
+     },
+     {
+      "prueba_dia": 20,
+      "vuelve_a_mandar_dia": null,
+      "pasa_de_0_5_dia": null
+     }
+    ]
+   },
+   "pruebas_reales": {
+    "red": [
+     1,
+     5,
+     6,
+     9,
+     13,
+     14,
+     15,
+     16
+    ],
+    "camuflaje": [
+     1,
+     2,
+     6,
+     9,
+     13,
+     14,
+     16,
+     17,
+     20
+    ]
+   }
+  },
+  "s1 a11": {
+   "dias": {
+    "1": {
+     "botiquin": {
+      "vieja": {
+       "peso": 2.3302,
+       "creencia": 11.6825,
+       "ignorancia": 0.3003,
+       "recuerdos": 2
+      },
+      "nueva": {
+       "peso": 0.3302,
+       "creencia": 2.5705,
+       "ignorancia": 0.7518,
+       "recuerdos": 2
+      },
+      "pruebas_del_dia": 2,
+      "contacto_del_dia": 9254
+     },
+     "racion": {
+      "vieja": {
+       "peso": 7.9582,
+       "creencia": 3.0236,
+       "ignorancia": 0.1116,
+       "recuerdos": 7
+      },
+      "nueva": {
+       "peso": 0.9975,
+       "creencia": 0.538,
+       "ignorancia": 0.5006,
+       "recuerdos": 7
+      },
+      "pruebas_del_dia": 7,
+      "contacto_del_dia": 2276
+     },
+     "red": {
+      "vieja": {
+       "peso": 0,
+       "creencia": null,
+       "ignorancia": 1.0,
+       "recuerdos": 0
+      },
+      "nueva": {
+       "peso": 0,
+       "creencia": null,
+       "ignorancia": 1.0,
+       "recuerdos": 0
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "camuflaje": {
+      "vieja": {
+       "peso": 0,
+       "creencia": null,
+       "ignorancia": 1.0,
+       "recuerdos": 0
+      },
+      "nueva": {
+       "peso": 0,
+       "creencia": null,
+       "ignorancia": 1.0,
+       "recuerdos": 0
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     }
+    },
+    "2": {
+     "botiquin": {
+      "vieja": {
+       "peso": 4.4047,
+       "creencia": 11.2225,
+       "ignorancia": 0.185,
+       "recuerdos": 4
+      },
+      "nueva": {
+       "peso": 0.5047,
+       "creencia": 3.7846,
+       "ignorancia": 0.6646,
+       "recuerdos": 4
+      },
+      "pruebas_del_dia": 2,
+      "contacto_del_dia": 681
+     },
+     "racion": {
+      "vieja": {
+       "peso": 10.7735,
+       "creencia": 7.8575,
+       "ignorancia": 0.0849,
+       "recuerdos": 10
+      },
+      "nueva": {
+       "peso": 1.1702,
+       "creencia": 1.7931,
+       "ignorancia": 0.4608,
+       "recuerdos": 10
+      },
+      "pruebas_del_dia": 3,
+      "contacto_del_dia": 527
+     },
+     "red": {
+      "vieja": {
+       "peso": 1.6031,
+       "creencia": 0.0,
+       "ignorancia": 0.3842,
+       "recuerdos": 1
+      },
+      "nueva": {
+       "peso": 0.6031,
+       "creencia": 0.0,
+       "ignorancia": 0.6238,
+       "recuerdos": 1
+      },
+      "pruebas_del_dia": 1,
+      "contacto_del_dia": 626
+     },
+     "camuflaje": {
+      "vieja": {
+       "peso": 0,
+       "creencia": null,
+       "ignorancia": 1.0,
+       "recuerdos": 0
+      },
+      "nueva": {
+       "peso": 0,
+       "creencia": null,
+       "ignorancia": 1.0,
+       "recuerdos": 0
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     }
+    },
+    "3": {
+     "botiquin": {
+      "vieja": {
+       "peso": 4.1845,
+       "creencia": 11.0858,
+       "ignorancia": 0.1929,
+       "recuerdos": 4
+      },
+      "nueva": {
+       "peso": 0.4795,
+       "creencia": 3.6391,
+       "ignorancia": 0.6759,
+       "recuerdos": 4
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": 989
+     },
+     "racion": {
+      "vieja": {
+       "peso": 13.3759,
+       "creencia": 9.1654,
+       "ignorancia": 0.0696,
+       "recuerdos": 13
+      },
+      "nueva": {
+       "peso": 1.2939,
+       "creencia": 2.4389,
+       "ignorancia": 0.4359,
+       "recuerdos": 13
+      },
+      "pruebas_del_dia": 3,
+      "contacto_del_dia": 4980
+     },
+     "red": {
+      "vieja": {
+       "peso": 2.5277,
+       "creencia": 0.0,
+       "ignorancia": 0.2835,
+       "recuerdos": 2
+      },
+      "nueva": {
+       "peso": 0.6229,
+       "creencia": 0.0,
+       "ignorancia": 0.6162,
+       "recuerdos": 2
+      },
+      "pruebas_del_dia": 1,
+      "contacto_del_dia": 1066
+     },
+     "camuflaje": {
+      "vieja": {
+       "peso": 1.1021,
+       "creencia": 0.0,
+       "ignorancia": 0.4757,
+       "recuerdos": 1
+      },
+      "nueva": {
+       "peso": 0.1021,
+       "creencia": 0.0,
+       "ignorancia": 0.9074,
+       "recuerdos": 1
+      },
+      "pruebas_del_dia": 1,
+      "contacto_del_dia": 692
+     }
+    },
+    "4": {
+     "botiquin": {
+      "vieja": {
+       "peso": 3.9752,
+       "creencia": 10.9454,
+       "ignorancia": 0.201,
+       "recuerdos": 4
+      },
+      "nueva": {
+       "peso": 0.4555,
+       "creencia": 3.4976,
+       "ignorancia": 0.6871,
+       "recuerdos": 4
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": 9058
+     },
+     "racion": {
+      "vieja": {
+       "peso": 12.7071,
+       "creencia": 9.0137,
+       "ignorancia": 0.073,
+       "recuerdos": 13
+      },
+      "nueva": {
+       "peso": 1.2292,
+       "creencia": 2.3555,
+       "ignorancia": 0.4486,
+       "recuerdos": 13
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": 2266
+     },
+     "red": {
+      "vieja": {
+       "peso": 3.7673,
+       "creencia": 0.0,
+       "ignorancia": 0.2098,
+       "recuerdos": 3
+      },
+      "nueva": {
+       "peso": 0.9577,
+       "creencia": 0.0,
+       "ignorancia": 0.5108,
+       "recuerdos": 3
+      },
+      "pruebas_del_dia": 1,
+      "contacto_del_dia": 10600
+     },
+     "camuflaje": {
+      "vieja": {
+       "peso": 1.047,
+       "creencia": 0.0,
+       "ignorancia": 0.4885,
+       "recuerdos": 1
+      },
+      "nueva": {
+       "peso": 0.097,
+       "creencia": 0.0,
+       "ignorancia": 0.9116,
+       "recuerdos": 1
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     }
+    },
+    "5": {
+     "botiquin": {
+      "vieja": {
+       "peso": 5.0838,
+       "creencia": 15.7149,
+       "ignorancia": 0.1644,
+       "recuerdos": 5
+      },
+      "nueva": {
+       "peso": 0.74,
+       "creencia": 8.5452,
+       "ignorancia": 0.5747,
+       "recuerdos": 5
+      },
+      "pruebas_del_dia": 1,
+      "contacto_del_dia": 8104
+     },
+     "racion": {
+      "vieja": {
+       "peso": 12.0718,
+       "creencia": 8.8593,
+       "ignorancia": 0.0765,
+       "recuerdos": 13
+      },
+      "nueva": {
+       "peso": 1.1678,
+       "creencia": 2.2736,
+       "ignorancia": 0.4613,
+       "recuerdos": 13
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "red": {
+      "vieja": {
+       "peso": 3.5789,
+       "creencia": 0.0,
+       "ignorancia": 0.2184,
+       "recuerdos": 3
+      },
+      "nueva": {
+       "peso": 0.9098,
+       "creencia": 0.0,
+       "ignorancia": 0.5236,
+       "recuerdos": 3
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "camuflaje": {
+      "vieja": {
+       "peso": 0.9946,
+       "creencia": 0.0,
+       "ignorancia": 0.5013,
+       "recuerdos": 1
+      },
+      "nueva": {
+       "peso": 0.0921,
+       "creencia": 0.0,
+       "ignorancia": 0.9156,
+       "recuerdos": 1
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     }
+    },
+    "6": {
+     "botiquin": {
+      "vieja": {
+       "peso": 4.8296,
+       "creencia": 15.5546,
+       "ignorancia": 0.1715,
+       "recuerdos": 5
+      },
+      "nueva": {
+       "peso": 0.703,
+       "creencia": 8.2696,
+       "ignorancia": 0.5872,
+       "recuerdos": 5
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "racion": {
+      "vieja": {
+       "peso": 12.5382,
+       "creencia": 10.433,
+       "ignorancia": 0.0739,
+       "recuerdos": 14
+      },
+      "nueva": {
+       "peso": 1.1794,
+       "creencia": 2.7964,
+       "ignorancia": 0.4588,
+       "recuerdos": 14
+      },
+      "pruebas_del_dia": 1,
+      "contacto_del_dia": 517
+     },
+     "red": {
+      "vieja": {
+       "peso": 3.4,
+       "creencia": 0.0,
+       "ignorancia": 0.2273,
+       "recuerdos": 3
+      },
+      "nueva": {
+       "peso": 0.8643,
+       "creencia": 0.0,
+       "ignorancia": 0.5364,
+       "recuerdos": 3
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "camuflaje": {
+      "vieja": {
+       "peso": 0.9449,
+       "creencia": 0.0,
+       "ignorancia": 0.5142,
+       "recuerdos": 1
+      },
+      "nueva": {
+       "peso": 0.0875,
+       "creencia": 0.0,
+       "ignorancia": 0.9195,
+       "recuerdos": 1
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     }
+    },
+    "7": {
+     "botiquin": {
+      "vieja": {
+       "peso": 8.7988,
+       "creencia": 33.3333,
+       "ignorancia": 0.1021,
+       "recuerdos": 8
+      },
+      "nueva": {
+       "peso": 1.8787,
+       "creencia": 25.6089,
+       "ignorancia": 0.3474,
+       "recuerdos": 8
+      },
+      "pruebas_del_dia": 3,
+      "contacto_del_dia": 11590
+     },
+     "racion": {
+      "vieja": {
+       "peso": 13.0244,
+       "creencia": 11.3712,
+       "ignorancia": 0.0713,
+       "recuerdos": 15
+      },
+      "nueva": {
+       "peso": 1.2335,
+       "creencia": 3.6562,
+       "ignorancia": 0.4477,
+       "recuerdos": 15
+      },
+      "pruebas_del_dia": 1,
+      "contacto_del_dia": 8029
+     },
+     "red": {
+      "vieja": {
+       "peso": 3.23,
+       "creencia": 0.0,
+       "ignorancia": 0.2364,
+       "recuerdos": 3
+      },
+      "nueva": {
+       "peso": 0.8211,
+       "creencia": 0.0,
+       "ignorancia": 0.5491,
+       "recuerdos": 3
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "camuflaje": {
+      "vieja": {
+       "peso": 0.8977,
+       "creencia": 0.0,
+       "ignorancia": 0.527,
+       "recuerdos": 1
+      },
+      "nueva": {
+       "peso": 0.0832,
+       "creencia": 0.0,
+       "ignorancia": 0.9232,
+       "recuerdos": 1
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     }
+    },
+    "8": {
+     "botiquin": {
+      "vieja": {
+       "peso": 11.2747,
+       "creencia": 32.7586,
+       "ignorancia": 0.0815,
+       "recuerdos": 10
+      },
+      "nueva": {
+       "peso": 2.7005,
+       "creencia": 25.0304,
+       "ignorancia": 0.2702,
+       "recuerdos": 10
+      },
+      "pruebas_del_dia": 2,
+      "contacto_del_dia": 934
+     },
+     "racion": {
+      "vieja": {
+       "peso": 12.3731,
+       "creencia": 11.2494,
+       "ignorancia": 0.0748,
+       "recuerdos": 15
+      },
+      "nueva": {
+       "peso": 1.1718,
+       "creencia": 3.4679,
+       "ignorancia": 0.4604,
+       "recuerdos": 15
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "red": {
+      "vieja": {
+       "peso": 3.0685,
+       "creencia": 0.0,
+       "ignorancia": 0.2458,
+       "recuerdos": 3
+      },
+      "nueva": {
+       "peso": 0.7801,
+       "creencia": 0.0,
+       "ignorancia": 0.5618,
+       "recuerdos": 3
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "camuflaje": {
+      "vieja": {
+       "peso": 1.9637,
+       "creencia": 0.0,
+       "ignorancia": 0.3374,
+       "recuerdos": 2
+      },
+      "nueva": {
+       "peso": 0.1899,
+       "creencia": 0.0,
+       "ignorancia": 0.8404,
+       "recuerdos": 2
+      },
+      "pruebas_del_dia": 1,
+      "contacto_del_dia": 901
+     }
+    },
+    "9": {
+     "botiquin": {
+      "vieja": {
+       "peso": 13.3571,
+       "creencia": 32.1747,
+       "ignorancia": 0.0697,
+       "recuerdos": 12
+      },
+      "nueva": {
+       "peso": 3.2117,
+       "creencia": 24.4491,
+       "ignorancia": 0.2374,
+       "recuerdos": 12
+      },
+      "pruebas_del_dia": 2,
+      "contacto_del_dia": 12013
+     },
+     "racion": {
+      "vieja": {
+       "peso": 12.7862,
+       "creencia": 11.124,
+       "ignorancia": 0.0725,
+       "recuerdos": 16
+      },
+      "nueva": {
+       "peso": 1.1632,
+       "creencia": 3.3538,
+       "ignorancia": 0.4623,
+       "recuerdos": 16
+      },
+      "pruebas_del_dia": 1,
+      "contacto_del_dia": 14115
+     },
+     "red": {
+      "vieja": {
+       "peso": 2.915,
+       "creencia": 0.0,
+       "ignorancia": 0.2554,
+       "recuerdos": 3
+      },
+      "nueva": {
+       "peso": 0.741,
+       "creencia": 0.0,
+       "ignorancia": 0.5744,
+       "recuerdos": 3
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "camuflaje": {
+      "vieja": {
+       "peso": 1.8655,
+       "creencia": 0.0,
+       "ignorancia": 0.349,
+       "recuerdos": 2
+      },
+      "nueva": {
+       "peso": 0.1804,
+       "creencia": 0.0,
+       "ignorancia": 0.8472,
+       "recuerdos": 2
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     }
+    },
+    "10": {
+     "botiquin": {
+      "vieja": {
+       "peso": 13.8896,
+       "creencia": 31.5821,
+       "ignorancia": 0.0672,
+       "recuerdos": 13
+      },
+      "nueva": {
+       "peso": 3.2514,
+       "creencia": 23.8656,
+       "ignorancia": 0.2352,
+       "recuerdos": 13
+      },
+      "pruebas_del_dia": 1,
+      "contacto_del_dia": 10277
+     },
+     "racion": {
+      "vieja": {
+       "peso": 18.1375,
+       "creencia": 13.0981,
+       "ignorancia": 0.0523,
+       "recuerdos": 21
+      },
+      "nueva": {
+       "peso": 2.0955,
+       "creencia": 8.0246,
+       "ignorancia": 0.3231,
+       "recuerdos": 21
+      },
+      "pruebas_del_dia": 5,
+      "contacto_del_dia": 12917
+     },
+     "red": {
+      "vieja": {
+       "peso": 2.7693,
+       "creencia": 0.0,
+       "ignorancia": 0.2653,
+       "recuerdos": 3
+      },
+      "nueva": {
+       "peso": 0.704,
+       "creencia": 0.0,
+       "ignorancia": 0.5869,
+       "recuerdos": 3
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "camuflaje": {
+      "vieja": {
+       "peso": 2.7828,
+       "creencia": 0.0,
+       "ignorancia": 0.2644,
+       "recuerdos": 3
+      },
+      "nueva": {
+       "peso": 0.2214,
+       "creencia": 0.0,
+       "ignorancia": 0.8187,
+       "recuerdos": 3
+      },
+      "pruebas_del_dia": 1,
+      "contacto_del_dia": 10389
+     }
+    },
+    "11": {
+     "botiquin": {
+      "vieja": {
+       "peso": 13.1951,
+       "creencia": 30.9815,
+       "ignorancia": 0.0704,
+       "recuerdos": 13
+      },
+      "nueva": {
+       "peso": 3.0888,
+       "creencia": 23.2808,
+       "ignorancia": 0.2446,
+       "recuerdos": 13
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "racion": {
+      "vieja": {
+       "peso": 18.4214,
+       "creencia": 13.0172,
+       "ignorancia": 0.0515,
+       "recuerdos": 22
+      },
+      "nueva": {
+       "peso": 2.1815,
+       "creencia": 7.8497,
+       "ignorancia": 0.3143,
+       "recuerdos": 22
+      },
+      "pruebas_del_dia": 2,
+      "contacto_del_dia": 527
+     },
+     "red": {
+      "vieja": {
+       "peso": 3.6353,
+       "creencia": 0.0,
+       "ignorancia": 0.2157,
+       "recuerdos": 4
+      },
+      "nueva": {
+       "peso": 0.7188,
+       "creencia": 0.0,
+       "ignorancia": 0.5818,
+       "recuerdos": 4
+      },
+      "pruebas_del_dia": 1,
+      "contacto_del_dia": 604
+     },
+     "camuflaje": {
+      "vieja": {
+       "peso": 3.6448,
+       "creencia": 0.0,
+       "ignorancia": 0.2153,
+       "recuerdos": 4
+      },
+      "nueva": {
+       "peso": 0.2603,
+       "creencia": 0.0,
+       "ignorancia": 0.7935,
+       "recuerdos": 4
+      },
+      "pruebas_del_dia": 1,
+      "contacto_del_dia": 626
+     }
+    },
+    "12": {
+     "botiquin": {
+      "vieja": {
+       "peso": 15.8502,
+       "creencia": 37.9162,
+       "ignorancia": 0.0593,
+       "recuerdos": 15
+      },
+      "nueva": {
+       "peso": 4.2492,
+       "creencia": 28.9442,
+       "ignorancia": 0.1905,
+       "recuerdos": 15
+      },
+      "pruebas_del_dia": 2,
+      "contacto_del_dia": 604
+     },
+     "racion": {
+      "vieja": {
+       "peso": 20.0869,
+       "creencia": 13.4508,
+       "ignorancia": 0.0474,
+       "recuerdos": 24
+      },
+      "nueva": {
+       "peso": 2.6591,
+       "creencia": 9.2685,
+       "ignorancia": 0.2733,
+       "recuerdos": 24
+      },
+      "pruebas_del_dia": 2,
+      "contacto_del_dia": 2595
+     },
+     "red": {
+      "vieja": {
+       "peso": 3.4536,
+       "creencia": 0.0,
+       "ignorancia": 0.2245,
+       "recuerdos": 4
+      },
+      "nueva": {
+       "peso": 0.6829,
+       "creencia": 0.0,
+       "ignorancia": 0.5942,
+       "recuerdos": 4
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "camuflaje": {
+      "vieja": {
+       "peso": 3.4625,
+       "creencia": 0.0,
+       "ignorancia": 0.2241,
+       "recuerdos": 4
+      },
+      "nueva": {
+       "peso": 0.2473,
+       "creencia": 0.0,
+       "ignorancia": 0.8017,
+       "recuerdos": 4
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     }
+    },
+    "13": {
+     "botiquin": {
+      "vieja": {
+       "peso": 17.4108,
+       "creencia": 37.4399,
+       "ignorancia": 0.0543,
+       "recuerdos": 17
+      },
+      "nueva": {
+       "peso": 4.3899,
+       "creencia": 28.3652,
+       "ignorancia": 0.1855,
+       "recuerdos": 17
+      },
+      "pruebas_del_dia": 2,
+      "contacto_del_dia": 1829
+     },
+     "racion": {
+      "vieja": {
+       "peso": 20.1398,
+       "creencia": 13.3826,
+       "ignorancia": 0.0473,
+       "recuerdos": 25
+      },
+      "nueva": {
+       "peso": 2.5833,
+       "creencia": 9.0888,
+       "ignorancia": 0.2791,
+       "recuerdos": 25
+      },
+      "pruebas_del_dia": 1,
+      "contacto_del_dia": 2276
+     },
+     "red": {
+      "vieja": {
+       "peso": 4.3616,
+       "creencia": 0.0,
+       "ignorancia": 0.1865,
+       "recuerdos": 5
+      },
+      "nueva": {
+       "peso": 0.7294,
+       "creencia": 0.0,
+       "ignorancia": 0.5782,
+       "recuerdos": 5
+      },
+      "pruebas_del_dia": 1,
+      "contacto_del_dia": 527
+     },
+     "camuflaje": {
+      "vieja": {
+       "peso": 3.2894,
+       "creencia": 0.0,
+       "ignorancia": 0.2331,
+       "recuerdos": 4
+      },
+      "nueva": {
+       "peso": 0.2349,
+       "creencia": 0.0,
+       "ignorancia": 0.8098,
+       "recuerdos": 4
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     }
+    },
+    "14": {
+     "botiquin": {
+      "vieja": {
+       "peso": 18.108,
+       "creencia": 36.9514,
+       "ignorancia": 0.0523,
+       "recuerdos": 18
+      },
+      "nueva": {
+       "peso": 4.7381,
+       "creencia": 27.7803,
+       "ignorancia": 0.1743,
+       "recuerdos": 18
+      },
+      "pruebas_del_dia": 1,
+      "contacto_del_dia": 8133
+     },
+     "racion": {
+      "vieja": {
+       "peso": 19.1328,
+       "creencia": 13.3115,
+       "ignorancia": 0.0497,
+       "recuerdos": 25
+      },
+      "nueva": {
+       "peso": 2.4541,
+       "creencia": 8.9069,
+       "ignorancia": 0.2895,
+       "recuerdos": 25
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "red": {
+      "vieja": {
+       "peso": 4.1435,
+       "creencia": 0.0,
+       "ignorancia": 0.1944,
+       "recuerdos": 5
+      },
+      "nueva": {
+       "peso": 0.6929,
+       "creencia": 0.0,
+       "ignorancia": 0.5907,
+       "recuerdos": 5
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "camuflaje": {
+      "vieja": {
+       "peso": 3.1249,
+       "creencia": 0.0,
+       "ignorancia": 0.2424,
+       "recuerdos": 4
+      },
+      "nueva": {
+       "peso": 0.2232,
+       "creencia": 0.0,
+       "ignorancia": 0.8175,
+       "recuerdos": 4
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     }
+    },
+    "15": {
+     "botiquin": {
+      "vieja": {
+       "peso": 20.996,
+       "creencia": 36.4507,
+       "ignorancia": 0.0455,
+       "recuerdos": 21
+      },
+      "nueva": {
+       "peso": 5.2945,
+       "creencia": 27.19,
+       "ignorancia": 0.1589,
+       "recuerdos": 21
+      },
+      "pruebas_del_dia": 3,
+      "contacto_del_dia": 9284
+     },
+     "racion": {
+      "vieja": {
+       "peso": 21.2868,
+       "creencia": 13.2376,
+       "ignorancia": 0.0449,
+       "recuerdos": 28
+      },
+      "nueva": {
+       "peso": 2.4843,
+       "creencia": 8.7232,
+       "ignorancia": 0.287,
+       "recuerdos": 28
+      },
+      "pruebas_del_dia": 3,
+      "contacto_del_dia": 549
+     },
+     "red": {
+      "vieja": {
+       "peso": 3.9363,
+       "creencia": 0.0,
+       "ignorancia": 0.2026,
+       "recuerdos": 5
+      },
+      "nueva": {
+       "peso": 0.6583,
+       "creencia": 0.0,
+       "ignorancia": 0.603,
+       "recuerdos": 5
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "camuflaje": {
+      "vieja": {
+       "peso": 3.9688,
+       "creencia": 0.0,
+       "ignorancia": 0.2013,
+       "recuerdos": 5
+      },
+      "nueva": {
+       "peso": 0.262,
+       "creencia": 0.0,
+       "ignorancia": 0.7924,
+       "recuerdos": 5
+      },
+      "pruebas_del_dia": 1,
+      "contacto_del_dia": 648
+     }
+    },
+    "16": {
+     "botiquin": {
+      "vieja": {
+       "peso": 19.9462,
+       "creencia": 35.9382,
+       "ignorancia": 0.0477,
+       "recuerdos": 21
+      },
+      "nueva": {
+       "peso": 5.0298,
+       "creencia": 26.5952,
+       "ignorancia": 0.1658,
+       "recuerdos": 21
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": 604
+     },
+     "racion": {
+      "vieja": {
+       "peso": 21.2958,
+       "creencia": 13.2537,
+       "ignorancia": 0.0449,
+       "recuerdos": 29
+      },
+      "nueva": {
+       "peso": 2.4335,
+       "creencia": 8.7031,
+       "ignorancia": 0.2912,
+       "recuerdos": 29
+      },
+      "pruebas_del_dia": 1,
+      "contacto_del_dia": 2276
+     },
+     "red": {
+      "vieja": {
+       "peso": 3.7395,
+       "creencia": 0.0,
+       "ignorancia": 0.211,
+       "recuerdos": 5
+      },
+      "nueva": {
+       "peso": 0.6254,
+       "creencia": 0.0,
+       "ignorancia": 0.6152,
+       "recuerdos": 5
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "camuflaje": {
+      "vieja": {
+       "peso": 3.7704,
+       "creencia": 0.0,
+       "ignorancia": 0.2096,
+       "recuerdos": 5
+      },
+      "nueva": {
+       "peso": 0.2489,
+       "creencia": 0.0,
+       "ignorancia": 0.8007,
+       "recuerdos": 5
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     }
+    },
+    "17": {
+     "botiquin": {
+      "vieja": {
+       "peso": 24.8426,
+       "creencia": 35.414,
+       "ignorancia": 0.0387,
+       "recuerdos": 26
+      },
+      "nueva": {
+       "peso": 5.6827,
+       "creencia": 26.1925,
+       "ignorancia": 0.1496,
+       "recuerdos": 26
+      },
+      "pruebas_del_dia": 5,
+      "contacto_del_dia": 2764
+     },
+     "racion": {
+      "vieja": {
+       "peso": 21.3281,
+       "creencia": 13.182,
+       "ignorancia": 0.0448,
+       "recuerdos": 30
+      },
+      "nueva": {
+       "peso": 2.4089,
+       "creencia": 8.6166,
+       "ignorancia": 0.2933,
+       "recuerdos": 30
+      },
+      "pruebas_del_dia": 1,
+      "contacto_del_dia": 659
+     },
+     "red": {
+      "vieja": {
+       "peso": 4.9536,
+       "creencia": 0.0,
+       "ignorancia": 0.168,
+       "recuerdos": 6
+      },
+      "nueva": {
+       "peso": 0.9952,
+       "creencia": 0.0,
+       "ignorancia": 0.5012,
+       "recuerdos": 6
+      },
+      "pruebas_del_dia": 1,
+      "contacto_del_dia": 681
+     },
+     "camuflaje": {
+      "vieja": {
+       "peso": 3.5818,
+       "creencia": 0.0,
+       "ignorancia": 0.2183,
+       "recuerdos": 5
+      },
+      "nueva": {
+       "peso": 0.2365,
+       "creencia": 0.0,
+       "ignorancia": 0.8087,
+       "recuerdos": 5
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     }
+    },
+    "18": {
+     "botiquin": {
+      "vieja": {
+       "peso": 25.0838,
+       "creencia": 34.8785,
+       "ignorancia": 0.0383,
+       "recuerdos": 27
+      },
+      "nueva": {
+       "peso": 5.8819,
+       "creencia": 25.741,
+       "ignorancia": 0.1453,
+       "recuerdos": 27
+      },
+      "pruebas_del_dia": 1,
+      "contacto_del_dia": 8107
+     },
+     "racion": {
+      "vieja": {
+       "peso": 20.2617,
+       "creencia": 13.1073,
+       "ignorancia": 0.047,
+       "recuerdos": 30
+      },
+      "nueva": {
+       "peso": 2.2885,
+       "creencia": 8.4053,
+       "ignorancia": 0.3041,
+       "recuerdos": 30
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": 11496
+     },
+     "red": {
+      "vieja": {
+       "peso": 4.7059,
+       "creencia": 0.0,
+       "ignorancia": 0.1753,
+       "recuerdos": 6
+      },
+      "nueva": {
+       "peso": 0.9455,
+       "creencia": 0.0,
+       "ignorancia": 0.514,
+       "recuerdos": 6
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "camuflaje": {
+      "vieja": {
+       "peso": 3.4027,
+       "creencia": 0.0,
+       "ignorancia": 0.2271,
+       "recuerdos": 5
+      },
+      "nueva": {
+       "peso": 0.2247,
+       "creencia": 0.0,
+       "ignorancia": 0.8166,
+       "recuerdos": 5
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     }
+    },
+    "19": {
+     "botiquin": {
+      "vieja": {
+       "peso": 28.7886,
+       "creencia": 34.332,
+       "ignorancia": 0.0336,
+       "recuerdos": 31
+      },
+      "nueva": {
+       "peso": 6.5469,
+       "creencia": 25.2822,
+       "ignorancia": 0.1325,
+       "recuerdos": 31
+      },
+      "pruebas_del_dia": 4,
+      "contacto_del_dia": 626
+     },
+     "racion": {
+      "vieja": {
+       "peso": 19.2486,
+       "creencia": 13.0296,
+       "ignorancia": 0.0494,
+       "recuerdos": 30
+      },
+      "nueva": {
+       "peso": 2.174,
+       "creencia": 8.2358,
+       "ignorancia": 0.3151,
+       "recuerdos": 30
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "red": {
+      "vieja": {
+       "peso": 5.7072,
+       "creencia": 3.3186,
+       "ignorancia": 0.1491,
+       "recuerdos": 7
+      },
+      "nueva": {
+       "peso": 1.1348,
+       "creencia": 1.995,
+       "ignorancia": 0.4684,
+       "recuerdos": 7
+      },
+      "pruebas_del_dia": 1,
+      "contacto_del_dia": 11568
+     },
+     "camuflaje": {
+      "vieja": {
+       "peso": 4.2643,
+       "creencia": 0.0,
+       "ignorancia": 0.19,
+       "recuerdos": 6
+      },
+      "nueva": {
+       "peso": 0.2634,
+       "creencia": 0.0,
+       "ignorancia": 0.7915,
+       "recuerdos": 6
+      },
+      "pruebas_del_dia": 1,
+      "contacto_del_dia": 681
+     }
+    },
+    "20": {
+     "botiquin": {
+      "vieja": {
+       "peso": 29.4727,
+       "creencia": 33.775,
+       "ignorancia": 0.0328,
+       "recuerdos": 33
+      },
+      "nueva": {
+       "peso": 6.3431,
+       "creencia": 24.7606,
+       "ignorancia": 0.1362,
+       "recuerdos": 33
+      },
+      "pruebas_del_dia": 2,
+      "contacto_del_dia": 1851
+     },
+     "racion": {
+      "vieja": {
+       "peso": 18.2862,
+       "creencia": 12.9488,
+       "ignorancia": 0.0519,
+       "recuerdos": 30
+      },
+      "nueva": {
+       "peso": 2.0653,
+       "creencia": 8.0645,
+       "ignorancia": 0.3262,
+       "recuerdos": 30
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "red": {
+      "vieja": {
+       "peso": 5.4219,
+       "creencia": 3.2928,
+       "ignorancia": 0.1557,
+       "recuerdos": 7
+      },
+      "nueva": {
+       "peso": 1.078,
+       "creencia": 1.947,
+       "ignorancia": 0.4812,
+       "recuerdos": 7
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "camuflaje": {
+      "vieja": {
+       "peso": 4.0511,
+       "creencia": 0.0,
+       "ignorancia": 0.198,
+       "recuerdos": 6
+      },
+      "nueva": {
+       "peso": 0.2503,
+       "creencia": 0.0,
+       "ignorancia": 0.7998,
+       "recuerdos": 6
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     }
+    }
+   },
+   "despierta": {
+    "red vieja": [
+     {
+      "prueba_dia": 2,
+      "vuelve_a_mandar_dia": 10,
+      "pasa_de_0_5_dia": null
+     },
+     {
+      "prueba_dia": 3,
+      "vuelve_a_mandar_dia": 10,
+      "pasa_de_0_5_dia": null
+     },
+     {
+      "prueba_dia": 4,
+      "vuelve_a_mandar_dia": 10,
+      "pasa_de_0_5_dia": null
+     },
+     {
+      "prueba_dia": 11,
+      "vuelve_a_mandar_dia": 12,
+      "pasa_de_0_5_dia": null
+     },
+     {
+      "prueba_dia": 13,
+      "vuelve_a_mandar_dia": 15,
+      "pasa_de_0_5_dia": null
+     },
+     {
+      "prueba_dia": 17,
+      "vuelve_a_mandar_dia": null,
+      "pasa_de_0_5_dia": null
+     },
+     {
+      "prueba_dia": 19,
+      "vuelve_a_mandar_dia": null,
+      "pasa_de_0_5_dia": null
+     }
+    ],
+    "red nueva": [
+     {
+      "prueba_dia": 2,
+      "vuelve_a_mandar_dia": null,
+      "pasa_de_0_5_dia": 3
+     },
+     {
+      "prueba_dia": 3,
+      "vuelve_a_mandar_dia": null,
+      "pasa_de_0_5_dia": 4
+     },
+     {
+      "prueba_dia": 4,
+      "vuelve_a_mandar_dia": null,
+      "pasa_de_0_5_dia": 5
+     },
+     {
+      "prueba_dia": 11,
+      "vuelve_a_mandar_dia": null,
+      "pasa_de_0_5_dia": 12
+     },
+     {
+      "prueba_dia": 13,
+      "vuelve_a_mandar_dia": null,
+      "pasa_de_0_5_dia": 14
+     },
+     {
+      "prueba_dia": 17,
+      "vuelve_a_mandar_dia": null,
+      "pasa_de_0_5_dia": 18
+     },
+     {
+      "prueba_dia": 19,
+      "vuelve_a_mandar_dia": null,
+      "pasa_de_0_5_dia": null
+     }
+    ],
+    "camuflaje vieja": [
+     {
+      "prueba_dia": 3,
+      "vuelve_a_mandar_dia": 4,
+      "pasa_de_0_5_dia": 5
+     },
+     {
+      "prueba_dia": 8,
+      "vuelve_a_mandar_dia": 9,
+      "pasa_de_0_5_dia": null
+     },
+     {
+      "prueba_dia": 10,
+      "vuelve_a_mandar_dia": 13,
+      "pasa_de_0_5_dia": null
+     },
+     {
+      "prueba_dia": 11,
+      "vuelve_a_mandar_dia": 13,
+      "pasa_de_0_5_dia": null
+     },
+     {
+      "prueba_dia": 15,
+      "vuelve_a_mandar_dia": 17,
+      "pasa_de_0_5_dia": null
+     },
+     {
+      "prueba_dia": 19,
+      "vuelve_a_mandar_dia": 20,
+      "pasa_de_0_5_dia": null
+     }
+    ],
+    "camuflaje nueva": [
+     {
+      "prueba_dia": 3,
+      "vuelve_a_mandar_dia": 4,
+      "pasa_de_0_5_dia": 4
+     },
+     {
+      "prueba_dia": 8,
+      "vuelve_a_mandar_dia": 9,
+      "pasa_de_0_5_dia": 9
+     },
+     {
+      "prueba_dia": 10,
+      "vuelve_a_mandar_dia": 11,
+      "pasa_de_0_5_dia": 11
+     },
+     {
+      "prueba_dia": 11,
+      "vuelve_a_mandar_dia": 12,
+      "pasa_de_0_5_dia": 12
+     },
+     {
+      "prueba_dia": 15,
+      "vuelve_a_mandar_dia": 16,
+      "pasa_de_0_5_dia": 16
+     },
+     {
+      "prueba_dia": 19,
+      "vuelve_a_mandar_dia": 20,
+      "pasa_de_0_5_dia": 20
+     }
+    ]
+   },
+   "pruebas_reales": {
+    "red": [
+     2,
+     3,
+     4,
+     11,
+     13,
+     17,
+     19
+    ],
+    "camuflaje": [
+     3,
+     8,
+     10,
+     11,
+     15,
+     19
+    ]
+   }
+  },
+  "s2 a10": {
+   "dias": {
+    "1": {
+     "botiquin": {
+      "vieja": {
+       "peso": 1.1186,
+       "creencia": 5.8079,
+       "ignorancia": 0.472,
+       "recuerdos": 1
+      },
+      "nueva": {
+       "peso": 0.1185,
+       "creencia": 1.1654,
+       "ignorancia": 0.8941,
+       "recuerdos": 1
+      },
+      "pruebas_del_dia": 1,
+      "contacto_del_dia": 648
+     },
+     "racion": {
+      "vieja": {
+       "peso": 11.1915,
+       "creencia": 13.4408,
+       "ignorancia": 0.082,
+       "recuerdos": 10
+      },
+      "nueva": {
+       "peso": 1.1915,
+       "creencia": 7.7717,
+       "ignorancia": 0.4563,
+       "recuerdos": 10
+      },
+      "pruebas_del_dia": 10,
+      "contacto_del_dia": 2584
+     },
+     "red": {
+      "vieja": {
+       "peso": 0,
+       "creencia": null,
+       "ignorancia": 1.0,
+       "recuerdos": 0
+      },
+      "nueva": {
+       "peso": 0,
+       "creencia": null,
+       "ignorancia": 1.0,
+       "recuerdos": 0
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "camuflaje": {
+      "vieja": {
+       "peso": 0,
+       "creencia": null,
+       "ignorancia": 1.0,
+       "recuerdos": 0
+      },
+      "nueva": {
+       "peso": 0,
+       "creencia": null,
+       "ignorancia": 1.0,
+       "recuerdos": 0
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": 626
+     }
+    },
+    "2": {
+     "botiquin": {
+      "vieja": {
+       "peso": 5.072,
+       "creencia": 31.3091,
+       "ignorancia": 0.1647,
+       "recuerdos": 4
+      },
+      "nueva": {
+       "peso": 1.1219,
+       "creencia": 20.151,
+       "ignorancia": 0.4713,
+       "recuerdos": 4
+      },
+      "pruebas_del_dia": 3,
+      "contacto_del_dia": 672
+     },
+     "racion": {
+      "vieja": {
+       "peso": 11.7391,
+       "creencia": 13.5393,
+       "ignorancia": 0.0785,
+       "recuerdos": 11
+      },
+      "nueva": {
+       "peso": 1.239,
+       "creencia": 7.9489,
+       "ignorancia": 0.4466,
+       "recuerdos": 11
+      },
+      "pruebas_del_dia": 1,
+      "contacto_del_dia": 4862
+     },
+     "red": {
+      "vieja": {
+       "peso": 0,
+       "creencia": null,
+       "ignorancia": 1.0,
+       "recuerdos": 0
+      },
+      "nueva": {
+       "peso": 0,
+       "creencia": null,
+       "ignorancia": 1.0,
+       "recuerdos": 0
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "camuflaje": {
+      "vieja": {
+       "peso": 0,
+       "creencia": null,
+       "ignorancia": 1.0,
+       "recuerdos": 0
+      },
+      "nueva": {
+       "peso": 0,
+       "creencia": null,
+       "ignorancia": 1.0,
+       "recuerdos": 0
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     }
+    },
+    "3": {
+     "botiquin": {
+      "vieja": {
+       "peso": 9.3716,
+       "creencia": 37.8616,
+       "ignorancia": 0.0964,
+       "recuerdos": 7
+      },
+      "nueva": {
+       "peso": 2.619,
+       "creencia": 26.9494,
+       "ignorancia": 0.2763,
+       "recuerdos": 7
+      },
+      "pruebas_del_dia": 3,
+      "contacto_del_dia": 10687
+     },
+     "racion": {
+      "vieja": {
+       "peso": 12.2609,
+       "creencia": 13.4731,
+       "ignorancia": 0.0754,
+       "recuerdos": 12
+      },
+      "nueva": {
+       "peso": 1.2858,
+       "creencia": 7.7612,
+       "ignorancia": 0.4375,
+       "recuerdos": 12
+      },
+      "pruebas_del_dia": 1,
+      "contacto_del_dia": 2450
+     },
+     "red": {
+      "vieja": {
+       "peso": 0,
+       "creencia": null,
+       "ignorancia": 1.0,
+       "recuerdos": 0
+      },
+      "nueva": {
+       "peso": 0,
+       "creencia": null,
+       "ignorancia": 1.0,
+       "recuerdos": 0
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "camuflaje": {
+      "vieja": {
+       "peso": 0,
+       "creencia": null,
+       "ignorancia": 1.0,
+       "recuerdos": 0
+      },
+      "nueva": {
+       "peso": 0,
+       "creencia": null,
+       "ignorancia": 1.0,
+       "recuerdos": 0
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     }
+    },
+    "4": {
+     "botiquin": {
+      "vieja": {
+       "peso": 11.4199,
+       "creencia": 37.3839,
+       "ignorancia": 0.0805,
+       "recuerdos": 9
+      },
+      "nueva": {
+       "peso": 3.0049,
+       "creencia": 26.311,
+       "ignorancia": 0.2497,
+       "recuerdos": 9
+      },
+      "pruebas_del_dia": 2,
+      "contacto_del_dia": 637
+     },
+     "racion": {
+      "vieja": {
+       "peso": 12.7082,
+       "creencia": 13.4041,
+       "ignorancia": 0.0729,
+       "recuerdos": 13
+      },
+      "nueva": {
+       "peso": 1.2819,
+       "creencia": 7.5851,
+       "ignorancia": 0.4382,
+       "recuerdos": 13
+      },
+      "pruebas_del_dia": 1,
+      "contacto_del_dia": 538
+     },
+     "red": {
+      "vieja": {
+       "peso": 0,
+       "creencia": null,
+       "ignorancia": 1.0,
+       "recuerdos": 0
+      },
+      "nueva": {
+       "peso": 0,
+       "creencia": null,
+       "ignorancia": 1.0,
+       "recuerdos": 0
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "camuflaje": {
+      "vieja": {
+       "peso": 0,
+       "creencia": null,
+       "ignorancia": 1.0,
+       "recuerdos": 0
+      },
+      "nueva": {
+       "peso": 0,
+       "creencia": null,
+       "ignorancia": 1.0,
+       "recuerdos": 0
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     }
+    },
+    "5": {
+     "botiquin": {
+      "vieja": {
+       "peso": 12.0835,
+       "creencia": 36.8939,
+       "ignorancia": 0.0764,
+       "recuerdos": 10
+      },
+      "nueva": {
+       "peso": 3.0893,
+       "creencia": 25.6709,
+       "ignorancia": 0.2445,
+       "recuerdos": 10
+      },
+      "pruebas_del_dia": 1,
+      "contacto_del_dia": 670
+     },
+     "racion": {
+      "vieja": {
+       "peso": 15.4743,
+       "creencia": 13.7618,
+       "ignorancia": 0.0607,
+       "recuerdos": 16
+      },
+      "nueva": {
+       "peso": 1.6354,
+       "creencia": 8.6911,
+       "ignorancia": 0.3795,
+       "recuerdos": 16
+      },
+      "pruebas_del_dia": 3,
+      "contacto_del_dia": 582
+     },
+     "red": {
+      "vieja": {
+       "peso": 0,
+       "creencia": null,
+       "ignorancia": 1.0,
+       "recuerdos": 0
+      },
+      "nueva": {
+       "peso": 0,
+       "creencia": null,
+       "ignorancia": 1.0,
+       "recuerdos": 0
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "camuflaje": {
+      "vieja": {
+       "peso": 2.758,
+       "creencia": 0.0,
+       "ignorancia": 0.2661,
+       "recuerdos": 2
+      },
+      "nueva": {
+       "peso": 0.758,
+       "creencia": 0.0,
+       "ignorancia": 0.5688,
+       "recuerdos": 2
+      },
+      "pruebas_del_dia": 2,
+      "contacto_del_dia": 692
+     }
+    },
+    "6": {
+     "botiquin": {
+      "vieja": {
+       "peso": 11.4793,
+       "creencia": 36.3919,
+       "ignorancia": 0.0801,
+       "recuerdos": 10
+      },
+      "nueva": {
+       "peso": 2.9348,
+       "creencia": 25.0299,
+       "ignorancia": 0.2541,
+       "recuerdos": 10
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": 714
+     },
+     "racion": {
+      "vieja": {
+       "peso": 19.9523,
+       "creencia": 13.88,
+       "ignorancia": 0.0477,
+       "recuerdos": 20
+      },
+      "nueva": {
+       "peso": 2.8415,
+       "creencia": 9.881,
+       "ignorancia": 0.2603,
+       "recuerdos": 20
+      },
+      "pruebas_del_dia": 4,
+      "contacto_del_dia": 2298
+     },
+     "red": {
+      "vieja": {
+       "peso": 1.105,
+       "creencia": 0.0,
+       "ignorancia": 0.4751,
+       "recuerdos": 1
+      },
+      "nueva": {
+       "peso": 0.105,
+       "creencia": 0.0,
+       "ignorancia": 0.905,
+       "recuerdos": 1
+      },
+      "pruebas_del_dia": 1,
+      "contacto_del_dia": 659
+     },
+     "camuflaje": {
+      "vieja": {
+       "peso": 2.6201,
+       "creencia": 0.0,
+       "ignorancia": 0.2762,
+       "recuerdos": 2
+      },
+      "nueva": {
+       "peso": 0.7201,
+       "creencia": 0.0,
+       "ignorancia": 0.5814,
+       "recuerdos": 2
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     }
+    },
+    "7": {
+     "botiquin": {
+      "vieja": {
+       "peso": 10.9054,
+       "creencia": 35.878,
+       "ignorancia": 0.084,
+       "recuerdos": 10
+      },
+      "nueva": {
+       "peso": 2.7881,
+       "creencia": 24.3889,
+       "ignorancia": 0.264,
+       "recuerdos": 10
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "racion": {
+      "vieja": {
+       "peso": 18.9547,
+       "creencia": 13.8271,
+       "ignorancia": 0.0501,
+       "recuerdos": 20
+      },
+      "nueva": {
+       "peso": 2.6994,
+       "creencia": 9.7086,
+       "ignorancia": 0.2703,
+       "recuerdos": 20
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "red": {
+      "vieja": {
+       "peso": 2.1185,
+       "creencia": 0.0,
+       "ignorancia": 0.3207,
+       "recuerdos": 2
+      },
+      "nueva": {
+       "peso": 0.1684,
+       "creencia": 0.0,
+       "ignorancia": 0.8558,
+       "recuerdos": 2
+      },
+      "pruebas_del_dia": 1,
+      "contacto_del_dia": 604
+     },
+     "camuflaje": {
+      "vieja": {
+       "peso": 3.5552,
+       "creencia": 0.0,
+       "ignorancia": 0.2195,
+       "recuerdos": 3
+      },
+      "nueva": {
+       "peso": 0.7501,
+       "creencia": 0.0,
+       "ignorancia": 0.5714,
+       "recuerdos": 3
+      },
+      "pruebas_del_dia": 1,
+      "contacto_del_dia": 615
+     }
+    },
+    "8": {
+     "botiquin": {
+      "vieja": {
+       "peso": 10.3601,
+       "creencia": 35.3524,
+       "ignorancia": 0.088,
+       "recuerdos": 10
+      },
+      "nueva": {
+       "peso": 2.6487,
+       "creencia": 23.7486,
+       "ignorancia": 0.2741,
+       "recuerdos": 10
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "racion": {
+      "vieja": {
+       "peso": 18.0069,
+       "creencia": 13.7718,
+       "ignorancia": 0.0526,
+       "recuerdos": 20
+      },
+      "nueva": {
+       "peso": 2.5645,
+       "creencia": 9.5334,
+       "ignorancia": 0.2805,
+       "recuerdos": 20
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "red": {
+      "vieja": {
+       "peso": 3.3154,
+       "creencia": 0.0,
+       "ignorancia": 0.2317,
+       "recuerdos": 3
+      },
+      "nueva": {
+       "peso": 0.4629,
+       "creencia": 0.0,
+       "ignorancia": 0.6836,
+       "recuerdos": 3
+      },
+      "pruebas_del_dia": 1,
+      "contacto_del_dia": 604
+     },
+     "camuflaje": {
+      "vieja": {
+       "peso": 4.6679,
+       "creencia": 0.0,
+       "ignorancia": 0.1764,
+       "recuerdos": 4
+      },
+      "nueva": {
+       "peso": 1.0031,
+       "creencia": 0.0,
+       "ignorancia": 0.4992,
+       "recuerdos": 4
+      },
+      "pruebas_del_dia": 1,
+      "contacto_del_dia": 648
+     }
+    },
+    "9": {
+     "botiquin": {
+      "vieja": {
+       "peso": 13.2385,
+       "creencia": 34.8156,
+       "ignorancia": 0.0702,
+       "recuerdos": 13
+      },
+      "nueva": {
+       "peso": 2.9414,
+       "creencia": 23.11,
+       "ignorancia": 0.2537,
+       "recuerdos": 13
+      },
+      "pruebas_del_dia": 3,
+      "contacto_del_dia": 8129
+     },
+     "racion": {
+      "vieja": {
+       "peso": 17.1066,
+       "creencia": 13.714,
+       "ignorancia": 0.0552,
+       "recuerdos": 20
+      },
+      "nueva": {
+       "peso": 2.4362,
+       "creencia": 9.3558,
+       "ignorancia": 0.291,
+       "recuerdos": 20
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "red": {
+      "vieja": {
+       "peso": 4.4817,
+       "creencia": 0.0,
+       "ignorancia": 0.1824,
+       "recuerdos": 4
+      },
+      "nueva": {
+       "peso": 0.7717,
+       "creencia": 0.0,
+       "ignorancia": 0.5644,
+       "recuerdos": 4
+      },
+      "pruebas_del_dia": 1,
+      "contacto_del_dia": 6149
+     },
+     "camuflaje": {
+      "vieja": {
+       "peso": 4.4345,
+       "creencia": 0.0,
+       "ignorancia": 0.184,
+       "recuerdos": 4
+      },
+      "nueva": {
+       "peso": 0.9529,
+       "creencia": 0.0,
+       "ignorancia": 0.512,
+       "recuerdos": 4
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     }
+    },
+    "10": {
+     "botiquin": {
+      "vieja": {
+       "peso": 12.5766,
+       "creencia": 34.2679,
+       "ignorancia": 0.0737,
+       "recuerdos": 13
+      },
+      "nueva": {
+       "peso": 2.7944,
+       "creencia": 22.4739,
+       "ignorancia": 0.2635,
+       "recuerdos": 13
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": 593
+     },
+     "racion": {
+      "vieja": {
+       "peso": 16.2513,
+       "creencia": 13.6538,
+       "ignorancia": 0.058,
+       "recuerdos": 20
+      },
+      "nueva": {
+       "peso": 2.3144,
+       "creencia": 9.1758,
+       "ignorancia": 0.3017,
+       "recuerdos": 20
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": 494
+     },
+     "red": {
+      "vieja": {
+       "peso": 4.2576,
+       "creencia": 0.0,
+       "ignorancia": 0.1902,
+       "recuerdos": 4
+      },
+      "nueva": {
+       "peso": 0.7331,
+       "creencia": 0.0,
+       "ignorancia": 0.577,
+       "recuerdos": 4
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "camuflaje": {
+      "vieja": {
+       "peso": 4.2128,
+       "creencia": 0.0,
+       "ignorancia": 0.1918,
+       "recuerdos": 4
+      },
+      "nueva": {
+       "peso": 0.9053,
+       "creencia": 0.0,
+       "ignorancia": 0.5249,
+       "recuerdos": 4
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     }
+    },
+    "11": {
+     "botiquin": {
+      "vieja": {
+       "peso": 13.2801,
+       "creencia": 38.6408,
+       "ignorancia": 0.07,
+       "recuerdos": 14
+      },
+      "nueva": {
+       "peso": 2.987,
+       "creencia": 26.2801,
+       "ignorancia": 0.2508,
+       "recuerdos": 14
+      },
+      "pruebas_del_dia": 1,
+      "contacto_del_dia": 604
+     },
+     "racion": {
+      "vieja": {
+       "peso": 15.4387,
+       "creencia": 13.5909,
+       "ignorancia": 0.0608,
+       "recuerdos": 20
+      },
+      "nueva": {
+       "peso": 2.1987,
+       "creencia": 8.9937,
+       "ignorancia": 0.3126,
+       "recuerdos": 20
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "red": {
+      "vieja": {
+       "peso": 4.0447,
+       "creencia": 0.0,
+       "ignorancia": 0.1982,
+       "recuerdos": 4
+      },
+      "nueva": {
+       "peso": 0.6964,
+       "creencia": 0.0,
+       "ignorancia": 0.5895,
+       "recuerdos": 4
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "camuflaje": {
+      "vieja": {
+       "peso": 5.2091,
+       "creencia": 9.7966,
+       "ignorancia": 0.1611,
+       "recuerdos": 5
+      },
+      "nueva": {
+       "peso": 1.0669,
+       "creencia": 5.0451,
+       "ignorancia": 0.4838,
+       "recuerdos": 5
+      },
+      "pruebas_del_dia": 1,
+      "contacto_del_dia": 2386
+     }
+    },
+    "12": {
+     "botiquin": {
+      "vieja": {
+       "peso": 12.6161,
+       "creencia": 38.1842,
+       "ignorancia": 0.0734,
+       "recuerdos": 14
+      },
+      "nueva": {
+       "peso": 2.8376,
+       "creencia": 25.6399,
+       "ignorancia": 0.2606,
+       "recuerdos": 14
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "racion": {
+      "vieja": {
+       "peso": 15.7823,
+       "creencia": 13.5254,
+       "ignorancia": 0.0596,
+       "recuerdos": 21
+      },
+      "nueva": {
+       "peso": 2.2043,
+       "creencia": 8.8097,
+       "ignorancia": 0.3121,
+       "recuerdos": 21
+      },
+      "pruebas_del_dia": 1,
+      "contacto_del_dia": 494
+     },
+     "red": {
+      "vieja": {
+       "peso": 3.8425,
+       "creencia": 0.0,
+       "ignorancia": 0.2065,
+       "recuerdos": 4
+      },
+      "nueva": {
+       "peso": 0.6616,
+       "creencia": 0.0,
+       "ignorancia": 0.6018,
+       "recuerdos": 4
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "camuflaje": {
+      "vieja": {
+       "peso": 4.9486,
+       "creencia": 9.7143,
+       "ignorancia": 0.1681,
+       "recuerdos": 5
+      },
+      "nueva": {
+       "peso": 1.0136,
+       "creencia": 4.9198,
+       "ignorancia": 0.4966,
+       "recuerdos": 5
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     }
+    },
+    "13": {
+     "botiquin": {
+      "vieja": {
+       "peso": 11.9853,
+       "creencia": 37.7151,
+       "ignorancia": 0.077,
+       "recuerdos": 14
+      },
+      "nueva": {
+       "peso": 2.6957,
+       "creencia": 24.9989,
+       "ignorancia": 0.2706,
+       "recuerdos": 14
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": 1089
+     },
+     "racion": {
+      "vieja": {
+       "peso": 16.1341,
+       "creencia": 13.4571,
+       "ignorancia": 0.0584,
+       "recuerdos": 22
+      },
+      "nueva": {
+       "peso": 2.235,
+       "creencia": 8.7572,
+       "ignorancia": 0.3091,
+       "recuerdos": 22
+      },
+      "pruebas_del_dia": 1,
+      "contacto_del_dia": 10372
+     },
+     "red": {
+      "vieja": {
+       "peso": 4.6818,
+       "creencia": 0.0,
+       "ignorancia": 0.176,
+       "recuerdos": 5
+      },
+      "nueva": {
+       "peso": 0.6785,
+       "creencia": 0.0,
+       "ignorancia": 0.5958,
+       "recuerdos": 5
+      },
+      "pruebas_del_dia": 1,
+      "contacto_del_dia": 1177
+     },
+     "camuflaje": {
+      "vieja": {
+       "peso": 5.9478,
+       "creencia": 7.9014,
+       "ignorancia": 0.1439,
+       "recuerdos": 6
+      },
+      "nueva": {
+       "peso": 1.2095,
+       "creencia": 4.2594,
+       "ignorancia": 0.4526,
+       "recuerdos": 6
+      },
+      "pruebas_del_dia": 1,
+      "contacto_del_dia": 1309
+     }
+    },
+    "14": {
+     "botiquin": {
+      "vieja": {
+       "peso": 11.3861,
+       "creencia": 37.2336,
+       "ignorancia": 0.0807,
+       "recuerdos": 14
+      },
+      "nueva": {
+       "peso": 2.5609,
+       "creencia": 24.3579,
+       "ignorancia": 0.2808,
+       "recuerdos": 14
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "racion": {
+      "vieja": {
+       "peso": 15.3274,
+       "creencia": 13.386,
+       "ignorancia": 0.0612,
+       "recuerdos": 22
+      },
+      "nueva": {
+       "peso": 2.1232,
+       "creencia": 8.5775,
+       "ignorancia": 0.3202,
+       "recuerdos": 22
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "red": {
+      "vieja": {
+       "peso": 4.4477,
+       "creencia": 0.0,
+       "ignorancia": 0.1836,
+       "recuerdos": 5
+      },
+      "nueva": {
+       "peso": 0.6446,
+       "creencia": 0.0,
+       "ignorancia": 0.608,
+       "recuerdos": 5
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "camuflaje": {
+      "vieja": {
+       "peso": 5.6504,
+       "creencia": 7.842,
+       "ignorancia": 0.1504,
+       "recuerdos": 6
+      },
+      "nueva": {
+       "peso": 1.149,
+       "creencia": 4.1603,
+       "ignorancia": 0.4653,
+       "recuerdos": 6
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     }
+    },
+    "15": {
+     "botiquin": {
+      "vieja": {
+       "peso": 10.8168,
+       "creencia": 36.7399,
+       "ignorancia": 0.0846,
+       "recuerdos": 14
+      },
+      "nueva": {
+       "peso": 2.4329,
+       "creencia": 23.7177,
+       "ignorancia": 0.2913,
+       "recuerdos": 14
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": 637
+     },
+     "racion": {
+      "vieja": {
+       "peso": 14.561,
+       "creencia": 13.3119,
+       "ignorancia": 0.0643,
+       "recuerdos": 22
+      },
+      "nueva": {
+       "peso": 2.0171,
+       "creencia": 8.3961,
+       "ignorancia": 0.3314,
+       "recuerdos": 22
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": 516
+     },
+     "red": {
+      "vieja": {
+       "peso": 5.2255,
+       "creencia": 0.0,
+       "ignorancia": 0.1606,
+       "recuerdos": 6
+      },
+      "nueva": {
+       "peso": 0.6624,
+       "creencia": 0.0,
+       "ignorancia": 0.6015,
+       "recuerdos": 6
+      },
+      "pruebas_del_dia": 1,
+      "contacto_del_dia": 681
+     },
+     "camuflaje": {
+      "vieja": {
+       "peso": 6.6953,
+       "creencia": 6.4383,
+       "ignorancia": 0.1299,
+       "recuerdos": 7
+      },
+      "nueva": {
+       "peso": 1.419,
+       "creencia": 3.5112,
+       "ignorancia": 0.4134,
+       "recuerdos": 7
+      },
+      "pruebas_del_dia": 1,
+      "contacto_del_dia": 615
+     }
+    },
+    "16": {
+     "botiquin": {
+      "vieja": {
+       "peso": 10.2759,
+       "creencia": 36.2341,
+       "ignorancia": 0.0887,
+       "recuerdos": 14
+      },
+      "nueva": {
+       "peso": 2.3112,
+       "creencia": 23.0792,
+       "ignorancia": 0.302,
+       "recuerdos": 14
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "racion": {
+      "vieja": {
+       "peso": 14.8539,
+       "creencia": 13.2348,
+       "ignorancia": 0.0631,
+       "recuerdos": 23
+      },
+      "nueva": {
+       "peso": 1.9662,
+       "creencia": 8.2133,
+       "ignorancia": 0.3371,
+       "recuerdos": 23
+      },
+      "pruebas_del_dia": 1,
+      "contacto_del_dia": 2342
+     },
+     "red": {
+      "vieja": {
+       "peso": 6.3963,
+       "creencia": 0.0,
+       "ignorancia": 0.1352,
+       "recuerdos": 7
+      },
+      "nueva": {
+       "peso": 1.0614,
+       "creencia": 0.0,
+       "ignorancia": 0.4851,
+       "recuerdos": 7
+      },
+      "pruebas_del_dia": 1,
+      "contacto_del_dia": 1064
+     },
+     "camuflaje": {
+      "vieja": {
+       "peso": 6.3605,
+       "creencia": 6.3946,
+       "ignorancia": 0.1359,
+       "recuerdos": 7
+      },
+      "nueva": {
+       "peso": 1.348,
+       "creencia": 3.4364,
+       "ignorancia": 0.4259,
+       "recuerdos": 7
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     }
+    },
+    "17": {
+     "botiquin": {
+      "vieja": {
+       "peso": 9.7621,
+       "creencia": 35.7166,
+       "ignorancia": 0.0929,
+       "recuerdos": 14
+      },
+      "nueva": {
+       "peso": 2.1957,
+       "creencia": 22.4432,
+       "ignorancia": 0.3129,
+       "recuerdos": 14
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "racion": {
+      "vieja": {
+       "peso": 14.1112,
+       "creencia": 13.1546,
+       "ignorancia": 0.0662,
+       "recuerdos": 23
+      },
+      "nueva": {
+       "peso": 1.8679,
+       "creencia": 8.0277,
+       "ignorancia": 0.3487,
+       "recuerdos": 23
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "red": {
+      "vieja": {
+       "peso": 6.0765,
+       "creencia": 0.0,
+       "ignorancia": 0.1413,
+       "recuerdos": 7
+      },
+      "nueva": {
+       "peso": 1.0083,
+       "creencia": 0.0,
+       "ignorancia": 0.4979,
+       "recuerdos": 7
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "camuflaje": {
+      "vieja": {
+       "peso": 7.0568,
+       "creencia": 5.5499,
+       "ignorancia": 0.1241,
+       "recuerdos": 8
+      },
+      "nueva": {
+       "peso": 1.3306,
+       "creencia": 3.289,
+       "ignorancia": 0.4291,
+       "recuerdos": 8
+      },
+      "pruebas_del_dia": 1,
+      "contacto_del_dia": 1209
+     }
+    },
+    "18": {
+     "botiquin": {
+      "vieja": {
+       "peso": 11.7524,
+       "creencia": 35.1875,
+       "ignorancia": 0.0784,
+       "recuerdos": 16
+      },
+      "nueva": {
+       "peso": 2.5643,
+       "creencia": 21.859,
+       "ignorancia": 0.2806,
+       "recuerdos": 16
+      },
+      "pruebas_del_dia": 2,
+      "contacto_del_dia": 1166
+     },
+     "racion": {
+      "vieja": {
+       "peso": 13.4057,
+       "creencia": 13.0712,
+       "ignorancia": 0.0694,
+       "recuerdos": 23
+      },
+      "nueva": {
+       "peso": 1.7745,
+       "creencia": 7.852,
+       "ignorancia": 0.3604,
+       "recuerdos": 23
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "red": {
+      "vieja": {
+       "peso": 5.7726,
+       "creencia": 0.0,
+       "ignorancia": 0.1477,
+       "recuerdos": 7
+      },
+      "nueva": {
+       "peso": 0.9579,
+       "creencia": 0.0,
+       "ignorancia": 0.5108,
+       "recuerdos": 7
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "camuflaje": {
+      "vieja": {
+       "peso": 6.7039,
+       "creencia": 5.5138,
+       "ignorancia": 0.1298,
+       "recuerdos": 8
+      },
+      "nueva": {
+       "peso": 1.2641,
+       "creencia": 3.2163,
+       "ignorancia": 0.4417,
+       "recuerdos": 8
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     }
+    },
+    "19": {
+     "botiquin": {
+      "vieja": {
+       "peso": 11.1648,
+       "creencia": 34.6473,
+       "ignorancia": 0.0822,
+       "recuerdos": 16
+      },
+      "nueva": {
+       "peso": 2.4361,
+       "creencia": 21.3869,
+       "ignorancia": 0.291,
+       "recuerdos": 16
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "racion": {
+      "vieja": {
+       "peso": 17.1276,
+       "creencia": 12.9845,
+       "ignorancia": 0.0552,
+       "recuerdos": 27
+      },
+      "nueva": {
+       "peso": 2.0984,
+       "creencia": 7.8737,
+       "ignorancia": 0.3227,
+       "recuerdos": 27
+      },
+      "pruebas_del_dia": 4,
+      "contacto_del_dia": 538
+     },
+     "red": {
+      "vieja": {
+       "peso": 6.8996,
+       "creencia": 0.0,
+       "ignorancia": 0.1266,
+       "recuerdos": 8
+      },
+      "nueva": {
+       "peso": 1.3255,
+       "creencia": 0.0,
+       "ignorancia": 0.43,
+       "recuerdos": 8
+      },
+      "pruebas_del_dia": 1,
+      "contacto_del_dia": 593
+     },
+     "camuflaje": {
+      "vieja": {
+       "peso": 6.3688,
+       "creencia": 5.4764,
+       "ignorancia": 0.1357,
+       "recuerdos": 8
+      },
+      "nueva": {
+       "peso": 1.2009,
+       "creencia": 3.1433,
+       "ignorancia": 0.4544,
+       "recuerdos": 8
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     }
+    },
+    "20": {
+     "botiquin": {
+      "vieja": {
+       "peso": 10.6066,
+       "creencia": 34.0963,
+       "ignorancia": 0.0862,
+       "recuerdos": 16
+      },
+      "nueva": {
+       "peso": 2.3143,
+       "creencia": 20.9155,
+       "ignorancia": 0.3017,
+       "recuerdos": 16
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": 628
+     },
+     "racion": {
+      "vieja": {
+       "peso": 17.3905,
+       "creencia": 12.8946,
+       "ignorancia": 0.0544,
+       "recuerdos": 28
+      },
+      "nueva": {
+       "peso": 2.1128,
+       "creencia": 7.7134,
+       "ignorancia": 0.3213,
+       "recuerdos": 28
+      },
+      "pruebas_del_dia": 1,
+      "contacto_del_dia": 516
+     },
+     "red": {
+      "vieja": {
+       "peso": 7.7483,
+       "creencia": 0.0,
+       "ignorancia": 0.1143,
+       "recuerdos": 9
+      },
+      "nueva": {
+       "peso": 1.4529,
+       "creencia": 0.0,
+       "ignorancia": 0.4077,
+       "recuerdos": 9
+      },
+      "pruebas_del_dia": 1,
+      "contacto_del_dia": 606
+     },
+     "camuflaje": {
+      "vieja": {
+       "peso": 7.404,
+       "creencia": 4.5617,
+       "ignorancia": 0.119,
+       "recuerdos": 9
+      },
+      "nueva": {
+       "peso": 1.4945,
+       "creencia": 2.6346,
+       "ignorancia": 0.4009,
+       "recuerdos": 9
+      },
+      "pruebas_del_dia": 1,
+      "contacto_del_dia": 925
+     }
+    }
+   },
+   "despierta": {
+    "red vieja": [
+     {
+      "prueba_dia": 6,
+      "vuelve_a_mandar_dia": 7,
+      "pasa_de_0_5_dia": null
+     },
+     {
+      "prueba_dia": 7,
+      "vuelve_a_mandar_dia": 8,
+      "pasa_de_0_5_dia": null
+     },
+     {
+      "prueba_dia": 8,
+      "vuelve_a_mandar_dia": 11,
+      "pasa_de_0_5_dia": null
+     },
+     {
+      "prueba_dia": 9,
+      "vuelve_a_mandar_dia": 11,
+      "pasa_de_0_5_dia": null
+     },
+     {
+      "prueba_dia": 13,
+      "vuelve_a_mandar_dia": 14,
+      "pasa_de_0_5_dia": null
+     },
+     {
+      "prueba_dia": 15,
+      "vuelve_a_mandar_dia": 17,
+      "pasa_de_0_5_dia": null
+     },
+     {
+      "prueba_dia": 16,
+      "vuelve_a_mandar_dia": 17,
+      "pasa_de_0_5_dia": null
+     },
+     {
+      "prueba_dia": 19,
+      "vuelve_a_mandar_dia": null,
+      "pasa_de_0_5_dia": null
+     },
+     {
+      "prueba_dia": 20,
+      "vuelve_a_mandar_dia": null,
+      "pasa_de_0_5_dia": null
+     }
+    ],
+    "red nueva": [
+     {
+      "prueba_dia": 6,
+      "vuelve_a_mandar_dia": 7,
+      "pasa_de_0_5_dia": 7
+     },
+     {
+      "prueba_dia": 7,
+      "vuelve_a_mandar_dia": 8,
+      "pasa_de_0_5_dia": 8
+     },
+     {
+      "prueba_dia": 8,
+      "vuelve_a_mandar_dia": 9,
+      "pasa_de_0_5_dia": 9
+     },
+     {
+      "prueba_dia": 9,
+      "vuelve_a_mandar_dia": 10,
+      "pasa_de_0_5_dia": 10
+     },
+     {
+      "prueba_dia": 13,
+      "vuelve_a_mandar_dia": 14,
+      "pasa_de_0_5_dia": 14
+     },
+     {
+      "prueba_dia": 15,
+      "vuelve_a_mandar_dia": 16,
+      "pasa_de_0_5_dia": 18
+     },
+     {
+      "prueba_dia": 16,
+      "vuelve_a_mandar_dia": 17,
+      "pasa_de_0_5_dia": 18
+     },
+     {
+      "prueba_dia": 19,
+      "vuelve_a_mandar_dia": 20,
+      "pasa_de_0_5_dia": null
+     },
+     {
+      "prueba_dia": 20,
+      "vuelve_a_mandar_dia": null,
+      "pasa_de_0_5_dia": null
+     }
+    ],
+    "camuflaje vieja": [
+     {
+      "prueba_dia": 5,
+      "vuelve_a_mandar_dia": 9,
+      "pasa_de_0_5_dia": null
+     },
+     {
+      "prueba_dia": 7,
+      "vuelve_a_mandar_dia": 9,
+      "pasa_de_0_5_dia": null
+     },
+     {
+      "prueba_dia": 8,
+      "vuelve_a_mandar_dia": 9,
+      "pasa_de_0_5_dia": null
+     },
+     {
+      "prueba_dia": 11,
+      "vuelve_a_mandar_dia": 16,
+      "pasa_de_0_5_dia": null
+     },
+     {
+      "prueba_dia": 13,
+      "vuelve_a_mandar_dia": 16,
+      "pasa_de_0_5_dia": null
+     },
+     {
+      "prueba_dia": 15,
+      "vuelve_a_mandar_dia": 16,
+      "pasa_de_0_5_dia": null
+     },
+     {
+      "prueba_dia": 17,
+      "vuelve_a_mandar_dia": 19,
+      "pasa_de_0_5_dia": null
+     },
+     {
+      "prueba_dia": 20,
+      "vuelve_a_mandar_dia": null,
+      "pasa_de_0_5_dia": null
+     }
+    ],
+    "camuflaje nueva": [
+     {
+      "prueba_dia": 5,
+      "vuelve_a_mandar_dia": 19,
+      "pasa_de_0_5_dia": 6
+     },
+     {
+      "prueba_dia": 7,
+      "vuelve_a_mandar_dia": 19,
+      "pasa_de_0_5_dia": 9
+     },
+     {
+      "prueba_dia": 8,
+      "vuelve_a_mandar_dia": 19,
+      "pasa_de_0_5_dia": 9
+     },
+     {
+      "prueba_dia": 11,
+      "vuelve_a_mandar_dia": 19,
+      "pasa_de_0_5_dia": null
+     },
+     {
+      "prueba_dia": 13,
+      "vuelve_a_mandar_dia": 19,
+      "pasa_de_0_5_dia": null
+     },
+     {
+      "prueba_dia": 15,
+      "vuelve_a_mandar_dia": 19,
+      "pasa_de_0_5_dia": null
+     },
+     {
+      "prueba_dia": 17,
+      "vuelve_a_mandar_dia": 19,
+      "pasa_de_0_5_dia": null
+     },
+     {
+      "prueba_dia": 20,
+      "vuelve_a_mandar_dia": null,
+      "pasa_de_0_5_dia": null
+     }
+    ]
+   },
+   "pruebas_reales": {
+    "red": [
+     6,
+     7,
+     8,
+     9,
+     13,
+     15,
+     16,
+     19,
+     20
+    ],
+    "camuflaje": [
+     5,
+     7,
+     8,
+     11,
+     13,
+     15,
+     17,
+     20
+    ]
+   }
+  },
+  "s2 a11": {
+   "dias": {
+    "1": {
+     "botiquin": {
+      "vieja": {
+       "peso": 3.0686,
+       "creencia": null,
+       "ignorancia": 0.2458,
+       "recuerdos": 3
+      },
+      "nueva": {
+       "peso": 0.15,
+       "creencia": null,
+       "ignorancia": 0.8696,
+       "recuerdos": 3
+      },
+      "pruebas_del_dia": 3,
+      "contacto_del_dia": 10295
+     },
+     "racion": {
+      "vieja": {
+       "peso": 0,
+       "creencia": null,
+       "ignorancia": 1.0,
+       "recuerdos": 0
+      },
+      "nueva": {
+       "peso": 0,
+       "creencia": null,
+       "ignorancia": 1.0,
+       "recuerdos": 0
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "red": {
+      "vieja": {
+       "peso": 0,
+       "creencia": null,
+       "ignorancia": 1.0,
+       "recuerdos": 0
+      },
+      "nueva": {
+       "peso": 0,
+       "creencia": null,
+       "ignorancia": 1.0,
+       "recuerdos": 0
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "camuflaje": {
+      "vieja": {
+       "peso": 0,
+       "creencia": null,
+       "ignorancia": 1.0,
+       "recuerdos": 0
+      },
+      "nueva": {
+       "peso": 0,
+       "creencia": null,
+       "ignorancia": 1.0,
+       "recuerdos": 0
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     }
+    },
+    "2": {
+     "botiquin": {
+      "vieja": {
+       "peso": 2.9152,
+       "creencia": null,
+       "ignorancia": 0.2554,
+       "recuerdos": 3
+      },
+      "nueva": {
+       "peso": 0.1425,
+       "creencia": null,
+       "ignorancia": 0.8753,
+       "recuerdos": 3
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "racion": {
+      "vieja": {
+       "peso": 0,
+       "creencia": null,
+       "ignorancia": 1.0,
+       "recuerdos": 0
+      },
+      "nueva": {
+       "peso": 0,
+       "creencia": null,
+       "ignorancia": 1.0,
+       "recuerdos": 0
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "red": {
+      "vieja": {
+       "peso": 0,
+       "creencia": null,
+       "ignorancia": 1.0,
+       "recuerdos": 0
+      },
+      "nueva": {
+       "peso": 0,
+       "creencia": null,
+       "ignorancia": 1.0,
+       "recuerdos": 0
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "camuflaje": {
+      "vieja": {
+       "peso": 0,
+       "creencia": null,
+       "ignorancia": 1.0,
+       "recuerdos": 0
+      },
+      "nueva": {
+       "peso": 0,
+       "creencia": null,
+       "ignorancia": 1.0,
+       "recuerdos": 0
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     }
+    },
+    "3": {
+     "botiquin": {
+      "vieja": {
+       "peso": 2.7694,
+       "creencia": null,
+       "ignorancia": 0.2653,
+       "recuerdos": 3
+      },
+      "nueva": {
+       "peso": 0.1354,
+       "creencia": null,
+       "ignorancia": 0.8808,
+       "recuerdos": 3
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "racion": {
+      "vieja": {
+       "peso": 0,
+       "creencia": null,
+       "ignorancia": 1.0,
+       "recuerdos": 0
+      },
+      "nueva": {
+       "peso": 0,
+       "creencia": null,
+       "ignorancia": 1.0,
+       "recuerdos": 0
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": 10786
+     },
+     "red": {
+      "vieja": {
+       "peso": 0,
+       "creencia": null,
+       "ignorancia": 1.0,
+       "recuerdos": 0
+      },
+      "nueva": {
+       "peso": 0,
+       "creencia": null,
+       "ignorancia": 1.0,
+       "recuerdos": 0
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "camuflaje": {
+      "vieja": {
+       "peso": 0,
+       "creencia": null,
+       "ignorancia": 1.0,
+       "recuerdos": 0
+      },
+      "nueva": {
+       "peso": 0,
+       "creencia": null,
+       "ignorancia": 1.0,
+       "recuerdos": 0
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     }
+    },
+    "4": {
+     "botiquin": {
+      "vieja": {
+       "peso": 2.6309,
+       "creencia": null,
+       "ignorancia": 0.2754,
+       "recuerdos": 3
+      },
+      "nueva": {
+       "peso": 0.1286,
+       "creencia": null,
+       "ignorancia": 0.886,
+       "recuerdos": 3
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "racion": {
+      "vieja": {
+       "peso": 7.0678,
+       "creencia": 2.0,
+       "ignorancia": 0.1239,
+       "recuerdos": 5
+      },
+      "nueva": {
+       "peso": 2.0944,
+       "creencia": 1.5,
+       "ignorancia": 0.3232,
+       "recuerdos": 5
+      },
+      "pruebas_del_dia": 5,
+      "contacto_del_dia": 649
+     },
+     "red": {
+      "vieja": {
+       "peso": 1.0012,
+       "creencia": 0.0,
+       "ignorancia": 0.4997,
+       "recuerdos": 1
+      },
+      "nueva": {
+       "peso": 0.05,
+       "creencia": 0.0,
+       "ignorancia": 0.9524,
+       "recuerdos": 1
+      },
+      "pruebas_del_dia": 1,
+      "contacto_del_dia": 1513
+     },
+     "camuflaje": {
+      "vieja": {
+       "peso": 1.0077,
+       "creencia": 0.0,
+       "ignorancia": 0.4981,
+       "recuerdos": 1
+      },
+      "nueva": {
+       "peso": 0.05,
+       "creencia": 0.0,
+       "ignorancia": 0.9524,
+       "recuerdos": 1
+      },
+      "pruebas_del_dia": 1,
+      "contacto_del_dia": 1044
+     }
+    },
+    "5": {
+     "botiquin": {
+      "vieja": {
+       "peso": 5.1115,
+       "creencia": 11.6418,
+       "ignorancia": 0.1636,
+       "recuerdos": 5
+      },
+      "nueva": {
+       "peso": 0.7344,
+       "creencia": 6.8555,
+       "ignorancia": 0.5766,
+       "recuerdos": 5
+      },
+      "pruebas_del_dia": 3,
+      "contacto_del_dia": 628
+     },
+     "racion": {
+      "vieja": {
+       "peso": 7.846,
+       "creencia": 5.6241,
+       "ignorancia": 0.113,
+       "recuerdos": 6
+      },
+      "nueva": {
+       "peso": 2.1213,
+       "creencia": 2.3174,
+       "ignorancia": 0.3204,
+       "recuerdos": 6
+      },
+      "pruebas_del_dia": 1,
+      "contacto_del_dia": 12457
+     },
+     "red": {
+      "vieja": {
+       "peso": 1.9511,
+       "creencia": 0.0,
+       "ignorancia": 0.3389,
+       "recuerdos": 2
+      },
+      "nueva": {
+       "peso": 0.0975,
+       "creencia": 0.0,
+       "ignorancia": 0.9112,
+       "recuerdos": 2
+      },
+      "pruebas_del_dia": 1,
+      "contacto_del_dia": 716
+     },
+     "camuflaje": {
+      "vieja": {
+       "peso": 0.9573,
+       "creencia": 0.0,
+       "ignorancia": 0.5109,
+       "recuerdos": 1
+      },
+      "nueva": {
+       "peso": 0.0475,
+       "creencia": 0.0,
+       "ignorancia": 0.9547,
+       "recuerdos": 1
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     }
+    },
+    "6": {
+     "botiquin": {
+      "vieja": {
+       "peso": 10.1435,
+       "creencia": 14.4409,
+       "ignorancia": 0.0897,
+       "recuerdos": 9
+      },
+      "nueva": {
+       "peso": 1.9855,
+       "creencia": 11.5659,
+       "ignorancia": 0.335,
+       "recuerdos": 9
+      },
+      "pruebas_del_dia": 4,
+      "contacto_del_dia": 2288
+     },
+     "racion": {
+      "vieja": {
+       "peso": 7.4537,
+       "creencia": 5.5516,
+       "ignorancia": 0.1183,
+       "recuerdos": 6
+      },
+      "nueva": {
+       "peso": 2.0152,
+       "creencia": 2.2603,
+       "ignorancia": 0.3317,
+       "recuerdos": 6
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": 549
+     },
+     "red": {
+      "vieja": {
+       "peso": 1.8536,
+       "creencia": 0.0,
+       "ignorancia": 0.3504,
+       "recuerdos": 2
+      },
+      "nueva": {
+       "peso": 0.0926,
+       "creencia": 0.0,
+       "ignorancia": 0.9152,
+       "recuerdos": 2
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "camuflaje": {
+      "vieja": {
+       "peso": 1.9095,
+       "creencia": 0.0,
+       "ignorancia": 0.3437,
+       "recuerdos": 2
+      },
+      "nueva": {
+       "peso": 0.0951,
+       "creencia": 0.0,
+       "ignorancia": 0.9131,
+       "recuerdos": 2
+      },
+      "pruebas_del_dia": 1,
+      "contacto_del_dia": 648
+     }
+    },
+    "7": {
+     "botiquin": {
+      "vieja": {
+       "peso": 13.1214,
+       "creencia": 14.9639,
+       "ignorancia": 0.0708,
+       "recuerdos": 12
+      },
+      "nueva": {
+       "peso": 2.3713,
+       "creencia": 12.1303,
+       "ignorancia": 0.2966,
+       "recuerdos": 12
+      },
+      "pruebas_del_dia": 3,
+      "contacto_del_dia": 4850
+     },
+     "racion": {
+      "vieja": {
+       "peso": 8.3657,
+       "creencia": 7.1463,
+       "ignorancia": 0.1068,
+       "recuerdos": 7
+      },
+      "nueva": {
+       "peso": 2.1992,
+       "creencia": 3.4368,
+       "ignorancia": 0.3126,
+       "recuerdos": 7
+      },
+      "pruebas_del_dia": 1,
+      "contacto_del_dia": 13224
+     },
+     "red": {
+      "vieja": {
+       "peso": 1.7609,
+       "creencia": 0.0,
+       "ignorancia": 0.3622,
+       "recuerdos": 2
+      },
+      "nueva": {
+       "peso": 0.088,
+       "creencia": 0.0,
+       "ignorancia": 0.9191,
+       "recuerdos": 2
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "camuflaje": {
+      "vieja": {
+       "peso": 1.8141,
+       "creencia": 0.0,
+       "ignorancia": 0.3554,
+       "recuerdos": 2
+      },
+      "nueva": {
+       "peso": 0.0904,
+       "creencia": 0.0,
+       "ignorancia": 0.9171,
+       "recuerdos": 2
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     }
+    },
+    "8": {
+     "botiquin": {
+      "vieja": {
+       "peso": 12.4654,
+       "creencia": 14.8912,
+       "ignorancia": 0.0743,
+       "recuerdos": 12
+      },
+      "nueva": {
+       "peso": 2.2527,
+       "creencia": 11.9321,
+       "ignorancia": 0.3074,
+       "recuerdos": 12
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": 1748
+     },
+     "racion": {
+      "vieja": {
+       "peso": 9.043,
+       "creencia": 7.0722,
+       "ignorancia": 0.0996,
+       "recuerdos": 8
+      },
+      "nueva": {
+       "peso": 2.1847,
+       "creencia": 3.3586,
+       "ignorancia": 0.314,
+       "recuerdos": 8
+      },
+      "pruebas_del_dia": 1,
+      "contacto_del_dia": 11682
+     },
+     "red": {
+      "vieja": {
+       "peso": 3.0848,
+       "creencia": 0.0,
+       "ignorancia": 0.2448,
+       "recuerdos": 3
+      },
+      "nueva": {
+       "peso": 0.4955,
+       "creencia": 0.0,
+       "ignorancia": 0.6687,
+       "recuerdos": 3
+      },
+      "pruebas_del_dia": 1,
+      "contacto_del_dia": 527
+     },
+     "camuflaje": {
+      "vieja": {
+       "peso": 1.7234,
+       "creencia": 0.0,
+       "ignorancia": 0.3672,
+       "recuerdos": 2
+      },
+      "nueva": {
+       "peso": 0.0859,
+       "creencia": 0.0,
+       "ignorancia": 0.9209,
+       "recuerdos": 2
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     }
+    },
+    "9": {
+     "botiquin": {
+      "vieja": {
+       "peso": 14.4984,
+       "creencia": 20.1772,
+       "ignorancia": 0.0645,
+       "recuerdos": 14
+      },
+      "nueva": {
+       "peso": 2.7964,
+       "creencia": 16.865,
+       "ignorancia": 0.2634,
+       "recuerdos": 14
+      },
+      "pruebas_del_dia": 2,
+      "contacto_del_dia": 604
+     },
+     "racion": {
+      "vieja": {
+       "peso": 8.5909,
+       "creencia": 6.9958,
+       "ignorancia": 0.1043,
+       "recuerdos": 8
+      },
+      "nueva": {
+       "peso": 2.0755,
+       "creencia": 3.2801,
+       "ignorancia": 0.3252,
+       "recuerdos": 8
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "red": {
+      "vieja": {
+       "peso": 2.9305,
+       "creencia": 0.0,
+       "ignorancia": 0.2544,
+       "recuerdos": 3
+      },
+      "nueva": {
+       "peso": 0.4707,
+       "creencia": 0.0,
+       "ignorancia": 0.6799,
+       "recuerdos": 3
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "camuflaje": {
+      "vieja": {
+       "peso": 1.6372,
+       "creencia": 0.0,
+       "ignorancia": 0.3792,
+       "recuerdos": 2
+      },
+      "nueva": {
+       "peso": 0.0816,
+       "creencia": 0.0,
+       "ignorancia": 0.9246,
+       "recuerdos": 2
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     }
+    },
+    "10": {
+     "botiquin": {
+      "vieja": {
+       "peso": 16.5898,
+       "creencia": 22.7562,
+       "ignorancia": 0.0569,
+       "recuerdos": 16
+      },
+      "nueva": {
+       "peso": 3.473,
+       "creencia": 19.7124,
+       "ignorancia": 0.2236,
+       "recuerdos": 16
+      },
+      "pruebas_del_dia": 2,
+      "contacto_del_dia": 14161
+     },
+     "racion": {
+      "vieja": {
+       "peso": 11.5009,
+       "creencia": 6.8165,
+       "ignorancia": 0.08,
+       "recuerdos": 11
+      },
+      "nueva": {
+       "peso": 2.3489,
+       "creencia": 4.1132,
+       "ignorancia": 0.2986,
+       "recuerdos": 11
+      },
+      "pruebas_del_dia": 3,
+      "contacto_del_dia": 527
+     },
+     "red": {
+      "vieja": {
+       "peso": 3.7858,
+       "creencia": 0.0,
+       "ignorancia": 0.209,
+       "recuerdos": 4
+      },
+      "nueva": {
+       "peso": 0.4972,
+       "creencia": 0.0,
+       "ignorancia": 0.6679,
+       "recuerdos": 4
+      },
+      "pruebas_del_dia": 1,
+      "contacto_del_dia": 648
+     },
+     "camuflaje": {
+      "vieja": {
+       "peso": 2.5595,
+       "creencia": 0.0,
+       "ignorancia": 0.2809,
+       "recuerdos": 3
+      },
+      "nueva": {
+       "peso": 0.1275,
+       "creencia": 0.0,
+       "ignorancia": 0.8869,
+       "recuerdos": 3
+      },
+      "pruebas_del_dia": 1,
+      "contacto_del_dia": 626
+     }
+    },
+    "11": {
+     "botiquin": {
+      "vieja": {
+       "peso": 21.6592,
+       "creencia": 23.0724,
+       "ignorancia": 0.0441,
+       "recuerdos": 21
+      },
+      "nueva": {
+       "peso": 4.2156,
+       "creencia": 20.3783,
+       "ignorancia": 0.1917,
+       "recuerdos": 21
+      },
+      "pruebas_del_dia": 5,
+      "contacto_del_dia": 2673
+     },
+     "racion": {
+      "vieja": {
+       "peso": 10.9259,
+       "creencia": 6.7707,
+       "ignorancia": 0.0839,
+       "recuerdos": 11
+      },
+      "nueva": {
+       "peso": 2.2314,
+       "creencia": 4.0269,
+       "ignorancia": 0.3095,
+       "recuerdos": 11
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "red": {
+      "vieja": {
+       "peso": 4.8912,
+       "creencia": 4.7909,
+       "ignorancia": 0.1697,
+       "recuerdos": 5
+      },
+      "nueva": {
+       "peso": 0.767,
+       "creencia": 3.6358,
+       "ignorancia": 0.5659,
+       "recuerdos": 5
+      },
+      "pruebas_del_dia": 1,
+      "contacto_del_dia": 11441
+     },
+     "camuflaje": {
+      "vieja": {
+       "peso": 2.4316,
+       "creencia": 0.0,
+       "ignorancia": 0.2914,
+       "recuerdos": 3
+      },
+      "nueva": {
+       "peso": 0.1211,
+       "creencia": 0.0,
+       "ignorancia": 0.892,
+       "recuerdos": 3
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     }
+    },
+    "12": {
+     "botiquin": {
+      "vieja": {
+       "peso": 23.9663,
+       "creencia": 23.1608,
+       "ignorancia": 0.0401,
+       "recuerdos": 24
+      },
+      "nueva": {
+       "peso": 4.4322,
+       "creencia": 20.4854,
+       "ignorancia": 0.1841,
+       "recuerdos": 24
+      },
+      "pruebas_del_dia": 3,
+      "contacto_del_dia": 4851
+     },
+     "racion": {
+      "vieja": {
+       "peso": 11.547,
+       "creencia": 10.1164,
+       "ignorancia": 0.0797,
+       "recuerdos": 12
+      },
+      "nueva": {
+       "peso": 2.2872,
+       "creencia": 4.5504,
+       "ignorancia": 0.3042,
+       "recuerdos": 12
+      },
+      "pruebas_del_dia": 1,
+      "contacto_del_dia": 9263
+     },
+     "red": {
+      "vieja": {
+       "peso": 4.6466,
+       "creencia": 4.7485,
+       "ignorancia": 0.1771,
+       "recuerdos": 5
+      },
+      "nueva": {
+       "peso": 0.7287,
+       "creencia": 3.5306,
+       "ignorancia": 0.5785,
+       "recuerdos": 5
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "camuflaje": {
+      "vieja": {
+       "peso": 3.4057,
+       "creencia": 0.0,
+       "ignorancia": 0.227,
+       "recuerdos": 4
+      },
+      "nueva": {
+       "peso": 0.2108,
+       "creencia": 0.0,
+       "ignorancia": 0.8259,
+       "recuerdos": 4
+      },
+      "pruebas_del_dia": 1,
+      "contacto_del_dia": 616
+     }
+    },
+    "13": {
+     "botiquin": {
+      "vieja": {
+       "peso": 27.435,
+       "creencia": 23.335,
+       "ignorancia": 0.0352,
+       "recuerdos": 28
+      },
+      "nueva": {
+       "peso": 4.8861,
+       "creencia": 21.0411,
+       "ignorancia": 0.1699,
+       "recuerdos": 28
+      },
+      "pruebas_del_dia": 4,
+      "contacto_del_dia": 626
+     },
+     "racion": {
+      "vieja": {
+       "peso": 18.6852,
+       "creencia": 12.9747,
+       "ignorancia": 0.0508,
+       "recuerdos": 19
+      },
+      "nueva": {
+       "peso": 2.9518,
+       "creencia": 7.9622,
+       "ignorancia": 0.253,
+       "recuerdos": 19
+      },
+      "pruebas_del_dia": 7,
+      "contacto_del_dia": 13034
+     },
+     "red": {
+      "vieja": {
+       "peso": 4.4143,
+       "creencia": 4.7047,
+       "ignorancia": 0.1847,
+       "recuerdos": 5
+      },
+      "nueva": {
+       "peso": 0.6922,
+       "creencia": 3.4263,
+       "ignorancia": 0.5909,
+       "recuerdos": 5
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "camuflaje": {
+      "vieja": {
+       "peso": 3.2354,
+       "creencia": 0.0,
+       "ignorancia": 0.2361,
+       "recuerdos": 4
+      },
+      "nueva": {
+       "peso": 0.2002,
+       "creencia": 0.0,
+       "ignorancia": 0.8332,
+       "recuerdos": 4
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     }
+    },
+    "14": {
+     "botiquin": {
+      "vieja": {
+       "peso": 29.2957,
+       "creencia": 24.8364,
+       "ignorancia": 0.033,
+       "recuerdos": 30
+      },
+      "nueva": {
+       "peso": 5.8742,
+       "creencia": 23.498,
+       "ignorancia": 0.1455,
+       "recuerdos": 30
+      },
+      "pruebas_del_dia": 2,
+      "contacto_del_dia": 791
+     },
+     "racion": {
+      "vieja": {
+       "peso": 17.751,
+       "creencia": 12.9037,
+       "ignorancia": 0.0533,
+       "recuerdos": 19
+      },
+      "nueva": {
+       "peso": 2.8042,
+       "creencia": 7.7928,
+       "ignorancia": 0.2629,
+       "recuerdos": 19
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "red": {
+      "vieja": {
+       "peso": 4.1936,
+       "creencia": 4.6594,
+       "ignorancia": 0.1925,
+       "recuerdos": 5
+      },
+      "nueva": {
+       "peso": 0.6576,
+       "creencia": 3.3229,
+       "ignorancia": 0.6033,
+       "recuerdos": 5
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "camuflaje": {
+      "vieja": {
+       "peso": 3.0736,
+       "creencia": 0.0,
+       "ignorancia": 0.2455,
+       "recuerdos": 4
+      },
+      "nueva": {
+       "peso": 0.1902,
+       "creencia": 0.0,
+       "ignorancia": 0.8402,
+       "recuerdos": 4
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     }
+    },
+    "15": {
+     "botiquin": {
+      "vieja": {
+       "peso": 32.2203,
+       "creencia": 24.7653,
+       "ignorancia": 0.0301,
+       "recuerdos": 33
+      },
+      "nueva": {
+       "peso": 6.9698,
+       "creencia": 23.2597,
+       "ignorancia": 0.1255,
+       "recuerdos": 33
+      },
+      "pruebas_del_dia": 3,
+      "contacto_del_dia": 11616
+     },
+     "racion": {
+      "vieja": {
+       "peso": 16.8634,
+       "creencia": 12.8298,
+       "ignorancia": 0.056,
+       "recuerdos": 19
+      },
+      "nueva": {
+       "peso": 2.664,
+       "creencia": 7.6222,
+       "ignorancia": 0.2729,
+       "recuerdos": 19
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": 516
+     },
+     "red": {
+      "vieja": {
+       "peso": 3.9839,
+       "creencia": 4.6126,
+       "ignorancia": 0.2006,
+       "recuerdos": 5
+      },
+      "nueva": {
+       "peso": 0.6247,
+       "creencia": 3.2207,
+       "ignorancia": 0.6155,
+       "recuerdos": 5
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "camuflaje": {
+      "vieja": {
+       "peso": 2.9199,
+       "creencia": 0.0,
+       "ignorancia": 0.2551,
+       "recuerdos": 4
+      },
+      "nueva": {
+       "peso": 0.1807,
+       "creencia": 0.0,
+       "ignorancia": 0.847,
+       "recuerdos": 4
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     }
+    },
+    "16": {
+     "botiquin": {
+      "vieja": {
+       "peso": 33.2336,
+       "creencia": 23.9175,
+       "ignorancia": 0.0292,
+       "recuerdos": 35
+      },
+      "nueva": {
+       "peso": 7.2456,
+       "creencia": 22.4814,
+       "ignorancia": 0.1213,
+       "recuerdos": 35
+      },
+      "pruebas_del_dia": 2,
+      "contacto_del_dia": 4855
+     },
+     "racion": {
+      "vieja": {
+       "peso": 16.0203,
+       "creencia": 12.7529,
+       "ignorancia": 0.0588,
+       "recuerdos": 19
+      },
+      "nueva": {
+       "peso": 2.5308,
+       "creencia": 7.4505,
+       "ignorancia": 0.2832,
+       "recuerdos": 19
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "red": {
+      "vieja": {
+       "peso": 3.7847,
+       "creencia": 4.5644,
+       "ignorancia": 0.209,
+       "recuerdos": 5
+      },
+      "nueva": {
+       "peso": 0.5935,
+       "creencia": 3.1196,
+       "ignorancia": 0.6275,
+       "recuerdos": 5
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "camuflaje": {
+      "vieja": {
+       "peso": 3.7785,
+       "creencia": 0.0,
+       "ignorancia": 0.2093,
+       "recuerdos": 5
+      },
+      "nueva": {
+       "peso": 0.2217,
+       "creencia": 0.0,
+       "ignorancia": 0.8186,
+       "recuerdos": 5
+      },
+      "pruebas_del_dia": 1,
+      "contacto_del_dia": 1022
+     }
+    },
+    "17": {
+     "botiquin": {
+      "vieja": {
+       "peso": 31.5719,
+       "creencia": 23.8476,
+       "ignorancia": 0.0307,
+       "recuerdos": 35
+      },
+      "nueva": {
+       "peso": 6.8833,
+       "creencia": 22.2486,
+       "ignorancia": 0.1268,
+       "recuerdos": 35
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "racion": {
+      "vieja": {
+       "peso": 16.319,
+       "creencia": 12.9549,
+       "ignorancia": 0.0577,
+       "recuerdos": 20
+      },
+      "nueva": {
+       "peso": 2.504,
+       "creencia": 7.6188,
+       "ignorancia": 0.2854,
+       "recuerdos": 20
+      },
+      "pruebas_del_dia": 1,
+      "contacto_del_dia": 10273
+     },
+     "red": {
+      "vieja": {
+       "peso": 3.5955,
+       "creencia": 4.5148,
+       "ignorancia": 0.2176,
+       "recuerdos": 5
+      },
+      "nueva": {
+       "peso": 0.5638,
+       "creencia": 3.0199,
+       "ignorancia": 0.6395,
+       "recuerdos": 5
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "camuflaje": {
+      "vieja": {
+       "peso": 3.5895,
+       "creencia": 0.0,
+       "ignorancia": 0.2179,
+       "recuerdos": 5
+      },
+      "nueva": {
+       "peso": 0.2106,
+       "creencia": 0.0,
+       "ignorancia": 0.8261,
+       "recuerdos": 5
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     }
+    },
+    "18": {
+     "botiquin": {
+      "vieja": {
+       "peso": 29.9933,
+       "creencia": 23.7743,
+       "ignorancia": 0.0323,
+       "recuerdos": 35
+      },
+      "nueva": {
+       "peso": 6.5392,
+       "creencia": 22.0087,
+       "ignorancia": 0.1326,
+       "recuerdos": 35
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": 912
+     },
+     "racion": {
+      "vieja": {
+       "peso": 18.7854,
+       "creencia": 13.3259,
+       "ignorancia": 0.0505,
+       "recuerdos": 23
+      },
+      "nueva": {
+       "peso": 2.6669,
+       "creencia": 7.9378,
+       "ignorancia": 0.2727,
+       "recuerdos": 23
+      },
+      "pruebas_del_dia": 3,
+      "contacto_del_dia": 9246
+     },
+     "red": {
+      "vieja": {
+       "peso": 4.6962,
+       "creencia": 3.4602,
+       "ignorancia": 0.1756,
+       "recuerdos": 6
+      },
+      "nueva": {
+       "peso": 0.8161,
+       "creencia": 2.4703,
+       "ignorancia": 0.5506,
+       "recuerdos": 6
+      },
+      "pruebas_del_dia": 1,
+      "contacto_del_dia": 1264
+     },
+     "camuflaje": {
+      "vieja": {
+       "peso": 4.4899,
+       "creencia": 0.0,
+       "ignorancia": 0.1822,
+       "recuerdos": 6
+      },
+      "nueva": {
+       "peso": 0.2798,
+       "creencia": 0.0,
+       "ignorancia": 0.7813,
+       "recuerdos": 6
+      },
+      "pruebas_del_dia": 1,
+      "contacto_del_dia": 1154
+     }
+    },
+    "19": {
+     "botiquin": {
+      "vieja": {
+       "peso": 28.4936,
+       "creencia": 23.6977,
+       "ignorancia": 0.0339,
+       "recuerdos": 35
+      },
+      "nueva": {
+       "peso": 6.2122,
+       "creencia": 21.7617,
+       "ignorancia": 0.1387,
+       "recuerdos": 35
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": 681
+     },
+     "racion": {
+      "vieja": {
+       "peso": 20.2435,
+       "creencia": 13.6064,
+       "ignorancia": 0.0471,
+       "recuerdos": 25
+      },
+      "nueva": {
+       "peso": 2.9309,
+       "creencia": 8.7964,
+       "ignorancia": 0.2544,
+       "recuerdos": 25
+      },
+      "pruebas_del_dia": 2,
+      "contacto_del_dia": 527
+     },
+     "red": {
+      "vieja": {
+       "peso": 4.4614,
+       "creencia": 3.4285,
+       "ignorancia": 0.1831,
+       "recuerdos": 6
+      },
+      "nueva": {
+       "peso": 0.7753,
+       "creencia": 2.4007,
+       "ignorancia": 0.5633,
+       "recuerdos": 6
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "camuflaje": {
+      "vieja": {
+       "peso": 5.5525,
+       "creencia": 0.0,
+       "ignorancia": 0.1526,
+       "recuerdos": 7
+      },
+      "nueva": {
+       "peso": 0.553,
+       "creencia": 0.0,
+       "ignorancia": 0.6439,
+       "recuerdos": 7
+      },
+      "pruebas_del_dia": 1,
+      "contacto_del_dia": 704
+     }
+    },
+    "20": {
+     "botiquin": {
+      "vieja": {
+       "peso": 27.0689,
+       "creencia": 23.6176,
+       "ignorancia": 0.0356,
+       "recuerdos": 35
+      },
+      "nueva": {
+       "peso": 5.9016,
+       "creencia": 21.5076,
+       "ignorancia": 0.1449,
+       "recuerdos": 35
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "racion": {
+      "vieja": {
+       "peso": 22.4909,
+       "creencia": 13.7825,
+       "ignorancia": 0.0426,
+       "recuerdos": 28
+      },
+      "nueva": {
+       "peso": 3.044,
+       "creencia": 9.1316,
+       "ignorancia": 0.2473,
+       "recuerdos": 28
+      },
+      "pruebas_del_dia": 3,
+      "contacto_del_dia": 527
+     },
+     "red": {
+      "vieja": {
+       "peso": 4.2383,
+       "creencia": 3.3958,
+       "ignorancia": 0.1909,
+       "recuerdos": 6
+      },
+      "nueva": {
+       "peso": 0.7366,
+       "creencia": 2.3316,
+       "ignorancia": 0.5758,
+       "recuerdos": 6
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     },
+     "camuflaje": {
+      "vieja": {
+       "peso": 5.2748,
+       "creencia": 0.0,
+       "ignorancia": 0.1594,
+       "recuerdos": 7
+      },
+      "nueva": {
+       "peso": 0.5253,
+       "creencia": 0.0,
+       "ignorancia": 0.6556,
+       "recuerdos": 7
+      },
+      "pruebas_del_dia": 0,
+      "contacto_del_dia": null
+     }
+    }
+   },
+   "despierta": {
+    "red vieja": [
+     {
+      "prueba_dia": 4,
+      "vuelve_a_mandar_dia": 6,
+      "pasa_de_0_5_dia": null
+     },
+     {
+      "prueba_dia": 5,
+      "vuelve_a_mandar_dia": 6,
+      "pasa_de_0_5_dia": null
+     },
+     {
+      "prueba_dia": 8,
+      "vuelve_a_mandar_dia": 19,
+      "pasa_de_0_5_dia": null
+     },
+     {
+      "prueba_dia": 10,
+      "vuelve_a_mandar_dia": 19,
+      "pasa_de_0_5_dia": null
+     },
+     {
+      "prueba_dia": 11,
+      "vuelve_a_mandar_dia": 19,
+      "pasa_de_0_5_dia": null
+     },
+     {
+      "prueba_dia": 18,
+      "vuelve_a_mandar_dia": 19,
+      "pasa_de_0_5_dia": null
+     }
+    ],
+    "red nueva": [
+     {
+      "prueba_dia": 4,
+      "vuelve_a_mandar_dia": 6,
+      "pasa_de_0_5_dia": 5
+     },
+     {
+      "prueba_dia": 5,
+      "vuelve_a_mandar_dia": 6,
+      "pasa_de_0_5_dia": 6
+     },
+     {
+      "prueba_dia": 8,
+      "vuelve_a_mandar_dia": null,
+      "pasa_de_0_5_dia": 9
+     },
+     {
+      "prueba_dia": 10,
+      "vuelve_a_mandar_dia": null,
+      "pasa_de_0_5_dia": 11
+     },
+     {
+      "prueba_dia": 11,
+      "vuelve_a_mandar_dia": null,
+      "pasa_de_0_5_dia": 12
+     },
+     {
+      "prueba_dia": 18,
+      "vuelve_a_mandar_dia": null,
+      "pasa_de_0_5_dia": 19
+     }
+    ],
+    "camuflaje vieja": [
+     {
+      "prueba_dia": 4,
+      "vuelve_a_mandar_dia": 5,
+      "pasa_de_0_5_dia": 5
+     },
+     {
+      "prueba_dia": 6,
+      "vuelve_a_mandar_dia": 8,
+      "pasa_de_0_5_dia": null
+     },
+     {
+      "prueba_dia": 10,
+      "vuelve_a_mandar_dia": 11,
+      "pasa_de_0_5_dia": null
+     },
+     {
+      "prueba_dia": 12,
+      "vuelve_a_mandar_dia": 13,
+      "pasa_de_0_5_dia": null
+     },
+     {
+      "prueba_dia": 16,
+      "vuelve_a_mandar_dia": 17,
+      "pasa_de_0_5_dia": null
+     },
+     {
+      "prueba_dia": 18,
+      "vuelve_a_mandar_dia": null,
+      "pasa_de_0_5_dia": null
+     },
+     {
+      "prueba_dia": 19,
+      "vuelve_a_mandar_dia": null,
+      "pasa_de_0_5_dia": null
+     }
+    ],
+    "camuflaje nueva": [
+     {
+      "prueba_dia": 4,
+      "vuelve_a_mandar_dia": 5,
+      "pasa_de_0_5_dia": 5
+     },
+     {
+      "prueba_dia": 6,
+      "vuelve_a_mandar_dia": 8,
+      "pasa_de_0_5_dia": 7
+     },
+     {
+      "prueba_dia": 10,
+      "vuelve_a_mandar_dia": 11,
+      "pasa_de_0_5_dia": 11
+     },
+     {
+      "prueba_dia": 12,
+      "vuelve_a_mandar_dia": 13,
+      "pasa_de_0_5_dia": 13
+     },
+     {
+      "prueba_dia": 16,
+      "vuelve_a_mandar_dia": 17,
+      "pasa_de_0_5_dia": 17
+     },
+     {
+      "prueba_dia": 18,
+      "vuelve_a_mandar_dia": 19,
+      "pasa_de_0_5_dia": 19
+     },
+     {
+      "prueba_dia": 19,
+      "vuelve_a_mandar_dia": 20,
+      "pasa_de_0_5_dia": 20
+     }
+    ]
+   },
+   "pruebas_reales": {
+    "red": [
+     4,
+     5,
+     8,
+     10,
+     11,
+     18
+    ],
+    "camuflaje": [
+     4,
+     6,
+     10,
+     12,
+     16,
+     18,
+     19
+    ]
+   }
+  }
+ }
+}

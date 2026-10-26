@@ -1,0 +1,85 @@
+{
+ "imagenes": {
+  "APRENDE_s1_d1": {
+   "imagen": "gemv-anima:P7_23_APRENDE_s1_d1",
+   "etiqueta": "gemv-p7-campo:v103",
+   "version": 103,
+   "policy_version_id": "8d98dcfd-2eba-4bab-b4ad-215c05d38480",
+   "segundos": 130.4,
+   "cuadernos_horneados": [
+    ".gitkeep"
+   ],
+   "subida_a_las": "2026-10-07T13:57:09.449521+00:00"
+  },
+  "APRENDE_s1_d2": {
+   "imagen": "gemv-anima:P7_23_APRENDE_s1_d2",
+   "etiqueta": "gemv-p7-campo:v104",
+   "version": 104,
+   "policy_version_id": "fe0bccb1-de12-45b1-a238-7ccf5ea043ce",
+   "segundos": 118.4,
+   "cuadernos_horneados": [
+    ".gitkeep",
+    "cuaderno_P7_10.json",
+    "cuaderno_P7_11.json"
+   ],
+   "subida_a_las": "2026-10-07T14:13:17.007754+00:00"
+  },
+  "APRENDE_s1_d3": {
+   "imagen": "gemv-anima:P7_23_APRENDE_s1_d3",
+   "etiqueta": "gemv-p7-campo:v105",
+   "version": 105,
+   "policy_version_id": "8dce18fd-645d-441f-b383-e3e8b7372cb8",
+   "segundos": 119.1,
+   "cuadernos_horneados": [
+    ".gitkeep",
+    "cuaderno_P7_10.json",
+    "cuaderno_P7_11.json"
+   ],
+   "subida_a_las": "2026-10-07T14:29:25.518919+00:00"
+  }
+ },
+ "peticiones": [
+  {
+   "serie": 1,
+   "dia": 1,
+   "brazo": "APRENDE",
+   "semilla": 36179724,
+   "pvid": "8d98dcfd-2eba-4bab-b4ad-215c05d38480",
+   "imagen": "APRENDE_s1_d1",
+   "xreq": "xreq_1866cf2d-b13b-45ed-b9a8-1b3557dcee5e",
+   "ereq": "ereq_c883e46f-c8c0-4555-9098-120bab58823f",
+   "pedida_a_las": "2026-10-07T13:57:09.463158+00:00",
+   "estado": "completed",
+   "coste_usd": 0.111461,
+   "completada_a_las": "2026-10-07T14:10:37.801428Z"
+  },
+  {
+   "serie": 1,
+   "dia": 2,
+   "brazo": "APRENDE",
+   "semilla": 36284453,
+   "pvid": "fe0bccb1-de12-45b1-a238-7ccf5ea043ce",
+   "imagen": "APRENDE_s1_d2",
+   "xreq": "xreq_c2939a3a-e3bc-426b-96c0-77e7dc5183c8",
+   "ereq": "ereq_85d19548-961e-4a15-b7a7-9ff8b2ebd95d",
+   "pedida_a_las": "2026-10-07T14:13:17.032390+00:00",
+   "estado": "completed",
+   "coste_usd": 0.05825,
+   "completada_a_las": "2026-10-07T14:26:27.809080Z"
+  },
+  {
+   "serie": 1,
+   "dia": 3,
+   "brazo": "APRENDE",
+   "semilla": 36389182,
+   "pvid": "8dce18fd-645d-441f-b383-e3e8b7372cb8",
+   "imagen": "APRENDE_s1_d3",
+   "xreq": "xreq_66c7ab30-9b3e-4bfe-8015-9307d1377ff4",
+   "ereq": "ereq_1a2d942f-536e-4688-97e4-98f9b01a7e97",
+   "pedida_a_las": "2026-10-07T14:29:25.532741+00:00",
+   "estado": "completed",
+   "coste_usd": 0.051168,
+   "completada_a_las": "2026-10-07T14:43:29.054701Z"
+  }
+ ]
+}

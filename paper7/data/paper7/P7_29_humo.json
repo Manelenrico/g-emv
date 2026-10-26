@@ -1,0 +1,614 @@
+[
+ {
+  "dia": 1,
+  "asiento": 10,
+  "semilla": 38588491,
+  "tics": 14188,
+  "puesto": 1,
+  "murio": false,
+  "P7_29": {
+   "P7_29": true,
+   "cache": true,
+   "curiosidad": true,
+   "corte": true,
+   "cuanto": true,
+   "fila": "R-CURIOSIDAD-CUANTO"
+  },
+  "contacto": {
+   "botiquin": 626,
+   "racion": 12734
+  },
+  "cogidos": {
+   "botiquin": 2,
+   "racion": 2
+  },
+  "usos": {
+   "botiquin": [
+    {
+     "t0": 12357,
+     "hp0": 92.0,
+     "completado": true,
+     "al_menos": true,
+     "firme": false,
+     "efecto": 8.0,
+     "situacion": "dentro",
+     "dano_en_ventana": 0.0
+    },
+    {
+     "t0": 12626,
+     "hp0": 93.0,
+     "completado": true,
+     "al_menos": true,
+     "firme": false,
+     "efecto": 7.0,
+     "situacion": "fuera",
+     "dano_en_ventana": 0.0
+    }
+   ],
+   "racion": []
+  },
+  "al_acabar": {
+   "botiquin": {
+    "creencia": {
+     "dentro": 4.3242,
+     "fuera": 3.574
+    },
+    "ignorancia": 0.3106,
+    "ignorancia_cuanto": 1.0,
+    "sabido_max": 8.0,
+    "pesos_firmes": 0,
+    "recuerdos": 2,
+    "firmes": 0,
+    "al_menos": 2,
+    "cortes": 0,
+    "causas_de_corte": []
+   },
+   "racion": {
+    "creencia": {},
+    "ignorancia": null,
+    "ignorancia_cuanto": null,
+    "sabido_max": null,
+    "pesos_firmes": null,
+    "recuerdos": 0,
+    "firmes": 0,
+    "al_menos": 0,
+    "cortes": 0,
+    "causas_de_corte": []
+   }
+  },
+  "bloqueados": {
+   "paso_listo": 2178,
+   "bloqueados": 57,
+   "fraccion": 0.0262
+  },
+  "muros_aprendidos": [],
+  "ir_curioso_con_paso_listo": 7,
+  "ir_curioso_fraccion": 0.0032,
+  "ms": {
+   "mediana": 5.3,
+   "p90": 17.33,
+   "max": 84.14,
+   "sobre_el_tic": 0.0032
+  },
+  "cuanto_registros": [
+   {
+    "tick": 481,
+    "M": 0.0,
+    "M_curiosidad": 0.09495,
+    "clases": {
+     "first_aid": {
+      "ignorancia": 1.0,
+      "ignorancia_cuanto": 1.0,
+      "sabido_max": null
+     },
+     "rations": {
+      "ignorancia": 1.0,
+      "ignorancia_cuanto": 1.0,
+      "sabido_max": null
+     }
+    }
+   },
+   {
+    "tick": 1481,
+    "M": 0.0,
+    "M_curiosidad": 0.07003,
+    "clases": {
+     "first_aid": {
+      "ignorancia": 1.0,
+      "ignorancia_cuanto": 1.0,
+      "sabido_max": null
+     },
+     "rations": {
+      "ignorancia": 1.0,
+      "ignorancia_cuanto": 1.0,
+      "sabido_max": null
+     }
+    }
+   },
+   {
+    "tick": 2481,
+    "M": 0.0,
+    "M_curiosidad": 0.07011,
+    "clases": {
+     "first_aid": {
+      "ignorancia": 1.0,
+      "ignorancia_cuanto": 1.0,
+      "sabido_max": null
+     },
+     "rations": {
+      "ignorancia": 1.0,
+      "ignorancia_cuanto": 1.0,
+      "sabido_max": null
+     }
+    }
+   },
+   {
+    "tick": 3481,
+    "M": 0.0,
+    "M_curiosidad": 0.07036,
+    "clases": {
+     "first_aid": {
+      "ignorancia": 1.0,
+      "ignorancia_cuanto": 1.0,
+      "sabido_max": null
+     },
+     "rations": {
+      "ignorancia": 1.0,
+      "ignorancia_cuanto": 1.0,
+      "sabido_max": null
+     }
+    }
+   },
+   {
+    "tick": 4481,
+    "M": 0.0,
+    "M_curiosidad": 0.07011,
+    "clases": {
+     "first_aid": {
+      "ignorancia": 1.0,
+      "ignorancia_cuanto": 1.0,
+      "sabido_max": null
+     },
+     "rations": {
+      "ignorancia": 1.0,
+      "ignorancia_cuanto": 1.0,
+      "sabido_max": null
+     }
+    }
+   },
+   {
+    "tick": 5481,
+    "M": 0.0,
+    "M_curiosidad": 0.07011,
+    "clases": {
+     "first_aid": {
+      "ignorancia": 1.0,
+      "ignorancia_cuanto": 1.0,
+      "sabido_max": null
+     },
+     "rations": {
+      "ignorancia": 1.0,
+      "ignorancia_cuanto": 1.0,
+      "sabido_max": null
+     }
+    }
+   },
+   {
+    "tick": 6481,
+    "M": 0.0,
+    "M_curiosidad": 0.07073,
+    "clases": {
+     "first_aid": {
+      "ignorancia": 1.0,
+      "ignorancia_cuanto": 1.0,
+      "sabido_max": null
+     },
+     "rations": {
+      "ignorancia": 1.0,
+      "ignorancia_cuanto": 1.0,
+      "sabido_max": null
+     }
+    }
+   },
+   {
+    "tick": 7481,
+    "M": 0.0,
+    "M_curiosidad": 0.07073,
+    "clases": {
+     "first_aid": {
+      "ignorancia": 1.0,
+      "ignorancia_cuanto": 1.0,
+      "sabido_max": null
+     },
+     "rations": {
+      "ignorancia": 1.0,
+      "ignorancia_cuanto": 1.0,
+      "sabido_max": null
+     }
+    }
+   },
+   {
+    "tick": 8481,
+    "M": 0.0,
+    "M_curiosidad": 0.07011,
+    "clases": {
+     "first_aid": {
+      "ignorancia": 1.0,
+      "ignorancia_cuanto": 1.0,
+      "sabido_max": null
+     },
+     "rations": {
+      "ignorancia": 1.0,
+      "ignorancia_cuanto": 1.0,
+      "sabido_max": null
+     }
+    }
+   },
+   {
+    "tick": 9481,
+    "M": 0.0,
+    "M_curiosidad": 0.07003,
+    "clases": {
+     "first_aid": {
+      "ignorancia": 1.0,
+      "ignorancia_cuanto": 1.0,
+      "sabido_max": null
+     },
+     "rations": {
+      "ignorancia": 1.0,
+      "ignorancia_cuanto": 1.0,
+      "sabido_max": null
+     }
+    }
+   },
+   {
+    "tick": 10481,
+    "M": 0.0,
+    "M_curiosidad": 0.07059,
+    "clases": {
+     "first_aid": {
+      "ignorancia": 1.0,
+      "ignorancia_cuanto": 1.0,
+      "sabido_max": null
+     },
+     "rations": {
+      "ignorancia": 1.0,
+      "ignorancia_cuanto": 1.0,
+      "sabido_max": null
+     }
+    }
+   },
+   {
+    "tick": 11481,
+    "M": 0.0,
+    "M_curiosidad": 0.07122,
+    "clases": {
+     "first_aid": {
+      "ignorancia": 1.0,
+      "ignorancia_cuanto": 1.0,
+      "sabido_max": null
+     },
+     "rations": {
+      "ignorancia": 1.0,
+      "ignorancia_cuanto": 1.0,
+      "sabido_max": null
+     }
+    }
+   }
+  ],
+  "aperturas_hp": [
+   92,
+   93
+  ]
+ },
+ {
+  "dia": 1,
+  "asiento": 11,
+  "semilla": 38588491,
+  "tics": 12648,
+  "puesto": 3,
+  "murio": true,
+  "P7_29": {
+   "P7_29": true,
+   "cache": true,
+   "curiosidad": true,
+   "corte": true,
+   "cuanto": true,
+   "fila": "R-CURIOSIDAD-CUANTO"
+  },
+  "contacto": {
+   "botiquin": 1324,
+   "racion": null
+  },
+  "cogidos": {
+   "botiquin": 1,
+   "racion": 0
+  },
+  "usos": {
+   "botiquin": [
+    {
+     "t0": 12482,
+     "hp0": 93.0,
+     "completado": false,
+     "al_menos": false,
+     "firme": false,
+     "efecto": 0.0,
+     "situacion": "fuera",
+     "dano_en_ventana": 6.56
+    },
+    {
+     "t0": 12531,
+     "hp0": 86.0,
+     "completado": true,
+     "al_menos": true,
+     "firme": false,
+     "efecto": 14.0,
+     "situacion": "fuera",
+     "dano_en_ventana": 0.0
+    }
+   ],
+   "racion": []
+  },
+  "al_acabar": {
+   "botiquin": {
+    "creencia": {
+     "fuera": 7.2982
+    },
+    "ignorancia": 0.3255,
+    "ignorancia_cuanto": 1.0,
+    "sabido_max": 14.0,
+    "pesos_firmes": 0,
+    "recuerdos": 2,
+    "firmes": 0,
+    "al_menos": 1,
+    "cortes": 1,
+    "causas_de_corte": [
+     {
+      "dano": 6.56,
+      "fuentes": [
+       "anillo"
+      ],
+      "ultima_eleccion": "ir_pareja",
+      "tics": 46
+     }
+    ]
+   },
+   "racion": {
+    "creencia": {},
+    "ignorancia": null,
+    "ignorancia_cuanto": null,
+    "sabido_max": null,
+    "pesos_firmes": null,
+    "recuerdos": 0,
+    "firmes": 0,
+    "al_menos": 0,
+    "cortes": 0,
+    "causas_de_corte": []
+   }
+  },
+  "bloqueados": {
+   "paso_listo": 10051,
+   "bloqueados": 58,
+   "fraccion": 0.0058
+  },
+  "muros_aprendidos": [],
+  "ir_curioso_con_paso_listo": 93,
+  "ir_curioso_fraccion": 0.0093,
+  "ms": {
+   "mediana": 6.96,
+   "p90": 12.0,
+   "max": 34.25,
+   "sobre_el_tic": 0.0
+  },
+  "cuanto_registros": [
+   {
+    "tick": 481,
+    "M": 0.0,
+    "M_curiosidad": 0.09459,
+    "clases": {
+     "first_aid": {
+      "ignorancia": 1.0,
+      "ignorancia_cuanto": 1.0,
+      "sabido_max": null
+     },
+     "rations": {
+      "ignorancia": 1.0,
+      "ignorancia_cuanto": 1.0,
+      "sabido_max": null
+     }
+    }
+   },
+   {
+    "tick": 1481,
+    "M": 0.0,
+    "M_curiosidad": 0.0719,
+    "clases": {
+     "first_aid": {
+      "ignorancia": 1.0,
+      "ignorancia_cuanto": 1.0,
+      "sabido_max": null
+     },
+     "rations": {
+      "ignorancia": 1.0,
+      "ignorancia_cuanto": 1.0,
+      "sabido_max": null
+     }
+    }
+   },
+   {
+    "tick": 2481,
+    "M": 0.0,
+    "M_curiosidad": 0.07059,
+    "clases": {
+     "first_aid": {
+      "ignorancia": 1.0,
+      "ignorancia_cuanto": 1.0,
+      "sabido_max": null
+     },
+     "rations": {
+      "ignorancia": 1.0,
+      "ignorancia_cuanto": 1.0,
+      "sabido_max": null
+     }
+    }
+   },
+   {
+    "tick": 3481,
+    "M": 0.0,
+    "M_curiosidad": 0.06939,
+    "clases": {
+     "first_aid": {
+      "ignorancia": 1.0,
+      "ignorancia_cuanto": 1.0,
+      "sabido_max": null
+     },
+     "rations": {
+      "ignorancia": 1.0,
+      "ignorancia_cuanto": 1.0,
+      "sabido_max": null
+     }
+    }
+   },
+   {
+    "tick": 4481,
+    "M": 0.0,
+    "M_curiosidad": 0.07059,
+    "clases": {
+     "first_aid": {
+      "ignorancia": 1.0,
+      "ignorancia_cuanto": 1.0,
+      "sabido_max": null
+     },
+     "rations": {
+      "ignorancia": 1.0,
+      "ignorancia_cuanto": 1.0,
+      "sabido_max": null
+     }
+    }
+   },
+   {
+    "tick": 5481,
+    "M": 0.0,
+    "M_curiosidad": 0.07122,
+    "clases": {
+     "first_aid": {
+      "ignorancia": 1.0,
+      "ignorancia_cuanto": 1.0,
+      "sabido_max": null
+     },
+     "rations": {
+      "ignorancia": 1.0,
+      "ignorancia_cuanto": 1.0,
+      "sabido_max": null
+     }
+    }
+   },
+   {
+    "tick": 6481,
+    "M": 0.0,
+    "M_curiosidad": 0.07003,
+    "clases": {
+     "first_aid": {
+      "ignorancia": 1.0,
+      "ignorancia_cuanto": 1.0,
+      "sabido_max": null
+     },
+     "rations": {
+      "ignorancia": 1.0,
+      "ignorancia_cuanto": 1.0,
+      "sabido_max": null
+     }
+    }
+   },
+   {
+    "tick": 7481,
+    "M": 0.0,
+    "M_curiosidad": 0.07003,
+    "clases": {
+     "first_aid": {
+      "ignorancia": 1.0,
+      "ignorancia_cuanto": 1.0,
+      "sabido_max": null
+     },
+     "rations": {
+      "ignorancia": 1.0,
+      "ignorancia_cuanto": 1.0,
+      "sabido_max": null
+     }
+    }
+   },
+   {
+    "tick": 8481,
+    "M": 0.0,
+    "M_curiosidad": 0.07147,
+    "clases": {
+     "first_aid": {
+      "ignorancia": 1.0,
+      "ignorancia_cuanto": 1.0,
+      "sabido_max": null
+     },
+     "rations": {
+      "ignorancia": 1.0,
+      "ignorancia_cuanto": 1.0,
+      "sabido_max": null
+     }
+    }
+   },
+   {
+    "tick": 9481,
+    "M": 0.0,
+    "M_curiosidad": 0.07297,
+    "clases": {
+     "first_aid": {
+      "ignorancia": 1.0,
+      "ignorancia_cuanto": 1.0,
+      "sabido_max": null
+     },
+     "rations": {
+      "ignorancia": 1.0,
+      "ignorancia_cuanto": 1.0,
+      "sabido_max": null
+     }
+    }
+   },
+   {
+    "tick": 10481,
+    "M": 0.0,
+    "M_curiosidad": 0.07073,
+    "clases": {
+     "first_aid": {
+      "ignorancia": 1.0,
+      "ignorancia_cuanto": 1.0,
+      "sabido_max": null
+     },
+     "rations": {
+      "ignorancia": 1.0,
+      "ignorancia_cuanto": 1.0,
+      "sabido_max": null
+     }
+    }
+   },
+   {
+    "tick": 11481,
+    "M": 0.0,
+    "M_curiosidad": 0.07036,
+    "clases": {
+     "first_aid": {
+      "ignorancia": 1.0,
+      "ignorancia_cuanto": 1.0,
+      "sabido_max": null
+     },
+     "rations": {
+      "ignorancia": 1.0,
+      "ignorancia_cuanto": 1.0,
+      "sabido_max": null
+     }
+    }
+   }
+  ],
+  "aperturas_hp": [
+   93,
+   86
+  ]
+ }
+]

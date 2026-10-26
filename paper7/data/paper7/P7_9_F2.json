@@ -1,0 +1,410 @@
+{
+ "vidas": [
+  {
+   "vida": "P78_s1_d1_APRENDE_27487217/10",
+   "escenas": 9881,
+   "bandas": {
+    "alta": 9881
+   },
+   "brazos": {
+    "antes": {
+     "baja": {},
+     "alta": {
+      "otra": 9881
+     },
+     "heal_mediana": {
+      "baja": null,
+      "alta": null
+     },
+     "d_usar_menos_mejor_mediana": {
+      "baja": null,
+      "alta": null
+     },
+     "ejemplos": [],
+     "huellas": 0,
+     "fidelidad": {
+      "igual": 12480
+     }
+    },
+    "esperanza": {
+     "baja": {},
+     "alta": {
+      "otra": 9881
+     },
+     "heal_mediana": {
+      "baja": null,
+      "alta": null
+     },
+     "d_usar_menos_mejor_mediana": {
+      "baja": null,
+      "alta": null
+     },
+     "ejemplos": [],
+     "huellas": 0,
+     "fidelidad": {
+      "igual": 12452,
+      "difiere": 28
+     }
+    }
+   }
+  },
+  {
+   "vida": "P78_s1_d1_APRENDE_27487217/11",
+   "escenas": 11675,
+   "bandas": {
+    "alta": 11495,
+    "baja": 180
+   },
+   "brazos": {
+    "antes": {
+     "baja": {
+      "otra": 128,
+      "usar_botiquin": 4
+     },
+     "alta": {
+      "otra": 11475,
+      "usar_botiquin": 1
+     },
+     "heal_mediana": {
+      "baja": 0.0,
+      "alta": 0.0
+     },
+     "d_usar_menos_mejor_mediana": {
+      "baja": 0.0,
+      "alta": 0.0
+     },
+     "ejemplos": [
+      {
+       "t": 12199,
+       "hp": 49.0,
+       "elegido": "noop",
+       "heal": null,
+       "k": 0.0,
+       "d_mejor": [
+        [
+         "noop",
+         4.54183
+        ]
+       ]
+      },
+      {
+       "t": 12200,
+       "hp": 49.0,
+       "elegido": "noop",
+       "heal": null,
+       "k": 0.0,
+       "d_mejor": [
+        [
+         "noop",
+         4.54183
+        ]
+       ]
+      },
+      {
+       "t": 12201,
+       "hp": 49.0,
+       "elegido": "noop",
+       "heal": null,
+       "k": 0.0,
+       "d_mejor": [
+        [
+         "noop",
+         4.54183
+        ]
+       ]
+      }
+     ],
+     "huellas": 7,
+     "fidelidad": {
+      "igual": 11898
+     }
+    },
+    "esperanza": {
+     "baja": {
+      "otra": 129,
+      "usar_botiquin": 3
+     },
+     "alta": {
+      "otra": 11475,
+      "usar_botiquin": 1
+     },
+     "heal_mediana": {
+      "baja": 15.0,
+      "alta": 15.0
+     },
+     "d_usar_menos_mejor_mediana": {
+      "baja": 0.0,
+      "alta": 0.0066
+     },
+     "ejemplos": [
+      {
+       "t": 12199,
+       "hp": 49.0,
+       "elegido": "noop",
+       "heal": null,
+       "k": 0.3,
+       "d_mejor": [
+        [
+         "noop",
+         4.43017
+        ]
+       ]
+      },
+      {
+       "t": 12200,
+       "hp": 49.0,
+       "elegido": "noop",
+       "heal": null,
+       "k": 0.3,
+       "d_mejor": [
+        [
+         "noop",
+         4.43017
+        ]
+       ]
+      },
+      {
+       "t": 12201,
+       "hp": 49.0,
+       "elegido": "noop",
+       "heal": null,
+       "k": 0.3,
+       "d_mejor": [
+        [
+         "noop",
+         4.43017
+        ]
+       ]
+      }
+     ],
+     "huellas": 7,
+     "fidelidad": {
+      "igual": 11871,
+      "difiere": 27
+     }
+    }
+   }
+  },
+  {
+   "vida": "P78_s1_d2_APRENDE_27591946/10",
+   "escenas": 1353,
+   "bandas": {
+    "alta": 1353
+   },
+   "brazos": {
+    "antes": {
+     "baja": {},
+     "alta": {
+      "otra": 1282,
+      "usar_botiquin": 2
+     },
+     "heal_mediana": {
+      "baja": null,
+      "alta": 0.0
+     },
+     "d_usar_menos_mejor_mediana": {
+      "baja": null,
+      "alta": 0.0
+     },
+     "ejemplos": [],
+     "huellas": 2,
+     "fidelidad": {
+      "igual": 12559
+     }
+    },
+    "esperanza": {
+     "baja": {},
+     "alta": {
+      "otra": 1283,
+      "usar_botiquin": 1
+     },
+     "heal_mediana": {
+      "baja": null,
+      "alta": 15.0
+     },
+     "d_usar_menos_mejor_mediana": {
+      "baja": null,
+      "alta": 0.0051
+     },
+     "ejemplos": [],
+     "huellas": 2,
+     "fidelidad": {
+      "igual": 12539,
+      "difiere": 20
+     }
+    }
+   }
+  },
+  {
+   "vida": "P78_s1_d2_APRENDE_27591946/11",
+   "escenas": 1149,
+   "bandas": {
+    "alta": 1149
+   },
+   "brazos": {
+    "antes": {
+     "baja": {},
+     "alta": {
+      "otra": 1100,
+      "usar_botiquin": 1
+     },
+     "heal_mediana": {
+      "baja": null,
+      "alta": 0.0
+     },
+     "d_usar_menos_mejor_mediana": {
+      "baja": null,
+      "alta": 0.0
+     },
+     "ejemplos": [],
+     "huellas": 1,
+     "fidelidad": {
+      "igual": 13728
+     }
+    },
+    "esperanza": {
+     "baja": {},
+     "alta": {
+      "otra": 1101
+     },
+     "heal_mediana": {
+      "baja": null,
+      "alta": 15.0
+     },
+     "d_usar_menos_mejor_mediana": {
+      "baja": null,
+      "alta": 0.0147
+     },
+     "ejemplos": [],
+     "huellas": 1,
+     "fidelidad": {
+      "igual": 13723,
+      "difiere": 5
+     }
+    }
+   }
+  },
+  {
+   "vida": "P78_s1_d3_APRENDE_27696675/10",
+   "escenas": 8952,
+   "bandas": {
+    "alta": 8952
+   },
+   "brazos": {
+    "antes": {
+     "baja": {},
+     "alta": {
+      "otra": 8903,
+      "usar_botiquin": 1
+     },
+     "heal_mediana": {
+      "baja": null,
+      "alta": 0.0
+     },
+     "d_usar_menos_mejor_mediana": {
+      "baja": null,
+      "alta": 0.0
+     },
+     "ejemplos": [],
+     "huellas": 1,
+     "fidelidad": {
+      "igual": 14093,
+      "difiere": 83
+     }
+    },
+    "esperanza": {
+     "baja": {},
+     "alta": {
+      "otra": 8903,
+      "usar_botiquin": 1
+     },
+     "heal_mediana": {
+      "baja": null,
+      "alta": 15.0
+     },
+     "d_usar_menos_mejor_mediana": {
+      "baja": null,
+      "alta": 0.0
+     },
+     "ejemplos": [],
+     "huellas": 1,
+     "fidelidad": {
+      "difiere": 66,
+      "igual": 14110
+     }
+    }
+   }
+  },
+  {
+   "vida": "P78_s1_d3_APRENDE_27696675/11",
+   "escenas": 8954,
+   "bandas": {
+    "alta": 8954
+   },
+   "brazos": {
+    "antes": {
+     "baja": {},
+     "alta": {
+      "otra": 8954
+     },
+     "heal_mediana": {
+      "baja": null,
+      "alta": null
+     },
+     "d_usar_menos_mejor_mediana": {
+      "baja": null,
+      "alta": null
+     },
+     "ejemplos": [],
+     "huellas": 0,
+     "fidelidad": {
+      "igual": 11664,
+      "difiere": 11
+     }
+    },
+    "esperanza": {
+     "baja": {},
+     "alta": {
+      "otra": 8954
+     },
+     "heal_mediana": {
+      "baja": null,
+      "alta": null
+     },
+     "d_usar_menos_mejor_mediana": {
+      "baja": null,
+      "alta": null
+     },
+     "ejemplos": [],
+     "huellas": 0,
+     "fidelidad": {
+      "igual": 11669,
+      "difiere": 6
+     }
+    }
+   }
+  }
+ ],
+ "resumen": {
+  "antes": {
+   "baja": {
+    "otra": 128,
+    "usar_botiquin": 4
+   },
+   "alta": {
+    "otra": 41595,
+    "usar_botiquin": 5
+   }
+  },
+  "esperanza": {
+   "baja": {
+    "otra": 129,
+    "usar_botiquin": 3
+   },
+   "alta": {
+    "otra": 41597,
+    "usar_botiquin": 3
+   }
+  }
+ }
+}

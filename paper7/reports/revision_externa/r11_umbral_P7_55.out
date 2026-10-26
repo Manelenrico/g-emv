@@ -1,0 +1,48 @@
+hermanas ['s1 a10', 's1 a11', 's2 a10', 's2 a11', 's3 a10', 's3 a11'] | dias por hermana {'s1 a10': 20, 's1 a11': 20, 's2 a10': 20, 's2 a11': 20, 's3 a10': 20, 's3 a11': 20} | hermana-dias 120
+comprobaciones: red y camuflaje (umbral 5) 240 ; botiquin y racion (umbral 0) 240
+red a maxima en los 120 5.05 | hermana-dias con a > 0 11
+camuflaje a maxima en los 120 4.08 | hermana-dias con a > 0 28
+
+s1 a10, cuaderno del dia 16, camuflaje: a = 4.08  b = 0.0  (creencia en puntos de vida, situacion 'dentro')
+   recuerdo neutro: peso 1,00, efecto 0
+   vivido   dia  1  efecto cuerpo   0.00  peso 0.88
+   vivido   dia  3  efecto cuerpo   0.00  peso 0.49
+   vivido   dia  4  efecto cuerpo   0.00  peso 1.41
+   contado  dia  5  efecto cuerpo   0.00  peso 0.94
+   contado  dia  6  efecto cuerpo   0.00  peso 0.61
+   contado  dia  7  efecto cuerpo   0.00  peso 1.07
+   visto    dia  7  efecto cuerpo   0.00  peso 0.60  (al menos)
+   vivido   dia  9  efecto cuerpo   0.00  peso 0.68
+   contado  dia 10  efecto cuerpo   0.00  peso 0.79
+   vivido   dia 11  efecto cuerpo   0.00  peso 1.22
+   contado  dia 13  efecto cuerpo   0.00  peso 1.22
+   contado  dia 14  efecto cuerpo   0.00  peso 1.24
+   vivido   dia 15  efecto cuerpo   0.00  peso 2.23
+   contado  dia 16  efecto cuerpo  30.80  peso 3.80
+   contado  dia 16  efecto cuerpo   0.00  peso 3.07
+   contado  dia 16  efecto cuerpo   0.00  peso 1.82
+   contado  dia 16  efecto cuerpo   0.00  peso 1.18
+   contado  dia 16  efecto cuerpo   0.00  peso 1.44
+   contado  dia 16  efecto cuerpo   0.00  peso 1.81
+   contado  dia 16  efecto cuerpo   0.00  peso 1.83
+   media ponderada = 117.04 / 28.72 = 4.08
+
+s2 a10, cuaderno del dia 16, red: a = 4.71  b = 0.0  (creencia en puntos de vida, situacion 'dentro')
+   recuerdo neutro: peso 1,00, efecto 0
+   vivido   dia  1  efecto cuerpo   0.00  peso 0.44
+   contado  dia  2  efecto cuerpo   0.00  peso 0.91
+   contado  dia  3  efecto cuerpo   0.00  peso 0.55
+   contado  dia  4  efecto cuerpo   0.00  peso 0.51
+   vivido   dia  5  efecto cuerpo   0.00  peso 2.16
+   vivido   dia  6  efecto cuerpo   0.00  peso 2.09
+   contado  dia  6  efecto cuerpo   0.00  peso 2.28
+   contado  dia  8  efecto cuerpo  -0.16  peso 1.34
+   vivido   dia  9  efecto cuerpo   0.00  peso 0.66
+   vivido   dia 11  efecto cuerpo   0.00  peso 0.74
+   contado  dia 12  efecto cuerpo   0.00  peso 1.15
+   vivido   dia 13  efecto cuerpo   0.00  peso 0.81
+   contado  dia 14  efecto cuerpo   0.00  peso 2.28
+   contado  dia 16  efecto cuerpo  28.72  peso 3.80
+   contado  dia 16  efecto cuerpo   0.00  peso 1.34
+   vivido   dia 16  efecto cuerpo   0.00  peso 1.07
+   media ponderada = 108.92 / 23.14 = 4.71

@@ -1,0 +1,260 @@
+{
+ "pruebas": {
+  "pasan": [
+   "0 el mundo: botiquin canaliza 2 s, racion 1 s (use_ticks del catalogo)",
+   "1a golpe en la canalizacion (t0+8) -> cortada -> fallo",
+   "1b cortada y luego una cura buena (reintento) -> sigue siendo fallo (el primer uso decide)",
+   "1c golpe en el ultimo tic de la canalizacion (t0+use_ticks), aunque la huella no lleve marca de corte -> cortada",
+   "1d golpe justo antes de empezar y justo despues de la canalizacion -> no cortada; juzga el hueco (40 de 45 -> acierto)",
+   "1e marca de corte sin golpe en la canalizacion -> no juzga; juzga el siguiente uso (40 de hueco 45 -> acierto)",
+   "1f racion con golpes en su segundo de uso -> el dano no la interrumpe; juzga el hueco (+15 de 15 -> acierto)",
+   "1g recien aceptada, sin uso aun -> espera",
+   "2a casi sana (90): +10 cubre la mitad del hueco 10 -> acierto",
+   "2b casi sana (90): +3 < 5 -> fallo",
+   "2c herida (40): +20 < 25 -> fallo",
+   "2d herida (40): +30 >= 25 -> acierto",
+   "2e entera (100): +0 -> acierto (nada que curar)",
+   "2f racion (promete 15) casi sana (95): +5 >= 2,5 -> acierto (toda cura, declarado)",
+   "2g un uso empezado antes de aceptar no cuenta (juzga el de t105: +10 < 20 -> fallo)",
+   "2h sin uso en 480 tics: +6 contra el hueco 8 -> acierto",
+   "3a recuerdo de la hermana en CALMA: no entra en el contraste de la falsa (si en el de la honesta)",
+   "3b recuerdo de la hermana en AMENAZA: entra en el contraste de la falsa",
+   "3c un visto no trae la amenaza de la hermana: no entra en la falsa",
+   "3d contado sin amenaza apuntada: no entra en la falsa",
+   "4a M7 con amenaza: ida y vuelta, mismo largo, golpe intacto",
+   "4b M7 sin amenaza: amenaza False",
+   "4c M7 del formato de antes (0/1): se lee, amenaza False",
+   "4e noche: la amenaza del recuerdo sale del cuaderno de la hermana (y otro recuerdo no la inventa)",
+   "4f lo vivido: golpe hace 50 tics y sin rival -> sin amenaza; hace 40 -> amenaza",
+   "4g lo vivido: rival a <= 4 en este tic -> amenaza (solo en ese tic)"
+  ],
+  "fallan": []
+ },
+ "local": {
+  "d1 a10": {
+   "ms_p95": 12.037,
+   "invitaciones": 0,
+   "falsas": 0,
+   "evaluadas_62": [],
+   "contrastes_62": 0,
+   "contrastes_falsa": 0,
+   "amenaza_de_los_recuerdos": [],
+   "fuera_de_situacion": 0,
+   "curas_juzgadas_por_P7_54": 0,
+   "mensajes_malos": 0,
+   "mensajes_con_amenaza": 3
+  },
+  "d1 a11": {
+   "ms_p95": 10.374,
+   "invitaciones": 0,
+   "falsas": 0,
+   "evaluadas_62": [],
+   "contrastes_62": 0,
+   "contrastes_falsa": 0,
+   "amenaza_de_los_recuerdos": [],
+   "fuera_de_situacion": 0,
+   "curas_juzgadas_por_P7_54": 0,
+   "mensajes_malos": 0,
+   "mensajes_con_amenaza": 0
+  },
+  "d1 a12": {
+   "ms_p95": 12.46,
+   "invitaciones": 0,
+   "falsas": 0,
+   "evaluadas_62": [],
+   "contrastes_62": 0,
+   "contrastes_falsa": 0,
+   "amenaza_de_los_recuerdos": [],
+   "fuera_de_situacion": 0,
+   "curas_juzgadas_por_P7_54": 0,
+   "mensajes_malos": 0,
+   "mensajes_con_amenaza": 0
+  },
+  "d1 a13": {
+   "ms_p95": 11.093,
+   "invitaciones": 0,
+   "falsas": 0,
+   "evaluadas_62": [],
+   "contrastes_62": 0,
+   "contrastes_falsa": 0,
+   "amenaza_de_los_recuerdos": [],
+   "fuera_de_situacion": 0,
+   "curas_juzgadas_por_P7_54": 0,
+   "mensajes_malos": 0,
+   "mensajes_con_amenaza": 1
+  },
+  "d2 a10": {
+   "ms_p95": 10.995,
+   "invitaciones": 7,
+   "falsas": 1,
+   "evaluadas_62": [
+    {
+     "accion": "USAR_BOTIQUIN",
+     "falsa": false,
+     "fuente": "cortada por golpe",
+     "hueco": null,
+     "hp0": 70.0,
+     "vivido": 0.0,
+     "acierto": 0
+    },
+    {
+     "accion": "USAR_BOTIQUIN",
+     "falsa": false,
+     "fuente": "cortada por golpe",
+     "hueco": null,
+     "hp0": 31.0,
+     "vivido": 0.0,
+     "acierto": 0
+    }
+   ],
+   "contrastes_62": 1,
+   "contrastes_falsa": 0,
+   "amenaza_de_los_recuerdos": [
+    true
+   ],
+   "fuera_de_situacion": 0,
+   "curas_juzgadas_por_P7_54": 0,
+   "mensajes_malos": 0,
+   "mensajes_con_amenaza": 1
+  },
+  "d2 a11": {
+   "ms_p95": 9.903,
+   "invitaciones": 7,
+   "falsas": 1,
+   "evaluadas_62": [
+    {
+     "accion": "USAR_BOTIQUIN",
+     "falsa": true,
+     "fuente": "huella (hueco)",
+     "hueco": 33.0,
+     "hp0": 67.0,
+     "vivido": 33.0,
+     "acierto": 1
+    }
+   ],
+   "contrastes_62": 4,
+   "contrastes_falsa": 0,
+   "amenaza_de_los_recuerdos": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "fuera_de_situacion": 0,
+   "curas_juzgadas_por_P7_54": 0,
+   "mensajes_malos": 0,
+   "mensajes_con_amenaza": 1
+  },
+  "d2 a12": {
+   "ms_p95": 8.474,
+   "invitaciones": 7,
+   "falsas": 1,
+   "evaluadas_62": [],
+   "contrastes_62": 2,
+   "contrastes_falsa": 0,
+   "amenaza_de_los_recuerdos": [
+    true,
+    true
+   ],
+   "fuera_de_situacion": 0,
+   "curas_juzgadas_por_P7_54": 0,
+   "mensajes_malos": 0,
+   "mensajes_con_amenaza": 0
+  },
+  "d2 a13": {
+   "ms_p95": 8.117,
+   "invitaciones": 6,
+   "falsas": 0,
+   "evaluadas_62": [],
+   "contrastes_62": 0,
+   "contrastes_falsa": 0,
+   "amenaza_de_los_recuerdos": [],
+   "fuera_de_situacion": 0,
+   "curas_juzgadas_por_P7_54": 0,
+   "mensajes_malos": 0,
+   "mensajes_con_amenaza": 1
+  },
+  "d3 a10": {
+   "ms_p95": 11.223,
+   "invitaciones": 6,
+   "falsas": 1,
+   "evaluadas_62": [],
+   "contrastes_62": 1,
+   "contrastes_falsa": 0,
+   "amenaza_de_los_recuerdos": [
+    true
+   ],
+   "fuera_de_situacion": 0,
+   "curas_juzgadas_por_P7_54": 0,
+   "mensajes_malos": 0,
+   "mensajes_con_amenaza": 0
+  },
+  "d3 a11": {
+   "ms_p95": 9.848,
+   "invitaciones": 7,
+   "falsas": 1,
+   "evaluadas_62": [],
+   "contrastes_62": 3,
+   "contrastes_falsa": 0,
+   "amenaza_de_los_recuerdos": [
+    true,
+    true,
+    true
+   ],
+   "fuera_de_situacion": 0,
+   "curas_juzgadas_por_P7_54": 0,
+   "mensajes_malos": 0,
+   "mensajes_con_amenaza": 0
+  },
+  "d3 a12": {
+   "ms_p95": 11.335,
+   "invitaciones": 6,
+   "falsas": 1,
+   "evaluadas_62": [],
+   "contrastes_62": 2,
+   "contrastes_falsa": 0,
+   "amenaza_de_los_recuerdos": [
+    true,
+    true
+   ],
+   "fuera_de_situacion": 0,
+   "curas_juzgadas_por_P7_54": 0,
+   "mensajes_malos": 0,
+   "mensajes_con_amenaza": 0
+  },
+  "d3 a13": {
+   "ms_p95": 9.883,
+   "invitaciones": 5,
+   "falsas": 0,
+   "evaluadas_62": [],
+   "contrastes_62": 0,
+   "contrastes_falsa": 0,
+   "amenaza_de_los_recuerdos": [],
+   "fuera_de_situacion": 0,
+   "curas_juzgadas_por_P7_54": 0,
+   "mensajes_malos": 0,
+   "mensajes_con_amenaza": 1
+  }
+ },
+ "local_razon": {
+  "llamadas": 8,
+  "usd": 0.4919
+ },
+ "coste_estimado": {
+  "partidas_campo": 120,
+  "humo": 3,
+  "reintentos_previstos_como_P7_61": 2,
+  "creditos_plataforma": 125,
+  "llamadas_razon": 232,
+  "usd_por_llamada_P7_61": 0.0629,
+  "usd_consola": 14.58,
+  "horas_por_serie_P7_61": [
+   7.8,
+   5.9,
+   5.4
+  ],
+  "horas_campo": 19.2,
+  "recarga_diaria": 71,
+  "nota": "1 credito por partida (alguna cuenta 0); llamadas = 2 brazos x 3 series x 19 noches x 2 hermanas (en MIENTE_UNA la honesta tambien llama) + 4 del humo"
+ }
+}

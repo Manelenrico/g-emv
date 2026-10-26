@@ -1,0 +1,175 @@
+{
+ "imagenes": {
+  "APRENDE_s1_d1": {
+   "imagen": "gemv-anima:P7_29_APRENDE_s1_d1",
+   "etiqueta": "gemv-p7-campo:v148",
+   "version": 148,
+   "policy_version_id": "c1118345-33b9-40f8-b333-c47bceadabd8",
+   "segundos": 120.8,
+   "cuadernos_horneados": [
+    ".gitkeep"
+   ],
+   "subida_a_las": "2026-10-08T11:50:08.458661+00:00"
+  },
+  "APRENDE_s1_d2": {
+   "imagen": "gemv-anima:P7_29_APRENDE_s1_d2",
+   "etiqueta": "gemv-p7-campo:v149",
+   "version": 149,
+   "policy_version_id": "c09dda20-c140-4b89-8a52-ea63c10c96f3",
+   "segundos": 119.0,
+   "cuadernos_horneados": [
+    ".gitkeep",
+    "cuaderno_P7_10.json",
+    "cuaderno_P7_11.json"
+   ],
+   "subida_a_las": "2026-10-08T12:31:35.401983+00:00"
+  },
+  "APRENDE_s1_d3": {
+   "imagen": "gemv-anima:P7_29_APRENDE_s1_d3",
+   "etiqueta": "gemv-p7-campo:v150",
+   "version": 150,
+   "policy_version_id": "1740e7b2-a496-4cc5-9358-abba6666afdc",
+   "segundos": 118.1,
+   "cuadernos_horneados": [
+    ".gitkeep",
+    "cuaderno_P7_10.json",
+    "cuaderno_P7_11.json"
+   ],
+   "subida_a_las": "2026-10-08T12:45:42.830637+00:00"
+  }
+ },
+ "peticiones": [
+  {
+   "serie": 1,
+   "dia": 1,
+   "brazo": "APRENDE",
+   "semilla": 38588491,
+   "pvid": "c1118345-33b9-40f8-b333-c47bceadabd8",
+   "imagen": "APRENDE_s1_d1",
+   "xreq": "xreq_9e15a59a-5f43-4011-bd9c-0d99628083bc",
+   "ereq": "ereq_815c82de-8bfb-4f81-a420-377d7335bf35",
+   "pedida_a_las": "2026-10-08T11:50:08.462965+00:00",
+   "estado": "completed",
+   "coste_usd": 0.108853,
+   "completada_a_las": "2026-10-08T12:15:04.600954Z",
+   "latencia": {
+    "10": {
+     "tics": 14188,
+     "decisiones": 14188,
+     "ms_mediana": 5.3,
+     "ms_p95": 20.53,
+     "ms_max": 84.14,
+     "sobre_el_tic": 0.0032,
+     "paso_listo": 2178,
+     "bloqueados": 57,
+     "bloqueados_sin_cuerpo": 6,
+     "fraccion_sin_cuerpo": 0.0028,
+     "pasa": true,
+     "motivo": []
+    },
+    "11": {
+     "tics": 12648,
+     "decisiones": 12648,
+     "ms_mediana": 6.96,
+     "ms_p95": 12.37,
+     "ms_max": 34.25,
+     "sobre_el_tic": 0.0,
+     "paso_listo": 10051,
+     "bloqueados": 58,
+     "bloqueados_sin_cuerpo": 5,
+     "fraccion_sin_cuerpo": 0.0005,
+     "pasa": true,
+     "motivo": []
+    }
+   }
+  },
+  {
+   "serie": 1,
+   "dia": 2,
+   "brazo": "APRENDE",
+   "semilla": 38693220,
+   "pvid": "c09dda20-c140-4b89-8a52-ea63c10c96f3",
+   "imagen": "APRENDE_s1_d2",
+   "xreq": "xreq_6c47a73f-d197-4cf9-9a02-e5df85216561",
+   "ereq": "ereq_4e03c4ab-46b7-439b-98d0-5632fac889b0",
+   "pedida_a_las": "2026-10-08T12:31:35.415858+00:00",
+   "estado": "completed",
+   "coste_usd": 0.097683,
+   "completada_a_las": "2026-10-08T12:43:17.573766Z",
+   "latencia": {
+    "10": {
+     "tics": 12480,
+     "decisiones": 12480,
+     "ms_mediana": 1.23,
+     "ms_p95": 5.41,
+     "ms_max": 27.12,
+     "sobre_el_tic": 0.0,
+     "paso_listo": 1190,
+     "bloqueados": 7,
+     "bloqueados_sin_cuerpo": 0,
+     "fraccion_sin_cuerpo": 0.0,
+     "pasa": true,
+     "motivo": []
+    },
+    "11": {
+     "tics": 2248,
+     "decisiones": 2248,
+     "ms_mediana": 1.84,
+     "ms_p95": 6.58,
+     "ms_max": 38.66,
+     "sobre_el_tic": 0.0,
+     "paso_listo": 262,
+     "bloqueados": 0,
+     "bloqueados_sin_cuerpo": 0,
+     "fraccion_sin_cuerpo": 0.0,
+     "pasa": true,
+     "motivo": []
+    }
+   }
+  },
+  {
+   "serie": 1,
+   "dia": 3,
+   "brazo": "APRENDE",
+   "semilla": 38797949,
+   "pvid": "1740e7b2-a496-4cc5-9358-abba6666afdc",
+   "imagen": "APRENDE_s1_d3",
+   "xreq": "xreq_037b1b00-6d90-47c9-a306-41e065396465",
+   "ereq": "ereq_5641586e-63ae-4b19-a191-9ba2b47c4a11",
+   "pedida_a_las": "2026-10-08T12:45:42.848848+00:00",
+   "estado": "completed",
+   "coste_usd": 0.055858,
+   "completada_a_las": "2026-10-08T12:58:52.797929Z",
+   "latencia": {
+    "10": {
+     "tics": 14304,
+     "decisiones": 14304,
+     "ms_mediana": 2.77,
+     "ms_p95": 14.36,
+     "ms_max": 46.2,
+     "sobre_el_tic": 0.0001,
+     "paso_listo": 1388,
+     "bloqueados": 26,
+     "bloqueados_sin_cuerpo": 3,
+     "fraccion_sin_cuerpo": 0.0022,
+     "pasa": true,
+     "motivo": []
+    },
+    "11": {
+     "tics": 14280,
+     "decisiones": 14280,
+     "ms_mediana": 2.02,
+     "ms_p95": 7.88,
+     "ms_max": 23.99,
+     "sobre_el_tic": 0.0,
+     "paso_listo": 1842,
+     "bloqueados": 4,
+     "bloqueados_sin_cuerpo": 0,
+     "fraccion_sin_cuerpo": 0.0,
+     "pasa": true,
+     "motivo": []
+    }
+   }
+  }
+ ]
+}

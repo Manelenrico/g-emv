@@ -1,0 +1,1415 @@
+{
+ "d1": {
+  "vidas": {
+   "10": {},
+   "11": {},
+   "12": {},
+   "13": {}
+  },
+  "P7_66": {
+   "10": {
+    "aceptadas": [],
+    "llegadas": [],
+    "interrumpidas": [],
+    "no_llego": [],
+    "arranque": {
+     "k": "P7_66_arranque",
+     "slot": 10,
+     "invitaciones_sitio": [
+      {
+       "destino": [
+        5,
+        16
+       ],
+       "falsa": true
+      }
+     ],
+     "confianza": {
+      "cuerpo": 0.5,
+      "recursos": 0.5,
+      "vinculo": 0.5
+     }
+    },
+    "cierre": {
+     "k": "P7_66_cierre",
+     "n": {
+      "aceptadas": 0,
+      "llegadas": 0,
+      "aciertos": 0,
+      "interrumpidas": 0,
+      "no_llego": 0
+     },
+     "pendientes": 0,
+     "confianza": {
+      "cuerpo": 0.5,
+      "recursos": 0.5,
+      "vinculo": 0.5
+     }
+    }
+   },
+   "11": {
+    "aceptadas": [
+     {
+      "k": "P7_66_aceptada",
+      "tick": 241,
+      "n": 0,
+      "falsa": true,
+      "destino": [
+       5,
+       16
+      ],
+      "distancia": 12,
+      "distancia_hermana": 9,
+      "tics_desde_el_inicio": 0,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     }
+    ],
+    "llegadas": [],
+    "interrumpidas": [
+     {
+      "k": "P7_66_interrumpida",
+      "tick": 274,
+      "n": 0,
+      "falsa": true,
+      "destino": [
+       5,
+       16
+      ],
+      "t_aceptada": 241,
+      "tics": 33,
+      "rival_a": 3,
+      "umbral": 3,
+      "distancia_al_destino": 11
+     }
+    ],
+    "no_llego": [],
+    "arranque": {
+     "k": "P7_66_arranque",
+     "slot": 11,
+     "invitaciones_sitio": [
+      {
+       "destino": [
+        5,
+        16
+       ],
+       "falsa": true
+      }
+     ],
+     "confianza": {
+      "cuerpo": 0.5,
+      "recursos": 0.5,
+      "vinculo": 0.5
+     }
+    },
+    "cierre": {
+     "k": "P7_66_cierre",
+     "n": {
+      "aceptadas": 1,
+      "llegadas": 0,
+      "aciertos": 0,
+      "interrumpidas": 1,
+      "no_llego": 0
+     },
+     "pendientes": 0,
+     "confianza": {
+      "cuerpo": 0.5,
+      "recursos": 0.5,
+      "vinculo": 0.5
+     }
+    }
+   },
+   "12": {
+    "aceptadas": [
+     {
+      "k": "P7_66_aceptada",
+      "tick": 241,
+      "n": 0,
+      "falsa": false,
+      "destino": [
+       27,
+       23
+      ],
+      "distancia": 14,
+      "distancia_hermana": 13,
+      "tics_desde_el_inicio": 0,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     }
+    ],
+    "llegadas": [],
+    "interrumpidas": [
+     {
+      "k": "P7_66_interrumpida",
+      "tick": 351,
+      "n": 0,
+      "falsa": false,
+      "destino": [
+       27,
+       23
+      ],
+      "t_aceptada": 241,
+      "tics": 110,
+      "rival_a": 2,
+      "umbral": 3,
+      "distancia_al_destino": 4
+     }
+    ],
+    "no_llego": [],
+    "arranque": {
+     "k": "P7_66_arranque",
+     "slot": 12,
+     "invitaciones_sitio": [
+      {
+       "destino": [
+        27,
+        23
+       ],
+       "falsa": false
+      }
+     ],
+     "confianza": {
+      "cuerpo": 0.5,
+      "recursos": 0.5,
+      "vinculo": 0.5
+     }
+    },
+    "cierre": {
+     "k": "P7_66_cierre",
+     "n": {
+      "aceptadas": 1,
+      "llegadas": 0,
+      "aciertos": 0,
+      "interrumpidas": 1,
+      "no_llego": 0
+     },
+     "pendientes": 0,
+     "confianza": {
+      "cuerpo": 0.5,
+      "recursos": 0.5,
+      "vinculo": 0.5
+     }
+    }
+   },
+   "13": {
+    "aceptadas": [
+     {
+      "k": "P7_66_aceptada",
+      "tick": 274,
+      "n": 0,
+      "falsa": false,
+      "destino": [
+       27,
+       23
+      ],
+      "distancia": 10,
+      "distancia_hermana": 11,
+      "tics_desde_el_inicio": 33,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     }
+    ],
+    "llegadas": [],
+    "interrumpidas": [
+     {
+      "k": "P7_66_interrumpida",
+      "tick": 340,
+      "n": 0,
+      "falsa": false,
+      "destino": [
+       27,
+       23
+      ],
+      "t_aceptada": 274,
+      "tics": 66,
+      "rival_a": 3,
+      "umbral": 3,
+      "distancia_al_destino": 6
+     }
+    ],
+    "no_llego": [],
+    "arranque": {
+     "k": "P7_66_arranque",
+     "slot": 13,
+     "invitaciones_sitio": [
+      {
+       "destino": [
+        27,
+        23
+       ],
+       "falsa": false
+      }
+     ],
+     "confianza": {
+      "cuerpo": 0.5,
+      "recursos": 0.5,
+      "vinculo": 0.5
+     }
+    },
+    "cierre": {
+     "k": "P7_66_cierre",
+     "n": {
+      "aceptadas": 1,
+      "llegadas": 0,
+      "aciertos": 0,
+      "interrumpidas": 1,
+      "no_llego": 0
+     },
+     "pendientes": 0,
+     "confianza": {
+      "cuerpo": 0.5,
+      "recursos": 0.5,
+      "vinculo": 0.5
+     }
+    }
+   }
+  },
+  "imagen": "gemv-anima:P7_66b_local_d1",
+  "segundos": 350,
+  "invitaciones": {
+   "10": {
+    "tipo": "CONDICION",
+    "accion": "IR_A_SITIO",
+    "destino": [
+     5,
+     16
+    ],
+    "anillo": "CUALQUIERA",
+    "calma": "CUALQUIERA",
+    "movimiento": "CUALQUIERA",
+    "hermana": "CUALQUIERA",
+    "calma5": "CALMA5",
+    "cuerpo": 0.0,
+    "recursos": 1.0,
+    "vinculo": 0.0,
+    "confianza": "alta",
+    "falsa": true,
+    "dia": 0,
+    "porque": "alli suele haber botiquines",
+    "se_comprueba": "al llegar se ve un botiquin a una casilla o menos del sitio"
+   },
+   "11": {
+    "tipo": "CONDICION",
+    "accion": "IR_A_SITIO",
+    "destino": [
+     5,
+     16
+    ],
+    "anillo": "CUALQUIERA",
+    "calma": "CUALQUIERA",
+    "movimiento": "CUALQUIERA",
+    "hermana": "CUALQUIERA",
+    "calma5": "CALMA5",
+    "cuerpo": 0.0,
+    "recursos": 1.0,
+    "vinculo": 0.0,
+    "confianza": "alta",
+    "falsa": true,
+    "dia": 0,
+    "porque": "alli suele haber botiquines",
+    "se_comprueba": "al llegar se ve un botiquin a una casilla o menos del sitio"
+   },
+   "12": {
+    "tipo": "CONDICION",
+    "accion": "IR_A_SITIO",
+    "destino": [
+     27,
+     23
+    ],
+    "anillo": "CUALQUIERA",
+    "calma": "CUALQUIERA",
+    "movimiento": "CUALQUIERA",
+    "hermana": "CUALQUIERA",
+    "calma5": "CALMA5",
+    "cuerpo": 0.0,
+    "recursos": 1.0,
+    "vinculo": 0.0,
+    "confianza": "alta",
+    "falsa": false,
+    "dia": 0,
+    "porque": "alli suele haber botiquines",
+    "se_comprueba": "al llegar se ve un botiquin a una casilla o menos del sitio"
+   },
+   "13": {
+    "tipo": "CONDICION",
+    "accion": "IR_A_SITIO",
+    "destino": [
+     27,
+     23
+    ],
+    "anillo": "CUALQUIERA",
+    "calma": "CUALQUIERA",
+    "movimiento": "CUALQUIERA",
+    "hermana": "CUALQUIERA",
+    "calma5": "CALMA5",
+    "cuerpo": 0.0,
+    "recursos": 1.0,
+    "vinculo": 0.0,
+    "confianza": "alta",
+    "falsa": false,
+    "dia": 0,
+    "porque": "alli suele haber botiquines",
+    "se_comprueba": "al llegar se ve un botiquin a una casilla o menos del sitio"
+   }
+  }
+ },
+ "d2": {
+  "vidas": {
+   "10": {},
+   "11": {},
+   "12": {},
+   "13": {}
+  },
+  "P7_66": {
+   "10": {
+    "aceptadas": [
+     {
+      "k": "P7_66_aceptada",
+      "tick": 241,
+      "n": 0,
+      "falsa": true,
+      "destino": [
+       4,
+       12
+      ],
+      "distancia": 10,
+      "distancia_hermana": 15,
+      "tics_desde_el_inicio": 0,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     }
+    ],
+    "llegadas": [],
+    "interrumpidas": [
+     {
+      "k": "P7_66_interrumpida",
+      "tick": 340,
+      "n": 0,
+      "falsa": true,
+      "destino": [
+       4,
+       12
+      ],
+      "t_aceptada": 241,
+      "tics": 99,
+      "rival_a": 3,
+      "umbral": 3,
+      "distancia_al_destino": 17
+     }
+    ],
+    "no_llego": [],
+    "arranque": {
+     "k": "P7_66_arranque",
+     "slot": 10,
+     "invitaciones_sitio": [
+      {
+       "destino": [
+        4,
+        12
+       ],
+       "falsa": true
+      }
+     ],
+     "confianza": {
+      "cuerpo": 0.5,
+      "recursos": 0.5,
+      "vinculo": 0.5
+     }
+    },
+    "cierre": {
+     "k": "P7_66_cierre",
+     "n": {
+      "aceptadas": 1,
+      "llegadas": 0,
+      "aciertos": 0,
+      "interrumpidas": 1,
+      "no_llego": 0
+     },
+     "pendientes": 0,
+     "confianza": {
+      "cuerpo": 0.5,
+      "recursos": 0.5,
+      "vinculo": 0.5
+     }
+    }
+   },
+   "11": {
+    "aceptadas": [],
+    "llegadas": [],
+    "interrumpidas": [],
+    "no_llego": [],
+    "arranque": {
+     "k": "P7_66_arranque",
+     "slot": 11,
+     "invitaciones_sitio": [
+      {
+       "destino": [
+        4,
+        12
+       ],
+       "falsa": true
+      }
+     ],
+     "confianza": {
+      "cuerpo": 0.5,
+      "recursos": 0.5,
+      "vinculo": 0.5
+     }
+    },
+    "cierre": {
+     "k": "P7_66_cierre",
+     "n": {
+      "aceptadas": 0,
+      "llegadas": 0,
+      "aciertos": 0,
+      "interrumpidas": 0,
+      "no_llego": 0
+     },
+     "pendientes": 0,
+     "confianza": {
+      "cuerpo": 0.5,
+      "recursos": 0.5,
+      "vinculo": 0.5
+     }
+    }
+   },
+   "12": {
+    "aceptadas": [
+     {
+      "k": "P7_66_aceptada",
+      "tick": 285,
+      "n": 0,
+      "falsa": false,
+      "destino": [
+       24,
+       23
+      ],
+      "distancia": 10,
+      "distancia_hermana": 11,
+      "tics_desde_el_inicio": 44,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     }
+    ],
+    "llegadas": [],
+    "interrumpidas": [
+     {
+      "k": "P7_66_interrumpida",
+      "tick": 318,
+      "n": 0,
+      "falsa": false,
+      "destino": [
+       24,
+       23
+      ],
+      "t_aceptada": 285,
+      "tics": 33,
+      "rival_a": 3,
+      "umbral": 3,
+      "distancia_al_destino": 7
+     }
+    ],
+    "no_llego": [],
+    "arranque": {
+     "k": "P7_66_arranque",
+     "slot": 12,
+     "invitaciones_sitio": [
+      {
+       "destino": [
+        24,
+        23
+       ],
+       "falsa": false
+      }
+     ],
+     "confianza": {
+      "cuerpo": 0.5,
+      "recursos": 0.5,
+      "vinculo": 0.5
+     }
+    },
+    "cierre": {
+     "k": "P7_66_cierre",
+     "n": {
+      "aceptadas": 1,
+      "llegadas": 0,
+      "aciertos": 0,
+      "interrumpidas": 1,
+      "no_llego": 0
+     },
+     "pendientes": 0,
+     "confianza": {
+      "cuerpo": 0.5,
+      "recursos": 0.5,
+      "vinculo": 0.5
+     }
+    }
+   },
+   "13": {
+    "aceptadas": [
+     {
+      "k": "P7_66_aceptada",
+      "tick": 241,
+      "n": 0,
+      "falsa": false,
+      "destino": [
+       24,
+       23
+      ],
+      "distancia": 15,
+      "distancia_hermana": 14,
+      "tics_desde_el_inicio": 0,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     }
+    ],
+    "llegadas": [],
+    "interrumpidas": [
+     {
+      "k": "P7_66_interrumpida",
+      "tick": 340,
+      "n": 0,
+      "falsa": false,
+      "destino": [
+       24,
+       23
+      ],
+      "t_aceptada": 241,
+      "tics": 99,
+      "rival_a": 3,
+      "umbral": 3,
+      "distancia_al_destino": 6
+     }
+    ],
+    "no_llego": [],
+    "arranque": {
+     "k": "P7_66_arranque",
+     "slot": 13,
+     "invitaciones_sitio": [
+      {
+       "destino": [
+        24,
+        23
+       ],
+       "falsa": false
+      }
+     ],
+     "confianza": {
+      "cuerpo": 0.5,
+      "recursos": 0.5,
+      "vinculo": 0.5
+     }
+    },
+    "cierre": {
+     "k": "P7_66_cierre",
+     "n": {
+      "aceptadas": 1,
+      "llegadas": 0,
+      "aciertos": 0,
+      "interrumpidas": 1,
+      "no_llego": 0
+     },
+     "pendientes": 0,
+     "confianza": {
+      "cuerpo": 0.5,
+      "recursos": 0.5,
+      "vinculo": 0.5
+     }
+    }
+   }
+  },
+  "imagen": "gemv-anima:P7_66b_local_d2",
+  "segundos": 359,
+  "invitaciones": {
+   "10": {
+    "tipo": "CONDICION",
+    "accion": "IR_A_SITIO",
+    "destino": [
+     4,
+     12
+    ],
+    "anillo": "CUALQUIERA",
+    "calma": "CUALQUIERA",
+    "movimiento": "CUALQUIERA",
+    "hermana": "CUALQUIERA",
+    "calma5": "CALMA5",
+    "cuerpo": 0.0,
+    "recursos": 1.0,
+    "vinculo": 0.0,
+    "confianza": "alta",
+    "falsa": true,
+    "dia": 1,
+    "porque": "alli suele haber botiquines",
+    "se_comprueba": "al llegar se ve un botiquin a una casilla o menos del sitio"
+   },
+   "11": {
+    "tipo": "CONDICION",
+    "accion": "IR_A_SITIO",
+    "destino": [
+     4,
+     12
+    ],
+    "anillo": "CUALQUIERA",
+    "calma": "CUALQUIERA",
+    "movimiento": "CUALQUIERA",
+    "hermana": "CUALQUIERA",
+    "calma5": "CALMA5",
+    "cuerpo": 0.0,
+    "recursos": 1.0,
+    "vinculo": 0.0,
+    "confianza": "alta",
+    "falsa": true,
+    "dia": 1,
+    "porque": "alli suele haber botiquines",
+    "se_comprueba": "al llegar se ve un botiquin a una casilla o menos del sitio"
+   },
+   "12": {
+    "tipo": "CONDICION",
+    "accion": "IR_A_SITIO",
+    "destino": [
+     24,
+     23
+    ],
+    "anillo": "CUALQUIERA",
+    "calma": "CUALQUIERA",
+    "movimiento": "CUALQUIERA",
+    "hermana": "CUALQUIERA",
+    "calma5": "CALMA5",
+    "cuerpo": 0.0,
+    "recursos": 1.0,
+    "vinculo": 0.0,
+    "confianza": "alta",
+    "falsa": false,
+    "dia": 1,
+    "porque": "alli suele haber botiquines",
+    "se_comprueba": "al llegar se ve un botiquin a una casilla o menos del sitio"
+   },
+   "13": {
+    "tipo": "CONDICION",
+    "accion": "IR_A_SITIO",
+    "destino": [
+     24,
+     23
+    ],
+    "anillo": "CUALQUIERA",
+    "calma": "CUALQUIERA",
+    "movimiento": "CUALQUIERA",
+    "hermana": "CUALQUIERA",
+    "calma5": "CALMA5",
+    "cuerpo": 0.0,
+    "recursos": 1.0,
+    "vinculo": 0.0,
+    "confianza": "alta",
+    "falsa": false,
+    "dia": 1,
+    "porque": "alli suele haber botiquines",
+    "se_comprueba": "al llegar se ve un botiquin a una casilla o menos del sitio"
+   }
+  }
+ },
+ "d3": {
+  "vidas": {
+   "10": {},
+   "11": {},
+   "12": {},
+   "13": {}
+  },
+  "P7_66": {
+   "10": {
+    "aceptadas": [
+     {
+      "k": "P7_66_aceptada",
+      "tick": 274,
+      "n": 0,
+      "falsa": true,
+      "destino": [
+       27,
+       6
+      ],
+      "distancia": 13,
+      "distancia_hermana": 9,
+      "tics_desde_el_inicio": 33,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     }
+    ],
+    "llegadas": [],
+    "interrumpidas": [
+     {
+      "k": "P7_66_interrumpida",
+      "tick": 340,
+      "n": 0,
+      "falsa": true,
+      "destino": [
+       27,
+       6
+      ],
+      "t_aceptada": 274,
+      "tics": 66,
+      "rival_a": 3,
+      "umbral": 3,
+      "distancia_al_destino": 9
+     }
+    ],
+    "no_llego": [],
+    "arranque": {
+     "k": "P7_66_arranque",
+     "slot": 10,
+     "invitaciones_sitio": [
+      {
+       "destino": [
+        27,
+        6
+       ],
+       "falsa": true
+      }
+     ],
+     "confianza": {
+      "cuerpo": 0.5,
+      "recursos": 0.5,
+      "vinculo": 0.5
+     }
+    },
+    "cierre": {
+     "k": "P7_66_cierre",
+     "n": {
+      "aceptadas": 1,
+      "llegadas": 0,
+      "aciertos": 0,
+      "interrumpidas": 1,
+      "no_llego": 0
+     },
+     "pendientes": 0,
+     "confianza": {
+      "cuerpo": 0.5,
+      "recursos": 0.5,
+      "vinculo": 0.5
+     }
+    }
+   },
+   "11": {
+    "aceptadas": [
+     {
+      "k": "P7_66_aceptada",
+      "tick": 241,
+      "n": 0,
+      "falsa": true,
+      "destino": [
+       27,
+       6
+      ],
+      "distancia": 10,
+      "distancia_hermana": 14,
+      "tics_desde_el_inicio": 0,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     }
+    ],
+    "llegadas": [],
+    "interrumpidas": [],
+    "no_llego": [
+     {
+      "k": "P7_66_no_llego",
+      "tick": 721,
+      "n": 0,
+      "falsa": true,
+      "destino": [
+       27,
+       6
+      ],
+      "t_aceptada": 241,
+      "tics": 480,
+      "distancia_al_destino": 10
+     }
+    ],
+    "arranque": {
+     "k": "P7_66_arranque",
+     "slot": 11,
+     "invitaciones_sitio": [
+      {
+       "destino": [
+        27,
+        6
+       ],
+       "falsa": true
+      }
+     ],
+     "confianza": {
+      "cuerpo": 0.5,
+      "recursos": 0.5,
+      "vinculo": 0.5
+     }
+    },
+    "cierre": {
+     "k": "P7_66_cierre",
+     "n": {
+      "aceptadas": 1,
+      "llegadas": 0,
+      "aciertos": 0,
+      "interrumpidas": 0,
+      "no_llego": 1
+     },
+     "pendientes": 0,
+     "confianza": {
+      "cuerpo": 0.5,
+      "recursos": 0.5,
+      "vinculo": 0.5
+     }
+    }
+   },
+   "12": {
+    "aceptadas": [
+     {
+      "k": "P7_66_aceptada",
+      "tick": 241,
+      "n": 0,
+      "falsa": false,
+      "destino": [
+       27,
+       23
+      ],
+      "distancia": 14,
+      "distancia_hermana": 15,
+      "tics_desde_el_inicio": 0,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     }
+    ],
+    "llegadas": [],
+    "interrumpidas": [
+     {
+      "k": "P7_66_interrumpida",
+      "tick": 340,
+      "n": 0,
+      "falsa": false,
+      "destino": [
+       27,
+       23
+      ],
+      "t_aceptada": 241,
+      "tics": 99,
+      "rival_a": 3,
+      "umbral": 3,
+      "distancia_al_destino": 5
+     }
+    ],
+    "no_llego": [],
+    "arranque": {
+     "k": "P7_66_arranque",
+     "slot": 12,
+     "invitaciones_sitio": [
+      {
+       "destino": [
+        27,
+        23
+       ],
+       "falsa": false
+      }
+     ],
+     "confianza": {
+      "cuerpo": 0.5,
+      "recursos": 0.5,
+      "vinculo": 0.5
+     }
+    },
+    "cierre": {
+     "k": "P7_66_cierre",
+     "n": {
+      "aceptadas": 1,
+      "llegadas": 0,
+      "aciertos": 0,
+      "interrumpidas": 1,
+      "no_llego": 0
+     },
+     "pendientes": 0,
+     "confianza": {
+      "cuerpo": 0.5,
+      "recursos": 0.5,
+      "vinculo": 0.5
+     }
+    }
+   },
+   "13": {
+    "aceptadas": [
+     {
+      "k": "P7_66_aceptada",
+      "tick": 241,
+      "n": 0,
+      "falsa": false,
+      "destino": [
+       27,
+       23
+      ],
+      "distancia": 15,
+      "distancia_hermana": 14,
+      "tics_desde_el_inicio": 0,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     }
+    ],
+    "llegadas": [],
+    "interrumpidas": [
+     {
+      "k": "P7_66_interrumpida",
+      "tick": 351,
+      "n": 0,
+      "falsa": false,
+      "destino": [
+       27,
+       23
+      ],
+      "t_aceptada": 241,
+      "tics": 110,
+      "rival_a": 3,
+      "umbral": 3,
+      "distancia_al_destino": 5
+     }
+    ],
+    "no_llego": [],
+    "arranque": {
+     "k": "P7_66_arranque",
+     "slot": 13,
+     "invitaciones_sitio": [
+      {
+       "destino": [
+        27,
+        23
+       ],
+       "falsa": false
+      }
+     ],
+     "confianza": {
+      "cuerpo": 0.5,
+      "recursos": 0.5,
+      "vinculo": 0.5
+     }
+    },
+    "cierre": {
+     "k": "P7_66_cierre",
+     "n": {
+      "aceptadas": 1,
+      "llegadas": 0,
+      "aciertos": 0,
+      "interrumpidas": 1,
+      "no_llego": 0
+     },
+     "pendientes": 0,
+     "confianza": {
+      "cuerpo": 0.5,
+      "recursos": 0.5,
+      "vinculo": 0.5
+     }
+    }
+   }
+  },
+  "imagen": "gemv-anima:P7_66b_local_d3",
+  "segundos": 373,
+  "invitaciones": {
+   "10": {
+    "tipo": "CONDICION",
+    "accion": "IR_A_SITIO",
+    "destino": [
+     27,
+     6
+    ],
+    "anillo": "CUALQUIERA",
+    "calma": "CUALQUIERA",
+    "movimiento": "CUALQUIERA",
+    "hermana": "CUALQUIERA",
+    "calma5": "CALMA5",
+    "cuerpo": 0.0,
+    "recursos": 1.0,
+    "vinculo": 0.0,
+    "confianza": "alta",
+    "falsa": true,
+    "dia": 2,
+    "porque": "alli suele haber botiquines",
+    "se_comprueba": "al llegar se ve un botiquin a una casilla o menos del sitio"
+   },
+   "11": {
+    "tipo": "CONDICION",
+    "accion": "IR_A_SITIO",
+    "destino": [
+     27,
+     6
+    ],
+    "anillo": "CUALQUIERA",
+    "calma": "CUALQUIERA",
+    "movimiento": "CUALQUIERA",
+    "hermana": "CUALQUIERA",
+    "calma5": "CALMA5",
+    "cuerpo": 0.0,
+    "recursos": 1.0,
+    "vinculo": 0.0,
+    "confianza": "alta",
+    "falsa": true,
+    "dia": 2,
+    "porque": "alli suele haber botiquines",
+    "se_comprueba": "al llegar se ve un botiquin a una casilla o menos del sitio"
+   },
+   "12": {
+    "tipo": "CONDICION",
+    "accion": "IR_A_SITIO",
+    "destino": [
+     27,
+     23
+    ],
+    "anillo": "CUALQUIERA",
+    "calma": "CUALQUIERA",
+    "movimiento": "CUALQUIERA",
+    "hermana": "CUALQUIERA",
+    "calma5": "CALMA5",
+    "cuerpo": 0.0,
+    "recursos": 1.0,
+    "vinculo": 0.0,
+    "confianza": "alta",
+    "falsa": false,
+    "dia": 2,
+    "porque": "alli suele haber botiquines",
+    "se_comprueba": "al llegar se ve un botiquin a una casilla o menos del sitio"
+   },
+   "13": {
+    "tipo": "CONDICION",
+    "accion": "IR_A_SITIO",
+    "destino": [
+     27,
+     23
+    ],
+    "anillo": "CUALQUIERA",
+    "calma": "CUALQUIERA",
+    "movimiento": "CUALQUIERA",
+    "hermana": "CUALQUIERA",
+    "calma5": "CALMA5",
+    "cuerpo": 0.0,
+    "recursos": 1.0,
+    "vinculo": 0.0,
+    "confianza": "alta",
+    "falsa": false,
+    "dia": 2,
+    "porque": "alli suele haber botiquines",
+    "se_comprueba": "al llegar se ve un botiquin a una casilla o menos del sitio"
+   }
+  }
+ },
+ "d4": {
+  "vidas": {
+   "10": {},
+   "11": {},
+   "12": {},
+   "13": {}
+  },
+  "P7_66": {
+   "10": {
+    "aceptadas": [],
+    "llegadas": [],
+    "interrumpidas": [],
+    "no_llego": [],
+    "arranque": {
+     "k": "P7_66_arranque",
+     "slot": 10,
+     "invitaciones_sitio": [
+      {
+       "destino": [
+        4,
+        9
+       ],
+       "falsa": true
+      }
+     ],
+     "confianza": {
+      "cuerpo": 0.5,
+      "recursos": 0.5,
+      "vinculo": 0.5
+     }
+    },
+    "cierre": {
+     "k": "P7_66_cierre",
+     "n": {
+      "aceptadas": 0,
+      "llegadas": 0,
+      "aciertos": 0,
+      "interrumpidas": 0,
+      "no_llego": 0
+     },
+     "pendientes": 0,
+     "confianza": {
+      "cuerpo": 0.5,
+      "recursos": 0.5,
+      "vinculo": 0.5
+     }
+    }
+   },
+   "11": {
+    "aceptadas": [],
+    "llegadas": [],
+    "interrumpidas": [],
+    "no_llego": [],
+    "arranque": {
+     "k": "P7_66_arranque",
+     "slot": 11,
+     "invitaciones_sitio": [
+      {
+       "destino": [
+        4,
+        9
+       ],
+       "falsa": true
+      }
+     ],
+     "confianza": {
+      "cuerpo": 0.5,
+      "recursos": 0.5,
+      "vinculo": 0.5
+     }
+    },
+    "cierre": {
+     "k": "P7_66_cierre",
+     "n": {
+      "aceptadas": 0,
+      "llegadas": 0,
+      "aciertos": 0,
+      "interrumpidas": 0,
+      "no_llego": 0
+     },
+     "pendientes": 0,
+     "confianza": {
+      "cuerpo": 0.5,
+      "recursos": 0.5,
+      "vinculo": 0.5
+     }
+    }
+   },
+   "12": {
+    "aceptadas": [],
+    "llegadas": [],
+    "interrumpidas": [],
+    "no_llego": [],
+    "arranque": {
+     "k": "P7_66_arranque",
+     "slot": 12,
+     "invitaciones_sitio": [
+      {
+       "destino": [
+        24,
+        23
+       ],
+       "falsa": false
+      }
+     ],
+     "confianza": {
+      "cuerpo": 0.5,
+      "recursos": 0.5,
+      "vinculo": 0.5
+     }
+    },
+    "cierre": {
+     "k": "P7_66_cierre",
+     "n": {
+      "aceptadas": 0,
+      "llegadas": 0,
+      "aciertos": 0,
+      "interrumpidas": 0,
+      "no_llego": 0
+     },
+     "pendientes": 0,
+     "confianza": {
+      "cuerpo": 0.5,
+      "recursos": 0.5,
+      "vinculo": 0.5
+     }
+    }
+   },
+   "13": {
+    "aceptadas": [
+     {
+      "k": "P7_66_aceptada",
+      "tick": 263,
+      "n": 0,
+      "falsa": false,
+      "destino": [
+       24,
+       23
+      ],
+      "distancia": 13,
+      "distancia_hermana": 12,
+      "tics_desde_el_inicio": 22,
+      "confianza": {
+       "cuerpo": 0.5,
+       "recursos": 0.5,
+       "vinculo": 0.5
+      }
+     }
+    ],
+    "llegadas": [],
+    "interrumpidas": [],
+    "no_llego": [
+     {
+      "k": "P7_66_no_llego",
+      "tick": 743,
+      "n": 0,
+      "falsa": false,
+      "destino": [
+       24,
+       23
+      ],
+      "t_aceptada": 263,
+      "tics": 480,
+      "distancia_al_destino": 12
+     }
+    ],
+    "arranque": {
+     "k": "P7_66_arranque",
+     "slot": 13,
+     "invitaciones_sitio": [
+      {
+       "destino": [
+        24,
+        23
+       ],
+       "falsa": false
+      }
+     ],
+     "confianza": {
+      "cuerpo": 0.5,
+      "recursos": 0.5,
+      "vinculo": 0.5
+     }
+    },
+    "cierre": {
+     "k": "P7_66_cierre",
+     "n": {
+      "aceptadas": 1,
+      "llegadas": 0,
+      "aciertos": 0,
+      "interrumpidas": 0,
+      "no_llego": 1
+     },
+     "pendientes": 0,
+     "confianza": {
+      "cuerpo": 0.5,
+      "recursos": 0.5,
+      "vinculo": 0.5
+     }
+    }
+   }
+  },
+  "imagen": "gemv-anima:P7_66b_local_d4",
+  "segundos": 355,
+  "invitaciones": {
+   "10": {
+    "tipo": "CONDICION",
+    "accion": "IR_A_SITIO",
+    "destino": [
+     4,
+     9
+    ],
+    "anillo": "CUALQUIERA",
+    "calma": "CUALQUIERA",
+    "movimiento": "CUALQUIERA",
+    "hermana": "CUALQUIERA",
+    "calma5": "CALMA5",
+    "cuerpo": 0.0,
+    "recursos": 1.0,
+    "vinculo": 0.0,
+    "confianza": "alta",
+    "falsa": true,
+    "dia": 3,
+    "porque": "alli suele haber botiquines",
+    "se_comprueba": "al llegar se ve un botiquin a una casilla o menos del sitio"
+   },
+   "11": {
+    "tipo": "CONDICION",
+    "accion": "IR_A_SITIO",
+    "destino": [
+     4,
+     9
+    ],
+    "anillo": "CUALQUIERA",
+    "calma": "CUALQUIERA",
+    "movimiento": "CUALQUIERA",
+    "hermana": "CUALQUIERA",
+    "calma5": "CALMA5",
+    "cuerpo": 0.0,
+    "recursos": 1.0,
+    "vinculo": 0.0,
+    "confianza": "alta",
+    "falsa": true,
+    "dia": 3,
+    "porque": "alli suele haber botiquines",
+    "se_comprueba": "al llegar se ve un botiquin a una casilla o menos del sitio"
+   },
+   "12": {
+    "tipo": "CONDICION",
+    "accion": "IR_A_SITIO",
+    "destino": [
+     24,
+     23
+    ],
+    "anillo": "CUALQUIERA",
+    "calma": "CUALQUIERA",
+    "movimiento": "CUALQUIERA",
+    "hermana": "CUALQUIERA",
+    "calma5": "CALMA5",
+    "cuerpo": 0.0,
+    "recursos": 1.0,
+    "vinculo": 0.0,
+    "confianza": "alta",
+    "falsa": false,
+    "dia": 3,
+    "porque": "alli suele haber botiquines",
+    "se_comprueba": "al llegar se ve un botiquin a una casilla o menos del sitio"
+   },
+   "13": {
+    "tipo": "CONDICION",
+    "accion": "IR_A_SITIO",
+    "destino": [
+     24,
+     23
+    ],
+    "anillo": "CUALQUIERA",
+    "calma": "CUALQUIERA",
+    "movimiento": "CUALQUIERA",
+    "hermana": "CUALQUIERA",
+    "calma5": "CALMA5",
+    "cuerpo": 0.0,
+    "recursos": 1.0,
+    "vinculo": 0.0,
+    "confianza": "alta",
+    "falsa": false,
+    "dia": 3,
+    "porque": "alli suele haber botiquines",
+    "se_comprueba": "al llegar se ve un botiquin a una casilla o menos del sitio"
+   }
+  }
+ }
+}

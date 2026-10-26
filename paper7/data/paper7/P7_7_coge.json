@@ -1,0 +1,1880 @@
+{
+ "resumen": {
+  "casos": 90,
+  "posicion": {
+   "primera": 90
+  },
+  "kind_cogido": {
+   "ikRanged": 53,
+   "ikThrown": 5,
+   "ikConsumable": 12,
+   "ikAmmo": 7,
+   "ikMelee": 8,
+   "ikGear": 5
+  },
+  "mas_unidades": 25,
+  "primera_y_no_cabia_otra": 90,
+  "cogido_apilable_en_zurron": 9,
+  "cuando_la_primera_no_es_la_cogida": [],
+  "pares_ordenados": {
+   "bow + arrows -> bow": 24,
+   "blowgun + darts -> blowgun": 23,
+   "rations + first_aid -> rations": 5,
+   "knives + first_aid -> knives": 2,
+   "sword + rations -> sword": 2,
+   "arrows + first_aid -> arrows": 2,
+   "first_aid + rations -> first_aid": 2,
+   "bow + camouflage -> bow": 1,
+   "arrows + backpack -> arrows": 1,
+   "knives + rations -> knives": 1,
+   "first_aid + blowgun -> first_aid": 1,
+   "camouflage + first_aid -> camouflage": 1
+  }
+ },
+ "casos": [
+  {
+   "vida": "P611_t1_A4_20260916/ent_11",
+   "t": 1566,
+   "ids_en_casilla": [
+    "bow",
+    "arrows"
+   ],
+   "n": [
+    1,
+    12
+   ],
+   "cogido": "bow",
+   "posicion_en_lista": "primera",
+   "indice": 0,
+   "kind": "ikRanged",
+   "mas_unidades": false,
+   "cabe_apilado": false,
+   "otras_cabian": []
+  },
+  {
+   "vida": "P611_t1_A4_20365645/ent_10",
+   "t": 625,
+   "ids_en_casilla": [
+    "blowgun",
+    "darts"
+   ],
+   "n": [
+    1,
+    8
+   ],
+   "cogido": "blowgun",
+   "posicion_en_lista": "primera",
+   "indice": 0,
+   "kind": "ikRanged",
+   "mas_unidades": false,
+   "cabe_apilado": false,
+   "otras_cabian": []
+  },
+  {
+   "vida": "P611_t1_A4_20365645/ent_11",
+   "t": 9384,
+   "ids_en_casilla": [
+    "knives",
+    "knives",
+    "first_aid"
+   ],
+   "n": [
+    1,
+    1,
+    2
+   ],
+   "cogido": "knives",
+   "posicion_en_lista": "primera",
+   "indice": 0,
+   "kind": "ikThrown",
+   "mas_unidades": false,
+   "cabe_apilado": true,
+   "otras_cabian": []
+  },
+  {
+   "vida": "P611_t1_A4_20365645/ent_11",
+   "t": 9385,
+   "ids_en_casilla": [
+    "knives",
+    "first_aid"
+   ],
+   "n": [
+    1,
+    2
+   ],
+   "cogido": "knives",
+   "posicion_en_lista": "primera",
+   "indice": 0,
+   "kind": "ikThrown",
+   "mas_unidades": false,
+   "cabe_apilado": true,
+   "otras_cabian": []
+  },
+  {
+   "vida": "P611_t1_A4_20470374/ent_10",
+   "t": 1639,
+   "ids_en_casilla": [
+    "blowgun",
+    "darts"
+   ],
+   "n": [
+    1,
+    8
+   ],
+   "cogido": "blowgun",
+   "posicion_en_lista": "primera",
+   "indice": 0,
+   "kind": "ikRanged",
+   "mas_unidades": false,
+   "cabe_apilado": false,
+   "otras_cabian": []
+  },
+  {
+   "vida": "P611_t1_A4_20470374/ent_10",
+   "t": 12044,
+   "ids_en_casilla": [
+    "rations",
+    "first_aid",
+    "rations"
+   ],
+   "n": [
+    2,
+    1,
+    2
+   ],
+   "cogido": "rations",
+   "posicion_en_lista": "primera",
+   "indice": 0,
+   "kind": "ikConsumable",
+   "mas_unidades": true,
+   "cabe_apilado": true,
+   "otras_cabian": []
+  },
+  {
+   "vida": "P611_t1_A4_20470374/ent_10",
+   "t": 13955,
+   "ids_en_casilla": [
+    "bow",
+    "camouflage"
+   ],
+   "n": [
+    1,
+    1
+   ],
+   "cogido": "bow",
+   "posicion_en_lista": "primera",
+   "indice": 0,
+   "kind": "ikRanged",
+   "mas_unidades": true,
+   "cabe_apilado": false,
+   "otras_cabian": []
+  },
+  {
+   "vida": "P611_t1_A4_20470374/ent_11",
+   "t": 1067,
+   "ids_en_casilla": [
+    "bow",
+    "arrows",
+    "backpack"
+   ],
+   "n": [
+    1,
+    12,
+    1
+   ],
+   "cogido": "bow",
+   "posicion_en_lista": "primera",
+   "indice": 0,
+   "kind": "ikRanged",
+   "mas_unidades": false,
+   "cabe_apilado": false,
+   "otras_cabian": []
+  },
+  {
+   "vida": "P611_t1_A4_20470374/ent_11",
+   "t": 1068,
+   "ids_en_casilla": [
+    "arrows",
+    "backpack"
+   ],
+   "n": [
+    12,
+    1
+   ],
+   "cogido": "arrows",
+   "posicion_en_lista": "primera",
+   "indice": 0,
+   "kind": "ikAmmo",
+   "mas_unidades": true,
+   "cabe_apilado": false,
+   "otras_cabian": []
+  },
+  {
+   "vida": "P611_t1_A4_20575103/ent_10",
+   "t": 603,
+   "ids_en_casilla": [
+    "bow",
+    "arrows"
+   ],
+   "n": [
+    1,
+    12
+   ],
+   "cogido": "bow",
+   "posicion_en_lista": "primera",
+   "indice": 0,
+   "kind": "ikRanged",
+   "mas_unidades": false,
+   "cabe_apilado": false,
+   "otras_cabian": []
+  },
+  {
+   "vida": "P611_t1_A4_20679832/ent_11",
+   "t": 9309,
+   "ids_en_casilla": [
+    "bow",
+    "arrows"
+   ],
+   "n": [
+    1,
+    12
+   ],
+   "cogido": "bow",
+   "posicion_en_lista": "primera",
+   "indice": 0,
+   "kind": "ikRanged",
+   "mas_unidades": false,
+   "cabe_apilado": false,
+   "otras_cabian": []
+  },
+  {
+   "vida": "P611_t1_A4_20889290/ent_10",
+   "t": 768,
+   "ids_en_casilla": [
+    "bow",
+    "arrows"
+   ],
+   "n": [
+    1,
+    12
+   ],
+   "cogido": "bow",
+   "posicion_en_lista": "primera",
+   "indice": 0,
+   "kind": "ikRanged",
+   "mas_unidades": false,
+   "cabe_apilado": false,
+   "otras_cabian": []
+  },
+  {
+   "vida": "P611_t1_A4_20889290/ent_10",
+   "t": 5356,
+   "ids_en_casilla": [
+    "blowgun",
+    "darts"
+   ],
+   "n": [
+    1,
+    8
+   ],
+   "cogido": "blowgun",
+   "posicion_en_lista": "primera",
+   "indice": 0,
+   "kind": "ikRanged",
+   "mas_unidades": false,
+   "cabe_apilado": false,
+   "otras_cabian": []
+  },
+  {
+   "vida": "P611_t1_A4_20994019/ent_11",
+   "t": 2895,
+   "ids_en_casilla": [
+    "blowgun",
+    "darts"
+   ],
+   "n": [
+    1,
+    8
+   ],
+   "cogido": "blowgun",
+   "posicion_en_lista": "primera",
+   "indice": 0,
+   "kind": "ikRanged",
+   "mas_unidades": false,
+   "cabe_apilado": false,
+   "otras_cabian": []
+  },
+  {
+   "vida": "P611_t1_A4_21098748/ent_10",
+   "t": 13017,
+   "ids_en_casilla": [
+    "sword",
+    "rations",
+    "first_aid"
+   ],
+   "n": [
+    1,
+    1,
+    1
+   ],
+   "cogido": "sword",
+   "posicion_en_lista": "primera",
+   "indice": 0,
+   "kind": "ikMelee",
+   "mas_unidades": true,
+   "cabe_apilado": false,
+   "otras_cabian": []
+  },
+  {
+   "vida": "P611_t1_A4_21098748/ent_10",
+   "t": 13018,
+   "ids_en_casilla": [
+    "rations",
+    "first_aid"
+   ],
+   "n": [
+    1,
+    1
+   ],
+   "cogido": "rations",
+   "posicion_en_lista": "primera",
+   "indice": 0,
+   "kind": "ikConsumable",
+   "mas_unidades": true,
+   "cabe_apilado": false,
+   "otras_cabian": []
+  },
+  {
+   "vida": "P611_t1_A4_21203477/ent_10",
+   "t": 1341,
+   "ids_en_casilla": [
+    "bow",
+    "arrows"
+   ],
+   "n": [
+    1,
+    12
+   ],
+   "cogido": "bow",
+   "posicion_en_lista": "primera",
+   "indice": 0,
+   "kind": "ikRanged",
+   "mas_unidades": false,
+   "cabe_apilado": false,
+   "otras_cabian": []
+  },
+  {
+   "vida": "P611_t2_A4_21308206/ent_10",
+   "t": 2229,
+   "ids_en_casilla": [
+    "bow",
+    "arrows"
+   ],
+   "n": [
+    1,
+    12
+   ],
+   "cogido": "bow",
+   "posicion_en_lista": "primera",
+   "indice": 0,
+   "kind": "ikRanged",
+   "mas_unidades": false,
+   "cabe_apilado": false,
+   "otras_cabian": []
+  },
+  {
+   "vida": "P611_t2_A4_21412935/ent_10",
+   "t": 1214,
+   "ids_en_casilla": [
+    "blowgun",
+    "darts"
+   ],
+   "n": [
+    1,
+    8
+   ],
+   "cogido": "blowgun",
+   "posicion_en_lista": "primera",
+   "indice": 0,
+   "kind": "ikRanged",
+   "mas_unidades": false,
+   "cabe_apilado": false,
+   "otras_cabian": []
+  },
+  {
+   "vida": "P611_t2_A4_21412935/ent_11",
+   "t": 2963,
+   "ids_en_casilla": [
+    "bow",
+    "arrows"
+   ],
+   "n": [
+    1,
+    12
+   ],
+   "cogido": "bow",
+   "posicion_en_lista": "primera",
+   "indice": 0,
+   "kind": "ikRanged",
+   "mas_unidades": false,
+   "cabe_apilado": false,
+   "otras_cabian": []
+  },
+  {
+   "vida": "P611_t2_A4_21517664/ent_10",
+   "t": 13134,
+   "ids_en_casilla": [
+    "knives",
+    "rations"
+   ],
+   "n": [
+    4,
+    2
+   ],
+   "cogido": "knives",
+   "posicion_en_lista": "primera",
+   "indice": 0,
+   "kind": "ikThrown",
+   "mas_unidades": true,
+   "cabe_apilado": false,
+   "otras_cabian": []
+  },
+  {
+   "vida": "P611_t2_A4_21517664/ent_11",
+   "t": 14054,
+   "ids_en_casilla": [
+    "bow",
+    "backpack",
+    "rations",
+    "first_aid",
+    "blowgun"
+   ],
+   "n": [
+    1,
+    1,
+    2,
+    2,
+    1
+   ],
+   "cogido": "bow",
+   "posicion_en_lista": "primera",
+   "indice": 0,
+   "kind": "ikRanged",
+   "mas_unidades": false,
+   "cabe_apilado": false,
+   "otras_cabian": [
+    "rations"
+   ]
+  },
+  {
+   "vida": "P611_t2_A4_21517664/ent_11",
+   "t": 14055,
+   "ids_en_casilla": [
+    "backpack",
+    "rations",
+    "first_aid",
+    "blowgun"
+   ],
+   "n": [
+    1,
+    2,
+    2,
+    1
+   ],
+   "cogido": "backpack",
+   "posicion_en_lista": "primera",
+   "indice": 0,
+   "kind": "ikGear",
+   "mas_unidades": false,
+   "cabe_apilado": false,
+   "otras_cabian": [
+    "rations"
+   ]
+  },
+  {
+   "vida": "P611_t2_A4_21517664/ent_11",
+   "t": 14056,
+   "ids_en_casilla": [
+    "rations",
+    "first_aid",
+    "blowgun"
+   ],
+   "n": [
+    2,
+    2,
+    1
+   ],
+   "cogido": "rations",
+   "posicion_en_lista": "primera",
+   "indice": 0,
+   "kind": "ikConsumable",
+   "mas_unidades": true,
+   "cabe_apilado": true,
+   "otras_cabian": []
+  },
+  {
+   "vida": "P611_t2_A4_21517664/ent_11",
+   "t": 14057,
+   "ids_en_casilla": [
+    "first_aid",
+    "blowgun"
+   ],
+   "n": [
+    2,
+    1
+   ],
+   "cogido": "first_aid",
+   "posicion_en_lista": "primera",
+   "indice": 0,
+   "kind": "ikConsumable",
+   "mas_unidades": true,
+   "cabe_apilado": false,
+   "otras_cabian": []
+  },
+  {
+   "vida": "P611_t2_A4_21517664/ent_11",
+   "t": 14378,
+   "ids_en_casilla": [
+    "camouflage",
+    "first_aid"
+   ],
+   "n": [
+    1,
+    2
+   ],
+   "cogido": "camouflage",
+   "posicion_en_lista": "primera",
+   "indice": 0,
+   "kind": "ikGear",
+   "mas_unidades": false,
+   "cabe_apilado": false,
+   "otras_cabian": []
+  },
+  {
+   "vida": "P611_t2_A4_21727122/ent_10",
+   "t": 12568,
+   "ids_en_casilla": [
+    "rations",
+    "spear",
+    "backpack",
+    "rations",
+    "first_aid"
+   ],
+   "n": [
+    2,
+    1,
+    1,
+    2,
+    1
+   ],
+   "cogido": "rations",
+   "posicion_en_lista": "primera",
+   "indice": 0,
+   "kind": "ikConsumable",
+   "mas_unidades": true,
+   "cabe_apilado": false,
+   "otras_cabian": []
+  },
+  {
+   "vida": "P611_t2_A4_21727122/ent_11",
+   "t": 944,
+   "ids_en_casilla": [
+    "blowgun",
+    "darts"
+   ],
+   "n": [
+    1,
+    8
+   ],
+   "cogido": "blowgun",
+   "posicion_en_lista": "primera",
+   "indice": 0,
+   "kind": "ikRanged",
+   "mas_unidades": false,
+   "cabe_apilado": false,
+   "otras_cabian": []
+  },
+  {
+   "vida": "P611_t2_A4_21831851/ent_10",
+   "t": 2462,
+   "ids_en_casilla": [
+    "sword",
+    "rations"
+   ],
+   "n": [
+    1,
+    2
+   ],
+   "cogido": "sword",
+   "posicion_en_lista": "primera",
+   "indice": 0,
+   "kind": "ikMelee",
+   "mas_unidades": false,
+   "cabe_apilado": false,
+   "otras_cabian": []
+  },
+  {
+   "vida": "P611_t2_A4_21831851/ent_11",
+   "t": 747,
+   "ids_en_casilla": [
+    "blowgun",
+    "darts"
+   ],
+   "n": [
+    1,
+    8
+   ],
+   "cogido": "blowgun",
+   "posicion_en_lista": "primera",
+   "indice": 0,
+   "kind": "ikRanged",
+   "mas_unidades": false,
+   "cabe_apilado": false,
+   "otras_cabian": []
+  },
+  {
+   "vida": "P611_t2_A4_21831851/ent_11",
+   "t": 2353,
+   "ids_en_casilla": [
+    "bow",
+    "arrows"
+   ],
+   "n": [
+    1,
+    12
+   ],
+   "cogido": "bow",
+   "posicion_en_lista": "primera",
+   "indice": 0,
+   "kind": "ikRanged",
+   "mas_unidades": false,
+   "cabe_apilado": false,
+   "otras_cabian": []
+  },
+  {
+   "vida": "P611_t2_A4_21831851/ent_11",
+   "t": 12214,
+   "ids_en_casilla": [
+    "darts",
+    "rations"
+   ],
+   "n": [
+    4,
+    2
+   ],
+   "cogido": "darts",
+   "posicion_en_lista": "primera",
+   "indice": 0,
+   "kind": "ikAmmo",
+   "mas_unidades": true,
+   "cabe_apilado": false,
+   "otras_cabian": []
+  },
+  {
+   "vida": "P611_t2_A4_22041309/ent_10",
+   "t": 1506,
+   "ids_en_casilla": [
+    "bow",
+    "arrows"
+   ],
+   "n": [
+    1,
+    12
+   ],
+   "cogido": "bow",
+   "posicion_en_lista": "primera",
+   "indice": 0,
+   "kind": "ikRanged",
+   "mas_unidades": false,
+   "cabe_apilado": false,
+   "otras_cabian": []
+  },
+  {
+   "vida": "P611_t2_A4_22041309/ent_10",
+   "t": 12754,
+   "ids_en_casilla": [
+    "spear",
+    "backpack",
+    "rations",
+    "first_aid"
+   ],
+   "n": [
+    1,
+    1,
+    2,
+    2
+   ],
+   "cogido": "spear",
+   "posicion_en_lista": "primera",
+   "indice": 0,
+   "kind": "ikMelee",
+   "mas_unidades": false,
+   "cabe_apilado": false,
+   "otras_cabian": []
+  },
+  {
+   "vida": "P611_t2_A4_22250767/ent_10",
+   "t": 2389,
+   "ids_en_casilla": [
+    "bow",
+    "arrows"
+   ],
+   "n": [
+    1,
+    12
+   ],
+   "cogido": "bow",
+   "posicion_en_lista": "primera",
+   "indice": 0,
+   "kind": "ikRanged",
+   "mas_unidades": false,
+   "cabe_apilado": false,
+   "otras_cabian": []
+  },
+  {
+   "vida": "P611_t2_A4_22250767/ent_11",
+   "t": 2035,
+   "ids_en_casilla": [
+    "blowgun",
+    "darts"
+   ],
+   "n": [
+    1,
+    8
+   ],
+   "cogido": "blowgun",
+   "posicion_en_lista": "primera",
+   "indice": 0,
+   "kind": "ikRanged",
+   "mas_unidades": false,
+   "cabe_apilado": false,
+   "otras_cabian": []
+  },
+  {
+   "vida": "P624_t1_A4_24554805/ent_11",
+   "t": 9329,
+   "ids_en_casilla": [
+    "blowgun",
+    "darts"
+   ],
+   "n": [
+    1,
+    8
+   ],
+   "cogido": "blowgun",
+   "posicion_en_lista": "primera",
+   "indice": 0,
+   "kind": "ikRanged",
+   "mas_unidades": false,
+   "cabe_apilado": false,
+   "otras_cabian": []
+  },
+  {
+   "vida": "P624_t1_A4_24659534/ent_10",
+   "t": 615,
+   "ids_en_casilla": [
+    "blowgun",
+    "darts"
+   ],
+   "n": [
+    1,
+    8
+   ],
+   "cogido": "blowgun",
+   "posicion_en_lista": "primera",
+   "indice": 0,
+   "kind": "ikRanged",
+   "mas_unidades": false,
+   "cabe_apilado": false,
+   "otras_cabian": []
+  },
+  {
+   "vida": "P624_t1_A4_24764263/ent_10",
+   "t": 12765,
+   "ids_en_casilla": [
+    "rations",
+    "first_aid"
+   ],
+   "n": [
+    3,
+    2
+   ],
+   "cogido": "rations",
+   "posicion_en_lista": "primera",
+   "indice": 0,
+   "kind": "ikConsumable",
+   "mas_unidades": true,
+   "cabe_apilado": false,
+   "otras_cabian": []
+  },
+  {
+   "vida": "P624_t1_A4_24764263/ent_10",
+   "t": 14653,
+   "ids_en_casilla": [
+    "bow",
+    "camouflage",
+    "net"
+   ],
+   "n": [
+    1,
+    1,
+    1
+   ],
+   "cogido": "bow",
+   "posicion_en_lista": "primera",
+   "indice": 0,
+   "kind": "ikRanged",
+   "mas_unidades": true,
+   "cabe_apilado": false,
+   "otras_cabian": []
+  },
+  {
+   "vida": "P624_t1_A4_24764263/ent_11",
+   "t": 1794,
+   "ids_en_casilla": [
+    "bow",
+    "arrows"
+   ],
+   "n": [
+    1,
+    12
+   ],
+   "cogido": "bow",
+   "posicion_en_lista": "primera",
+   "indice": 0,
+   "kind": "ikRanged",
+   "mas_unidades": false,
+   "cabe_apilado": false,
+   "otras_cabian": []
+  },
+  {
+   "vida": "P624_t1_A4_24868992/ent_11",
+   "t": 647,
+   "ids_en_casilla": [
+    "bow",
+    "arrows"
+   ],
+   "n": [
+    1,
+    12
+   ],
+   "cogido": "bow",
+   "posicion_en_lista": "primera",
+   "indice": 0,
+   "kind": "ikRanged",
+   "mas_unidades": false,
+   "cabe_apilado": false,
+   "otras_cabian": []
+  },
+  {
+   "vida": "P624_t1_A4_25078450/ent_10",
+   "t": 12870,
+   "ids_en_casilla": [
+    "arrows",
+    "first_aid"
+   ],
+   "n": [
+    6,
+    1
+   ],
+   "cogido": "arrows",
+   "posicion_en_lista": "primera",
+   "indice": 0,
+   "kind": "ikAmmo",
+   "mas_unidades": true,
+   "cabe_apilado": false,
+   "otras_cabian": [
+    "first_aid"
+   ]
+  },
+  {
+   "vida": "P624_t1_A4_25183179/ent_11",
+   "t": 717,
+   "ids_en_casilla": [
+    "blowgun",
+    "darts"
+   ],
+   "n": [
+    1,
+    8
+   ],
+   "cogido": "blowgun",
+   "posicion_en_lista": "primera",
+   "indice": 0,
+   "kind": "ikRanged",
+   "mas_unidades": false,
+   "cabe_apilado": false,
+   "otras_cabian": []
+  },
+  {
+   "vida": "P624_t1_A4_25183179/ent_11",
+   "t": 12611,
+   "ids_en_casilla": [
+    "rations",
+    "first_aid"
+   ],
+   "n": [
+    1,
+    1
+   ],
+   "cogido": "rations",
+   "posicion_en_lista": "primera",
+   "indice": 0,
+   "kind": "ikConsumable",
+   "mas_unidades": true,
+   "cabe_apilado": false,
+   "otras_cabian": []
+  },
+  {
+   "vida": "P624_t1_A4_25183179/ent_11",
+   "t": 12710,
+   "ids_en_casilla": [
+    "knives",
+    "first_aid"
+   ],
+   "n": [
+    1,
+    1
+   ],
+   "cogido": "knives",
+   "posicion_en_lista": "primera",
+   "indice": 0,
+   "kind": "ikThrown",
+   "mas_unidades": true,
+   "cabe_apilado": true,
+   "otras_cabian": []
+  },
+  {
+   "vida": "P624_t1_A4_25287908/ent_10",
+   "t": 1197,
+   "ids_en_casilla": [
+    "blowgun",
+    "darts"
+   ],
+   "n": [
+    1,
+    8
+   ],
+   "cogido": "blowgun",
+   "posicion_en_lista": "primera",
+   "indice": 0,
+   "kind": "ikRanged",
+   "mas_unidades": false,
+   "cabe_apilado": false,
+   "otras_cabian": []
+  },
+  {
+   "vida": "P624_t1_A4_25287908/ent_11",
+   "t": 10396,
+   "ids_en_casilla": [
+    "bow",
+    "arrows"
+   ],
+   "n": [
+    1,
+    12
+   ],
+   "cogido": "bow",
+   "posicion_en_lista": "primera",
+   "indice": 0,
+   "kind": "ikRanged",
+   "mas_unidades": false,
+   "cabe_apilado": false,
+   "otras_cabian": []
+  },
+  {
+   "vida": "P624_t1_A4_25392637/ent_10",
+   "t": 1032,
+   "ids_en_casilla": [
+    "bow",
+    "arrows"
+   ],
+   "n": [
+    1,
+    12
+   ],
+   "cogido": "bow",
+   "posicion_en_lista": "primera",
+   "indice": 0,
+   "kind": "ikRanged",
+   "mas_unidades": false,
+   "cabe_apilado": false,
+   "otras_cabian": []
+  },
+  {
+   "vida": "P624_t1_A4_25392637/ent_11",
+   "t": 12045,
+   "ids_en_casilla": [
+    "sword",
+    "first_aid"
+   ],
+   "n": [
+    1,
+    1
+   ],
+   "cogido": "sword",
+   "posicion_en_lista": "primera",
+   "indice": 0,
+   "kind": "ikMelee",
+   "mas_unidades": true,
+   "cabe_apilado": false,
+   "otras_cabian": []
+  },
+  {
+   "vida": "P624_t1_A4_25392637/ent_11",
+   "t": 12826,
+   "ids_en_casilla": [
+    "arrows",
+    "first_aid"
+   ],
+   "n": [
+    12,
+    1
+   ],
+   "cogido": "arrows",
+   "posicion_en_lista": "primera",
+   "indice": 0,
+   "kind": "ikAmmo",
+   "mas_unidades": true,
+   "cabe_apilado": false,
+   "otras_cabian": []
+  },
+  {
+   "vida": "P624_t1_A4_25497366/ent_10",
+   "t": 1777,
+   "ids_en_casilla": [
+    "bow",
+    "arrows"
+   ],
+   "n": [
+    1,
+    12
+   ],
+   "cogido": "bow",
+   "posicion_en_lista": "primera",
+   "indice": 0,
+   "kind": "ikRanged",
+   "mas_unidades": false,
+   "cabe_apilado": false,
+   "otras_cabian": []
+  },
+  {
+   "vida": "P624_t1_A4_25497366/ent_10",
+   "t": 11671,
+   "ids_en_casilla": [
+    "spear",
+    "rations",
+    "first_aid"
+   ],
+   "n": [
+    1,
+    2,
+    2
+   ],
+   "cogido": "spear",
+   "posicion_en_lista": "primera",
+   "indice": 0,
+   "kind": "ikMelee",
+   "mas_unidades": false,
+   "cabe_apilado": false,
+   "otras_cabian": [
+    "rations"
+   ]
+  },
+  {
+   "vida": "P624_t1_A4_25497366/ent_10",
+   "t": 11672,
+   "ids_en_casilla": [
+    "rations",
+    "first_aid"
+   ],
+   "n": [
+    2,
+    2
+   ],
+   "cogido": "rations",
+   "posicion_en_lista": "primera",
+   "indice": 0,
+   "kind": "ikConsumable",
+   "mas_unidades": true,
+   "cabe_apilado": true,
+   "otras_cabian": []
+  },
+  {
+   "vida": "P624_t1_A4_25497366/ent_11",
+   "t": 8455,
+   "ids_en_casilla": [
+    "blowgun",
+    "darts"
+   ],
+   "n": [
+    1,
+    8
+   ],
+   "cogido": "blowgun",
+   "posicion_en_lista": "primera",
+   "indice": 0,
+   "kind": "ikRanged",
+   "mas_unidades": false,
+   "cabe_apilado": false,
+   "otras_cabian": []
+  },
+  {
+   "vida": "P624_t1_A4_25602095/ent_10",
+   "t": 9284,
+   "ids_en_casilla": [
+    "bow",
+    "arrows"
+   ],
+   "n": [
+    1,
+    12
+   ],
+   "cogido": "bow",
+   "posicion_en_lista": "primera",
+   "indice": 0,
+   "kind": "ikRanged",
+   "mas_unidades": false,
+   "cabe_apilado": false,
+   "otras_cabian": []
+  },
+  {
+   "vida": "P624_t1_A4_25602095/ent_11",
+   "t": 9659,
+   "ids_en_casilla": [
+    "blowgun",
+    "darts"
+   ],
+   "n": [
+    1,
+    8
+   ],
+   "cogido": "blowgun",
+   "posicion_en_lista": "primera",
+   "indice": 0,
+   "kind": "ikRanged",
+   "mas_unidades": false,
+   "cabe_apilado": false,
+   "otras_cabian": []
+  },
+  {
+   "vida": "P624_t1_A4_25706824/ent_10",
+   "t": 12412,
+   "ids_en_casilla": [
+    "rations",
+    "first_aid",
+    "sword",
+    "darts",
+    "rations"
+   ],
+   "n": [
+    2,
+    1,
+    1,
+    4,
+    4
+   ],
+   "cogido": "rations",
+   "posicion_en_lista": "primera",
+   "indice": 0,
+   "kind": "ikConsumable",
+   "mas_unidades": false,
+   "cabe_apilado": true,
+   "otras_cabian": []
+  },
+  {
+   "vida": "P624_t1_A4_25706824/ent_10",
+   "t": 13152,
+   "ids_en_casilla": [
+    "net",
+    "arrows",
+    "rations"
+   ],
+   "n": [
+    1,
+    6,
+    1
+   ],
+   "cogido": "net",
+   "posicion_en_lista": "primera",
+   "indice": 0,
+   "kind": "ikThrown",
+   "mas_unidades": false,
+   "cabe_apilado": true,
+   "otras_cabian": [
+    "rations"
+   ]
+  },
+  {
+   "vida": "P624_t1_A4_25706824/ent_11",
+   "t": 11807,
+   "ids_en_casilla": [
+    "blowgun",
+    "darts"
+   ],
+   "n": [
+    1,
+    8
+   ],
+   "cogido": "blowgun",
+   "posicion_en_lista": "primera",
+   "indice": 0,
+   "kind": "ikRanged",
+   "mas_unidades": false,
+   "cabe_apilado": false,
+   "otras_cabian": []
+  },
+  {
+   "vida": "P624_t1_A4_25811553/ent_10",
+   "t": 1206,
+   "ids_en_casilla": [
+    "blowgun",
+    "darts"
+   ],
+   "n": [
+    1,
+    8
+   ],
+   "cogido": "blowgun",
+   "posicion_en_lista": "primera",
+   "indice": 0,
+   "kind": "ikRanged",
+   "mas_unidades": false,
+   "cabe_apilado": false,
+   "otras_cabian": []
+  },
+  {
+   "vida": "P624_t1_A4_25811553/ent_11",
+   "t": 13212,
+   "ids_en_casilla": [
+    "bow",
+    "first_aid",
+    "rations"
+   ],
+   "n": [
+    1,
+    1,
+    2
+   ],
+   "cogido": "bow",
+   "posicion_en_lista": "primera",
+   "indice": 0,
+   "kind": "ikRanged",
+   "mas_unidades": false,
+   "cabe_apilado": false,
+   "otras_cabian": []
+  },
+  {
+   "vida": "P624_t1_A4_25916282/ent_11",
+   "t": 658,
+   "ids_en_casilla": [
+    "bow",
+    "arrows"
+   ],
+   "n": [
+    1,
+    12
+   ],
+   "cogido": "bow",
+   "posicion_en_lista": "primera",
+   "indice": 0,
+   "kind": "ikRanged",
+   "mas_unidades": false,
+   "cabe_apilado": false,
+   "otras_cabian": []
+  },
+  {
+   "vida": "P624_t1_A4_25916282/ent_11",
+   "t": 11440,
+   "ids_en_casilla": [
+    "backpack",
+    "rations"
+   ],
+   "n": [
+    1,
+    4
+   ],
+   "cogido": "backpack",
+   "posicion_en_lista": "primera",
+   "indice": 0,
+   "kind": "ikGear",
+   "mas_unidades": false,
+   "cabe_apilado": false,
+   "otras_cabian": []
+  },
+  {
+   "vida": "P624_t1_A4_26021011/ent_11",
+   "t": 3367,
+   "ids_en_casilla": [
+    "bow",
+    "arrows"
+   ],
+   "n": [
+    1,
+    12
+   ],
+   "cogido": "bow",
+   "posicion_en_lista": "primera",
+   "indice": 0,
+   "kind": "ikRanged",
+   "mas_unidades": false,
+   "cabe_apilado": false,
+   "otras_cabian": []
+  },
+  {
+   "vida": "P624_t1_A4_26125740/ent_10",
+   "t": 12587,
+   "ids_en_casilla": [
+    "blowgun",
+    "net"
+   ],
+   "n": [
+    1,
+    1
+   ],
+   "cogido": "blowgun",
+   "posicion_en_lista": "primera",
+   "indice": 0,
+   "kind": "ikRanged",
+   "mas_unidades": true,
+   "cabe_apilado": false,
+   "otras_cabian": []
+  },
+  {
+   "vida": "P624_t1_A4_26125740/ent_11",
+   "t": 805,
+   "ids_en_casilla": [
+    "blowgun",
+    "darts"
+   ],
+   "n": [
+    1,
+    8
+   ],
+   "cogido": "blowgun",
+   "posicion_en_lista": "primera",
+   "indice": 0,
+   "kind": "ikRanged",
+   "mas_unidades": false,
+   "cabe_apilado": false,
+   "otras_cabian": []
+  },
+  {
+   "vida": "P624_t1_A4_26230469/ent_10",
+   "t": 636,
+   "ids_en_casilla": [
+    "blowgun",
+    "darts"
+   ],
+   "n": [
+    1,
+    8
+   ],
+   "cogido": "blowgun",
+   "posicion_en_lista": "primera",
+   "indice": 0,
+   "kind": "ikRanged",
+   "mas_unidades": false,
+   "cabe_apilado": false,
+   "otras_cabian": []
+  },
+  {
+   "vida": "P624_t1_A4_26230469/ent_10",
+   "t": 10711,
+   "ids_en_casilla": [
+    "bow",
+    "arrows"
+   ],
+   "n": [
+    1,
+    12
+   ],
+   "cogido": "bow",
+   "posicion_en_lista": "primera",
+   "indice": 0,
+   "kind": "ikRanged",
+   "mas_unidades": false,
+   "cabe_apilado": false,
+   "otras_cabian": []
+  },
+  {
+   "vida": "P624_t1_A4_26335198/ent_11",
+   "t": 10339,
+   "ids_en_casilla": [
+    "sword",
+    "rations"
+   ],
+   "n": [
+    1,
+    1
+   ],
+   "cogido": "sword",
+   "posicion_en_lista": "primera",
+   "indice": 0,
+   "kind": "ikMelee",
+   "mas_unidades": true,
+   "cabe_apilado": false,
+   "otras_cabian": []
+  },
+  {
+   "vida": "P624_t1_A4_26439927/ent_10",
+   "t": 603,
+   "ids_en_casilla": [
+    "bow",
+    "arrows"
+   ],
+   "n": [
+    1,
+    12
+   ],
+   "cogido": "bow",
+   "posicion_en_lista": "primera",
+   "indice": 0,
+   "kind": "ikRanged",
+   "mas_unidades": false,
+   "cabe_apilado": false,
+   "otras_cabian": []
+  },
+  {
+   "vida": "P624_t1_A4_26439927/ent_11",
+   "t": 11536,
+   "ids_en_casilla": [
+    "sword",
+    "first_aid",
+    "rations"
+   ],
+   "n": [
+    1,
+    2,
+    4
+   ],
+   "cogido": "sword",
+   "posicion_en_lista": "primera",
+   "indice": 0,
+   "kind": "ikMelee",
+   "mas_unidades": false,
+   "cabe_apilado": false,
+   "otras_cabian": []
+  },
+  {
+   "vida": "P624_t1_A4_26439927/ent_11",
+   "t": 11537,
+   "ids_en_casilla": [
+    "first_aid",
+    "rations"
+   ],
+   "n": [
+    2,
+    4
+   ],
+   "cogido": "first_aid",
+   "posicion_en_lista": "primera",
+   "indice": 0,
+   "kind": "ikConsumable",
+   "mas_unidades": false,
+   "cabe_apilado": false,
+   "otras_cabian": []
+  },
+  {
+   "vida": "P75_humo_APRENDE_26544656/ent_11",
+   "t": 731,
+   "ids_en_casilla": [
+    "blowgun",
+    "darts"
+   ],
+   "n": [
+    1,
+    8
+   ],
+   "cogido": "blowgun",
+   "posicion_en_lista": "primera",
+   "indice": 0,
+   "kind": "ikRanged",
+   "mas_unidades": false,
+   "cabe_apilado": false,
+   "otras_cabian": []
+  },
+  {
+   "vida": "P75_humo_APRENDE_26649385/ent_10",
+   "t": 658,
+   "ids_en_casilla": [
+    "blowgun",
+    "darts"
+   ],
+   "n": [
+    1,
+    8
+   ],
+   "cogido": "blowgun",
+   "posicion_en_lista": "primera",
+   "indice": 0,
+   "kind": "ikRanged",
+   "mas_unidades": false,
+   "cabe_apilado": false,
+   "otras_cabian": []
+  },
+  {
+   "vida": "P75_humo_APRENDE_26649385/ent_10",
+   "t": 669,
+   "ids_en_casilla": [
+    "bow",
+    "arrows"
+   ],
+   "n": [
+    1,
+    12
+   ],
+   "cogido": "bow",
+   "posicion_en_lista": "primera",
+   "indice": 0,
+   "kind": "ikRanged",
+   "mas_unidades": false,
+   "cabe_apilado": false,
+   "otras_cabian": []
+  },
+  {
+   "vida": "P75_humo_APRENDE_26754114/ent_10",
+   "t": 1123,
+   "ids_en_casilla": [
+    "bow",
+    "arrows"
+   ],
+   "n": [
+    1,
+    12
+   ],
+   "cogido": "bow",
+   "posicion_en_lista": "primera",
+   "indice": 0,
+   "kind": "ikRanged",
+   "mas_unidades": false,
+   "cabe_apilado": false,
+   "otras_cabian": []
+  },
+  {
+   "vida": "P75_humo_APRENDE_26754114/ent_10",
+   "t": 1200,
+   "ids_en_casilla": [
+    "blowgun",
+    "darts"
+   ],
+   "n": [
+    1,
+    8
+   ],
+   "cogido": "blowgun",
+   "posicion_en_lista": "primera",
+   "indice": 0,
+   "kind": "ikRanged",
+   "mas_unidades": false,
+   "cabe_apilado": false,
+   "otras_cabian": []
+  },
+  {
+   "vida": "P75_humo_APRENDE_26754114/ent_10",
+   "t": 13586,
+   "ids_en_casilla": [
+    "first_aid",
+    "rations"
+   ],
+   "n": [
+    2,
+    2
+   ],
+   "cogido": "first_aid",
+   "posicion_en_lista": "primera",
+   "indice": 0,
+   "kind": "ikConsumable",
+   "mas_unidades": true,
+   "cabe_apilado": false,
+   "otras_cabian": []
+  },
+  {
+   "vida": "P75_humo_APRENDE_26754114/ent_10",
+   "t": 14247,
+   "ids_en_casilla": [
+    "backpack",
+    "darts",
+    "arrows"
+   ],
+   "n": [
+    1,
+    4,
+    6
+   ],
+   "cogido": "backpack",
+   "posicion_en_lista": "primera",
+   "indice": 0,
+   "kind": "ikGear",
+   "mas_unidades": false,
+   "cabe_apilado": false,
+   "otras_cabian": []
+  },
+  {
+   "vida": "P75_humo_APRENDE_26754114/ent_10",
+   "t": 14249,
+   "ids_en_casilla": [
+    "darts",
+    "arrows",
+    "camouflage"
+   ],
+   "n": [
+    4,
+    6,
+    1
+   ],
+   "cogido": "darts",
+   "posicion_en_lista": "primera",
+   "indice": 0,
+   "kind": "ikAmmo",
+   "mas_unidades": false,
+   "cabe_apilado": false,
+   "otras_cabian": []
+  },
+  {
+   "vida": "P75_humo_APRENDE_26754114/ent_10",
+   "t": 14250,
+   "ids_en_casilla": [
+    "arrows",
+    "camouflage"
+   ],
+   "n": [
+    6,
+    1
+   ],
+   "cogido": "arrows",
+   "posicion_en_lista": "primera",
+   "indice": 0,
+   "kind": "ikAmmo",
+   "mas_unidades": true,
+   "cabe_apilado": false,
+   "otras_cabian": []
+  },
+  {
+   "vida": "P76_humo_APRENDE_26858843/ent_11",
+   "t": 834,
+   "ids_en_casilla": [
+    "blowgun",
+    "darts"
+   ],
+   "n": [
+    1,
+    8
+   ],
+   "cogido": "blowgun",
+   "posicion_en_lista": "primera",
+   "indice": 0,
+   "kind": "ikRanged",
+   "mas_unidades": false,
+   "cabe_apilado": false,
+   "otras_cabian": []
+  },
+  {
+   "vida": "P76_humo_APRENDE_26858843/ent_11",
+   "t": 8365,
+   "ids_en_casilla": [
+    "backpack",
+    "darts"
+   ],
+   "n": [
+    1,
+    6
+   ],
+   "cogido": "backpack",
+   "posicion_en_lista": "primera",
+   "indice": 0,
+   "kind": "ikGear",
+   "mas_unidades": false,
+   "cabe_apilado": false,
+   "otras_cabian": []
+  },
+  {
+   "vida": "P76_humo_APRENDE_26858843/ent_11",
+   "t": 8386,
+   "ids_en_casilla": [
+    "darts",
+    "backpack"
+   ],
+   "n": [
+    6,
+    1
+   ],
+   "cogido": "darts",
+   "posicion_en_lista": "primera",
+   "indice": 0,
+   "kind": "ikAmmo",
+   "mas_unidades": true,
+   "cabe_apilado": false,
+   "otras_cabian": []
+  },
+  {
+   "vida": "P76_humo_APRENDE_26858843/ent_11",
+   "t": 12526,
+   "ids_en_casilla": [
+    "rations",
+    "first_aid"
+   ],
+   "n": [
+    4,
+    1
+   ],
+   "cogido": "rations",
+   "posicion_en_lista": "primera",
+   "indice": 0,
+   "kind": "ikConsumable",
+   "mas_unidades": true,
+   "cabe_apilado": true,
+   "otras_cabian": []
+  },
+  {
+   "vida": "P76_humo_APRENDE_26963572/ent_10",
+   "t": 603,
+   "ids_en_casilla": [
+    "blowgun",
+    "darts"
+   ],
+   "n": [
+    1,
+    8
+   ],
+   "cogido": "blowgun",
+   "posicion_en_lista": "primera",
+   "indice": 0,
+   "kind": "ikRanged",
+   "mas_unidades": false,
+   "cabe_apilado": false,
+   "otras_cabian": []
+  },
+  {
+   "vida": "P76_humo_APRENDE_26963572/ent_11",
+   "t": 1104,
+   "ids_en_casilla": [
+    "bow",
+    "arrows"
+   ],
+   "n": [
+    1,
+    12
+   ],
+   "cogido": "bow",
+   "posicion_en_lista": "primera",
+   "indice": 0,
+   "kind": "ikRanged",
+   "mas_unidades": false,
+   "cabe_apilado": false,
+   "otras_cabian": []
+  },
+  {
+   "vida": "P76_humo_APRENDE_27068301/ent_10",
+   "t": 9249,
+   "ids_en_casilla": [
+    "bow",
+    "arrows"
+   ],
+   "n": [
+    1,
+    12
+   ],
+   "cogido": "bow",
+   "posicion_en_lista": "primera",
+   "indice": 0,
+   "kind": "ikRanged",
+   "mas_unidades": false,
+   "cabe_apilado": false,
+   "otras_cabian": []
+  },
+  {
+   "vida": "P76_humo_APRENDE_27068301/ent_11",
+   "t": 10845,
+   "ids_en_casilla": [
+    "sword",
+    "net"
+   ],
+   "n": [
+    1,
+    1
+   ],
+   "cogido": "sword",
+   "posicion_en_lista": "primera",
+   "indice": 0,
+   "kind": "ikMelee",
+   "mas_unidades": true,
+   "cabe_apilado": false,
+   "otras_cabian": []
+  }
+ ],
+ "segunda_medida": {
+  "pickup_sin_ganancia_con_otra_que_cabia": 0,
+  "ejemplos": [],
+  "drops_en_casilla_con_varios": 6,
+  "posicion_de_lo_soltado": {
+   "ultima": 6
+  },
+  "ejemplos_drop": [
+   {
+    "vida": "P611_t1_A4_20365645/ent_10",
+    "t": 8203,
+    "soltado": "first_aid",
+    "lista_despues": [
+     "knives",
+     "knives",
+     "first_aid"
+    ],
+    "posicion": "ultima"
+   },
+   {
+    "vida": "P611_t2_A4_21517664/ent_11",
+    "t": 14627,
+    "soltado": "first_aid",
+    "lista_despues": [
+     "rations",
+     "first_aid"
+    ],
+    "posicion": "ultima"
+   },
+   {
+    "vida": "P611_t2_A4_21727122/ent_10",
+    "t": 12570,
+    "soltado": "rations",
+    "lista_despues": [
+     "spear",
+     "backpack",
+     "rations",
+     "first_aid",
+     "rations"
+    ],
+    "posicion": "ultima"
+   },
+   {
+    "vida": "P624_t1_A4_25183179/ent_11",
+    "t": 12446,
+    "soltado": "first_aid",
+    "lista_despues": [
+     "knives",
+     "first_aid"
+    ],
+    "posicion": "ultima"
+   },
+   {
+    "vida": "P624_t1_A4_25916282/ent_10",
+    "t": 10666,
+    "soltado": "rations",
+    "lista_despues": [
+     "backpack",
+     "rations"
+    ],
+    "posicion": "ultima"
+   },
+   {
+    "vida": "P75_humo_APRENDE_26754114/ent_10",
+    "t": 13636,
+    "soltado": "first_aid",
+    "lista_despues": [
+     "rations",
+     "first_aid"
+    ],
+    "posicion": "ultima"
+   }
+  ]
+ }
+}

@@ -1,0 +1,106 @@
+{
+ "valiente": {
+  "aceptaciones": 285,
+  "elegido ir_objeto": 283,
+  "con un botiquin a la vista": 201,
+  "sin ningun botiquin a la vista": 84,
+  "el paso la acerca a un botiquin que vio antes": 80,
+  "  ... que estaba a <= 4 casillas y ya no esta (recordado y desaparecido)": 78,
+  "el paso no la acerca a ninguno que viera": 2,
+  "no habia visto ningun botiquin ese dia": 2,
+  "elegido coger": 2
+ },
+ "prudente": {
+  "aceptaciones": 168,
+  "elegido ir_objeto": 168,
+  "con un botiquin a la vista": 126,
+  "sin ningun botiquin a la vista": 42,
+  "no habia visto ningun botiquin ese dia": 8,
+  "el paso la acerca a un botiquin que vio antes": 31,
+  "  ... que estaba a <= 4 casillas y ya no esta (recordado y desaparecido)": 28,
+  "el paso no la acerca a ninguno que viera": 3
+ },
+ "ejemplos": [
+  {
+   "vida": "s1 d8 MIENTE_UNA valiente",
+   "tic_decision": 1021,
+   "pos": [
+    26,
+    25
+   ],
+   "elegido": "ir_objeto",
+   "paso": "S",
+   "botiquin_recordado": [
+    26,
+    26
+   ],
+   "visto_por_ultima_vez": 724,
+   "distancia": 1
+  },
+  {
+   "vida": "s1 d8 MIENTE_UNA valiente",
+   "tic_decision": 1824,
+   "pos": [
+    27,
+    25
+   ],
+   "elegido": "ir_objeto",
+   "paso": "SW",
+   "botiquin_recordado": [
+    26,
+    26
+   ],
+   "visto_por_ultima_vez": 724,
+   "distancia": 1
+  },
+  {
+   "vida": "s1 d8 MIENTE_UNA valiente",
+   "tic_decision": 2682,
+   "pos": [
+    21,
+    25
+   ],
+   "elegido": "ir_objeto",
+   "paso": "N",
+   "botiquin_recordado": [
+    21,
+    24
+   ],
+   "visto_por_ultima_vez": 647,
+   "distancia": 1
+  },
+  {
+   "vida": "s1 d8 MIENTE_UNA valiente",
+   "tic_decision": 3176,
+   "pos": [
+    21,
+    25
+   ],
+   "elegido": "ir_objeto",
+   "paso": "N",
+   "botiquin_recordado": [
+    21,
+    24
+   ],
+   "visto_por_ultima_vez": 647,
+   "distancia": 1
+  },
+  {
+   "vida": "s1 d8 MIENTE_UNA valiente",
+   "tic_decision": 3680,
+   "pos": [
+    21,
+    25
+   ],
+   "elegido": "ir_objeto",
+   "paso": "N",
+   "botiquin_recordado": [
+    21,
+    24
+   ],
+   "visto_por_ultima_vez": 647,
+   "distancia": 1
+  }
+ ],
+ "evaluaciones": 453
+}
