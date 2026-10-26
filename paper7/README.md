@@ -2,7 +2,7 @@
 
 Fourth part of the series on emotion and reason in an agent. The first part ([`../paper4`](../paper4)) placed a head that talks beside a body that feels; the second ([`../paper5`](../paper5)) gave the world time and built a wide door, trust and curiosity; the third ([`../paper6`](../paper6)) asked whether reason can help a pair of creatures without commanding them. This one asks whether a creature that is born without knowing what the things of its world do can find out by living, guided by what it feels, with a sister that tells it what she has lived and a reason that can lie. Before that series there was a trilogy: the engine, the hive, the pack.
 
-**Status:** preprint, version 1, 2026. DOI pending.
+**Status:** preprint, version 1, 2026. DOI [10.5281/zenodo.23674082](https://doi.org/10.5281/zenodo.23674082).
 
 ## Authors
 
@@ -27,6 +27,8 @@ Fourth part of the series on emotion and reason in an agent. The first part ([`.
 The diaries themselves, the recorded games (30702 files in the manifest, 96.98 GiB: 2590 diaries, one `.art.log` per creature per game, 5649 artifacts the platform returned, 5603 notebooks, one per creature per day, which carry its memory from one day to the next, 2732 answers of the platform to the game requests, and 14128 other files), are not in the repository because of their size. Their md5, one by one, is in `diaries/`, so anyone who holds them can verify they are the same. **They are available from the authors on request.**
 
 4 JSON files that the reports name are over 10 MiB and are not included: `P7_18_escenas.json` (18.1 MiB), `P7_37_momentos.json` (28.4 MiB), `P7_40_cadena.json` (30.9 MiB), `P7_40_momentos.json` (14.2 MiB); their md5 is in the manifest.
+
+The internal reports may cite working files that are not published (for example `informe_P7_filas_sociales.md`, which is work for paper eight).
 
 `code/` holds the frozen code and the measurement code, and not everything the reports name. Left out, and why:
 
@@ -57,7 +59,7 @@ Everything was measured in a single game world, with the predictions written dow
 
 ## How to cite
 
-Enrico, M., and Sklar, A. (2026). G-EMV: Emotion and Reason in an Agent. Learning by Living: A Creature, Its Sister and a Reason That Lies. Preprint, version 1. DOI pending.
+Enrico, M., and Sklar, A. (2026). G-EMV: Emotion and Reason in an Agent. Learning by Living: A Creature, Its Sister and a Reason That Lies. Zenodo. https://doi.org/10.5281/zenodo.23674082
 
 ## The series
 
