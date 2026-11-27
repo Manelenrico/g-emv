@@ -32,6 +32,7 @@ The engine, the hive, the pack.
 5. **G-EMV: Emotion and Reason in an Agent. Curiosity, Trust and Commitment.** Manel Enrico, 2026. DOI [10.5281/zenodo.23035785](https://doi.org/10.5281/zenodo.23035785). Folder: [`paper5`](paper5).
 6. **G-EMV: Emotion and Reason in an Agent. Helping Without Commanding.** Manel Enrico and Ari Sklar, 2026. DOI [10.5281/zenodo.23168539](https://doi.org/10.5281/zenodo.23168539). Folder: [`paper6`](paper6).
 7. **G-EMV: Emotion and Reason in an Agent. Learning by Living: A Creature, Its Sister and a Reason That Lies.** Manel Enrico and Ari Sklar, 2026. DOI [10.5281/zenodo.23674082](https://doi.org/10.5281/zenodo.23674082). Folder: [`paper7`](paper7).
+8. **G-EMV: Emotion and Reason in an Agent. A Body That Lives in the Present: A Creature, Its Sister and a Valley.** Manel Enrico, 2026. DOI [10.5281/zenodo.24579960](https://doi.org/10.5281/zenodo.24579960). Folder: [`paper8`](paper8).
 
 ---
 

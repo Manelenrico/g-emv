@@ -1,0 +1,119 @@
+{
+ "predicciones": {
+  "P1": true,
+  "P2": true,
+  "P3": true,
+  "P4": true,
+  "P5": true,
+  "P6": true,
+  "P7": true,
+  "P8": true,
+  "P9": true,
+  "P10": true,
+  "P11": true,
+  "P12": true,
+  "P13": true,
+  "P16": true,
+  "P17": false
+ },
+ "P11": {
+  "media": 0.14314570858283426,
+  "lo": 0.11644666107847779,
+  "hi": 0.16981464285283576,
+  "n_partidas": 200,
+  "n_decisiones": 10000,
+  "coinc_Q4": 0.716,
+  "coinc_Q1": 0.5728542914171657
+ },
+ "P11_sin_ir": {
+  "media": 0.16072495009980037,
+  "lo": 0.13074307995858292,
+  "hi": 0.18965332822914793,
+  "n_partidas": 200,
+  "n_decisiones": 10000,
+  "coinc_Q4": 0.7232,
+  "coinc_Q1": 0.5624750499001996
+ },
+ "P11_sin_dar": {
+  "media": -0.11459083255416114,
+  "lo": -0.1389039706210563,
+  "hi": -0.08945027152792873,
+  "n_partidas": 200,
+  "n_decisiones": 8335,
+  "coinc_Q4": 0.7441763727121464,
+  "coinc_Q1": 0.8587672052663076
+ },
+ "P9": {
+  "dentro": {
+   "abundancia": 0.7713181352054903,
+   "normal": 0.741269215608987,
+   "sequia": 0.7356312360847695,
+   "sequia_dura": 0.6857447564877355,
+   "bestias_crian": 0.7233644859813084
+  },
+  "puertas": {
+   "puerta": 141,
+   "puerta_agotada": 141,
+   "puerta_sin_agotar": 0
+  }
+ },
+ "P16": {
+  "RG61r|abundancia": 247.875,
+  "RG61r|normal": 277.825,
+  "RG61r|sequia": 240.325,
+  "RG61r|sequia_dura": 135.05,
+  "RG61r|bestias_crian": 249.975,
+  "RG061r|abundancia": 71.85,
+  "RG061r|normal": 93.225,
+  "RG061r|sequia": 84.225,
+  "RG061r|sequia_dura": 47.75,
+  "RG061r|bestias_crian": 78.15
+ },
+ "M7": {
+  "tarde": 0.6387726638772664,
+  "n": 717
+ },
+ "M8": {
+  "abundancia": {
+   "robaron": 0.004026385602011572,
+   "nunca": 0.0014852413424353871,
+   "pares": [
+    1718,
+    202
+   ]
+  },
+  "normal": {
+   "robaron": 0.006351973418678743,
+   "nunca": 0.006933206434645863,
+   "pares": [
+    1801,
+    119
+   ]
+  },
+  "sequia": {
+   "robaron": 0.00679881566911824,
+   "nunca": 0.006683619620588941,
+   "pares": [
+    1693,
+    227
+   ]
+  },
+  "sequia_dura": {
+   "robaron": 0.012195959154414496,
+   "nunca": 0.010910913625494695,
+   "pares": [
+    1411,
+    509
+   ]
+  },
+  "bestias_crian": {
+   "robaron": 0.011163376100680855,
+   "nunca": 0.013334369707527485,
+   "pares": [
+    1758,
+    162
+   ]
+  }
+ },
+ "partidas": 1400
+}

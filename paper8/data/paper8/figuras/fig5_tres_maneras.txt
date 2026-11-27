@@ -1,0 +1,55 @@
+# Figura 5, las tres maneras de decidir
+
+Programa: figura5_tres_maneras_170.py. Datos: 600 partidas selladas, 40 por mundo y manera (semillas 30161-30200, 40 días): decide con el motor = la criatura completa (valle_experimento_v6); decide sumando y decide con la posición = sus gemelas de la escalera (valle_escalera_v6).
+
+## empujones al día, días 1 a 10 (media [intervalo del 95 %])
+
+| mundo | decide con el motor | decide sumando | decide con la posición |
+|---|---|---|---|
+| abundancia | 2,6 [2,3, 2,9] | 6,5 [5,4, 7,6] | 4,3 [3,8, 4,8] |
+| normal | 3,6 [3,2, 4,0] | 6,5 [5,6, 7,4] | 5,3 [4,8, 5,8] |
+| sequía | 2,8 [2,5, 3,2] | 6,6 [5,6, 7,7] | 4,7 [4,2, 5,2] |
+| sequía dura | 3,7 [3,4, 3,9] | 6,4 [5,6, 7,1] | 5,2 [4,8, 5,7] |
+| bestias que crían | 4,1 [3,8, 4,4] | 6,5 [5,7, 7,5] | 5,9 [5,5, 6,4] |
+
+## felicidad de la aldea (0 a 100) (media [intervalo del 95 %])
+
+| mundo | decide con el motor | decide sumando | decide con la posición |
+|---|---|---|---|
+| abundancia | 92,1 [91,3, 92,7] | 89,5 [88,7, 90,3] | 88,5 [87,5, 89,4] |
+| normal | 79,3 [78,2, 80,4] | 78,6 [77,4, 79,8] | 76,6 [75,3, 77,8] |
+| sequía | 71,7 [70,3, 73,1] | 67,9 [66,4, 69,3] | 67,5 [66,2, 68,7] |
+| sequía dura | 45,1 [43,2, 47,0] | 41,2 [39,6, 42,9] | 41,3 [39,3, 43,4] |
+| bestias que crían | 53,3 [51,2, 55,4] | 49,1 [46,9, 51,2] | 48,1 [45,9, 50,3] |
+
+## total de los tres balances (media [intervalo del 95 %])
+
+| mundo | decide con el motor | decide sumando | decide con la posición |
+|---|---|---|---|
+| abundancia | 2,222 [2,197, 2,247] | 2,305 [2,275, 2,334] | 2,122 [2,090, 2,151] |
+| normal | 1,724 [1,693, 1,756] | 1,817 [1,779, 1,856] | 1,644 [1,609, 1,679] |
+| sequía | 1,488 [1,437, 1,538] | 1,475 [1,420, 1,527] | 1,346 [1,299, 1,392] |
+| sequía dura | 0,311 [0,240, 0,380] | 0,234 [0,157, 0,312] | 0,125 [0,040, 0,209] |
+| bestias que crían | 0,812 [0,742, 0,880] | 0,738 [0,646, 0,828] | 0,633 [0,549, 0,718] |
+
+## balance más bajo de los tres (media [intervalo del 95 %])
+
+| mundo | decide con el motor | decide sumando | decide con la posición |
+|---|---|---|---|
+| abundancia | 0,436 [0,426, 0,445] | 0,442 [0,430, 0,453] | 0,396 [0,384, 0,407] |
+| normal | 0,264 [0,251, 0,277] | 0,265 [0,248, 0,281] | 0,226 [0,211, 0,240] |
+| sequía | 0,154 [0,133, 0,173] | 0,099 [0,075, 0,122] | 0,086 [0,066, 0,106] |
+| sequía dura | -0,333 [-0,363, -0,304] | -0,428 [-0,458, -0,398] | -0,430 [-0,464, -0,396] |
+| bestias que crían | -0,109 [-0,138, -0,081] | -0,195 [-0,235, -0,156] | -0,193 [-0,227, -0,157] |
+
+## De dónde sale
+
+- Empujones al día, días 1 a 10: la caché del prompt 156 (felicidad_dia_a_dia/partidas.json; los empujones como cierre_v46), la cuenta de la tabla «1-10» de informe_prompt_157.md («empujones por día», una tabla por mundo) e informe_prompt_156.md. Es la cifra del texto, sección 6: «unos seis empujones y medio al día» la que suma, «entre dos y medio y cuatro» la del motor.
+- Felicidad de la aldea: la de siempre (evalua_experimento_v5.v5; la parte de los turnos despierta con los tres balances > 0), la de la figura escalera_C_felicidad (informe_prompt_154.md); comprobada igual.
+- Total de los tres balances y balance más bajo: salida/vara_sumas_167.json, «todas las criaturas» (informe_prompt_167.md, tablas (1) y (3), líneas 94-149). Análisis hecho después, sin apuesta (las medidas se fijaron en el commit 1de22483 antes de correr).
+- Las barras dan la media de cada manera con su intervalo; las diferencias emparejadas por valle (las que usa el texto) están en informe_prompt_167.md y en los informes 156-157.
+- El intervalo: bootstrap de 10.000 remuestreos con semilla 8 sobre las 40 partidas (evalua_experimento_v6.boot).
+
+## Pie propuesto
+
+«Las tres maneras de decidir, en los cinco mundos: con el motor (la criatura completa), sumando y con la posición; las tres con el mismo cuerpo, la misma voz y los mismos valles. Arriba, los empujones al día en los diez primeros días y la felicidad de la aldea; abajo, el total de los tres balances, que es la vara de la que suma, y el balance más bajo de los tres. La del motor se empuja menos al llegar y es más feliz; en el total no saca ventaja a la que suma, y donde la comida escasea o las bestias crían su balance más bajo es más alto. Cada barra es la media de 40 partidas, con su intervalo del 95 %.»

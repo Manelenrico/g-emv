@@ -1,0 +1,49 @@
+{
+ "_que_es": "hechos del mundo que protegen a la que está acompañada (prompt 85, pieza F), de cultura_hechos_v40.py; hoy se apuntan en el cuaderno y no los lee nada",
+ "entradas": [
+  {
+   "dice": "la bestia, con varias pegadas a ella fuera de casa, ataca a una sola a suertes: con otra al lado, a cada una le toca la mitad de las veces",
+   "objeto": "hecho:bestia_ataca_a_una",
+   "situaciones": [
+    "acompanada"
+   ],
+   "efecto": {
+    "cuerpo": 0.5
+   },
+   "numeros": {
+    "con_n_pegadas_le_toca": "1/n"
+   },
+   "de": "mundo.py _encuentros"
+  },
+  {
+   "dice": "un empujón entre criaturas lo gana el bando mayor (ella y las de su casa pegadas a la escena); si empatan, la menos cansada; la que pierde suelta lo que lleva",
+   "objeto": "hecho:empujon_bando",
+   "situaciones": [
+    "acompanada"
+   ],
+   "efecto": {
+    "recursos": 1.0
+   },
+   "numeros": {
+    "bando": "1 + las de su casa pegadas a la escena"
+   },
+   "de": "mundo.py _empuja"
+  },
+  {
+   "dice": "empujar a la bestia sale bien con al menos 2 criaturas pegadas a ella: suelta lo que robó; si no, le pega (40 de vida)",
+   "objeto": "hecho:empujar_bestia",
+   "situaciones": [
+    "acompanada"
+   ],
+   "efecto": {
+    "recursos": 1.0,
+    "cuerpo": -40.0
+   },
+   "numeros": {
+    "peso_empuje": 2,
+    "golpe_dano": 40
+   },
+   "de": "mundo.py _empuja (bestia)"
+  }
+ ]
+}

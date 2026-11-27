@@ -1,0 +1,37 @@
+{
+ "_que_es": "hechos del árbol de fruta dulce (prompt 96), de cultura_hechos_v50.py; verdad solo con arbol_dulce encendido; RG50r los carga",
+ "entradas": [
+  {
+   "rueda": "arbol_dulce",
+   "dice": "a veces aparece un árbol de fruta dulce lejos",
+   "objeto": "hecho:arbol_dulce",
+   "situaciones": [
+    "valle"
+   ],
+   "efecto": {},
+   "numeros": {
+    "frutos": 20,
+    "dura_dias": [
+     3,
+     4
+    ]
+   },
+   "de": "mundo.py _arboles_inicia, _arboles_avanza"
+  },
+  {
+   "rueda": "arbol_dulce",
+   "dice": "al atardecer la bestia pasa por los árboles dulces; de noche va a la aldea como siempre",
+   "objeto": "hecho:bestia_arbol",
+   "situaciones": [
+    "noche"
+   ],
+   "efecto": {},
+   "numeros": {
+    "fases": [
+     "anochecer"
+    ]
+   },
+   "de": "mundo.py _arbol_de_bestia (prompt 97: solo al atardecer)"
+  }
+ ]
+}

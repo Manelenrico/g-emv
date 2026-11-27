@@ -1,0 +1,145 @@
+{
+ "_mundo": "matorrales",
+ "_que_es": "cultura del valle (verdad del mundo), mando medio; generada por cultura_valle.py desde valle/config_valle.json",
+ "entradas": [
+  {
+   "dice": "una comida quita hambre",
+   "objeto": "comida",
+   "situaciones": [
+    "valle"
+   ],
+   "efecto": {
+    "cuerpo": 35
+   }
+  },
+  {
+   "dice": "la medicina cura",
+   "objeto": "medicina",
+   "situaciones": [
+    "valle"
+   ],
+   "efecto": {
+    "cuerpo": 40
+   }
+  },
+  {
+   "dice": "la zona salvaje hiere, pero allí está la medicina",
+   "objeto": "sitio:salvaje",
+   "situaciones": [
+    "dia",
+    "noche"
+   ],
+   "efecto": {
+    "cuerpo": -0.05,
+    "recursos": 0.5
+   },
+   "da": {
+    "comida": 0.0,
+    "medicina": 0.5
+   }
+  },
+  {
+   "dice": "en el bosque aparece comida",
+   "objeto": "sitio:bosque",
+   "situaciones": [
+    "dia",
+    "noche"
+   ],
+   "efecto": {
+    "cuerpo": 0.0,
+    "recursos": 0.0
+   },
+   "da": {
+    "comida": 0.0
+   }
+  },
+  {
+   "dice": "el huerto trabajado da fruto en unos dos días",
+   "objeto": "trabajar",
+   "situaciones": [
+    "huerto"
+   ],
+   "efecto": {
+    "recursos": 0.15
+   },
+   "por_turnos": 20,
+   "retraso": 800,
+   "retraso_dias": 2.0
+  },
+  {
+   "dice": "el almacén conserva la comida (fuera de esta vuelta: se apunta, no se lee)",
+   "objeto": "guardar:comida",
+   "situaciones": [
+    "almacen",
+    "despensa",
+    "bolsa",
+    "suelo"
+   ],
+   "efecto": {
+    "recursos": 0.0
+   },
+   "dura": {
+    "almacen": null,
+    "despensa": 1600,
+    "bolsa": 800,
+    "suelo": 150
+   }
+  },
+  {
+   "dice": "de noche viene la bestia",
+   "objeto": "bestia",
+   "situaciones": [
+    "noche"
+   ],
+   "efecto": {
+    "cuerpo": -1.5
+   },
+   "empieza": 280
+  },
+  {
+   "dice": "la casa es segura de noche",
+   "objeto": "sitio:casa",
+   "situaciones": [
+    "noche"
+   ],
+   "efecto": {
+    "cuerpo": 0.0
+   }
+  },
+  {
+   "dice": "dormida fuera, la bestia te pega",
+   "objeto": "dormir",
+   "situaciones": [
+    "fuera"
+   ],
+   "efecto": {
+    "cuerpo": -1.5
+   }
+  },
+  {
+   "dice": "los matorrales del bosque dan fruto (no dónde está cada uno)",
+   "objeto": "matorral",
+   "situaciones": [
+    "bosque"
+   ],
+   "efecto": {
+    "recursos": 0.5
+   },
+   "por_100_casillas": 2.019230769230769
+  },
+  {
+   "dice": "si llamas, la mitad de las veces viene alguien",
+   "objeto": "llamar",
+   "situaciones": [
+    "valle"
+   ],
+   "efecto": {
+    "vinculo": 0.0
+   },
+   "viene": 0.5
+  }
+ ],
+ "_nota_v52": "prompt 52 (Manel): se quita «para dormir, a casa: allí estás segura», una orden disfrazada. Se queda el hecho «dormida fuera, la bestia te pega».",
+ "_nota_v53": "prompt 53 (Manel): lo que quita la bestia, por lo que quita de verdad una noche fuera según el peligro (medido en el v14): bajo 0,15, medio 1,5, alto 2,6.",
+ "_nota_v57": "prompt 57 (Manel): lo que dice la cultura de llamar: la mitad de las veces viene alguien. Cada criatura lo aprende después por cada llamada."
+}

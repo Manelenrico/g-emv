@@ -1,0 +1,284 @@
+{
+  "imaginar_v45": {"pasos_inercia": 3, "confianza": 0.5, "a_casa_de_noche": 0.5, "_nota": "prompt 90 (Manel: pieza I, la hermana sola; los números los propongo yo): (a) sin una costumbre clara, la imagina siguiendo su último paso 3 pasos; (b) sus costumbres, aprendidas mirando como los matorrales (frecuencias con el peso neutro del cuaderno); de partida, la cultura dice solo que al anochecer y de noche se va a casa (la mitad), y lo demás por igual; (c) con la costumbre más probable de su situación por encima de 0,5, la imagina andando hacia allí lo que le da tiempo en la mirada."},
+  "arbol_v50": {"dulce_veces_huerto": 2, "_nota": "prompt 96 (Manel): la fruta del árbol dulce alimenta igual que las demás comidas; solo cambia el gusto: el doble que la del huerto, y según el hambre como los demás gustos."},
+  "gusto_v49": {"lleno": 0.25, "no_flaca_hambre_estimada": 30, "_nota": "prompt 95 (Manel): el placer del gusto depende del hambre de quien come: entero con mucha hambre (el hambre de flaca, sabores_v40.hambre_ref[0]), un cuarto con la tripa llena (hambre 0 o menos), en proporción en medio. Al imaginar el gusto de otra, su hambre: flaca, la de banda_de_la_hermana.flaca_hambre_estimada; si no, 30 (propuesto por mí: la mitad de la banda de no flaca, de 0 a 60). Lo aprendido del gusto de la comida no baja por estar llena."},
+  "sabores_v40": {"parte": 0.5, "hambre_ref": [60, 25], "_nota": "prompt 85 (Manel: pieza E, el número lo propongo yo): la comida del huerto da al comerla, de más, la mitad de lo que vale comer a media hambre (lo que baja el dolor del hambre de 60, el umbral de flaca, a 25, lo que deja una comida). Así se nota (es medio plato) pero no gana al hambre: con hambre alta lo que alimenta sigue mandando; y se siente también sin hambre (el gusto de algo bueno). La del bosque, nada de más."},
+  "dar_v57": {"devolver_turnos": 40, "_nota": "prompt 109 (Manel): devolver a otra lo que ella misma me dio hace menos de 40 turnos (la medida de las rachas del informe_congelado_v3) no lleva ni gesto, ni alivio, ni gusto."},
+  "dar_v53": {"gesto_parte": 0.5, "_nota": "prompt 105 (Manel): el gesto vale lo que vale para la otra media comida sencilla del bosque (la mitad de lo que baja el dolor del hambre de sabores_v40.hambre_ref)."},
+  "radar_v39": {"hermana": 0.9864, "vecina": 0.3675, "_nota": "prompt 84 (Manel): el valor de las otras por ser hermana o vecina (lo que no se aprende) son los pesos de vínculo que tenía RG32r: la media de su vínculo con la hermana (B) y con las vecinas que conoce, medida al empezar cada día en 4 partidas de 40 días (sequía y normal, semillas 1001 y 1002; pesos_rg32r.py). En RG32r B estaba casi siempre en 1 (sus cuartiles: 1, 1, 1) y el de las vecinas entre 0,31 y 0,43."},
+  "radar_v34": {"hermana": 0.5, "hermana_vinculo": 0.5, "vecina": 0.25, "base_turnos": 400, "min_turnos": 4, "_nota": "prompt 79 (Manel, piezas B y C, provisional hasta que Manel lo cambie): la vida de la hermana vale la mitad de la propia (Hamilton; la propia vida, la cuesta entera de F-DANO, la de morir) y su vínculo nace en la mitad; una vecina, una cuarta parte de lo que vale la hermana. La base (sin ninguna de las suyas al lado) es una media que se mueve con un peso de 1/400 por turno (un día); para apuntar lo de con una, al menos 4 turnos a su lado en la mirada. Los tres últimos números los propongo yo."},
+ "_que_es": "Lo que el cuerpo del siete necesita para vivir en el valle y no viene del siete: tiempos en turnos (constantes_tiempo.md, decisiones de Manel del prompt 8), las filas nuevas (hambre y cansancio), los umbrales de las llamadas y las traducciones de la percepción. Los números del siete se importan de sus archivos, no se copian aquí.",
+ "tiempos_turnos": {
+  "duelo_semivida": 600,
+  "soledad_rampa": 200,
+  "roce_vista": 65,
+  "voz_ventana": 7,
+  "agresor_ventana": 11,
+  "alcance_horizonte": 44,
+  "_fuente": "cantera/paper8/constantes_tiempo.md (sección 3 y decisiones del prompt 8)",
+  "mirada": 44,
+  "mirada_suelo": 4,
+  "anticipacion_horizonte": 44,
+  "_anticipacion": "ANT_HORIZONTE_S (20 s = 480 tics) por paso: 44 turnos (constantes_tiempo.md, tabla 3)"
+ },
+ "filas_nuevas": {
+  "F-HAMBRE": [
+   0.8,
+   0.1,
+   0.1
+  ],
+  "F-CANSANCIO": [
+   0.8,
+   0.1,
+   0.1
+  ],
+  "_forma": "la de F-DANO: u = valor / 100 con la cuesta del siete (CUESTA_UMBRAL_U, CUESTA_GANANCIA, importadas); el reparto de F-DANO (decisión de Manel, prompt 9)",
+  "R-ENFADO": [
+   0.1,
+   0.8,
+   0.1
+  ],
+  "_enfado_nota": "prompt 27 (Manel): R-ENFADO, lo robado tira de ella mientras la bestia lo lleva: M = peso × min(1, comidas robadas / objetivo de riqueza). Peso 1 si le robaron a ella; B (el vínculo) si es de la hermana. Reparto de las filas de recursos (como R-CARENCIA). Se alivia al empujar y ganar; se apaga si la bestia ya no lleva nada o si no la ve en voz_ventana turnos.",
+  "F-FRIO": [
+   0.8,
+   0.1,
+   0.1
+  ],
+  "P-CALOR": [
+   0.8,
+   0.1,
+   0.1
+  ],
+  "P-COMER": [
+   0.8,
+   0.1,
+   0.1
+  ],
+  "R-CONSEGUIR": [
+   0.1,
+   0.8,
+   0.1
+  ],
+  "S-JUNTAS": [
+   0.1,
+   0.1,
+   0.8
+  ],
+  "S-DAR": [
+   0.1,
+   0.1,
+   0.8
+  ],
+  "_dos_platos_nota": "prompt 34 (Manel): «dos platos». F-FRIO (pérdida) y P-CALOR, P-COMER (ganancia) con el reparto de las filas del cuerpo (F-HAMBRE); R-CONSEGUIR con el de las de recursos; S-JUNTAS y S-DAR con el de S-SOLEDAD.",
+  "S-DANAR": [
+   0.1,
+   0.1,
+   0.8
+  ]
+ },
+ "escala_cuerpo": {
+  "vida": 100,
+  "hambre": 100,
+  "cansancio": 100,
+  "_nota": "la escala de la observación (0 a 100)"
+ },
+ "miedo": {
+  "valiente": 0.5,
+  "prudente": 1.5,
+  "_fuente": "cantera/paper7/lanza_P7_50.py:40 (MIEDO_V, MIEDO_P); hermana 1 valiente, hermana 2 prudente (decisión de Manel, prompt 6)"
+ },
+ "banda_de_la_hermana": {
+  "herida": "hurt",
+  "sana": "healthy",
+  "_nota": "el valle solo deja ver «herida» (vida < 70); se lee como las bandas del siete (BANDA_EST)",
+  "flaca_hambre_estimada": 80,
+  "niveles_v31": {"sana": 85.0, "herida": 55.0, "muy_herida": 27.5, "moribunda": 7.5},
+  "_niveles_v31_nota": "prompt 76 (Manel: la gravedad, con el interruptor gravedad_v31): la vida que supone a una de las suyas por el nivel que ve de ella, el punto medio de cada banda del valle (sana 70-100, herida 40-70, muy herida 15-40, moribunda 0-15: las de vida_niveles). Los números los propongo yo.",
+  "_flaca_nota": "prompt 23: el valle deja ver «flaca» (hambre por encima de 60); la criatura no ve el número. Para valorar darle comida usa 80, la mitad de la banda flaca (60-100). Número propuesto por mí."
+ },
+ "almacen": {
+  "comidas_por_nivel": {
+   "lleno": 36,
+   "a_medias": 16,
+   "poco": 1,
+   "vacio": 0
+  },
+  "entre": 8,
+  "_nota": "decisión de Manel (prompt 9): del almacén, lo que vio la última vez dividido entre ocho; el nivel visto se lee por el umbral de abajo de cada nivel"
+ },
+ "fuentes_de_botin": {
+  "almacen": "camara",
+  "comida_vista": "cajones",
+  "fruto_en_planta": "bayas",
+  "_nota": "R-LLAMADA del siete: el valor de cada fuente sale de VALOR_NIVEL (importado); el almacén hace de la cámara, la comida en el suelo de los cajones y la planta con fruto de las bayas"
+ },
+ "comida_nace_sabiendo": {
+  "_nota": "decisión de Manel (prompt 11, opción a): al nacer imagina que la comida le quita TODO el hambre que tiene en ese momento, hasta que lo vivido le enseñe cuánto (mientras no tenga ningún recuerdo firme de comer). Un bocado que deja el hambre en 0 se apunta «al menos» (regla P7-7 del cuaderno, aplicada al hambre)."
+ },
+ "objeto_del_botiquin": "medicina",
+ "llamadas": {
+  "herida_vida_menor_que": 50,
+  "hambre_mayor_que": 60,
+  "orden": [
+   "peligro",
+   "estoy_herida",
+   "no_tengo_energia",
+   "necesito_ayuda",
+   "aqui_hay_comida"
+  ],
+  "_nota": "prompt 8, punto 10: expresión, no decisión; una vez al cruzar el umbral y no otra vez por lo mismo hasta que baje y vuelva a subir; cada llamada gasta su turno",
+  "alcance_oido": 10,
+  "_alcance_nota": "prompt 24: hasta dónde se oye una llamada (el mundo: llamada_alcance 10); «aquí hay comida» es más fiable cuanto más cerca: 1 − distancia / 10."
+ },
+ "propiocepcion": {
+  "alfa": 0.2,
+  "_nota": "lo que cada clase de acción le hace a su propio cuerpo (cansancio, hambre, vida) lo aprende de lo que siente turno a turno (media móvil); nace sin saberlo"
+ },
+ "acciones_que_no_hace": [
+  "empujar",
+  "golpear",
+  "hablar",
+  "llamar"
+ ],
+ "_acciones_nota": "empujar y golpear: el cuerpo del siete solo ataca con un arma en la mano y en el valle no hay armas; llamar es expresión (arriba); hablar no se usa en esta fase",
+ "promesa_comida": {
+  "_nota": "prompt 10: la promesa del siete (decisor_zs._promesa, PROMPT_18) se extiende a la comida: cogerla promete el alivio de F-HAMBRE que dice su creencia; si ya lleva comida, la promesa calla (servida)"
+ },
+ "curiosidad_frontera": {
+  "k": 0.2,
+  "ventana_dano_turnos": 9,
+  "_fuente": "prompt 12 (Manel): R-CURIOSIDAD-FRONTERA del cinco tal como está publicada (cantera/paper5/curiosidad.py; interruptor del campo P5-7C: GEMV_CURIOSIDAD=frontera, _K=0.2, _BALANZA=1, ACTA:2269). El reparto, la caída g (BOTIN_DIST_REF, BOTIN_EXP) y DANO_REF se importan.",
+  "_traduccion": "VENTANA_DANO = 100 tics → 9 turnos (por paso, 11 tics: «golpe reciente», constantes_tiempo.md §2). El armado es la bestia (alcance 1, cae a 0 en la vista de 5); no hay anillo. El viaje: candidato ir_frontera a la casilla no vista más cercana, juzgado entero como los otros ir (sin el compromiso de P5-8)."
+ },
+ "curiosidad_cuanto": {
+  "_fuente": "prompt 12 (Manel): nace_P7_29.cuanto_M para la comida y la medicina; lo que le falta: el hambre (comida) y vida_max − vida (medicina)"
+ },
+ "casa": {
+  "_nota": "prompt 12 (confirmada por Manel, prompt 15): regla pública «bestia_no_entra_en_casas». En una casa (la suya o otra) la bestia no la alcanza: F-4-ALCANCE, S-7-AGRESOR, F-REENCUENTRO y la amenaza de la balanza no cuentan la bestia; F-HERMANO-AMENAZA tampoco si la hermana está en una casa."
+ },
+ "cultura": {
+  "n_recuerdos": 4,
+  "w_h": 0.5,
+  "_fuente": "prompt 14 (Manel): cuatro recuerdos heredados de 0,5 por cosa (plan_cultura_v1.md, opción A); se olvidan como los vividos (OLVIDO del siete). La cultura sustituye la regla del prompt 11 para la comida (decisión de Manel, prompt 14). Archivo: cultura_valle.json (verdad) o cultura_torcida.json, de cultura_valle.py."
+ },
+ "riqueza_objetivo": {
+  "valor": 5.7143,
+  "comidas_al_dia": 2.8571,
+  "dias": 2.0,
+  "_fuente": "prompt 16 (Manel): lo que se come en lo que tarda el fruto, calculado de valle/config_valle.json por objetivo_riqueza.py (hambre_por_turno × turnos del día / nutricion × ciclo del huerto / turnos del día). Sustituye a W_TARGET = 3 del siete en R-CARENCIA cuando `riqueza_valle` está encendida.",
+  "usar": false,
+  "_por_que_no": "prompt 20 (Manel): el objetivo de riqueza vuelve al 3 del siete (W_TARGET). Con 5,71 la criatura come sin hambre: en el valle de los matorrales, v7 + 5,71 vive 9 de 80 con peligro medio y come sin hambre 310 de 346 veces (banco_v7_piezas.json, diag_cuerpo_valle_v7.json). El valor se deja apuntado por si se vuelve a mirar."
+ },
+ "base_v7": {
+  "cultura": "cultura_matorrales_<nivel>.json",
+  "anticipa": true,
+  "matorrales": true,
+  "robo_noche": true,
+  "riqueza_valle": false,
+  "_nota": "prompt 20 (Manel): la criatura de base es la v7 con el robo apuntado como pérdida de la noche (banco_v7.py, variante V7N). (prompt 21) + las plantas del huerto se recuerdan como matorrales (solo dónde hay fruto) + lo visto vacío hace poco no promete: la probabilidad sube con el tiempo desde que lo vio vacío, al ritmo de lo que tarda en volver a tener fruto según su propio recuerdo, con un día como recuerdo de partida (el día lo dice la cultura). banco_v7.py, variante V9. (prompt 22) + la histéresis de las llamadas + el compromiso con el destino + «para dormir, a casa» (variante V10). (prompt 23) + el cansancio por encima de 70 suelta siempre el compromiso + dar comida a la hermana flaca (variante V11). (prompt 24) + responder a las llamadas de la hermana, pesado por el vínculo (variante V12). (prompt 25) + «aquí hay comida» cuando ve comida y no tiene hambre (variante V13). (prompt 26) + «aquí hay comida» solo con comida de sobra, una vez por sitio + lee las reglas públicas del trabajo (variante V14b). (prompt 27) + el enfado (R-ENFADO, empujar a la bestia, a la hermana le llega) + «aquí hay comida» una vez por sitio y por día (variante V15). (prompt 28) + las vecinas (jerarquía del vínculo por escalones) + «aquí hay comida» solo sin la hermana a la vista (variante V16). (prompt 30) + las distancias unificadas: tablero para «pegada» y «a la vista», pasos de verdad por el mapa para «cuánto me cuesta llegar», también en el miedo a la bestia (variante V18). (prompt 31) + con la hermana muerta sigue oyendo a las vecinas + la tristeza (duelo también por una vecina, la compañía lo alivia, «estoy de duelo», quien lo oye siente su dolor y va hacia ella) (variante V19). (prompt 32) + primero pararse: con el duelo reciente pesa menos ir a por cosas (variante V20). (prompt 33) + la atención vuelve entera si ve la bestia u oye «peligro» (variante V21).",
+  "plantas": true,
+  "recuerdo_vacio": true,
+  "histeresis_llamadas": true,
+  "compromiso": true,
+  "dormir_en_casa": true,
+  "cansancio_suelta": true,
+  "dar_comida": true,
+  "responde_llamadas": true,
+  "comida_sin_hambre": true,
+  "comida_sobra": true,
+  "sabe_reglas_trabajo": true,
+  "enfado": true,
+  "comida_por_dia": true,
+  "vecinas": true,
+  "comida_sin_hermana": true,
+  "distancias": true,
+  "oye_sin_hermana": true,
+  "duelo_v19": true,
+  "duelo_para": true,
+  "atencion_huida": true
+ },
+ "compromiso": {
+  "hambre_mayor_que": 60,
+  "cansancio_mayor_que": 70,
+  "sin_avanzar_turnos": 3,
+  "_nota": "prompt 22 (Manel): mantiene el destino elegido hasta llegar; lo suelta si ve la bestia, si el hambre o el cansancio cruzan su umbral desde que se comprometió (o se agota), si ve comida más cerca que el destino, o si no avanza (3 turnos en la misma casilla). Umbral del hambre: el de la llamada «necesito ayuda» (60); el del cansancio (70) y los 3 turnos los propongo yo."
+ },
+ "limites_conocidos": {
+  "foto_de_comer": "(prompts 14-17) la foto de un candidato es una acción y lo que imagina después; elegir CUÁNDO comer dentro de la mirada no está en ninguna foto: «comer y después lo mejor» come siempre ya (v5), «X y después comer» aplaza siempre (v6). Se quedó la foto de comer de la v3. No se arregla ahora.",
+  "promesa_del_trabajo_frente_a_comer": "(prompts 14, 25, 26) la promesa del fruto del trabajo (R-CARENCIA, por OLVIDO^días) le gana a comer lo que lleva, incluso con el hambre al máximo: trabajan la planta con comida en la bolsa hasta morir. El mundo lo frena desde fuera (prompt 26: con el hambre al máximo o de noche no se puede trabajar), pero el cuerpo sigue valorándolo así. No se arregla ahora (decisión de Manel, prompt 26)."
+ },
+ "vinculo": {
+  "escalones": {
+   "hermana": [
+    0.5,
+    1.0
+   ],
+   "comunidad": [
+    0.1,
+    0.5
+   ],
+   "otros": [
+    0.0,
+    0.1
+   ]
+  },
+  "_nota": "prompt 28 (Manel): la jerarquía del vínculo, escalones fijos [suelo, techo] (los números los propongo yo): hermana 0,5-1; comunidad (las del valle) 0,1-0,5; otros (de fuera; hoy no hay) 0-0,1. El techo de la comunidad es el suelo de la hermana: una vecina cuidada se acerca, pero nunca pasa a la hermana. Dentro: sube al verla (1/roce_vista por turno) y al dar o recibir (un cuarto del escalón); sin eso baja hacia el suelo con la semivida del duelo. Empieza en el suelo."
+ },
+ "duelo": {
+  "semivida_vecina": 300,
+  "dura_hasta": 0.1,
+  "_nota": "prompt 31 (Manel, la tristeza del 24 de octubre, con piezas que ya hay): S-MUERTE-PAREJA del siete (de 1·B hacia el suelo DUELO_SUELO·B) también por una vecina, con su vínculo y una semivida más corta (300 turnos; la de la hermana es tiempos_turnos.duelo_semivida, 600). «Dura» hasta que lo que queda por encima del suelo baja de dura_hasta (0,1): semivida × log2(10) = unos 5 días por la hermana y 2,5 por una vecina; después queda el dolor latente (el suelo). La compañía alivia: pegada a una de las suyas, el duelo se multiplica por 1 − (1 − MEDICINA_ATEN) × su vínculo (la forma de la medicina junto a la hermana, importada). Se expresa con la llamada «estoy de duelo» (decisión de Manel); quien la oye siente su duelo como S-DANO-PAREJA (pesado por su vínculo, con la semivida de la hermana) y estar a su lado lo alivia igual. El vínculo crece como siempre, al verse (decisión de Manel: nada nuevo). Los números 300 y 0,1 los propongo yo.",
+  "ir_a_por_cosas": [
+   "ir_matorral",
+   "ir_bosque",
+   "ir_objeto",
+   "ir_llamada",
+   "ir_botin",
+   "ir_frontera",
+   "trabajar_planta"
+  ],
+  "_para_nota": "prompt 32 (Manel): primero pararse. Con el duelo reciente, lo que gana ir a por cosas (estos candidatos, más coger y trabajar) frente a quedarse se multiplica por la atención, 1 − vínculo × 0,5^(dt/semivida) del duelo más fuerte (la parte que se va pasando, con la semivida de su duelo); el compromiso con una de esas cosas se suelta al enterarse. No se tocan el miedo (pasos, ir a casa), comer, dormir ni ir hacia las suyas. Sin números nuevos."
+ },
+ "filas_de_ganancia": [
+  "P-CALOR",
+  "P-COMER",
+  "R-CONSEGUIR",
+  "S-JUNTAS",
+  "S-DAR"
+ ],
+ "platos": {
+  "conseguir_de": [
+   "matorral",
+   "planta",
+   "suelo"
+  ],
+  "frio_referencia_anchos": 2,
+  "_nota": "prompt 35 (Manel), con el interruptor platos_v23: «conseguir» es solo lo nuevo (coger de un matorral, una planta o el suelo —fruto, baya, medicina encontrada—, o recibir un regalo; no sacar de la bolsa, la despensa ni el almacén). El frío incómodo, no doloroso: lo que se sale de la zona de confort sobre DOS anchos de esa zona (20°), en la cuesta del hambre; la noche del valle (9° por debajo) pesa como un hambre de 45, moderada (antes, como uno de 90). Harta (regla pública del mundo), comer no da gusto. Con el interruptor sentir: al comer, conseguir algo nuevo, recibir o dar, la ganancia entra en el estado ese turno y se apaga a la mitad cada «mirada» (44 turnos, lo que la criatura imagina hacia delante); con lo que imagina se queda la mayor de las dos, no la suma. La referencia del frío (dos anchos) y la semivida (la mirada) las propongo yo.",
+  "_v24_nota": "prompt 36 (Manel: toda ganancia tiene un sentido de supervivencia), con el interruptor platos_v24: dar solo cuando la otra lo necesita o lo pide (comida si flaca o pidió ayuda, medicina si herida o «estoy herida», compañía si está de duelo), y vale lo que se alivia del dolor por ella (entero: el motor pesa la ganancia menos que la pérdida, así que sumados empujan ~1,3 veces, no el doble); conseguir comida alegra hasta tener lo que le sirve (el objetivo de riqueza, más una por cada una de las suyas flaca) y una medicina si no lleva ninguna; estar con las suyas solo si aporta (protección, ayuda o compañía). Compañía a la que está sola: no hecha (no hay dolor por la soledad de la otra ni forma de saberla)."
+ },
+ "hambre_dolor": {
+  "al_maximo": 2.0,
+  "_nota": "prompt 36 (Manel): el hambre es dolor, y cuanta más hambre más duele. Con el interruptor hambre_dolor, F-HAMBRE (la cuesta de F-DANO del siete) se multiplica, por encima del umbral de «necesito ayuda» (llamadas.hambre_mayor_que, 60), por 1 + (al_maximo − 1) × ((u − u0) / (1 − u0))²: igual hasta 60, un 25 % más a 80, el doble a 100 (de 1,4 a 2,8). Lo mismo para el hambre de la otra (R-HERMANO-FALTA) y el gusto de comer. El doble lo propongo yo."
+ },
+ "regla_general": {
+  "_nota": "prompt 39 (Manel aprueba la propuesta): con el interruptor regla_general, lo que algo vale = lo que necesita ahora × lo que sirve, repartido entre cuerpo (F 0,8·0,1·0,1), recursos (R) y vínculo (S) con los repartos del siete. Las necesidades son las filas de pérdida que ya había para el cuerpo (hambre como dolor, cansancio, daño), el miedo a la bestia, el frío (dos anchos de la zona de confort) y el vínculo (soledad, compañía, la hermana y las vecinas, el duelo); la comida que le falta para lo que tarda en pudrirse en la bolsa (de la cultura); saber dónde hay comida (la frontera del cinco, por lo que le falta conocer frente a los matorrales que dice la cultura); dañar a las suyas (S-DANAR: el golpe o la comida que le quita, por el vínculo). Con rg_ganancias, cada necesidad que una opción alivia respecto de ahora entra también como ganancia en su dimensión. Fuera: F-ANTICIPACION, R-LLAMADA, R-CURIOSIDAD, la curiosidad del cuánto, R-ENFADO, los platos, pararse en el duelo, «para dormir, a casa», el robo de la noche apuntado, leer «sin fuerzas no se trabaja» como orden; las promesas de comida son comida esperada (recurso), no hambre quitada. Poder entero (empujar y golpear, a la bestia y entre ellas). Dar, solo con necesidad (las filas de la otra) y con tope (no da comida con hambre > 60, ni medicina con vida < 50). Las llamadas salen solas, como antes."
+ },
+ "memoria_matorrales": {
+  "tramos_en_dias": [
+   0.25,
+   1,
+   2,
+   4
+  ],
+  "candidatos": 5,
+  "_nota": "prompt 41 (Manel): con memoria_v3, lo que espera de un matorral o planta es la frecuencia con que lo ha vuelto a encontrar con fruto, según el estado en que lo dejó (vacío o con fruto) y el tramo de tiempo desde entonces: menos de un cuarto de día, de un día, de dos, de cuatro, o más (el día sale de la cultura). Cada tramo parte de lo que dice la cultura de los matorrales (0,5) con el peso neutro del cuaderno (1). Con cinco_matorrales, al decidir adónde ir compara los 5 que más prometen por lo que cuesta llegar. Los tramos y el 5 (este, de Manel) son números nuevos."
+ },
+ "vivir_bien": {
+  "reposo_dos": {
+   "cuerpo": 0.82,
+   "recursos": 1.6,
+   "vinculo": 0.68
+  },
+  "_nota": "prompt 44 (Manel, decisión de método): la escala de la traducción. Vivir bien en el valle (comida, descanso, calor, la hermana cerca y unos dos días de comida guardada contando la bolsa, la despensa y su parte del almacén) da el reposo del modelo del paper dos: ganancia 1,60 en recursos, 0,82 en el cuerpo y 0,68 en lo social. Estos tres números los da Manel (del paper dos; no se pueden importar de ningún código: no auditados por importación). Más reservas acercan los recursos a la meta del motor (r_pos_target, importada), menos los alejan. Cada fila va entera a su eje, como el reposo del dos. Solo en la regla general con el lado de ganar (interruptor escala_v6)."
+ }
+}

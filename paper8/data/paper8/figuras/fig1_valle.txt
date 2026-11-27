@@ -1,0 +1,21 @@
+# Figura 1, el mapa del valle
+
+Programa: figura1_valle_170.py (el dibujo de valle_mapa.py, prompt 159, más las criaturas). Partida: la criatura completa, sequía, semilla 30182, turno 0 (valle_experimento_v6, primera línea de mundo.jsonl.gz).
+
+## Lo que dibuja
+
+- Rejilla de 48 × 48 casillas (valle/mundo.py, Valle._construye_mapa, con config_valle.json).
+- Cuatro casas (A, B, C, D), de 9 casillas cada una, con su puerta; el almacén (4 casillas), en la plaza.
+- Cuatro huertos, 16 plantas en total (4 por huerto).
+- Matorrales de esta semilla: 26 (21 del bosque y 5 de la zona salvaje). Sitios de árbol dulce: 2, en [[1, 4], [46, 1]].
+- Puertas del valle: 4 (norte, sur, oeste, este). Entradas de la bestia: 4.
+- Las ocho criaturas en el turno 0, todas dentro de su casa (comprobado): A1 (21, 20), A2 (20, 22), B1 (27, 20), B2 (27, 21), C1 (28, 27), C2 (28, 28), D1 (21, 27), D2 (21, 28).
+
+## De dónde sale
+
+- El mapa fijo: valle/mundo.py y config_valle.json (informe_prompt_159.md, la figura del valle).
+- Matorrales, árboles y criaturas: el turno 0 de la partida sellada de la figura de las tres aldeas (gif_tres_aldeas.py, sequía 30182).
+
+## Pie propuesto
+
+«El valle. En el centro, la plaza con las cuatro casas y el almacén; alrededor, los cuatro huertos y el bosque con sus matorrales, y en el borde la zona salvaje, con las cuatro puertas del valle al final de los caminos. Las ocho criaturas empiezan cada partida en su casa, dos por casa; los matorrales y los árboles de fruta dulce cambian con la semilla (aquí, la 30182), y lo demás es igual en todas las partidas.»

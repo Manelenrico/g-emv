@@ -1,0 +1,913 @@
+{
+ "_que_es": "El valle, mundo del paper ocho. Todos los números del mundo; el código no lleva ninguno. Coordenadas [x, y], y crece hacia el sur.",
+ "mapa": {
+  "ancho": 48,
+  "alto": 48,
+  "salvaje_ancho": 6,
+  "aldea": {
+   "x0": 19,
+   "y0": 19,
+   "lado": 12
+  },
+  "almacen": [
+   [
+    24,
+    24
+   ],
+   [
+    25,
+    24
+   ],
+   [
+    24,
+    25
+   ],
+   [
+    25,
+    25
+   ]
+  ],
+  "casas": [
+   {
+    "id": "A",
+    "forma": "redonda",
+    "x0": 20,
+    "y0": 20,
+    "puerta": [
+     21,
+     22
+    ]
+   },
+   {
+    "id": "B",
+    "forma": "cuadrada",
+    "x0": 27,
+    "y0": 20,
+    "puerta": [
+     27,
+     21
+    ]
+   },
+   {
+    "id": "C",
+    "forma": "triangulo",
+    "x0": 27,
+    "y0": 27,
+    "puerta": [
+     28,
+     27
+    ]
+   },
+   {
+    "id": "D",
+    "forma": "cruz",
+    "x0": 20,
+    "y0": 27,
+    "puerta": [
+     22,
+     28
+    ]
+   }
+  ],
+  "casa_lado": 3,
+  "caminos": {
+   "columnas_norte_sur": [
+    24,
+    25
+   ],
+   "filas_este_oeste": [
+    24,
+    25
+   ]
+  },
+  "camino_en_salvaje_hiere": false,
+  "_coordenadas": "de 1 a 48, como (columna, fila); el centro está entre la 24 y la 25",
+  "huertos": [
+   {
+    "id": "NO",
+    "plantas": [
+     [
+      15,
+      15
+     ],
+     [
+      18,
+      15
+     ],
+     [
+      15,
+      18
+     ],
+     [
+      18,
+      18
+     ]
+    ],
+    "rendimiento": 1.0,
+    "area": [
+     [
+      15,
+      15
+     ],
+     [
+      16,
+      15
+     ],
+     [
+      17,
+      15
+     ],
+     [
+      18,
+      15
+     ],
+     [
+      15,
+      16
+     ],
+     [
+      16,
+      16
+     ],
+     [
+      17,
+      16
+     ],
+     [
+      18,
+      16
+     ],
+     [
+      15,
+      17
+     ],
+     [
+      16,
+      17
+     ],
+     [
+      17,
+      17
+     ],
+     [
+      18,
+      17
+     ],
+     [
+      15,
+      18
+     ],
+     [
+      16,
+      18
+     ],
+     [
+      17,
+      18
+     ],
+     [
+      18,
+      18
+     ]
+    ]
+   },
+   {
+    "id": "NE",
+    "plantas": [
+     [
+      31,
+      15
+     ],
+     [
+      34,
+      15
+     ],
+     [
+      31,
+      18
+     ],
+     [
+      34,
+      18
+     ]
+    ],
+    "rendimiento": 1.0,
+    "area": [
+     [
+      31,
+      15
+     ],
+     [
+      32,
+      15
+     ],
+     [
+      33,
+      15
+     ],
+     [
+      34,
+      15
+     ],
+     [
+      31,
+      16
+     ],
+     [
+      32,
+      16
+     ],
+     [
+      33,
+      16
+     ],
+     [
+      34,
+      16
+     ],
+     [
+      31,
+      17
+     ],
+     [
+      32,
+      17
+     ],
+     [
+      33,
+      17
+     ],
+     [
+      34,
+      17
+     ],
+     [
+      31,
+      18
+     ],
+     [
+      32,
+      18
+     ],
+     [
+      33,
+      18
+     ],
+     [
+      34,
+      18
+     ]
+    ]
+   },
+   {
+    "id": "SE",
+    "plantas": [
+     [
+      31,
+      31
+     ],
+     [
+      34,
+      31
+     ],
+     [
+      31,
+      34
+     ],
+     [
+      34,
+      34
+     ]
+    ],
+    "rendimiento": 1.0,
+    "area": [
+     [
+      31,
+      31
+     ],
+     [
+      32,
+      31
+     ],
+     [
+      33,
+      31
+     ],
+     [
+      34,
+      31
+     ],
+     [
+      31,
+      32
+     ],
+     [
+      32,
+      32
+     ],
+     [
+      33,
+      32
+     ],
+     [
+      34,
+      32
+     ],
+     [
+      31,
+      33
+     ],
+     [
+      32,
+      33
+     ],
+     [
+      33,
+      33
+     ],
+     [
+      34,
+      33
+     ],
+     [
+      31,
+      34
+     ],
+     [
+      32,
+      34
+     ],
+     [
+      33,
+      34
+     ],
+     [
+      34,
+      34
+     ]
+    ]
+   },
+   {
+    "id": "SO",
+    "plantas": [
+     [
+      15,
+      31
+     ],
+     [
+      18,
+      31
+     ],
+     [
+      15,
+      34
+     ],
+     [
+      18,
+      34
+     ]
+    ],
+    "rendimiento": 1.0,
+    "area": [
+     [
+      15,
+      31
+     ],
+     [
+      16,
+      31
+     ],
+     [
+      17,
+      31
+     ],
+     [
+      18,
+      31
+     ],
+     [
+      15,
+      32
+     ],
+     [
+      16,
+      32
+     ],
+     [
+      17,
+      32
+     ],
+     [
+      18,
+      32
+     ],
+     [
+      15,
+      33
+     ],
+     [
+      16,
+      33
+     ],
+     [
+      17,
+      33
+     ],
+     [
+      18,
+      33
+     ],
+     [
+      15,
+      34
+     ],
+     [
+      16,
+      34
+     ],
+     [
+      17,
+      34
+     ],
+     [
+      18,
+      34
+     ]
+    ]
+   }
+  ],
+  "_huertos": "cuatro huertos comunes de 2 x 2 plantas, uno en cada cuadrante del bosque, pegados en diagonal a la esquina de fuera de la aldea; rendimiento multiplica los frutos de cada ciclo",
+  "entradas_bestia": {
+   "norte": [
+    25,
+    6
+   ],
+   "este": [
+    43,
+    25
+   ],
+   "sur": [
+    24,
+    43
+   ],
+   "oeste": [
+    6,
+    24
+   ]
+  },
+  "bordes_aldea": {
+   "norte": [
+    25,
+    18
+   ],
+   "este": [
+    31,
+    25
+   ],
+   "sur": [
+    24,
+    31
+   ],
+   "oeste": [
+    18,
+    24
+   ]
+  },
+  "_huertos_v17": "prompt 29 (Manel): cada huerto es un cuadrado de 4 por 4 (las casas son de 3 por 3) en la misma esquina, fuera de la aldea (19-30): NO 15-18 · 15-18, NE 31-34 · 15-18, SE 31-34 · 31-34, SO 15-18 · 31-34. Sigue con 4 plantas, en las esquinas del cuadrado (separadas); el resto es tierra de huerto (se pisa). Antes: 2 por 2, las cuatro casillas eran las plantas."
+ },
+ "puertas": [
+  {
+   "id": "norte",
+   "celdas": [
+    [
+     24,
+     1
+    ],
+    [
+     25,
+     1
+    ]
+   ],
+   "conecta_con": null
+  },
+  {
+   "id": "sur",
+   "celdas": [
+    [
+     24,
+     48
+    ],
+    [
+     25,
+     48
+    ]
+   ],
+   "conecta_con": null
+  },
+  {
+   "id": "oeste",
+   "celdas": [
+    [
+     1,
+     24
+    ],
+    [
+     1,
+     25
+    ]
+   ],
+   "conecta_con": null
+  },
+  {
+   "id": "este",
+   "celdas": [
+    [
+     48,
+     24
+    ],
+    [
+     48,
+     25
+    ]
+   ],
+   "conecta_con": null
+  }
+ ],
+ "dia": {
+  "turnos": 400,
+  "fases": [
+   [
+    "mañana",
+    120
+   ],
+   [
+    "tarde",
+    120
+   ],
+   [
+    "anochecer",
+    40
+   ],
+   [
+    "noche",
+    120
+   ]
+  ]
+ },
+ "dias_por_episodio": 20,
+ "criaturas": {
+  "por_casa": 2,
+  "vida_max": 100,
+  "hambre_max": 100,
+  "cansancio_max": 100,
+  "hambre_por_turno": 0.25,
+  "hambre_por_esfuerzo": 0.05,
+  "vida_por_turno_con_hambre_max": 0.5,
+  "cansancio_por_esfuerzo": 0.15,
+  "factor_bolsa_llena": 2.0,
+  "cansancio_quieta": -0.2,
+  "cansancio_dormir": -0.6,
+  "agotada_hasta": 70,
+  "umbral_herida": 70,
+  "umbral_flaca": 60,
+  "energia_fuerte_bajo": 40,
+  "energia_normal_bajo": 70,
+  "bolsa_huecos": 6,
+  "golpe_dano": 15,
+  "golpe_cansancio": 3,
+  "empujar_cansancio": 5,
+  "vista": 5,
+  "llamada_alcance": 10,
+  "hablar_alcance": 3,
+  "vida_por_turno_durmiendo": 0.25,
+  "hambre_por_trabajo": 0.1,
+  "cansancio_por_trabajo": 0.2,
+  "_trabajo_nota": "prompt 14 (Manel): por turno de trabajo, 0,25 + 0,10 = 0,35 de hambre y 0,20 de cansancio (andar: 0,30 y 0,15); vida durmiendo 0,05 -> 0,25",
+  "hambre_max_para_recuperar": 50,
+  "cansancio_por_turno_despierta": 0.15,
+  "_cansancio_nota": "prompt 22 (Manel: dormir es necesario). Despierta, el cansancio sube 0,15 por turno (más lo de andar 0,15 y trabajar 0,20); quieta baja 0,2 (neto −0,05: poco); dormir baja 0,6 (y no sube por estar despierta). Un día despierta (280 turnos) son unos 42 de base más lo que anda: unos 60-70 al anochecer; una noche entera durmiendo (120 turnos) quita 72: recupera del todo. Una noche sin dormir suma 18 más: el día siguiente empieza cerca de agotada (100). Antes: quieta −0,1, dormir −0,5, sin subida de base. Los números los propongo yo.",
+  "agotada_se_duerme": true,
+  "_agotada_nota": "prompt 23 (Manel): agotada, se duerme sola (pida lo que pida, duerme) hasta bajar de agotada_hasta; igual para todos los jugadores. Con dormir −0,6, de 100 a 70 son 50 turnos.",
+  "dormir_de_dia_factor": 1.0,
+  "_dormir_dia_nota": "prompt 24 (Manel): de día dormir recuperaba la mitad. (prompt 39, Manel) fuera: dormir recupera lo mismo de día que de noche (factor 1).",
+  "dormir_desde": null,
+  "trabajar_sin_fuerzas": true,
+  "trabajar_de_noche": true,
+  "_trabajar_nota": "prompt 26 (Manel): con el hambre al máximo no se puede trabajar (sin fuerzas), y de noche tampoco. (prompt 38, Manel) se quita «de noche no se trabaja» (trabajar_de_noche: true; ya no es regla pública). Se queda «con el hambre al máximo no se puede trabajar» como límite del cuerpo, NACIDA DE UN PARCHE (prompt 26: las criaturas trabajaban la planta con comida en la bolsa hasta morir).",
+  "cadaver_dias_extra": 1,
+  "_cadaver_nota": "prompt 31 (Manel): el cuerpo se queda en su casilla hasta el final del día siguiente a la muerte (antes, hasta el final del mismo día). Quien lo ve se entera de la muerte.",
+  "harta_por_debajo": 15,
+  "_harta_nota": "prompt 35 (Manel): harta no se puede comer («ya no me entra más»), igual para todos los jugadores. Con el hambre por debajo de 15 no se puede comer nada que alimente (la medicina sí). Una comida quita 35: por debajo de 15 se tirarían más de 20, casi dos tercios. El número lo propongo yo.",
+  "vista_por_fase": {
+   "mañana": 5,
+   "tarde": 5,
+   "anochecer": 3,
+   "noche": 2
+  },
+  "_vista_nota": "prompt 38 (Manel): de noche se ve menos. La vista (casillas a cada lado) según la fase: de día 5 (la de siempre, `vista`), al anochecer 3, de noche 2. Vale para todo lo que se ve (casillas, matorrales, plantas, comida, criaturas, la bestia, las muertes). El oído no cambia (llamada_alcance, hablar_alcance). Los números los propongo yo (los del ejemplo de Manel).",
+  "_dormir_desde_nota": "prompt 25 (Manel): solo se puede dormir con el cansancio por encima de un umbral (antes: de día 70, de noche 30). (prompt 39, Manel) un solo umbral, igual de día que de noche: se duerme cuando hay sueño. 40 es el límite de «energía fuerte» que ya tenía el mundo (energia_fuerte_bajo): por debajo de 40 no hay sueño. Agotada se sigue durmiendo sola. (prompt 41, Manel) fuera el umbral: dormir es una acción más, que recupera energía (0,6 por turno dormido, igual de día que de noche: cuanto más duerme, más recupera). Se quedan los límites del cuerpo: agotada se duerme a la fuerza; harta no come.",
+  "reloj": {
+   "activo": true,
+   "despertar_lento_turnos": 10,
+   "_nota": "prompt 42 (Manel): el reloj del cuerpo, un poder heredado (lo fija la evolución, no es una orden), igual para todos los jugadores (también el tonto, el recolector o un modelo de lenguaje). Al anochecer y de noche se puede dormir siempre, y el sueño sigue solo hasta la mañana (profundo); de día solo se puede dormir muy cansada (cansancio desde energia_normal_bajo, 70) o agotada. El sueño no es obligado: dormirse lo elige cada jugador (solo agotada se cae dormida a la fuerza). Mientras duerme sigue oyendo. Despiertan: las llamadas urgentes oídas a la distancia de siempre (llamadas_que_despiertan), que la empujen o le peguen, y tener la bestia al lado; las demás llamadas no despiertan. Una vez despierta, lo que hace lo decide cada jugador. Al despertar por la mañana arranca poco a poco: los primeros despertar_lento_turnos (10, lo propongo yo) solo da un paso cada dos turnos.",
+   "llamadas_que_despiertan": [
+    "peligro",
+    "necesito_ayuda",
+    "estoy_herida",
+    "la_bestia",
+    "ven_lo_necesito"
+   ],
+   "sonidos_que_despiertan": [
+    "dolor:fuerte"
+   ],
+   "_sonidos_nota": "prompt 55 (Manel): un sonido fuerte de dolor despierta a quien lo oye, como antes la llamada «estoy herida»."
+  },
+  "dolor_quita_sueno": {
+   "activo": false,
+   "_nota": "prompt 43 (Manel: el hambre es dolor): un dolor fuerte quita el sueño y despierta, igual para todos los jugadores. Con el hambre por encima de umbral_flaca (60) o la vida por debajo de umbral_herida (70) —las bandas que ya existían, las que se ven desde fuera— el sueño no entra, y si duerme se despierta. Agotada se sigue cayendo dormida (es el límite del cuerpo).",
+   "_nota_v44": "prompt 44 (Manel): fuera; costaba vidas y no dejaba curar una herida grave (la vida solo sube durmiendo). Se queda el reloj del hambre con sus dos piezas juntas."
+  },
+  "hambre_reloj": {
+   "activo": true,
+   "dormida": 0.75,
+   "apetito_fase": "tarde",
+   "apetito": 1.3,
+   "_nota": "añadido de Manel al prompt 43, el reloj del hambre, igual para todos los jugadores: dormida gasta menos (el hambre sube ×0,75 mientras duerme) y por la tarde sube un poco más (×1,3, el apetito antes de la cena). El total del día queda igual, comprobado con el tonto: duerme unos 147 turnos al día y está despierto casi toda la tarde, y 130 + 120 × 1,3 + 3 + 147 × 0,75 ≈ 400 turnos de hambre normal. Primero probé el apetito al anochecer (×1,75), pero el tonto duerme casi todo el anochecer y su hambre del día bajaba a 91,5 de 100. Los números los propongo yo."
+  },
+  "vida_niveles": {
+   "activo": true,
+   "_nota": "prompt 47 (Manel): la vida de otra se ve en cuatro niveles, como la energía, igual para todos los jugadores. Cortes que propongo, con las bandas que ya había: sana con vida desde umbral_herida (70); herida desde energia_fuerte_bajo (40, el corte de la energía fuerte); muy herida por debajo; moribunda con vida no mayor que golpe_dano (15): un golpe la mata. Se sigue viendo «herida» (vida < umbral_herida) como antes."
+  },
+  "_trabajar_sin_fuerzas_nota_v50": "prompt 50 (Manel): se quita la regla «con el hambre al máximo no se puede trabajar» (la regla general nunca elige trabajar). Se comprueba que el tonto y el recolector salen igual.",
+  "hambre_bajo_cero": {
+   "activo": true,
+   "_nota": "prompt 52 (Manel), igual para todos los jugadores: el hambre puede bajar de cero. Si come con poca hambre, lo que sobra no se pierde: el hambre queda por debajo de cero y tarda más en volver. Sin otro límite: harta (hambre por debajo de harta_por_debajo, 15) no puede comer, así que como mucho baja a 15 − 35 = −20."
+  }
+ },
+ "objetos": {
+  "comida": {
+   "se_come": true,
+   "nutricion": 35,
+   "cura": 0,
+   "se_pudre": true,
+   "pudre_en": {
+    "suelo": 150,
+    "bolsa": 800,
+    "despensa": 1600,
+    "almacen": null,
+    "planta": 800,
+    "bestia": null,
+    "matorral": 400
+   },
+   "bloquea": false
+  },
+  "medicina": {
+   "se_come": true,
+   "nutricion": 0,
+   "cura": 40,
+   "se_pudre": false,
+   "pudre_en": {},
+   "bloquea": false,
+   "tope_en_el_suelo": 4,
+   "_tope_nota": "prompt 31 (Manel pide un tope; el número lo propongo yo): si en el suelo de su zona ya hay 4 medicinas, la de ese turno no aparece. Aparecen 2 al día en la zona salvaje y las criaturas cogen unas 15-25 de las 40 de una partida (pasada v18): sin tope se acumulaban sin fin. 4 son dos días de medicina."
+  }
+ },
+ "aparicion": {
+  "bosque": {
+   "comida": 12
+  },
+  "salvaje": {
+   "comida": 6,
+   "medicina": 2
+  },
+  "almacen_inicial": {
+   "comida": 48
+  }
+ },
+ "huerto": {
+  "ciclo_turnos": 800,
+  "trabajo_necesario": 20,
+  "frutos": 4,
+  "objeto": "comida",
+  "desfase_al_azar": true,
+  "arranque": {
+   "primer_ciclo_trabajado": true,
+   "fruto_a_punto_en_el_primer_dia": true
+  },
+  "cuidado": {
+   "frutos_sin_cuidado": "como_matorral",
+   "semivida_turnos": 1600,
+   "_nota": "prompt 18 (Manel): cada planta tiene un cuidado (0 a 1) que sube 1/trabajo_necesario por turno de trabajo y baja con esta semivida sin él. Al acabar el ciclo da frutos_sin_cuidado + (frutos - frutos_sin_cuidado) × cuidado (la parte decimal, al azar). «como_bosque»: lo que da en un ciclo una casilla de bosque. La semivida (2 ciclos, 4 días) la propongo yo. (prompt 19) «como_matorral»: lo que da en un ciclo un matorral del bosque."
+  }
+ },
+ "almacen": {
+  "nivel_solo_comida": true,
+  "_nivel_solo_comida_nota": "prompt 63 (Manel): el nivel del almacén (vacío, poco, a medias, lleno) cuenta solo la comida, no las medicinas. Antes contaba todo lo que se come, y la medicina se come.",
+  "nivel_lleno": 36,
+  "nivel_a_medias": 16,
+  "nivel_poco": 1,
+  "libreta": false,
+  "libreta_largo": 10
+ },
+ "despensa": {
+  "huecos": 4
+ },
+ "terreno_salvaje": {
+  "prob_herida": 0.01,
+  "dano": 5,
+  "_nota": "prompt 14 (Manel): antes 0,02 y 10"
+ },
+ "bestia": {
+  "golpe_dano": 40,
+  "peso_empuje": 2,
+  "come_lo_robado_tras": 40,
+  "espera_tras_encuentro": 24,
+  "mando": "medio",
+  "mandos": {
+   "bajo": {
+    "prob_bajar": 0.2,
+    "alcance": "huerto"
+   },
+   "medio": {
+    "prob_bajar": 0.5,
+    "alcance": "huerto"
+   },
+   "alto": {
+    "prob_bajar": 0.9,
+    "alcance": "huerto"
+   }
+  },
+  "camino": "mas_cercano",
+  "max_frutos_por_noche": 4,
+  "pega_si_gana_el_empujon": false,
+  "anda_por_el_bosque_para_ir_al_huerto": true,
+  "no_se_ve_dormida": true,
+  "pega_y_roba_dormida": true,
+  "_dormida_nota": "prompt 22 (Manel): dormida no se ve llegar a la bestia (no sale en la observación); si la encuentra fuera dormida, le pega y le roba. En casa, a salvo, como siempre.",
+  "pasos_por_turno": 1,
+  "de_dia": {
+   "activo": false,
+   "prob_bajar": 1.0,
+   "_nota": "prompt 68 (Manel), mando de estrés, apagado por defecto: la bestia sale también de día. Cada mañana, cuando está en su ronda, baja con esta probabilidad por el camino más cercano hacia el huerto, como de noche, y vuelve al anochecer. El número se ajusta con el tonto y el recolector (informe_estres_v1.md).",
+   "_ajuste": "prompt 68: 1 (baja todas las mañanas): tonto 27 de 56, recolector 44 de 56 (40 días, 7 semillas, mundo normal). Probados 0,25 (49 · 49), 0,5 (36 · 45), 0,75 (37 · 45)."
+  },
+  "pieza_g": {
+   "_nota": "prompt 88 (Manel): la bestia como un mando, todas las ruedas apagadas (una bestia, la de siempre). Los números los propongo yo (informe_bestia_v1.md). (prompt 89, Manel) echar y matar, separadas (echar cuenta solo los empujones; matar, solo los golpes) y encendidas en todos los mundos: son posibilidades, no obligaciones.",
+   "inicial": 1,
+   "cria": {"activo": false, "cada_dias": 10, "maximo": 4, "_nota": "cada tantos días nace otra (al acabar el día, en la zona salvaje), hasta el máximo: con 10 y 4, en 40 días se llega a cuatro (días 10, 20 y 30)."},
+   "epocas": {"activo": false, "_nota": "siguen a las épocas de los matorrales: el reloj de la cría avanza cada día lo que el factor de la época (1,3 en la abundancia, 0,7 en la escasez) y caben el máximo por el factor, redondeado (al menos una); las que sobran se marchan al acabar el día (las últimas que llegaron)."},
+   "echar": {"activo": true, "exponente": 1.5, "umbral_criaturas": 2, "lejos_turnos": 400, "_nota": "(prompt 89) las que la empujan en el mismo turno (solo los empujones): fuerza = n^1,5 (más que sumando: 1; 2,8; 5,2; 8). Con la fuerza de dos a la vez (2^1,5), se va lejos (sale del mapa, suelta lo que lleva) y vuelve a la zona salvaje al cabo de 400 turnos (un día) por la fuerza entre el umbral: tres a la vez, 1,8 días; cuatro, 2,8. Lo que hacía antes sigue igual (devuelve el golpe; empujada por dos, suelta lo robado)."},
+   "matar": {"activo": true, "vida": 150, "cura_por_turno": 2, "exponente": 1.5, "comida_deja": 24, "reaparece_turnos": 2000, "_nota": "la bestia tiene vida (150) y se cura 2 por turno. Las que le pegan en el mismo turno le quitan el golpe de una criatura × n^1,5 (15; 42; 78; 120; 168). Sola o entre dos no la matan antes de morir ellas (devuelve 40 a cada una por golpe); tres a la vez la matan en dos turnos (y cada una recibe 80), cuatro también en dos, cinco o más en uno. Muerta, deja en su casilla lo que llevaba y 24 comidas (lo que come la aldea entera en un día, 22,9), y al cabo de 2000 turnos (cinco días) aparece otra en la zona salvaje."}
+  },
+  "_pasos_nota": "prompt 58 (Manel): lo rápido que se mueve la bestia, como hecho del mundo y regla pública: una casilla por turno (lo que hace el código: un paso cada vez que actúa)."
+ },
+ "llamadas": [
+  "peligro",
+  "aqui_hay_comida",
+  "no_hay_comida",
+  "necesito_ayuda",
+  "estoy_herida",
+  "estoy_cansada",
+  "no_tengo_energia",
+  "estoy_de_duelo"
+ ],
+ "reglas_publicas": [
+  "golpe_bestia",
+  "golpe_criatura",
+  "bestia_roba_la_bolsa",
+  "bestia_no_entra_en_casas",
+  "bestia_cuenta_como",
+  "temperatura_confort",
+  "harta_por_debajo",
+  "frio_hambre_por_grado",
+  "frio_noche_fuera",
+  "llamadas_voz",
+  "bestia_pasos_por_turno",
+  "medicina_cura_heridas"
+ ],
+ "margen_comida": {
+  "activo": 0.05,
+  "opciones": [
+   0.05,
+   0.15,
+   0.3
+  ],
+  "_nota": "prompt 18 (Manel): con «activo», la comida que aparece al día en el bosque y la zona salvaje es lo que comen las criaturas (hambre_por_turno × turnos del día / nutricion × criaturas) × (1 + margen), repartida como en «aparicion». null: la «aparicion» de siempre. (prompt 19) activo 0,05: el margen más bajo en que el recolector vive casi entero (banco de la base v6)."
+ },
+ "matorrales": {
+  "activo": true,
+  "bosque": {
+   "frutos": 1,
+   "fruto_cada": 800,
+   "numero": 24
+  },
+  "salvaje": {
+   "frutos": 2,
+   "fruto_cada": 800,
+   "numero": 6
+  },
+  "_nota": "prompt 19 (Manel): matorrales fijos repartidos al empezar (los pone la semilla); cada uno da «frutos» cada «fruto_cada» turnos (desfase al azar); el fruto aguanta en el matorral objetos.comida.pudre_en.matorral turnos. Los de la zona salvaje dan más. Se quita la comida que aparecía en casillas al azar (la medicina se queda). Con margen_comida.activo, el número de matorrales lo pone el margen sobre lo que comen las ocho, descontando lo que da el huerto sin cuidado (2/3 en el bosque, 1/3 en la zona salvaje); sin él, «numero». Los números concretos los propongo yo.",
+  "bayas_sueltas": 0.1,
+  "_bayas_nota": "prompt 20 (Manel): cada fruta de un matorral, con esta probabilidad, cae como baya suelta en una casilla al azar del bosque (sin matorral) y se pudre como la comida del suelo. La comida total no cambia: lo que va a bayas se quita de los matorrales. En el GIF, estrella rosa.",
+  "epocas": {
+   "activo": false,
+   "duracion_dias": 5,
+   "factores": [
+    1.3,
+    1.0,
+    0.7,
+    1.0
+   ],
+   "_nota": "prompt 20 (Manel): con «activo», lo que da cada matorral se multiplica por el factor de la época (épocas de «duracion_dias» días, en ciclo: abundancia, normal, escasez, normal). Apagado. Los números los propongo yo. (prompt 30) «afecta_huerto»: la época también multiplica el fruto de las plantas del huerto (todo lo que da comida). (prompt 31, Manel) la escasez se queda en ×0,7.",
+   "afecta_huerto": true,
+   "nombres": [
+    "abundancia",
+    "normal",
+    "escasez",
+    "normal"
+   ]
+  }
+ },
+ "temperatura": {
+  "activo": true,
+  "fuera": {
+   "mañana": 16,
+   "tarde": 22,
+   "anochecer": 12,
+   "noche": 6
+  },
+  "dentro_de_casa": 20,
+  "confort": [
+   15,
+   25
+  ],
+  "_nota": "prompt 34 (Manel): de día templado, de noche fuera hace frío, dentro de las casas siempre se está bien. Grados: fuera, mañana 16, tarde 22, anochecer 12, noche 6; dentro de cualquier casa, 20. Zona de confort 15-25: fuera de ella es incómodo, pero el mundo no quita vida por eso (el malestar lo pone cada jugador). Está en la observación de todos (la de donde está y la de fuera) y la zona de confort es regla pública. Los números los propongo yo.",
+  "frio_hambre_por_grado": 0.05,
+  "_frio_nota": "prompt 55 (Manel): el frío cuesta en el cuerpo, igual para todos: fuera de casa, por debajo de la zona cómoda (confort[0], 15°), el hambre sube ×(1 + 0,05 por grado de menos). Dentro de casa, nada. El 0,05 lo propongo yo: una noche entera fuera (anochecer a 12°, noche a 6°, dormida) sube unos 12 de hambre más, un tercio de comida; se nota y no mata por sí sola."
+ },
+ "_reglas_publicas_nota_v51": "prompt 51 (Manel): se quita de la cultura (las reglas públicas) «que con el hambre al máximo no se trabaja»: la regla ya no existe en el mundo desde el prompt 50.",
+ "sonidos": {
+  "activo": true,
+  "alcance": {
+   "suave": 4,
+   "medio": 7,
+   "fuerte": 10
+  },
+  "fuerzas": [
+   "placer",
+   "dolor",
+   "alegria",
+   "enfado",
+   "amor",
+   "tristeza"
+  ],
+  "_nota": "prompt 54 (Manel): la expresión que sale sola, como la cara, igual para todos los jugadores: con la acción del turno puede ir un sonido («suena»: la fuerza que más pesa y su intensidad) que no gasta el turno ni cuesta energía. Llega a 4 casillas si es suave, a 7 si es medio y a 10 si es fuerte (el oído de las llamadas). No despierta (no es una llamada urgente)."
+ },
+ "llamadas_voz": {
+  "activo": true,
+  "tipos": [
+   "aqui_estoy",
+   "aqui_hay_comida",
+   "la_bestia",
+   "ven_lo_necesito"
+  ],
+  "alcance": {
+   "suave": 4,
+   "medio": 7,
+   "fuerte": 10
+  },
+  "cansancio": {
+   "suave": 0.0,
+   "medio": 0.15,
+   "fuerte": 0.3
+  },
+  "_nota": "prompt 57 (Manel): las llamadas prácticas, igual para todos los jugadores: con la acción del turno puede ir una llamada («llama»: cuál y con qué fuerza), aparte de los pies. Contacto («aquí estoy»), comida («aquí hay comida»), alarma («la bestia») y ayuda («ven, lo necesito»). Llega a 4, 7 o 10 casillas según la fuerza; quien oye sabe de dónde viene. Gritar más fuerte cansa un poco: lo que cansa un paso (0,15) por cada fuerza por encima de suave (lo propongo yo). «La bestia» y «ven, lo necesito» despiertan, como «peligro» y «necesito ayuda»."
+ },
+ "arbol_dulce": {"activo": false, "numero": 2, "apariciones": [2, 3], "dura_dias": [3, 4], "frutos": 20, "distancia_min": 40, "separacion_min": 20, "bestia_fases": ["anochecer"], "_nota": "prompt 97 (Manel): la bestia solo pasa por el árbol al atardecer (bestia_fases); al caer la noche sigue hacia la aldea como siempre. prompt 96 (Manel), apagado por defecto: dos árboles de fruta dulce lejos de la aldea (zona salvaje, a 40 pasos andando o más de la puerta de casa más cercana: lo más lejos del mapa es 43, así que ir y volver cuesta unos 80-86 turnos, un tercio de la luz del día, no media jornada), separados al menos 20 casillas. Cada uno aparece 2 o 3 veces por partida, en momentos al azar, y dura 3 o 4 días, con 20 frutas dulces (comida con origen «dulce»: alimenta igual; el gusto lo pone la criatura) que no se pudren en el árbol ni vuelven a salir; al irse, lo que quede se pierde. Al anochecer y de noche, la bestia más cercana a un árbol activo va hacia él (no se come la fruta) y a la criatura que encuentra allí le quita la fruta dulce antes que cualquier otra cosa."},
+ "observacion": {"empujones_vistos": false, "lo_que_hizo": false, "_nota": "prompt 93 (Manel), apagados por defecto (las versiones de antes no los leen): «empujones_vistos», a las que están a la vista de un empujón ganado, quién empujó a quién, quién ganó y qué soltó (como las muertes vistas); «lo_que_hizo», en «yo», lo que hizo de verdad su cuerpo el turno de antes (la acción, con lo que el cuerpo le obligó, y si durmió). Se encienden en las partidas de RG47r, RG047r y sus gemelas."},
+ "estres": {
+  "_nota": "prompt 68 (Manel): mandos de estrés, apagados por defecto. La sequía dura: las épocas de la sequía de siempre (abundancia, normal, escasez, normal; 5 días cada una) con sus factores × «multiplica». Se ajusta con el tonto y el recolector en partidas de 40 días: el tonto vive entre un cuarto y la mitad, y el recolector sigue por encima (informe_estres_v1.md). La bestia de día está en bestia.de_dia.",
+  "bestias_crian": {"cria": {"activo": true, "cada_dias": 20, "maximo": 2}, "_nota": "prompt 89 (Manel), mundo de estrés que sustituye a la bestia de día (en el lanzador, «bestias_crian»): la bestia de día (bestia.de_dia, encendida) más la cría de la pieza G cada 20 días, hasta dos. Ajuste del prompt 88 (informe_bestia_v1.md): el tonto vive el 43 % (3,45 de 8, 40 semillas), el recolector el 65 %."},
+  "sequia_dura": {
+   "activo": false,
+   "multiplica": 0.7,
+   "epocas": {
+    "duracion_dias": 5,
+    "factores": [
+     1.3,
+     1.0,
+     0.7,
+     1.0
+    ],
+    "afecta_huerto": true,
+    "nombres": [
+     "abundancia",
+     "normal",
+     "escasez",
+     "normal"
+    ]
+   }
+  },
+  "_ajuste": "prompt 68: probados ×0,5 (tonto 0 · recolector 8 de 56), ×0,6 (3 · 11), ×0,7 (17 · 21), ×0,8 (19 · 21) (40 días, 7 semillas, mundo normal). Prompt 69 (decisión de la mesa): ×0,7."
+ }
+}

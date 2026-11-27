@@ -1,0 +1,88 @@
+{
+ "_que_es": "hechos de la pieza G (prompt 89), de cultura_hechos_v44.py: cada uno es regla del mundo solo con su rueda encendida (echar y matar, encendidas en todos los mundos); hechos_de(pieza_g) da los de un mundo. RG44r carga los de echar y matar",
+ "entradas": [
+  {
+   "rueda": "inicial",
+   "dice": "al empezar hay 1 bestias en la zona salvaje",
+   "objeto": "hecho:bestias_al_empezar",
+   "situaciones": [
+    "valle"
+   ],
+   "numeros": {
+    "inicial": 1
+   },
+   "de": "mundo.py reset (pieza_g.inicial)"
+  },
+  {
+   "rueda": "cria",
+   "dice": "cada 10 días nace otra bestia en la zona salvaje, hasta 4",
+   "objeto": "hecho:bestias_crian",
+   "situaciones": [
+    "valle"
+   ],
+   "numeros": {
+    "cada_dias": 10,
+    "maximo": 4
+   },
+   "de": "mundo.py _g_dia"
+  },
+  {
+   "rueda": "epocas",
+   "dice": "las bestias siguen a las épocas: caben las de siempre por lo que da la época (abundancia ×1.3, normal ×1.0, escasez ×0.7, normal ×1.0), al menos una; con la cría, nacen antes en la abundancia y más tarde en la escasez; las que sobran se marchan al acabar el día",
+   "objeto": "hecho:bestias_epocas",
+   "situaciones": [
+    "valle"
+   ],
+   "numeros": {
+    "factores": [
+     1.3,
+     1.0,
+     0.7,
+     1.0
+    ],
+    "nombres": [
+     "abundancia",
+     "normal",
+     "escasez",
+     "normal"
+    ],
+    "duracion_dias": 5
+   },
+   "de": "mundo.py _g_cuantas, _g_dia"
+  },
+  {
+   "rueda": "echar",
+   "dice": "si varias empujan a la bestia en el mismo turno (pegarle no cuenta), la fuerza es el número elevado a 1.5 (1.0; 2.83; 5.2; 8.0); con la fuerza de 2 a la vez se va lejos, suelta lo que lleva y vuelve a la zona salvaje al cabo de 400 turnos por la fuerza entre la de 2; empujarla sola no la echa: si no hay otra pegada a ella, le pega (40); si la hay, suelta lo que robó (2 pegadas)",
+   "objeto": "hecho:echar_bestia",
+   "situaciones": [
+    "acompanada"
+   ],
+   "numeros": {
+    "exponente": 1.5,
+    "umbral_criaturas": 2.0,
+    "lejos_turnos": 400,
+    "golpe_bestia": 40,
+    "peso_empuje": 2
+   },
+   "de": "mundo.py _g_turno (echar)"
+  },
+  {
+   "rueda": "matar",
+   "dice": "la bestia tiene 150 de vida y se cura 2 por turno; las que le pegan en el mismo turno (empujarla no cuenta) le quitan 15 por el número elevado a 1.5 (15.0, 42.4, 77.9, 120.0, 167.7, 220.5); a cada una le devuelve el golpe (40); muerta, deja lo que llevaba y 24 comidas en su casilla, y al cabo de 2000 turnos aparece otra",
+   "objeto": "hecho:matar_bestia",
+   "situaciones": [
+    "acompanada"
+   ],
+   "numeros": {
+    "vida": 150,
+    "cura_por_turno": 2,
+    "exponente": 1.5,
+    "golpe_criatura": 15,
+    "golpe_bestia": 40,
+    "comida_deja": 24,
+    "reaparece_turnos": 2000
+   },
+   "de": "mundo.py _g_turno (matar)"
+  }
+ ]
+}

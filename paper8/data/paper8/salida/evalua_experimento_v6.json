@@ -1,0 +1,1092 @@
+{
+ "modo": "experimento",
+ "predicciones": {
+  "P1|RG69rvoz": {
+   "pred": "P1",
+   "quien": "RG69r+voz",
+   "cumple": true,
+   "margen": 0.8174603174603176,
+   "cerca": false,
+   "cuenta": true,
+   "texto": "Vivas RG69r+voz − tonto: sequia +2.67 [+2.40, +2.98]; sequia_dura +2.67 [+2.27, +3.08]; bestias_crian +3.15 [+2.58, +3.73]."
+  },
+  "P2|RG69rvoz": {
+   "pred": "P2",
+   "quien": "RG69r+voz",
+   "cumple": true,
+   "margen": 0.06666666666666667,
+   "cerca": true,
+   "cuenta": true,
+   "texto": "Vivas: abundancia 8.00; normal 8.00. (Declarado: en el normal, RG69r+voz − tonto = +0.00 [+0.00, +0.00].)"
+  },
+  "P3|RG69rvoz": {
+   "pred": "P3",
+   "quien": "RG69r+voz",
+   "cumple": true,
+   "margen": null,
+   "cerca": false,
+   "cuenta": true,
+   "texto": "Muertes por golpe: en las partidas de RG69r+voz, 0; en todas las leídas (1200), 0."
+  },
+  "P4|RG69rvoz": {
+   "pred": "P4",
+   "quien": "RG69r+voz",
+   "cumple": true,
+   "margen": 0.2431008195217023,
+   "cerca": false,
+   "cuenta": true,
+   "texto": "Con la bestia a la vista, con otra pegada (los cinco mundos): RG69r+voz 30.8 %, tonto 8.3 % (×3.7)."
+  },
+  "P5|RG69rvoz": {
+   "pred": "P5",
+   "quien": "RG69r+voz",
+   "cumple": true,
+   "margen": 6.3,
+   "cerca": false,
+   "cuenta": true,
+   "texto": "Echadas por partida en bestias que crían: 7.30."
+  },
+  "P6|RG69rvoz": {
+   "pred": "P6",
+   "quien": "RG69r+voz",
+   "cumple": true,
+   "margen": 12.245901639344263,
+   "cerca": false,
+   "cuenta": true,
+   "texto": "Comida dada a la hermana · a cada vecina: abundancia 323 · 4.2; normal 285 · 7.2; sequia 590 · 23.8; sequia_dura 404 · 30.5; bestias_crian 657 · 25.2."
+  },
+  "P7|RG69rvoz": {
+   "pred": "P7",
+   "quien": "RG69r+voz",
+   "cumple": true,
+   "margen": 5.9179497174040145,
+   "cerca": false,
+   "cuenta": true,
+   "texto": "Parte de lo dado a quien estaba flaca: abundancia 6 %; normal 28 %; sequia 42 %; sequia_dura 51 %; bestias_crian 50 %."
+  },
+  "P8|RG69rvoz": {
+   "pred": "P8",
+   "quien": "RG69r+voz",
+   "cumple": true,
+   "margen": 0.8019105555819591,
+   "cerca": false,
+   "cuenta": true,
+   "texto": "Pegada a una vecina, 5 días después − 5 antes de perder a la hermana: +0.15 [+0.12, +0.18] (n=137 criaturas)."
+  },
+  "P9|RG69rvoz": {
+   "pred": "P9",
+   "quien": "RG69r+voz",
+   "cumple": true,
+   "margen": 0.5575743620873714,
+   "cerca": false,
+   "cuenta": true,
+   "texto": "La primera vez que se duerme cada noche, dentro de su casa: abundancia 97 %; normal 95 %; sequia 93 %; sequia_dura 86 %; bestias_crian 91 %. En una puerta: 55 (55 agotada, **0 sin estar agotada**)."
+  },
+  "P12|RG69rvoz": {
+   "pred": "P12",
+   "quien": "RG69r+voz",
+   "cumple": true,
+   "margen": 0.8299840510366826,
+   "cerca": false,
+   "cuenta": true,
+   "texto": "Fruta del árbol cogida: RG69r+voz 2.6 %, recolector 27.0 %."
+  },
+  "P13|RG69rvoz": {
+   "pred": "P13",
+   "quien": "RG69r+voz",
+   "cumple": true,
+   "margen": 1.0,
+   "cerca": false,
+   "cuenta": true,
+   "texto": "Partidas con algún «dar la última comida» con hambre > 60: 0 de 200 (el límite, 2 de cada 100: 4.0)."
+  },
+  "P16|RG69rvoz": {
+   "pred": "P16",
+   "quien": "RG69r+voz",
+   "cumple": true,
+   "margen": 0.4839601769911504,
+   "cerca": false,
+   "cuenta": true,
+   "texto": "Empujones a otras por partida, RG69r+voz · RG068r: abundancia 67 · 45 (×1.5); normal 120 · 62 (×1.9); sequia 108 · 60 (×1.8); sequia_dura 73 · 40 (×1.8); bestias_crian 131 · 61 (×2.1)."
+  },
+  "P17|RG69rvoz": {
+   "pred": "P17",
+   "quien": "RG69r+voz",
+   "cumple": true,
+   "margen": 0.75,
+   "cerca": false,
+   "cuenta": true,
+   "texto": "Partidas con alguna racha de ida y vuelta de más de 10: 1 de 200 (el límite, 4 de cada 200: 4.0); la racha más larga: 15."
+  },
+  "P18|RG69rvoz": {
+   "pred": "P18",
+   "quien": "RG69r+voz",
+   "cumple": true,
+   "margen": 0.8840901612372492,
+   "cerca": false,
+   "cuenta": true,
+   "texto": "Despertares por voz por criatura y noche: abundancia 0.02; normal 0.04; sequia 0.06; sequia_dura 0.07; bestias_crian 0.12."
+  },
+  "P1|RG69r": {
+   "pred": "P1",
+   "quien": "RG69r",
+   "cumple": true,
+   "margen": 0.8333333333333334,
+   "cerca": false,
+   "cuenta": false,
+   "texto": "Vivas RG69r − tonto: sequia +2.60 [+2.33, +2.88]; sequia_dura +2.42 [+2.05, +2.80]; bestias_crian +3.00 [+2.50, +3.52]."
+  },
+  "P2|RG69r": {
+   "pred": "P2",
+   "quien": "RG69r",
+   "cumple": true,
+   "margen": 0.05666666666666664,
+   "cerca": true,
+   "cuenta": false,
+   "texto": "Vivas: abundancia 7.92; normal 7.92. (Declarado: en el normal, RG69r − tonto = -0.07 [-0.15, +0.00].)"
+  },
+  "P3|RG69r": {
+   "pred": "P3",
+   "quien": "RG69r",
+   "cumple": true,
+   "margen": null,
+   "cerca": false,
+   "cuenta": false,
+   "texto": "Muertes por golpe: en las partidas de RG69r, 0; en todas las leídas (1200), 0."
+  },
+  "P4|RG69r": {
+   "pred": "P4",
+   "quien": "RG69r",
+   "cumple": true,
+   "margen": 0.3036129302681328,
+   "cerca": false,
+   "cuenta": false,
+   "texto": "Con la bestia a la vista, con otra pegada (los cinco mundos): RG69r 32.3 %, tonto 8.3 % (×3.9)."
+  },
+  "P5|RG69r": {
+   "pred": "P5",
+   "quien": "RG69r",
+   "cumple": true,
+   "margen": 5.225,
+   "cerca": false,
+   "cuenta": false,
+   "texto": "Echadas por partida en bestias que crían: 6.22."
+  },
+  "P6|RG69r": {
+   "pred": "P6",
+   "quien": "RG69r",
+   "cumple": true,
+   "margen": 10.023923444976077,
+   "cerca": false,
+   "cuenta": false,
+   "texto": "Comida dada a la hermana · a cada vecina: abundancia 238 · 6.2; normal 282 · 14.2; sequia 467 · 29.7; sequia_dura 384 · 34.8; bestias_crian 528 · 45.8."
+  },
+  "P7|RG69r": {
+   "pred": "P7",
+   "quien": "RG69r",
+   "cumple": true,
+   "margen": 6.209302325581396,
+   "cerca": false,
+   "cuenta": false,
+   "texto": "Parte de lo dado a quien estaba flaca: abundancia 8 %; normal 35 %; sequia 58 %; sequia_dura 60 %; bestias_crian 62 %."
+  },
+  "P8|RG69r": {
+   "pred": "P8",
+   "quien": "RG69r",
+   "cumple": true,
+   "margen": 0.7624671928413528,
+   "cerca": false,
+   "cuenta": false,
+   "texto": "Pegada a una vecina, 5 días después − 5 antes de perder a la hermana: +0.11 [+0.09, +0.14] (n=155 criaturas)."
+  },
+  "P9|RG69r": {
+   "pred": "P9",
+   "quien": "RG69r",
+   "cumple": true,
+   "margen": 0.28553318579317155,
+   "cerca": false,
+   "cuenta": false,
+   "texto": "La primera vez que se duerme cada noche, dentro de su casa: abundancia 81 %; normal 80 %; sequia 78 %; sequia_dura 71 %; bestias_crian 75 %. En una puerta: 42 (42 agotada, **0 sin estar agotada**)."
+  },
+  "P12|RG69r": {
+   "pred": "P12",
+   "quien": "RG69r",
+   "cumple": true,
+   "margen": 0.7850079744816587,
+   "cerca": false,
+   "cuenta": false,
+   "texto": "Fruta del árbol cogida: RG69r 3.2 %, recolector 27.0 %."
+  },
+  "P13|RG69r": {
+   "pred": "P13",
+   "quien": "RG69r",
+   "cumple": true,
+   "margen": 1.0,
+   "cerca": false,
+   "cuenta": false,
+   "texto": "Partidas con algún «dar la última comida» con hambre > 60: 0 de 200 (el límite, 2 de cada 100: 4.0)."
+  },
+  "P16|RG69r": {
+   "pred": "P16",
+   "quien": "RG69r",
+   "cumple": true,
+   "margen": 0.8467920353982299,
+   "cerca": false,
+   "cuenta": false,
+   "texto": "Empujones a otras por partida, RG69r · RG068r: abundancia 83 · 45 (×1.8); normal 128 · 62 (×2.1); sequia 125 · 60 (×2.1); sequia_dura 86 · 40 (×2.2); bestias_crian 139 · 61 (×2.3)."
+  },
+  "P17|RG69r": {
+   "pred": "P17",
+   "quien": "RG69r",
+   "cumple": true,
+   "margen": 1.0,
+   "cerca": false,
+   "cuenta": false,
+   "texto": "Partidas con alguna racha de ida y vuelta de más de 10: 0 de 200 (el límite, 4 de cada 200: 4.0); la racha más larga: 5."
+  },
+  "P18|RG69r": {
+   "pred": "P18",
+   "quien": "RG69r",
+   "cumple": true,
+   "margen": 0.8560396205825569,
+   "cerca": false,
+   "cuenta": false,
+   "texto": "Despertares por voz por criatura y noche: abundancia 0.10; normal 0.08; sequia 0.10; sequia_dura 0.08; bestias_crian 0.14."
+  },
+  "P1|RG68r": {
+   "pred": "P1",
+   "quien": "RG68r",
+   "cumple": true,
+   "margen": 0.7927927927927929,
+   "cerca": false,
+   "cuenta": false,
+   "texto": "Vivas RG68r − tonto: sequia +2.33 [+2.02, +2.62]; sequia_dura +2.48 [+2.10, +2.85]; bestias_crian +2.77 [+2.20, +3.33]."
+  },
+  "P2|RG68r": {
+   "pred": "P2",
+   "quien": "RG68r",
+   "cumple": true,
+   "margen": 0.05666666666666664,
+   "cerca": true,
+   "cuenta": false,
+   "texto": "Vivas: abundancia 8.00; normal 7.92. (Declarado: en el normal, RG68r − tonto = -0.07 [-0.15, +0.00].)"
+  },
+  "P3|RG68r": {
+   "pred": "P3",
+   "quien": "RG68r",
+   "cumple": true,
+   "margen": null,
+   "cerca": false,
+   "cuenta": false,
+   "texto": "Muertes por golpe: en las partidas de RG68r, 0; en todas las leídas (1200), 0."
+  },
+  "P4|RG68r": {
+   "pred": "P4",
+   "quien": "RG68r",
+   "cumple": true,
+   "margen": 0.347150169434399,
+   "cerca": false,
+   "cuenta": false,
+   "texto": "Con la bestia a la vista, con otra pegada (los cinco mundos): RG68r 33.4 %, tonto 8.3 % (×4.0)."
+  },
+  "P5|RG68r": {
+   "pred": "P5",
+   "quien": "RG68r",
+   "cumple": true,
+   "margen": 4.075,
+   "cerca": false,
+   "cuenta": false,
+   "texto": "Echadas por partida en bestias que crían: 5.08."
+  },
+  "P6|RG68r": {
+   "pred": "P6",
+   "quien": "RG68r",
+   "cumple": true,
+   "margen": 8.497326203208555,
+   "cerca": false,
+   "cuenta": false,
+   "texto": "Comida dada a la hermana · a cada vecina: abundancia 286 · 14.3; normal 526 · 49.7; sequia 650 · 55.0; sequia_dura 592 · 62.3; bestias_crian 879 · 81.7."
+  },
+  "P7|RG68r": {
+   "pred": "P7",
+   "quien": "RG68r",
+   "cumple": true,
+   "margen": 1.4411149825783973,
+   "cerca": false,
+   "cuenta": false,
+   "texto": "Parte de lo dado a quien estaba flaca: abundancia 33 %; normal 73 %; sequia 81 %; sequia_dura 81 %; bestias_crian 81 %."
+  },
+  "P8|RG68r": {
+   "pred": "P8",
+   "quien": "RG68r",
+   "cumple": true,
+   "margen": 0.7692769640963463,
+   "cerca": false,
+   "cuenta": false,
+   "texto": "Pegada a una vecina, 5 días después − 5 antes de perder a la hermana: +0.12 [+0.09, +0.14] (n=162 criaturas)."
+  },
+  "P9|RG68r": {
+   "pred": "P9",
+   "quien": "RG68r",
+   "cumple": true,
+   "margen": 0.3553205135173326,
+   "cerca": false,
+   "cuenta": false,
+   "texto": "La primera vez que se duerme cada noche, dentro de su casa: abundancia 83 %; normal 81 %; sequia 81 %; sequia_dura 75 %; bestias_crian 77 %. En una puerta: 35 (35 agotada, **0 sin estar agotada**)."
+  },
+  "P12|RG68r": {
+   "pred": "P12",
+   "quien": "RG68r",
+   "cumple": true,
+   "margen": 0.7521531100478468,
+   "cerca": false,
+   "cuenta": false,
+   "texto": "Fruta del árbol cogida: RG68r 3.7 %, recolector 27.0 %."
+  },
+  "P13|RG68r": {
+   "pred": "P13",
+   "quien": "RG68r",
+   "cumple": true,
+   "margen": 0.25,
+   "cerca": false,
+   "cuenta": false,
+   "texto": "Partidas con algún «dar la última comida» con hambre > 60: 3 de 200 (el límite, 2 de cada 100: 4.0)."
+  },
+  "P16|RG68r": {
+   "pred": "P16",
+   "quien": "RG68r",
+   "cumple": true,
+   "margen": 0.8324115044247787,
+   "cerca": false,
+   "cuenta": false,
+   "texto": "Empujones a otras por partida, RG68r · RG068r: abundancia 83 · 45 (×1.8); normal 149 · 62 (×2.4); sequia 137 · 60 (×2.3); sequia_dura 94 · 40 (×2.4); bestias_crian 163 · 61 (×2.7)."
+  },
+  "P17|RG68r": {
+   "pred": "P17",
+   "quien": "RG68r",
+   "cumple": true,
+   "margen": 0.75,
+   "cerca": false,
+   "cuenta": false,
+   "texto": "Partidas con alguna racha de ida y vuelta de más de 10: 1 de 200 (el límite, 4 de cada 200: 4.0); la racha más larga: 30."
+  },
+  "P18|RG68r": {
+   "pred": "P18",
+   "quien": "RG68r",
+   "cumple": true,
+   "margen": 0.884421265141319,
+   "cerca": false,
+   "cuenta": false,
+   "texto": "Despertares por voz por criatura y noche: abundancia 0.07; normal 0.08; sequia 0.06; sequia_dura 0.06; bestias_crian 0.12."
+  },
+  "P10|": {
+   "pred": "P10",
+   "quien": "",
+   "cumple": true,
+   "margen": 2.2222222222222223,
+   "cerca": false,
+   "cuenta": true,
+   "texto": "Vivas RG068r − RG68r: sequia +0.23 [-0.05, +0.50]; sequia_dura +0.10 [-0.28, +0.50]."
+  },
+  "P24|RG69r": {
+   "pred": "P24",
+   "quien": "RG69r",
+   "cumple": true,
+   "margen": 0.7650865332975395,
+   "cerca": false,
+   "cuenta": true,
+   "texto": "Sequía y sequía dura, días 0 a 9, turnos al día despierta con hambre > 30 y comida en la bolsa: RG69r 3.75, RG68r 31.97 (cociente 0.117; hace falta 0,5 o menos)."
+  },
+  "P25|RG69r": {
+   "pred": "P25",
+   "quien": "RG69r",
+   "cumple": false,
+   "margen": -8.0,
+   "cerca": false,
+   "cuenta": true,
+   "texto": "Sequía dura, vivas RG69r − RG68r: -0.05 [-0.40, +0.28]."
+  },
+  "P26|RG69r": {
+   "pred": "P26",
+   "quien": "RG69r",
+   "cumple": true,
+   "margen": 0.0,
+   "cerca": true,
+   "cuenta": true,
+   "texto": "RG69r frente a RG68r, por mundo (vivas; felicidad de la aldea, media; empujones, cociente): abundancia -0.07 [-0.17, +0.00]; -0.004; ×1.01; normal +0.00 [-0.12, +0.12]; +0.024; ×0.86; sequia +0.28 [+0.05, +0.50]; +0.009; ×0.92; sequia_dura -0.05 [-0.40, +0.28]; +0.008; ×0.92; bestias_crian +0.23 [-0.23, +0.68]; +0.034; ×0.85."
+  },
+  "P27|RG69r": {
+   "pred": "P27",
+   "quien": "RG69r",
+   "cumple": true,
+   "margen": 0.23030303030303034,
+   "cerca": false,
+   "cuenta": true,
+   "texto": "Sequía dura, vivas al empezar el día 10 con la bolsa y la despensa vacías, por partida: RG69r 5.08, RG68r 4.12."
+  },
+  "P28|RG69rvoz": {
+   "pred": "P28",
+   "quien": "RG69r+voz",
+   "cumple": true,
+   "margen": 0.5643388627210049,
+   "cerca": false,
+   "cuenta": true,
+   "texto": "Sequía y sequía dura, días 0 a 9, noches dormidas fuera: RG69r+voz 7.0 %, RG69r 24.2 % (cociente 0.290; hace falta 0,667 o menos)."
+  },
+  "P29|RG69rvoz": {
+   "pred": "P29",
+   "quien": "RG69r+voz",
+   "cumple": true,
+   "margen": 0.8135424761124935,
+   "cerca": false,
+   "cuenta": true,
+   "texto": "La medida de P24 en RG69r+voz: 2.98, RG68r 31.97 (cociente 0.093; hace falta 0,5 o menos)."
+  },
+  "P30|RG69rvoz": {
+   "pred": "P30",
+   "quien": "RG69r+voz",
+   "cumple": true,
+   "margen": 0.24488401366660675,
+   "cerca": false,
+   "cuenta": true,
+   "texto": "RG69r+voz frente a RG69r, por mundo (vivas; felicidad de la aldea, media; empujones, cociente): abundancia +0.07 [+0.00, +0.17]; +0.031; ×0.80; normal +0.07 [+0.00, +0.15]; +0.028; ×0.94; sequia +0.07 [-0.10, +0.25]; +0.036; ×0.86; sequia_dura +0.25 [-0.12, +0.62]; +0.031; ×0.84; bestias_crian +0.15 [-0.28, +0.60]; +0.014; ×0.94."
+  },
+  "P31|RG69rvoz": {
+   "pred": "P31",
+   "quien": "RG69r+voz",
+   "cumple": false,
+   "margen": -1.125,
+   "cerca": false,
+   "cuenta": true,
+   "texto": "Sequía dura, vivas RG69r+voz − RG68r: +0.20 [-0.23, +0.62]."
+  }
+ },
+ "M9": {
+  "media": 0.19753886155035194,
+  "lo": 0.17196081606349367,
+  "hi": 0.22398585663773707,
+  "n_partidas": 200,
+  "n_decisiones": 10000,
+  "coinc_Q4": 0.8064774090363854,
+  "coinc_Q1": 0.6089385474860335
+ },
+ "M9_sin_ir": {
+  "media": 0.2858980079681276,
+  "lo": 0.259845663068347,
+  "hi": 0.31222249424479975,
+  "n_partidas": 200,
+  "n_decisiones": 10000,
+  "coinc_Q4": 0.8604,
+  "coinc_Q1": 0.5745019920318725
+ },
+ "M9_sin_dar": {
+  "media": -0.026294424986803788,
+  "lo": -0.048776091067536664,
+  "hi": -0.0032262617867448995,
+  "n_partidas": 200,
+  "n_decisiones": 8166,
+  "coinc_Q4": 0.8491361146228403,
+  "coinc_Q1": 0.8754305396096441
+ },
+ "M11": {
+  "RG68r|abundancia": {
+   "h10": 7.243653125,
+   "h30": 6.73305,
+   "mh10": 0.0,
+   "mh30": 0.0,
+   "v10": 0.15,
+   "v30": 0.05
+  },
+  "RG068r|abundancia": {
+   "h10": -0.65165,
+   "h30": 0.3540901785714286,
+   "mh10": 0.025,
+   "mh30": 0.0,
+   "v10": 0.525,
+   "v30": 0.4
+  },
+  "RG69r|abundancia": {
+   "h10": 1.1668299107142857,
+   "h30": 2.187483482142857,
+   "mh10": 0.0,
+   "mh30": 0.0,
+   "v10": 0.45,
+   "v30": 0.25
+  },
+  "RG69rvoz|abundancia": {
+   "h10": -2.1414750000000002,
+   "h30": -1.342103125,
+   "mh10": 0.0,
+   "mh30": 0.0,
+   "v10": 0.35,
+   "v30": 0.1
+  },
+  "RG68r|normal": {
+   "h10": 20.52765625,
+   "h30": 18.580828571428572,
+   "mh10": 0.0,
+   "mh30": 0.0,
+   "v10": 0.725,
+   "v30": 0.75
+  },
+  "RG068r|normal": {
+   "h10": 4.293676339285715,
+   "h30": 3.808951785714286,
+   "mh10": 0.05,
+   "mh30": 0.0,
+   "v10": 1.325,
+   "v30": 1.425
+  },
+  "RG69r|normal": {
+   "h10": 5.492319196428571,
+   "h30": 2.4451714285714283,
+   "mh10": 0.0,
+   "mh30": 0.0,
+   "v10": 1.475,
+   "v30": 1.1
+  },
+  "RG69rvoz|normal": {
+   "h10": 2.0623468750000002,
+   "h30": 0.922765625,
+   "mh10": 0.0,
+   "mh30": 0.0,
+   "v10": 1.525,
+   "v30": 1.175
+  },
+  "RG68r|sequia": {
+   "h10": 19.041903124999997,
+   "h30": 16.741839583333334,
+   "mh10": 0.225,
+   "mh30": 0.05,
+   "v10": 0.925,
+   "v30": 0.5
+  },
+  "RG068r|sequia": {
+   "h10": 5.737228125,
+   "h30": 5.0308875,
+   "mh10": 0.1,
+   "mh30": 0.025,
+   "v10": 1.625,
+   "v30": 1.35
+  },
+  "RG69r|sequia": {
+   "h10": 5.242365178571428,
+   "h30": 5.125417857142858,
+   "mh10": 0.025,
+   "mh30": 0.1,
+   "v10": 1.425,
+   "v30": 1.325
+  },
+  "RG69rvoz|sequia": {
+   "h10": 1.8278044642857143,
+   "h30": -0.7678785714285714,
+   "mh10": 0.0,
+   "mh30": 0.05,
+   "v10": 1.05,
+   "v30": 0.775
+  },
+  "RG68r|sequia_dura": {
+   "h10": 54.33962797619048,
+   "h30": 28.549900833333332,
+   "mh10": 3.15,
+   "mh30": 0.05,
+   "v10": 4.125,
+   "v30": 0.675
+  },
+  "RG068r|sequia_dura": {
+   "h10": 27.923761160714285,
+   "h30": 12.783391845238096,
+   "mh10": 2.7,
+   "mh30": 0.175,
+   "v10": 5.025,
+   "v30": 1.975
+  },
+  "RG69r|sequia_dura": {
+   "h10": 31.443642857142855,
+   "h30": 6.711719583333334,
+   "mh10": 2.875,
+   "mh30": 0.075,
+   "v10": 5.075,
+   "v30": 0.95
+  },
+  "RG69rvoz|sequia_dura": {
+   "h10": 24.585708928571428,
+   "h30": 4.065926666666667,
+   "mh10": 3.025,
+   "mh30": 0.025,
+   "v10": 5.175,
+   "v30": 1.1
+  },
+  "RG68r|bestias_crian": {
+   "h10": 30.948941964285712,
+   "h30": 37.82085488095238,
+   "mh10": 0.075,
+   "mh30": 0.1,
+   "v10": 1.625,
+   "v30": 2.325
+  },
+  "RG068r|bestias_crian": {
+   "h10": 12.739162053571429,
+   "h30": 19.66132485119048,
+   "mh10": 0.025,
+   "mh30": 0.1,
+   "v10": 2.95,
+   "v30": 3.7
+  },
+  "RG69r|bestias_crian": {
+   "h10": 10.229828125000001,
+   "h30": 16.41111488095238,
+   "mh10": 0.025,
+   "mh30": 0.0,
+   "v10": 2.25,
+   "v30": 3.2
+  },
+  "RG69rvoz|bestias_crian": {
+   "h10": 6.464883035714285,
+   "h30": 16.33867532738095,
+   "mh10": 0.0,
+   "mh30": 0.05,
+   "v10": 2.5,
+   "v30": 3.65
+  }
+ },
+ "M12": {
+  "abundancia": {
+   "voces": 384.175,
+   "devueltas": 165.075,
+   "dos_en_casa": 241.65,
+   "ya_era": 197.225,
+   "decisiones_oyendo": 12003.9,
+   "cambio": 757.275,
+   "n_cd": 320.0
+  },
+  "normal": {
+   "voces": 363.475,
+   "devueltas": 131.575,
+   "dos_en_casa": 210.65,
+   "ya_era": 174.675,
+   "decisiones_oyendo": 10515.05,
+   "cambio": 917.25,
+   "n_cd": 320.0
+  },
+  "sequia": {
+   "voces": 361.225,
+   "devueltas": 132.6,
+   "dos_en_casa": 201.15,
+   "ya_era": 171.5,
+   "decisiones_oyendo": 10264.8,
+   "cambio": 990.75,
+   "n_cd": 316.925
+  },
+  "sequia_dura": {
+   "voces": 184.95,
+   "devueltas": 54.6,
+   "dos_en_casa": 90.725,
+   "ya_era": 78.125,
+   "decisiones_oyendo": 4977.575,
+   "cambio": 709.575,
+   "n_cd": 222.425
+  },
+  "bestias_crian": {
+   "voces": 316.15,
+   "devueltas": 103.8,
+   "dos_en_casa": 167.05,
+   "ya_era": 145.825,
+   "decisiones_oyendo": 8634.1,
+   "cambio": 1040.675,
+   "n_cd": 303.9
+  }
+ },
+ "M13": {
+  "RG68r|abundancia": {
+   "quitada": 0.20603496897913143,
+   "frio": 34.129765625
+  },
+  "RG068r|abundancia": {
+   "quitada": 0.14437724014336917,
+   "frio": 10.289456335616439
+  },
+  "RG69r|abundancia": {
+   "quitada": 0.20658598367576697,
+   "frio": 37.4529857247888
+  },
+  "RG69rvoz|abundancia": {
+   "quitada": 0.16448009166427957,
+   "frio": 6.24640625
+  },
+  "RG68r|normal": {
+   "quitada": 0.24453049370764762,
+   "frio": 38.7379458852795
+  },
+  "RG068r|normal": {
+   "quitada": 0.17790449931069055,
+   "frio": 14.221448607758187
+  },
+  "RG69r|normal": {
+   "quitada": 0.24329857334783442,
+   "frio": 40.83116832582264
+  },
+  "RG69rvoz|normal": {
+   "quitada": 0.21735494661006047,
+   "frio": 11.94484375
+  },
+  "RG68r|sequia": {
+   "quitada": 0.23001004668754801,
+   "frio": 39.11288303763359
+  },
+  "RG068r|sequia": {
+   "quitada": 0.1646886875182695,
+   "frio": 15.95381994767186
+  },
+  "RG69r|sequia": {
+   "quitada": 0.21805752003771806,
+   "frio": 43.951968661567705
+  },
+  "RG69rvoz|sequia": {
+   "quitada": 0.1713651631477927,
+   "frio": 14.457917457470035
+  },
+  "RG68r|sequia_dura": {
+   "quitada": 0.2705054753789252,
+   "frio": 49.11095021050937
+  },
+  "RG068r|sequia_dura": {
+   "quitada": 0.18494870507209987,
+   "frio": 24.70981483590519
+  },
+  "RG69r|sequia_dura": {
+   "quitada": 0.2556638944651563,
+   "frio": 54.81188682208525
+  },
+  "RG69rvoz|sequia_dura": {
+   "quitada": 0.20064205457463885,
+   "frio": 28.2637077669245
+  },
+  "RG68r|bestias_crian": {
+   "quitada": 0.3207408888000533,
+   "frio": 43.688210739089335
+  },
+  "RG068r|bestias_crian": {
+   "quitada": 0.2359199414854711,
+   "frio": 18.269219398536038
+  },
+  "RG69r|bestias_crian": {
+   "quitada": 0.2843189724377843,
+   "frio": 47.36414284932216
+  },
+  "RG69rvoz|bestias_crian": {
+   "quitada": 0.27149078726968173,
+   "frio": 19.326732518717563
+  }
+ },
+ "M14": {
+  "RG68r|abundancia": {
+   "partidas": 40,
+   "hambre|abundancia": 0,
+   "hambre|normal": 0,
+   "hambre|escasez": 0,
+   "bestia|abundancia": 0,
+   "bestia|normal": 0,
+   "bestia|escasez": 0,
+   "frio|abundancia": 0,
+   "frio|normal": 0,
+   "frio|escasez": 0,
+   "otras|abundancia": 0,
+   "otras|normal": 0,
+   "otras|escasez": 0
+  },
+  "RG068r|abundancia": {
+   "partidas": 40,
+   "hambre|abundancia": 0,
+   "hambre|normal": 0,
+   "hambre|escasez": 1,
+   "bestia|abundancia": 0,
+   "bestia|normal": 0,
+   "bestia|escasez": 0,
+   "frio|abundancia": 0,
+   "frio|normal": 0,
+   "frio|escasez": 0,
+   "otras|abundancia": 0,
+   "otras|normal": 0,
+   "otras|escasez": 0
+  },
+  "RG69r|abundancia": {
+   "partidas": 40,
+   "hambre|abundancia": 0,
+   "hambre|normal": 0,
+   "hambre|escasez": 0,
+   "bestia|abundancia": 0,
+   "bestia|normal": 2,
+   "bestia|escasez": 1,
+   "frio|abundancia": 0,
+   "frio|normal": 0,
+   "frio|escasez": 0,
+   "otras|abundancia": 0,
+   "otras|normal": 0,
+   "otras|escasez": 0
+  },
+  "RG69rvoz|abundancia": {
+   "partidas": 40,
+   "hambre|abundancia": 0,
+   "hambre|normal": 0,
+   "hambre|escasez": 0,
+   "bestia|abundancia": 0,
+   "bestia|normal": 0,
+   "bestia|escasez": 0,
+   "frio|abundancia": 0,
+   "frio|normal": 0,
+   "frio|escasez": 0,
+   "otras|abundancia": 0,
+   "otras|normal": 0,
+   "otras|escasez": 0
+  },
+  "RG68r|normal": {
+   "partidas": 40,
+   "hambre|abundancia": 0,
+   "hambre|normal": 0,
+   "hambre|escasez": 0,
+   "bestia|abundancia": 1,
+   "bestia|normal": 2,
+   "bestia|escasez": 0,
+   "frio|abundancia": 0,
+   "frio|normal": 0,
+   "frio|escasez": 0,
+   "otras|abundancia": 0,
+   "otras|normal": 0,
+   "otras|escasez": 0
+  },
+  "RG068r|normal": {
+   "partidas": 40,
+   "hambre|abundancia": 0,
+   "hambre|normal": 4,
+   "hambre|escasez": 2,
+   "bestia|abundancia": 2,
+   "bestia|normal": 0,
+   "bestia|escasez": 1,
+   "frio|abundancia": 0,
+   "frio|normal": 0,
+   "frio|escasez": 0,
+   "otras|abundancia": 0,
+   "otras|normal": 0,
+   "otras|escasez": 0
+  },
+  "RG69r|normal": {
+   "partidas": 40,
+   "hambre|abundancia": 0,
+   "hambre|normal": 1,
+   "hambre|escasez": 0,
+   "bestia|abundancia": 1,
+   "bestia|normal": 0,
+   "bestia|escasez": 1,
+   "frio|abundancia": 0,
+   "frio|normal": 0,
+   "frio|escasez": 0,
+   "otras|abundancia": 0,
+   "otras|normal": 0,
+   "otras|escasez": 0
+  },
+  "RG69rvoz|normal": {
+   "partidas": 40,
+   "hambre|abundancia": 0,
+   "hambre|normal": 0,
+   "hambre|escasez": 0,
+   "bestia|abundancia": 0,
+   "bestia|normal": 0,
+   "bestia|escasez": 0,
+   "frio|abundancia": 0,
+   "frio|normal": 0,
+   "frio|escasez": 0,
+   "otras|abundancia": 0,
+   "otras|normal": 0,
+   "otras|escasez": 0
+  },
+  "RG68r|sequia": {
+   "partidas": 40,
+   "hambre|abundancia": 0,
+   "hambre|normal": 5,
+   "hambre|escasez": 11,
+   "bestia|abundancia": 0,
+   "bestia|normal": 5,
+   "bestia|escasez": 1,
+   "frio|abundancia": 0,
+   "frio|normal": 0,
+   "frio|escasez": 0,
+   "otras|abundancia": 0,
+   "otras|normal": 0,
+   "otras|escasez": 0
+  },
+  "RG068r|sequia": {
+   "partidas": 40,
+   "hambre|abundancia": 0,
+   "hambre|normal": 3,
+   "hambre|escasez": 5,
+   "bestia|abundancia": 0,
+   "bestia|normal": 0,
+   "bestia|escasez": 2,
+   "frio|abundancia": 0,
+   "frio|normal": 0,
+   "frio|escasez": 0,
+   "otras|abundancia": 0,
+   "otras|normal": 0,
+   "otras|escasez": 3
+  },
+  "RG69r|sequia": {
+   "partidas": 40,
+   "hambre|abundancia": 0,
+   "hambre|normal": 2,
+   "hambre|escasez": 5,
+   "bestia|abundancia": 0,
+   "bestia|normal": 3,
+   "bestia|escasez": 1,
+   "frio|abundancia": 0,
+   "frio|normal": 0,
+   "frio|escasez": 0,
+   "otras|abundancia": 0,
+   "otras|normal": 0,
+   "otras|escasez": 0
+  },
+  "RG69rvoz|sequia": {
+   "partidas": 40,
+   "hambre|abundancia": 0,
+   "hambre|normal": 1,
+   "hambre|escasez": 2,
+   "bestia|abundancia": 0,
+   "bestia|normal": 5,
+   "bestia|escasez": 0,
+   "frio|abundancia": 0,
+   "frio|normal": 0,
+   "frio|escasez": 0,
+   "otras|abundancia": 0,
+   "otras|normal": 0,
+   "otras|escasez": 0
+  },
+  "RG68r|sequia_dura": {
+   "partidas": 40,
+   "hambre|abundancia": 0,
+   "hambre|normal": 16,
+   "hambre|escasez": 128,
+   "bestia|abundancia": 0,
+   "bestia|normal": 2,
+   "bestia|escasez": 8,
+   "frio|abundancia": 0,
+   "frio|normal": 0,
+   "frio|escasez": 0,
+   "otras|abundancia": 0,
+   "otras|normal": 2,
+   "otras|escasez": 3
+  },
+  "RG068r|sequia_dura": {
+   "partidas": 40,
+   "hambre|abundancia": 1,
+   "hambre|normal": 22,
+   "hambre|escasez": 115,
+   "bestia|abundancia": 1,
+   "bestia|normal": 2,
+   "bestia|escasez": 9,
+   "frio|abundancia": 0,
+   "frio|normal": 0,
+   "frio|escasez": 0,
+   "otras|abundancia": 0,
+   "otras|normal": 1,
+   "otras|escasez": 4
+  },
+  "RG69r|sequia_dura": {
+   "partidas": 40,
+   "hambre|abundancia": 0,
+   "hambre|normal": 25,
+   "hambre|escasez": 118,
+   "bestia|abundancia": 1,
+   "bestia|normal": 2,
+   "bestia|escasez": 10,
+   "frio|abundancia": 0,
+   "frio|normal": 0,
+   "frio|escasez": 0,
+   "otras|abundancia": 0,
+   "otras|normal": 2,
+   "otras|escasez": 3
+  },
+  "RG69rvoz|sequia_dura": {
+   "partidas": 40,
+   "hambre|abundancia": 0,
+   "hambre|normal": 17,
+   "hambre|escasez": 122,
+   "bestia|abundancia": 2,
+   "bestia|normal": 3,
+   "bestia|escasez": 4,
+   "frio|abundancia": 0,
+   "frio|normal": 0,
+   "frio|escasez": 0,
+   "otras|abundancia": 0,
+   "otras|normal": 3,
+   "otras|escasez": 0
+  },
+  "RG68r|bestias_crian": {
+   "partidas": 40,
+   "hambre|abundancia": 9,
+   "hambre|normal": 10,
+   "hambre|escasez": 7,
+   "bestia|abundancia": 15,
+   "bestia|normal": 18,
+   "bestia|escasez": 10,
+   "frio|abundancia": 0,
+   "frio|normal": 0,
+   "frio|escasez": 0,
+   "otras|abundancia": 0,
+   "otras|normal": 0,
+   "otras|escasez": 0
+  },
+  "RG068r|bestias_crian": {
+   "partidas": 40,
+   "hambre|abundancia": 6,
+   "hambre|normal": 7,
+   "hambre|escasez": 5,
+   "bestia|abundancia": 10,
+   "bestia|normal": 22,
+   "bestia|escasez": 8,
+   "frio|abundancia": 0,
+   "frio|normal": 0,
+   "frio|escasez": 0,
+   "otras|abundancia": 1,
+   "otras|normal": 0,
+   "otras|escasez": 1
+  },
+  "RG69r|bestias_crian": {
+   "partidas": 40,
+   "hambre|abundancia": 2,
+   "hambre|normal": 2,
+   "hambre|escasez": 1,
+   "bestia|abundancia": 17,
+   "bestia|normal": 25,
+   "bestia|escasez": 13,
+   "frio|abundancia": 0,
+   "frio|normal": 0,
+   "frio|escasez": 0,
+   "otras|abundancia": 0,
+   "otras|normal": 0,
+   "otras|escasez": 0
+  },
+  "RG69rvoz|bestias_crian": {
+   "partidas": 40,
+   "hambre|abundancia": 2,
+   "hambre|normal": 6,
+   "hambre|escasez": 2,
+   "bestia|abundancia": 8,
+   "bestia|normal": 17,
+   "bestia|escasez": 17,
+   "frio|abundancia": 0,
+   "frio|normal": 0,
+   "frio|escasez": 0,
+   "otras|abundancia": 0,
+   "otras|normal": 0,
+   "otras|escasez": 2
+  }
+ },
+ "partidas": {
+  "tonto": 200,
+  "recolector": 200,
+  "RG68r": 200,
+  "RG068r": 200,
+  "RG69r": 200,
+  "RG69rvoz": 200
+ }
+}
